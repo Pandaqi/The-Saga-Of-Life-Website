@@ -1,0 +1,35 @@
+@use "modules/core";
+
+// actual stories / single articles
+// mostly styled in critical, as this is the most critical!
+.reader-container {
+
+    .reader {
+        p {
+            margin: 0;
+        }
+
+        p+p {
+            text-indent: 1.5em;
+        }
+
+        p:first-child:first-letter,
+        hr+p:first-letter {
+            @include core.drop-cap();
+            color: black; //#903;
+            font-size: 7.75em;
+            line-height: 0.86em;
+        }
+
+        hr {
+            margin-top: 5em;
+            margin-bottom: 0.5em;
+            border-top: 2px solid rgba(0, 0, 0, 0.2);
+        }
+
+        h2 {
+            margin-top: 2.5em;
+            margin-bottom: 0.33em;
+        }
+    }
+}

@@ -1,0 +1,160 @@
+@use "sass:map";
+@use "sass:list";
+@use "sass:color";
+
+@use "modules/globals" as g;
+
+$colorschemes: (
+    "black": ("col": rgb(56, 56, 56), "bg": rgb(237, 237, 237)),
+    "green": ("col": rgb(40, 47, 35), "bg": rgb(230, 255, 186), "contrast": -11%),
+    "lightblue": ("col": rgb(30, 41, 44), "bg": rgb(208, 241, 252)),
+    "orange": ("col": rgb(52, 42, 31), "bg": rgb(255, 213, 176)),
+    "purple": ("col": rgb(44, 34, 50), "bg":rgb(242, 212, 255)),
+    "yellow": ("col": rgb(46, 42, 25), "bg":rgb(255, 246, 181), "contrast": -10%),
+    "darkblue": ("col": rgb(37, 30, 52), "bg": rgb(234, 230, 255), "contrast": 6%, "summary_contrast": 20%),
+    "red": ("col": rgb(51, 23, 23), "bg": rgb(255, 200, 200)),
+    "pink": ("col": rgb(45, 27, 41), "bg":rgb(255, 217, 249)),
+    "space": ("col": rgb(216, 205, 255), "bg": rgb(14, 15, 78), "invert": true),
+);
+
+@mixin colorscheme($info: ()) {
+    background-color: map.get($info, "bg");
+    color: map.get($info, "col");
+
+    $is-inverted: map.get($info, "invert");
+    $contrast-val: map.get($info, "contrast");
+    $has-extra-contrast: map-has-key($info, "contrast");
+
+    /* this colors the REGULAR links */
+    // we need #site-footer .footer-copyright to win the specificity war
+    #site-header,
+    .section-metadata,
+    #site-footer .footer-copyright {
+        $base-color: color.scale(map.get($info, "col"), $lightness: 10%);
+        $hover-color: color.scale(map.get($info, "col"), $lightness: -30%);
+
+        @if $is-inverted {
+            $base-color: color.scale(map.get($info, "col"), $lightness: -10%);
+            $hover-color: color.scale(map.get($info, "col"), $lightness: 30%);
+        }
+
+        color: $base-color;
+
+        a {
+            color: $base-color;
+
+            &:hover {
+                color: $hover-color;
+            }
+        }
+    }
+
+    $all-buttons-selector: "button, input[type='submit'], .child-links-as-buttons a, .as-button";
+    $val-light: color.scale(map.get($info, "bg"), $lightness: -9%);
+    $val-dark: color.scale(map.get($info, "col"), $lightness: 5%);
+
+    @if $is-inverted {
+        $val-light: color.scale(map.get($info, "bg"), $lightness: 10%);
+        $val-dark: color.scale(map.get($info, "col"), $lightness: -5%);
+    }
+
+    /* this colors the button type links */
+    main {
+        #{$all-buttons-selector} {
+            $temp-val-light: $val-light;
+
+            @if $has-extra-contrast {
+                $temp-val-light: color.scale($temp-val-light, $lightness: $contrast-val);
+            }
+
+            background-color: $temp-val-light;
+            color: $val-dark;
+
+            &:hover {
+                background-color: $val-dark;
+                color: $val-light;
+            }
+        }
+    }
+
+    #site-header,
+    #site-footer {
+        #{$all-buttons-selector} {
+            $temp-val-light: $val-light;
+
+            @if $is-inverted {
+                $temp-val-light: color.scale($val-light, $lightness: 10%);
+            }
+
+            @else {
+                $temp-val-light: color.scale($val-light, $lightness: 25%);
+            }
+
+            @if $has-extra-contrast {
+                $temp-val-light: color.scale($temp-val-light, $lightness: (-$contrast-val));
+            }
+
+            background-color: $temp-val-light;
+            color: $val-dark;
+
+            &:hover {
+                background-color: $val-dark;
+                color: $val-light;
+            }
+        }
+    }
+
+    .reader {
+
+        p:first-child:first-letter,
+        hr+p:first-letter {
+            color: color.scale(map.get($info, "col"), $lightness: 20%);
+        }
+    }
+
+    #site-header,
+    #site-footer,
+    .transition-mask {
+        background-color: color.scale(map.get($info, "bg"), $lightness: -20%);
+    }
+
+    @if $is-inverted {
+        .story-icon {
+            filter: #{ "invert()" };
+        }
+
+        a:hover {
+            .story-icon:not(.inversion-disabled) {
+                filter: none;
+            }
+        }
+
+        // the OUTER border-image is only inverted if the WHOLE PAGE is inverted
+        .summary {
+            border-image-source: url(g.$border-image-url-inverted);
+        }
+
+        #site-header {
+            .righthand-buttons {
+                img {
+                    filter: #{ "invert()" };
+
+                    &:hover {
+                        filter: none;
+                    }
+                }
+            }
+        }
+    }
+
+}
+
+body {
+
+    @each $name,
+    $color in $colorschemes {
+        &.#{$name} {
+            @include colorscheme($color);
+        }
+    }
+}

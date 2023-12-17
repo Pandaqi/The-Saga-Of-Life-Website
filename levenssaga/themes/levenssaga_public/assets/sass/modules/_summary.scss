@@ -1,0 +1,124 @@
+@use "sass:map";
+@use "sass:list";
+@use "sass:color";
+
+@use "modules/globals" as g;
+@use "modules/colorschemes" as c;
+@use "modules/core";
+
+@mixin summary-colorscheme($info: ()) {
+    $summary-contrast-val: map.get($info, "summary_contrast");
+    $bg-color: color.scale(map.get($info, "bg"), $lightness: -20%);
+
+    @if map-has-key($info, "summary_contrast") {
+        $bg-color: color.scale($bg-color, $lightness: $summary-contrast-val);
+    }
+
+    background-color: $bg-color;
+
+    $is-inverted: map.get($info, "invert");
+
+    @if $is-inverted {
+        .story-icon {
+            filter: #{ "invert()" };
+        }
+
+        // the INNER border-image must be inverted with the summary block
+        &::before {
+            border-image-source: url(g.$border-image-inside-url-inverted);
+        }
+    }
+
+    &:hover {
+        background-color: color.scale(map.get($info, "bg"), $lightness: 40%, $saturation: 25%);
+    }
+
+    h1,
+    h2,
+    h3,
+    p,
+    aside {
+        color: map.get($info, "col");
+    }
+}
+
+// NOTE: don't put inside .summary, as this metadata isn't necessarily in there
+.section-metadata {
+    margin: 0;
+    font-weight: bold;
+    gap: 0.38em;
+    align-items: center;
+    align-content: center;
+}
+
+.summary-container, .pagefind-ui__results {
+    margin-bottom: 75px;
+
+    .summary, .pagefind-ui__result {
+        transition: background-color 0.3s, filter 0.3s;
+
+        // these are the waves that show on the OUTSIDE
+        border-style: solid;
+        border-image-source: url(g.$border-image-url);
+        border-image-slice: 32 32 32 32;
+        border-image-width: 10px;
+        border-image-outset: 11px; // not sure if I want the outset or not; it seems cleaner and doesn't mess with border-radius
+        border-image-repeat: round round;
+
+        position: relative;
+
+        // these are the HUGE amount of rules based on color scheme
+        @each $name, $color in c.$colorschemes {
+            &.#{$name} {
+                @include summary-colorscheme($color);
+            }
+        }
+
+        // these are the waves that show on the INSIDE
+        &::before {
+            content: " ";
+            position: absolute;
+            z-index: -1;
+            left: 0;
+            right: 0px;
+            bottom: 0;
+            top: 0;
+
+            border-style: solid;
+            border-image-source: url(g.$border-image-inside-url);
+            border-image-slice: 32 32 32 32;
+            border-image-width: 10px;
+            border-image-repeat: round round;
+        }
+
+        .summary-blurb {
+            $fade-gradient: linear-gradient(to top, transparent 10%, black 50%);
+
+            @media (max-width: g.$breakpoint-medium) {
+                max-height: 200px;
+                -webkit-mask-image: $fade-gradient;
+                mask-image: $fade-gradient;
+            }
+        }
+
+        .summary-blurb:first-letter {
+            @include core.drop-cap();
+            font-size: 3.5em;
+            line-height: 1.0em;
+            margin-bottom: -0.3em;
+            margin-right: 0.05em;
+        }
+
+        .summary-search-data {
+            font-style: italic;
+            font-size: 0.75em;
+        }
+
+        /* @TODO/@BUG: very ugly rule about exception for .space colorscheme; find better way? */
+        &:not(.pagefind-ui__result):not(.space):hover {
+            background-color: #FFFFFF;
+            filter: drop-shadow(0 0 5px black);
+        }
+    }
+
+}

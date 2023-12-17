@@ -1,0 +1,10 @@
+@use "sass:map";
+@use "sass:list";
+@use "sass:color";
+
+@use "modules/globals" as g;
+@use "critical_modules/core";
+@use "critical_modules/header-and-footer";
+@use "critical_modules/book-overview";
+@use "critical_modules/single";
+@use "critical_modules/summary";

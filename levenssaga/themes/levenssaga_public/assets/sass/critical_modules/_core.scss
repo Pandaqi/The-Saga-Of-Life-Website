@@ -1,0 +1,158 @@
+@use "modules/globals" as g;
+
+* {
+    box-sizing: border-box;
+}
+
+html,
+body {
+    margin: 0;
+    padding: 0;
+    font-size: g.$base-font-size;
+    line-height: g.$base-line-height;
+    font-family: "Georgia"#{g.$body-font-appendix};
+    background-color: #EEEEEE;
+    color: #444;
+}
+
+h1,
+h2,
+h3 {
+    line-height: 1.2em;
+}
+
+h1 {
+    font-size: 2.3em;
+    margin-top: 1.5em;
+    margin-bottom: 0.33em;
+}
+
+h2 {
+    font-size: 1.75em;
+    margin-top: 0.5em;
+}
+
+main {
+    padding: g.$default-padding;
+}
+
+a {
+    @include g.underline-link();
+
+    &.invisible-link {
+        visibility: hidden;
+    }
+
+    &.neutral-link {
+        all: unset;
+        box-sizing: border-box;
+        cursor: pointer;
+    }
+}
+
+button,
+input[type="submit"],
+.child-links-as-buttons a,
+.as-button {
+    @include g.general-btn();
+}
+
+:not(.reader)>ul {
+    @include g.remove-standard-list-type();
+}
+
+.block-center {
+    margin: auto;
+    max-width: g.$reader-max-width;
+}
+
+.center {
+    text-align: center;
+}
+
+// icons and images
+img {
+    width: 32px;
+    height: 32px;
+}
+
+.story-icon-small {
+    width: 32px;
+    height: 32px;
+}
+
+.story-icon-medium {
+    width: 64px;
+    height: 64px;
+}
+
+// overview, top welcome message, reusable metadata
+.welcome-message-container,
+div.homepage-transition-mask {
+    background-color: #9DE8BA;
+}
+
+.welcome-message-container {
+    padding: g.$default-padding;
+    padding-top: 3.5em; // to compensate for the loss due to transition mask; TO DO: might want to specify based on media queries/viewport width
+    margin-bottom: 1.0em;
+    position: relative;
+    z-index: 900;
+
+    .welcome-message {
+        display: flex;
+        gap: 1.0em;
+        justify-content: center;
+        align-items: center;
+        align-content: center;
+
+        margin: auto;
+        max-width: g.$main-max-width;
+
+        .favicon-logo img {
+            width: min(256px, 20vw);
+            height: min(256px, 20vw);
+
+            @media (max-width: g.$breakpoint-tiny) {
+                display: none;
+            }
+        }
+
+        .textual-logo {
+            text-align: center;
+
+            img {
+                width: 50%;
+                height: auto;
+            }
+
+            @media (max-width: g.$breakpoint-large) {
+                display: none;
+            }
+        }
+
+        .logo-and-text {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            align-items: center;
+            align-content: center;
+
+            p {
+                margin: 0;
+            }
+        }
+    }
+}
+
+.overview-message {
+    margin: auto;
+    margin-bottom: 1.0em;
+    max-width: g.$reader-max-width;
+    font-size: 1em;
+}
+
+.metadata-links {
+    margin: auto;
+    max-width: g.$reader-max-width;
+}

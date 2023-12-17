@@ -1,0 +1,8 @@
+{{ $book_section := partial "func/get-books-page.html" . }}
+{{ $all_stories := slice }}
+{{ range $book_section.Pages.Reverse }}
+  {{ range .Pages }}
+    {{ $all_stories = $all_stories | append . }}
+  {{ end }}
+{{ end }}
+{{ return $all_stories }}

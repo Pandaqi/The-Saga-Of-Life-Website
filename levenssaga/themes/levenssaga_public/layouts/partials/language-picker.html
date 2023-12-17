@@ -1,0 +1,28 @@
+<div id="language-picker" style="display:none;">
+    <div class="language-picker-flexbox">
+        <div class="language-picker-container">
+            <h3>{{ i18n "language-picker-heading" }}</h3>
+            <p>{{ i18n "language-picker-desc" }}</p>
+            <nav class="language-picker-navigation">
+                {{ $siteLanguages := .Site.Languages }}
+                {{ $pageLang := .Page.Lang }}
+                {{ range .Page.AllTranslations }}
+                    {{ $translation := . }}
+                    {{ range $siteLanguages }}
+                        {{ $lang_name := .LanguageName }}
+                        {{ $url := $translation.RelPermalink }}
+                        
+                        {{ if eq $translation.Lang .Lang }}
+                            {{ $cur_lang := eq $pageLang .Lang }}
+                            {{ $class := "" }}
+                            {{ if $cur_lang }}{{ $class = "active-language" }}{{ end }}
+                            {{ $link_text := $lang_name }}
+                            {{ if $cur_lang }}{{ $link_text = (printf "&Rarr; %s &Larr;" $lang_name) | safeHTML }}{{ end }}
+                            <a href="{{ $url }}" class="language-button {{ $class }}">{{ $link_text }}</a>
+                        {{ end }}
+                    {{ end }}
+                {{ end }}
+            </nav>
+        </div>
+    </div>
+</div>

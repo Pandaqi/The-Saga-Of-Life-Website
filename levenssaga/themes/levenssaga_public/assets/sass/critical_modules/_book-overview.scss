@@ -1,0 +1,19 @@
+.start-poem-container {
+    margin-bottom: 1.5em;
+
+    .start-poem {
+        font-style: italic;
+    }
+
+    p {
+        margin: 0;
+        text-align: center;
+    }
+}
+
+.book-heading {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}

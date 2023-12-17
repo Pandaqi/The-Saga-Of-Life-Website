@@ -1,0 +1,26 @@
+{{ $prev := .context.PrevInSection }}
+{{ $next := .context.NextInSection }}
+
+{{ $class := or .class "" }}
+{{ if eq .type "hoofdstuk" }}
+  {{ $class = add $class " within-reader-full-width" }}
+{{ end }}
+
+{{ $type := .type }}
+{{ $type_translated := i18n (printf "navigation-%s" $type) }}
+
+<!-- Next and Prev are switched, because Hugo sorts weight descending by default -->
+<nav class="article-navigation block-center child-links-as-buttons {{ $class }}">
+  {{ if $next }}
+    <a href="{{ $next.RelPermalink }}" class="prev" id="prev-chapter">{{ $next.Title }} &laquo;</a>
+  {{ else }}
+    <div class="prev-disabled">{{ i18n "no-prev-general" }} {{ $type_translated }} :( </div>
+  {{ end }}
+
+  {{ if $prev }}
+    <a href="{{ $prev.RelPermalink }}" class="next" id="next-chapter">&raquo; {{ $prev.Title }}</a>
+  {{ else }}
+    <div class="next-disabled">{{ i18n "no-next-general" }} {{ $type_translated }} :( </div>
+  {{ end }}
+</nav>
+

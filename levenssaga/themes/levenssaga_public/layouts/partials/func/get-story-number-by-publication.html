@@ -1,0 +1,8 @@
+{{ $all_stories := partialCached "func/get-flat-story-list.html" . }}
+{{ $id := 0 }}
+{{ $needle := .Title }}
+{{ range $all_stories.Reverse }}
+    {{ $id = add $id 1 }}
+    {{ if eq .Title $needle }}{{ break }}{{ end }}
+{{ end }}
+{{ return $id }}

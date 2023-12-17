@@ -1,0 +1,112 @@
+@use "modules/globals" as g;
+
+// these are bundled (header + footer) because they share a lot
+#site-header,
+#site-footer,
+.transition-mask {
+    background-color: rgb(240, 201, 146);
+}
+
+#font-menu {
+    display: none;
+}
+
+// TO DO (??): move to a fixed colorscheme instead of custom colors?
+header.homepage-header,
+div.homepage-header {
+    background-color: #358f58 !important;
+
+    .crumb-container {
+        a {
+            color: #d3ffe4;
+        }
+
+        img {
+            filter: #{ "invert()" };
+        }
+    }
+
+    button {
+        background-color: rgba(255, 255, 255, 0.9);
+
+        &:hover {
+            background-color: rgba(0, 0, 0, .8);
+        }
+    }
+}
+
+#site-header {
+    padding: g.$default-padding;
+    position: relative;
+
+    #site-header-navigation {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 0.5em;
+        padding-right: 7.25em; // to ensure we don't overlap with the righthand buttons
+
+        @media all and (max-width: g.$main-max-width)
+        {
+            padding-right: 0;
+        }
+
+        .crumb-container {
+            display: flex;
+            gap: 0.5em;
+            align-items: center;
+
+            a {
+                display: flex;
+                align-items: center;
+            }
+        }
+    }
+
+    .righthand-buttons {
+        position: absolute;
+
+        top: 1.4em;
+        right: 1.0em;
+
+        margin: 0;
+        margin-top: -0.25em;
+
+        display: flex;
+        gap: 0.5em;
+
+        @media all and (max-width: g.$main-max-width)
+        {
+            position: initial;
+            margin-top: -0.66em;
+            justify-content: center;
+
+            img {
+                width: 16px;
+                height: 16px;
+            }
+        }
+    }
+
+    button {
+        font-size: 1.0em;
+        width: auto;
+        line-height: 0.5em;
+        border-radius: 0.25em;
+
+        &:hover {
+            img {
+                filter: #{ "invert()" };
+            }
+        }
+    }
+}
+
+#site-footer {
+    .footer-container {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 1.0em;
+        max-width: g.$main-max-width;
+        margin: auto;
+    }
+}

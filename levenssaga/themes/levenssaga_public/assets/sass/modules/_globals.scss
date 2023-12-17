@@ -1,0 +1,79 @@
+$main-max-width: 920px;
+$reader-max-width: 600px;
+$default-padding: 1.5em;
+
+$summary-block-width: 600px;
+$summary-block-height: 400px;
+
+$breakpoint-tiny: 320px;
+$breakpoint-small: 480px;
+$breakpoint-medium: 620px;
+$breakpoint-large: 800px;
+
+$btn-nav-padding: 1.0em;
+$btn-link-padding: 0.5em;
+
+$base-font-size: 21px;
+$base-line-height: 1.6em;
+$font-menu-icon-size: 96px;
+$body-font-appendix: ", Georgia, serif";
+
+$border-image-url: "/oebps/marketing/border_decoration.webp";
+$border-image-inside-url: "/oebps/marketing/border_decoration_without_corners.webp";
+$border-image-url-inverted: "/oebps/marketing/border_decoration_inverted.webp";
+$border-image-inside-url-inverted: "/oebps/marketing/border_decoration_without_corners_inverted.webp";
+
+@mixin remove-standard-list-type()
+{
+  margin-left: 0;
+  padding: 0;
+  list-style-type: none;
+}
+
+@mixin general-btn()
+{
+  text-decoration: none;
+  display: block;
+  width: 100%;
+  padding: $btn-link-padding;
+  background-color: rgba(255, 255, 255, 0.5);
+  font-size: 0.86em;
+  border-radius: 0.5em;
+  color: #333;
+  cursor: pointer;
+  border: none;
+  margin-bottom: 0.5em;
+  text-align: left;
+
+  transition: color 0.3s, background-color 0.3s;
+
+  &:hover {
+    background-color: rgba(0,0,0,0.8);
+    color: #EEE;
+  }
+}
+
+@mixin underline-link()
+{
+  color: rgba(0,0,0,0.7);
+  transition: color 0.3s, filter 0.3s;
+  text-decoration: underline;
+  text-decoration-thickness: 3px;
+  cursor: pointer;
+
+  &:hover {
+    color: rgba(100,50,0,1.0);
+    background-color: transparent;
+  }
+}
+
+@mixin general-mask()
+{
+  mask-image: url(/oebps/marketing/test_mask.webp);
+  mask-size: contain;
+  -webkit-mask-image: url(/oebps/marketing/test_mask.webp);
+  -webkit-mask-size: contain;
+  margin-bottom: -0.5em;
+  height: 5.0em;
+  position: relative;
+}

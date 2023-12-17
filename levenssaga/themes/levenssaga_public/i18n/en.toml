@@ -1,0 +1,429 @@
+# GENERAL
+[site-name]
+    other = "The Saga of Life"
+
+[read-all]
+    other = "see all"
+
+[results]
+    other = "Results"
+
+[story]
+    one = "story"
+    other = "stories"
+
+[word]
+    one = "word"
+    other = "words"
+
+[sentence]
+    one = "sentence"
+    other = "sentences"
+
+[cycle]
+    one = "cycle"
+    other = "cycli"
+
+[timeperiod]
+    one = "time period"
+    other = "time periods"
+
+[genre]
+    one = "genre"
+    other = "genres"
+
+[bundle]
+    one = "bundle"
+    other = "bundles"
+
+[misc]
+    other = "miscellaneous"
+
+[character]
+    one = "character"
+    other = "characters"
+
+[prequel]
+    one = "prequel"
+    other = "prequels"
+
+[godlink]
+    one = "godlink"
+    other = "godlinks"
+
+[teaches]
+    other = "teaches"
+
+[refers]
+    other = "refers"
+
+[happens]
+    other = "happens"
+
+[data]
+    one = "date"
+    other = "dates"
+
+[statistic]
+    one = "statistic"
+    other = "statistics"
+
+[about]
+  other = "about"
+
+# HOMEPAGE
+[home-page-intro]
+    other = """Welcome to &ldquo;<em>The Saga of Life</em>&rdquo; (<a href="/en/about/">what's that?</a>). 
+    Start with the <a href="/en/oebps/books/the-creation-of-somnia/the-banished-siblings">first story</a>. 
+    Or read the latest stories below. 
+    Or <a href="#verhalen-zoeken">search a specific story</a>."""
+
+# BOOK OVERVIEW
+[front-page]
+    other = "front page"
+
+[start-reading]
+  other = "Start reading!"
+
+[continue-reading]
+  other = "Continue reading!"
+
+[chapter]
+  one = "chapter"
+  other = "chapters"
+
+[book-metadata]
+  other = "Info (spoilers!)"
+
+[book-summary]
+  other = "Summary / Outline"
+
+[book-notes]
+  other = "Notes / Backgound"
+
+[print-instruction]
+  other = "Click here to print the entire story (as one PDF)"
+
+[continue-reading-footer]
+    other = "Continue reading"
+
+[continue-reading-hint]
+    other = "The links below lead to the previous and next story, in order of publication."
+
+[book-godlink-explanation]
+    other = "(Each story has <em>something</em> or <em>someone</em> connected to the original gods that created this world.)"
+
+[book-readability-explanation]
+    other = "(Children at this grade level can easily read this story. An average of automatic readability tests.)"
+
+[book-prequel-explanation]
+    other = "(This story references events or names from the prequels. It's not required to read them first, but it can be useful.)"
+
+[readability]
+    other = "Readability"
+
+[book-locked]
+  other = "Purchase this story!"
+
+[book-locked-explanation]
+  other = "This is one of the newest stories. That's why you can't read it online for free (yet). Check out the <a href='{{ . }}'>bundle that contains this story</a>."
+
+# SEARCH functionality
+[search-front-page]
+  other = "Search another way"
+
+[search]
+    other = "search"
+
+[search-instruction]
+    other = "Search website"
+
+[search-placeholder]
+    other = "Your search terms here ... "
+
+[search-progress-feedback]
+  other = "Searching ... (might take a few seconds)"
+
+[search-advanced]
+  other = "Advanced search"
+
+[search-advanced-instructions]
+  other = """<p>The system looks at each term individually. Therefore, input words separately and don't try to glue them, like "Sunken City" or Sunken+City.</p>
+  <ul>
+    <li><code>term1 term2</code><span>searches both terms (individually).</span></li>
+    <li><code>+term</code><span>must appear.</span></li>
+    <li><code>-term</code><span>is not allowed to appear.</span></li>
+    <li><code>*erm</code><span>searches terms that <em>start</em> with this.</span></li>
+    <li><code>ter*</code><span>searches terms that <em>end</em> with this.</span></li>
+    <li><code>term^X</code><span>higher X means this term is more important.</span></li>
+    <li><code>term~X</code><span>higher X means means this term is allowed to deviate more from what you entered. (Example: "lost~1" also matches "lot" or "lose".)</span></li>
+    <li><code>category:term</code><span>searches within a specific category. Options are: <em>chapter, story, timeperiod, cycle, content, firstline, genre</em>. (Example: "story:bear" searches all stories with bear in their title.)</span></li>
+  </ul>"""
+
+# TAXONOMY pages
+[taxonomy-character]
+    other = "Below are all the stories in which the character &ldquo;<em>{{ . }}</em>&rdquo; appears."
+
+[taxonomy-bundle]
+    other = "Below are all the stories from the bundle &ldquo;<em>{{ . }}</em>&rdquo;."
+
+[taxonomy-bundle-coming]
+    other = "This bundle can't be bought yet."
+
+[taxonomy-bundle-link]
+    other = "This bundle <a href='{{ . }}'>can be bought here</a>!"
+
+[taxonomy-bundle-error]
+    other = "ERROR: This bundle doesn't exist?"
+
+[taxonomy-timeperiod]
+    other = "Below are all the stories taking place in the time period &ldquo;<em>{{ . }}</em>&rdquo;."
+
+[taxonomy-genre]
+    other = "Below are all the stories within the genre &ldquo;<em>{{ . }}</em>&rdquo;."
+
+[taxonomy-teaches]
+    other = "Below are all the stories that teach something about the subject &ldquo;<em>{{ . }}</em>&rdquo;."
+
+[taxonomy-refers]
+  other = "Below are all the stories that reference the term &ldquo;<em>{{ . }}&rdquo;.</em> (This could be an event, a concept, a place, whatever.)"
+
+[taxonomy-refers-to-happens]
+  other = "Also check out <a href='{{ . }}'>the stories in which it actually happens</a>."
+
+[taxonomy-happens]
+  other = "Below are all the stories in which the event &ldquo;<em>{{ . }}</em>&rdquo; happens."
+
+[taxonomy-happens-to-refers]
+  other = "Also check out <a href='{{ . }}'>the stories that merely refer to it</a>."
+
+[taxonomy-general]
+    other = "Below is everything from the category &ldquo;<em>{{ . }}</em>&rdquo;."
+
+[taxonomy-cycle]
+    other = "Below are all the stories from the cycle &ldquo;<em>{{ . }}</em>&rdquo;. (A cycle is a sequence of ten stories, one per time period.)"
+
+[taxonomy-cycle-status]
+    other = "This cycle started at <em>{{ .start_date }}</em> and is {{ if .done }} done! {{ else }} currently being written! {{ end }}"
+
+[summary-searchable-category]
+  other = "This is a searchable category. It has no description."
+
+# NAVIGATION/MENUS
+[language-tooltip]
+  other = "Change language"
+
+[language-alt]
+  other = "Button to change the language of the website"
+
+[language-picker-heading]
+  other = "Language Listener"
+
+[language-picker-desc]
+  other = "Click a button to change the whole website into that language."
+
+[bookshelf-tooltip]
+  other = "Visit your bookshelf! (Unread/Reading/Read)"
+
+[bookshelf-alt]
+  other = "Button to visit your bookshelf"
+
+[font-tooltip]
+  other = "Pick a new font!"
+
+[font-alt]
+  other = "Button to pick a new font"
+
+[goto-bottom-tooltip]
+  other = "Go to the bottom of the page"
+
+[goto-bottom-alt]
+  other = "Button to scroll to the bottom of the page"
+
+[no-prev-general]
+    other = "No previous"
+
+[no-next-general]
+    other = "No next"
+
+[prev-page]
+    other = "Previous page"
+
+[prev-page-not]
+    other = "No previous page"
+
+[next-page]
+    other = "Next page"
+
+[next-page-not]
+    other = "No next page"
+
+[no-prev-story]
+  other = "No previous story"
+
+[no-next-story]
+  other = "No next story"
+
+# @TODO: should be another navigation-X thingy from article-navigation, right? Or not?
+[navigation-hoofdstuk]
+    other = "chapter"
+
+[chapter-nav]
+  other = "Different story?"
+
+[chapter-nav-instruction]
+    other = "These buttons lead you to the stories before this one (left) and after this one (right)"
+
+# FONTS
+[font-select-instruction]
+    other = "Pick the font you like."
+
+[font-select-book]
+    other = "book"
+
+[font-select-modern]
+    other = "modern"
+
+[font-select-playful]
+    other = "playful"
+
+[font-remark-georgia]
+  other = "default font"
+
+[font-remark-baskerville]
+  other = "mix traditional and modern"
+
+[font-remark-garamond]
+  other = "traditional fairytale-like, thin"
+
+[font-remark-merriweather]
+  other = "bigger and more joyful"
+
+[font-remark-gentium]
+  other = "elegant and thick"
+
+[font-remark-roboto-serif]
+  other = "simple and big"
+
+[font-remark-caslon]
+  other = "elegant, italics very noticeable"
+
+[font-remark-literata]
+  other = "big and bold"
+
+[font-remark-vollkorn]
+  other = "traditional and fairytale-like"
+
+[font-remark-imfell]
+  other = "old-school typewriter"
+
+[font-remark-cabin]
+  other = "modern, but soft"
+
+[font-remark-roboto]
+  other = "simple and neutral"
+
+[font-remark-bellota-text]
+  other = "graceful, no italics"
+
+[font-remark-open-sans]
+  other = "simple and neutral"
+
+[font-remark-merriweather-sans]
+  other = "big and bold"
+
+[font-remark-overlock]
+  other = "graceful and book-like"
+
+[font-remark-nunito]
+  other = "soft and round"
+
+[font-remark-mali]
+  other = "curvy and witch-like"
+
+[font-remark-bellota]
+  other = "elegant, almost handwritten"
+
+[font-remark-balsamiq]
+  other = "thick and playful"
+
+[font-remark-grandstander]
+  other = "cartoony, still very legible"
+
+[font-remark-simonetta]
+  other = "elegant, but very thin"
+
+[font-remark-comic-neue]
+  other = "soft, cartoony, and very thin"
+
+# FOOTER
+[footer-stories]
+  other = "Below are the ten latest stories."
+
+[footer-timeperiods]
+  other = "Click a time period to see all the stories that take place within it."
+
+[footer-misc]
+  other = "For those of us who want to be different."
+
+[footer-goto-top]
+  other = "Back to top"
+
+[footer-random-story]
+  other = "Random story!"
+
+[footer-change-font]
+  other = "Change font"
+
+[footer-change-language]
+  other = "Change language"
+
+[footer-bookshelf]
+  other = "My bookshelf"
+
+[footer-about]
+  other = "About this project"
+
+[footer-other-work]
+  other = "All my work"
+
+[footer-support]
+  other = "Support me! / Donate!"
+
+[footer-copyright-notice]
+  other = "All rights reserved"
+
+[footer-statistics]
+  other = "Free web version of <a href='/en/about/'>The Saga of Life</a> ({{ . }})&mdash;Written with love (and an old, broken laptop)&mdash;Made with <a href='https://gohugo.io'>Hugo</a>"
+
+# BOOKSHELF
+[bookshelf]
+  one = "bookshelf"
+  other = "bookshelves"
+
+[bookshelf-section-empty]
+    other = "This category is empty."
+
+[loading]
+  other = "Loading ..."
+
+[bookshelf-reading]
+  other = "Reading"
+
+[bookshelf-reading-short]
+  other = "Started"
+
+[bookshelf-reading-progress]
+  other = "Read until Ch"
+
+[bookshelf-unread]
+  other = "Unread"
+
+[bookshelf-read]
+  other = "Read"
+
+[bookshelf-instruction]
+    other = """Here you see which stories you <a href="#stories-progress">are currently reading</a>,
+    which you <a href="#stories-unread">haven't read yet</a>, 
+    and which you <a href="#stories-read">have already read</a>.
+    """

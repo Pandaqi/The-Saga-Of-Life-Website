@@ -1,0 +1,27 @@
+{{ define "main" }}
+
+  <!-- testing PageFind -->
+  <link href="/_pagefind/pagefind-ui.css" rel="stylesheet">
+  <script src="/_pagefind/pagefind-ui.js" type="text/javascript"></script>
+  <div id="search"></div>
+  <script>
+      window.addEventListener('DOMContentLoaded', (event) => {
+          new PagefindUI({ element: "#search" });
+      });
+  </script>
+
+  {{ partialCached "search-form.html" . }}
+
+  <ul id="results" class="summary-container remove-standard-list-style">
+    <em>{{ i18n "search-progress-feedback" }}</em>
+  </ul>
+
+  <div class="advanced-search-explanation">
+    <h3>{{ i18n "search-advanced" }}</h3>
+    {{ (i18n "search-advanced-instructions") | safeHTML}}
+  </div>
+{{ end }}
+
+{{ define "lazy_load" }}
+  {{ partialCached "search-index.html" . }}
+{{ end }}

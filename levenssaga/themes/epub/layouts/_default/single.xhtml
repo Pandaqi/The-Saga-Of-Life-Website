@@ -1,0 +1,47 @@
+{{- printf "<?xml version=\"1.0\" encoding=\"UTF-8\" ?>" | safeHTML }}
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:ops="http://www.idpf.org/2007/ops"
+      xml:lang="{{ .Lang }}">
+  <head>
+    <title>{{ .Site.Params.title }}: {{ .Title }}</title>
+{{- if .Params.Ebook }}
+    <link rel="stylesheet" type="text/css" href="css/stylesheet.css" />
+{{- else }}   
+    <link rel="stylesheet" type="text/css" href="../../css/stylesheet.css" />
+{{- end }}
+  </head>
+{{- if eq .Params.Ebook "toc" }}
+  <body>
+  
+   <h1>{{ .Site.Params.title }}</h1>  
+
+   <nav ops:type="toc" epub:type="toc" id="toc">
+   
+    <h2>{{ .Title }}</h2>
+
+      <ol>
+        {{ $all_stories := partial "func/get-flat-story-list-reversed.html" . }}
+        {{ range $all_stories }}
+            <li><a href="{{ replace .Permalink "/oebps/" "" }}">{{ .Title  }}</a>
+
+              <ol>
+                {{ range .Pages }}
+                  <li><a href="{{ replace .Permalink "/oebps/" "" }}">{{ .Title  }}</a></li>
+                {{ end }}
+              </ol>
+            </li>
+        {{ end }}
+      </ol>
+  </nav>
+{{ else }}
+  <body ops:type="chapter">
+  {{ if eq .Params.Ebook "cover" }}
+
+  {{ else }}
+    <h1>{{ .Title }}</h1>
+  {{ end }}
+
+  {{ .Content }}
+{{- end }}
+  </body>
+</html>

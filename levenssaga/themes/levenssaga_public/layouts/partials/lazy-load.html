@@ -1,0 +1,37 @@
+<!-- Build & Bundle the whole JavaScript powering the website -->
+{{ $js := resources.Get "/js/main.ts" | js.Build "/js/bundle.min.js" | minify }}
+<script async defer src="{{ $js.RelPermalink }}"></script>
+
+<!-- PWA -->
+<script async defer>
+  if (navigator.serviceWorker && !navigator.serviceWorker.controller) {
+    {{ $pwa := resources.Get "/js/pwa.js" | minify | fingerprint }} 
+    
+    const PWA_URL = "{{ $pwa.Permalink }}".replaceAll("\/", "/");
+    navigator.serviceWorker.register(PWA_URL); 
+    navigator.serviceWorker.getRegistrations().then((registrations) => {
+        for(const registration of registrations) {
+            if(!registration.active) { continue; }
+            if(registration.active.scriptURL == PWA_URL) { continue; }
+            registration.unregister();
+        } 
+    });
+  }
+</script>
+
+<!-- Deferred loading of all (remaining) styles -->
+{{ if not .Site.Params.debugCriticalStyle }}  
+  {{- $sass := resources.Get "/sass/style.scss" -}}
+  {{- $options := (dict "targetPath" "/css/style.css" "outputStyle" "compressed" "transpiler" "dartsass") -}}
+  {{- $general_style := $sass | resources.ToCSS $options | fingerprint -}}
+  <script async defer>
+    const head = document.getElementsByTagName("head")[0];
+    let cssLink = document.createElement("link");
+
+    cssLink.rel = "stylesheet";
+    cssLink.href = "{{ $general_style.RelPermalink }}";
+    cssLink.type = "text/css";
+
+    head.appendChild(cssLink);
+  </script>
+{{ end }}

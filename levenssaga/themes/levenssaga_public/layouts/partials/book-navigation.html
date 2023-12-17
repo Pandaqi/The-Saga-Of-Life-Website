@@ -1,0 +1,32 @@
+{{ $currentPage := . }}
+
+<nav class="article-navigation block-center child-links-as-buttons">
+  
+  {{ $pages := partialCached "func/get-flat-story-list.html" . }}
+  {{ $pages = partial "func/reverse-slice.html" $pages }}
+
+  {{ $no_prev_story := i18n "no-prev-story" }}
+  {{ $no_next_story := i18n "no-next-story" }}
+
+  {{ range $index, $value := $pages }}
+    {{ if ne .Title $currentPage.Title }}
+      {{ continue }}
+    {{ end }}
+
+    {{ if gt $index 0 }}
+      {{ $prev := index $pages (sub $index 1) }}
+      <a class="prev" href="{{ $prev.RelPermalink }}">{{ $prev.Title }} &laquo;</a>
+    {{ else }}
+      <div class="prev-disabled">{{ $no_prev_story }} :( </div>
+    {{ end }}
+    
+    {{ if lt $index (sub (len $pages) 1) }}
+      {{ $next := index $pages (add $index 1) }}
+      <a class="next" href="{{ $next.RelPermalink }}">&raquo; {{ $next.Title }}</a>
+    {{ else }}
+      <div class="next-disabled">{{ $no_next_story }} :( </div>
+    {{ end }}
+
+  {{ end }}
+
+</nav>

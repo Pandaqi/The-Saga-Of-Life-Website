@@ -1,0 +1,66 @@
+@use "modules/globals" as g;
+
+@mixin drop-cap
+{
+  float: left;
+  font-family: "Camelot Caps", Georgia, serif;
+  display: block;
+  font-style: normal;
+  font-weight: normal;
+}
+
+.drop-cap:first-letter {
+  @include drop-cap();
+  float: none;
+  font-size: 1.5em;
+}
+
+.transition-mask {
+  @include g.general-mask();
+}
+
+// second rule to win the specificity war
+.flex-btn, a.flex-btn {
+  display: flex;
+  align-items: center;
+  align-content: center;
+  gap: 0.75em;
+}
+
+a {
+  &:hover {
+    img:not(.inversion-disabled) {
+      filter: #{ "invert()" };
+    }
+  }
+}
+
+// metadata shown on taxonomy pages
+.taxonomy-metadata {
+    text-align: center;
+
+    font-size: 0.58em;
+    line-height: 1.2em;
+    opacity: 0.5;
+}
+
+@media print 
+{
+  html, body { 
+    background-color: white !important;
+    color: black !important; 
+    font-size: 11pt !important;
+    line-height: 140% !important;
+  }
+  main {
+    padding: 0.5em;
+  }
+
+  h2 {
+    break-before: page;
+    padding-top: 3em;
+    margin-bottom: -0.35em;
+  }
+  .transition-mask { display: none; }
+  #site-header, #site-footer { display: none; }
+}

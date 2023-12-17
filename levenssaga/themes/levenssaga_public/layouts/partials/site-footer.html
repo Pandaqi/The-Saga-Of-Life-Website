@@ -1,0 +1,67 @@
+<div class="transition-mask footer-transition-mask"></div>
+
+{{ $base_url := .Site.BaseURL | relLangURL }}
+<footer id="site-footer">
+  <div class="footer-container child-links-as-buttons">
+    <nav>
+      <h3>{{ (i18n "story" (dict "Count" 2)) | humanize }}</h3>
+      <p>{{ i18n "footer-stories" }}</p>
+      <ul>
+        {{ $all_stories := partialCached "func/get-flat-story-list.html" . }}
+        {{ $context := . }}
+        {{ range (first 10 $all_stories) }}
+          
+          {{ $name := partial "func/get-shared-id.html" (dict "context" . "type" "story") }}
+          <li>
+            <a href="{{ .RelPermalink }}" class="flex-btn">
+              {{ partial "story-icon.html" (dict "type" "story" "value" $name) }}
+              <span>{{ .Title }}</span>
+            </a>
+          </li>
+        {{ end }}
+      </ul>
+    </nav>
+
+    <nav>
+      <h3>{{ (i18n "timeperiod" (dict "Count" 2)) | humanize }}</h3>
+      <p>{{ i18n "footer-timeperiods" }}</p>
+      {{ partialCached "timeperiod-list.html" . }}
+    </nav>
+
+    {{ $about_text := i18n "about" }}
+    {{ $bookshelf_text := i18n "bookshelf" (dict "Count" 1) }}
+
+    <nav>
+      <h3>{{ i18n "misc" | humanize }}</h3>
+      <p>{{ i18n "footer-misc" }}</p>
+      <ul>
+        <li><button id="gotoTopBtn">{{ i18n "footer-goto-top" }}</button></li>
+        <li><button id="randProjBtn">{{ i18n "footer-random-story" }}</button></li>
+
+        <li>&nbsp;</li>
+        <li><button class="changeFontBtn">{{ i18n "footer-change-font" }}</button></li>
+        {{ if .IsTranslated }}<li><button class="changeLanguageBtn">{{ i18n "footer-change-language" }}</button></li>{{ end }}
+        <li><a href="{{ $base_url }}/{{ $bookshelf_text }}/">{{ i18n "footer-bookshelf" }}</a></li>
+
+        <li>&nbsp;</li>
+        
+        <li><a href="{{ $base_url }}/{{ $about_text }}/">{{ i18n "footer-about" }}</a></li>
+        <li><a href="https://rodepanda.com">{{ i18n "footer-other-work" }}</a></li>
+        <li><a href="{{ .Site.Params.supportPageURL }}">{{ i18n "footer-support" }}</a></li>
+
+        <li><a name="zoekbalk" class="invisible-link"></a>{{ partialCached "search-form.html" . }}</li>
+      </ul>
+      
+    </nav>
+  </div>
+
+  <div class="footer-copyright">
+    Copyright &copy; 2022&ndash;{{ now.Year }} <a href="https://rodepanda.com">Tiamo Pastoor</a>&mdash;{{ i18n "footer-copyright-notice" }}
+  </div>
+
+  <div class="footer-copyright">
+    {{ $statistics := partialCached "func/get-global-statistics.html" . }}
+    {{ (i18n "footer-statistics" $statistics) | safeHTML }}
+  </div>
+
+</footer>

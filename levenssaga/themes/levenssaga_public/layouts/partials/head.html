@@ -1,0 +1,61 @@
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+  <!-- Title (TO DO: could this ever be simplified?) -->
+  <title>
+    {{ block "title" . }}
+      {{ $title := .Params.Title }}
+      {{ $section_title := .CurrentSection.Title }}
+      {{ $site_title := .Site.Title }}
+
+      {{ $title_array := slice }}
+
+      {{ if $title }}
+        {{ $title_array = $title_array | append $title }}
+      {{ end }}
+      
+      {{ if ne $title $section_title }}
+        {{ $title_array = $title_array | append $section_title }}
+      {{ end }}
+      
+      {{ if and (ne $title $site_title) (ne $section_title $site_title) }}
+        {{ $title_array = $title_array | append $site_title }}
+      {{ else }}
+        {{ $title_array = $title_array | append "Home" }}
+      {{ end }}
+
+      {{ trim (delimit $title_array " | ") " " }}
+    {{ end }}
+  </title>
+
+  <!-- Basics -->
+  <meta name="viewport" content="width=device-width,minimum-scale=1">
+  <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}">
+  <link rel="icon" type="image/x-icon" href="/oebps/marketing/levenssaga_logo_color_detail_favicon.png">
+
+  <!-- Canonnical URL based on language (to allow multi-domain without duplicate content) -->
+  {{ $page_lang := .Page.Lang }}
+  {{ $canonical := .RelPermalink }}
+  {{ if eq $page_lang "nl" }}
+    {{ $canonical = add "https://delevenssaga.nl" $canonical }}
+  {{ else if eq $page_lang "en" }}
+    {{ $canonical = add "https://thesagaoflife.com" $canonical }}
+  {{ end }}
+  <link rel="canonical" href="{{ $canonical }}" data-lang="{{ $page_lang }}">
+
+  <!-- Progressive Web App essentials -->
+  <link rel="manifest" href="/manifest.webmanifest">
+  <meta name="mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-title" content="De Levenssaga" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+
+  <!-- Critical stylesheet + font preconnect -->
+  {{ $sass := resources.Get "/sass/critical.scss" }}
+  {{ $options := (dict "targetPath" "/css/critical.css" "outputStyle" "compressed" "transpiler" "dartsass") }}
+  {{ $crit_style := $sass | resources.ToCSS $options }}
+  <link rel="stylesheet" href="{{ $crit_style.RelPermalink }}" />
+  
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+</head>

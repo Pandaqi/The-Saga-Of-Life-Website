@@ -1,0 +1,9 @@
+
+{{ $timeperiod_colors := .Site.Params.timeperiodColors }}
+{{ $timeperiod_raw := (or .CurrentSection.Params.timeperiod .Params.timeperiod) }}
+{{ $timeperiod_url := printf "/timeperiod/%s" ($timeperiod_raw | urlize) }}
+{{ $timeperiod_page := .GetPage $timeperiod_url }}
+{{ $timeperiod_id := partial "func/get-shared-id.html" (dict "context" $timeperiod_page "type" "timeperiod") }}
+{{ $timeperiod := or $timeperiod_id "base" }}
+{{ $color := index $timeperiod_colors $timeperiod }}
+{{ return $color }}

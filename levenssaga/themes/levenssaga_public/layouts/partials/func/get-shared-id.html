@@ -1,0 +1,7 @@
+{{ $id := "NO-ID" }}
+{{ $type := .type }} <!-- story, cycle, timeperiod -->
+{{ with .context }}
+    {{ $file_name := partial "func/get-file-name.html" .CurrentSection }}
+    {{ $id = or (or .Params.uniqueID .CurrentSection.Params.uniqueID) $file_name }}
+{{ end }}
+{{ return $id }}

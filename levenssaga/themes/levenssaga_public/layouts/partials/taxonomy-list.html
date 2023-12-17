@@ -1,0 +1,34 @@
+<ul>
+  {{ $taxonomy_key := .key }}
+  {{ $count_items := or .count false }}
+  {{ $add_overview_link := or .overview false }}
+  {{ $threshold := 1000 }}
+  {{ if $add_overview_link }}{{ $threshold = 10 }}{{ end }}
+  {{ $lang := .context.Language.Lang }}
+
+  {{ $all_pages := index .context.Site.Taxonomies $taxonomy_key }}
+  {{ $main_url := printf "/%s" $taxonomy_key }}
+  {{ $main_page := $.context.Site.GetPage $main_url }}
+  {{ if $main_page }}
+    {{ $all_pages = $main_page.Pages }}
+  {{ end }}
+
+  <!-- $page := $.context.Site.GetPage (printf "/%s/%s" $taxonomy_key $name) -->
+    
+  {{ range $idx, $page := $all_pages }}
+    {{ with $page }}
+      {{ if $count_items }}
+        {{ $num_items := len .Pages }}
+        <li><a href={{ .RelPermalink }}>{{ .Title }} <span class="metadata-item-count">({{ $num_items }})</span></a></li>
+      {{ else }}
+        <li><a href={{ .RelPermalink }}>{{ .Title }}</a></li>
+      {{ end }}
+    {{ end }}
+    {{ if ge $idx $threshold }}{{ break }}{{ end }}
+  {{ end }}
+
+  {{ if $add_overview_link }}
+    {{ $overview_link := printf "/%s/%s" $lang $taxonomy_key }}
+    <li><a href="{{ $overview_link }}"><em>&raquo; {{ i18n "read-all" }}</em></a></li>
+  {{ end }}
+</ul>

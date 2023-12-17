@@ -1,0 +1,11 @@
+{{ $search_word := i18n "search" }}
+{{ $lang := .Language.Lang }}
+{{ $search_url := (printf "/%s/%s" $lang $search_word) }}
+{{ $search_placeholder := i18n "search-placeholder" }}
+
+<form id="search" action='{{ $search_url }}' method="get" class="block-center">
+    <label hidden for="zoekopdracht-input">{{ i18n "search-instruction" }}</label>
+    <input type="text" id="zoekopdracht-input" name="query"
+    placeholder="{{ $search_placeholder }}">
+    <input type="submit" value="{{ $search_word }}">
+</form>

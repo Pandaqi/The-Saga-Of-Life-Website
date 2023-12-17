@@ -1,0 +1,72 @@
+{{ $class := "" }}
+{{ $base_url := .Site.BaseURL | relLangURL }}
+{{ $site_name := i18n "site-name" }}
+{{ if .Page.IsHome }}
+  {{ $class = "homepage-header" }}
+{{ end }}
+
+<header id="site-header" class="{{ $class }}">
+
+  <!-- Buttons (right-hand side) -->
+  {{ $bookshelf_text := i18n "bookshelf" (dict "Count" 1 )}}
+  <div class="righthand-buttons">
+    <button id="bookshelfBtn" data-url="{{ $base_url }}/{{ $bookshelf_text }}">
+      {{ $bookshelf_tooltip := i18n "bookshelf-tooltip" }}
+      {{ $bookshelf_alt := i18n "bookshelf-alt" }}
+      <img src="/oebps/ui/boekenkast_knop.webp" class="font-button" title="{{ $bookshelf_tooltip }}" alt="{{ $bookshelf_alt }}" />
+    </button>
+
+    <!-- it's a class because there can be MULTIPLE of this type on the page -->
+    <button class="changeFontBtn">
+      {{ $font_tooltip := i18n "font-tooltip" }}
+      {{ $font_alt := i18n "font-alt" }}
+      <img src="/oebps/ui/lettertype_knop.webp" class="font-button" title="{{ $font_tooltip }}" alt="{{ $font_alt }}" />
+    </button>
+
+    {{ if .IsTranslated }}
+      <button class="changeLanguageBtn">
+        {{ $language_tooltip := i18n "language-tooltip" }}
+        {{ $language_alt := i18n "language-alt" }}
+        <img src="/oebps/ui/language_button.webp" class="font-button" title="{{ $language_tooltip }}" alt="{{ $language_alt }}" />
+      </button>
+    {{ end }}
+
+    <button id="gotoBottomBtn">
+      {{ $goto_bottom_tooltip := i18n "goto-bottom-tooltip" }}
+      {{ $goto_bottom_alt := i18n "goto_bottom-alt" }}
+      <img src="/oebps/ui/beneden_pijl.webp" class="bottom-arrow" title="{{ $goto_bottom_tooltip }}" alt="{{ $goto_bottom_alt }}" />
+    </button>
+  </div>
+
+  <!-- Breadcrumbs / Navigation -->
+  <nav id="site-header-navigation">
+    <span class="crumb-container">
+      <a href="{{ $base_url }}">
+        <img class="story-icon story-icon-small inversion-disabled" src="/oebps/marketing/levenssaga_logo_blackwhite_detail.webp" alt="Levenssaga logo, zwartwit en simpel" />
+      </a>
+      <a href="{{ $base_url }}">{{ $site_name }}</a>
+    </span>
+    
+    {{ if ne .CurrentSection.Title $site_name }}
+      <span class="crumb-container">
+        &raquo;
+        {{ $icon_name := partial "func/get-shared-id.html" (dict "context" . "type" "story") }}
+        {{ partial "story-icon.html" (dict "size" "small" "value" $icon_name "type" "dynamic") }}
+        {{ $translated_section := (i18n (.CurrentSection.Title | lower) (dict "Count" 1)) | humanize }}
+        {{ $translated_section = or $translated_section .CurrentSection.Title }}
+        <a href="{{ .CurrentSection.RelPermalink }}">{{ $translated_section }}</a>
+      </span>
+    {{ end }}
+    
+    {{ if ne .Title .CurrentSection.Title }}
+      <span class="crumb-container">
+        &raquo; 
+        {{ $translated_title := (i18n (.Title | lower) (dict "Count" 1)) | humanize }}
+        {{ $translated_title = or $translated_title .Title }}
+        <span>{{ $translated_title }}</span>
+      </span>
+    {{ end }}
+  </nav>
+</header>
+
+<div class="transition-mask header-transition-mask {{ $class }}"></div>

@@ -1,0 +1,138 @@
+{{ $lang := .Language.Lang }}
+
+<aside class="book-metadata block-center child-links-as-buttons">
+    <h2 class="center">{{ i18n "book-metadata" }}</h2>
+    <ul>
+        
+        {{ $outline_url := printf "%soutline/" .RelPermalink }}
+        {{ $notes_path := printf "%s/notes.md" (path.Dir .File.Path) }}
+        {{ $notes_page := .Site.GetPage $notes_path }}
+
+        <li><strong>Extra:</strong>
+        <a href="{{ $outline_url }}">{{ i18n "book-summary" }}</a>
+        
+        {{ with $notes_page }}
+            <a href="{{ .RelPermalink }}">{{ i18n "book-notes" }}</a>
+        {{ end }}
+        </li>
+        <li>&nbsp;</li>
+
+        {{ $timeperiod_url := printf "/%s/timeperiod/%s" $lang (.Params.timeperiod | urlize) }}
+        {{ $cycle_url := printf "/%s/cycle/%s" $lang (.Params.cycle | urlize) }}
+        {{ $bundle_url := printf "/%s/bundle/%s" $lang (.Params.bundle | urlize) }}
+        {{ $publication_date := time.Format "2 January, 2006" .Params.date }}
+
+        {{ $story_number_by_publication := partial "func/get-story-number-by-publication.html" . }}
+
+        {{ $date_text := (i18n "data" (dict "Count" 1)) | humanize }}
+        {{ $words_text := i18n "word" (dict "Count" 2) }}
+        {{ $sentence_text := i18n "sentence" (dict "Count" 2) }}
+        {{ $statistics_text := (i18n "statistic" (dict "Count" 2)) | humanize }}
+        {{ $story_number_text := (i18n "story" (dict "Count" 1)) }}
+
+        {{ $readability_statistics := (dict "score" 5 "words" 0 "lines" 0) }}
+        {{ if .Params.readability }}{{ $readability_statistics = index .Params.readability 0 }}{{ end }}
+
+        <li><strong>{{ $date_text }}: </strong> 
+            {{ $publication_date }} 
+            <span class="metadata-inline-comment">({{ $story_number_text }} #{{ $story_number_by_publication }})</span>
+        </li>
+        <li><strong>{{ $statistics_text }}: </strong>
+        <span class="non-link-data">
+            {{ (index $readability_statistics "words") | lang.NumFmt 0 }} {{ $words_text }}, 
+            {{ (index $readability_statistics "lines") }} {{ $sentence_text }}
+        </span>
+        </li>
+        
+        {{ $timeperiod_text := (i18n "timeperiod" (dict "Count" 1)) | humanize }}
+        {{ $timeperiod_url_nolang := printf "/timeperiod/%s" (.Params.timeperiod | urlize) }}
+        {{ $timeperiod_page := .GetPage $timeperiod_url_nolang }}
+        {{ $timeperiod_icon := partial "func/get-shared-id.html" (dict "context" $timeperiod_page "type" "timeperiod") }}
+        
+        {{ $cycle_text := (i18n "cycle" (dict "Count" 1)) | humanize }}
+        {{ $cycle_url_nolang := printf "/cycle/%s" (.Params.cycle | urlize) }}
+        {{ $cycle_page := .GetPage $cycle_url_nolang }}
+        {{ $cycle_icon := partial "func/get-shared-id.html" (dict "context" $cycle_page "type" "cycle") }}
+        
+        {{ $bundle_text := (i18n "bundle" (dict "Count" 1)) | humanize }}
+        {{ $genre_text := (i18n "genre" (dict "Count" 2)) | humanize }}
+
+        <li>&nbsp;</li>
+        <li><strong>{{ $timeperiod_text }}: </strong>{{ partial "link-with-icon.html" (dict "url" $timeperiod_url "type" "timeperiod" "value" $timeperiod_icon "value_text" .Params.timeperiod) }}</li>
+        <li><strong>{{ $cycle_text }}: </strong>{{ partial "link-with-icon.html" (dict "url" $cycle_url "type" "cycle" "value" $cycle_icon "value_text" .Params.cycle) }}</li>
+        <li><strong>{{ $bundle_text }}: </strong><a href="{{ $bundle_url }}">{{ .Params.bundle }}</a></li>
+        <li><strong>{{ $genre_text }}: </strong>
+            {{ range .Params.genre }}
+                {{ $genre_url := printf "/%s/genre/%s" $lang  (. | urlize) }}
+                <a href="{{ $genre_url }}">{{ . }}</a>
+            {{ end }}
+        </li>
+
+        {{ $character_text := (i18n "character" (dict "Count" 2)) | humanize }}
+        {{ $prequel_text := (i18n "prequel" (dict "Count" 2)) | humanize }}
+
+        <li>&nbsp;</li>
+        <li><strong>{{ $character_text }}: </strong>
+            {{ range .Params.character }}
+                {{ $character_url := printf "/%s/character/%s" $lang (. | urlize) }}
+                <a href="{{ $character_url }}">{{ . }}</a>
+            {{ end }}
+        </li>
+
+        {{ if and (isset .Params "prequels") (gt (len .Params.prequels) 0) }}
+        <li>&nbsp;</li>
+        <li><strong>{{ $prequel_text }}: </strong>
+            {{ $all_stories := partialCached "func/get-flat-story-list.html" . }}
+            {{ range .Params.prequels }}
+                {{ $my_name := . }}
+                {{ range $all_stories }}
+                    {{ if ne .Title $my_name }}{{ continue }}{{ end }}
+                    <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+                    {{ break }}
+                {{ end }}
+            {{ end }}
+        </li>
+        <li><span class="metadata-comment">{{ i18n "book-prequel-explanation" }}</span></li>
+        {{ end }}
+
+        <li>&nbsp;</li>
+        <li><strong>{{ i18n "readability" }}: </strong><span class="non-link-data">{{ (index $readability_statistics "score") | lang.NumFmt 0 }}</span></li>
+        <li><span class="metadata-comment">{{ i18n "book-readability-explanation" }}</span></li>
+
+        {{ $godlink_text := (i18n "godlink" (dict "Count" 2)) | humanize }}
+        
+        <li>&nbsp;</li>
+        <li><strong>{{ $godlink_text }}: </strong>
+        {{ range .Params.godlink }}
+            {{ $character_url := printf "/%s/character/%s" $lang (. | urlize) }}
+            <a href="{{ $character_url }}">{{ . }}</a>
+        {{ end }}
+        </li>
+        <li><span class="metadata-comment">{{ i18n "book-godlink-explanation" | safeHTML }}</span></li>
+
+        <li>&nbsp;</li>
+
+        {{ if and (isset .Params "teaches") (gt (len .Params.teaches) 0) }}
+        <li><strong>{{ i18n "teaches" | humanize }}:</strong>
+            {{ range .Params.teaches }}
+            {{ $teaches_url := printf "/%s/teaches/%s" $lang (. | urlize) }}
+            <a href="{{ $teaches_url }}">{{ . }}</a>
+            {{ end }}
+        </li>
+        {{ end }}
+
+        <li><strong>{{ i18n "refers" | humanize }}: </strong>
+        {{ range .Params.refers }}
+            {{ $reference_url := printf "/%s/refers/%s" $lang (. | urlize) }}
+            <a href="{{ $reference_url }}">{{ . }}</a>
+        {{ end }}
+        </li>
+
+        <li><strong>{{ i18n "happens" | humanize }}: </strong>
+        {{ range .Params.happens }}
+            {{ $event_url := printf "/%s/happens/%s" $lang (. | urlize) }}
+            <a href="{{ $event_url }}">{{ . }}</a>
+        {{ end }}
+        </li>
+    </ul>
+</aside>

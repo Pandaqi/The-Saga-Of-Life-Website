@@ -1,0 +1,73 @@
+@use "modules/globals" as g;
+
+.article-navigation {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    align-content: center;
+    gap: 1em;
+
+    .prev {
+        text-align: left;
+    }
+
+    .next {
+        text-align: right;
+    }
+
+    .prev,
+    .next {
+        padding: g.$btn-nav-padding;
+        margin-top: 1.0em;
+        margin-bottom: 1.0em;
+        font-size: 1.0em;
+    }
+
+    .prev-disabled,
+    .next-disabled {
+        opacity: 0.5;
+        font-size: 1.0em;
+    }
+
+    &.tiny {
+        margin-top: 0.5em;
+        margin-bottom: 3em;
+        display: block;
+
+        .prev, .next {
+            padding: 1em;
+            margin: 0;
+            width: auto;
+        }
+
+        .prev, .next, .prev-disabled, p.next-disabled {
+            font-size: 0.66em;
+            line-height: 120%;
+            background: transparent;
+            text-align: left;
+            display: inline-block;
+        }
+    }
+
+    .middle-message {
+        min-width: 4.0em;
+        text-align: center;
+    }
+}
+
+.prev-pure, .next-pure {
+    opacity: 0.66;
+    transition: opacity 0.3s;
+
+    &:hover {
+        opacity: 1.0;
+    }
+}
+
+.book-navigation-container {
+    &.underneath-reader {
+        margin-left: 0;
+        margin-top: 0.5em;
+        border-top: 4px solid #444;
+    }
+}

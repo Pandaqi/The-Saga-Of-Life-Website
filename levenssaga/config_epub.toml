@@ -1,0 +1,75 @@
+baseURL = ""
+DefaultContentLanguage = "nl"
+languageCode = "nl-Nl"
+title = "De Levenssaga"
+theme = "epub"
+author = "Tiamo Pastoor"
+
+# update met de twee titels van de bundel die we laten maken
+ignoreFiles = ['oebps/books/Het Ontstaan van Somnia/[^De Verbannen Familie | ^De Pluizenaars | ^_index.md]']
+disableKinds = ["RSS", "robotsTXT", "404", "taxonomy", "term", "sitemap"]
+
+uglyurls = true
+relativeURLs = true
+disablePathToLower = true
+  
+[mediaTypes]
+  [mediaTypes."application/xhtml+xml"]
+    suffixes = ["xhtml"]
+  [mediaTypes."application/opf+xml"]
+    suffixes = ["opf"]
+  [mediaTypes."application/x-dtbncx+xml"]
+    suffixes = ["ncx"]
+    
+[outputFormats]
+  [outputFormats.XHTML]
+    mediaType = "application/xhtml+xml"
+    isHTML = true
+    permalinkable = true
+  [outputFormats.OPF]
+    mediaType = "application/opf+xml"
+    isHTML = true
+    permalinkable = true
+    path = "oebps"
+    baseName = "content"
+  [outputFormats.NCX]
+    mediaType = "application/x-dtbncx+xml"
+    isHTML = true
+    permalinkable = true
+    path = "oebps"
+    baseName = "toc"
+    
+[outputs]
+  page = ["XHTML"]
+  section = ["XHTML"]
+  home = ["OPF","NCX"]
+  
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      definitionList = true
+      footnote = true
+      linkify = true
+      strikethrough = true
+      table = true
+      taskList = true
+      typographer = true
+    [markup.goldmark.parser]
+      attribute = true
+      autoHeadingID = false
+    [markup.goldmark.renderer]
+      hardWraps = false
+      unsafe = true
+      xHTML = true
+      
+[params]
+  imgsize = "1200x q70" 
+# imgsize = "800x png" # png works better with older ebook reader
+  bookid = "" # if empty the unix timestamp is taken
+# metadata of your ebook
+  title = "Levenssaga 1: Pluizenaars & Knuffelgoden"
+  creator = "Pastoor, Tiamo Elian" # format: lastname, firstname
+  author = "Tiamo Elian Pastoor" # format: firstname lastname
+  publisher = "Rode Panda"
+  audience = "kids, teenagers"
+  subject = ['Epub', 'Ebook'] # (optional)

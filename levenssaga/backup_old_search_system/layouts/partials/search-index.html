@@ -1,0 +1,57 @@
+<!-- CACHE LOCATION -->
+{{ $export_search_index := .Site.Params.exportJavascriptIndexes }} 
+{{ if $export_search_index }}
+  {{- $all_stories := partialCached "func/get-flat-story-list.html" . -}}
+  {{- $all_stories = partial "func/reverse-slice.html" $all_stories -}}
+
+  <script>
+    // get the raw lists of data
+    window.rawIndex = {
+      {{- range $all_stories -}}
+        {{- $story := . -}}
+        {{- range .Pages -}}
+          {{- if not (partial "func/test-if-chapter.html" .) -}}{{- continue -}}{{- end -}}
+
+          {{- $trans_content := lower (.Content | plainify) -}}
+          {{- $trans_content = replaceRE `&mdash;` " " $trans_content -}}
+          {{- $trans_content = replaceRE `&rdquo;|&ldquo;|&rsquo;|&lsquo;|&hellip;|&nbsp;|___` "" $trans_content -}}
+          {{- $trans_content = replaceRE `[^a-zA-Z\s]` "" $trans_content -}}
+          {{- $trans_content = replaceRE `\n|\r` " " $trans_content -}}
+          {{- $trans_content = replaceRE `\s` "  " $trans_content -}} // we double the spaces, because Go has no lookahead assertions
+          {{- $trans_content = replaceRE `\s(hij|zij|ze|hem|haar|hun|hen|wij|jullie|je|jij|ik|mij|die|deze|daar|ons|dit|dat|aan)\s` " " $trans_content -}} // personal pronouns
+          {{- $trans_content = replaceRE `\s(is|zijn|zei|zeiden|dacht|zag|zagen|liep|liepen|keek|keken|was|waren|had|hadden|heb|hebben|kon|konden|kan|kunnen|stond|stonden|hoorde|hoorden|ging|gingen|ga|gaan)\s` " " $trans_content -}} // common verbs
+          {{- $trans_content = replaceRE `\s(ja|nee|geen|de|het|en|een|er|maar|want|toen|ben|van|wat|te|naar|veel|niet|in|op|achter|bij|dan|voor|uit|zo|onder|over|door|terug|tot|totdat|bijna|even|alle|al|om|met|als|nog|dan)\s` " " $trans_content -}} // misc small words
+          {{- $trans_content = replaceRE `\s\s(\s?)(\s?)(\s?)(\s?)` " " $trans_content -}} // we remove any extraneous spaces again
+
+          // customize any way you want, but also include all fields in the INDEX we build below
+          "{{ .RelPermalink }}": {
+              "chapter": "{{ .Title  }}",
+              "story": "{{ $story.Title }}",
+              "timeperiod": "{{ $story.Params.timeperiod }}",
+              "cycle": "{{ $story.Params.cycle }}",
+              "genre": [ {{ range $story.Params.genre }} {{ . }}, {{ end }} ],
+              "firstline": "{{ substr (.Content | plainify) 0 80 }}",
+              "content": {{ $trans_content }}
+          },
+        {{- end -}}
+      {{- end -}}
+    }
+
+    console.log(window.rawIndex);
+
+    convertToLunrIndex(window.rawIndex);
+    checkSearchQuery(window.rawIndex, window.searchIndex);
+  </script>
+
+{{ else }}
+  {{ $cache := resources.Get "/js/cached_search_index.json" }}
+  <script async>
+    fetch({{ $cache.RelPermalink }})
+      .then((response) => response.json())
+      .then(function(data) {
+        window.rawIndex = data;
+        convertToLunrIndex(window.rawIndex);
+        checkSearchQuery(window.rawIndex, window.searchIndex);
+      });
+  </script>
+{{ end }}

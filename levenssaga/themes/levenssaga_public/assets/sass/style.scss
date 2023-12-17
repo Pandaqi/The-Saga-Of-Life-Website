@@ -1,0 +1,17 @@
+@use "sass:map";
+@use "sass:list";
+@use "sass:color";
+
+@use "modules/globals" as g;
+@use "modules/core";
+@use "modules/fonts";
+@use "modules/languages";
+@use "modules/colorschemes";
+@use "modules/summary";
+@use "modules/frontpage";
+@use "modules/header";
+@use "modules/footer";
+@use "modules/search";
+@use "modules/book-overview";
+@use "modules/single";
+@use "modules/pagination";

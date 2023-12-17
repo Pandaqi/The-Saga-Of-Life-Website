@@ -1,0 +1,43 @@
+{{ $color := partial "func/color-scheme.html" . }}
+{{ $type := "chapter" }}
+
+{{ $content_raw := or .Summary "" }}
+{{ if not $content_raw }}
+  {{ $color = "" }}
+  {{ $type = "template" }}
+{{ end }}
+
+<!-- Chapter summaries are truncated manually + get an ellipsis -->
+<!-- Hugo varies them too much (waits until sentence done), and without ellipsis it might seem like this is a BLURB not THE FIRST LINES --> 
+{{ $content := partial "func/truncate.html" (dict "input" $content_raw "maxLength" 200) | safeHTML }}
+
+{{ if .Params.blurb }}
+  {{ $content = .Params.blurb | markdownify }}
+  {{ $type = "story" }}
+{{ end }}
+
+{{ if .Data.Plural }}
+  {{ $type = "taxonomy" }}
+{{ end }}
+
+{{ if le (len $content) 10 }}
+  {{ $content = i18n "summary-searchable-category" }}
+{{ end }}
+
+<section class="summary {{ $color }}" 
+        {{ if eq $type "template" }} style="display:none;" id="hidden-summary-template" {{ end }}
+        >
+
+  <a href="{{ .RelPermalink }}" class="neutral-link">
+
+    {{ partial "section-metadata.html" (dict "context" . "usage" "print" "type" $type) }}
+
+    <h2 class="summary-title">{{ .Title }}</h2>
+    <div>
+      <p class="summary-blurb">
+        {{ $content }} 
+      </p>
+    </div>
+
+  </a>
+</section>

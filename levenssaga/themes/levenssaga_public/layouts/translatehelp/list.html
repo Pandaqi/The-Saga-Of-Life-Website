@@ -1,0 +1,59 @@
+{{ define "header" }}
+<!-- -->
+{{ end }}
+
+{{ define "main" }}
+  <!-- DeepL: roughly 4750 is fine, can do most chapters in one go -->
+  <!-- ChatGPT: roughly 2000 works, will take 2-3 parts on most chapters -->
+  {{ $max_chunk_size := 4750 }} 
+
+  {{ $book_section := partial "func/get-books-page.html" . }}
+  {{ $cyclus := "The People of Promise" }}
+  {{ $story := "The Munchers and Featherers" }}
+  {{ $lang := .Language.Lang }}
+  {{ $url := printf "/oebps/books/%s/%s" ($cyclus | urlize) ($story | urlize) }}
+  {{ $url }}
+  {{ $book_page := .Site.GetPage $url }}
+  {{ $book_page }}
+
+  <h1>{{ $story }}</h1>
+  <h2>Readability</h2>
+  <div class="readability-result" data-language="{{ $lang }}">
+    <em>Readability result here ...</em>
+  </div>
+
+  <h2>Full Story (for translation)</h2>
+  <div class="full-story" id="full-story">
+  {{ range $book_page.Pages }}
+    {{- $is_chapter := partial "func/test-if-chapter.html" . -}}
+    {{ if not $is_chapter }}{{ continue }}{{ end }}
+    
+## {{ .Title }}
+
+    {{- $all_content := .RawContent -}}
+    {{- $all_content -}}
+  {{ end }}
+  </div>
+
+  <h2>Chunks</h2>
+  <div class="story-chunks">
+  {{ range $book_page.Pages }}
+    {{- $is_chapter := partial "func/test-if-chapter.html" . -}}
+    {{ if not $is_chapter }}{{ continue }}{{ end }}
+
+    <h3>{{ .Title }}</h3>
+    {{- $all_content := .RawContent -}}
+
+    <div class="story-chunk">
+      {{- $all_content -}}
+    </div>
+  {{ end }}
+  </div>
+
+  {{ $js := resources.Get "js/readability.ts" | js.Build "js/readability.bundle.min.js" | minify }}
+  <script src="{{ $js.RelPermalink }}"></script>
+{{ end }}
+
+{{ define "footer" }}
+<!-- -->
+{{ end }}

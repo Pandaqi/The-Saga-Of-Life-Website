@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+{{ $lang := .Language.Lang }}
+<html lang="{{ $lang }}" xml:lang="{{ $lang }}">
+  {{- partial "head.html" . -}}
+
+  {{ $color := partial "func/color-scheme.html" . }}
+  <body class="{{ $color }}">
+
+    {{ block "header" . }}{{ partial "site-header.html" .}}{{ end }}
+    {{ block "pre-main" . }}{{ end }}
+    
+    <main>{{ block "main" . }}{{ end }}</main>
+    
+    {{ block "footer" . }}
+      {{ partialCached "site-footer.html" . }}
+      {{ partialCached "site-font-select.html" . }}
+      {{ partial "language-picker.html" . }}
+      {{ partial "site-javascript-attributes.html" . }}
+    {{ end }}
+
+    <!-- Used by unique page templates, don't put anything important in here -->
+    {{ block "lazy_load" . }}{{ end }}
+
+    <!-- can become partialCached once I move the bookshelfIndex code somewhere else (last one) -->
+    {{ partialCached "lazy-load.html" . }}
+    {{ partial "lazy-load-uncached.html" . }}
+  </body>
+</html>

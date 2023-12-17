@@ -1,0 +1,48 @@
+{{ define "main" }}
+
+  {{ $lang := .Language.Lang }}
+  {{ $is_book := or .Params.book false }}
+  {{ if $is_book }}
+
+    <div class="book-heading">
+      {{ $icon_name := partial "func/get-shared-id.html" (dict "context" . "type" "story") }}
+      {{ partial "story-icon.html" (dict "size" "medium" "value" $icon_name) }}
+      <h1>
+        {{ .Title }}
+      </h1>
+    </div>
+
+    {{ $is_unlocked := not .Params.locked }}
+    <article>
+      
+      <section class="start-poem-container">
+        <h2 class="center">{{ i18n "front-page" | humanize }}</h2> 
+        <div class="start-poem block-center">
+          {{ .Content }}
+        </div>
+      </section>
+
+      {{ if $is_unlocked }}
+        {{ partial "quick-read-buttons.html" . }}
+        {{ partial "book-chapter-list.html" . }}
+      {{ else }}
+        <div class="block-center">
+          <h2 style="text-align:center;">{{ i18n "book-locked" }}</h2>
+          {{ $bundle_url := printf "/%s/bundle/%s" $lang (.Params.bundle | urlize) }}
+          <p>{{ (i18n "book-locked-explanation" $bundle_url) | safeHTML }}</p>
+        </div>
+      {{ end }}
+    </article>
+
+    {{ if $is_unlocked }}
+      {{ partial "book-metadata.html" . }}
+    {{ end }}
+
+    <div class="book-navigation-container block-center">
+      <h2 class="center">{{ i18n "continue-reading-footer" }}</h2>
+      <p>{{ i18n "continue-reading-hint" }}</p>
+      {{ partial "book-navigation.html" . }}
+    </div>
+
+  {{ end }}
+{{ end }}

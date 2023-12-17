@@ -1,0 +1,41 @@
+{{ define "main" }}
+  <article class="reader-container">
+    <header>
+      {{ partial "section-metadata.html" (dict "context" . "usage" "link" "add_navigation" true "class" "wrap") }}
+      <h1>
+        {{ .Title }}
+      </h1>
+    </header>
+
+    {{ $chapter_num := partial "func/read-chapter-num.html" . }}
+    {{ $story_page := .CurrentSection }}
+    {{ $is_chapter := partial "func/test-if-chapter.html" . }}
+
+    <aside class="hidden-metadata" style="display: none;">
+      <p data-pagefind-meta="cycle" data-pagefind-filter="cycle">{{ $story_page.Params.cycle }}</p>
+      <p data-pagefind-meta="timeperiod" data-pagefind-filter="timeperiod">{{ $story_page.Params.timeperiod }}</p>
+      <p data-pagefind-meta="bundle" data-pagefind-filter="bundle">{{ $story_page.Params.bundle }}</p>
+      <p data-pagefind-meta="chapter" data-pagefind-filter="chapter">{{ $is_chapter }}</p>
+      {{ range $story_page.Params.genre }}
+        <p data-pagefind-filter="genre">{{ . }}</p>
+      {{ end }}
+    </aside>
+
+    <div class="reader" data-pagefind-body>
+      {{ .Content }}
+    </div>
+
+    {{ partial "article-navigation.html" (dict "context" . "type" "hoofdstuk") }}
+
+    {{ if or (eq $chapter_num 1) (eq $chapter_num 10) }}
+      <div class="book-navigation-container block-center underneath-reader">
+        <h3>{{ i18n "chapter-nav" }}</h3>
+        <p>{{ i18n "chapter-nav-instruction" }}</p>
+        {{ partial "book-navigation.html" $story_page }}
+      </div>
+    
+    {{ end }}
+
+  </article>
+{{ end }}
+

@@ -1,0 +1,429 @@
+# GENERAL
+[site-name]
+    other = "De Levenssaga"
+
+[read-all]
+    other = "bekijk alles"
+
+[results]
+    other = "Resultaten"
+
+[story]
+    one = "verhaal"
+    other = "verhalen"
+
+[word]
+    one = "woord"
+    other = "woorden"
+
+[sentence]
+    one = "zin"
+    other = "zinnen"
+
+[cycle]
+    one = "cyclus"
+    other = "cycli"
+
+[timeperiod]
+    one = "tijdperk"
+    other = "tijdperken"
+
+[genre]
+    one = "genre"
+    other = "genres"
+
+[bundle]
+    one = "bundel"
+    other = "bundels"
+
+[misc]
+    other = "overig"
+
+[character]
+    one = "karakter"
+    other = "karakters"
+
+[prequel]
+    one = "voorverhaal"
+    other = "voorverhalen"
+
+[godlink]
+    one = "godenconnectie"
+    other = "godenconnecties"
+
+[teaches]
+    other = "leert"
+
+[refers]
+    other = "refereert"
+
+[happens]
+    other = "gebeurt"
+
+[data]
+    one = "datum"
+    other = "data"
+
+[statistic]
+    one = "statistiek"
+    other = "statistieken"
+
+[about]
+  other = "over"
+
+# HOMEPAGE
+[home-page-intro]
+    other = """Welkom bij &ldquo;<em>De Levenssaga</em>&rdquo; (<a href="/nl/over/">wat is dat?</a>). 
+    Begin bij het <a href="/nl/oebps/books/het-ontstaan-van-somnia/de-verbannen-familie">eerste verhaal</a>. Of lees de laatste verhalen hieronder. 
+    Of <a href="#verhalen-zoeken">zoek een specifiek verhaal</a>."""
+
+# BOOK OVERVIEW
+[front-page]
+  other = "voorpagina"
+
+[start-reading]
+  other = "Begin met lezen!"
+
+[continue-reading]
+  other = "Lees verder!"
+
+[chapter]
+  one = "hoofdstuk"
+  other = "hoofdstukken"
+
+[book-metadata]
+  other = "Informatie (spoilers!)"
+
+[book-summary]
+  other = "Samenvatting / Outline"
+
+[book-notes]
+  other = "Notities / Achtergrond"
+
+[print-instruction]
+  other = "Klik hier om het hele verhaal te printen (als één PDF)"
+
+[continue-reading-footer]
+    other = "Verder lezen"
+
+[continue-reading-hint]
+    other = "De links hieronder gaan naar het vorige en volgende verhaal, op volgorde van publicatie."
+
+[book-godlink-explanation]
+    other = "(Elk verhaal heeft <em>iets</em> of <em>iemand</em> verbonden met de originele goden die de wereld stichtten.)"
+
+[book-readability-explanation]
+    other = "(Vanaf deze groep kan iemand dit verhaal met gemak lezen. Gemiddelde van automatische leesbaarheidstests.)"
+
+[book-prequel-explanation]
+    other = "(Dit verhaal refereert dingen die in deze voorverhalen gebeuren. Het is niet vereist om ze te lezen, maar het kan handig zijn.)"
+
+[readability]
+    other = "Leesbaarheid"
+
+[book-locked]
+  other = "Koop dit verhaal!"
+
+[book-locked-explanation]
+  other = "Dit is een van de nieuwste verhalen. Je kan het daarom nog niet gratis online lezen. Bezoek hier <a href='{{ . }}'>de bundel waarin het verhaal zit</a>."
+
+# SEARCH functionality
+[search-front-page]
+  other = "Zoek op een andere manier"
+
+[search]
+    other = "zoeken"
+
+[search-instruction]
+    other = "Doorzoek website"
+
+[search-placeholder]
+    other = "Je zoektermen hier ... "
+
+[search-progress-feedback]
+  other = "Druk aan het zoeken ... (kan enkele seconden duren)"
+
+[search-advanced]
+  other = "Geavanceerd zoeken"
+
+[search-advanced-instructions]
+  other = """<p>Het systeem ziet elke term op zichzelf. Typ woorden dus los en probeer ze niet aan elkaar te plakken, zoals "Verzonken stad" of Verzonken+Stad.</p>
+  <ul>
+    <li><code>term1 term2</code><span>zoekt los op beide termen.</span></li>
+    <li><code>+term</code><span>moet sowieso voorkomen.</span></li>
+    <li><code>-term</code><span>mag niet voorkomen.</span></li>
+    <li><code>*erm</code><span>zoekt op termen die hierop <em>eindigen</em>.</span></li>
+    <li><code>ter*</code><span>zoekt op termen die hiermee <em>beginnen</em>.</span></li>
+    <li><code>term^X</code><span>hoe hoger het getal X, hoe belangrijker je deze term vindt.</span></li>
+    <li><code>term~X</code><span>hoe hoger het getal X, hoe meer de resultaten mogen afwijken van de term. (Bijv: "verliet~1" matcht ook "verliest".)</span></li>
+    <li><code>categorie:term</code><span>zoekt op een specifieke categorie. Opties zijn: <em>hoofdstuk, verhaal, tijdperk, cyclus, inhoud, eerstezin, genre</em>. (Bijv: "verhaal:beer" zoekt alle verhalen met beer in de titel.)</span></li>
+  </ul>"""
+
+# TAXONOMY pages
+[taxonomy-character]
+    other = "Hieronder staan alle verhalen waarin het karakter &ldquo;<em>{{ . }}</em>&rdquo; voorkomt."
+
+[taxonomy-bundle]
+    other = "Hieronder staan alle verhalen uit de bundel &ldquo;<em>{{ . }}</em>&rdquo;."
+
+[taxonomy-bundle-coming]
+    other = "Deze bundel is nog niet fysiek te koop."
+
+[taxonomy-bundle-link]
+    other = "Deze bundel is <a href='{{ . }}'>hier te koop</a>!"
+
+[taxonomy-bundle-error]
+    other = "FOUT: Deze bundel bestaat niet?"
+
+[taxonomy-timeperiod]
+    other = "Hieronder staan alle verhalen uit het tijdperk &ldquo;<em>{{ . }}</em>&rdquo;."
+
+[taxonomy-genre]
+    other = "Hieronder staan alle verhalen in het genre &ldquo;<em>{{ . }}</em>&rdquo;."
+
+[taxonomy-teaches]
+    other = "Hieronder staan alle verhalen die iets leren over het onderwerp &ldquo;<em>{{ . }}</em>&rdquo;."
+
+[taxonomy-refers]
+  other = "Hieronder staan alle verhalen die verwijzen naar de term &ldquo;<em>{{ . }}&rdquo;.</em> (Dit kan ook een gebeurtenis of concept zijn.)"
+
+[taxonomy-refers-to-happens]
+  other = "Bekijk ook de <a href='{{ . }}'>verhalen waarin dit daadwerkelijk gebeurt</a>."
+
+[taxonomy-happens]
+  other = "Hieronder staan alle verhalen waarin de gebeurtenis &ldquo;<em>{{ . }}</em>&rdquo; plaatsvindt."
+
+[taxonomy-happens-to-refers]
+  other = "Bekijk ook de <a href='{{ . }}'>verhalen die hiernaar verwijzen</a>."
+
+[taxonomy-general]
+    other = "Hieronder staat alles uit de categorie &ldquo;<em>{{ . }}</em>&rdquo;."
+
+[taxonomy-cycle]
+    other = "Hieronder staan alle verhalen uit de cyclus &ldquo;<em>{{ . }}</em>&rdquo;. (Een cyclus is een reeks van tien verhalen, één per tijdperk.)"
+
+[taxonomy-cycle-status]
+    other = "Deze cyclus begon op <em>{{ .start_date }}</em> en is {{ if .done }} af! {{ else }} op dit moment bezig! {{ end }}"
+
+[summary-searchable-category]
+  other = "Dit is een zoekbare categorie. Het heeft geen eigen beschrijving."
+
+# NAVIGATION/MENUS
+[language-tooltip]
+  other = "Verander van taal"
+
+[language-alt]
+  other = "Knop om de taal van de website te veranderen"
+
+[language-picker-heading]
+  other = "Taaltovenaar"
+
+[language-picker-desc]
+  other = "Klik een taal om de website daarin te veranderen."
+
+[bookshelf-tooltip]
+  other = "Bezoek je boekenkast! (Ongelezen/Bezig/Uitgelezen)"
+
+[bookshelf-alt]
+  other = "Knop om je boekenkast te bezoeken"
+
+[font-tooltip]
+  other = "Kies een nieuw lettertype!"
+
+[font-alt]
+  other = "Knop om nieuw lettertype te kiezen"
+
+[goto-bottom-tooltip]
+  other = "Ga naar het einde van de pagina"
+
+[goto-bottom-alt]
+  other = "Knop om omlaag te scrollen"
+
+[no-prev-general]
+    other = "Geen vorig"
+
+[no-next-general]
+    other = "Geen volgend"
+
+[prev-page]
+    other = "Vorige pagina"
+
+[prev-page-not]
+    other = "Geen vorige pagina"
+
+[next-page]
+    other = "Volgende pagina"
+
+[next-page-not]
+    other = "Geen volgende pagina"
+
+[no-prev-story]
+  other = "Geen vorig verhaal"
+
+[no-next-story]
+  other = "Geen volgend verhaal"
+
+# @TODO: should be another navigation-X thingy from article-navigation, right? Or not?
+[navigation-hoofdstuk]
+    other = "hoofdstuk"
+
+[chapter-nav]
+  other = "Ander verhaal?"
+
+[chapter-nav-instruction]
+  other = "Deze knoppen gaan naar de verhalen hiervoor (links) en hierna (rechts)."
+
+# FONTS
+[font-select-instruction]
+    other = "Kies het lettertype dat je leuk vindt."
+
+[font-select-book]
+    other = "boek"
+
+[font-select-modern]
+    other = "modern"
+
+[font-select-playful]
+    other = "speels"
+
+
+[font-remark-georgia]
+  other = "standaardlettertype"
+
+[font-remark-baskerville]
+  other = "mix ouderwets en modern"
+
+[font-remark-garamond]
+  other = "ouderwets sprookjesachtig"
+
+[font-remark-merriweather]
+  other = "groter en vrolijker"
+
+[font-remark-gentium]
+  other = "chique en dik"
+
+[font-remark-roboto-serif]
+  other = "simpel en groot"
+
+[font-remark-caslon]
+  other = "elegant, schuingedrukt valt enorm op"
+
+[font-remark-literata]
+  other = "groot en dik"
+
+[font-remark-vollkorn]
+  other = "traditioneel en sprookjesachtig"
+
+[font-remark-imfell]
+  other = "ouderwetse typemachine"
+
+[font-remark-cabin]
+  other = "modern, maar zacht"
+
+[font-remark-roboto]
+  other = "simpel en neutraal"
+
+[font-remark-bellota-text]
+  other = "sierlijk, mist dikgedrukt"
+
+[font-remark-open-sans]
+  other = "simpel en neutraal"
+
+[font-remark-merriweather-sans]
+  other = "groot en dik"
+
+[font-remark-overlock]
+  other = "sierlijk en boekachtig"
+
+[font-remark-nunito]
+  other = "zacht en rond"
+
+[font-remark-mali]
+  other = "krullend en heksachtig"
+
+[font-remark-bellota]
+  other = "sierlijk, bijna handgeschreven"
+
+[font-remark-balsamiq]
+  other = "dik en vrolijk"
+
+[font-remark-grandstander]
+  other = "cartoony, maar goed leesbaar"
+
+[font-remark-simonetta]
+  other = "elegant, maar erg dun"
+
+[font-remark-comic-neue]
+  other = "zacht, cartoony, en erg dun"
+
+# FOOTER
+[footer-stories]
+  other = "Hieronder staan de laatste tien verhalen."
+
+[footer-timeperiods]
+  other = "Klik een tijdperk om alle verhalen daarin te zien."
+
+[footer-misc]
+  other = "Voor wie lekker anders wil zijn."
+
+[footer-goto-top]
+  other = "Terug naar boven"
+
+[footer-random-story]
+  other = "Willekeurig verhaal!"
+
+[footer-change-font]
+  other = "Verander van lettertype"
+
+[footer-change-language]
+  other = "Verander van taal"
+
+[footer-bookshelf]
+  other = "Mijn boekenkast"
+
+[footer-about]
+  other = "Over dit project"
+
+[footer-other-work]
+  other = "Mijn andere werk"
+
+[footer-support]
+  other = "Steun mij! / Doneer!"
+
+[footer-copyright-notice]
+  other = "Alle rechten voorbehouden"
+
+[footer-statistics]
+  other = "Gratis webversie van <a href='/nl/over/'>De Levenssaga</a> ({{ . }})&mdash;Geschreven met liefde (en een oude laptop)&mdash;Gemaakt met <a href='https://gohugo.io'>Hugo</a>"
+
+# Bookshelf
+[bookshelf]
+  one = "boekenkast"
+  other = "boekenkasten"
+
+[bookshelf-section-empty]
+    other = "Deze categorie is leeg."
+
+[loading]
+  other = "Aan het laden ..."
+
+[bookshelf-reading]
+  other = "Aan het lezen"
+
+[bookshelf-reading-short]
+  other = "Begonnen"
+
+[bookshelf-reading-progress]
+  other = "Gelezen t/m H"
+
+[bookshelf-unread]
+  other = "Ongelezen"
+
+[bookshelf-read]
+  other = "Gelezen"
+
+[bookshelf-instruction]
+  other = """Hier zie je welke verhalen je <a href="#stories-progress">aan het lezen bent</a>, 
+  welke je nog <a href="#stories-unread">niet hebt gelezen</a>, 
+  en welke je al hebt <a href="#stories-read">uitgelezen</a>.
+  """

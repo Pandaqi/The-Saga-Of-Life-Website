@@ -1,0 +1,135 @@
+@use "modules/globals" as g;
+
+#search {
+    --pagefind-ui-scale: 1.25;
+    --pagefind-ui-primary: #f0c992;
+    --pagefind-ui-text: #393939;
+    --pagefind-ui-background: #eeeeee;
+    --pagefind-ui-border: #eeeeee;
+    --pagefind-ui-tag: rgba(255,255,255,0.5);
+    --pagefind-ui-border-width: 2px;
+    --pagefind-ui-border-radius: 8px;
+    --pagefind-ui-image-border-radius: 8px;
+    --pagefind-ui-image-box-ratio: 3 / 2;
+
+    // max-width: 920px;
+    // margin: auto
+    
+    .pagefind-ui__filter-block {
+        padding: 0;
+
+        .pagefind-ui__filter-group {
+            padding-top: 0;
+            gap: 0;
+        }
+    }
+
+    .pagefind-ui__button {
+        background-color: #754e16;
+    }
+
+    
+
+    .pagefind-ui__results {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 1em;
+
+        .pagefind-ui__result {
+            max-width: 100%;
+            height: auto;
+            gap: 0;
+            padding: 0;
+            padding-top: 1em;
+            padding-bottom: 1em;
+            margin-top: 0;
+
+            // to undo default styling on BIG links
+            a { 
+                padding: 0;
+            }
+
+            .pagefind-ui__result-thumb {
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                height: 100%;
+                margin-top: 0;
+                padding: 1em;
+
+                @media all and (max-width: 620px)
+                {
+                    display: none;
+                }
+
+                .pagefind-ui__result-image {
+                    position: initial;
+                    left: auto;
+                    transform: none;
+                }
+            }
+
+            .pagefind-ui__result-inner {
+                padding-left: 1em;
+
+                .pagefind-ui__result-tags
+                {
+                    gap: 0.25em;
+                }
+            
+                .pagefind-ui__result-tag {
+                    font-size: 0.66em;
+                    padding: 0.25em;
+                }
+            
+            }
+        }
+    }
+}
+
+form {
+    display: flex;
+    gap: 0.5em;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+
+    input[type="text"] {
+        width: 100%;
+    }
+
+    input[type="submit"] {
+        width: auto;
+        margin: 0;
+    }
+
+    input {
+        border-radius: 0.5em;
+        border: none;
+        font-size: 1em;
+        padding: g.$btn-nav-padding;
+    }
+}
+
+.advanced-search-explanation {
+    margin: auto;
+    max-width: g.$main-max-width;
+
+    ul {
+        li {
+            display: flex;
+            margin-bottom: 0.5em;
+            gap: 0.5em;
+            align-items: start;
+        }
+    }
+
+    code {
+        background-color: #c2c2fc;
+        display: block;
+        padding: 0.15em;
+        border-radius: 0.5em;
+        color: #141456;
+        font-size: 0.8em;
+    }
+}

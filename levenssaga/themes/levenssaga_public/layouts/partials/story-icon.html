@@ -1,0 +1,31 @@
+{{ $size := or .size "small" }}
+{{ $class := or .class "" }}
+{{ $pagefind := or .pagefind false }}
+
+<!-- type can be story, timeperiod or cycle -->
+{{ $type := or .type "story" }}
+{{ $title := or (.value | urlize) "NOTITLE" }}
+{{ $icon_url_raw := partial "func/get-icon-url.html" (dict "type" $type "title" $title) }}
+{{ $icon_url := printf "/static%s" $icon_url_raw }}
+
+{{ if eq $type "dynamic" }}
+  {{ $icon_url_story := printf "/static/oebps/story_icons/%s.webp" $title }}
+  {{ $icon_url_timeperiod := printf "/static/oebps/timeperiod_icons/%s.webp" $title }}
+  {{ $icon_url_cycle := printf "/static/oebps/cycle_icons/%s.webp" $title }}
+  {{ if fileExists $icon_url_story }}{{ $icon_url = $icon_url_story }}
+  {{ else if fileExists $icon_url_timeperiod }}{{ $icon_url = $icon_url_timeperiod }}
+  {{ else if fileExists $icon_url_cycle }}{{ $icon_url = $icon_url_cycle }}
+  {{ end }}
+{{ end }}
+
+{{ if fileExists $icon_url }}
+  {{ $img_url := substr $icon_url 7 }} <!-- cut off "/static" -->
+  <img 
+    class="story-icon story-icon-{{ $size }} {{$class}}" 
+    src="{{ $img_url }}" 
+    alt="Icon for {{ $title }}"
+    {{ if $pagefind }}
+      data-pagefind-meta="image[src], image_alt[alt]"
+    {{ end }}
+  />
+{{ end }}

@@ -1,0 +1,19 @@
+@use "modules/globals" as g;
+
+.reader-container {
+    margin: auto;
+    max-width: g.$main-max-width;
+
+    .reader {
+        max-width: g.$reader-max-width;
+    }
+}
+
+.within-reader-full-width {
+    margin-left: 0px;
+}
+
+.section-metadata {
+    display: flex;
+    line-height: 100%;
+}

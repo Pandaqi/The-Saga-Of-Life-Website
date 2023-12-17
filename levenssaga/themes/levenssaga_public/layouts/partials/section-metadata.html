@@ -1,0 +1,33 @@
+{{ $class := or .class "" }}
+
+<aside class="section-metadata {{ $class }}">
+
+  <!-- type is chapter, story or taxonomy -->
+  {{ $type := or .type "story" }}
+  {{ $template := or .template false }}
+  {{ $add_navigation := or .add_navigation false }}
+
+  {{ $icon_name := partial "func/get-shared-id.html" (dict "context" .context "type" "story") }}
+  {{ if eq $type "template" }}{{ $icon_name = "the-banished-siblings" }}{{ $type = "story" }}{{ end }}
+  {{ partial "story-icon.html" (dict "size" "small" "class" "inversion-disabled" "value" $icon_name "pagefind" true) }}
+
+  {{ $book_title := .context.CurrentSection.Title }}
+  {{ $book_title_transformed := $book_title | upper }}
+  {{ if eq .usage "link" }}
+    <a href="{{ .context.CurrentSection.RelPermalink }}" data-pagefind-meta="story" class="story-name">{{ $book_title_transformed }}</a>
+  {{ else if eq .usage "print" }}
+    <span data-pagefind-meta="story" class="story-name">{{ $book_title_transformed }}</span>
+  {{ end }}
+
+  {{ if eq $type "story" }}
+    <span>&middot;</span><span class="dynamic-read-data story-name" story-name="{{ $book_title }}"></span>
+  {{ else if eq $type "chapter" }}
+    {{ $chapter_num := partial "func/read-chapter-num.html" .context }}
+    <span>&middot;</span><span class="dynamic-read-data chapter-name" story-name="{{ $book_title }}" chapter-num="{{ $chapter_num }}"></span>
+  {{ end }}
+
+  {{ if $add_navigation }}
+    {{ partial "article-navigation-pure.html" (dict "context" .context "type" "hoofdstuk") }}
+  {{ end }}
+    
+</aside>

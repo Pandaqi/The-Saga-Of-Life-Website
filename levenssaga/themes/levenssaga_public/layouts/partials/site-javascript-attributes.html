@@ -1,0 +1,47 @@
+{{- $chapter_num := partial "func/read-chapter-num.html" . -}}
+{{ if not $chapter_num }}{{ $chapter_num = 0 }}{{ end }}
+
+{{- $book := .CurrentSection.Title }}
+{{- $is_book := .Params.book }}
+{{- $timeperiod_colors := .Site.Params.timeperiodColors }}
+{{- $lang := .Language.Lang -}}
+
+{{- $all_stories := partialCached "func/get-flat-story-list.html" . -}}
+{{- $story_list := slice }}
+{{- range $all_stories | shuffle | first 10 -}}
+    {{- $story_list = $story_list | append .RelPermalink -}}
+{{- end -}}
+{{- $story_string := delimit $story_list "," }}
+
+{{ $read_text := i18n "bookshelf-read" }}
+{{ $unread_text := i18n "bookshelf-unread" }}
+{{ $reading_text := i18n "bookshelf-reading-short" }}
+{{ $progress_text := i18n "bookshelf-reading-progress" }}
+{{ $empty_text := i18n "bookshelf-section-empty" }}
+
+<!-- this element simply holds attributes readed by JavaScript libraries -->
+<span style="display:none;" id="hidden-javascript-metadata"
+    data-lang="{{ $lang }}"
+    data-chapter="{{ $chapter_num }}" 
+    data-book="{{ $book }}"
+    data-stories="{{ $story_string }}"
+    data-translation-read="{{ $read_text }}"
+    data-translation-unread="{{ $unread_text }}"
+    data-translation-reading="{{ $reading_text }}"
+    data-translation-progress="{{ $progress_text }}"
+    data-translation-empty="{{ $empty_text }}"
+    data-timeperiod-colors="{{ $timeperiod_colors }}"
+
+    {{ if $is_book }}
+        {{ range .Pages }}
+            {{ $num := partial "func/read-chapter-num.html" . }}
+            data-link-chapter-{{ $num }}="{{ .RelPermalink }}"
+        {{ end }}
+    {{ end }}
+
+    >
+</span>
+
+<div style="display:none;">
+    {{ partial "summary.html" . }}
+</div>

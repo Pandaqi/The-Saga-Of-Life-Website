@@ -1,0 +1,15 @@
+{{ $prev := .context.PrevInSection }}
+{{ $next := .context.NextInSection }}
+
+{{ $type := .type }}
+{{ $type_translated := i18n (printf "navigation-%s" $type) }}
+
+{{ if $next }}
+    <span>&middot;</span>
+    <a href="{{ $next.RelPermalink }}" class="prev prev-pure" id="prev-chapter">{{ $next.Title }} &laquo;</a>
+{{ end }}
+
+{{ if $prev }}
+    <span>&middot;</span>
+    <a href="{{ $prev.RelPermalink }}" class="next next-pure" id="next-chapter">&raquo; {{ $prev.Title }}</a>
+{{ end }}

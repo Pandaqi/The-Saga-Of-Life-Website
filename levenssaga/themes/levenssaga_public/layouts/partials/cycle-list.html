@@ -1,0 +1,19 @@
+<ul>
+  {{ $cycle_list := partial "func/get-books-page.html" . }}
+  {{ $counter := 1 }}
+
+  {{ range $cycle_list.Pages }} 
+    {{ $url := printf "/cycle/%s" (.Title | urlize) }}
+    {{ $page := .GetPage $url }}
+    {{ with $page }}
+    <li>  
+      {{ $name := partial "func/get-shared-id.html" (dict "context" . "type" "cycle") }}
+      <a href="{{ .RelPermalink }}" class="flex-btn">
+        {{ partial "story-icon.html" (dict "type" "cycle" "value" $name) }}
+        <span>{{ $counter }}. {{ .Title }}</span>
+        {{ $counter = add $counter 1 }}
+      </a>
+    </li>
+    {{ end }}
+  {{ end }}
+</ul>

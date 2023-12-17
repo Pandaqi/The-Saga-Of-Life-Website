@@ -1,0 +1,64 @@
+{{- printf "<?xml version=\"1.0\" encoding=\"UTF-8\" ?>" | safeHTML }}
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1"
+     xml:lang="{{ .Lang }}">
+  <head>
+        <meta name="dtb:uid" content="{{ .Site.Params.bookid | default now.Unix }}" />
+        <meta name="dtb:depth" content="0" />
+        <meta name="dtb:totalPageCount" content="0" />
+        <meta name="dtb:maxPageNumber" content="0" />
+  </head>
+  <docTitle><text>{{ .Site.Params.title }}</text></docTitle>
+  <docAuthor><text>{{ .Site.Params.creator }}</text></docAuthor>
+
+  <navMap>
+  
+    <navPoint id="frontpage"
+              playOrder="1">
+      <navLabel>
+        <text>Frontpage</text>
+      </navLabel>
+      <content src="frontpage.xhtml" />
+    </navPoint>
+ 
+ 
+    <navPoint id="tableofcontents"
+              playOrder="2">
+      <navLabel>
+        <text>Table of Contents</text>
+      </navLabel>
+      <content src="tableofcontents.xhtml" />
+    </navPoint>
+
+{{ $all_stories := partial "func/get-flat-story-list-reversed.html" . }}
+{{ $playOrder := 2 }}
+{{ range $all_stories }}
+    {{ $playOrder = add $playOrder 1 }}
+    {{ $bookTitle := .Title | urlize }}
+
+    <navPoint id="book_{{ $bookTitle }}"
+              playOrder="{{ $playOrder }}">
+      
+      <navLabel>
+        <text>{{ .Title }}</text>
+      </navLabel>
+      <content src="{{ replace .Permalink "/oebps/" "" }}" />
+
+        {{ range .Pages }}
+          {{ $playOrder = add $playOrder 1 }}
+          {{ $chapterTitle := .Title | urlize }}
+
+          <navPoint id="book_{{ $bookTitle }}_chapter_{{ $chapterTitle }}"
+                  playOrder="{{ $playOrder }}">
+          
+          <navLabel>
+            <text>{{ .Title }}</text>
+          </navLabel>
+          <content src="{{ replace .Permalink "/oebps/" "" }}" />
+          </navPoint>
+        {{ end }}
+
+    </navPoint>
+{{ end }}
+ 
+  </navMap>
+</ncx>

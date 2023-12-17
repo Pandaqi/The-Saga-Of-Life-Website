@@ -1,0 +1,10 @@
+<h2 class="center">{{ (i18n "chapter" (dict "Count" 2)) | humanize }}</h2>
+<div class="print-instruction">
+  <a href="print">{{ i18n "print-instruction" }}</a>
+</div>
+<nav class="summary-container">
+  {{ range .Pages }}
+      {{ if not (partial "func/test-if-chapter.html" .) }}{{ continue }}{{ end }}
+      {{ partial "summary.html" . }}
+  {{ end }}
+</nav>

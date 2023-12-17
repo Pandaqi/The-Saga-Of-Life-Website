@@ -1,0 +1,48 @@
+@use "modules/globals" as g;
+
+form {
+    display: flex;
+    gap: 0.5em;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+
+    input[type="text"] {
+        width: 100%;
+    }
+
+    input[type="submit"] {
+        width: auto;
+        margin: 0;
+    }
+
+    input {
+        border-radius: 0.5em;
+        border: none;
+        font-size: 1em;
+        padding: g.$btn-nav-padding;
+    }
+}
+
+.advanced-search-explanation {
+    margin: auto;
+    max-width: g.$main-max-width;
+
+    ul {
+        li {
+            display: flex;
+            margin-bottom: 0.5em;
+            gap: 0.5em;
+            align-items: start;
+        }
+    }
+
+    code {
+        background-color: #c2c2fc;
+        display: block;
+        padding: 0.15em;
+        border-radius: 0.5em;
+        color: #141456;
+        font-size: 0.8em;
+    }
+}

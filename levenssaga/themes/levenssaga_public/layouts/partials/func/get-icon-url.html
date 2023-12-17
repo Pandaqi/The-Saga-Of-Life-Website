@@ -1,0 +1,4 @@
+{{ $type := or .type "story" }}
+{{ $title := or (.title | urlize) "NOTITLE" }}
+{{ $icon_url := printf "/oebps/%s_icons/%s.webp" $type $title }}
+{{ return $icon_url }}

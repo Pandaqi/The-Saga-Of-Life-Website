@@ -1,0 +1,37 @@
+@use "modules/globals" as g;
+
+// header is almost completely in critical,
+// as it's first thing you see and doesn't have many rules
+#site-header {
+    z-index: 1000;
+
+    .righthand-buttons {
+        @media (max-width: g.$breakpoint-tiny) {
+            display: none;
+        }
+    }
+}
+
+.header-transition-mask {
+    margin-top: -4.5em;
+    z-index: 950;
+
+    &.homepage-header {
+        $timeline-mask: "/oebps/marketing/header_timeline_mask.webp";
+        mask-image: url($timeline-mask);
+        mask-position: center top;
+        -webkit-mask-image: url($timeline-mask);
+        -webkit-mask-position: center top;
+        margin-top: -0.5vw;
+        margin-bottom: -5.8vw;
+        height: 5.8vw; // 5.8 is simply the ratio between the image width and its height
+
+        @media (max-width: g.$breakpoint-medium) {
+            -webkit-mask-size: cover;
+            mask-size: cover;
+
+            height: 2.0em;
+            margin-bottom: -2.0em;
+        }
+    }
+}

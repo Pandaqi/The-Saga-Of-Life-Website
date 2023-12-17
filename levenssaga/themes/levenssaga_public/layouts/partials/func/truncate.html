@@ -1,0 +1,13 @@
+{{ $input := .input | plainify | replaceRE `\r` "" | replaceRE `\n` " " | replaceRE `\s{2,}` " " }}
+{{ $maxLength := .maxLength | int }}
+{{ $endMarks := slice "." "?" "!" ";" }} <!-- The semicolon (;) is to prevent breaking html entities -->
+
+{{ $regex := printf `(?s)^.{0,%d}\W` (sub $maxLength 1) }}
+{{ $truncated := index (findRE $regex $input) 0 | replaceRE `\s+$` "" }}
+{{ if not (in $endMarks (substr $truncated -1)) }}
+  {{ $truncated = replaceRE `\W+$` "" $truncated }}
+{{ end }}
+
+{{ $truncated = print $truncated "&hellip;" }}
+
+{{ return $truncated }}

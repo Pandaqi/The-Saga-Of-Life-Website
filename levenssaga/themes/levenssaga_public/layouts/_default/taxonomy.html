@@ -1,0 +1,92 @@
+{{ define "main" }}
+
+  {{ with .Content }}
+  <div class="overview-message" style="font-size: 0.75em; line-height: 125%; margin-bottom: 4em;">
+    {{ . }}
+  </div>
+  {{ end }}
+
+  <h2 class="center">{{ i18n "results" }}</h2>
+  
+  {{ $lang := .Language.Lang }}
+  {{ $page_type := .Data.Plural }}
+  {{ $is_specific_option := ne $page_type (.Title | urlize) }}
+
+  {{ $start_date := "" }}
+  {{ $cycle_is_done := ge (len .Paginator.Pages) 10 }}
+  {{ if not .Date.IsZero }}
+    {{ $start_date = time.Format "2 January, 2006" .Date }}
+  {{ end }}
+
+  {{ $title_translated := (i18n (.Title | lower) (dict "Count" 1)) | humanize }}
+  {{ $title := or $title_translated .Title }}
+
+  <p class="overview-message">
+    {{ if $is_specific_option }}
+      {{ if eq $page_type "character" }}
+        {{ (i18n "taxonomy-character" $title) | safeHTML }}
+      {{ else if eq $page_type "bundle" }}
+        {{ (i18n "taxonomy-bundle" $title) | safeHTML }}
+
+        {{ $bundle_url := printf "/bundle/%s" ($title | urlize) }}
+        {{ $bundle_page := $.Site.GetPage $bundle_url }}
+        {{ if (and $bundle_url $bundle_page) }}
+          {{ $bundle_url := $bundle_page.Params.purchaseURL }}
+          {{ (i18n "taxonomy-bundle-link" $bundle_url) | safeHTML }}
+        {{ else }}
+          {{ i18n "taxonomy-bundle-coming" }}
+        {{ end }}
+      {{ else if eq $page_type "timeperiod" }}
+        {{ (i18n "taxonomy-timeperiod" $title) | safeHTML }}
+      {{ else if eq $page_type "cycle" }}
+        {{ (i18n "taxonomy-cycle" $title) | safeHTML }}
+        {{ $data := dict "start_date" $start_date "done" $cycle_is_done }}
+        {{ (i18n "taxonomy-cycle-status" $data) | safeHTML }}
+      {{ else if eq $page_type "genre" }}
+        {{ (i18n "taxonomy-genre" $title) | safeHTML }}
+      {{ else if eq $page_type "teaches" }}
+        {{ (i18n "taxonomy-teaches" $title) | safeHTML }}
+      {{ else if eq $page_type "refers" }}
+        {{ (i18n "taxonomy-refers" $title) | safeHTML }}
+        
+        {{ with .Site.GetPage (printf "/%s/happens/%s" $lang ($title | urlize)) }}
+          {{ (i18n "taxonomy-refers-to-happens" .RelPermalink) | safeHTML }}
+        {{ end }}
+        
+      {{ else if eq $page_type "happens" }}
+        {{ (i18n "taxonomy-happens" $title) | safeHTML }}
+        
+        {{ with .Site.GetPage (printf "/%s/refers/%s" $lang ($title | urlize)) }}
+          {{ (i18n "taxonomy-happens-to-refers" .RelPermalink) | safeHTML }}
+        {{ end }}
+
+      {{ end }}
+    {{ else }}
+      {{ (i18n "taxonomy-general" $title) | safeHTML }}
+    {{ end }}
+  </p>
+
+  <nav class="summary-container">
+    {{ $word_count := 0 }}
+    {{ $story_count := 0 }}
+    {{ range .Paginator.Pages.Reverse }}
+      {{ partial "summary.html" . }}
+      {{ $story_count = add $story_count 1 }}
+
+      {{ range .Pages }}
+        {{ if not (partial "func/test-if-chapter.html" .) }}{{ continue }}{{ end }}
+        {{ $word_count = add $word_count (countwords .Content) }}
+      {{ end }}
+
+    {{ end }}
+  </nav>
+
+  {{ partial "taxonomy-navigation.html" . }}
+
+  {{ if $is_specific_option }}
+    <aside class="taxonomy-metadata block-center">
+      <p>{{ $story_count }} {{ i18n "story" (dict "Count" 2) }}, {{ $word_count | lang.NumFmt 0 }} {{ i18n "word" (dict "Count" 2) }}.</p>
+    </aside>
+  {{ end }}
+{{ end }}
+

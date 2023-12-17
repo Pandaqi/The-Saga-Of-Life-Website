@@ -1,0 +1,42 @@
+.welcome-message-container {
+    z-index: 900;
+  }
+  
+  .homepage-transition-mask {
+    margin-top: -5.0em;
+    z-index: 850;
+  }
+  
+  .welcome-message {
+    a:hover {
+      color: #103920;
+    }
+  
+    .favicon-logo img {
+      filter: drop-shadow(0 0 5px black);
+    }
+  }
+  
+  .metadata-links {
+    p {
+      display: inline;
+    }
+    
+    ul {
+      display: inline;
+  
+      li {
+        display: inline-block;
+        margin: 0.25em;
+  
+        a {
+          margin: 0;
+
+          .metadata-item-count {
+            font-style: italic;
+            opacity: 0.66;
+          }
+        }
+      }
+    }
+  }

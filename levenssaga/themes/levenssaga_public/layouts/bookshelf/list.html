@@ -1,0 +1,36 @@
+{{ define "main" }}
+  {{ $loading_text := i18n "loading" }}
+  {{ $shelf_text := (i18n "bookshelf" (dict "Count" 1)) | humanize }}
+  <h1 class="center drop-cap">{{ $shelf_text }}</h1>
+  <p class="overview-message" style="margin-bottom:6.0em;">
+    {{ i18n "bookshelf-instruction" | safeHTML }}
+  </p>
+
+  <a name="stories-progress" class="invisible-link"></a>
+  <h2 class="center drop-cap">{{ i18n "bookshelf-reading" }}</h2>
+  <ul class="summary-container remove-standard-list-type" id="stories-progress">
+    <li><em>{{ $loading_text }}</em></li>
+  </ul>
+
+  <a name="stories-unread" class="invisible-link"></a>
+  <h2 class="center drop-cap">{{ i18n "bookshelf-unread" }}</h2>
+  <ul class="summary-container remove-standard-list-type" id="stories-unread">
+    <li><em>{{ $loading_text }}</em></li>
+  </ul>
+
+  <a name="stories-read" class="invisible-link"></a>
+  <h2 class="center drop-cap">{{ i18n "bookshelf-read" }}</h2>
+  <ul class="summary-container remove-standard-list-type" id="stories-read">
+    <li><em>{{ $loading_text }}</em></li>
+  </ul>
+
+  <span style="display:none;" id="hidden-bookshelf-metadata">
+    {{ $stories := partial "func/get-flat-story-list.html" . }}
+    {{ range $stories }}
+      {{ $id := .Params.uniqueID }}
+      {{ $color := partial "func/color-scheme.html" . }}
+      {{ $icon_url := partial "func/get-icon-url.html" (dict "type" "story" "title" $id) }}
+      <span data-url="{{ .RelPermalink }}" data-story="{{ .Title }}" data-content="{{ .Params.blurb | markdownify }}" data-icon="{{ $icon_url }}" data-timeperiod="{{ $color }}"></span>
+    {{ end }}
+  </span>
+{{ end }}

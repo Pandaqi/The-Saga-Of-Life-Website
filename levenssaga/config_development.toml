@@ -1,0 +1,76 @@
+baseURL = "https://delevenssaga.nl"
+title = "De Levenssaga"
+theme = "levenssaga_public"
+author = "Tiamo Pastoor"
+
+defaultContentLanguage = 'nl'
+defaultContentLanguageInSubdir = true
+languageCode = "nl-NL"
+
+[languages]
+  [languages.nl]
+    contentDir = 'content/nl'
+    languageName = 'Nederlands'
+    title = "De Levenssaga"
+    weight = 3
+    [languages.nl.params]
+      timeperiodList = [
+        "Het Zwarte Gat", "De Eerste Stappen", "Het Wolkengezag", 
+        "Het Eerste Conflict", "Het Kompaanschap", "De Vondst van Floria", 
+        "Het Zeevaarderschap", "Het Tweede Conflict", "De Breekbare Balans", 
+        "De Ruimtereis"]
+      genreList = [
+        "Breinbreker", "Gesprekken", "Actief", "Gevecht", "Maatschappij", "Magie", "Mythe", "Mysterie", "Wetenschap", "Technologie", "Eng", "Avontuur", "Reizen", "Goden", "Creativiteit", "Grappig", "Verdrietig", "Familie", "Vriendschap", "Liefde", "Educatief", "Groeien", "Ontstaan", "Ontdekking", "Overleven", "Misdaad", "Spionage", "Waargebeurd", "Belangrijk", "Toekomst", "Macht"]
+    
+  [languages.en]
+    contentDir = 'content/en'
+    languageName = 'English'
+    title = "The Saga of Life"
+    weight = 1
+    [languages.en.params]
+      timeperiodList = [
+        "The Black Hole", "The First Steps", "The Cloudtority", 
+        "The First Conflict", "The Companionship", "The Founding of Floria",
+        "The Seafarship", "The Second Conflict", "The Bruised Balance",
+        "The Envoyage"]
+      genreList = [
+        "Brainteaser", "Dialogue", "Active", "Fight", "Society", "Magic", "Myth", "Mystery",
+        "Science", "Technology", "Scary", "Adventure", "Travel", "Gods", "Creativity", "Funny",
+        "Sad", "Family", "Friendship", "Love", "Educational", "Growth", "Creation",
+        "Discovery", "Survival", "Crime", "Espionage", "Truestory", "Important", "Future", "Power" ]
+
+#ignoreFiles = ['oebps/books/[^De Verbannen Familie | ^De Pluizenaars | ^_index.md]']
+summaryLength = 20
+paginate = 10
+
+[permalinks]
+  #books = "/oebps/books/:sections[last]/:filename"
+  #"/" = "/oebps/:filename"
+
+[taxonomies]
+  timeperiod = 'timeperiod'
+  cycle = 'cycle'
+  bundle = 'bundle'
+  character = 'character'
+  refers = 'refers'
+  happens = 'happens'
+  genre = 'genre'
+  teaches = 'teaches'
+
+[params]
+  exportJavascriptIndexes = false
+  debugCriticalStyle = false
+  supportPageURL = "https://tiamopastoor.com/info/support/"
+
+  [params.timeperiodColors]
+    base = "base-color"
+    the-black-hole = "black"
+    the-first-steps = "green"
+    the-cloudtority = "lightblue"
+    the-first-conflict = "orange"
+    the-companionship = "purple"
+    the-founding-of-floria = "yellow"
+    the-seafarship = "darkblue"
+    the-second-conflict = "red"
+    the-bruised-balance = "pink"
+    the-envoyage = "space" 

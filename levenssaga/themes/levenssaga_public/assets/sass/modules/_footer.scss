@@ -1,0 +1,49 @@
+@use "modules/globals" as g;
+@use "modules/core";
+
+.footer-transition-mask {
+    margin-bottom: -2.0em;
+    z-index: 150;
+
+    transform: rotate(180deg);
+}
+
+#site-footer {
+    padding: g.$default-padding;
+    z-index: 0;
+    position: relative;
+
+    h3:first-letter {
+        @include core.drop-cap();
+        font-size: 2.0em;
+    }
+
+    .footer-container {
+        justify-content: space-around;
+
+        a[name="zoekbalk"] {
+            visibility: hidden;
+        }
+
+        button {
+            padding-top: 0.8em;
+            padding-bottom: 0.8em;
+        }
+
+        nav {
+            width: 100%;
+            max-width: 280px;
+
+            @media (max-width: g.$breakpoint-medium) {
+                max-width: 100%;
+            }
+        }
+    }
+
+    .footer-copyright {
+        text-align: center;
+        font-size: 0.67em;
+        color: rgba(0, 0, 0, 0.75);
+        margin-top: 1.25em;
+    }
+}

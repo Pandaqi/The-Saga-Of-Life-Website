@@ -1,0 +1,53 @@
+{{ define "pre-main" }}
+  <div class="welcome-message-container">
+    <section class="welcome-message">
+      <div class="favicon-logo">
+        <img src="/oebps/marketing/levenssaga_logo_color_detail.webp" alt="Logo levenssaga (kleur, gedetailleerd)" />
+      </div>
+      <div class="logo-and-text">
+        <div class="textual-logo">
+          <img src="/oebps/marketing/levenssaga_textual_logo.webp" alt="Textlogo levenssaga" />
+        </div>
+        <div>
+          <p>
+            {{ i18n "home-page-intro" | safeHTML }}
+          </p>
+        </div>
+      </div>
+    </section>
+  </div>
+  <div class="transition-mask homepage-transition-mask"></div>
+{{ end }}
+
+{{ define "main" }}
+  <nav class="summary-container">
+    {{ $all_stories := partialCached "func/get-flat-story-list.html" . }}
+    {{ range $all_stories | first 10 }}
+      {{ partial "summary.html" . }}
+    {{ end }}
+  </nav>
+
+  <nav class="metadata-links child-links-as-buttons">
+    <a name="verhalen-zoeken" class="invisible-link"></a>
+    <h2 class="center">{{ i18n "search-front-page" }}</h2>
+    <p><strong>{{ (i18n "cycle" (dict "Count" 1)) | humanize }}:</strong> 
+      {{ partialCached "cycle-list.html" . }}
+    </p>
+    
+    <div>&nbsp;</div>
+    <p><strong>{{ (i18n "timeperiod" (dict "Count" 1)) | humanize }}:</strong> 
+      {{ partialCached "timeperiod-list.html" . }}
+    </p>
+
+    <div>&nbsp;</div>
+    <p><strong>{{ (i18n "genre" (dict "Count" 1)) | humanize }}:</strong> 
+      {{ partial "taxonomy-list.html" (dict "context" . "key" "genre" "count" true) }}
+    </p>
+
+    <div>&nbsp;</div>
+    <p><strong>{{ (i18n "bundle" (dict "Count" 1)) | humanize }}:</strong>
+      {{ partial "taxonomy-list.html" (dict "context" . "key" "bundle" "overview" true) }}
+    </p>
+  </nav>
+{{ end }}
+

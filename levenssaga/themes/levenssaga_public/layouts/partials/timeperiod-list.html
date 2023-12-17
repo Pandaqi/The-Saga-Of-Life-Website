@@ -1,0 +1,16 @@
+<ul>
+  {{ $timeperiods := .Site.Params.timeperiodList }}
+  {{range $key, $value := $timeperiods }} 
+    {{ $url := printf "/timeperiod/%s" ($value | urlize) }}
+    {{ $page := $.Site.GetPage $url }}
+    {{ with $page }}
+      {{ $icon_name := partial "func/get-shared-id.html" (dict "context" . "type" "timeperiod") }}
+      <li>
+        <a href="{{ .RelPermalink }}" class="flex-btn">
+          {{ partial "story-icon.html" (dict "type" "timeperiod" "value" $icon_name) }}
+          <span>{{ add $key 1 }}. {{ $value }}</span>
+        </a>
+      </li>
+    {{end}}
+  {{end}}
+</ul>

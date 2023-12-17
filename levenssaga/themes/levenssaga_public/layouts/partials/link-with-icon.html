@@ -1,0 +1,8 @@
+{{ $text := or .value_text .value }}
+{{ $url := or .url "NOURL" }}
+<a href={{ $url }}>
+  <div class="flex-btn">
+    {{ partial "story-icon.html" (dict "type" .type "value" .value) }}
+    <span>{{ $text }}</span>
+  </div>
+</a>

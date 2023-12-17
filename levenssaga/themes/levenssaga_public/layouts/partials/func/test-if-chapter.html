@@ -1,0 +1,5 @@
+{{ $is_chapter := false }}
+{{ with .File }}
+  {{ $is_chapter = eq (substr .BaseFileName 0 7) "chapter" }}
+{{ end }}
+{{ return $is_chapter }}

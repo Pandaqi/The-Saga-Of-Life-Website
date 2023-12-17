@@ -1,0 +1,35 @@
+{{ $has_prev := "" }}
+{{ $has_next := "" }}
+{{ $prev_url := "" }}
+{{ $next_url := "" }}
+
+{{ $middle_message := "" }}
+
+{{ $has_prev = .Paginator.HasPrev }}
+{{ $has_next = .Paginator.HasNext }}
+
+{{ if $has_prev }}{{ $prev_url = .Paginator.Prev.URL }}{{ end }}
+{{ if $has_next}}{{ $next_url = .Paginator.Next.URL }}{{ end }}
+
+{{ $middle_message = printf "%d / %d" .Paginator.PageNumber .Paginator.TotalPages }}
+
+{{ $prev_page_text := i18n "prev-page" }}
+{{ $prev_page_text_not := i18n "prev-page-not" }}
+{{ $next_page_text := i18n "next-page" }}
+{{ $next_page_text_not := i18n "next-page-not" }}
+
+<nav class="article-navigation block-center child-links-as-buttons">
+  {{ if $has_prev }}
+    <a href="{{ $prev_url }}" class="prev" id="prev-chapter">{{ $prev_page_text }} &laquo;</a>
+  {{ else }}
+    <div class="prev-disabled">{{ $prev_page_text_not }} :(</div>
+  {{ end }}
+
+  <span class="middle-message">{{ $middle_message }}</span>
+
+  {{ if $has_next }}
+    <a href="{{ $next_url }}" class="next" id="next-chapter">&raquo; {{ $next_page_text }}</a>
+  {{ else }}
+    <div class="next-disabled">{{ $next_page_text_not }} :(</div>
+  {{ end }}
+</nav>
