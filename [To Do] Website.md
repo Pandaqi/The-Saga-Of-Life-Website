@@ -1,18 +1,5 @@
 # Website
 
-Create English version of Levenssaga logo.
-
-## "Where to start?"
-
-Create a page called "where do I start?" or something similar.
-
--   It explains you can start anywhere.
--   But that it's overwhelming, so most people would just like a list of "Starters".
--   (Assign that **GENRE** to those stories as well?)
--   So provide that.
-
-From now, regularly *consciously* pick a story to be a starter. (Most of them will be from the first time period, though.)
-
 ## Vertalingen
 
 Gebruik **Seamless-M4T** (tenzij er ondertussen iets beters is uitgekomen).

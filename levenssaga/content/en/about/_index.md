@@ -20,6 +20,8 @@ Even better, you don't have to believe me: **read some stories on this website a
 
 Although I write "family friendly", life contains many harsh or sad elements. The Saga of Life wouldn't work without their inclusion. Stories can take place during a war, characters might not survive, animals evolve and go extinct, and certainly not everything in life has a positive outcome.
 
+Unsure where to start? Check my page [Where do I start?](/en/where-do-i-start).
+
 ## The beta phase (2022-2024)
 
 This project is big and experimental, which is why I decided to give myself a year to figure things out before going "official". A test phase, or a beta phase.

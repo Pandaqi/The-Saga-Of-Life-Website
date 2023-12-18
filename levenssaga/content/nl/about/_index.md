@@ -23,6 +23,8 @@ Het mooie is dat je mij niet hoeft te geloven: **lees wat stukken op deze websit
 
 Hoewel ik dus kindvriendelijk schrijf, bevat het leven veel mindere elementen. Die ga ik vanzelfsprekend niet uit de weg. Verhalen kunnen dus plaatsvinden tijdens een oorlog, karakters kunnen het niet overleven, diersoorten komen op en sterven weer uit, niet alles heeft een positieve afloop.
 
+Onzeker waar je moet beginnen? Check mijn pagina [Waar moet ik beginnen?](/nl/waar-moet-ik-beginnen).
+
 ## De proefperiode (2022-2024)
 
 Dit project is dermate experimenteel dat ik besloot te beginnen met een soort proefperiode (of "beta phase").
