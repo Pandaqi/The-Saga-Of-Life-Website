@@ -12,7 +12,7 @@ bundle: 'Godenzonen & Stamdromen'
 character: ["Kesho (Gosti)", "Misha (Gosti)", "Farshar (Gosti)", "Jambir (Gosti)", "Jagu (Jaguar)", "Ardex"]
 prequel: []
 refers: ["Indus", "Schola", "Ashastam", "Jagustam", "Darusstenen"]
-happens: ["Spliting Ashastam", "Oorlog met Jagu"]
+happens: ["Splitsing Ashastam", "Oorlog met Jagu"]
 godlink: ["Ardex"]
 genre: ["Gesprekken", "Verdrietig", "Maatschappij", "Overleven", "Biologie", "Gevecht"]
 teaches: ["Jagers en Verzamelaars", "Genetische Diversificatie"]

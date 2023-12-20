@@ -8,7 +8,7 @@ book: true
 timeperiod: 'The Black Hole'
 cycle: 'The Creation of Somnia'
 bundle: "Dreamdinos & Animalgods"
-character: ['Ardex', 'Bella', 'Cosmo', 'Darus', 'Eeris', 'Feria', 'Gulvi', 'Hanah', 'Zandkoning (Claes)']
+character: ['Ardex', 'Bella', 'Cosmo', 'Darus', 'Eeris', 'Feria', 'Gulvi', 'Hanah', 'Sand King (Claes)']
 teaches: ['Gravity', 'Earth Core', 'Earth Crust', 'Moon Creation', 'DNA', 'Enzymes', 'Atmosphere']
 refers: ["Father's Wrath", 'Heavenly Palace', 'Mares (Planet)', "Zyme"]
 happens: ['Creation of Sandcreatures', "Darus' Impossible Wall", 'First Sea', 'Throne of Tomorrow', 'Tectonic Plates', 'Discovery DNA']

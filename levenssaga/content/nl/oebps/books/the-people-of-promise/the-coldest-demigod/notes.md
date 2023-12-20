@@ -26,22 +26,3 @@ Dat is ook iets dat ik vanaf dit verhaal (of deze hele cyclus) meer wilde doen: 
 * **Oeros**: "dé Oppergod", benoemd door Gaia en op troon geplaatst. Gelooft in "Zyme": goden moeten alles zijn beloop laten en zo min mogelijk invloed uitoefenen. Erg machtig in de _negatieve_ krachten (vernieling, weghalen, afbreken)
 * **Gaia**: de oppergodin. Kan alleen dingen _maken_ en wil alleen positieve krachten voor haarzelf houden. Is doodsbang voor de voorspelling dat één van haar kinderen het monster zal zijn dat het universum eindigt.
 * **Ardex**: onze bekende god van vuur en dood, in de jaren van kind tot volwassene.
-
-
-
-
-
-## Notes / @TODO
-
-@IDEA: Zijn aanval op Gaia zorgt ervoor dat Bella geen eigen krachten heeft en veel minder sterk is dan de andere goden. Haar wijsheid is vooral zelf aangeleerd door hard werken enzo.
-
-@TODO:
-* Eerder zo'n principe van "_Geen leven zonder dood._" die van Oeros of Ardex kan komen. Dáár beginnen die filosofische principes in eerste instantie.
-* Meer vanuit Ardex' beleving, gedachten en persoonlijkheid? => Meer "happy family" idee, van jaren waarin Ardex lekker opgroeit en speelt met zijn ouders?
-* Gaia meer kwaadaardig neerzetten, in ieder geval vanuit Ardex, om zijn haat te voeden en het gevecht logisch te maken
-* Het besef van Ardex dat "het gaat om reis, niet eindbestemming" meer laten zien en meer tijd geven. (Hoewel dat sowieso rest van de cyclus nog terugkomt.)
-* Gaia's gedeelte van het paleis (met water, rivieren, bruggen, etcetera) eerder een keer noemen?
-
-@TODO: Noemen dat het universum nu nog zo jong is, dat het nog steeds uitdijt, maar ook dat het heel warm is overal en stofjes (zoals zuurstof) overal rondzweven. (Dit zorgt ervoor dat de eerste levensvormen zomaar kunnen rondlopen zonder atmosfeer of misschien zelfs door de ruimte kunnen reizen zonder te sterven. => Dit is vooral voor een later verhaal.)
-
-@TODO: Die tuin van Gaia heet _Eden_?

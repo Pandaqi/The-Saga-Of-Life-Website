@@ -31,8 +31,10 @@
         {{ $bundle_url := printf "/bundle/%s" ($title | urlize) }}
         {{ $bundle_page := $.Site.GetPage $bundle_url }}
         {{ if (and $bundle_url $bundle_page) }}
-          {{ $bundle_url := $bundle_page.Params.purchaseURL }}
-          {{ (i18n "taxonomy-bundle-link" $bundle_url) | safeHTML }}
+          {{ $bundle_url := or $bundle_page.Params.purchaseURL "" }}
+          {{ $bundle_message := "taxonomy-bundle-coming" }}
+          {{ if $bundle_url }}{{ $bundle_message = "taxonomy-bundle-link" }}{{ end }}
+          {{ (i18n $bundle_message $bundle_url) | safeHTML }}
         {{ else }}
           {{ i18n "taxonomy-bundle-coming" }}
         {{ end }}
