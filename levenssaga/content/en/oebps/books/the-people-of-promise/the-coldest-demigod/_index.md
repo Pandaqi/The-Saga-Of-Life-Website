@@ -12,7 +12,7 @@ cycle: 'The People of Promise'
 bundle: 'Demigods & Clanhopes'
 character: ['Ardex', 'Oeros', 'Gaia']
 prequel: []
-refers: ["Prophecy of Guds", "Heavenmatter", "Heavenly Palace", "Dalas", "Zyme", "Earthwaker", "Skydancer", "Sunbeamer"]
+refers: ["Prophecy of Guds", "Heavenmatter", "Heavenly Palace", "Dalas", "Zyme", "Earthwaker", "Skydancer", "Sunbeamer", "Garden of Eden"]
 happens: ["Creation Firering", "Creation Firefeaster", "Jailing of Ardex", "Birth of Ardex"]
 teaches: []
 godlink: ['Ardex']
@@ -22,6 +22,11 @@ blurb: "The first child of the Chiefgods is born: Ardex. But Gaia fears he is a 
 
 timeline:
   - yearstart: -12000000
+
+readability:
+  - words: 13518
+    lines: 1473
+    score: 6
 
 ---
 

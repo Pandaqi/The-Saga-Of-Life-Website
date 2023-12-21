@@ -51,7 +51,7 @@ Oeros hummed and nodded, while studying a statue missing a limb. It showed him a
 
 Ardex found a statue of himself. Gaia had given him sharp tusks. He glanced over his own appearance, but there were no tusks in real life.
 
-"Well," he said, "when life almost dies, we save them. Or if they're hurt, we take it away. Did I understand that correctly? Is that what _pain_ means? It was _bad_, right?"
+"Well," he said, "when life almost dies, we save them. Or if they're hurt, we take the pain away. Nobody should feel pain." He knew he'd give all his magic to be freed from the fires within him, always hurting him. No, he wouldn't even dare imagine what pain meant to lesser non-magic creatures.
 
 "But what if two different types of life appear on the same planet and they fight each other? We can't help them both. Saving one means killing the other."
 

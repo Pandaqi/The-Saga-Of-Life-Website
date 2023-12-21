@@ -41,19 +41,23 @@ Jambir trok hem snel weg bij de voorraden. "En als je stiekem iets ervan eet," f
 
 "Een of andere magie. Gezegend door de goden, zeggen de jaguars altijd."
 
-Gezegend door de goden. Net zoals zij door Eeris bijna elke winter waren geholpen? Kesho wilde langer kijken, maar paniekerige schreeuwen uit het kamp trokken zijn aandacht. Iets stond in de brand, ongeveer rond het middelpunt tussen alle hutjes, en Gosti renden terug van de rivier met emmers water.
+Gezegend door de goden. Net zoals zij door Eeris bijna elke winter waren geholpen? Kesho wilde langer kijken, maar paniekerige schreeuwen uit het kamp trokken zijn aandacht. Iets stond in de brand, ongeveer rond het middelpunt tussen alle hutjes. Gosti renden terug van de rivier met manden die water lekten.
 
-"Ze hebben de boel in brand gestoken!" riep Jambir.
+"Een straf van de goden!" riep Jambir. Hij stapte bij Kesho vandaan.
 
-"Welnee, dat is ons kampvuurtje. Doen we bijna elke avond."
+"Nee, _dit_ is nou een zegen van de goden. Denken we."
 
-Jambir had lange tijd nodig om dit te verwerken. Kesho leerde pas later dat het een unieke vaardigheid van de Ashastam was om vuur te kunnen maken.
+"Dat _denk_ je?"
 
-Farshar rende inmiddels rond om iedereen duidelijk te maken dat er niks aan de hand was en dat ze het vuur onder controle hadden. Het maakte de relatie met de jaguars er niet beter op. De zwakkere dieren van de Ashastam, zoals rendieren en ibex, bleven dichtbij het vuur en Farshar.
+"We bidden tot Ardex de Vuurgod elke nacht. En meestal begint niet veel later een vuurtje te branden."
 
-Ze wonnen pas het vertrouwen toen koning Jagu de geur van geroosterd vlees rook.
+Jambir had lange tijd nodig om dit te verwerken. Kesho leerde pas later dat dit weer zo'n verschil in cultuur was: de Ashastam leek als enige vuur op te kunnen roepen op een of andere manier.
 
-De jaguars wisten niet hoe snel ze bij het vuur moesten komen en hun deel opeisen. Ze bedankten de Ashastam en vroegen hoe ze dit zelf konden doen. Farshar legde het met plezier uit, al keken ze hem aan alsof hij magie uitlegde.
+Farshar rende inmiddels rond om iedereen duidelijk te maken dat er niks aan de hand was.. Het maakte de relatie met de jaguars er niet beter op. De zwakkere dieren van de Ashastam, zoals rendieren en ibex, bleven dichtbij het vuur en Farshar.
+
+De Asha wonnen pas Jagu's vertrouwen toen de koning de geur van geroosterd vlees rook.
+
+De jaguars wisten niet hoe snel ze bij het vuur moesten komen en hun deel opeisen. Ze bedankten de Ashastam en vroegen hoe ze dit zelf konden doen. Farshar's vage uitleg van hun gebeden en nachtritueel helderde weinig op.
 
 Jambir en Kesho waren ook dichterbij geslopen, aangetrokken tot de heerlijke warmte en gezelligheid. Maar vlak voordat ze in het licht kwamen, bleef Jambir staan.
 
@@ -105,9 +109,9 @@ Misha had een paar blokken hout gevonden en sloeg een ritme. De kinderen die te 
 
 In één specifieke hoek, precies waar het licht het beste viel, zat en groep oudere stamleden met stenen op hun schoot. Zij hadden ook hun veer erbij gepakt. Ze tekenden iets door de scherpe punt erin te krassen, soms wel twintig keer voordat de streep dik genoeg was.
 
-"We hebben niets _dan_ vrije tijd. We zijn _blij_ als we het kunnen afwisselen met jagen en verzamelen! Dus, als je het niet erg vindt, ik heb een hele avond om iets leuks te ondernemen met mijn vrouw ..."
+"We hebben niets _dan_ vrije tijd," zei Farshar. "We zijn _blij_ als we het kunnen afwisselen met jagen en verzamelen! Dus, als je het niet erg vindt, ik heb een hele avond om iets leuks te ondernemen met mijn vrouw ..."
 
-Farshar tilde zijn vrouw weg bij het vuur. Samen renden ze giechelend en zoenend naar een donker hoekje.
+Hij tilde zijn vrouw weg bij het vuur. Samen renden ze giechelend en zoenend naar een donker hoekje.
 
 Jagu bleef verbijsterd achter. Zijn ogen vielen op Jambir.
 

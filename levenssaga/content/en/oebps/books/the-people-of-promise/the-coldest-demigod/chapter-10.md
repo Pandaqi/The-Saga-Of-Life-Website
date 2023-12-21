@@ -39,7 +39,9 @@ He pulled the cloth away. A frozen flame, as if it was made from glass and stone
 
 He leaned forward and whispered. "Not a word to Gaia. The rule is _one_ Heavenmatter per child and Gaia doesn't even want me to talk to you."
 
-Ardex barely heard it, enamored by the Firefeaster. "How ... how do you _make_ these things?"
+Ardex barely heard it, enamored by the Firefeaster. The moment he touched it, the fires within him calmed down and he ... felt no more pain. _No more pain. Peace._
+
+"How ... how do you _make_ these things?"
 
 He remembered his test. How that one Sunbeamer lion had purposely led him away to an area covered in purple mist. He sighed.
 

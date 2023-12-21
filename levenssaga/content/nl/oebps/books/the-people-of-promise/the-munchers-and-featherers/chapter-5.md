@@ -67,7 +67,7 @@ Jagu gromde en kraste zijn nagels in de muren van de voedselvoorraad.
 
 Met ... met elkaar? Kesho dacht een hartslag aan kinderen krijgen met zijn zus Misha en kreeg rillingen over zijn hele lijf.
 
-_Het is waar, beste lezer. Omdat deze jaguars al jarenlang op dezelfde plek bleven, kwamen ze nooit nieuwe jaguars tegen. Ze kregen kinderen met hun eigen familie, waardoor elk kleine foutje in hun DNA steeds erger en groter werd. En foutjes in je DNA kunnen goed zijn, maar meestal leiden ze tot afwijkingen of ziektes._
+_Het is waar, beste lezer. Omdat deze jaguars al jarenlang op dezelfde plek bleven, kwamen ze nooit nieuwe jaguars tegen. Ze hadden alleen hun eigen familie, dus ze kregen kinderen met hun eigen familie. Dit betekende dat elk kleine foutje in hun DNA erger werd met elk kind. Broer en zus hadden dezelfde fout---dus hun kind kreeg het dubbel zo erg! En ja, foutjes in je DNA kunnen goed zijn, maar meestal leiden ze tot afwijkingen of ziektes._
 
 Jagu tikte Kesho zachtjes in zijn rug. 
 
@@ -77,7 +77,7 @@ Kesho hinkte op twee gedachten. Alles voelde raar aan deze stam. Hij werd al onr
 
 Maar de voedselvoorraden trokken hem aan. De beloftes leken oprecht. In Jambir had hij een fijne vriend, en bij de _Indus_ rivier konden ze goed leven.
 
-"Ik zal met mijn vader praten," zei hij. Jagu hield hem nog een lange tijd bij zich en vertelde over de geschiedenis van de Jagustam. Daarna rende Kesho het boos in, afgaand op de schreeuwende stemmen van zijn ouders in paniek.
+"Ik zal met mijn vader praten," zei hij. Jagu hield hem nog een lange tijd bij zich en vertelde over de geschiedenis van de Jagustam. Daarna rende Kesho het bos in, afgaand op de schreeuwende stemmen van zijn ouders in paniek.
 
 ---
 
@@ -87,9 +87,7 @@ Hij was net zo verbaasd als Kesho dat het een gesprek was en verder niks. Hield 
 
 Hij kon vooral niet stilzitten met zijn gedachten nu Misha nog steeds werd vermist.
 
-Toen Jagu plotseling omdraaide en hem recht in de ogen aankeek, was Jambir dan ook niet voorbereid. Zijn lichaam sloeg meteen stijf van spanning. 
-
-Hij dook weg om zijn taken voor vandaag nog razendsnel uit te voeren. Deze keer bestond dat uit het verstevigen en verhogen van een stuk hek aan de andere kant. Alleen de meest betrouwbare Gosti mochten in de bomen klimmen, zodat ze aan de andere kant van het territorium eten konden verzamelen, of de bovenkant van het hek konden maken. 
+Razendsnel probeerde hij zijn taken voor vandaag nog uit te voeren. Deze keer bestond dat uit het verstevigen en verhogen van een stuk hek aan de andere kant. Alleen de meest betrouwbare Gosti mochten in de bomen klimmen, zodat ze aan de andere kant van het territorium eten konden verzamelen, of de bovenkant van het hek konden maken. 
 
 Jambir was, vanzelfsprekend, geen betrouwbare Gosti en mocht alleen hout en stenen aanslepen aan de onderkant. Het zware werk. Het ondankbare werk.
 
@@ -109,4 +107,4 @@ Misha keek op en zag Jambir door de gaten van het onafgemaakte hek. Haar ogen sm
 
 _Moet werken, zeiden ze, krijg anders geen eten meer._
 
-Er knapte iets in Jambir. Hij greep een steen en smeet hem in het gezicht van de jaguar die op de wacht stond.
+Er knapte iets in Jambir. Hij greep een steen en smeet hem in het gezicht van de jaguarbewaker, die op slag stierf.

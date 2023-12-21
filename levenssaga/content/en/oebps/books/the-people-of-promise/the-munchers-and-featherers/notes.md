@@ -1,81 +1,82 @@
 ---
-title: "Notities"
+title: "Notes"
 weight: 11
 ---
 
-Toen dit verhaal pas halverwege was, wist ik al dat ik het bijna volledig opnieuw moest schrijven. 
+When this story was barely halfway, I already knew I had to rewrite the whole thing.
 
-Dit verhaal gaat natuurlijk over _jagers en verzamelaars_. Het voorstadium van wat wij "beschaving" zouden noemen, welke overigens véél langer duurde dan dat menselijke beschaving bestaat. Het probleem? We _weten_ dus niet zoveel van deze wereld. Wat we wél weten is eigenlijk vrij simpel en niet zo spectaculair, waardoor het moeilijk was om te zetten in een verhaal.
+This story is obviously about _hunters and gatherers_. The stage just before what we'd call "civilization", which, by the way, lasted far longer than any human civilization has so far. The issue? We don't _know_ much about this time. The things we do know are rather unspectacular and simple, which makes it hard to turn into a story.
 
-Anderzijds is dit een erg zwaar of "duister" verhaal. Ik heb getwijfeld of ik dat wel moest doen en er veel met anderen over gesproken. Uiteindelijk koos ik toch om het verhaal zo te schrijven, omdat het ten eerste beter was voor het verhaal, en ten tweede simpelweg realistisch is. 
+On the other hand, this story is very heavy or "dark". I had doubts about whether to include it, discussing it with others. In the end, I chose to execute my initial plan. It made a better story, set a better tone for this cycle, and is simply more realistic and honest.
 
-De natuur is ongelofelijk wreed op veel manieren. Mensen zijn in staat om het minder wreed te maken ... maar ook heel goed in staat om het nóg wreder te maken. De geschiedenis van menselijke beschaving is een lang pad vol met bloed en pijn.
+Nature is immensely cruel in so many ways. Humans are able to make it _less_ cruel ... but also able to make it even _more_ cruel. If you study history, you soon learn that human civilization is nothing but a long path filled with blood and pointless wars.
 
-Dus dit verhaal begint deze cyclus met, in mijn ogen, de belangrijkste vraag: _zijn mensen van nature gewelddadig en wreed, of is dit een (vermijdbaar) gevolg van onze geschiedenis?_
+As such, this story kicks off this cycle with---to me---the most important question of all: _Are humans inherently violent and warring, or is this an avoidable consequence of our history?_
 
-## Jagers en Verzamelaars
+## Hunters and Gatherers
 
-De naam zegt eigenlijk alles. De vroegste mensachtigen verkregen hun voedsel op twee manieren:
+The name says it all. The earliest humanoids got their food in two ways:
 
-* De mannen jaagden op dieren voor vlees.
-* De vrouwen en kinderen verzamelden "stilstaand voedsel" in de vorm van bessen, noten, fruit.
+* The males hunted animals ("moving food") for meat.
+* The females (and children) collected berries, nuts, fruit ("static food").
 
-Zodra ze het voedsel uit hun huidige omgeving hadden gehaald ... trokken ze door naar de volgende plek. Ze hadden nauwelijks spullen of hutten, want ze bleven niet op dezelfde plek.
+As soon as they'd gathered all food in their environment ... they simply moved to a new area. They barely had possession or buildings.
 
-Het algemene idee is dat deze levens kort en wreed waren. Maar bewijs toont aan dat ze het eigenlijk best goed hadden. Deze mensen waren vaak _gezonder_ dan de moderne mens, met een meer gevarieerd dieet, en veel meer vrije tijd. Die vrije tijd besteedden ze dan ook aan tekenen, verhalen vertellen, muziek maken, en meer.
+The general idea is that their lives were short and brutish. Evidence, however, indicates they did quite well. These people were usually _healthier_ than the modern human, thanks to a better diet, more exercise, and more free time. Time which they used to draw, tell stories, make music, and more.
 
-Deze levens waren vooral _onvoorspelbaar_. Ja, als jij toevallig met je stam een groep roofdieren tegen het lijf liep, was de kans op overleving klein. Als je pech had en een ramp je voedselbronnen wegspoelde, was je kans op overleving klein.
+Their lives were mostly _unpredictable_. Yes, if your tribe happened to walk into a bunch of predators, your probability of survival was low. If natural disasters destroyed your food sources, same thing.
 
-Voedsel zoeken was de enige vereiste in hun leven. Dus iedereen had dezelfde taak: voedsel zoeken. En als ze genoeg voedsel hadden? Tja, dan had je de rest van de dag / week / maand vrij om te doen wat je wilde!
+Finding food was the only essential task in their life. So everybody had the same task: find food! And once they had enough? Well, the rest of the day / week / month was leisure time! 
 
-Toen agricultuur werd uitgevonden---het vermogen om méér eten te maken dan nodig en het op te slaan---gingen de gezondheid en vrije tijd van mensen dus juist achteruit. Bovendien, zoals het verhaal aantoont, maakte dit het mogelijk om _machtsverschillen_ te krijgen en dus anderen als onderdanig of slaaf te laten functioneren.
+Once agriculture was invented---the ability to create more food than needed and _store_ it endlessly---the health and freedom of people actually took a hit. Additionally, as the story shows, this introduced the possibility of power dynamics and turning others into slaves.
 
-## Waren de eerste mensen gewelddadig?
+## Were the first humans violent?
 
-En daarmee komen we bij de hamvraag. Wederom hebben de meeste mensen de algemene aanname dat de eerste mensen brute stammen vormden die vaak met elkaar vochten of oorlog voeren.
+And so we reach the key question. Again, most live under the assumption that the first humans had violent tribes that constantly killed and warred. I certainly got that message from school, as I grew up.
 
-Bewijs, echter, blijft grotendeels uit.
+Evidence, however, is scarce.
 
-Er is nauwelijks iets te vinden over grote oorlogen of gevechten tussen verschillende stammen van jagers en verzamelaars.
+We can barely find evidence about great wars or recurring fights between different tribes of hunters and gatherers.
 
-De meeste stammen waren (verre) familie van elkaar. Ze zouden met elkaar hebben kunnen praten, misschien kort samen reizen of eten uitwisselen, maar verder niks. 
+Most tribes were (extended) family. This would prevent any violence (unless you were really unlucky with your family) and even allow them to communicate and exchange food or information.
 
-(Sterker nog, de eerste _beschavingen_ zijn ook grotendeels gedocumenteerd als vredige stammen die niet eens wapens hadden. Niet geheel verrassend, gingen ze dan ook ten onder toen een andere stam langskwam die wél wapens had ...)
+(In fact, some of the first _civilizations_ are documented as peaceful tribes that did not even _have_ weapons or an army. Not surprisingly, they were destroyed when another tribe passed by who _did_ have weapons ...)
 
-De meeste moorden of gevechten waren één op één, terug te leiden tot een ruzie of conflict tussen twee specifieke mensen---meestal mannen met een ruzie over een vrouw. In andere gevallen was het een conflict over voedsel of territorium, net zoals dieren daarover zouden vechten.
+Most murders or fights were one on one, traced back to a conflict between two specific people---usually males fighting over a female. In other cases, the conflict was about food accessibility or territory, just as animals would fight about that.
 
-Eigenlijk is het enige terugkerende element "wraak". Het idee dat, als jou onrecht wordt aangedaan of als jij boos bent, je wraak _moet_ nemen op een gemene manier. Mensen kunnen het gewoon niet laten. 
+Really, the only recurring element is "revenge". The idea that, if somebody hurts or betrays you, you _must_ take revenge in some mean way---usually murder. The idea that humans just can't _not_ do that.
 
-Zodra één iemand een andere stam iets had aangedaan, namen ze wraak door iets _terug_ te doen, waardoor die eerste stam weer wraak moest nemen ... en zo krijg je een cyclus die dus nooit stopt.
+Which means that, as soon as one person is hurt or angry, they'll take revenge, which means the other takes revenge for that, which means the other will take revenge for _that_ ... kicking off a cycle that never ends.
 
-Een cyclus die eigenlijk vandaag de dag nog steeds bezig is. De meeste oorlogen zijn niets dan een keten van "maar zij deden iets stoms, dus wij moesten wraak nemen en terugvechten".
+A cycle that persists until today. Most wars, even today, are nothing more than "but they did something bad long ago, so we have to take revenge and fight until we win".
 
-Dit verhaal, net zoals onze geschiedenis, geeft geen duidelijk antwoord. Zijn de mensen van nature gewelddadig en wreed, een fout in hoe ons brein werkt? Of is het een gevolg van dingen die zijn gebeurd of aangedaan? Of is het simpelweg een constante onder alle dieren?
+This story, just like our history, has no clear-cut answer. Are humans inherently violent, a fault in our brain? Or is it a consequence of unfortunate events? Or is it a constant among animals, and would _any_ animal turn to wars if they had our intelligence?
 
-Hopelijk is dit verhaal informatief én zet het lezers aan het denken.
+Hopefully this story is informative, evocative, and enough to make readers think.
 
-## Over de locatie
+## About the setting
 
-Dit verhaal speelt af in "Schola", wat mijn naam is voor India en het gebied eromheen. De Indusrivier is een belangrijke rivier die hier liep en in volgende verhalen belangrijk wordt, want ze denken dat hier toch wel de allereerste beschavingen begonnen.
+This story takes place in "Schola", which is my name for (roughly) India and the area around it. The Indus river is an important river there, which will be a recurring element in upcoming stories, for it's widely believed that the first ever civilization evolved here.
 
-De Mammoeten kwamen vooral voor in Noord-Amerika en Azië, dus het klopt dat ze op deze plek zouden zijn. Ook klopt het dat de mensen waarschijnlijk de wereld over zijn gestoken tijdens ijstijden waarin ze over de zee konden lopen. 
+Mammoths mostly lived in North America and Asia, so it's true they would be here at this point in time. It's also true that people probably spread out across the globe during ice ages, in which they could just walk across the oceans.
 
-Bovendien is dat de reden waarom wij warme kleding al _heel lang geleden_ hebben uitgevochten. Wij hadden breinaalden voordat we andere gereedschappen hadden ;)
+It's also the reason why clothing was invented by us _really, really long ago._ We had sewing needles before we had construction tools ;)
 
-Ook is het waar dat daarna het klimaat over lange tijd flink opwarmde. Zo kan het dus dat we in dit verhaal een redelijk koud bos hebben waarin mammoeten rondlopen, maar het volgende verhaal---rond hetzelfde gebied---heeft een bijna tropisch klimaat!
+Finally, it's true that the climate warmed after those ice ages. That's how this story can have a relatively cold forest climate that supports mammoths, while the next story---in the same area---has an almost tropical climate!
 
-## Personages
+(Do keep in mind that this happens over _looong_ periods of time. The Saga of Life condenses it to streamline the narrative and get simpler stories, but in reality things we see as "major shifts" now were only "tiny changes every year" for a lot of years.)
 
-* **Kesho** (Gosti): bijna volwassen, mist een arm. Wil heel graag jagen en sterk zijn, maar de handicap maakt het lastig. Raakt verliefd op het comfortabele leven met voorraden en hekken, en daardoor misleid.
-* **Jambir** (Gosti; kleiner, zwakker): door de jaguars opgepikt als een soort slaaf. Door jarenlang in veiligheid te leven weet hij niet meer hoe hij zelf moet jagen of overleven. Dus hij moet wel doen wat wordt opgedragen, anders krijgt hij geen eten. (Vele andere Gosti zitten in dezelfde problemen). Wil vanaf het begin af aan zijn eigen stam vernietigen en de andere stam helpen, met alle gevolgen van dien.
-* **Farshar** (Gosti): vader van Kesho en Misha. Vrij duidelijk de grootste en sterkste van de hele groep, en neemt dan ook automatisch een leiderrol op zich. Wat harder en agressiever dan de rest van Asha.
-* **Misha** (Gosti): dochter Farshar. Vind dat ze ook zou moeten jagen en laten zien hoe sterk ze is. Een gewelddadig vuur brandt in haar. Het komt eruit als Jambir---een Gosti die ze steeds leuker vindt---iets overkomt, met alle gevolgen van dien.
-* **Jagu**: dikke jaguar, koning van Jagustam. Niet per definitie vijandig of dom, maar ook nooit echt vriendelijk of verstandig. Heeft twee kinderen (prins en prinses) met serieuze afwijkingen vanwege incest.
+## Characters
 
-Verder heb je nog Helera (vrouw Farshar), Murfa (ander stamlid origineel van andere familie)
+* **Kesho** (Gosti): almost an adult, misses one arm. Really wants to hunt and be strong, but realizes the handicap makes that difficult, drawing him into the comfortable life style preached by Jagu. Misleading him.
+* **Jambir** (Gosti; smaller, weaker): used by jaguars as a kind of slave. After years of living in that "comfort" he lost the ability to hunt or survive on his own. He _must_ do as he is asked, otherwise he starves. (Many other Gosti have been captured and put under the same command.) Pushes Kesho to help destroy the Jagu, or steal their magic, from the start.
+* **Farshar** (Gosti): father of Kesho and Misha. Clearly the largest and strongest of Asha, leading him to subconsciously claim a sort of leader role. Also more aggressive than others.
+* **Misha** (Gosti): daughter Farshar. Tough, with violent fire inside, certain she should be allowed to hunt (and show her strength) too. It all comes out when Jambir---a Gosti she likes more and more---is killed.
+* **Jagu**: a fat jaguar, king of the Jagu Tribe. Not necessarily hostile or stupid, but also never friendly or wise. Has two children (prince and princess) with serious physical defects due to incest. (Which he realizes and tries to combat by "capturing" the healthy individuals of the other tribe.)
 
-De twee stammen zijn.
+Other named characters are Helera (wife Farshar), Murfa + Synthia, Ardex.
 
-* **Ashastam**: ongeveer 30 wezens, jagers en verzamelaars. Collectie van verschillende diersoorten. Niemand mag de baas zijn, alles doen ze samen, voornamelijk familie van elkaar.
-* **Jagustam**: alleen maar _jaguars_. Zetten een steeds groter gebied af met hekken en halen het dan helemaal leeg. (Om al het voedsel op te slaan, dankzij magie die ze hebben gekregen van Eeris.) Leven vooral van visvangst, zoals de meeste diersoorten in die tijd. Ze hebben kleinere diersoorten---voornamelijk Gosti---gemaakt tot slaven die al dit jagen voor hen doen.
+The two tribes are ...
 
+* **Asha Tribe**: roughly 30 creatures, hunters and gatherers. Collection of diverse species. Nobody allowed to be the boss, everyone has total individual freedom, mostly family of each other. Lots of culture, art, unique expression through feathers. Most importantly, they have a _unique connection to Ardex_: he can hear and answer their prayers, and they are most susceptible to his "violent influence" when around.
+* **Jagu Tribe**: only _jaguars_. Claimed a large territory with fences and fished/hunted until it was completely empty. (Due to Eeris' godly gift, they can store all that food and it never spoils.) Mostly live off fishing, as most carnivores back then. Turned smaller species---mostly Gosti---into slaves to do all their work for them. _In the end, their remnants and Asha's remnants merge to get a new tribe, dead set on painting Farshar's family as villains._

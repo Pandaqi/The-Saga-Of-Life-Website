@@ -19,11 +19,11 @@ Oeros glimlachte, maar flauwtjes. Ardex' vrolijke energie viel meteen dood.
 
 "Wat? Wat is er? Is het niet goed?" 
 
-"Het is héél goed, zoon. Maar kracht en grootte is niet alles en ik denk juist dat je moet oefenen met dingen expres _klein_ houden."
+"Het is héél goed, zoon. Maar kracht en grootte is niet alles. Ik denk juist dat je moet oefenen met dingen expres _klein_ houden."
 
 "Wat is dáár nou leuk aan?"
 
-"Leuk misschien niet. Maar _controle_ over je magie betekent dat je het dus ook _gecontroleerd_ kunt houden!"
+"Leuk misschien niet. Maar _controle_ is belangrijk."
 
 "Niet leuk? Ik ben een god! Waarom zou ik ooit iets doen dat ik niet leuk vind?"
 
@@ -51,13 +51,15 @@ Oeros humde en knikte, terwijl hij een standbeeld aandachtig bestudeerde. Het to
 
 Ardex vond een standbeeld van hemzelf. Gaia had hem scherpe slagtanden gegeven. Hij bestudeerde vluchtig zijn gedaante, maar slagtanden waren er niet. 
 
-"Nou," zei hij, "als ze bijna dood gaan, dan redden wij het leven. Of als ze pijn hebben, dan halen wij het weg. Heb ik het zo goed begrepen? Is dat wat _pijn_ betekent? Het was _slecht_ toch?"
+"Nou," zei hij, "als ze bijna dood gaan, dan redden wij het leven. Of als ze pijn hebben, dan halen wij het weg. Niemand zou ooit pijn moeten voelen." 
+
+Hij zou al zijn magie weggeven om vrij te zijn van de vuren die altijd in hem brandden, altijd pijn deden. Nee, hij durfde niet eens te bedenken wat pijn betekende voor al het andere niet-goddelijke leven.
 
 "Maar wat nou als twee soorten leven ontstaan op dezelfde planeet, en ze gaan met elkaar vechten? We kunnen ze niet allebei helpen. De ene redden betekent de ander doden."
 
 Ardex was stil. En hij bleef stil, want elk antwoord hierop vond hij zelf klinken alsof het te dom voor woorden was.
 
-Ze liepen door naar de volgende tuin, nog groter en mooier dan de vorige. Naast standbeelden stonden er ook vele bogen op plekken die Ardex niet begreep, met een soort paars raam erin.
+Ze liepen door naar de volgende tuin, nog groter en mooier dan de vorige. Naast standbeelden stonden er ook vele bogen die Ardex niet begreep, met een soort paars raam erin.
 
 "En wat nou," vervolgde Oeros, "als het universum zó vol raakt met leven dat er geen plek of eten meer is voor iedereen? Elke planeet is bezet. Elke oceaan leeggedronken. Hebben we dan _geholpen_ door al het leven te redden?"
 
@@ -83,15 +85,21 @@ Langzaam begon het te dagen bij Ardex. De tweede stomp in zijn maag, de tweede k
 
 Oeros werd twee keer zo groot van enthousiasme en knuffelde zijn zoon. "Zo mag ik het horen. Gaia twijfelde, maar ik wist dat je volwassen genoeg was."
 
-Ardex wist niet hoe hij daarop moest reageren. Hij had gehoopt dat Gaia na al die jaren geen haat meer had jegens hem. Aan de andere kant, ze zei nog steeds hoe dat volgende kind---zijn zusje---"raar voelde" sinds hij haar magisch had aangevallen. Het leek ook veel langer te duren voordat ze werd geboren.
+Wat moest Ardex daar nou op zeggen? Als hij wist dat het dit betekende om volwassen te zijn---ontdekken hoe zinloos en stom alles is---dan had hij er niet zo van gedroomd. Hij kreeg nu al nostalgie naar de jaren als tiener, feestend en spelend met zijn Moeder en Vader. Het gelukkige gezin dat hij altijd wilde.
 
-"Denken aan _doelen_ zinloos. Het gaat om de reis, niet de bestemming."
+Hij had gehoopt dat Gaia na al die jaren geen haat meer had jegens hem. Aan de andere kant, ze zei nog steeds hoe dat volgende kind---zijn zusje---"raar voelde" sinds hij haar magisch had aangevallen. Het leek ook veel langer te duren voordat ze werd geboren.
 
-Steeds meer van zijn gedaante durfde Ardex door de paarse mist te steken, zwevend naast zijn vader.
+"Denken aan _doelen_ is zinloos," zei Oeros met klem. "_Het gaat om de reis, niet de bestemming._"
 
-"Wat je eigenlijk zegt, is dat ik moet ophouden met mijn doel om de allersterkste en grootste te zijn? Met het idee dat ik een einddoel moet behalen en dat god spelen dán alleen maar leuk zal zijn?"
+Oeros keek in de ogen van zijn zoon, écht diep in de ogen, en verbond ziel met ziel. Ze deelden een verzameling herinnering van de afgelopen tijd, lachend, pratend, en fouten makend.
 
-"Ja. Je moet gewoon _zijn_, elke seconde, elke dag."
+"Wat zal je uiteindelijk meer vreugde hebben gebracht?" vroeg hij. "Al die jaren van samenzijn en die uitdagingen doen, of dat ene korte moment waarin je definitief sterker bent geworden dan ik?"
+
+Ardex durfde steeds meer van zijn gedaaante door de paarse mist te steken, zwevend naast zijn vader.
+
+"Wat je eigenlijk zegt," zei hij, "is dat ik moet ophouden met mijn doel om de allersterkste en grootste te zijn? Met het idee dat ik een einddoel moet behalen en dat god spelen dán alleen maar leuk zal zijn?"
+
+"Ja. Je moet gewoon _zijn_ en _doen_, elk moment, je hele leven."
 
 Gek genoeg klonk dat als de meest onmogelijke opgave die Ardex ooit had gehoord.
 

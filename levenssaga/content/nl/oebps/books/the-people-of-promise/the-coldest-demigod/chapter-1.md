@@ -13,17 +13,27 @@ Maar één ster werden er twee. Twee pure levenskrachten vonden elkaar. Niet uit
 
 In een flits werd de leegte gevuld met een paleis. Het Hemelpaleis. Wat je je ook voorstelt, beste lezer, als het mooi is en je hart verwarmd, of gruwelijk en je hart stilzet, dan heb je in beide gevallen gelijk. 
 
-Ze maakten een plek die alles uit het universum had. Het goede én het slechte. Een klein mini-universum waarin ze leefden en de rest overzagen. Hoewel, op aandringen van Moeder, toch veel meer goed dan slecht. Voor elke afgrond waren er duizend prachtige bloemen.
+Ze maakten een plek die alles uit het universum had. Het goede én het slechte. Een klein mini-universum waarin ze leefden en de rest overzagen. 
+
+Hoewel, op aandringen van Moeder, toch veel meer goede dan slechte elementen. Voor elke afgrond waren er duizend prachtige bloemen. Haar tuinen, die ze _Eden_ noemde, hielden glanzende rivieren en slingerende bruggen om ze allemaal te bezoeken. Het was een paradijs van eindeloze zonnestralen en groei.
 
 Tot het moment dat het paleis klaar was. Klaar om leven te ontvangen, zo vonden Vader en Moeder. En zo komen we bij het eerste moment waarvan ik iets weet.
 
-"Heb je zijn gebied al ingericht?" vroeg Moeder. 
+"Heb je het gebied van ons kind al ingericht?" vroeg Moeder. 
 
-Ze was een engel in een kleurrijke japon, een wezen dat van afstand een menselijke vrouw zou lijken, maar van dichtbij overduidelijk een magisch wezen ver daarvan verwijderd. Mocht jij haar ooit zien---een kleine kans, maar toch---zou je weer iets anders zien dan ik. Waarschijnlijk zou je denken dat de mensen waren geschapen als het evenbeeld van de goden, of gek genoeg als het evenbeeld van die irritante juf die je vroeger had of je lieve huisdier.
+Ze was een engel in een kleurrijke japon, een wezen dat van afstand een menselijke vrouw zou lijken, maar van dichtbij overduidelijk een magisch wezen ver daarvan verwijderd. 
 
-Vaders uiterlijk was hetzelfde, hoewel hij een mannelijke energie uitstraalde. Het was een van de dingen waarvan Moeder niet wilde afwijken: twee geslachten. Net zoals ze niet wilde afwijken van ronde planeten, lichtgevende sterren, of zwart als de standaardkleur van de ruimte. Ze kon erg koppig en opdringerig zijn---soms ten goede, soms ten kwade.
+Mocht jij haar ooit zien---een kleine kans, maar toch---zou je weer iets anders zien dan ik. Waarschijnlijk zou je denken dat de mensen waren geschapen als het evenbeeld van de goden, of gek genoeg als het evenbeeld van die irritante juf die je vroeger had of je lieve huisdier.
 
-"Je weet al dat het een hij is?" vroeg Vader rustig, comfortabel op zijn troon en ogen halfopen. Moeder wist niet of hij sliep of weer met zijn krachten van afstand een andere plek in het heelal bestudeerde. "Hoe lang nog?"
+"Ik kan vast wat prachtige decoraties van jou vinden om ... aan te passen," zei Vader kalm. Hij zat comfortabel op zijn troon met ogen half open. Moeder ging ervan uit dat hij weer van afstand een ander plek in het heelal bestudeerde.
+
+"Ja." Moeder lachte. "Ik weet zeker dat hij een standbeeld met missende ledematen kan waarderen. Bomen doormidden gezaagd. Bruggen met gaten."
+
+"Nou, ja, geeft hem iets om me te spelen, of niet? En je weet al zeker dat het een _hij_ is?"
+
+Vaders uiterlijk was hetzelfde als die van Moeder, hoewel hij een mannelijke energie uitstraalde. Het was een van de dingen waarvan Moeder in dit universum niet wilde afwijken: twee geslachten. Net zoals ze niet wilde afwijken van ronde planeten, lichtgevende sterren, of zwart als de standaardkleur van de ruimte. Ze kon erg koppig en opdringerig zijn---soms ten goede, soms ten kwade.
+
+"Hoe lang nog tot de geboorte?" vroeg hij.
 
 "Zo lang als ik wil."
 
@@ -47,7 +57,11 @@ Dat maande Vader tot stilte, en zijn ogen wijd open. Moeder sloop dichterbij en 
 
 "Nu even stilzijn en luisteren, Oeros." 
 
-Vader keek zuur, maar gaf gehoor. Gaia had hem zelf op de troon gezet en gezegd dat hij dé Oppergod was, maar ze behandelde hem soms alsof hij haar kind was. Hij kon haar uitvagen met één zwaai van zijn arm! Hij kon hele planeten scheppen en vernietigen met één adem! Hij ... hij was benieuwd naar die voorspelling als een klein kind naar een volwassen geheim.
+Vader keek zuur, maar gaf gehoor. 
+
+Gaia had hem zelf op de troon gezet en gezegd dat hij dé Oppergod was! En toch behandelde ze hem soms als haar huisdier. Was ze vergeten dat hij haar kon uitvagen met één zwaai van zijn arm? Hij kon hele planeten scheppen en vernietigen met één adem! 
+
+Hij ... hij was benieuwd naar die voorspelling als een klein kind naar een volwassen geheim.
 
 "De snelste zal de traagste zijn," begon Gaia. "In haast zal alles sneller sterven."
 
@@ -65,11 +79,11 @@ Vader keek zuur, maar gaf gehoor. Gaia had hem zelf op de troon gezet en gezegd 
 
 "Je ... je denkt ..."
 
-Ze keerde haar gezicht af. "Ik weet ook niet wat het precies betekent. Ik kan de komst van ons kind ook niet stoppen. Ik wil het ook niet, zo'n bange laffe god ben ik niet."
+Ze keerde haar gezicht af. "Ik weet ook niet wat het precies betekent. Ik kan de komst van ons kind niet stoppen, en dat wil ik ook niet. Ik ben niet de Godin van Lafheid!"
 
 "Ik ook niet!"
 
-"Dat ... dat is fijn, schat, dat weet ik. Maar ..."
+"Weet ik schat, maar ..."
 
 Vader verzonk in gedachten. De voorspelling leek te praten over meerdere kinderen. Een hele boel, zelfs. Of was dat ook maar een interpretatie? Al die eigenschappen---licht, zwaar, snel---zouden op dit ene kind kunnen slaan. 
 
@@ -91,9 +105,11 @@ Gaia's hand vloog naar haar buik. Het was op geen enkele manier zichtbaar dat ze
 
 Gaia zuchtte. Hij had wel gelijk. Ze wisten pas de waarheid van hun krachten, van godenkinderen en het universum, als ze het probeerden. Laat het gebeuren en zie wat er komt. Dat was alleen wat makkelijker als het ging over zoiets als iemand vertellen dat je hen leuk vindt of een nieuw eten voor het eerst proeven. Zodra "iets proberen" betekende dat je smeet met goddelijke krachten, konden er wel eens grotere gevolgen aan kleven. 
 
-Er bestond geen dag of nacht in het Hemelpaleis. Geen besef van tijd. De wereld was pas net begonnen en eeuwen konden voorbijgaan terwijl jij met je ogen knipperde. Het maakte ook niet uit, want er was geen leven om dit verloop van tijd te zien of te voelen.
+Er bestond nog geen besef van tijd. Geen dag of nacht. De wereld was pas net begonnen en eeuwen konden voorbijgaan terwijl jij met je ogen knipperde. Het maakte ook niet uit, want er was geen leven om dit verloop van tijd te _voelen_.
 
-Niemand weet hoe lang het duurde, maar ergens vertrok Gaia naar haar favoriete gedeelte---alleen en bezorgd---en liet Oeros achter om ongeduldig te wachten en te zuchten.
+Het universum was nog aan het uitdijen, als een ballon opgeblazen door duizend reuzen. Overal was het heet, overal was de ruimte gevuld met sterrenstof.
+
+Dus niemand weet hoe lang het duurde, maar ergens vertrok Gaia naar haar Eden---alleen en bezorgd---en liet Oeros achter om ongeduldig te wachten en te zuchten.
 
 Toen hij voor de zoveelste keer vroeg of alles goed was, verscheen Gaia voor zijn troon. Ze hield een bundeltje in haar armen, gewikkeld in zoveel doeken dat Oeros zijn eerste zoon niet eens kon zien. Maar hij hoorde zacht gemompel en gekraai, meestal gevolgd door gewiebel en geschuif in Gaia's trillende armen.
 

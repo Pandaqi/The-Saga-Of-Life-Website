@@ -17,9 +17,9 @@ Oeros wachtte een uur, een dag, een jaar, misschien wel een eeuw. Tijd betekende
 
 Uiteindelijk keerde Oeros terug naar zijn troon en speurde het universum weer af, met dichtgeknepen ogen, op problemen om op te lossen. Hij vertelde zichzelf dat het allemaal goed kwam en dat Ardex tijd nodig had om te groeien, totdat hij zijn eigen leugens nauwelijks meer geloofde.
 
-Een god die zijn eerste zoon laat sterven? Die niet eens kinderen kan krijgen die levensvatbaar zijn? Wat voor hopeloze oppergod was hij dan wel niet. Een lachertje. Als er meer universums bestonden, met meer goden, zouden ze hem vierkant uitlachen.
+Een god die zijn eerste zoon laat sterven? Die niet eens kinderen kan krijgen die levensvatbaar zijn? Wat voor hopeloze oppergod was hij dan wel niet. Als er meerdere universa bestonden, met meer goden, zouden ze hem vierkant uitlachen.
 
-Hij had er eerst weinig om gegeven. Maar nu hij zijn eigen kind zag, een derde goddelijke aanwezigheid, voelde hij een trots die hij niet kon beschrijven. Hij zou hem op missies kunnen sturen. Ardex had misschien wel krachten die zij minder goed begrepen. Met de juiste opvoeding ... drie was sowieso sterker dan twee, toch?
+Hij voelde vooral een onbeschrijflijke trots. Hij zou hem op missies kunnen sturen! Ardex had misschien wel krachten die zij minder goed begrepen! Met de juiste opvoeding ... drie was sowieso sterker dan twee, toch?
 
 Gaia had inderdaad onvermoeibaar moeten zijn, maar Ardex leek energie weg te zuigen. Uiteindelijk wankelde zelfs de moeder van het hele universum. Oeros schoot uit zijn trance en uit zijn troon. Hij was te laat.
 
@@ -27,9 +27,9 @@ Gaia viel uitgeput op de vloer, hoewel het klonk als een veertje die op een kuss
 
 Ardex, daarentegen, knalde over de grond als een baksteen zo zwaar als een planeet. Hij brak twee pilaren en een deel van Oeros troon voordat hij eindelijk afremde.
 
-Oeros was niet boos. Hij was onder de indruk.
+Oeros was niet boos. Hij was onder de indruk. Zijn ogen gericht op slapende Gaia, vouwde hij één voor één de doeken open. 
 
-Ardex had nog geen krasje. Zijn ogen gericht op slapende Gaia, vouwde hij één voor één de doeken open. Zijn lichaam was zo koud dat het niet donkerblauw was maar zwart, een duister bijna pijnlijk om naar te kijken. Oeros bleef toch ernaar kijken.
+Ardex had nog geen krasje. Zijn lichaam was zo koud dat het niet donkerblauw was maar zwart, een duister bijna pijnlijk om naar te kijken. Oeros bleef toch ernaar kijken.
 
 Zijn _zoon_! Nu al een ongelofelijk machtige god. Zo sterk. Zo anders.
 
@@ -83,9 +83,9 @@ Hij wiegde hem in zijn armen, nu in de gedaante van een kleine ster niet groter 
 
 Plotseling verstilde Ardex en keek zijn vader aan. Hij sprak zijn eerste woord: "Vuur!"
 
-Oeros twijfelde niet langer en stuwde zijn vuurmagie richting Ardex' hart. De verbranding hield bijna meteen op. Ardex' lichaam nam een stabiele roze kleur aan en ... hij lachte.
+Oeros twijfelde niet langer en stuwde zijn vuurmagie richting Ardex' ziel. De verbranding hield bijna meteen op. Ardex' lichaam nam een stabiele roze kleur aan en ... hij lachte.
 
-"Oh. Och. Ja." Oeros lachte mee en stootte zijn neus tegen die van Ardex. "Ja, was even schrikken hè? Maar alles komt goed, schatje. Hier, kom maar mee, we gaan terug naar."
+"Oh. Och. Ja." Oeros lachte mee en stootte zijn neus tegen die van Ardex. "Ja, was even schrikken hè? Maar alles komt goed, schatje. Hier, kom maar mee, we gaan terug naar---"
 
 Hij werd al teruggetrokken. Hij kon ook nooit ontsnappen aan Gaia.
 

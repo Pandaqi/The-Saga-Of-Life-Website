@@ -5,7 +5,9 @@ weight: 1
 
 Kesho kon zijn vader wel vermoorden. En zijn zus. En eigenlijk iedereen die te dichtbij kwam als hij zó boos was.
 
-"Ik ga mee," zei hij resoluut. Hij wilde zich groot maken en zijn poten opsteken, maar dat ging lastig als je was geboren met maar één arm. Op dit moment hadden de Gosti---een spookdiertje dat langzaam begon te lijken op een aap---nog geen duimen, dus een speer pakken met zijn kleine handjes ging ook niet makkelijk. Bovendien liepen ze de meeste tijd nog op vier poten.
+"Ik ga mee," zei hij resoluut. Hij wilde zich groot maken en zijn poten opsteken, maar dat ging lastig als je was geboren met maar één arm. Op dit moment hadden de Gosti---een spookdiertje dat langzaam begon te lijken op een aap---nog geen duimen, dus een speer pakken voor intimidatie ging ook niet makkelijk. Bovendien liepen ze de meeste tijd nog op vier poten.
+
+_Vooral omdat speren, beste lezer, niets meer waren dan een scheve stok met wat scherpe randjes in dit tijdperk. En de Gosti hadden nog alle vier hun poten nodig om te lopen._
 
 "Je gaat niet mee," zei zijn vader. "Jij gaat je zus helpen met bessen en noten verzamelen."
 
@@ -53,7 +55,7 @@ Vader duwde een paar laaghangende takken opzij. Ze stonden meteen op een kleine 
 
 Hij struikelde over een mammoet.
 
-Het gebrek aan tweede arm zorgde dat Kesho hulpeloos naar de grond stortte en daar verdwaasd bleef liggen. Godzijdank hoorde hij drie seconden later de rustige stem van zijn vader. 
+Het gebrek aan tweede arm zorgde dat Kesho hulpeloos naar de grond stortte en daar verdwaasd bleef liggen. Godzijdank hoorde hij een hartslag later de rustige stem van zijn vader. 
 
 _En ja, beste lezer, deze wezens dankten daadwerkelijk de goden, want die kwamen ze eens in de zoveel tijd tegen in het echt. Kesho herinnerde nog hoe Eeris de afgelopen winters stiekem extra bessenstruiken voor hen had gegroeid, toen ze nergens eten konden vinden._
 
@@ -61,7 +63,7 @@ _En ja, beste lezer, deze wezens dankten daadwerkelijk de goden, want die kwamen
 
 Kesho trok zichzelf overeind met hulp van een boomstam. "Natuurlijke dood?"
 
-Hem was verteld dat zijn stam vele jaren geleden over het ijs naar dit nieuwe land was gelopen. In die tijd waren de mammoeten overal en nog groter dan nu, maar sindsdien was de ijstijd voorbij en warmde het klimaat op. Vele mammoeten stierven simpelweg omdat het te warm werd.
+Hem was verteld dat zijn stam vele jaren geleden over het ijs naar dit nieuwe land was gelopen. In die tijd waren de mammoeten overal en nog groter dan nu, maar sindsdien was de ijstijd voorbij en warmde het klimaat op. Vele mammoeten stierven simpelweg omdat het te warm werd. Kesho stelde zich voor---hoe lastig het ook was---dat de gigantische dinosaurussen van lang geleden om dezelfde redenen waren uitgestorven.
 
 Het betekende ook dat het ijs nu was gesmolten en ze niet meer terug konden lopen. Een wilde oceaan golfde in hun rug. Voor de Ashastam was de enige weg _vooruit_, verder het gebied in dat ze _Schola_ noemden.
 
@@ -71,9 +73,13 @@ Kesho's zicht stelde eindelijk weer scherp.
 
 Farshar liep cirkels rondom het beest en zag hetzelfde. "Geen van ons heeft dit gedaan. En waarom heeft de aanvaller het vlees niet opgegeten?"
 
-Kesho watertandde. Zo'n hele mammoet kon _maanden_ de stam voeden. En hij had hem gevonden! Hij ... hij ging iedereen zeggen dat hij hem had verslagen en---
+Kesho watertandde. Zo'n hele mammoet kon _maanden_ de stam voeden. Nou, ja ... als vlees niet na een paar dagen zou bederven. In de praktijk zouden ze een paar dagen goed eten en dan de rest moeten weggooien. 
 
-Vader keek op. "Omdat het geen jacht was. Het was een aanval."
+Maar hij had hem gevonden! Hij ging iedereen zeggen dat hij hem had verslagen en---
+
+Vader keek op en wees naar een verzameling stenen met een zwartgeblakerde bovenkant. Ze kenden het idee van vuur en haar gevolgen, maar hadden géén idee hoe ze het zelf moesten opwekken of controleren.
+
+"Omdat het geen jacht was. Het was een bewuste aanval."
 
 "Aanval?"
 
@@ -115,7 +121,7 @@ Ze vonden het volgende lijk. Een bizon, deze keer wel flink aangevreten.
 
 Even later kwamen ze bij de rivier _Indus_. Een gevaarlijke plek, zo wisten de Gosti, want alle dieren leefden graag vlakbij het water. Zowel de kleine als de hele grote. Donte's Regel werd nog steeds gevolgd binnen vele stammen.
 
-Ook hier vonden ze het ene na het andere lichaam van een vis. Sommige helemaal opgevreten, andere helemaal niet. 
+Ook hier vonden ze het ene na het andere lichaam van een vis. Sommige helemaal opgevreten, andere helemaal niet. Ze vonden zelfs de overblijfselen van een hut, in stukken gehakt en deels verborgen door het zand.
 
 Een net hing in het water, van de ene naar de andere kant. Tientallen vissen spartelden terwijl ze erin vastzaten. De Ashastam legde ook vaak netten in het water, maar nooit zó ver van hun eigen plekje.
 
@@ -135,7 +141,7 @@ De struik naast hem wiebelde uit zichzelf.
 
 Farshar duwde Kesho tegen de grond en sprong voor hem. Een belediging, vond hij, maar hij was ook opgelucht.
 
-Een gedaante verrees uit de struik, alsof een plant binnen twee tellen was uitgegroeid. Maar het was geen plant---het was zijn zus.
+Een gedaante verrees uit de struik, alsof een plant in een oogwenk was uitgegroeid. Maar het was geen plant---het was zijn zus.
 
 Misha greep snel haar mand, die kapot op de grond lag, en gooide er wat noten en bladeren in. Het toneelstukje was natuurlijk niet overtuigend. Ze was hen stiekem gevolgd.
 

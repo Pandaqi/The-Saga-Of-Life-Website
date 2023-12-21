@@ -112,3 +112,33 @@ Their storyline is simpler.
 "Waarom moet _ik_ dat hele eind lopen met zware stenen en onderhandelen?"
 
 "Geen van ons heeft jouw geweldige vaardigheid om eigenwijs je wil door te drukken."
+
+
+
+
+
+
+Ardex: "Do not take pity on those working hard everyday and struggling through uncertainty. Take pity on those sitting still and living very comfortable lives of very little note. _No sleep without dance._"
+
+
+@INTERESTING: The Garden of Eden is just a story the Sumerians created to explain the transition from hunters-gatherers to farmers => might be setup here and paid off in the next story about the hand sign
+
+    Die tuin van Gaia in het eerste verhaal heet ook _Eden_? Daarom noemt Feria haar eigen Legendarische Tuinen ook zo?
+
+    De Asha én Jagu hebben een keten van dood en oorlog gestart, en zijn dus helemaal weggejaagd tot aan Sumer. (De een is al in Sumer, vredig en alles, en we volgen hoe die ander ernaartoe wordt weggejaagd.)
+
+    "Was it curiosity that caused human's expansion across the global, or asylum seeking?"
+
+    _In deze tijd, beste lezer, was de wereld nog niet zo verbonden. Agricultuur werd dus meerdere keren opnieuw uitgevonden, op andere plekken, op andere momenten, zonder dat ze het van elkaar wisten. Terwijl ze hier bij de Twee Rivieren al een hele beschaving hadden, hadden ze op Origina het geheim nog niet eens ontdekt. Er waren maar twee manieren waarop informatie tussen beschavingen kon worden overgedragen: handelen ... of door een ander volk worden ingenomen._
+
+    @IDEA: De "Legendarische Tuinen" waren opgericht door Feria om een plek te hebben waar _sowieso_ levenskracht vandaan kwam. Dit correspondeert met die Tuinen van de Goden, en dat ze de mensen hadden gemaakt om die tuinen te verzorgen. (Want de goden moesten ook te eten hebben) Maar sommige van de bomen waren dus goed voor Goden maar verboden voor mensen => de verboden appel waardoor mensen zijn weggestuurd
+
+    Dit is een SPROOKJE om kinderen te leren dat ze niet koppig moeten zijn of vechten tegen hun "meerderen", maar gewoon hun agricultuurwerk moeten verrichten.
+
+    https://www.israel-a-history-of.com/the-garden-of-eden-as-recast-mesopotamian-myth.html
+
+    Eden is Sumeriaans (?) voor "heide" of "plat veld" tussen de twee rivieren in
+
+
+
+

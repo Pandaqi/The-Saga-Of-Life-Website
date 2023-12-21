@@ -3,7 +3,7 @@ title: "2. De Jagustam"
 weight: 2
 ---
 
-Jambir viel uitgeput op het gras. De Gosti was meteen in slaap gevallen, zelfs al was de grond hard en bezaaid met stenen, ware het niet dat een jaguar in zijn oor schreeuwde.
+Jambir viel uitgeput op de varens. De Gosti was meteen in slaap gevallen, zelfs al was de grond hard en bezaaid met stenen, ware het niet dat een jaguar in zijn oor schreeuwde.
 
 "Wat denk jij te doen? _Slapen_? Je hebt pas tachtig vissen gevangen vandaag!"
 
@@ -103,7 +103,7 @@ Jambir wist niet of het zijn schreeuw was die hen afleidde, of dat ze sowieso ni
 
 De andere Gosti staken hun speren vooruit. Zeker de grootste, de vader van het stel, was gespierd genoeg om de koning twee keer te laten nadenken. Zijn koning zag Gosti als slaafjes, maar de enige Gosti die in het kamp leefden waren klein, zwak, en zeker niet in staat een speer vast te houden. Dit leek wel een andere diersoort!
 
-"Wie zijn jullie?" vroeg hij uiteindelijk.
+"Wie zijn jullie?" vroeg de jaguar uiteindelijk.
 
 "Wij zijn de Ashastam," zei de grootste langzaam. "Mijn naam is Farshar. Dit zijn mijn zoon en dochter. We komen in vrede."
 
@@ -121,7 +121,7 @@ Jagu keek vragend naar zijn kinderen. De prins schudde zijn hoofd, maar de prins
 
 "Het zijn Gosti," zei Jambir snel. "Die zijn slim. We kunnen van elkaar leren! Kijk dan hoe sterk ze---"
 
-"Ja joh, super geloofwaardig uit de mond _van een Gosti_," zei de prins. Zonder te kijken kraste hij Jambir nog eens in het gezicht, waarna hij jammerend afstand nam van de koninklijke familie.
+"Ja joh, super geloofwaardig uit de mond _van een Gosti_," zei de prins. Zonder te kijken kraste hij Jambir nog eens in het gezicht.
 
 De koning keek zuur naar zijn zoon. "Gedraag je!"
 
@@ -129,13 +129,13 @@ De roodgele jaguar stapte verder naar voren. Hij stelde zich kwetsbaar op: één
 
 "We kunnen eten uitwisselen," zei Farshar, "technieken en kennis. Wij trekken over een paar dagen toch weer verder en je hebt geen last meer van ons."
 
-Zijn zoon en dochter waren bijgekomen van de schrik en leken nu vooral ... boos op hun vader? Zijn zoon stampte ongeduldig zijn poot en zijn dochter kneep de hendel van haar mand fijn. Maar zelfs met haar woedende gezicht, wist Jambir meteen dat hij haar knap vond.
+Zijn zoon en dochter waren bijgekomen van de schrik en leken nu vooral ... boos op hun vader? Zijn zoon stampte ongeduldig zijn poot en zijn dochter kneep de hendel van haar mand fijn. Maar zelfs met haar woedende gezicht, voelde Jambir meteen een getrek in zijn maag van liefde en verlangen, terwijl hij realiseerde dat hij haar knap vond.
 
 "Met hoeveel zijn jullie?" vroeg de jaguar.
 
 Farshar pauzeerde even. "Dat wisselt. Niet veel, niet weinig."
 
-De koning gromde bij dit antwoord. Het was niet was om je precieze aantal aan een vreemdeling te vertellen, dat begreep hij ook. Hij keek naar Jambir, die vooral oog had voor Misha, en op het punt stond nogmaals te herhalen dat Gosti slim waren.
+De koning gromde bij dit antwoord. Het was niet wijs om je precieze aantal aan een vreemdeling te vertellen, dat begreep hij ook. Hij keek naar Jambir, die vooral oog had voor Misha, en op het punt stond nogmaals te herhalen dat Gosti slim waren.
 
 Farshar liet zijn speer zakken.
 

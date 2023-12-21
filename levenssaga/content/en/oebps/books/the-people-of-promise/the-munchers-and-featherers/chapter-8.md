@@ -1,124 +1,126 @@
 ---
-title: "8. Jambirs Lot"
+title: "8. Jambir's Fate"
 weight: 8
 ---
 
-De onderhandeling was begonnen. Maar hoe meer Misha hoorde, hoe meer ze begreep dat de Jagu _alle_ macht hadden in deze onderhandeling. Ze wilde weg hier. Ze wilde Jambir zien, weten dat hij veilig was, en daarna die stomme Jagu de kop intrappen en hun hekken vernielen. Weg van deze nare plek. 
+The negotiations had begun. The more Misha listened, the more she realized Jagu had _all_ the power here. She wanted to _go away_. Flee. Stop it. Kill them all. She wanted to see Jambir and know he was safe, then kick the king and tear down the fences.
 
-En haar _eigen stam_ was nu al vergeten wat Misha was overkomen? Ze hadden meteen moeten stoppen met eten toen Jagu zijn eisen stelde. Het was belachelijk---maar steeds meer stamleden leken te accepteren dat ze moesten gaan werken onder de koning.
+And her _own tribe_ had already seemingly forgotten what had happened to her? They should've immediately stopped eating and left when Jagu told them his desires. It was absurd---most tribe members slowly accepted they had to go and work for the king.
 
-"We kunnen onze kennis bieden," zei Murfa wanhopig. "We kunnen helpen bij het afbreken van het hek of het maken van ons eigen onderdak."
+"We can offer our knowledge," Murfa tried. "We can help remove the fence or create our own huts."
 
-"Niet genoeg," bromde Jagu. "Dertig extra monden om te voeden. Je moet blij zijn dat wij dat _kunnen_."
+"Not enough," Jagu said. "Thirty more mouths to feed. You should be happy we _can_ do that!"
 
-"We kunnen helpen met jagen en verzamelen," zei Helera. "Daar zijn we goed in. We zijn rusteloos nu we niks kunnen doen."
+"We can help hunt and collect," Helera said. "We're all good at that. We are restless if we can't do anything all---"
 
-"Dus _waarom_ werken jullie zo tegen?" riep Jagu, terwijl hij een gigantische lap vlees in stukken reet met zijn voortanden. "Onder mijn commando zullen jullie elke dag nuttig werk verrichten! Zowel de mannen ... als de vrouwen."
+"Then _why_ are you working against me?" Jagu yelled, as he ripped apart a gigantic slab of meat with his front teeth. "Under my command you shall have useful tasks to do all day. Both the men ... and the women."
 
-Misha sprong op, rukte alle planten om haar heen kapot, en stormde weg. "Dat is genoeg. Genoeg!"
+Misha tore apart all the plants in her vicinity, then jumped and stalked away. "That's enough. _Enough!_"
 
-Farshar wilde achter haar aankomen, maar kon niet snel genoeg opstaan vanwege zijn geboeide handen. In een oogwenk was ze opgegaan in het duister. Nu pas merkten Farshar en Helera dat hun andere zoon Kesho ook vermist was.
+Farshar wanted to follow her but couldn't get up quickly enough with his hands tied. In the blink of an eye, Misha fade into darkness. Only now did her parents notice Kesho was also missing.
 
-Hun zicht werd verder geblokkeerd door Jagu's flinke lijf.
+Their sight was obstructed further by Jagu's immense body.
 
-"Ik merk dat jullie nogal vijandig zijn," zei de koning. "Dat verandert de eisen opnieuw. Alle vrouwtjes moeten minstens één kind krijgen terwijl ze hier zijn en diegene afstaan aan onze stam."
+"I sense your hostility," the king said. "That changes our desires again. All female Gosti must bear at least one child while here, which shall be property of the Jagu Tribe."
 
-Misha huilde en rende nog sneller weg van de plek. In een blinde paniek struikelde ze over van alles en nog wat, totdat ze merkte dat ze bij de voedselvoorraden was.
+Misha cried and ran away even faster. In her blind panic she stumbled and fell numerous times, until she'd reached the food storages.
 
-"Je bent een _monster_!" schreeuwde Farshar in de verte.
+"You're a _monster_!" Farshar's voice echoed in the distance.
 
-Deze keer was Jagu te ver gegaan. De rest van de Ashastam was het met Farshar eens. Ze stopten direct met lachen en zingen. Ze legden hun eten neer, stonden op, en hadden zonder een woord besloten om te vluchten.
+Jagu had gone too far. The Asha Tribe stopped singing and laughing, put down their food, and left without a word.
 
-Jagu hield zich een paar hartslagen sterk. Hij dacht dat het allemaal een spel was, dat de Ashastam blufte. 
+The king stood proud and silent for several heartbeats. He thought it a game, a bluff.
 
-Totdat bleek dat ze _echt_ wegliepen.
+But they were truly leaving.
 
-Hij riep tien bewakers bij zich en stormde op de Asha af.
+He called for ten guards to obstruct the Asha. "My apologies," he said, "I ... misspoke."
 
-"Mijn excuses," zei hij snel, "ik heb me ... versproken."
+"_Misspoke?_ You're the devil! Worse than the God of Death! You are---"
 
-"_Versproken_? Je bent de duivel! Nog erger dan de God van de Dood! Je bent---" 
+Murfa was the first to realize this was just another part of negotiations. "Our apologies too, Jagu, we also ... misspoke. Let's be frank this time and say what we really mean."
 
-Murfa was de eerste die begreep wat er aan de hand was en meespeelde. "Ook onze excuses, Jagu, wij hebben ons ook ... versproken. Laten we deze keer zeggen wat we écht willen zeggen."
+Children hid behind their parents. All jaguars surrounded the king using a formation that resembled a spear.
 
-Iedereen hield hun adem in. Kinderen verscholen zich achter hun ouders. Steeds meer jaguars verzamelden rondom Jagu in een formatie die leek op een speer.
+"That seems like ... a good idea," the king spoke softly.
 
-"Dat lijkt ons ook ... een goed plan," zei de koning voorzichtig.
+Hesitantly, all returned to their fires and picked up their food again.
 
-Voorzichtig schoof iedereen weer aan bij een vuur en pakte hun eten op. 
+Murfa looked around. "I can't speak for anyone else. We have no leader, as you know. But _I_ am prepared to work for you if that means we are safe, fed, and able to travel onwards at the next full moon. That's my last offer."
 
-Murfa keek rond. "Ik kan niet spreken voor de rest. Wij hebben geen leider, zoals u nu weet. Maar _ik_ ben bereid om te werken als dat betekent dat iedereen gevoed is en we bij de volgende volle maan weer verder kunnen reizen. Dat is mijn laatste offer."
+The two tribes stood face to face, the fires at their back.
 
-De twee stammen stonden recht tegenover elkaar, de vuren in hun rug. De jaguars keken één voor één naar de gezichten van de Asha.
+Murfa's wife still refused. But other men spoke the same promise, as well as their sons and daughters. Soon enough, the majority of Asha agreed.
 
-Murfa's vrouw weigerde nog steeds. Maar andere mannen spraken dezelfde belofte, evenals hun zonen en dochters. Al snel was de meerderheid van de Asha akkoord.
+Misha couldn't believe it. She leaned against the storage room, feeling sick. They'd given up _everything_! Everything Asha stood for! They'd destroyed its soul.
 
-Misha kon het niet geloven. Ze leunde uitgeput met haar rug tegen een voedselvoorraad. Ze hadden alles opgegeven! Alles waar Asha voor stond!
+Jagu smiled, his teeth glimmering in the moonlight. "I see we finally ... understand each other. Come! Come! The night is young and the food still fresh! Let's not squabble any more."
 
-Jagu glimlachte, zijn tanden blinkend in het maanlicht. "Ik merk dat we elkaar eindelijk ... begrijpen. Kom! Kom! De avond is nog jong en het eten nog vers! Laten we hier niet meer verder over ruziën."
+For the last time, everyone let out a sigh of relief. They enjoyed the final scraps of food, sharing it with each other, even the deer. The children who had just agreed to become a _slave_, in Misha's eyes, ran circles and played hide and seek again.
 
-Voor de zoveelste keer blies iedereen een gezamenlijke zucht van verlichting. Ze genoten van de laatste restjes eten en mengden met elkaar, zelfs de rendieren. De kinderen die net hadden toegestemd om een _slaaf_ te worden, in Misha's ogen, renden rondjes en speelden tikkertje. 
+Rain softly fell. The royal family took shelter from it. Lazily stretched out, a satisfied grin on their faces, they studied the feast from afar.
 
-De koninklijke familie schuilde voor de kleine regendruppels. Languit liggend, een tevreden blik op hun gezicht, bekeken ze de feestelijke avond van een afstand.
+Misha could kill them all. She wanted to drive her spear right through the heart of that monstrous king. It made her sick.
 
-Misha kon al die domme mensen wel in elkaar slaan. Ze wilde haar speer door het hart van die monsterlijke koning steken.
+It also made somebody else sick, standing beside her.
 
-Ze kon ervan kotsen. 
+Kesho leaned on a sabretooth tiger---the god Ardex---as if he were no more than a pillar. He seemed gravely ill, white as the summer sun and shaking. The only living thing about him was the diamond clutched in his one arm.
 
-Iemand naast haar ook.
+And yet, Misha was the only creature with a second shadow due to Ardex' faint glow. A fact she ignored out of concern for her brother.
 
-Kesho leunde tegen een sabeltandtijger---de god Ardex---alsof hij niets meer was dan een steunpilaar. Hij leek ernstig ziek, wit weggetrokken en trillend. Het enige levendige aan hem was de diamant die hij vasthield in zijn ene arm.
+"What happened?"
 
-"Broertje! Wat is er gebeurd?"
+"I went ... I went looking for Jambir ..."
 
-"Ik ging ... ik ging op zoek naar Jambir ..."
+In the distance, claps and cheers sounded again. They sung and danced. Several jaguar children joined the games and the princess loudly told a funny story to some interested deer.
 
-In de verte klonk weer geklap en gejoel. Ze waren begonnen met zingen en muziek maken. Een paar jaguarkinderen deden mee met tikkertje en de prinses vertelde luidruchtig een grappig verhaal aan een stel rendieren.
+Misha wanted to rip off her ears so she didn't have to hear it.
 
-Misha wilde dat ze haar oren kon afrukken om het niet te hoeven horen.
+"And?"
 
-"En?"
+Kesho gave the diamond to her. Ardex prevented it with his large tusks.
 
-Kesho probeerde de diamant aan haar te geven. Ardex stak zijn slagtanden ertussen. 
+"I'm afraid I can't let you keep that," he said somberly. "I'm afraid I have to destroy all these food storages."
 
-"Ik ben bang dat ik je die niet kan laten houden," zei hij somber. "Ik ben bang dat ik al deze voorraden moet afbreken."
+Misha was certain now. Ardex _fed_ her rage. Whenever he was near, you'd be mad at everything and you wanted to kill everything. But even once she realized this, she couldn't shake the feeling.
 
-Misha wist het zeker. Ardex voedde haar woede. Als hij in de buurt was, werd je kwaad op alles en wilde je alles een klap verkopen. Maar zelfs als je dat besefte, kon je het gevoel niet zomaar kwijtraken.
+"Dear brother, Kesho, look at me. What's wrong? Where is Jambir?"
 
-"Broertje, Kesho, kijk naar me. Wat is er? Waar is Jambir?"
+A streak of moonlight reached around the storage and illuminated a patch of flowers besides it. Flowers pressed down by a pile of _bones_.
 
-Een streep maanlicht boog nét rondom de voorraad en verlichtte een strook planten ernaast. Planten platgedrukt door een stapel botten.
+Kesho's shaking, tiny fingers pointed at the bones.
 
-Kesho's trillende, kleine vingers wezen naar de botten.
+Misha froze in disbelief.
 
-Misha versteende van ongeloof.
+She wanted her eyes to fool her. She wanted to blame it on Ardex, or some horrible joke from her little brother. But Kesho didn't do jokes like that. Ardex seemed about to cry.
 
-Ze wilde dat haar ogen haar voor de gek hielden, dat Ardex er weer iets mee te maken had, dat het een misselijke grap was van haar broertje. Maar Kesho deed niet aan zulke grappen. Ardex stond ook op het punt te huilen. En tussen de botten zat een schedel die onmiskenbaar Jambirs hoofd was.
+Among the bones was a skull that clearly resembled Jambir's head.
 
-Haar redder. Die lieve Gosti.
+Her savior. Her sweet Gosti.
 
-Hij was vermoord en kaalgeplukt.
+He was killed and stripped.
 
-Dat vlees ... dat vlees dat ze aten bij binnenkomst ... zo taai en---
+The meat ... the meat they all ate as they sat by the fire ... so tough and weird and---
 
-Misha schreeuwde totdat de grond schudde en Ardex uit angst een stap achteruit zette. Ze greep naar Kesho's speer---hij gooide al een tweede speer naar haar toe.
+Misha yelled until the ground shook and Ardex stepped back in fright. She reached for Kesho's spear---he already gave her another one.
 
-"Kinderen! Niet---" Ze waren Ardex allang voorbij gerend.
+"Children! Do not---"
 
-Haar schreeuw hield aan, totdat Jagu zijn oren spitste en omkeek op zoek naar de oorsprong van het geluid.
+They ran straight at the royal family.
 
-Net op tijd om te zien hoe een speer op hem afkwam.
+Her yell continued all the way, until Jagu's ears pricked up and he looked over his shoulder to find the source of the noise.
 
-Te laat om iets ertegen te doen.
+Just in time to see a spear coming for him.
 
-Haar worp was een voltreffer in het hart van Jagu, die omviel en stierf voordat hij de hut had verlaten.
+Too late to sidestep.
 
-Kesho's worp doorboorde de prins, die overleefde en weg strompelde, maar uitgleed over de groeiende plas bloed.
+Misha's throw was a direct hit to Jagu's heart. The fat king fell and died before even leaving his hut.
 
-Boven hun hoofden ritselden bomen. Ze bogen en kraakten, ook al stond er vannacht geen wind. Takken en bladeren vielen omlaag, vermengd met regendruppels.
+Kesho's throw hit the prince, who survived and scrambled away, but slipped on the growing puddle of blood.
 
-Een hartslag later verschenen tientallen Gostihoofden in de boomtoppen, hun bogen gericht op de Ashastam beneden.
+"Father!" the princess screeched. "Betrayal! _Murderers_!"
 
-De volle maan werd verduisterd door een regen van pijlen.
+The trees shook above their heads. They bent and creaked, despite the windless night. Branches and leaves fell down, mixed with the rainfall.
 
-De Asha waren nergens op voorbereid.
+Ten Gosti appeared in the treetops with bows aimed at the Asha Tribe. The bright moon was darkened by a hail of arrows.
+
+The Asha were not prepared.

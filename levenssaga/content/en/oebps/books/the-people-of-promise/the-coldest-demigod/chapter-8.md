@@ -141,7 +141,7 @@ Oeros stepped away.
 
 The child inside her was now clearly visible and vulnerable. The bright ball looked unhealthy, with black spots that leaked stardust.
 
-"Foul witch!" Ardex spit a fireball that burned all creatures still on the floor. It set Gaia's new dress aflame and turned her tearful rivers into steam.
+"Foul witch! Because of you my life is nothing but _pain_!" Ardex spit a fireball that burned all creatures still on the floor. It set Gaia's new dress aflame and turned her tearful rivers into steam.
 
 "Murderer! _Monster!_ You'd kill your own sister!"
 

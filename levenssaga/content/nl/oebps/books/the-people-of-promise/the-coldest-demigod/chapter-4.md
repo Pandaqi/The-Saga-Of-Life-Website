@@ -67,7 +67,7 @@ Gaia glimlachte en wreef over haar hele lichaam. "Bovendien komt het volgende ki
 
 Oeros voelde meteen die trots, die wil om nog een goddelijk wezen in het universum te brengen. Vrijwel meteen werd het verdrukt, weggezet en overgeschilderd, door het gevoel dat anders _deze_ misschien wel het monster was.
 
-Gaia had het gezegd: ze kon niet voorkomen dat de kinderen kwamen. Dus eigenlijk deden ze precies het juiste: ervaring opdoen hoe ze snel kunnen _testen_ wie dat monster was.
+Gaia had het gezegd: ze kon niet voorkomen dat de kinderen kwamen. Dus eigenlijk deden ze precies het juiste, namelijk ervaring opdoen hoe ze snel kunnen _testen_ wie dat monster was.
 
 Oeros bouwde een nieuwe troon en speurde weer het universum af naar problemen om op te lossen. Hij overwoog een paar nieuwe natuurkundige wetten in te voeren---want hij was verveeld---maar kon niks vinden dat in balans was met de huidige regels. In dat opzicht was Gaia de betere godin. Als het erop aan kwam, kon zij inderdaad vooral nieuwe dingen maken, en hij vooral bestaande dingen afbreken of veranderen.
 
@@ -103,7 +103,7 @@ Zijn gedaante bevroor in de lucht, de vuurtjes voor het eerst gedoofd.
 
 "Je ..." Ardex zocht naar de woorden. Hij had ook jarenlang geen oefening gehad met communiceren. "Bent hier zeker over?"
 
-Gaia knikte uitbundig en sloop dichterbij voor haar eerste knuffel met haar zoon. Hij liet het gebeuren, te verbaasd om iets te zeggen of doen.
+Gaia knikte uitbundig en sloop dichterbij voor haar eerste knuffel met haar zoon. Hij liet het gebeuren, te verbaasd om iets te zeggen of doen. De omhelzing veranderde Gaia van gedaante naar iets dat meer vast en dierlijk was, zoals Ardex eruitzag, in plaats van de vage misten.
 
 "Ik zou er niet over beginnen als ik niet _helemaal_ zeker was. Je moet Oeros zo snel mogelijk doden."
 
@@ -113,7 +113,7 @@ Maar Ardex begreep zijn krachten steeds beter en herinnerde steeds meer van wat 
 
 Zonder dat, was hij nu misschien gestorven, of een magieloze god. Hij was een hulpje geworden voor de oppergoden, nog meer speelgoed dan hij al was.
 
-Maar Oeros had per ongeluk nog wat meer krachten meegegeven. Krachten die hij jaren in eenzaamheid en gevangenschap had aangescherpt.
+Maar Oeros had per ongeluk nog wat meer krachten meegegeven. Krachten die hij jaren in eenzaamheid en gevangenschap had aangescherpt. Pijn. Eindeloze pijn. Altijd in vuur en vlam, altijd boos en vol energie. Het maakte hem gek.
 
 "Zoals ik het begrijp," zei Ardex, "heb jij alle kracht van creatie en maken, en Oeros de tegenhangers in vernieling en dood. Zo houden jullie elkaar in evenwicht."
 
@@ -121,11 +121,11 @@ Maar Oeros had per ongeluk nog wat meer krachten meegegeven. Krachten die hij ja
 
 "Hij gaf mij een diepe kennis voor vernieling en dood. En gek genoeg, mam, zie ik het meeste daarvan terug in jou."
 
-Ardex blies zichzelf op en smeet Gaia van zich af. De Oppergodin van Creatie sloeg tegen de muur en viel slap op de grond, terwijl haar magie uit haar gedaante leek geslagen en nog als donkere wolken boven haar zweefde.
+Ardex blies zichzelf op en smeet Gaia van zich af. De Oppergodin van Creatie sloeg tegen de muur en viel slap op de grond. De magie leek uit haar gedaante geslagen, haar ziel gesplitst van haar verschijning, en zweefde nu als donkere wolken boven haar.
 
-Normaal gesproken was ze zonder problemen _door_ de muur gegaan, maar haar knuffel met Ardex had haar lichaam ook even vaster gemaakt en veranderd.
+Normaal gesproken was ze zonder problemen _door_ de muur gegaan. Maar haar knuffel met Ardex had haar lichaam ook even vaster gemaakt en veranderd.
 
-Het was niet Ardex' bedoeling, beste lezer, om zijn moeder zo hard van zich af te stoten. Neem het hem niet te veel kwalijk. Als je hem had gekend zoals ik, dan wist je dat hij een hart van goud had en zich later schuldig voelde over deze aanval en de heftige gevolgen. 
+Het was niet Ardex' bedoeling, beste lezer, om zijn moeder zo hard van zich af te stoten. Neem het hem niet te kwalijk. Als je hem had gekend zoals ik, dan wist je dat hij een hart van goud had en zich later schuldig voelde over deze aanval en de heftige gevolgen. 
 
 Hij was alleen nu te kwaad om nog iets erom te geven.
 

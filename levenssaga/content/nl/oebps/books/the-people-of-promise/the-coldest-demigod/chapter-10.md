@@ -39,23 +39,27 @@ Hij trok het doek weg. Een bevroren vlam, alsof het was gemaakt uit glas en stee
 
 Hij leunde voorover en sprak nóg zachter. "Maar mondje dicht. De regel is één Hemelvoorwerp per kind en Gaia wil dus sowieso niet dat ik met je praat in de gevangenis."
 
-Ardex hoorde het nauwelijks, betoverd door de Vlamvreter. "Hoe ... hoe maak je die dingen?" 
+Ardex hoorde het nauwelijks, betoverd door de Vlamvreter. Zodra hij het aanraakte, kalmeerden de vuren in hem en ... voelde hij geen pijn meer. _Geen pijn meer. Rust._
+
+"Hoe ... hoe maak je die dingen?" 
 
 Hij dacht terug aan zijn test. Hoe die leeuw hem expres had weggeleid totdat hij door zo'n paarse mist sprong. Hij zuchtte.
 
 "Het moet vrijwillig, of niet? Ik moest vrijwillig, met de Vuurring, door de paarse mist rennen, zodat jullie een deel van mijn kracht erin op konden sluiten."
 
-Oeros zond bevestigende energie. "En de Vlamvreter ontstond toen jij je bewust overgaf aan Gaia. Zeg wat je wil, maar Gaia heeft de wetten van de wereld zodanig ontworpen dat het goede daden probeert te belonen."
+Oeros zond bevestigende energie. "En de Vlamvreter ontstond toen jij je bewust overgaf aan Gaia. Ja, we weten wat je hebt gedaan. Zeg wat je wil, maar Gaia heeft de wetten van de wereld zodanig ontworpen dat het goede daden beloont."
 
-Ardex wist niet wat hij daarop moest zeggen. Over Gaia kon hij nog geen goed woord over zijn tong krijgen. En ze gingen deze test bij elk volgende kind doen? Wat als eentje faalde? En als _hij_ niet hét monster van de voorspelling was ... dan moest het dus een van zijn broertjes of zusjes zijn.
+Ardex kon geen goed woord over Gaia zeggen. En ze gingen deze test bij elk volgende kind doen? Wat als eentje faalde? En als _hij_ niet hét monster van de voorspelling was ... dan moest het dus een van zijn broertjes of zusjes zijn. Moest hij toekijken hoe ze dit allemaal een ander godenkind aandeden.
 
-In de lange stilte die volgde, zweefde Oeros alweer weg, maar hij bleef hangen bij de opening naar boven.
+De lange stilte die volgde gaf Oeros een reden om weer te vertrekken. Hij bleef nog even hangen bij de opening naar boven.
 
-"Je hebt het juiste gedaan door het leven te _laten_ sterven en je nergens mee te bemoeien. Je hebt het juiste gedaan door de strijd met je moeder te staken en je over te geven. In mijn ogen, Ardex, heb je altijd alleen maar het juiste gedaan."
+"Je hebt het juiste gedaan door het leven te _laten_ sterven en je nergens mee te bemoeien. Je hebt het juiste gedaan door je over te geven. In mijn ogen, Ardex, heb je altijd alleen maar het juiste gedaan. _Geen leven zonder dood_, mijn zoon."
 
-Ardex wilde naar zijn Vader toe, maar botste op de magische muur die nergens voor week. Hij voelde iets nieuws. Verdriet? Blijdschap? Tranen?
+Ardex wilde naar zijn Vader toe rennen, maar botste op de magische muur die nergens voor week. Hij voelde iets nieuws. Verdriet? Blijdschap? Tranen?
 
-Wat het ook was, hij wilde het blijven voelen. Hij gaf zichzelf twee klauwen en kraste in de stenen vloer.
+Wat het ook was, hij wilde het blijven voelen. Na al die pijn en al die gevechten, gaf de Vlamvreter hem eindelijk de kalmte en controle waar hij op hoopte. Geen eindeloze pijn meer. En dan ook nog Vader's goedkeuring.
+
+Hij gaf zichzelf twee klauwen en kraste in de stenen vloer, terwijl tranen eromheen vielen.
 
 _Geen blijdschap zonder verdriet._
 

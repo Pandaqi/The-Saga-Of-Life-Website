@@ -21,6 +21,10 @@ blurb: "A clever tribe of hunters and gatherers meets another tribe hoarding all
 timeline:
   - yearstart: -70000
 
+readability:
+  - words: 13962
+    lines: 1508
+    score: 6
 
 ---
 

@@ -5,19 +5,21 @@ weight: 6
 
 Alle leden van de Ashastam ontmoetten elkaar diep in het bos, zonder spoor van Misha. Woede golfde door de groep, tegelijk met angst voor Misha's lot. Kesho had zich even later aangesloten, maar wist niks meer dan zij. Nog langer onzekerheid, nog een dag zonder Misha, en wie weet wat ze hadden gedaan.
 
-Maar rond zonsondergang zag Kesho een silhouet tussen de bomen. Het wiegde heen en weer, alsof het te moe was om rechtdoor te lopen, of de poten op te tillen om niet te struikelen.
+Maar rond zonsondergang zag Kesho een silhouet tussen de bomen. Het wiegde heen en weer, niet in staat rechtdoor te lopen of diens poten ver genoeg op te tillen.
 
 Het was veel te groot om Misha te zijn.
 
 Het gaf licht in het donker, wat ook niet bepaald een speciale kracht van de Gosti was.
 
-Een sabeltandtijger voegde zich bij de groep, maar niemand was bang, want deze verschijning herkende je uit duizenden. Ardex, god van vuur en dood, oudste van de godenkinderen, keek ... uitgeput?
+Een sabeltandtijger voegde zich bij de groep, maar niemand was bang, want deze verschijning herkende je uit duizenden. Ardex, god van vuur en dood, oudste van de godenkinderen. Terwijl hij op hen afliep begon plots een kampvuur in hun midden. Het verwierp het duister van de nacht, maar maakte gek genoeg _twee_ schaduwen per persoon.
+
+De god keek ... uitgeput?
 
 "Ik ben zo snel gekomen als ik kon," zei hij. "Wat onverstandig was, want ik had al een tijd niet meer hard gerend merk ik."
 
 "Heeft u onze gebeden gehoord?" vroeg Helera, Kesho's moeder. "Kan u alles horen?"
 
-"Nee. Ik kwam om een andere reden. Ik hoorde van Eeris dat ze stammen hier in de buurt had geholpen de afgelopen tientallen winters. Als ik het eerder had geweten, had ik het meteen een halt toegeroepen! Maar goed, ik ben er nu."
+"Tot mijn eigen verbazing, _kan_ ik inderdaad jullie gebeden horen, en alleen die van jullie. Maar ik kwam om een andere reden. Ik hoorde van Eeris dat ze stammen hier in de buurt had geholpen de afgelopen tientallen winters. Als ik het eerder had geweten, had ik het meteen een halt toegeroepen!"
 
 Iedereen keek elkaar aan. Farshar nam als eerste het woord. "Dankzij haar hulp zijn slechts drie mensen overleden afgelopen winter. We hadden allemáál een hongerdood kunnen sterven. Waarom zou u dat stoppen, oh godenkind?"
 
@@ -25,9 +27,9 @@ Ardex glimlachte. "En de Jagustam? Die ze heeft geholpen door een magische steen
 
 "Alstublieft," smeekte Helera, "vertel ons waar lieve Misha is. Dat is alles dat we vragen."
 
-Precies op dat moment schoof een gedaante opzij achter Ardex' rug. Misha had nog meer wonden dan eerst en keek naar de grond, alsof ze bang was haar eigen stamleden in de ogen te kijken. Alsof ze zich schuldig voelde dat ze de commando's had opgevolgd en niet haarzelf had los gevochten.
+Precies op dat moment schoof een gedaante opzij achter Ardex' rug. Misha had nog meer wonden dan eerst en keek naar de grond, alsof ze bang was haar eigen stamleden in de ogen te kijken uit schaamte.
 
-Haar stamleden zagen geen schuld. Kesho's ouders renden naar haar toe en sloten haar in hun armen.
+Haar stamleden zagen geen reden voor schaamte. Kesho's ouders renden naar haar toe en sloten haar in hun armen.
 
 "Dank, dank, dank," bleven ze maar zeggen.
 
@@ -53,7 +55,7 @@ Misha huilde de vacht van haar ouders nat. "Ze zeiden dat ik hun commando's moes
 
 Heel even keek iedereen naar Ardex, maar die vernietigde meteen hun droom. "Ik heb me te vaak bemoeid met dingen en het altijd verpest." 
 
-Hij klonk nog vermoeider dan hij eruit zag, alsof hij niet alleen moe was van het rennen, maar moe van het hele leven. Met één adem blies Ardex een behaaglijk kampvuur tegen de nacht, en daar hield hij het bij.
+Hij klonk nog vermoeider dan hij eruit zag, alsof hij niet alleen moe was van het rennen, maar moe van het hele leven.
 
 Iedereen had hetzelfde onderbuikgevoel als Kesho. Murfa tikte ongeduldig tegen een boom. Zijn vrouw sleep haar speer en testte of hij al scherp genoeg was om een jaguarhart te prikken. Helera's ogen hadden kunnen doden, terwijl haar spieren al op spanning stonden. 
 
@@ -87,7 +89,7 @@ Farshar stond op zijn achterpoten. Op volle lengte maakte hij alle andere stamle
 
 "Hij valt je aan en dood je!"
 
-Farshar gromde, terwijl Kesho hem steunde met geschreeuw en nog meer speren die naar de hemel prikten. "Het maakt niet uit wie ze zijn, wat ze zijn, of hoe ze eruit zien. De Jagustam zijn een bedreiging voor onze overleving! En een bedreiging moet je aanvallen en wegjagen! Want als we het niet doen, dan vallen zij eerst aan en is de Ashastam ten einde!"
+Farshar gromde. "Het maakt niet uit wie ze zijn, wat ze zijn, of hoe ze eruit zien. De Jagustam zijn een bedreiging voor onze overleving! En een bedreiging moet je aanvallen en wegjagen! Want als we het niet doen, dan vallen zij eerst aan en is de Ashastam ten einde!"
 
 Misha greep ook een speer en schreeuwde mee. "Voor Jambir!"
 
@@ -123,7 +125,7 @@ Kesho wist dat het zo werkte. Zodra één iemand probeerde de baas te spelen, wa
 
 Een jaguar met kleine poten stapte richting het vuur: de prins. Hij keek verbaasd naar Ardex die in een hoekje lag en meeluisterde, en net zo verbaasd naar Farshar die was vastgebonden.
 
-Kesho hoopte vurig dat hij niks had gehoord van het afgelopen gesprek.
+Kesho hoopte vurig dat hij niks had gehoord van het afgelopen gesprek. De prins kreeg ook _twee_ schaduwen, hoewel zijn tweede de verkeerde vorm had en veel donkerder was dan de ander.
 
 "Koning Jagu biedt zijn welgemeende excuses voor wat er is gebeurd. Een ... misverstand zorgde dat de verkeerde Gosti aan het werk werd gezet. Hij hoopte ten zeerste dat jullie deze misstap kunnen vergeven."
 

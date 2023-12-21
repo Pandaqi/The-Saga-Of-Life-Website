@@ -27,9 +27,9 @@ Misha huilde en rende nog sneller weg van de plek. In een blinde paniek struikel
 
 "Je bent een _monster_!" schreeuwde Farshar in de verte.
 
-Deze keer was Jagu te ver gegaan. De rest van de Ashastam was het met Farshar eens. Ze stopten direct met lachen en zingen. Ze legden hun eten neer, stonden op, en hadden zonder een woord besloten om te vluchten.
+Deze keer ging Jagu te ver. De Ashastam stopte directe met lachen en zingen. Ze legden hun eten neer, stonden op, en hadden besloten zonder een woord te vluchten.
 
-Jagu hield zich een paar hartslagen sterk. Hij dacht dat het allemaal een spel was, dat de Ashastam blufte. 
+Jagu hield zich een paar hartslagen sterk. Hij dacht dat het allemaal een spel was, een bluf.
 
 Totdat bleek dat ze _echt_ wegliepen.
 
@@ -39,7 +39,7 @@ Hij riep tien bewakers bij zich en stormde op de Asha af.
 
 "_Versproken_? Je bent de duivel! Nog erger dan de God van de Dood! Je bent---" 
 
-Murfa was de eerste die begreep wat er aan de hand was en meespeelde. "Ook onze excuses, Jagu, wij hebben ons ook ... versproken. Laten we deze keer zeggen wat we écht willen zeggen."
+Murfa was de eerste die begreep dat dit ook onderdeel van de onderhandelingen was en meespeelde. "Ook onze excuses, Jagu, wij hebben ons ook ... versproken. Laten we deze keer zeggen wat we écht willen zeggen."
 
 Iedereen hield hun adem in. Kinderen verscholen zich achter hun ouders. Steeds meer jaguars verzamelden rondom Jagu in een formatie die leek op een speer.
 
@@ -49,7 +49,7 @@ Voorzichtig schoof iedereen weer aan bij een vuur en pakte hun eten op.
 
 Murfa keek rond. "Ik kan niet spreken voor de rest. Wij hebben geen leider, zoals u nu weet. Maar _ik_ ben bereid om te werken als dat betekent dat iedereen gevoed is en we bij de volgende volle maan weer verder kunnen reizen. Dat is mijn laatste offer."
 
-De twee stammen stonden recht tegenover elkaar, de vuren in hun rug. De jaguars keken één voor één naar de gezichten van de Asha.
+De twee stammen stonden recht tegenover elkaar, de vuren in hun rug.
 
 Murfa's vrouw weigerde nog steeds. Maar andere mannen spraken dezelfde belofte, evenals hun zonen en dochters. Al snel was de meerderheid van de Asha akkoord.
 
@@ -68,6 +68,8 @@ Ze kon ervan kotsen.
 Iemand naast haar ook.
 
 Kesho leunde tegen een sabeltandtijger---de god Ardex---alsof hij niets meer was dan een steunpilaar. Hij leek ernstig ziek, wit weggetrokken en trillend. Het enige levendige aan hem was de diamant die hij vasthield in zijn ene arm.
+
+Toch was Misha de enige met een tweede schaduw vanwege Ardex' licht. Een feit dat ze negeerde uit bezorgdheid.
 
 "Broertje! Wat is er gebeurd?"
 
@@ -114,6 +116,8 @@ Te laat om iets ertegen te doen.
 Haar worp was een voltreffer in het hart van Jagu, die omviel en stierf voordat hij de hut had verlaten.
 
 Kesho's worp doorboorde de prins, die overleefde en weg strompelde, maar uitgleed over de groeiende plas bloed.
+
+"Vader!" schreeuwde de prinses. "Verraad! _Moordenaars!_"
 
 Boven hun hoofden ritselden bomen. Ze bogen en kraakten, ook al stond er vannacht geen wind. Takken en bladeren vielen omlaag, vermengd met regendruppels.
 

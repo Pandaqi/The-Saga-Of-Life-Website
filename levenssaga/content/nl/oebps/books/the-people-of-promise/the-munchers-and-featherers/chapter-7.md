@@ -5,11 +5,9 @@ weight: 7
 
 Natuurlijk was de Ashastam op hun hoede. Ze waren niet dom; ze hadden genoeg ervaring met een dier dat dood speelde om hen vervolgens onverwacht aan te vallen. Maar ze konden al van ver ruiken dat er inderdaad een feestmaal werd klaargemaakt. Terwijl de Ashastam het mammoetvlees probeerde mee te dragen, had de Jagustam blijkbaar ook hun eigen voorraad aangesproken.
 
-Eenmaal bij de noordgrens zagen ze dat het kamp was opgedeeld in vijf verschillende eetplekken. De Jagu hadden de techniek om zelf vuur te maken snel onder controle gekregen, hoewel Kesho zeker was dat ze het hun Gosti hadden laten doen. 
+Eenmaal bij de noordgrens zagen ze dat het kamp was opgedeeld in vijf verschillende eetplekken. Boven elk vuur draaide al een stuk vlees en eromheen stonden hutjes in een cirkel. Het miezerde---iets dat de Ashastam nauwelijks had gemerkt---en de jaguars wilden natuurlijk niet nat worden. Hoewel _hutje_ een groot woord was voor een paar vertical stokken met een dierenvel eroverheen getrokken.
 
-Boven elk vuur draaide al een stuk vlees en eromheen stonden hutjes in een cirkel. Het miezerde---iets dat de Ashastam nauwelijks had gemerkt---en de jaguars wilden natuurlijk niet nat worden. Hoewel _hutje_ een groot woord was voor een paar vertical stokken met een dierenvel eroverheen getrokken.
-
-Farshar liep mee, omringd door zijn kinderen en vrouw, maar zijn handen waren nog steeds geboeid. De Ashastam splitste in vijf ongeveer gelijke delen en mengde zich bij de jaguars en Gosti rondom de vuren. Alleen de zwakkere dieren van Asha, zoals de rendieren, wilden bij elkaar blijven en een vuur alleen voor zichzelf. 
+Farshar moest worden ondersteund door vrouw en kinderen, want zijn handen waren nog steeds geboeid. De Ashastam splitste in vijf ongeveer gelijke delen en mengde zich bij de jaguars en Gosti rondom de vuren. Alleen de zwakkere dieren van Asha, zoals de rendieren, wilden bij elkaar blijven en een vuur alleen voor zichzelf. 
 
 Jagu glimlachte en stond dat toe. Net zoals hij toestond dat de Asha hun speren meenamen en vlak naast zich neerlegden. 
 
@@ -27,11 +25,11 @@ Kesho speurde het terrein ook af. Waar was Jambir? Was hij gevangen? Was hij nó
 
 Nee, Kesho durfde er niet aan te denken. De Jagu zou _stom_ zijn om zoiets te doen, net nu ze het goed willen maken tussen de stammen. Dus Kesho sloop langzaam weg bij het vuur om te zoeken naar zijn vriend.
 
-Jagu had zijn flinke lijf weer even van de grond gekregen en struinde rond te midden van alle vuren.
+Jagu had zijn flinke lijf weer even van de grond gekregen en struinde rond te midden van alle vuren. Hij was zo groot dat hij wel _twee_ schaduwen leek te werpen.
 
 "Ik verwelkom iedereen," zei hij, "voor dit feestmaal ter verzoening van onze stammen. Wat er ook is gebeurd vóór dit moment, ik hoop dat alles kan worden vergeten en vergeven."
 
-De leden van de Ashastam keken naar elkaar. Zodra genoeg van hen hadden geknikt of gemompeld "alles hiervoor is vergeven", ging Jagu door. 
+Jagu had geleerd. Hij wachtte tot de meerderheid instemde en sprak toen door.
 
 "Vannacht is alles bespreekbaar. Vertel ons jullie wensen, wij vertellen onze wensen, en we zullen samen een oplossing vinden."
 
@@ -82,6 +80,10 @@ Er werd geklapt en gejoeld. Meerdere Ashaleden bedankten hem, waarna Kesho zag d
 Kesho had de slechtst bewaakte voorraad bereikt. Hij tikte de flap open. Binnenin lagen misschien wel honderd vissen, allemaal lang geleden gevangen en gedood, maar nog steeds zo vers alsof ze uit de rivier waren gesprongen. Hij watertandde. 
 
 Eentje zouden ze toch niet missen? Die jaguars wisten niet eens wat getallen waren, ze hielden dat echt niet bij. En hadden ze niet net gezegd dat ze gingen samenwerken en de Ashastam te eten geven?
+
+Hij wist wat hij deed. Hij wist dat het verkeerd was. Hij wist dat er eten was bij de vuren, om te delen met de anderen.
+
+Toch waren zijn gedachten niet sterk genoeg om zijn lichaam en natuur te bevechten. Die wenste altijd _meer eten_, want dat was het allerbelangrijkste in elk leven.
 
 Hij greep een vis uit het midden---maar bevroor voordat hij een hap kon nemen. De fonkeling in de vloer had zichzelf onthuld. Hij dook omlaag en botste er met zijn snuit tegenaan. Het leek wel ... een Darussteen? Zo'n diamant die de God van Steen en Aarde zo vaak had gemaakt. 
 

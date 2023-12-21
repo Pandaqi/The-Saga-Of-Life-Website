@@ -121,7 +121,7 @@ Oeros nam meteen afstand.
 
 "Ondankbaar kreng!" Gaia werd nóg groter. Het kind dat groeide---de lichtgevende bol in haar binnenste---was nu blootgesteld en goed zichtbaar. En het zag er niet gezond uit. 
 
-"Vuile heks!" Ardex spuwde onbewust een vuurbal die alle dode wezens op de grond voorgoed verbrandde. Gaia's nieuwe japon ontvlamde en was razendsnel verdwenen.
+"Vuile heks! Door jullie is mijn leven niets dan _pijn_!" Ardex spuwde onbewust een vuurbal die alle dode wezens op de grond voorgoed verbrandde. Gaia's nieuwe japon ontvlamde en was razendsnel verdwenen.
 
 "Moordenaar! _Monster!_ Jij zou je eigen zusje nog doden!"
 

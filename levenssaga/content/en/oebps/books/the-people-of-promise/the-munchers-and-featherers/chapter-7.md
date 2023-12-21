@@ -1,106 +1,114 @@
 ---
-title: "7. Het Feestmaal"
+title: "7. The Feast"
 weight: 7
 ---
 
-Natuurlijk was de Ashastam op hun hoede. Ze waren niet dom; ze hadden genoeg ervaring met een dier dat dood speelde om hen vervolgens onverwacht aan te vallen. Maar ze konden al van ver ruiken dat er inderdaad een feestmaal werd klaargemaakt. Terwijl de Ashastam het mammoetvlees probeerde mee te dragen, had de Jagustam blijkbaar ook hun eigen voorraad aangesproken.
+Of course the Asha Tribe was on guard. They weren't stupid; they had enough experience with animals playing dead just to attack you when you least expected it. But the smell of flesh enticed them from afar. As they carried the remains of the dead mammoth, the Jagu had apparently already grabbed some meat from their own storages.
 
-Eenmaal bij de noordgrens zagen ze dat het kamp was opgedeeld in vijf verschillende eetplekken. De Jagu hadden de techniek om zelf vuur te maken snel onder controle gekregen, hoewel Kesho zeker was dat ze het hun Gosti hadden laten doen. 
+They reached the northern border and noticed the camp was split into five separate campfires. Each of them roasted a piece of meat, while huts encircled the area almost like a walls to a room. 
 
-Boven elk vuur draaide al een stuk vlees en eromheen stonden hutjes in een cirkel. Het miezerde---iets dat de Ashastam nauwelijks had gemerkt---en de jaguars wilden natuurlijk niet nat worden. Hoewel _hutje_ een groot woord was voor een paar vertical stokken met een dierenvel eroverheen getrokken.
+_Though "hut", dear reader, remained a strong word for some vertical branches with an animal hide haphazardly stretched over it._
 
-Farshar liep mee, omringd door zijn kinderen en vrouw, maar zijn handen waren nog steeds geboeid. De Ashastam splitste in vijf ongeveer gelijke delen en mengde zich bij de jaguars en Gosti rondom de vuren. Alleen de zwakkere dieren van Asha, zoals de rendieren, wilden bij elkaar blijven en een vuur alleen voor zichzelf. 
+Farshar was surrounded by his children and wife, but had to be supported, for two of his paws were still tied. The Asha Tribe split into five equal parts and mixed with the jaguars and Gosti surrounding the fires. Only the weaker Asha animals, such as deer, insisted on staying together and claiming one fire of their own.
 
-Jagu glimlachte en stond dat toe. Net zoals hij toestond dat de Asha hun speren meenamen en vlak naast zich neerlegden. 
+Jagu smiled and accepted. Just as he let the Asha carry their weapons and keep them close.
 
-Misha wilde meteen weglopen, maar haar ouders stonden het niet toe.
+Misha wanted to flee immediately, but her parents wouldn't let her.
 
-"Jij blijft _heel dichtbij ons_, schat."
+"You stay _really close_ to use, dear."
 
-"Jullie vertrouwen hen toch niet zomaar? En waarom laten ze ons de speren houden? We moeten de omgeving uitkammen. Misschien zitten overal wel Gosti met pijl en boog, klaar om---"
+"You're insane. You're trusting them? And why would they let us keep our weapons? We must investigate the area. Perhaps the huts hide Gosti with bow and arrow, ready to---"
 
-"We lopen straks stiekem een ronde," siste Farshar fluisterend, "Zodra het niet opvalt of als een belediging wordt gezien. Maar jij gaat _niet_ op pad zonder mijn bescherming!"
+"We'll secretly take a walk soon," Farshar hissed, "when nobody watches and Jagu won't see it as an insult. But you are _not_ going anywhere without my protection."
 
-"Zegt de persoon die is vastgebonden!" Misha wilde nog een lading boze zinnen roepen, maar Jagu was vlakbij en Farshars strenge blik maande haar tot stilte. 
+"Says the person who is tied and can't walk!" Misha wanted to scream more angry insults, but Jagu was close.
 
-Kesho speurde het terrein ook af. Waar was Jambir? Was hij gevangen? Was hij nóg harder aan het werk gezet? Was hij ... 
+Kesho looked around. Where was Jambir? Was he imprisoned? Was he given even more demanding tasks? Was he ...
 
-Nee, Kesho durfde er niet aan te denken. De Jagu zou _stom_ zijn om zoiets te doen, net nu ze het goed willen maken tussen de stammen. Dus Kesho sloop langzaam weg bij het vuur om te zoeken naar zijn vriend.
+No, he didn't dare think it. Jagu would be _stupid_ to do something like that, just as Kesho was fighting to make things right between the tribes. He crept away from the fires to search for Jambir.
 
-Jagu had zijn flinke lijf weer even van de grond gekregen en struinde rond te midden van alle vuren.
+Jagu managed to raise his enormous body off the floor and walk amidst the mingling tribes. He was so large that he seemed to cast two shadows.
 
-"Ik verwelkom iedereen," zei hij, "voor dit feestmaal ter verzoening van onze stammen. Wat er ook is gebeurd vóór dit moment, ik hoop dat alles kan worden vergeten en vergeven."
+"I welcome all," he said, "to this feast that will merge our tribes in harmony. Whatever happened before now, let us forgive and forget."
 
-De leden van de Ashastam keken naar elkaar. Zodra genoeg van hen hadden geknikt of gemompeld "alles hiervoor is vergeven", ging Jagu door. 
+He had learned. As soon as the majority of the Asha Tribe had mumbled "all is forgiven", he continued.
 
-"Vannacht is alles bespreekbaar. Vertel ons jullie wensen, wij vertellen onze wensen, en we zullen samen een oplossing vinden."
+"Tonight, no topic is off limits. Explain your desires, we'll explain ours, and I'm sure we'll find a solution."
 
-Voor even werd de nacht slechts gevuld door het geknisper van de vuren en ongeduldige dieren die alvast wilden eten. Kesho's maag rommelde, maar hij wilde niet eten totdat hij Jambir had gevonden. Die hele Asha leek nog steeds de Jagu te vertrouwen. Zodra de maan verscheen, zouden ze weer samen liederen zingen, en alles kwam goed, en dan konden ze misschien wel voor lange tijd hier blijven.
+For some time, the only sounds in the dark night were crackling fires and impatient animals studying the food. Kesho's stomach rumbled, but he forbade himself to eat before he'd found Jambir. The tribes were growing closer. When the moon came out, they'd sing songs together, and all would be well. Perhaps he'd safely live here the rest of his life.
 
-Murfa stond op. "Onze eerste wens is dat we worden doorgelaten."
+Mrufa stood up. "Our first desire is that you _let us through_."
 
-Jagu keek hem aan. "Je eist dat we onze eigen hekken---gebouwd met bloed, zweet en tranen---afbreken?"
+"You desire that we _destroy_ our own fences, built with years of effort and resources?"
 
-"Niet afbreken. Tijdelijk openzetten. Zodra we allemaal erlangs zijn, mag je doen wat je wilt."
+"Not destroy. Temporarily open or lower them. Once we're all through, do whatever you want."
 
-"Je moet begrijpen," zei Jagu, "dat we jullie beschermen. Er wonen vele moordlustige stammen daarachter. Waarom denk je dat we dat hek hebben gebouwd?"
+"You must understand," Jagu said, "that we protect you. There are many murderous tribes out there. Why do you think we built the fence?"
 
-Murfa kleurde lichtrood. "Daarachter woont onze _familie_. Net zo'n vredige stam als wij."
+Murfa turned red. "There are _family members_ out there. Peaceful tribes such as ours."
 
-"Jullie hebben het hek gebouwd om jullie oh zo kostbare voorraden te beschermen," snauwde Farshar. "En om Gosti op te sluiten".
+"You built the fence to protect your precious storages," Farshar said. "And to lock up those poor Gosti---our own species!"
 
-Jagu ontblootte zijn tanden. "Die Gosti worden door ons rijkelijk beloond! Ze krijgen eten voor hun werk. En als we die voorraden niet beschermen, dan staan duizend dieven klaar om ze leeg te roven!"
+Jagu bared his teeth. "Those Gosti are rewarded handsomely! They are fed. If we don't protect the storages, they'd be empty now."
 
-Een aantal leden, van zowel Asha als Jagu, keerden hun ogen naar hun eten en besloten daarin op te gaan. Sommige schuifelden langzaam naar een vuurtje verderop. Een enkeling klaagde over taai vlees, maar zo zacht dat bijna niemand het hoorde.
+Many members, both from Asha and Jagu, focused on their food and shuffled further away. Some complained about tough meat that tasted weird, but without enough conviction to spread the message.
 
-Murfa stak zijn voorpoten omhoog. "De reden is nu even niet belangrijk. Het is belangrijk dat we erlangs kunnen."
+Murfa raised his front paws. "Let us stay calm. All of that is not important. All that matters is that we can go through."
 
-Jagu schudde zijn jaguarkop. "Onmogelijk. Jullie vragen het onmogelijke. We kunnen de hekken niet eventjes afbreken voor jullie."
+The king shook his head. "Impossible. You ask the impossible. We cannot temporarily remove our fences for you."
 
-Kesho stond inmiddels volledig in het donker. Hij was helemaal rondom de hut van de koning gelopen, maar nog geen spoor van Jambir. De gesprekken waren goed te horen, enerzijds omdat er niks anders te horen was in de nacht, anderzijds omdat ze steeds bozer naar elkaar schreeuwden.
+By now, Kesho stood in total darkness. He'd walked all the way around the king's hut without finding a trace of Jambir. The conversations were easy to follow from everywhere, partly because the night was otherwise silent, partly because they yelled at each other.
 
-Hij stond vlakbij de voorraden. Alle jaguars waren bij het feestmaal, net zoals alle Gosti. De rest van het kamp was compleet uitgestorven en onbewaakt. Kesho wist niet of dit een goed of een slecht teken was. Een teken van vertrouwen dat ze het kamp onbewaakt lieten? Of juist een teken van wantrouwen dat ze _alle_ bewakers bij het feestmaal wilden? De onzekerheid maakte hem gek, en zijn ouders waarschijnlijk nog meer.
+The storage rooms were within his grasp. All jaguars and Gosti were at the feast. This corner of camp was desolate. Kesho didn't know if it was a good or a bad sign. A sign of trust to leave the camp unguarded? Or a sign of distrust that they wanted _all_ guards at the feast?
 
-Hij herinnerde wat Jambir had verteld. De magische fonkeling in de hutten die zorgde dat voedsel eeuwig bewaard bleef.
+The uncertainty slowly made him go insane---and his parents, worrying for their children's safety, all the more.
 
-Ze _hoefden_ niet hier te blijven. Als hij die steen kon pakken, dan konden ze vluchten en ergens anders hun eigen voedselvoorraad beginnen. Het zou natuurlijk ook helpen als hij een deel van de voorraad mee kon stelen. 
+He remembered Jambir's words. That magical spark inside the huts---Eeris' godly gift---that kept the meat from spoiling.
 
-Terwijl het gesprek in de verte doorging, schuifelde Kesho bijna onbewust naar de laatste voorraad. Waar de meeste waren afgesloten met een zware steen, had deze alleen een gerafelde doek voor de opening.
+They didn't _have_ to stay here. If he could steal the stone, they could flee and start their own camp somewhere else. Of course, it would also help to steal a part of the meat with it.
 
-"Eén opening," riep Murfa hopeloos. "We vragen om één opening. Als u het hek niet wilt aantasten, dan, dan bouwen we een brug _over_ het hek!"
+As the discussion continued from afar, Kesho shuffled towards the final storage hut. The others were closed using a heavy stone, but this was actively used and only used an animal hide to cover the opening.
 
-"Dan is het hele hek waardeloos! Als jullie eruit kunnen, dan kunnen die moordlustige stammen erin---"
+"One opening," Murfa yelled, increasingly hopeless. "We ask for _one_ opening. If you don't want to hurt your fences, we, we will build a bridge _over_ the fence!"
 
-"Er _zijn_ geen moordlustige stammen daar. Eén opening, dat is alles."
+"That would render the entire fence useless! If you can move out, then those murderous tribes can move in---"
 
-Jagu gromde en schraapte luidruchtig zijn nagels tegen steen. Uiteindelijk gaf hij toe.
+"There _are_ no murderous tribes there. One opening, that's all."
 
-"Akkoord. We breken het zwakste deel van het hek af voor een opening. Maar kom niet klagen bij ons als je daarbuiten direct wordt vermoord door---"
+Jagu groaned. His claws scratched stone with such ferocity that the piercing sound hurt Kesho's ears.
 
-Er werd geklapt en gejoeld. Meerdere Ashaleden bedankten hem, waarna Kesho zag dat het feestmaal met meer enthousiasme werd aangevallen. Velen moesten uit alle kracht stukken van het vlees scheuren---het _was_ taai en het _had_ een andere vorm dan hij kende. Maar dat zorgde vooral voor extra plezier en spelletjes, terwijl een paar Gosti de vuren hoger lieten oplaaien.
+Then he gave in. "Agreed. We break down the weakest part of our fence. Don't come back to us with complaints when you are killed out there by---"
 
-Kesho had de slechtst bewaakte voorraad bereikt. Hij tikte de flap open. Binnenin lagen misschien wel honderd vissen, allemaal lang geleden gevangen en gedood, maar nog steeds zo vers alsof ze uit de rivier waren gesprongen. Hij watertandde. 
+They clapped and cheered. The Asha Tribe thanked him and then attacked the meat with enthusiasm. Many needed all their strength to rip the meat apart---it was _tough_ and it _did_ have a shape he didn't recognize. But it mostly caused more fun and games, while several Gosti were praying to Ardex, asking him to make the fires burn even brighter.
 
-Eentje zouden ze toch niet missen? Die jaguars wisten niet eens wat getallen waren, ze hielden dat echt niet bij. En hadden ze niet net gezegd dat ze gingen samenwerken en de Ashastam te eten geven?
+Kesho pushed aside the animal skin covering the storage. Inside were _hundreds_ of fish, caught and killed long ago, but fresh as if they'd just jumped out of the river.
 
-Hij greep een vis uit het midden---maar bevroor voordat hij een hap kon nemen. De fonkeling in de vloer had zichzelf onthuld. Hij dook omlaag en botste er met zijn snuit tegenaan. Het leek wel ... een Darussteen? Zo'n diamant die de God van Steen en Aarde zo vaak had gemaakt. 
+They wouldn't miss one, right? The jaguars barely knew what numbers were. Surely they didn't track any of this. And didn't they just agree to cooperate and give everyone as much food as they wanted?
 
-Maar in deze steen groeide een plantje. Binnenin, van achter het glas, met een eigen straal zonlicht die nergens vandaan kwam. Eeris had hem betoverd en de kracht gegeven om eten voor altijd goed te houden. Hij begreep niet waarom de Jagu zo'n grote beloning kregen de afgelopen tien winters---en zij alleen maar een beetje meer bessen aan een paar struiken. Waren ze familie van de goden? Hadden ze Eeris omgekocht? Of deed de Ashastam iets verkeerd in de ogen van de goden?
+He knew what he was doing. He knew it was wrong. He knew there was food at the fires, to share with the others. 
 
-Nee, zijn Ashastam was veel _beter_ dan de Jagu. _Zij_ hadden recht op die magie. Als hij dit ene steentje nou kon ...
+Still his mind wasn't strong enough to fight his body and his nature, which always yearned for _more food_, as it was the most important thing in the world.
 
-Zijn ene arm greep naar de fonkeling, zonder success. De diamant zat diep in de vloer geworteld. Hij kraste en stampte, maar zijn nagels waren veel te zwak om de steen los te wrikken.
+He grabbed a fish from inside---but froze before taking a bite. It had revealed that sparkle in the floor. He dove and hit it with his nose. It almost seemed ... a Stone of Darus? One of the diamonds that the God of Stone and Earth had made.
 
-De stem van Jagu klonk plotseling, nu de bedankjes waren opgehouden, en liet hem schrikken. "Wij zullen de komende tijd dus samenwerken en samenleven. Wat krijgen we ervoor terug? Jullie zullen lange tijd _onze_ voorraad eten. Jullie genieten de bescherming van onze hekken. Wij eisen dat ieder gezond lid, jong of oud, voor ons aan het werk gaat."
+This Darusstone, however, held a plant inside. It grew behind the glass, using a beam of sunlight that came from nowhere. Eeris had enchanted it. He didn't understand why the Jagu received such a _huge_ gift from the gods---and they merely received some berries and bushes. 
 
-Pardon? Nee nee nee. Dat gingen ze nooit toestaan. De Asha waren _nooit_ onderdanen.
+Were they family of the gods? Had they bribed Eeris? Or was the Asha Tribe wrong in the eyes of the gods?
 
-Maar het bleef akelig stil. Zelfs het gezoem van vuurvliegjes was hoorbaar, hoewel hun licht werd overschaduwd door een felle witte maan.
+No, his tribe was much _better_ than Jagu. _They_ had the right to this magic. If he could only grab this one stone ...
 
-Alleen zijn eigen vader verbrak de stilte met een boze schreeuw: "Belachelijk! Dat is géén optie."
+His one arm reached for it without success. The diamond nestled deep inside the stone. He scratched and stomped, but his nails were too weak to pry the stone loose.
 
-"Dat zijn onze eisen," zei Jagu rustig. "Anders is alle samenwerking direct vernietigd."
+Suddenly, Jagu's voice sounded clearly, now that the initial praise had subsided. "As agreed, we shall have to live together for a short time. What do we get in return? You will eat _our_ food for a while. You will enjoy the protection of _our_ fences. We demand that every healthy member, young or old, works for us."
 
-Kesho stopte met gefrustreerd de grond krassen. Maar deze kans---deze steen---ging hij nooit opgeven. Dus hij rende de voorraad uit om zijn scherpe speer te pakken, hopende dat de punt wél door de vloer kon boren.
+Pardon? No no no. They'd never accept. The Asha were _never_ slaves.
 
-Hij botste tegen een groot, warm lijf.
+The only response, however, was silence. Even the buzzing of fireflies was deafeningly loud, though their light was near invisible in the bright moonlight.
+
+Only his father would dare break the silence with an angry shout: "Disgusting! That is not an option."
+
+"Those are our desires," Jagu said calmly. "Otherwise our cooperation is void."
+
+Kesho stopped scratching the floor. He ran outside to grab his spear, hoping its sharp edge _would_ be able to loosen the stone.
+
+He ran into a large, warm body.

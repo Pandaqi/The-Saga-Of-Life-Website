@@ -13,7 +13,7 @@ cycle: 'De Beschavingen van Belofte'
 bundle: 'Godenzonen & Stamdromen'
 character: ['Ardex', 'Oeros', 'Gaia']
 prequel: []
-refers: ["Voorspelling van Guds", "Hemelvoorwerpen", "Hemelpaleis", "Dalas", "Zyme", "Aardewaker", "Luchtdanser", "Zonnestraler"]
+refers: ["Voorspelling van Guds", "Hemelvoorwerpen", "Hemelpaleis", "Dalas", "Zyme", "Aardewaker", "Luchtdanser", "Zonnestraler", "Tuinen van Eden"]
 happens: ["Ontstaan Vuurring", "Ontstaan Vlamvreter", "Opsluiting Ardex", "Geboorte Ardex"]
 teaches: []
 godlink: ['Ardex']

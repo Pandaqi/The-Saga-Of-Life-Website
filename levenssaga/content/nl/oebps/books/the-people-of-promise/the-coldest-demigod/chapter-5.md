@@ -47,9 +47,9 @@ Ze keken naar elkaar in stilte. Ardex had het allang doorzien. Dachten ze een go
 
 Oeros verloor zijn vrolijke houding, al was het maar voor even. Daarna nam hij plaats op de troon, eerder uitgeput dan een sterke heerser.
 
-"Ja, de waarheid is ... dat dit weer zo'n test is. Maar ik heb het allang gezien. Je bent geen monster, je gaat ons niet aanvallen, dit is allemaal verspilde moeite. Zelfs al was je hét voorspelde monster---en, nogmaals, ik ben zeker van niet---dan moesten wat dat nog maar zien."
+"Ja, de waarheid is ... dat dit weer zo'n test is. Maar ik heb het allang gezien. Je bent geen monster."
 
-Een last viel van Ardex' schouders. De vuren die altijd in hem branden, leken eindelijk te doven tot warme kaarsen in plaats van vulkanen. Het was zo simpel, en toch hoorde hij het voor het eerst in zijn leven.
+Een last viel van Ardex' schouders. De vuren die altijd in hem brandden leken eindelijk te doven tot warme kaarsen in plaats van vulkanen. Het was zo simpel, en toch hoorde hij het voor het eerst in zijn leven.
 
 Iemand die hem niet zag als monster en die hem eerlijk behandelde.
 
@@ -73,9 +73,9 @@ Uiteindelijk was hij bijna volledig Oeros, en maar een piepklein beetje Gaia.
 
 "Zelfs goden raken vast vermoeid, of op, of uitgekeken. Ooit ..." Oeros wees om zich heen, hoewel de kapotte troonzaal nog steeds geen wonder was om te aanschouwen. Ardex kreeg langzamerhand zin om de verzameling verbande voorwerpen uit te breiden.
 
-Oeros zweefde op hem af en gaf hem deze keer een volledige omhelzing. "Ooit is dit allemaal van jou. Ik wil je trainen, opleiden, langzaam laten zien wat het is om god te zijn. Maar alles op zijn tijd. We doen niks meer dat jij niet wil. Ik zal je stukje bij beetje meer krachten geven, als je ervoor klaar bent."
+Oeros zweefde op hem af en gaf hem deze keer een volledige omhelzing. "Ooit is dit allemaal van jou. Ik wil je trainen en tonen wat het is om god te zijn. Maar alles op zijn tijd."
 
-Vader en zoon bekeken elkaar. "Je hebt mijn woord. Mocht Gaia je alsnog testen, of opsluiten, of duwen, dan mag je terugvechten en ik zal helpen."
+Vader en zoon bekeken elkaar. "Je hebt mijn woord. Mocht Gaia je alsnog monsterlijk behandelen, dan mag je terugvechten en ik zal helpen."
 
 De volgende last viel van Ardex' schouders. Zijn gedaante werd minder hard, meer richting de geestachtige mistflarden waarin zijn ouders altijd rondliepen. Alsof zijn omhulsel afviel en hij eindelijk zijn ware ziel kon tonen.
 
@@ -87,7 +87,7 @@ Oeros hield Ardex nog steviger vast. "Ik weet het niet zeker. Zo ijskoud als jij
 
 "Je bent _de oppergod_, vader. Je moet toch _weten_ hoe het universum werkt!?"
 
-"Ik ben één van twee oppergoden, zoon. Mijn theorie? Gaia wil alleen maar positieve krachten voor haarzelf houden. Alleen magie om te _maken_ en _meer_ toe te voegen aan de wereld. Goed bedoeld allemaal, ze is de moeder van bloei en leven, maar toch!"
+"Ik ben één van twee oppergoden, zoon. Mijn theorie? Gaia wil alleen maar positieve krachten voor haarzelf houden. Alleen magie om te _maken_ en _meer_ toe te voegen aan de wereld. De bedoelingen van de godin van bloei en leven zijn goed."
 
 "Het pad naar de hel is gebouwd van goede bedoelingen," mompelde Ardex. 
 
@@ -117,7 +117,7 @@ Gaia wilde ertegenin gaan, maar kreeg rillingen door haar lijf en hield zich sti
 
 "Mee eens," zei Ardex. "Ik kan niet _wachten_ om mijn zusje te verwelkomen!"
 
-Hij draaide zich plotseling om naar zijn moeder en schreeuwde iets dat leek op "boe". Gaia slaakte een gil en zweefde achteruit, terwijl in haar handen een wapen vormde dat ze meteen weer liet verdampen.
+Hij draaide om naar Moeder en schreeuwde "boe". Gaia slaakte een gil en zweefde achteruit, terwijl in haar handen een wapen vormde dat ze meteen weer liet verdampen.
 
 Ardex liep lachend de kamer uit. 
 

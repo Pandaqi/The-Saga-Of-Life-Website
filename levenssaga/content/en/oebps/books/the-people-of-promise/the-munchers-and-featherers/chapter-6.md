@@ -1,158 +1,160 @@
 ---
-title: "6. De Ziel van Asha"
+title: "6. The Soul of Asha"
 weight: 6
 ---
 
-Alle leden van de Ashastam ontmoetten elkaar diep in het bos, zonder spoor van Misha. Woede golfde door de groep, tegelijk met angst voor Misha's lot. Kesho had zich even later aangesloten, maar wist niks meer dan zij. Nog langer onzekerheid, nog een dag zonder Misha, en wie weet wat ze hadden gedaan.
+All members of the Asha Tribe gathered deep in the forest. Anger sailed through their hearts, combined with fear for Misha's life. Kesho had joined them, but knew nothing more. Another day of uncertainty, another day without Misha, and who knows what they would have done.
 
-Maar rond zonsondergang zag Kesho een silhouet tussen de bomen. Het wiegde heen en weer, alsof het te moe was om rechtdoor te lopen, of de poten op te tillen om niet te struikelen.
+But when the sun set, Kesho noticed a silhouette among the trees. It swerved as if too tired to walk in a straight line or properly raise their paws.
 
-Het was veel te groot om Misha te zijn.
+The creature was far too large to be Misha.
 
-Het gaf licht in het donker, wat ook niet bepaald een speciale kracht van de Gosti was.
+It also shone in the darkness, which Kesho didn't remember as being a special power of his sister.
 
-Een sabeltandtijger voegde zich bij de groep, maar niemand was bang, want deze verschijning herkende je uit duizenden. Ardex, god van vuur en dood, oudste van de godenkinderen, keek ... uitgeput?
+A sabretooth tiger joined them. But none were afraid, for this beast was familiar. Ardex, god of Fire and Death, eldest of the demigods. As he stepped towards them, a fire started to combat the darkness of night, which somehow created _two_ shadows for everyone.
 
-"Ik ben zo snel gekomen als ik kon," zei hij. "Wat onverstandig was, want ik had al een tijd niet meer hard gerend merk ik."
+Ardex looked ... exhausted?
 
-"Heeft u onze gebeden gehoord?" vroeg Helera, Kesho's moeder. "Kan u alles horen?"
+"I came as quickly as I could," he said. "Which was unwise, given my lack of stamina."
 
-"Nee. Ik kwam om een andere reden. Ik hoorde van Eeris dat ze stammen hier in de buurt had geholpen de afgelopen tientallen winters. Als ik het eerder had geweten, had ik het meteen een halt toegeroepen! Maar goed, ik ben er nu."
+"You heard our prayers?" Helera asked, Kesho's mother. "You can hear everything?"
 
-Iedereen keek elkaar aan. Farshar nam als eerste het woord. "Dankzij haar hulp zijn slechts drie mensen overleden afgelopen winter. We hadden allemáál een hongerdood kunnen sterven. Waarom zou u dat stoppen, oh godenkind?"
+"Surprisingly, I _can_ hear your prayers, and yours only. But that's not the reason of my visit. Eeris revealed that she has been helping tribes in this area for many winters. If I'd known, I would have called an end to it immediately!"
 
-Ardex glimlachte. "En de Jagustam? Die ze heeft geholpen door een magische steen te geven die eten voor eeuwig bewaard? Zijn jullie daar ook zo blij mee?"
+They all looked at each other. Farshar was the first to speak. "Thanks to Eeris' help only three people died last winter. We could've _all_ died from starvation. Why would you stop that, oh demigod?"
 
-"Alstublieft," smeekte Helera, "vertel ons waar lieve Misha is. Dat is alles dat we vragen."
+Ardex smiled. "And the Jagu Tribe? Whom she helped by giving them a magical stone that keeps their food from spoling? Are you happy about that too?"
 
-Precies op dat moment schoof een gedaante opzij achter Ardex' rug. Misha had nog meer wonden dan eerst en keek naar de grond, alsof ze bang was haar eigen stamleden in de ogen te kijken. Alsof ze zich schuldig voelde dat ze de commando's had opgevolgd en niet haarzelf had los gevochten.
+"Please," Helera begged, "tell us where Misha is. That's all we ask."
 
-Haar stamleden zagen geen schuld. Kesho's ouders renden naar haar toe en sloten haar in hun armen.
+Another creature stepped to the side, previously behind Ardex' back. Misha was severely wounded. She studied the ground, too ashamed to even look her tribe in the eye. 
 
-"Dank, dank, dank," bleven ze maar zeggen.
+Her tribe, however, saw nothing be ashamed about. Kesho's parents ran for her and held her tight.
 
-"Oh, nee, hier heb ik niks mee te maken," zei Ardex. "Want ik bemoei me nergens mee, als het even kan. Ene Jambir ging tekeer om haar te redden, hoe het met hem afloopt is uit mijn handen."
+"Thank you, thank you, thank you," they repeated.
 
-"Jambir," mompelde Misha met tranen in haar ogen. "We moeten hem redden."
+"Oh, well, I had nothing to do with this," Ardex said. "And I won't interfere, if I can help it. Some Gosti named Jambir went wild to save her. His fate is out of my hands."
 
-Terwijl Kesho zijn zus knuffelde, borrelde iets in zijn buik. Een woede, een vechtlust, de wil om alle jaguars in hun gezicht te slaan en al hun hekken om te trekken. Hij zou zijn enige arm geven om alles en iedereen kapot te slaan. 
+"Jambir," Misha mumbled with tears in her eyes. "We must save him."
 
-Een woede zo heet als hij nooit eerder voelde. Behalve dan die ene keer ... dat Ardex ook langs kwam, lang geleden.
+As Kesho hugged his sister, something ached and bubbled in his belly. An anger, a fighting spirit, the desire to hit all jaguars in the face and personally destroy all their stupid fences. He'd give his one good arm to kill them all.
 
-"Wat is er gebeurd lieverd?" herhaalde Helera duizend keer. "Heeft Jagu je iets aangedaan?"
+An anger more hot and painful than any he felt before. Except ... except that one time, many years ago, when Ardex also came to visit.
 
-"Het spijt me."
+"What happened, dear?" Helera asked. "Did Jagu hurt you?"
 
-"Er is geen schuld. Wat is er gebeurd?"
+"I'm sorry."
 
-Misha huilde de vacht van haar ouders nat. "Ze zeiden dat ik hun commando's moest volgen als ik ooit nog te eten wilde krijgen. En ik wist dat ze gelijk hadden, want ons eigen eten was op. En ik had _zoveel honger_. En toen wilde ik jullie zoeken, maar jullie waren nergens, en toen zeiden ze dat jullie deze afspraak hadden _gemaakt_ en mij hadden weggegeven en---"
+"Don't be. What happened?"
 
-"Dat geloof je toch niet?" bromde Farshar. "We zouden zoiets _nooit_ doen. Geen van ons. Niemand in de Ashastam gaat _ooit_ onderdaan zijn van die achterlijke jaguars."
+Misha cried until her parent's fur was dripping wet. "They told me to obey their commands if I ever wanted to eat again. And I knew they were right, because we didn't have any food. And I was _so hungry_. And then I wanted to find you, but you were gone, and they told me that you also obeyed their commands and agreed to this, and---"
 
-"Maar wat dan wel?" zei Murfa. "We hebben geen eten. We kunnen niet verder lopen. We _zijn_ afhankelijk van hun voedselvoorraad."
+"You believed that?" Farshar yelled. "We would _never_ treat you like that. None of us. No soul of Asha will _ever_ be a slave to those jaguars."
 
-Heel even keek iedereen naar Ardex, maar die vernietigde meteen hun droom. "Ik heb me te vaak bemoeid met dingen en het altijd verpest." 
+"But what's the alternative?" Murfa said. "We have no food. We can't go anywhere. We _already_ depend on their food storages."
 
-Hij klonk nog vermoeider dan hij eruit zag, alsof hij niet alleen moe was van het rennen, maar moe van het hele leven. Met één adem blies Ardex een behaaglijk kampvuur tegen de nacht, en daar hield hij het bij.
+They all focused on Ardex. He instantly shattered their dreams. The exhaustion in his voice matched that in his body. "I've interfered with life too often and have ruined it each time. Leave me out of it."
 
-Iedereen had hetzelfde onderbuikgevoel als Kesho. Murfa tikte ongeduldig tegen een boom. Zijn vrouw sleep haar speer en testte of hij al scherp genoeg was om een jaguarhart te prikken. Helera's ogen hadden kunnen doden, terwijl haar spieren al op spanning stonden. 
+All tribe members shared the rage in Kesho's belly. Murfa impatiently tapped a tree. His wife sharpened her spear. Helera's eyes could have killed, her muscles tense.
 
-Was dat Ardex' aanwezigheid? Was het een stel knorrende magen vanwege voedseltekort? Of was dat de enige reactie op dit overduidelijke verraad?
+Was that simply the result of Ardex' presence? Was it their hunger due to food shortage? Or ... was it the only possible reaction to this obvious betrayal?
 
-"Je hebt gelijk," zei Misha, die naast vader kwam staan in het midden van de kring. "Dit kan zo niet langer. We moeten aanvallen."
+"You're right," Misha said. She joined her father in the middle, next to the campfire. "This can't continue. We must attack."
 
-"_Aanvallen_?" Zijn grootouders hadden hun ogen en oren geopend en konden niet geloven wat ze zagen en hoorden. "Zijn jullie _gestoord_? Dat is het einde van de hele stam."
+"_Attack_?" His grandparents had finally opened their eyes and ears, and could not believe what they saw and heard. "Are you _mad_? That would be the end of Asha."
 
-"Dat lijkt me echt geen goed idee," zei Kesho snel, terwijl hij Misha's opgestoken vuist omlaag trok. "We moeten samenwerken! Als we vriendelijk blijven, krijgen we van hen voorgoed te eten!"
+"I agree," Kesho quickly added, as he pulled down Misha's raised first. "We must cooperate! If we stay friendly, Jagu promised, we'll be fed forever."
 
-"Wij zijn _geen_ onderdanen, van niemand," bromden Farshar en Misha tegelijk. "We vallen aan."
+"We are slaves to _nobody_," Farshar and Misha yelled. "We attack."
 
-"Stop! Nee! Luister nou," zei Kesho. 
+"Stop! No! Listen to me," Kesho tried.
 
-"Ik herhaal mijn woorden," zei Murfa met verhoogde intensiteit. "Wat dan wel? We lopen terug, we eindigen in gebied zonder eten, en even later de zee die we niet kunnen oversteken. We blijven in het kamp en we worden Jagu's slaven."
+"I repeat," Murfa said with increased intensity. "What's the alternative? We walk back, we reach an area without food and a sea we can't cross. We stay in camp and become Jagu's slaves."
 
-Farshar stond op zijn achterpoten. Op volle lengte maakte hij alle andere stamleden tot dwergen, en al helemaal als hij heldhaftig zijn speer omhoogstak. "Wat doet een dier als je zijn eten afpakt?"
+Farshar stood on his hind legs. His full size dwarfed the others, especially as he heroically raised his spear. "What does a creature do when you steal his food?"
 
-"Hij valt je aan?" reageerden enkele stamleden voorzichtig. De rendieren en vogels, normaal zo rustig, stuiterden heen en weer op de plek.
+"He ... attacks?" several members spoke tentatively. The deer and the birds, usually the calmest of all, bounced and shuffled in place.
 
-"Wat doet een dier als je zijn territorium afpakt?"
+"What does a creature do when you steal his territory?"
 
-"Hij valt je aan en pakt het terug."
+"He attacks and takes it back."
 
-"Wat doet een dier als je hem aanvalt?"
+"What does a creature do when you attack him?"
 
-"Hij slaat terug uit zelfverdediging!"
+"He fights back in self defense!"
 
-"Wat doet een dier als je zijn vrouwtje steelt?"
+"What does a creature do when you steal his wife?"
 
-"Hij valt je aan en dood je!"
+"He fights back and kills you!"
 
-Farshar gromde, terwijl Kesho hem steunde met geschreeuw en nog meer speren die naar de hemel prikten. "Het maakt niet uit wie ze zijn, wat ze zijn, of hoe ze eruit zien. De Jagustam zijn een bedreiging voor onze overleving! En een bedreiging moet je aanvallen en wegjagen! Want als we het niet doen, dan vallen zij eerst aan en is de Ashastam ten einde!"
+Farshar roared. "It doesn't matter who they are, or what they are, or what they look like. The Jagu Tribe is a threat to our survival! And a threat must be attacked and chased away! For if we wait, they'll attack first and the Asha Tribe _will_ fall!"
 
-Misha greep ook een speer en schreeuwde mee. "Voor Jambir!"
+Misha grabbed a spear and yelled with him. "For Jambir!"
 
-"Volg mij in een verrassingsaanval vannacht!" schreeuwde Farshar. Kesho had hem nog nooit zo sterk gezien, zo krachtig, zo heldhaftig. Terwijl hij opgroeide wilde hij zijn vader worden---nu wilde hij zo strijdlustig als zijn vader _zijn_. 
+"Follow me in a surprise attack tonight!" Farshar screamed. Kesho had never seen him this strong, this powerful, this heroic. As he grew up, he wanted to become like his father---right now he wanted to _be_ as aggressive as him.
 
-Maar wat hij nu deed was de verkeerde beslissing. Kesho probeerde een woord ertussen te krijgen, maar werd overstemd door Farshars gebrul. 
+But his father made the wrong decision. 
 
-"We vegen die jaguars van de kaart en lopen door naar vrijheid!"
+Kesho tried to interrupt and provide his own arguments, just like Murfa, but Farshar overruled them all with volume and threats.
 
-Kesho liep naar Farshar en Misha, samen met de rest van de stam.
+"We _destroy_ those jaguars and walk onwards toward freedom!"
 
-Maar niet om mee te schreeuwen en het gevecht voor te bereiden.
+Kesho and the rest of the tribe walked to Farshar and Misha.
 
-Ze grepen Farshar vast en bonden zijn handen achter zijn rug. Kesho vond het lastig, maar dit waren de regels, en hij hielp mee zijn eigen vader vast te binden.
+But not to join their speech and prepare the fight.
 
-Misha probeerde haar vader los te wrikken, maar werd makkelijk opzij geduwd door Murfa. "Wat doen jullie!?" 
+They grabbed Farshar's paws and bound them behind his back. Kesho struggled to comply. But those were the rules! So he helped chain his own father to a tree.
 
-Ze kreeg pas antwoord toen haar vader stevig vast zat aan een boom. 
+Misha tried to free her father, but was easily pushed aside by Murfa. 
 
-"En wat blijft er over van de ziel van Asha," vroeg Murfa, "als we een volk van moordenaars worden? Als we koningen en leiders kregen, die oproepen tot massamoorden en verrassingsaanvallen?"
+"What are you doing!?"
 
-"We hebben geen leider en we willen geen oorlog," zei een rendier. 
+Murfa squatted before Farshar, whispering. "And what remains of the soul of Asha," he said, "if we become a tribe of murderers? If we get a king who encourages us to execute surprise attacks?"
 
-"Oorlog is voor de dinosaurussen, en de goden, en de zielen die zijn gedoemd tot strijden en vechten," zei Kesho's grootmoeder. Ze kon rekenen op Ardex' goedkeuring bij die uitspraak. "Niet voor de Asha. Onze ziel is vredig en samenwerkend."
+"We have no king and we want no war," a deer said.
 
-"Onze ziel is nog steeds een dierenziel," mompelde Farshar, "in de wrede natuur."
+"War is for dinosaurs, and gods, and souls doomed to fight," Kesho's grandmother said. Ardex nodded in agreement, but, as promised, didn't interfere. "Not for Asha. Our soul is peaceful and cooperative."
 
-Hij ging niemand overhalen. Murfa keek wel schuldbewust. "Het spijt me, Farshar, maar dit is hoe het werkt."
+"Our soul is still a living creature," Farshar mumbled, "thrown into cruel nature."
 
-Kesho wist dat het zo werkte. Zodra één iemand probeerde de baas te spelen, was het de bedoeling dat alle anderen opstonden en diegene gezamenlijk op zijn plek zetten. Meteen, zonder twijfelen. Maar als het je eigen vader overkwam, leek het ineens een domme regel in de cultuur van Asha.
+He wouldn't convince anybody. Murfa did look guilty. "I'm sorry, Farshar, but this is the way."
 
-"Bind mij dan ook maar vast," zei Misha zelfverzekerd. "Jullie zijn _stom_ als jullie niet aanvallen."
+Kesho knew it was the way. Once anybody tried to become their boss or speak for the entire tribe, everybody else was supposed to stand up and put them in their place. Instantly, without doubt. But when it happened to your own father, it suddenly seemed a silly rule in Asha's culture. 
 
-Een jaguar met kleine poten stapte richting het vuur: de prins. Hij keek verbaasd naar Ardex die in een hoekje lag en meeluisterde, en net zo verbaasd naar Farshar die was vastgebonden.
+"Then tie me as well," Misha said with confidence. "You are _fools_ for not attacking."
 
-Kesho hoopte vurig dat hij niks had gehoord van het afgelopen gesprek.
+A jaguar appeared. On short paws, the Prince hobbled into the light of the fire. He eyed Ardex---hidden in a corner---and Farshar---bound to a tree---with surprise.
 
-"Koning Jagu biedt zijn welgemeende excuses voor wat er is gebeurd. Een ... misverstand zorgde dat de verkeerde Gosti aan het werk werd gezet. Hij hoopte ten zeerste dat jullie deze misstap kunnen vergeven."
+Kesho hoped he had heard nothing of this conversation. The prince had _two_ shadows as well, though his second one seemed wrong and far darker than the other.
 
-De meeste stamleden keken naar Farshar, alsof ze met hun ogen wilden zeggen: _zie je wel, het was een foutje en er is nog alle kans op samenwerking_. 
+"King Jagu apologizes sincerely for what happened. A ... miscommunication that led to the wrong Gosti being put to work. He hopes you can forgive this ... slight misstep."
 
-"Zei ik toch," riep Kesho luid, "het was allemaal een misverstand en de Jagu zijn onze vrienden."
+Everyone glanced at Farshar. Their eyes seemed to speak: _you see, it was a mistake and we should still try to cooperate with Jagu._
 
-Om en om knikten ze naar de jaguar of zeiden "ik vergeef het". 
+Kesho saw his chance to prove his worth, to his own tribe _and_ Jagu. "As I said," he loudly proclaimed, "it was all a misunderstanding and the Jagu are our _friends_."
 
-De snelheid waarmee ze het vergaven vond Misha een belediging. Ze kroop tegen haar vader aan, die vocht tegen de touwen.
+They took turns telling the jaguar that they forgave them.
 
-"Is ... is dat het besluit van de hele stam?" vroeg de prins.
+The speed at which they forgave was another insult to Misha. She snuggled closer to her father, who still fought against his bonds.
 
-"De meerderheid vergeeft je," zei Murfa uiteindelijk. "Daar moet je het mee doen."
+"Is ... is that the decision of the entire tribe?" the prince asked.
 
-De prins slaakte een zucht en knorde daarbij door zijn platgeslagen neus.
+"The majority forgives you," Murfa reluctantly said. "That'll have to do."
 
-"Dan nodigt de koning jullie uit voor een feestmaal. Om geschillen bij te leggen en te praten over de toekomst. Hij herinnert dat jullie spraken over een hele mammoet vlak buiten het kamp. Is het een idee om die mee te nemen?"
+The prince sighed and snored through his dented nose.
 
-"Goed idee," antwoordde Kesho. "Ik zeg ja." 
+"Then the king invites you to a feast. To overcome differences and talk about the future. He reminds you that there was talk of mammoth meat just outside camp. Perhaps bring that?"
 
-Zijn directe instemming leek de rest van de stam over te halen. Weer moest de prins genoegen nemen met een paar knikjes en gemompel. Hij keek nog steeds naar Farshar alsof hij de eindbeslissing moest nemen, maar Farshar hield zich overal buiten.
+"Great idea," Kesho replied, though he wasn't sure how much of it was still edible. "I say yes."
 
-"Dan geef ik de koning het heuglijke nieuws en bereid de vuren voor! Moge het een mooie avond worden!" 
+That convinced the tribe. The prince, again, had to accept some nods and mumbles as Asha's response. He still looked at Farshar as if he had the final say, but father kept his mouth shut and looked away.
 
-Terwijl de prins alweer omdraaide, riep Kesho hem na.
+"Then I'll tell Jagu the great news! And I am sure Ardex wouldn't mind creating some more fires for us, eh? May it become a beautiful night!"
 
-"Waar is Jambir?"
+Ardex rolled his eyes, but a heartbeat later they could already see dots of yellow light in the distance.
 
-"Waar dat stuk gespuis thuishoort."
+As the prince turned away, Kesho ran after him.
 
+"Where is Jambir?"
 
+"Where that piece of garbage belongs."

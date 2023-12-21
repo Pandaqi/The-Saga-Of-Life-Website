@@ -7,7 +7,7 @@ De prachtige wolkentuinen en versierde vertrekken die ze hadden ingericht voor A
 
 Eenmaal bekomen van de schrik, haalden de oppergoden hem makkelijk bij. Ze hielden hem staande op de plek met een magische gevangenisspreuk.
 
-"Nu ga je héél goed luisteren," zei Gaia streng. "Als je nog één ding kapot maakt, dan sluiten we je een maand op!"
+"Nu ga je héél goed luisteren," zei Gaia streng. "Als je nog één ding kapot maakt, dan sluiten we je op voor héél lange tijd!"
 
 "Ach, joh," zei Oeros, inmiddels oneindig onder de indruk. Zijn hoofd bedacht al handige missies en taken voor Ardex als hij wat ... volwassener was. "Hij is een kind. Deden wij niet hetzelfde toen we pas net waren geboren?"
 
@@ -37,6 +37,8 @@ Gaia begon een krachtige communicatiestraal, maar Oeros snoerde haar de mond doo
 
 "En uit vernieling ontstaat dan weer iets nieuws. Kijk, hij heeft ons nu een geweldige kans gegeven om het paleis opnieuw op te bouwen! Deze keer nog mooier!"
 
+Oeros hield zijn vrouw zo stevig als hij kon. Meer dan een omhelzing---een versmelting van zielen, een bond van sterrenstof. "_Geen leven zonder dood_," fluisterde hij.
+
 Gaia keek achterom. Ardex had zijn gedaante veranderd in een bal van stekels en scherpe punten, waarmee hij tegen de onzichtbare gevangenis beukte. Hij ging er nooit van zijn leven uitkomen, dacht Oeros, maar de poging was applaus---
 
 Ardex brak los.
@@ -49,7 +51,7 @@ Gaia slaakte een gil en maakte meteen een nieuwe gevangenis. Ardex grijnsde stou
 
 "Je zegt het altijd zo negatief, schat. Ik droomde van een krachtig en zelfredzaam kind."
 
-Gaia spuugde en donderde. Haar gedaante werd een reus die over Ardex boog alsof hij een klein hapje was, een mier waarop ze kon stampen als ze wilde. Oeros zag dat ze ook onder de indruk was, een hint van interesse en nieuwsgierigheid in haar blik, die rood kleurde door de vuurballen die steeds werden afgevuurd.
+Gaia spuugde en donderde. Haar gedaante werd een reus die over Ardex boog alsof hij een klein hapje was, een mier waarop ze kon stampen als ze wilde. Oeros zag dat ze ook onder de indruk was, een hint van nieuwsgierigheid in haar blik, al kleurde die die rood door de vuurballen die steeds werden afgevuurd.
 
 "Hij krijgt drie kansen."
 
@@ -81,13 +83,17 @@ Gaia was al naar Ardex gelopen en had hem uit de gevangenis gelaten. Ze vertelde
 
 Na die laatste zin liepen Gaia en Oeros weg. Ze probeerden Ardex expres te ontwijken en hem alleen te laten met hun nepwezen: een gedaante gebouwd uit levensvatbaar materiaal van het universum, zoals deeltjes koolstof en waterstof. 
 
-Hun magie zette het nepwezen in beweging en gaf het zelfs een paar zinnen om te communiceren. Als een lappenpop van doorschijnend stof, waggelde het wezen door het Hemelpaleis. Voor de zekerheid bouwden ze een grotere gevangenis rondom meerdere kamers, zodat Ardex het wezen wel _moest_ tegenkomen en niet zijn ouders kon lastigvallen.
+Hun magie zette het nepwezen in beweging en gaf het zelfs een paar zinnen om te communiceren. Zo waggelde de lappenpop van doorschijnend stof door het Hemelpaleis. Voor de zekerheid bouwden ze een grotere gevangenis rondom meerdere kamers, zodat Ardex het wezen wel _moest_ tegenkomen en niet zijn ouders kon lastigvallen.
 
-De oppergoden konden niets anders dan ongeduldig afwachten. Tijd betekende niks voor hen, tenzij ze zo nieuwsgierig waren dat ze niks anders wilden doen. Als op dit ogenblik aan de andere kant van het universum leven was ontstaan, eeuwenlang, had Oeros niks gezien of gemerkt. Want hij kneep in Gaia's hand, terwijl ze een rondje zweefden om het hele paleis, en wachtten tot tenminste een paar jaar was verstreken.
+De oppergoden konden niets anders dan afwachten. Geduldig. Tijd betekende niks voor hen---tenzij ze zo nieuwsgierig waren dat ze niks anders wilden doen. 
+
+Als op dit ogenblik aan de andere kant van het universum leven was ontstaan, had Oeros niks gezien of gemerkt. Hij kneep in Gaia's hand terwijl ze rondjes zweefden om het hele paleis, en zichzelf dwongen om een tijd te wachten voordat ze terugkwamen.
+
+Hoeveel tijd was verstreken? Een jaar? Meerdere jaren? Was het genoeg?
 
 Met bevend hart---als goden een hart hadden gehad---keerden ze terug en zochten Ardex op.
 
-Oeros wist meteen dat ze alles verkeerd hadden ingeschat. Zowel hij als Gaia.
+Oeros wist meteen dat ze alles verkeerd hadden ingeschat. Gaia ook.
 
 De lappenpop lag op de grond, aan stukken gescheurd en verbrand totdat het onherkenbaar en magieloos was.
 

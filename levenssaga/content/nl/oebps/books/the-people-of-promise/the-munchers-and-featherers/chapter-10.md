@@ -35,7 +35,7 @@ Kesho had al drie dagen niks gezegd en nergens op gereageerd, dus zijn vader zoc
 
 "Het _is_ mijn schuld."
 
-"Je hebt het juiste gedaan," zei hij rustig, alsof hij sprak over zoiets kleins als het kiezen van het juiste kledingstuk. "Een Gosti vermoorden en ons aanbieden als vlees ... het is monsterlijk. Als we dat hadden toegestaan, hadden ze de volgende keer iets _nog_ ergers gedaan. Je trok een lijn. We hadden die lijn veel eerder moeten trekken."
+"Je hebt het juiste gedaan," zei hij rustig, alsof hij sprak over zoiets kleins als het kiezen van de juiste veer voor je ketting. "Een Gosti vermoorden en ons aanbieden als vlees ... het is monsterlijk. Als we dat hadden toegestaan, hadden ze de volgende keer iets _nog_ ergers gedaan. Je trok een lijn. We hadden die lijn veel eerder moeten trekken."
 
 "Een lijn trekken?" Kesho keek weg. "Door mij zijn meer dan vijftig dieren _dood_! En jij ... en jij ..."
 
@@ -71,9 +71,11 @@ Nu de voorraden niet eeuwig goed bleven, konden ze niet op de plek blijven. Ze b
 
 Ze moesten snel eten wat ze konden en daarna alsnog doorlopen. Door naar het gebied met al die moordlustige stammen die nu bang voor hen waren. De Asha waren allang gevlogen en zouden hen nooit terug laten.
 
-Een paar dagen later verlieten ze de plek, met niets meer dan gereedschappen en wapens, gehuld in dierenhuiden op hun rug. Terwijl Kesho achterom keek, dacht hij een rode panda te zien. Alle twijfels kwamen terug en de opdringerige gedachte dat hij _anders_ had kunnen reageren---maar hij wist niet hoe precies.
+Ze verlieten de plek met niets meer dan gereedschappen en wapens, gehuld in dierenhuiden op hun rug. Terwijl Kesho achterom keek, dacht hij een rode panda te zien. Alle twijfels en opdringerige gedachten kwamen terug. Alsof die panda ook een godin was, maar dan met de omgekeerde invloed van Ardex.
 
-Hadden ze echt geen keus? Was al het leven gedoemd om te vechten en doden? Waren Gosti gedoemd om alles te zien als gevaar en competitie? Moest moord beantwoord met moord, verraad beantwoord met wraak?
+Hij had _anders_ kunnen reageren---maar hij wist niet hoe precies.
+
+Hadden ze echt geen keus? Was al het leven gedoemd om te vechten en doden voor hun eigen overleving? Waren Gosti gedoemd om alles te zien als gevaar en competitie? Moest moord beantwoord met moord, verraad beantwoord met wraak?
 
 Of waren zij te dom en te blind om een andere optie te zien?
 

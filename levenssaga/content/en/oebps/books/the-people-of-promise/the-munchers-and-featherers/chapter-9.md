@@ -1,124 +1,128 @@
 ---
-title: "9. Alleen maar verliezers"
+title: "9. No winners here"
 weight: 9
 ---
 
-Kesho vond vechten met één vijand al chaotisch. Een dier dat vreest voor diens leven kan schoppen, bijten, of slaan op manieren die je verrassen. En als je alleen maar kijkt naar je vijand, mis je misschien de hyena die wacht in je rug.
+Fighting one enemy was unpredictable, Kesho always thought. An animal fearing for its life could kick, bite, or hit in surprising ways. And if you only had eyes for your enemy, you might miss the hyena at your back.
 
-Het slagveld dat nu explodeerde voor zijn ogen bestond uit tientallen vijanden.
+The battlefield that exploded before him now was utter chaos, as it ensured multiple enemies at all times.
 
-Het bewoog te snel om te begrijpen. Dieren krijsten. Speren werden gegrepen. Pijlen draaiden om hem heen als een dichte mist die nooit meer opklaarde.
+It moved too fast to understand. Animals screamed. Spears were grabbed. Arrows swirled around them like a thick mist that never cleared up.
 
-Murfa schreeuwde iets onverstaanbaars. De jaguar naast hem, waarmee hij net nog de samenwerking vierde, twijfelde geen seconde en beet naar hem. Murfa struikelde achterover en zocht bescherming achter het vuur.
+Murfa yelled something unintelligible. The jaguar next to him, his cheering friend a moment ago, did not hesitate for a second and bit at him. Murfa stumbled backward and sought cover behind the fire.
 
-Voordat Kesho iets kon zeggen landde een pijl diep in Murfa's rug. De grote, sterke man viel achterover om niet meer op te staan.
+Before Kesho could yell out, an arrow landed in Murfa's back. The strong man fell forwards and did not get up.
 
-Het maanlicht kon niet meer doorbreken. Het gevecht verliep in het duister, silhouetten getekend door oplaaiende vuren, vriend en vijand één vage waas. Gegrom en gestamp bereikten Kesho van alle kanten en maakten hem duizelig.
+Moonlight could not penetrate the battle field. It all happened in darkness, silhouettes outlined by fires, friend and foe melted into one blur. Grunts and footsteps reached Kesho from all sides and made him dizzy.
 
-Hij zocht steun bij zijn zus naast hem.
+He sought support with his sister beside him.
 
-Maar Misha rende schreeuwend bij hem weg. Ze zag rood van woede en hief haar vuist. Onderweg trok ze haar speer uit de dode koning en jaagde op de prinses die vluchtte voor haar leven.
+But Misha ran away screaming, her face red hot and her fist raised. Along the way, she ripped her spear from the dead king and chased the princess who ran for her life.
 
-Kesho sloot zijn ogen. Hij wilde dit niet zien.
+Kesho shut his eyes. He didn't want to see this.
 
-Iemand greep zijn arm.
+Someone grabbed his arm.
 
-Zijn moeder Helera. Hij kon haar gezicht niet zien, alleen haar geur herkennen.
+His mother Helera. He couldn't see her face, only recognize her scent.
 
-"Weg! Farshar nog vast! Stop je zus!"
+"Go! Farshar still tied! Stop your sister!"
 
-De woorden kwamen binnen in stukjes, alsof het geluid onderweg door een speer was gebroken. Een vuurbal rende krijsend langs---een dier dat in brand stond.
+The words arrived in bits and pieces. A blinding light passed by---an animal on fire.
 
-De meeste leden van Asha probeerden te vluchten. Ze stapten opzij als een jaguar hen aanviel, zochten beschutting tegen de pijlen, maar deden niks.
+Most Asha members tried to flee. They sidestepped attacks, sought cover, but did not fight.
 
-Maar ze konden nergens heen.
+But where could they go?
 
-De rendieren werden met hun rug tegen een voedselvoorraad gedrukt, stapje voor stapje achteruit, totdat er geen volgend stapje mogelijk was. En op dat moment veranderde de blik in hun ogen. Ze steigerden en sloegen met hun voorpoten meerdere jaguars tegen de modder.
+The deer were pressed with their backs against the food storages, one step backward, and another, until no more backward steps could be taken. At that moment, the look in their eyes changed. They pranced and kicked several jaguars into the dirt with their front legs.
 
-Kesho strompelde richting zijn vader. Farshar was naar een boomstam gerold en probeerde op te staan door zijn rug ertegenaan te drukken. Hij wilde zijn vader ondersteunen, maar met zijn ene zwakke arm ging hij niks bereiken. Samen met Helera kregen ze hem eindelijk op eigen poten.
+Farshar had rolled himself to a tree trunk and pressed against it to help himself sit up. 
 
-"Misha! _Hier_!"
+Kesho stumbled towards him. He wanted to help, but his one weak arm would be useless. Helera was needed to lift his father.
 
-Misha hoorde niks meer. Of ze wilde het niet horen. Ze rende over het slagveld als een wervelwind van woede en stak alles wat bewoog door het hart. 
+"Misha! _Here!_"
 
-Een pijl landde in haar kuit.
+Misha heard nothing. She was a storm raging across the battle field, stopping the hearts of all that moved near her.
 
-Ze zakte even door haar knieën en rolde door het gras. Met een grom rukte ze de pijl eruit en stond op om door te vechten, haar pupillen rood glinsterend als een zonsondergang.
+An arrow pierced her heel.
 
-Ze ging op in de duisternis.
+She sank through her knees and rolled through the dirt. She ripped the arrow out of her and stood up to continue, her pupils shining red like a sunset.
 
-"Laat me," gromde Farshar. "Vlucht! Ik red me wel!"
+She faded into darkness once more.
 
-"Nooit," zei Helera's trillende stem. "Nooit, lieverd."
+"Leave me," Farshar grunted. "Flee! I'll save myself!"
 
-Ze greep Kesho's speer en brak hem tegen een boom in twee stukken. Met de scherpe punt probeerden ze de dikke gevlochten planten door te snijden die Farshars poten bij elkaar bonden. Het andere stuk gaf ze aan Kesho, die probeerde te helpen, maar niks bereikte.
+"Never." Helera's voice shook. "Never, sweetheart."
 
-Een pijl landde vlak boven hun hoofd in de boomstam en trilde lang na. De aarde leek in stukken te breken door alle vallende lichamen en stampende jaguars. De vuren laaiden hoger op, alsof ze naar de hemel reikten voor hulp van de goden, gevoed door wapens die erin landden. 
+She broke Kesho's spear into two. She used the sharp edge of one part to cut through the thick bonds keeping Farshar's paws together. Kesho received the other part, which made him feel even more useless.
 
-En er _was_ een god aanwezig---maar Ardex deed niks.
+An arrow landed in the tree trunk just above their heads and vibrated for a long time. The earth trembled from all the falling bodies and furious jaguars. The fires reached towards the sky, as if asking for mercy from the gods, fed by weapons thrown into them.
 
-Kesho gooide gefrustreerd zijn stuk afgebroken speer tegen de grond. De splinters deden hem zelf meer pijn dan de botte punt zou doen bij een vijand. Zelfs dit lichte wapen leek een zware steen die hem uit evenwicht haalde.
+And a god _was_ present---but Ardex watched and did nothing.
 
-Helera duwde hem terug in zijn ene hand. 
+Kesho threw his broken spear part to the ground. The splinters would hurt him more than his enemies. Even his light weapon seemed a heavy stone that kept him off balance.
 
-"Haal je zus."
+Helera pushed him back with her one free hand.
 
-"Ik kan niet---"
+"Get your sister."
 
-"Je kan het."
+"I can't---"
 
-"Ik heb één arm!"
+"You can."
 
-Helera keek plotseling achterom. Ze rolde weg, samen met Farshar, nog voordat Kesho de aanstormende jaguar had gezien. Vader was bijna los. Ze konden vluchten---ze moesten vluchten---anders was straks iedereen ...
+"I have only one arm!"
 
-Hij rolde de andere kant op. Uit de ruis van geschreeuw probeerde hij de stem van zijn zus op te pikken. 
+Helera suddenly looked over her shoulder. She rolled to the side, holding Farshar tight, even before Kesho had seen the incoming jaguar. Father was almost free. They could flee---they had to flee---otherwise everyone would ...
 
-Dat was makkelijk. Ze riep om hulp, op een manier die Kesho kippenvel bezorgde.
+He rolled the other way. His ears searched for his sister's screams amidst the cacophony of battle.
 
-Hij sprong over obstakels. Vriend of vijand, het was niet meer duidelijk. Hij kon er niet meer aan denken. Voor zijn gevoel had het gevecht niet langer geduurd dan een paar hartslagen, en nu al was hij verdoofd voor al het bloed en gekrijs.
+It was easy. She screamed for help in a way that gave Kesho goosebumps.
 
-Het geluid kwam van de rivier. Kesho versnelde zijn pas, steeds zekerder dat het zijn zus was.
+He leapt over obstacles. Friend or foe. Unclear. He couldn't handle it anymore. Couldn't think. He felt the battle had only just begun, no more than a few heartbeats old, and already he was numb to the blood and the screaming.
 
-Gezoem vulde zijn oren. Hij dook instinctief omlaag. De pijl die voor hem bestemd was, landde in een ander stamlid van Asha een boomlengte verderop. Daar stond zeker de helft van zijn stam op een kluitje, bezig de hekken af te breken.
+The sound came from the river. He hurried up.
 
-Weg, ja, ze moesten weg.
+A buzz. He instinctively ducked. The arrow aimed at him found another Asha target a tree's length away. Out there, at least half his tribe was busy breaking down the fence.
+
+Away. Yes. Go away. Flee.
 
 "Misha! _Misha!_"
 
-De schreeuw gaf hem weg. Een jaguar vlakbij spitste zijn oren en wist precies waar Kesho stond. Twee klauwen scheerden door zijn zicht. De vlijmscherpe nagels misten zijn gezicht op een haar. 
+The scream betrayed his presence. A jaguar nearby attacked him without looking. His sharp claws disoriented him, but narrowly missed his face.
 
-Zijn hoofd was stil van angst. Zijn lichaam herinnerde alle oefening.
+Fear and shock had killed his thoughts. But his body remembered all the hunting games.
 
-Hij dook weg voor een snelle beet en sloeg zijn staart in het gezicht van de vijand. Terwijl een scherpe nagel naar zijn ogen prikte, stak hij zijn gebroken speer omhoog. Het hout kwam vast te zitten in de tanden van zijn aanvaller. 
+He dodged a fast bite and curled his tail around the enemy's face. As a sharp claw pierced into his eyes, he rammed his broken spear upwards. The wood stuck between his attacker's teeth.
 
-Maar Kesho kon niet winnen op kracht. Hij moest winnen met zijn verstand. Het enige dat de Gosti voor hadden op andere dieren. Het enige voordeel dat _hij_ kon hebben.
+But Kesho couldn't win on power. He had to win on skill and technique. The only advantage of the Gosti over other creatures---scratch that, _his_ only advantage over anyone.
 
-Hij greep zijn speer met alle drie zijn poten, zo stevig als hij kon. Daardoor kon hij met zijn volledige gewicht aan het uiteinde hangen. De jaguar had moeten loslaten, maar daar dacht het beest niet aan. Hij werd opzij getrokken, eerst op twee poten, daarna op nul poten.
+He grabbed his spear with all three of his paws, as tightly as he could. That allowed him to drag it down with his full weight. The jaguar should have let go---but the monster didn't think of that in time. He was pulled to the ground, first on two legs, then on zero legs.
 
-Met een doffe plof landde de jaguar op zijn rug. Kesho twijfelde geen seconde en duwde de speer door, zoals hij zou doen als hij jaagde op vlees. 
+The jaguar landed in the dirt with a soft thud. Kesho did not hesitate and pushed through with the spear, as he'd do when hunting for meat.
 
-De jaguar stopte met bewegen. Kesho rende door.
+The jaguar stopped moving. Kesho ran onwards.
 
-Het slagveld klaarde op. De meeste Gosti waren naar beneden gehaald, met geweld of niet. Bij de rivier was het rustiger en de maan zo fel dat het bijna ochtend leek. Alle ...
+The battlefield cleared up. Most Gosti with bow and arrow had been pulled down. The situation at the river was calmer, especially with the moonlight bright enough to make it appear as if dawn approached.
 
-Alle jaguars waren dood.
+All ...
 
-Ze hadden gewonnen.
+All jaguars were dead.
 
-Ze hadden _gewonnen_.
+They had won.
 
-Alle voedselvoorraden waren van hen. Dit hele terrein was van hen. Stuk voor stuk realiseerden de overgebleven Asha hetzelfde.
+They had _won_.
 
-Er was geen gejuich. Geen vreugde. Geen kreet van overwinning.
+All food storages were theirs. Camp was theirs. One by one, the remaining Asha members realized the same.
 
-Van de zes wezens die over waren, zakte de helft uitgeput op de grond, en ging de andere helft door met het hek afbreken.
+There were no cheers. No joy. No screams of victory.
 
-In de rivierbed lag een Gosti. Bij elke golf werd haar lichaam licht opgetild en ietsje verder neergelegd.
+Of the _six_ creatures left, most sank to the floor, while some resumed their efforts to destroy the fence.
 
-Misha was ten onder gegaan in de strijd met een jaguar drie keer haar grootte. 
+The river bed held a Gosti. With each wave, her body was raised and deposited slightly further away.
 
-Zijn ouders renden langs hem en tilden hun dochter huilend uit de modder. Kesho was té verdoofd, té bevroren, om nog iets te denken of doen.
+Misha had died fighting a jaguar three times her size.
 
-Uiteindelijk kon maar één gedachte doorbreken.
+His parents ran past him and carried their daughter from the dirt, crying. Kesho was too numb, too frozen, to think or do anything.
 
-_Moesten we nou echt die speer naar de koning gooien?_
+In the end, only one thought could break through.
+
+_Did we really have to throw that spear into the king?_

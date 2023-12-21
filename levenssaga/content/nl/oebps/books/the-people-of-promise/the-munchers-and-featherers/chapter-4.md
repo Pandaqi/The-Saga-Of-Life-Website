@@ -61,7 +61,7 @@ Jambir knikte maar zei "natuurlijk niet".
 
 Samen sprongen ze naar de hogere tak. Het geluid van knakkende takken en knisperende bladeren volgde hen naar boven. Stof, modder, en stukjes blad vlogen in Jambirs ogen. Hij dacht dat het kwam door de vogel die flink de vleugels wapperde, dus hij sloot zijn ogen en hield vast met alles dat hij had.
 
-Samen met Kesho viel hij een meter naar de grond, waar de val gelukkig werd verzacht door stapels bladeren.
+Samen met Kesho viel hij naar de grond, waar de val gelukkig werd verzacht door stapels bladeren.
 
 De vogel klemde in zijn armen, tegen zijn borstkas. Maar hij bewoog nog! Jambir gooide de vogel in paniek van zich af, wat hem op een teleurgestelde blik van Kesho kwam te staan.
 
@@ -111,7 +111,7 @@ Jambir dacht hier even over na. "Niet alles is oefenen."
 
 "Dus misschien is onderdaan-van-jaguars het beste dat ik kan bereiken."
 
-Kesho's gezicht werd rood en hij sprak met ingehouden schreeuwen. "_Niemand_ zou onderdaan van een ander moeten zijn. Niemand zou afhankelijk moeten zijn van een ander, hoe ... zwak ze ook zijn. En daarom, beste Jambir, moeten we jouw plan doorzetten."
+Kesho's gezicht werd rood en hij sprak met ingehouden schreeuwen. "_Niemand_ zou onderdaan van een ander moeten zijn, hoe ... zwak ze ook zijn. En daarom, beste Jambir, moeten we jouw plan doorzetten."
 
 "Je ... overweegt echt de Jagustam aan te vallen?"
 
@@ -119,7 +119,7 @@ Kesho's gezicht werd rood en hij sprak met ingehouden schreeuwen. "_Niemand_ zou
 
 Jambir knikte met tegenzin.
 
-Ze passeerden de noordgrens, waar ze werden begroet door een jaguar en een rendier van de Ashastam die met elkaar kletsten. Verspreid over het kamp zaten gemengde groepjes met leden uit beide stammen. Ze praatten, maakten vuurtjes, en deelden eten. Alle kinderen hadden zich verzameld om een gigantisch spel verstoppertje te spelen.
+Ze passeerden de noordgrens, waar ze werden begroet door een jaguar en een rendier van de Ashastam die met elkaar kletsten. Verspreid over het kamp zaten gemengde groepjes met leden uit beide stammen. Ze praatten, probeerden op allerlei manieren vuur of Ardex op te roepen---zonder success---en deelden eten. Alle kinderen hadden zich verzameld om een gigantisch spel verstoppertje te spelen. De prins en prinses wilden meedoen, maar werden direct teruggefloten met boze woorden over hoe dit een verspilling van hun tijd was.
 
 Farshar stampte uit de bespreking met Jagu, witheet van woede. 
 
@@ -131,7 +131,7 @@ Hij kwam rechtstreeks op Kesho af en trok hem bij zich.
 
 "Misha? _Misha?!_"
 
-De hele Ashastam kwam in beweging. Murfa meldde dat ze op pad was gegaan om eten te verzamelen, zoals altijd, want hun eigen eten was op. Ook al was dat zinloos, want het hele gebied was kaalgeplukt. Zijn vrouw---Helera---voegde zich meteen bij de familie en schreeuwde de naam van haar dochter in alle andere richtingen.
+De hele Ashastam kwam in beweging. Murfa meldde dat ze op pad was gegaan om eten te verzamelen, zoals altijd, want hun eigen eten was op. Ook al was dat zinloos, want het hele gebied was kaalgeplukt. Farshar's vrouw---Helera---voegde zich meteen bij de familie en schreeuwde de naam van haar dochter in alle andere richtingen.
 
 "Ze is toch niet in haar eentje koppig gaan jagen?" bromde vader.
 

@@ -75,7 +75,9 @@ Kesho could finally see clearly again.
 
 Farshar circled the beast and reached the same conclusion. "None of us did this. Why would you attack and then not claim the flesh?"
 
-Kesho salivated. This mammoth could feed their tribe for _months_. And he had found it! He ... he would tell everyone how he had _defeated_ the beast and---
+Kesho salivated. This mammoth could feed their tribe for _months_. Or that would be the case, if meat didn't _spoil_. Realistically, it would feed them well for a few days, then they'd be forced to throw out the rest. 
+
+But he had found it! He would tell everyone how he had _defeated_ the beast and---
 
 Father looked up and pointed at a neat collection of stones, burnt black at the top. They knew what fire was and recognized its consequences, even if they had no clue how to start or control one.
 

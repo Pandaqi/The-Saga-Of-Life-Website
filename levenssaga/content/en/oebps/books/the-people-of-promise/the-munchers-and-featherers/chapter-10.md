@@ -1,82 +1,86 @@
 ---
-title: "10. Epiloog"
+title: "10. Epilogue"
 weight: 10
 ---
 
-Toen de ochtend aanbrak, kwam Sinthia---Murfa's vrouw---langs om te melden dat iedereen weg was. 
+Dawn arrived. Sinthia---Murfa's wife---came by to say everyone had left.
 
-Kesho en zijn ouders bleven als enige van de Asha achter.
+Kesho and his parents were the only people from Asha to stay behind.
 
-"Waarom heeft niemand iets gezegd?" bromde Farshar, zijn stem bijna weg. "Wacht nog even. We moeten onze ... onze dochter begraven."
+"Why didn't anybody tell us?" Farshar said, voice nearly gone. "Wait. We must ... we must bury our daughter."
 
-Sinthia keek vol medelijden, maar haar woorden waren duidelijk. "We gaan weg van deze vervloekte plek en willen niet dat jullie volgen. De ziel van Asha---een _vredig_ volk dat _samenwerkt_---leeft _niet_ voort in jou of je kinderen. Kind."
+Sinthia looked sympathetic, but her words were clear. "We are leaving and we do not want _you_ to follow. The soul of Asha---a peaceful tribe that cooperates---does _not_ live in you or your children. Child."
 
-Farshar kwam tot leven en greep Sinthia bij de nek. Helera moest ze uit elkaar trekken.
+Farshar came alive and grabbed Sinthia by her neck. Helera pushed them apart.
 
-"Zoals ik al zei," vervolgde Sinthia, waarna ze omdraaide en vertrok.
+"As I said," Sinthia said, after which she turned and left.
 
-De familie kon alleen toekijken hoe de rest van de stam, een handjevol dieren, door een gat in het hek vertrok en hen achterliet.
+The family could only watch how the remainder of the tribe, a handful of different creatures, left through a tiny hole in the fence.
 
-Kesho bleef lang kijken door het gat, zittend op het dak van een krakende hut. Zo had hij goed overzicht van het bos, totdat hij vond wat hij zocht.
+Kesho watched them for a while, sitting on top of the sturdiest hut he could find. He could oversee most of the forest, until he found what he was looking for.
 
-Enkele leden van de Jagustam waren op tijd weggekomen. Niet veel, voor zover hij kon zien, meer her en der ving hij een glimp op van een kleine Gosti of een jaguar.
+Some members of the Jagu Tribe had fled in time. Not many, as far as he could tell.
 
-Die moordlustige stammen waarover Jagu sprak? Ze waren er niet. 
+Those murderous tribes Jagu talked about? They surely weren't there.
 
-_Ze waren er niet toen Jagu het zei, beste lezer, maar nu waren ze er wel. Nieuws van deze gebeurtenis verspreidde snel door het bos. De Jagustam beloofde wraak te nemen. Even later begonnen ze zelfs een samenwerking met de Asha: alleen waren ze te zwak, maar samen stonden ze sterker. De andere stammen werden gewaarschuwd en verteld dat ze voor de zekerheid wapens moesten maken. Want wie weet kwam de Farshar stam morgen langs om je uit te moorden._
+_They weren't there when Jagu said it, dear reader, but now they were. News of this event spread. The Jagu Tribe promised revenge. They even merged their tribe with Asha to do so: alone they were too weak, but together they were strong. The other tribes were wanted and told to create weapons, just to be sure. Who knows, maybe the Farshar Tribe would swing by tomorrow to kill you all._
 
-Het hele territorium lag vol lijken. De vuren waren vervangen door een grote ring van as en verbrandde plantenresten. Pijlen staken uit bomen alsof er stekelvarkens groeiden.
+The entire territory was littered with dead bodies. The fires had transformed into large rings of ash and burned plant remains. Arrows erupted from tree trunks as if porcupines grew inside.
 
-Maar ze konden niet meer weg, want buiten de hekken zou het nog veel gevaarlijker zijn. Dus ze probeerden elk gestorven dier te begraven en het territorium te repareren.
+But they couldn't leave anymore. Out there it would be much too dangerous for them now. So they tried to bury each fallen animal and repair the territory as well as they could.
 
-Kesho had al drie dagen niks gezegd en nergens op gereageerd, dus zijn vader zocht hem op.
+Kesho hadn't reacted or spoken in three days, so his father looked for him.
 
-"Je denkt dat het jouw schuld is, of niet?" Farshar wachtte tot zijn zoon hem aankeek.
+"You think it's your fault, don't you?" Farshar waited until his son looked at him.
 
-"Het _is_ mijn schuld."
+"It _is_ my fault."
 
-"Je hebt het juiste gedaan," zei hij rustig, alsof hij sprak over zoiets kleins als het kiezen van het juiste kledingstuk. "Een Gosti vermoorden en ons aanbieden als vlees ... het is monsterlijk. Als we dat hadden toegestaan, hadden ze de volgende keer iets _nog_ ergers gedaan. Je trok een lijn. We hadden die lijn veel eerder moeten trekken."
+"You did the right thing," he said calmly, as if he spoke of some minor decision like picking the best feathers for your necklace. "Killing a Gosti---your friend---and offering it to us as food ... it's monstrous. If we'd accepted _that_, they'd have done something even worse next time. You drew a line. We should've drawn it much sooner."
 
-"Een lijn trekken?" Kesho keek weg. "Door mij zijn meer dan vijftig dieren _dood_! En jij ... en jij ..."
+"Drew a line?" Kesho looked away. "Thanks to me more than fifty animals _died_! And you ... and you ..."
 
-"Zo is de natuur nou eenmaal, zoon. Wie als eerste aanvalt heeft altijd het voordeel. Jullie konden Jagu alleen doden omdat het een verrassing was."
+"That's nature, son. Whoever attacks first has the advantage. You could only kill Jagu because you had the element of surprise."
 
-"Dat wilde ik helemaal niet. Misha denk ik ook niet."
+"I didn't want to. Misha probably didn't want to."
 
-"Maar je instinct wilde het wel. Je weet niet of die ander gaat aanvallen. Je kon maar niet ontdekken of de Jagustam goede of slechte plannen had. Dus je kunt maar voor de zekerheid de eerste zijn die aanvalt."
+"Your instinct wanted it. You don't know if the other would attack. You couldn't figure out, after days and days, if the Jagu Tribe were good or bad. So you be sure and attack first."
 
-Kesho was niet overtuigd. Zijn ogen gleden over de voedselvoorraden, die ook stuk voor stuk waren afgebroken. Niet door het gevecht; Ardex was langsgekomen om de magische diamanten overal weg te stelen.
+Kesho wasn't convinced. He studied the food storages, also broken down. Not during the fight; Ardex had visited once more to steal all the magical diamonds.
 
-"Zodra zij uit volle macht aanvielen ..." Farshar keek weg, zijn ogen glazig, alsof hij die hele avond weer afspeelde in zijn hoofd. "We moesten onszelf verdedigen. We hadden geen keus."
+"As soon as they attacked at full power ..." Farshar looked away, eyes glassy, as if the entire night replayed in his head. "We had to defend ourselves. We had no choice."
 
-_We hadden geen keus._ Het klonk als een smoesje, en toch voelde het waar. Kesho herhaalde het de hele tijd om zichzelf gerust te stellen.
+_We had no choice_. It sounded like an excuse, and yet it felt true. Kesho surely repeated it often enough to calm himself with the thought.
 
-Toen Ardex alle diamanten had verzameld, bezocht hij de familie.
+Once Ardex had collected all he wanted, he said goodbye to the family.
 
-"Ga je ons straffen?" zei Farshar uitdagend. "Of zijn we jouw helden, oh grote God van de Dood?"
+"Will you punish us?" Farshar said defiantly. "Or are we your heroes, oh great God of Death?"
 
-"Geen van beiden," zei Ardex. "Het is mij duidelijk geworden ... dat zelfs als ik niks doe, ik alsnog invloed iets doe."
+"Neither," Ardex said. "It has become apparent to me ... that even if I do nothing, I still do something."
 
-De hele familie keek hem verbaasd aan.
+They frowned at him.
 
-"Zelfs als ik mezelf er compleet buiten houd, heeft mijn _aanwezigheid_ alsnog invloed. Ik kom in de buurt en dieren krijgen de ongelofelijke behoefte om iets te vernielen. Sommige dieren ... zijn er gevoeliger voor dan anderen." 
+"Even if I don't interfere, my mere _presence_ influences you. I come close and animals get the overwhelming desire to kill or destroy something. Some animals ... who somehow have a stronger connection to me ... are a little more perceptive than others."
 
-Hij schudde zijn vacht en gooide de diamanten in zijn bek, alsof dat overduidelijk de meest logische plek was om ze te bewaren.
+He shook his fur and stored the diamonds between his flaming teeth, as if that was clearly the best place to keep them.
 
-"_Geen bestaan zonder gevolgen, geen vrede zonder oorlog_." 
+"_No existence without consequences, no peace without war._"
 
-Ardex liep weg. "Ik moet hierover nadenken. Misschien zien jullie me nog terug, misschien niet."
+Ardex walked away. "I have to think about this. Perhaps you'll see me again, perhaps not."
 
-Nu de voorraden niet eeuwig goed bleven, konden ze niet op de plek blijven. Ze bleven jagers en verzamelaars, en dit hele gebied was al leeggeplukt. Weggaan was lastig, zeker omdat het voelde alsof hij zijn zus definitief achterliet, maar ze hadden geen keus.
+With the food storages gone, they couldn't stay here. They were still hunters and gatherers---and this area was plucked bare long ago. Leaving was especially hard when it felt like leaving his sister behind for good.
 
-Ze moesten snel eten wat ze konden en daarna alsnog doorlopen. Door naar het gebied met al die moordlustige stammen die nu bang voor hen waren. De Asha waren allang gevlogen en zouden hen nooit terug laten.
+They quickly ate whatever they could and then continued on their path. A path into the heart of those murderous tribes who were now afraid of them and preparing weapons. The Asha were long gone and would never let them back.
 
-Een paar dagen later verlieten ze de plek, met niets meer dan gereedschappen en wapens, gehuld in dierenhuiden op hun rug. Terwijl Kesho achterom keek, dacht hij een rode panda te zien. Alle twijfels kwamen terug en de opdringerige gedachte dat hij _anders_ had kunnen reageren---maar hij wist niet hoe precies.
+They left the place with no more than a few tools and weapons, wrapped in animal hides strapped to their back. 
 
-Hadden ze echt geen keus? Was al het leven gedoemd om te vechten en doden? Waren Gosti gedoemd om alles te zien als gevaar en competitie? Moest moord beantwoord met moord, verraad beantwoord met wraak?
+As Kesho looked over his shoulder one last time, he saw a red panda. Somehow, its appearance made all the doubts and intruding thoughts come back. Almost as if this was another god, who had the opposite influence to Ardex.
 
-Of waren zij te dom en te blind om een andere optie te zien?
+He _could_ have reacted differently---but he didn't know how.
+
+Did they really have no choice? Was all life doomed to fight and kill for their own survival? Where Gosti doomed to see everything as danger and competition? Must murder be answered with murder, betrayal answered by vengeance?
+
+Or were they too dumb and too blind to see any other option?
 
 &nbsp;
 
-_En zo ging het leven door ..._
+_And so it was, that life continued ..._

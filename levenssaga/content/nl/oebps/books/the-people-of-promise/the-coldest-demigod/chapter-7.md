@@ -37,7 +37,7 @@ Wel stonden de dieren ver van elkaar, alsof ze dachten dat de ander besmettelijk
 
 Of, nee. Dit _was_ de oefening voor deze missies.
 
-"Je bent een _god_ en je vraagt ons hoe het gaat?" De leeuw keek enkele hartslagen vol afkeer, waardoor Ardex kon zien dat hij glimmende gouden ringen in zijn manen had verweven. Daarna keerde hij Ardex de rug en liep weg, samen met alle andere leeuwen.
+"Je bent een _god_ en je vraagt ons hoe het gaat?" De Zonnestraler keek enkele hartslagen vol afkeer, waardoor Ardex kon zien dat hij glimmende gouden ringen in zijn manen had verweven. Daarna keerde hij Ardex de rug en liep weg, samen met alle andere leeuwen.
 
 "Om ... om te testen of jullie de waarheid spreken! Natuurlijk weet ik al hoe het gaat. Ik weet alles. Ik ben alleswetend. En ja, soms zeg ik twee keer hetzelfde, maar dan anders, want dat doet mijn vader ook de hele tijd en dan lijk je slim."
 
@@ -45,9 +45,9 @@ Ardex wist niet wat hem overkwam. Hij bleef maar praten en zichzelf uitleggen, a
 
 Het waren ook een beetje _zijn_ dieren. Hij was één van de drie goden in dit universum. Deze wezens, waarvan nog honderden verderop stonden toe te kijken, waren bijna zoals zijn ... kinderen.
 
-De vogel schaterde. "Ah, ik dacht al dat je niet dé oppergod was. Anders was ik zwaar teleurgesteld. Nee, je bent alleen zijn zwakke hulpje natuurlijk."
+De Luchtdanser vogel schaterde. "Ah, ik dacht al dat je niet dé oppergod was. Anders was ik zwaar teleurgesteld. Nee, je bent alleen zijn zwakke hulpje natuurlijk."
 
-Ardex nam de gedaante van de leeuw over en groef zijn poten diep in de grond. "Zwak? _Zwak?_"
+Ardex nam de gedaante van de Zonnestraler over en groef zijn poten diep in de grond. "Zwak? _Zwak?_"
 
 Hij stampte en brulde op volle kracht. Een vulkaan rees uit de grond, pruttelend en schokkend, die de groep dieren uit elkaar dreef. 
 
@@ -61,33 +61,35 @@ Ardex maande zichzelf en zijn vulkaan tot rust. Hij keek alle dieren nog eens in
 
 "Ik kwam alleen om even naar jullie te kijken. Observeren. Doe alsof ik er niet ben, ga door met je leven."
 
-Meerdere vogels schaterden. "Ha! Makkelijk! We deden al de hele tijd alsof je er niet was!"
+Meerdere Luchtdansers schaterden. "Ha! Makkelijk! We deden al de hele tijd alsof je er niet was!"
 
 Ardex' vulkaan kwam weer tot leven. Blijf kalm. Blijf rustig. Dit was misschien wel de eerste keer dat deze wezens een god zagen! En had hij niet zijn eigen ouders vaak op dezelfde plagerige manier behandeld?
 
 Bovendien voelde hij zich raar op deze plek. Hij kon de zielen van deze wezens niet voelen of zien. Hij had het idee dat de planeet hem bekend voorkwam. Had Oeros hier lang geleden met hem geoefend? Was deze planeet misschien al onder de invloed van goddelijke magie?
 
-Toen hij weer omlaag keek, was hij plots omringd door een kring van wezens. Alleen de leeuwen bleven op afstand, verzameld in de verte. Hij hoorde dat ze elkaar vroegen hoe lang Ardex nog zou blijven.
+Toen hij weer omlaag keek, was hij plots omringd door een kring van wezens. Alleen de Zonnestralers bleven op afstand, verzameld in de verte. Hij hoorde dat ze elkaar vroegen hoe lang Ardex nog zou blijven.
 
 Misschien dachten ze dat hij maar eventjes bleef. Nee nee, Ardex wist wel beter. Hij zou _jaren_ deze dieren observeren als het nodig was. En daarna ging hij zijn ouders eens laten voelen wat hij van deze streek vond.
 
-Een van de vogels vlak naast hem fluisterde zacht. "Er ... is wel een probleem."
+Een van de Luchtdansers vlak naast hem fluisterde zacht. "Er ... is wel een probleem."
 
 "Eindelijk," mompelde Ardex. "Vertel en ik zal doen wat ik kan." 
 
 _Zyme_. Hij hoorde Vaders gemompel weer. _Laat dingen gebeuren en alleen bijsturen als écht nodig._ "En dat kan betekenen dat ik niks doe," voegde hij snel toe.
 
-Wat het ook was, ze durfden het nauwelijks uit te spreken. Ardex leunde naar voren en probeerde hen aan te moedigen.
+Wat het ook was, ze durfden het nauwelijks uit te spreken. Ardex leunde naar voren en moedigde hen aan.
 
 Terwijl hij luisterde naar een gestamelde zin, zag hij de leeuwen in de verte verzamelen en een nóg grotere kring vormen rondom iedereen.
 
-"De leeuwen ... ze ... ze vallen ons aan en ... doden ons."
+"De Zonnestralers ... ze ... ze vallen ons aan en ... doden ons."
 
-De brullende beesten vonden dat ze lang genoeg hadden gewacht. Onder oorverdovend lawaai stormden ze op de dieren af. Ze probeerden te vluchten op Ardex' vulkaan, maar die was te steil en te heet voor de meeste dieren, terwijl de rookwolken de vogels de vleugels ontnamen.
+De Zonnestralers vonden dat ze lang genoeg hadden gewacht. Ze brulden.
 
-De eerste leeuwen kregen hun prooi te pakken. Ze beten dwars door het dier heen, scheurden het aan stukken, alsof het niets was. Alsof het speelgoed was waarmee ze speelden.
+Onder oorverdovend lawaai stormden ze op de andere dieren af. Ze probeerden te vluchten op Ardex' vulkaan, maar die was te steil en te heet voor de meeste dieren, terwijl de rookwolken de Luchtdansers de vleugels ontnamen.
 
-"Stop! Nu!" Ardex geloofde het zelf niet eens. Hij klonk als een klein muisje, bang voor alles. Onbewust schuifelde hij verder achteruit, hoger op zijn vulkaan, buiten het bereik van zowel dieren die naar hulp reikten als leeuwen die hapten.
+De eerste Zonnestralers kregen hun prooi te pakken. Ze beten dwars door het dier heen, scheurden het aan stukken, alsof het niets was. Alsof het speelgoed was waarmee ze speelden.
+
+"Stop! Nu!" Ardex geloofde het zelf niet eens. Hij klonk als een klein muisje, bang voor alles. Onbewust schuifelde hij verder achteruit, hoger op zijn vulkaan, buiten het bereik van zowel dieren die naar hulp reikten als Zonnestralers die hapten.
 
 Twijfel deed hem bevriezen.
 
@@ -101,17 +103,17 @@ Zijn stem bulderde over de hele planeet, luid genoeg om meerdere aardbevingen te
 
 "_Mijn vlammen zullen jullie opvreten!_"
 
-Kolommen van rook schoten uit de top van de vulkaan als vurige tentakels. Honderden stomende slangen reikten om zich heen en vonden precies het hart van elke leeuw. Het angstige gekrijs van de dieren werd vervangen door angstig gebrul van de leeuwen. Eén van voor één verdampten ze in de hitte, nog voordat ze met hun ogen konden knipperen, en lieten niks achter.
+Kolommen van rook schoten uit de top van de vulkaan als vurige tentakels. Honderden stomende slangen reikten om zich heen en vonden precies het hart van elke Zonnestraler. Het angstige gekrijs van de dieren werd vervangen door angstig gebrul van de leeuwen. Eén van voor één verdampten ze in de hitte, nog voordat ze met hun ogen konden knipperen, en lieten niks achter.
 
 Met een god aan je zijde, was elke veldslag binnen vijf hartslagen gewonnen.
 
-Alle leeuwen waren van het ene op het andere moment verandert in as, meegenomen door de wind. Slechts één leeuw, degene die hem als eerste aansprak, was slim en snel genoeg om te vluchten. 
+Alle Zonnestralers waren van het ene op het andere moment verandert in as, meegenomen door de wind. Slechts één leeuw, degene die hem als eerste aansprak, was slim en snel genoeg om te vluchten. 
 
 Ardex liet het er niet bij zitten. Hij zweefde op volle snelheid erachteraan, onder stenige bogen door, tussen twee bergen, richting een grot waar de leeuw misschien veilig dacht te zijn.
 
 Het wezen dacht verkeerd. 
 
-Ardex haalde hem in en stak zijn gedaante door het leeuwenlijf als een speer. De leeuw ging in rook op, maar niet voordat Ardex één ring uit zijn manen had gegrepen en weigerde los te laten.
+Ardex haalde hem in en stak zijn gedaante door het leeuwenlijf als een speer. De Zonnestraler ging in rook op, maar niet voordat Ardex één ring uit zijn manen had gegrepen en weigerde los te laten.
 
 Afgeleid door het glimmende voorwerp, zag hij te laat dat dit hele deel van de planeet was gehuld in een verdachte paarse mist. Een dichte mist die hij herkende.
 

@@ -119,7 +119,7 @@ That's where his strength came from.
 
 Without that, he might have died, or become a god with no magic. He'd have been an aid or a slave to the Chiefgods, even more of a toy than he already was.
 
-But Oeros had accidentally given him even more powers. Magic that Ardex cultivated during his years of loneliness and captivity.
+But Oeros had accidentally given him even more powers. Magic that Ardex cultivated during his years of loneliness and captivity. And pain. Endless pain. He was always on fire, always angry and filled with energy. It drove him insane.
 
 "As I understand it," Ardex said, "you have all positive forces of creation, and Oeros all negative forces of destruction. That's how you keep the universe balanced."
 

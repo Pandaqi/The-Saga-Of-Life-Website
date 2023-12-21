@@ -17,13 +17,13 @@ Ardex was vooral teleurgesteld in zichzelf---totdat hij merkte dat hij nog leefd
 
 Wat had het zwaard gedaan? 
 
-Op alle plekken waar het Ardex had geraakt, groeide hij weer terug. Zoals een stengel die je afknipte en even later weer een nieuwe bloem groeide. Dat niet alleen, hij groeide _sterker_ terug. Hij werd groter. Zoals een spier die eerst afbrak en daarna steviger terugkwam.
+Op alle plekken waar het Ardex had geraakt, groeide hij terug. Nee, hij groeide _sterker_ terug. Hij werd groter. Zoals een spier die eerst afbrak door beweging en daarna steviger terugkwam.
 
 De geraakte delen van zijn vuren laaiden hoger op dan eerst. Zijn vuurring moest zichzelf breder maken om nog te passen.
 
 Ardex grijnsde. Waar was hij al die jaren bang voor geweest? Natúúrlijk kon zijn moeder niks terugdoen. Ze kon alleen dingen _maken_, geen dingen _vernielen_. Alleen _groeien_, niet _krimpen_. 
 
-Zonder angst schuifelde Ardex op Gaia af. Ze hield het zwaard nog omhoog, maar in haar gedaante las hij de onzekerheid, alsof het wapen ineens te zwaar was en elk moment uit haar klauwen kon glippen.  
+Zonder angst stormde Ardex op Gaia af. Ze hield het zwaard nog omhoog, maar in haar gedaante las hij de onzekerheid, alsof het wapen ineens te zwaar was en elk moment uit haar klauwen kon glippen.  
 
 "Tja, dat krijg je als je alle negatieve krachten aan je zoon geeft," zei Ardex op vlakke toon. "Je kan niet vechten, of wel? Jij kan mij _niks_ serieus aandoen."
 
@@ -81,6 +81,8 @@ Ardex spartelde, maar bleef spiralen van vuur uitzenden en wist zeker dat hij zi
 
 Hij herinnerde zijn aanval jaren geleden. Hoe één onverwachte explosie Gaia tegen de muur wierp en lange tijd uitschakelde. In een vlaag van waanzin probeerde hij hetzelfde opnieuw.
 
+Gaia bleef deze keer makkelijk overeind, maar hij kwam wel los.
+
 Hij zweefde weg, zo snel hij kon. Gaia kleefde aan hem vast en racete achter hem aan. Als twee bliksemsnelle vogels tolden ze door de lucht, terug naar het paleis. Ze braken door de eerste muur alsof hij er niet stond, en de tweede, totdat Ardex moest wijken om niet per ongeluk in een magisch portaal te duiken.
 
 Gaia repareerde muren vlak voordat Ardex erdoorheen moest. Hij brak standbeelden af terwijl hij langskwam en zond de brokstukken recht op zijn achtervolgster af.
@@ -103,7 +105,9 @@ Hij zoefde naar Gaia's deel van het paleis, een wirwar van fonteinen, rivieren, 
 
 Zodra hij erboven zweefde, deed Gaia precies wat hij verwachtte. Al het water schoot tegelijkertijd de lucht in, alsof honderd walvissen tegelijk de oppervlakte opzochten voor een hapje lucht, maar deze keer hadden ze alleen trek in een hapje vuurgod.
 
-De klap sloeg tijdelijk alle magie uit zijn lichaam en de pijn overweldigde hem. Het laatste dat hij voelde was de nabijheid van een doodsbange Gaia. Het laatste dat hij hoorde was haar geroep naar Oeros en dat hij metéén moest komen helpen.
+De klap sloeg tijdelijk alle magie uit zijn lichaam. Net zoals toen zijn aanval lang geleden Gaia's ziel kort had gesplitst van haar gedaante. Het doofde niet zijn vuren---die last bleef altijd.
+
+Pijn overweldigde hem. Het laatste dat hij voelde was de nabijheid van een doodsbange Gaia. Het laatste dat hij hoorde was haar geroep naar Oeros en dat hij metéén moest komen helpen.
 
 Hij wist niet hoe lang hij uitgeschakeld was geweest, maar toen hij wakker werd zat hij in een kleine stenen kamer. Ondergronds. Hij zag het meteen. De lichtgevende muren die vonken loslieten, die hij als kind ook jarenlang zag bij de eerste "monstertest" van zijn ouders.
 

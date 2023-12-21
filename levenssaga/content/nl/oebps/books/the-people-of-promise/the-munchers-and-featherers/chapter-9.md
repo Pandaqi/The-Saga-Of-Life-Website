@@ -11,7 +11,7 @@ Het bewoog te snel om te begrijpen. Dieren krijsten. Speren werden gegrepen. Pij
 
 Murfa schreeuwde iets onverstaanbaars. De jaguar naast hem, waarmee hij net nog de samenwerking vierde, twijfelde geen seconde en beet naar hem. Murfa struikelde achterover en zocht bescherming achter het vuur.
 
-Voordat Kesho iets kon zeggen landde een pijl diep in Murfa's rug. De grote, sterke man viel achterover om niet meer op te staan.
+Voordat Kesho iets kon zeggen landde een pijl diep in Murfa's rug. De grote man viel voorover om niet meer op te staan.
 
 Het maanlicht kon niet meer doorbreken. Het gevecht verliep in het duister, silhouetten getekend door oplaaiende vuren, vriend en vijand één vage waas. Gegrom en gestamp bereikten Kesho van alle kanten en maakten hem duizelig.
 
@@ -43,7 +43,7 @@ Misha hoorde niks meer. Of ze wilde het niet horen. Ze rende over het slagveld a
 
 Een pijl landde in haar kuit.
 
-Ze zakte even door haar knieën en rolde door het gras. Met een grom rukte ze de pijl eruit en stond op om door te vechten, haar pupillen rood glinsterend als een zonsondergang.
+Ze zakte even door haar knieën en rolde door de modder. Met een grom rukte ze de pijl eruit en stond op om door te vechten, haar pupillen rood glinsterend als een zonsondergang.
 
 Ze ging op in de duisternis.
 
@@ -99,7 +99,7 @@ Met een doffe plof landde de jaguar op zijn rug. Kesho twijfelde geen seconde en
 
 De jaguar stopte met bewegen. Kesho rende door.
 
-Het slagveld klaarde op. De meeste Gosti waren naar beneden gehaald, met geweld of niet. Bij de rivier was het rustiger en de maan zo fel dat het bijna ochtend leek. Alle ...
+Het slagveld klaarde op. De Gosti boogschutters waren naar beneden gehaald. Bij de rivier was het rustiger en de maan zo fel dat het bijna ochtend leek. Alle ...
 
 Alle jaguars waren dood.
 
