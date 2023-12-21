@@ -1,144 +1,144 @@
 ---
-title: "4. Vermissing"
+title: "4. Missing Daughter"
 weight: 4
 ---
 
-Jambir volgde Kesho dieper het bos in, met groeiende angst in zijn hart. De afgelopen dagen hadden ze niet kunnen praten, want Jambir werd op duizend opdrachten gestuurd. Hij vertelde zichzelf steeds opnieuw dat ze alle tijd hadden en dat hij geduld moest hebben. 
+Jambir followed Kesho deeper into the forest, a growing fear in his heart. They hadn't been able to talk these past few days, for Jambir had been sent on a thousand different missions. He repeatedly told himself that he'd _manage_, he just needed to be patient.
 
-Hij keek naar de positive kant: hij was Misha twee keer tegengekomen. Ze liep langs de hekken met haar rieten mandje, hopend dat ze toch zelf iets van eten kon verzamelen. Elke keer zag Jambir dat de mand zo goed als leeg was, maar Misha's glimlach naar hem was er niet minder om.
+He focused on the positives: he had met Misha twice! She'd walk near the fences with her wicker basket, hoping to collect some food of her own. Each time Jambir noticed the basket was nearly empty, and yet Misha's smile was no worse for it.
 
-Nu was Jagu eindelijk verwikkeld in een gesprek met de Ashastam over "volwassen zaken" en kon hij even wegglippen.
+Now Jagu was finally deep in conversation with the Asha Tribe about "adult matters", which allowed Jambir to escape duties.
 
-"Je moet echt meer slapen," zei Kesho. "Wallen onder je ogen. Je bent zo langzaam als een kip. Nou, ja, kippen zijn best snel eigenlijk ..."
+"You really must sleep more," Kesho said. "Bags underneath your eyes. You're slow as a chicken. Or, well, chickens are quite fast actually ..."
 
-"Kan ik er wat aan doen!" riep Jambir geïrriteerd. 
+"As if I can help it!"
 
-Hij had meteen ingestemd met het plan om te leren jagen en vechten. Als hij kon overleven in het wild, kon hij weglopen bij de Jagustam. Maar hoe verder hij wegliep van veiligheid, hoe meer zijn voeten wilden omkeren.
+He'd instantly agreed to Kesho's plan to teach him to hunt and fight. If he could survive in the wild, he could flee the Jagu Tribe anyway. But the further he strayed from the safety of the camp, the more his paws wanted to turn around.
 
-Kesho's aanwezigheid hielp niet, want Jambir zag hem niet als een sterk en indrukwekkend persoon. In zijn afwijking zag hij de afwijkingen van de prins en prinses, die stoer konden praten, maar ook nog nooit van hun leven hadden hoeven jagen of vechten. Jambir zou verbaasd zijn als de prins überhaupt wist hoe dat moest.
+Kesho's presence was no help, for Jambir did not see him as a strong and impressive person anymore. In Kesho's missing arm he saw the defects of the prince and princess, who could talk and talk, but never actually had to fight in their lives. Jambir would surprised if the prince even knew how to do so.
 
-Kesho had vechtlust, dat zeker, maar of hij die vechtlust zelf kon uitvoeren ...
+Yes, Kesho had a fighting _spirit_, but did he have the means to execute it?
 
-"Daar," fluisterde Kesho.
+"There," Kesho whispered.
 
-"Waar? Wat?"
+"Where? What?"
 
-Kesho draaide Jambirs hoofd naar een groengele lage boom achter hen. "Een vogel. In die boom, linkse tak."
+He turned Jambirs head toward a green and yellow tree behind them. "A bird. In the tree, left branch."
 
-"Oh! Ja! Ik zie hem."
+"Oh! Yes! I see it."
 
-Jambir kreeg een hand tegen zijn mond. 
+A paw shut Jambir's mouth tight.
 
-"Stap één is dat je jouw aanwezigheid niet verraad met luide kreten."
+"Step one is to never betray your presence with loud yells."
 
 "Oh---hmm---so---hmm---rry."
 
-"Stap twee is dat je de omgeving uitkamt."
+"Step two is to explore your surroundings. Find the bigger dangers. Other predators watching the bird, who wouldn't mind adding _you_ to their dinner as well."
 
-"Kammen? Als in je vacht---"
+Jambir followed Kesho in a circle around the base of the tree. He felt gangly and silly. As if each footfall would notify the bird or cause him to stumble.
 
-"Nee, je controleert of er niet grotere gevaren zijn. Andere roofdieren die ook de vogel zien, maar het prima vinden om _jou_ erbij te eten als toetje."
+"Step three is to pick the best position for the attack. For when you attack, you only have a _flash_, a heartbeat, to kill the other creature with all your might. You're too slow? You doubt? You're wrong? That bird has flown."
 
-Jambir volgde Kesho op een rondje rondom de boom. Hij voelde zich slungelig en dom. Alsof elke voetstap hem ging verraden tegenover de vogel, alsof hij elk moment op een domme manier kon struikelen.
+"Then why do we attack _flying_ creatures?" Jambir complained. He remembered the Asha Tribe also containing some bird members and didn't understand how they lived together.
 
-"Stap drie is dat je de beste positie vindt voor een aanval. Want zodra je aanvalt, heb je een _flits_, een hartslag, om met al je kracht een ander dier te doden. Je bent te langzaam? Je twijfelt? Je zit ernaast? De vogel is gevlogen."
+"Not everybody is lucky enough to _conquer_ a _river_ and catch helpless fish from above. Who don't fight back."
 
-"Waarom vallen we dan ook vliegende dieren aan?" klaagde Jambir. Hij herinnerde dat de Ashastam ook een paar vogels als leden had en begreep niet hoe die twee samen konden leven.
+Jambir looked sour. "Shouldn't we give that bird a fair chance then? How would you like it if a huge bird came from above, out of nowhere, and suddenly ate you?"
 
-"Niet iedereen heeft het geluk dat ze een rivier hebben _ingenomen_ en hulpeloze vissen kunnen pakken. Die niet terugvechten."
+"Yeah, _really_ annoying. And that's why you need to be the _first_ and the _fastest_!"
 
-Jambir keek zuur. "Moeten we die vogel niet een eerlijke kans geven dan? Hoe zou jij het vinden als nu een vogel van bovenaf neerkwam, onverwacht, en ons zomaar opvrat?"
+Together they climbed to a low branch. Kesho as elegant as a monkey, Jambir with more luck than skill.
 
-"Ja super vervelend. En daarom moet jij dus _eerder_ en _sneller_ zijn!"
+"Ready?"
 
-Samen klommen ze naar een lage tak. Kesho elegant als een aapje, Jambir met meer geluk dan wijsheid.
+Jambir nodded but said: "Of course not."
 
-"Ben je er klaar voor?"
+"Now!"
 
-Jambir knikte maar zei "natuurlijk niet".
+They both jumped to the higher branch, followed by sounds of breaking branches and crackling dead leaves. Dust, mud, and ripped leaves stung in Jambir's eyes. Was that the bird? Struggling and flapping their wings?
 
-"Nu!"
+He closed his eyes and held on with all he had.
 
-Samen sprongen ze naar de hogere tak. Het geluid van knakkende takken en knisperende bladeren volgde hen naar boven. Stof, modder, en stukjes blad vlogen in Jambirs ogen. Hij dacht dat het kwam door de vogel die flink de vleugels wapperde, dus hij sloot zijn ogen en hield vast met alles dat hij had.
+The branch disappeared from underneath him. He fell to the floor, though the impact was softened by a pile of leaves.
 
-Samen met Kesho viel hij een meter naar de grond, waar de val gelukkig werd verzacht door stapels bladeren.
+The bird pressed against his chest. But it still moved! Jambir panicked and threw the bird away, to which Kesho responded with a disappointed look.
 
-De vogel klemde in zijn armen, tegen zijn borstkas. Maar hij bewoog nog! Jambir gooide de vogel in paniek van zich af, wat hem op een teleurgestelde blik van Kesho kwam te staan.
+Until he realized it was no bird at all.
 
-Totdat hij zag dat het helemaal geen vogel was. 
+It was a piece of wood with a _drawing_ of a bird, realistic enough to fool Jambir. Blasted Asha Tribe with their creative inventions!
 
-Het was een stuk hout met een schildering van een vogel, realistisch genoeg om Jambir voor de gek te houden. Verdraaide Ashastam met hun creatieve verzinsels!
+"Really?" Jambir said, irritated. "A fake bird? I'm too weak for a real animal?"
 
-"Moest dat nou?" zei Jambir geïrriteerd. "Een nepvogel? Alsof ik te zwak ben voor een echt dier?"
+Kesho shrugged, a gesture that almost made him fall over. "It's a game. That's how you learn skills before you _really_ need them. You wouldn't throw somebody who has never touched water into a raging river, right?"
 
-Kesho schokschouderde. "Het is een spel. Dat is hoe je alles leert voordat het écht moet. Je gooit toch ook niet iemand die niet kan zwemmen zomaar in de rivier?"
+"I can think of many instances in which the jaguars did exactly that with a Gosti!"
 
-"Ik kan zo vijftig momenten noemen waarop de jaguars precies dat hebben gedaan met een Gosti!"
+"And how did that end?"
 
-"En hoe liep dat af?"
+Jambir fell silent.
 
-Jambir bleef stil.
+Kesho pushed the fake bird in his arms. "Congratulations, you caught your first bird. Next time, I place it on a higher branch."
 
-Kesho duwde de nepvogel in zijn armen. "Gefeliciteerd, je hebt je eerste vogel gevangen. De volgende keer zet ik hem een tak hoger."
+_Next time._ Slowly, both tribes realized they might be sharing this space for longer than they imagined. Some liked it, others still fought for a hole in the fence to walk through.
 
-_De volgende keer._ Langzaam begrepen zowel de Jagustam als de Ashastam dat ze wel eens flink langer in elkaars buurt konden blijven. Sommige vonden dat een pluspunt, andere een groot minpunt.
+"Thank you," Jambir said, looking away.
 
-"Dankjewel," zei Jambir zacht.
+"Well, it's not that hard to draw a bird and---"
 
-"Nou zo lastig is het ook weer niet om een vogel te tekenen en---"
+"For being a good friend." Jambir cried, fully turning away, as if afraid he'd be punished for showing emotion.
 
-"Dat je een goede vriend bent." Jambir huilde. Hij keerde zich weg, alsof hij bang was te worden gestraft voor het tonen van emotie. 
+"For as long as I can remember, I do nothing but work all day. Collecting food for the _thick fat king_. Do what they ask, get punished, you have no choice. Only because _they_ have food and _you don't_."
 
-"Al zolang ik kan herinneren doe ik niets anders dan werken de hele dag. Voedsel verzamelen voor de _dikke vette koning_. Alles wordt bestraft, je moet maar doen wat ze vragen, je hebt geen keus. Alleen maar omdat _zij_ eten hebben en ik niet."
+Kesho stepped closer, placing his only arm on Jambir's shoulder. "And now I teach you to hunt and survive, so you can free yourself of those chains."
 
-Kesho stapte dichterbij en legde zijn enige arm op Jambirs schouder. "En nu leer ik je jagen en overleven, zodat je het uiteindelijk allemaal zelf kan."
-
-"Je ziet toch hoe hopeloos ik ben. Ik ga echt _nooit_ jouw vaders spieren krijgen." Hij zag Kesho ineenkrimpen. "Of, eh, de jouwe natuurlijk. En hoe ga ik ooit indruk maken op Misha?"
+"I'm hopeless! I'll never have your dad's muscles!" Kesho cringed. "Or, erm, yours. And how will I ever impress Misha?"
 
 "_Misha_?"
 
-"Meisje. Ik zei meisje."
+"Maiden. I said maiden."
 
-"Alles is oefenen. Wij zijn alleen maar sterker omdat we veel bewegen elke dag, in plaats van op de grond liggen en anderen aansturen, zoals een of andere dikke vette koning ..."
+"Practice is all. We're only stronger because we move a lot and play a lot of games, as opposed to laying on the ground commanding others, like some fat king I once heard about ..."
 
-Jambir dacht hier even over na. "Niet alles is oefenen."
+Jambir thought about this. "Not everything is practice."
 
-"Hoezo?"
+"Why?"
 
-"Jij mist een arm. Alle oefening in de wereld gaat die arm niet terug groeien! En ik ... misschien zijn wij een andere soort Gosti dan jullie. Een net iets andere diersoort. Eentje die niet zo sterk _kan_ worden. We hebben dezelfde voorouder, maar zijn over tijd anders gegroeid."
+"You're missing an arm. All practice in the world will not grow it back! And I ... maybe we _are_ a different species of Gosti. One that _cannot_ become as strong. We have the same ancestor, but evolved in different ways."
 
-"Dus?"
+"So?"
 
-"Dus misschien is onderdaan-van-jaguars het beste dat ik kan bereiken."
+"So maybe _jaguar slave_ is the best I can achieve."
 
-Kesho's gezicht werd rood en hij sprak met ingehouden schreeuwen. "_Niemand_ zou onderdaan van een ander moeten zijn. Niemand zou afhankelijk moeten zijn van een ander, hoe ... zwak ze ook zijn. En daarom, beste Jambir, moeten we jouw plan doorzetten."
+Kesho's face flashed red as he spoke with barely contained screams. "_Nobody_ should be another creature's slave, however ... weak they may be. And that's why, Jambir, we must execute our plan---and quickly."
 
-"Je ... overweegt echt de Jagustam aan te vallen?"
+"You ... truly consider attacking the Jagu Tribe?"
 
-"Ik ga het noemen tegen mijn vader. Ik weet al hoe ik de stam moet overtuigen. Nog even volhouden. Dat lukt toch wel?"
+"I'll mention it to father. I know how to convince my tribe. Stay alive a little longer. Will you manage?"
 
-Jambir knikte met tegenzin.
+Jamber sighed and nodded.
 
-Ze passeerden de noordgrens, waar ze werden begroet door een jaguar en een rendier van de Ashastam die met elkaar kletsten. Verspreid over het kamp zaten gemengde groepjes met leden uit beide stammen. Ze praatten, maakten vuurtjes, en deelden eten. Alle kinderen hadden zich verzameld om een gigantisch spel verstoppertje te spelen.
+They passed through the northern border. A jaguar and a deer from Asha spoke to each other and greeted them. Mixed groups sat scattered across camp, talking, trying to magically make fire appear, or sharing food. All children participated in the largest game of hide and seek ever played thus far. The prince and princess also wanted to join the games, but were yelled at by the other jaguars, who explained that they were a useless waste of their time.
 
-Farshar stampte uit de bespreking met Jagu, witheet van woede. 
+Farshar pounded the earth as he fled Jagu's hut, white-hot with rage.
 
-Hij kwam rechtstreeks op Kesho af en trok hem bij zich.
+He made a beeline for Kesho and pulled his son close.
 
-"Waar is Misha? We vertrekken. Nu meteen, als het kan. Dan breken we zelf maar een paar hekken af."
+"Where is Misha? We're leaving. Now. We'll break those fences ourselves."
 
-"Nou, nou," zei Jagu, die moeite had om hem bij te benen. "Geen overhaaste beslissingen. En moet ik je herinneren aan wat wij doen als je onze hekken afbreekt?"
+"Calm, calm," Jagu said, struggling to keep up. "No rushed decisions. And must I remind you what we'll do if you break our fences? Our property?"
 
-"Misha? _Misha?!_"
+"Misha? _Misha?_"
 
-De hele Ashastam kwam in beweging. Murfa meldde dat ze op pad was gegaan om eten te verzamelen, zoals altijd, want hun eigen eten was op. Ook al was dat zinloos, want het hele gebied was kaalgeplukt. Zijn vrouw---Helera---voegde zich meteen bij de familie en schreeuwde de naam van haar dochter in alle andere richtingen.
+The entire Asha Tribe stirred. Murfa mentioned she left on her own to collect more food, like each day before, as their own food had run out. Even though it had been unsuccessful each time, for the entire area had been stripped bare. 
 
-"Ze is toch niet in haar eentje koppig gaan jagen?" bromde vader.
+Farshar's wife---Helera---joined the family and screamed her daughter's name in all directions.
 
-"Nee, nee, zo onverstandig is ze niet," probeerde Helera hem gerust te stellen.
+"The hotheaded girl went hunting on her own, I'm sure," father grumbled.
 
-De Asha splitste zich in vier groepen en liep naar alle hoeken van het territorium. Vloekend en schreeuwend begonnen ze de zoektocht naar Misha. Kesho wilde mee, maar had twintig pogingen nodig om zijn speer te pakken, waardoor iedereen al weg was en hij in zijn eentje erachteraan moest hollen.
+Helera comforted him. "No, no, she wouldn't be that foolish."  
 
-Jambirs hart sloeg op hol. Hij wilde meezoeken, maar meerdere jaguars duwden hem al terug op zijn plek, wat deze keer kopje onder in de ijskoude rivier betekende.
+The Asha split into four groups, searching north, west, south, east. They cursed and yelled to start their search for Misha. Kesho wanted to join, but needed twenty attempts to grab his spear, delaying him too much.
 
-Hij zag nog net hoe Jagu geniepig Kesho achtervolgde en staande hield.
+Jambir's heart nearly burst. He wanted to join too, but several jaguars already pushed him back in his place, which, this time, meant flying head first into the ice cold river.
+
+Last he saw was Jagu who sneaked after Kesho and then blocked his path.

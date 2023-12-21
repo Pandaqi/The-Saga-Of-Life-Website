@@ -1,170 +1,174 @@
 ---
-title: "2. De Jagustam"
+title: "2. The Jagu Tribe"
 weight: 2
 ---
 
-Jambir viel uitgeput op het gras. De Gosti was meteen in slaap gevallen, zelfs al was de grond hard en bezaaid met stenen, ware het niet dat een jaguar in zijn oor schreeuwde.
+A tired Jambir fell to the weeds. The Gosti would have fallen asleep instantly, even though the floor was hard and covered with sharp stones, if it weren't for a jaguar screaming in his ear.
 
-"Wat denk jij te doen? _Slapen_? Je hebt pas tachtig vissen gevangen vandaag!"
+"What do you think you're doing? _Sleeping_? You've barely caught eighty fish today!"
 
-"Meer dan genoeg voor de komende---"
+"More than enough for the next---"
 
-"Honderd vissen per dag. Dat is je taak."
+"A hundred fish each day. That's your job."
 
-"Maar---"
+"But---"
 
-"Anders krijg je nooit meer te eten!" 
+"Or you will never be fed again!"
 
-De jaguar liep weg. Hij _wist_ dat dit dreigement genoeg was om zijn slaafjes de wil op te leggen. Iedereen moest eten. En de enige manier waarop Jambir aan eten kwam, was als zijn jaguarbazen het aan hem gaven. Want als ze zagen dat je stiekem één van je honderd vissen opat tijdens het werk, dan veranderden ze jou in het volgende diner.
+The jaguar left. He _knew_ this threat was enough to make his little slaves do his bidding. All living things had to eat. And the only way for Jambir to eat, was by the grace of his jaguar masters who gave it to him. For if they saw you break the rules and secretly eat one of your hundred fish yourself, they'd turn _you_ into their next dinner.
 
-Jambir kon niet meer. Hij had al maandenlang elke dag gewerkt, van zonsopkomst tot zonsondergang. En waarvoor? Ze hadden al meer dan genoeg eten. De stam was groter dan de meeste, ja, maar ook niet belachelijk groot. En voor die hekken die ze bouwden hadden ze hout en steen nodig, geen vlees.
+Jambir was _exhausted_. He'd worked for months, each day, sunrise until sunset. And for what? They already had more than enough food. This tribe was larger than most, yes, but not excessively so. And the fences they built needed wood and stone, not meat.
 
-Hij liep nu langs die hekken, op weg naar de rivier. Hij hoopte maar dat zijn visnet in de tussentijd wonderen had verricht, want zijn armen waren te moe om vissen te grijpen die ook maar _enigszins_ tegenstribbelden. En gek genoeg stribbelden de meeste vissen tegen. Allemaal, zelfs. 
+He walked past those fences on his way to the river. He hoped his fishing net had performed miracles in the meantime, for his limbs were too tired to catch any fish who fought against him in the slightest. Strangely enough, most fish struggled when caught. All of them, even.
 
-Als hun leven aan een zijden draadje hing, nou, dan kon een baars of een snoek plotseling bijten als een jaguar.
+If their life was threatened, well, a pike or perch could suddenly bite like a jaguar.
 
-Hij had er nog nooit eentje zelf gevangen en slechts twee aan een scherpe speer weten te rijgen.
+He'd never actually caught one alive and only impaled two with his makeshift stick weapon.
 
-De zoveelste voorraad werd opgericht. Kleine hutjes van steen die volgens Jambir bij de eerste de beste storm naar een ander continent zouden worden geblazen. Maar dat maakte niet uit. Alle aandacht ging naar het belangrijkste onderdeel: de magie die ervoor zorgde dat eten voorgoed kon worden bewaard.
+The umpteenth storage hut was being built. Small stone rooms that, according to Jambir, would blow to the next continent at the slightest gust of wind. But it didn't matter. All their attention was on the most important element: the magic that ensured the meat didn't spoil and could be stored _forever_.
 
-Natuurlijk wilden de Jaguars verder niks erover kwijt. 
+The jaguars, of course, refused to reveal that secret.
 
-Jambir schuifelde naar de bouwvakkers---andere Gosti die als onderdanen werden ingezet---en probeerde te zien wat ze deden. Een glimp op te vangen van hoe de magie werkte of hoe ze het in de muren stopten. Maar zelfs in deze half-afgewerkte voorraad werd al eten gestopt en bewaakt door nors kijkende jaguars.
+Jambir shuffled towards the workers---other Gosti that were no more than slaves---and tried to see what they did. Catch a glimpse of the magic and how it was seemingly put _into_ the walls. But even this half-finished storage was already used for piles of meat and guarded by angry jaguars.
 
-Hoewel ...
+Although ...
 
-Jambir zag nu pas dat ze ook een _vloer_ maakten voor de hutjes. Slechts een paar stapels eten stonden erop. Daardoor vonden zijn ogen het glimmende lichtje dat erin was verwerkt, als een edelsteen die uit zichzelf fonkelde.
+They also made a _floor_ for the hut. Why? It didn't contain enough meat yet to cover it, which allowed Jambir's eyes to find a small shimmering light inside the floor, like a gemstone that held a star.
 
-Hij stapte dichterbij, maar een jaguar duwde hem hardhandig terug. 
+He stepped closer. The jaguar pushed him back violently.
 
-"De rivier is daar, dombo."
+"The river is there, idiot."
 
-"Oh, ja, nee, goh, wat dom van mij." 
+"Oh, yes, sure, well, yes, what a mistake!"
 
-Jambir verontschuldigde zich honderd keer en schuifelde met hangende schouders naar de rivier. Maar het beeld van die magische fonkeling ging niet meer uit zijn hoofd.
+He apologized profusely and shuffled to the river with slumped shoulders. But that image of the gemstone never left his thoughts.
 
-Die magie moest kapot.
+That magic had to _die_.
 
-Als ze geen eten meer konden opslaan, was het zinloos om te vragen om honderd vissen per dag. Sowieso hadden ze bijna het hele gebied leeggeroofd. Ze moesten hun territorium steeds verder uitbreiden. Nog erger, Jambir moest steeds verder de rivier in stappen om vissen te vangen, en inmiddels moest hij bijna kopje onder.
+If they couldn't store that food anymore, it was useless to force Gosti to catch a _hundred_ fish each day. They'd almost destroyed the entire area anyway. They had to move or expand their territory, like, well, _everyone else_. Instead, Jambir had to travel further and further into the river to catch fish, to the point he almost drowned once.
 
-Zover kwam het deze keer niet. Zodra zijn trillende poten het ijskoude water voelden, hoorde hij voetstappen. Hij keek op en zag silhouetten van andere Gosti in de verte. Ver in de verte.
+Not this time. As soon as his tired legs felt the ice cold water, the sound of footsteps reached him. He looked up and noticed Gosti silhouettes in the distance. 
 
-Hij keerde zich naar de Gosti van zijn eigen stam, die vlakbij visten. 
+He turned to the other Gosti fishing near him.
 
-"Herkennen jullie die?"
+"Do you recognize that?"
 
-"Dat is een _boom_, Jambir."
+"That is a _tree_, Jambir."
 
-"Nee, dat silhouet _ernaast_."
+"No, the silhouette next to it."
 
-Ze reageerden niet eens meer. Ze waren te uitgeput van al het werk---of ze gaven er niks meer om. Jambir wist het zeker: die silhouetten renden buiten het territorium en kwamen niet bekend voor.
+No response. Too tired from work, he guessed, or too angry to care. Jambir was sure though: those silhouettes ran outside of their territory and didn't look familiar.
 
-Hij werd enthousiast. Dat kon natuurlijk ook! Als een andere stam deze plek zou aanvallen en de jaguars verslaan, dan zou hij eindelijk weer vrij zijn!
+Hope blossomed. That was another option! If another tribe would attack and kill the jaguars, they'd finally be free!
 
-Tenzij ... die andere nóg erger waren.
+Unless ... the others were even _worse_.
 
-Nee, hij kon het zich niet voorstellen. Hij kon zich alleen voorstellen hoe prachtig het leven zou zijn als hij weer vrijheid had en misschien een leuk meisjesspookje ontmoette.
+No, he couldn't imagine it. He could only imagine how beautiful life would be once he had freedom and perhaps met a nice female Gosti with whom to spend that freedom.
 
-Hij verzamelde zijn laatste beetje energie en rende langs de rivier, náár de silhouetten toe. Die vonden het waarschijnlijk verdacht, want ze trokken snel terug het bos in. Jambir volgde, hoewel het véél moeilijker was om iemand op te sporen in een dichtbegroeid bos. Hij wist dat zijn voorouders graag in bomen klommen en daar veilig zaten voor gevaar, maar hij had het zelf nooit gedaan en kon er niks van. Bovendien was het verboden door zijn bazen.
+With his final bout of energy, he ran along the river to meet the silhouettes. It probably scared them off, as they sought cover inside the forest. Jambir followed, though it was much harder to track somebody in an overgrown area. He knew his ancestors liked climbing trees and evading danger there, but he'd never done it himself and didn't think he even _could_.
 
-Een jaguar rende langs hem. De koning van het kamp.
+A jaguar ran past him.
 
-Even later renden zijn twee kinderen---de prins en prinses---langs Jambir aan beide kanten. Ze leken beide sprekend op de koning, maar hadden bijzondere afwijkingen. De prins had veel kortere poten en en snuit die eruitzag alsof hij was ingedeukt. De prinses had vlekken in haar vacht waar geen haar groeide en haar ene oog was flink kleiner dan de andere.
+No, the _king_ of his tribe!
 
-Maar als je ook maar _iets_ hardop zei over deze afwijkingen ... tja, je kon wel raden wat de straf zou zijn van de koning.
+Shortly after, his two children---prince and princess---also passed Jambir on both sides. They both looked identical to their king, but had noticeable defects. The prince had much shorter legs and a flat, dented snout. The princess' fur had black splotches that refused to grow hairs, and her left eye was much smaller than the other.
 
-Jambir probeerde de koningskinderen bij te houden. 
+But if you said _any_ of this out loud near the king ... well, you guessed it: you were their next dinner.
 
-"Wat is er aan de hand? Waar gaan jullie heen?"
+Jambir tried to keep up with them. "What's wrong? Where are you going?"
 
-"Indringers!" zei de prins enthousiast, alsof hij hier al zijn hele leven van droomde. "Gratis voedsel heeft zich verzameld aan onze noordgrens!"
+"Intruders!" the prince yelled enthusiastically, as if he'd waited his whole life for this moment. "Free food is gathering at our northern borders!"
 
-De prinses keek verbaasd. "We dachten dat jij kwam helpen. Waarom ren je anders deze kant op?"
+The princess frowned. "We thought you came to help. Why are you running this way otherwise?"
 
-"Ja, nee, om te helpen, ja," zei Jambir zo luid dat zijn stem door het hele bos echode. "Ik kom naar de NOORDGRENS om te VECHTEN tegen de INDRINGERS!"
+"Yeah, sure, to help," Jambir said, loud enough to cause an echo through the entire forest. "I am running to the NORTHEN BORDER to FIGHT the INTRUDERS!"
 
-"Houd je mond, idioot!"
+"Shut up, idiot!"
 
-"We zijn ongeveer TWINTIG BOOMLENGTES verwijderd van---"
+"Seems to me are about TWENTY TREE LENGTHS away from---"
 
-De prins kraste in zijn gezicht. Jambir sloeg achterover, deels door de klap, deels van de pijn. De prins en prinses renden verder en lieten hem achter in een stofwolk, terwijl bloed over zijn gezicht stroomde.
+The prince scratched his face. Jambir fell backwards due to the hit and the immense pain. The prince and princess ran off and left him behind to deal with the blood streaming across his face.
 
-Tegen de tijd dat hij de noordgrens had bereikt, stuitte hij op Gosti bewapend met pijl en boog. 
+Once he finally reached the northern border, he found a Gosti armed with bow and arrow.
 
-_Hun wapens en gereedschappen, beste lezer, stelden nog maar weinig voor. De bogen gingen snel kapot en schoten niet ver. De pijlen konden nauwelijks écht scherp worden. Maar het was nog altijd sterker dan géén wapen._
+_Their weapons and tools, dear reader, didn't look like much yet. Their bows could not reach far and broke at the slightest usage. Their arrows weren't sharp enough to do real damage. But it was always better than no weapon._
 
-Alle pijlen waren gericht op de drie indringers, waarschijnlijk een familie, die angstig om hun as draaiden.
+"Don't shoot!" Jambir yelled.
 
-"Niet schieten!" riep Jambir.
+They shot.
 
-Ze schoten. 
+Perhaps it was his scream, perhaps they never intended to truly hit the intruders, but their arrows flew off course and became warning shots.
 
-Jambir wist niet of het zijn schreeuw was die hen afleidde, of dat ze sowieso niet van plan waren om écht te schieten. De pijlen vlogen links en rechts in bomen en de grond als waarschuwingsschoten. Waarschijnlijk wisten de jaguars het zelf ook niet.
+The other Gosti pushed their spears forward. Especially the largest, probably their father, was muscular enough to make the king think twice about attacking. Sure, his king saw Gosti as slaves, but the only Gosti in their camp were much smaller, weaker, and not even able to hold a spear. 
 
-De andere Gosti staken hun speren vooruit. Zeker de grootste, de vader van het stel, was gespierd genoeg om de koning twee keer te laten nadenken. Zijn koning zag Gosti als slaafjes, maar de enige Gosti die in het kamp leefden waren klein, zwak, en zeker niet in staat een speer vast te houden. Dit leek wel een andere diersoort!
+These Gosti almost seemed a different species entirely!
 
-"Wie zijn jullie?" vroeg hij uiteindelijk.
+"Who are you?" the king eventually asked.
 
-"Wij zijn de Ashastam," zei de grootste langzaam. "Mijn naam is Farshar. Dit zijn mijn zoon en dochter. We komen in vrede."
+"We are the Asha Tribe," the largest said. "My name is Farshar. These are my son and daughter. We come in peace."
 
-"Wij zijn de Jagustam, ik ben koning Jagu ... en jullie zijn indringers op ons terrein," zei hij.
+"We are the Jagu Tribe, I am king Jagu ... and you are intruders in our territory."
 
-"Het land is van niemand," zei Farshar resoluut.
+"The land belongs to nobody," Farshar said decisively.
 
-"Leg je speren weg."
+"Put your spears away."
 
-"Leg jullie bogen weg."
+"Put your bows away."
 
-Jagu keek vragend naar zijn kinderen. De prins schudde zijn hoofd, maar de prinses knikte. 
+Jagu looked at his children. The prince shook his head, but the princess vigorously nodded.
 
-"Heb ik ook niks aan," mopperde hij.
+"Useless," the king complained.
 
-"Het zijn Gosti," zei Jambir snel. "Die zijn slim. We kunnen van elkaar leren! Kijk dan hoe sterk ze---"
+"They are Gosti," Jambir said. "They are smart. We can learn from each other's ways! Look how strong they---"
 
-"Ja joh, super geloofwaardig uit de mond _van een Gosti_," zei de prins. Zonder te kijken kraste hij Jambir nog eens in het gezicht, waarna hij jammerend afstand nam van de koninklijke familie.
+"Yes, yes, very believable from the mouth of a _a Gosti_," the prince said. Without looking, he scratched Jambir's face again.
 
-De koning keek zuur naar zijn zoon. "Gedraag je!"
+The king had only furious eyes for his son. "Behave yourself!"
 
-De roodgele jaguar stapte verder naar voren. Hij stelde zich kwetsbaar op: één goede worp met hun speer en ze zouden hem doden. Iedereen hield hun adem in. Farshar en de koning bekeken elkaar van top tot teen. Ze maakten een berekening in hun hoofd, een afweging tussen goed en kwaad.
+The red and yellow jaguar stepped forward. He made himself vulnerable: one good throw with their spears and they'd kill him.
 
-"We kunnen eten uitwisselen," zei Farshar, "technieken en kennis. Wij trekken over een paar dagen toch weer verder en je hebt geen last meer van ons."
+All held their breath. Farshar and the king studied each other, from top, to bottom, and back again. They made a calculation in their head, a balancing of good and evil.
 
-Zijn zoon en dochter waren bijgekomen van de schrik en leken nu vooral ... boos op hun vader? Zijn zoon stampte ongeduldig zijn poot en zijn dochter kneep de hendel van haar mand fijn. Maar zelfs met haar woedende gezicht, wist Jambir meteen dat hij haar knap vond.
+"We can exchange food," Farshar said, "and knowledge, and techniques. We'll continue traveling north in a few days anyway, so you won't have to suffer us long."
 
-"Met hoeveel zijn jullie?" vroeg de jaguar.
+His son and daughter had recovered from the attack. They seemed ... angry at their father? 
 
-Farshar pauzeerde even. "Dat wisselt. Niet veel, niet weinig."
+His son impatiently tapped his foot, while his daughter squeezed her basket's handle. Despite her wild and furious eyes, Jambir immediately felt a tug of love and desire, realizing he found her attractive.
 
-De koning gromde bij dit antwoord. Het was niet was om je precieze aantal aan een vreemdeling te vertellen, dat begreep hij ook. Hij keek naar Jambir, die vooral oog had voor Misha, en op het punt stond nogmaals te herhalen dat Gosti slim waren.
+"With how many are how you?" the jaguar asked.
 
-Farshar liet zijn speer zakken.
+Farshar paused. "It depends. Not few, not many."
 
-"Leg de bogen weg," zei Jagu over zijn schouder. "De Jagustam verwelkomt de Ashastam. Laten we enkele dagen samen doorbrengen om zoveel mogelijk van elkaar te leren en te delen. Zodat beide stammen sterker de toekomst in kunnen gaan!" 
+The king grumbled in response. It wasn't wise to give away your precise numbers to a stranger, he understood that. He also studied Jambir. Who was still infatuated with Misha and about to launch another speech about how clever Gosti were.
 
-Alle dieren aan de noordgrens lieten tegelijkertijd een zucht ontsnappen. Hun hart klopte weer op normale snelheid.
+Farshar lowered his spear.
 
-"Misha," zei Farshar vermoeid, "ga terug en haal de rest van de stam."
+"Put away the bows," Jagu said over his shoulder. "The Jagu Tribe welcomes the Asha Tribe. Let's spend a few days together and try to share as much as possible. So that both tribes may enter the future with more confidence!"
 
-"Oh? Ja? Mag ik dat? Het zijn anders wel _bewegende_ wezens en---"
+All released the breath they were holding and felt their heartbeat slow down.
 
-"Misha! Gedraag je! Kesho, met mij mee."
+"Misha." Farshar's voice was tired. "Go back and pick up the other members."
 
-Jagu glimlachte. "Ah. Kinderen. Bij alle diersoorten hetzelfde, of niet?"
+"Oh? Hmm? Am I _allowed_ to do that? The other members are _moving_ creatures and---"
 
-Farshar glimlachte en tikte zijn kinderen zachtjes op de bol.
+"Misha! Behave yourself. Kesho, with me."
 
-Samen liepen ze als eerste terug het territorium in. Ze begonnen met overdreven blije en luide uitspraken zoals "wat heb je een prachtig kamp" en "laten we een feestmaal organiseren" en "nee die kleur rood staat echt heel mooi bij de bomen", maar gingen al snel over naar gefluister. 
+Jagu smiled. "Ah. Children. They're the same for all species, aren't they?"
 
-Eenmaal in het kamp zonderden ze zich meteen af. 
+Farshar smiled and patted both his children on the head.
 
-Jambir greep het moment om Kesho aan te spreken.
+Together they walked back to the heart of the territory. They started with unnecessarily loud statements such as "what a beautiful camp" and "let's organize a feast" and "no that color red _does_ look great with the shade of the trees"---but the conversation soon turned to whispers.
 
-"Heel leuk allemaal," fluisterde hij. "Maar met hoeveel zijn jullie echt?"
+Once inside the camp, Jagu and Farshar immediately split off.
 
-"Stuk of---nee, dat zeg ik niet."
+Jambir seized the moment to talk to Kesho.
 
-Jambir rolde zijn ogen. "Ik heb maar één vraag: zijn het er genoeg om de jaguars aan te vallen en te verslaan?"
+"All well and good," he whispered. "But with how many are you really?"
 
-Kesho versteende, maar reageerde meteen, alsof hij dit ook al had uitgerekend. Een lichte glimlach verscheen. 
+"About---no, wait, I'm not saying!"
 
-"Ik denk het wel."
+Jambir rolled his eyes. "I have only one question: do you have enough to attack and _defeat_ the jaguars?"
+
+Kesho turned to stone. His response, however, was immediate and calculated, accompanied by a slight smile.
+
+"I think so."

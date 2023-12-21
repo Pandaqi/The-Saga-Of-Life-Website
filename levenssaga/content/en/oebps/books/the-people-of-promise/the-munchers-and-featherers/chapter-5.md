@@ -1,112 +1,118 @@
 ---
-title: "5. Voedseltralies"
+title: "5. Food Prison"
 weight: 5
 ---
 
-Kesho schrok van een jaguarpoot op zijn schouder.
+Kesho jumped at the jaguar paw resting on his shoulder.
 
-"Wat vervelend van je zus," zei de koning. "Ik hoop dat ze snel terecht is."
+"Awful, just awful," the king said. "Let's hope your sister is found soon."
 
-Hij had ongelofelijk veel zin om die koning in zijn gezicht te meppen met zijn speer, maar hield zich nog net in.
+Oh, how he wanted to hit Jagu in the head with his spear. He restrained himself.
 
-"Vervelend inderdaad," zei hij met tanden geklemd. "Helpt u mee met zoeken?"
+"Awful indeed," he said with clenched jaw. "Will you join the search?"
 
-"Ik doe wat ik kan." 
+"I do what I can."
 
-Kesho wist niet wat dat betekende. Jagu bleef meelopen, ongeacht welke richting Kesho koos. 
+Kesho did not know what that meant. Jagu did not leave his side, no matter which direction Kesho chose.
 
-"Vertel mij, Kislo---"
+"Tell me, Kislo---"
 
 "Kesho."
 
-"Hoe denkt jouw vader over ons? Zijn ze van plan om samen te werken?"
+"What does your father think of us? Is he prepared to cooperate?"
 
-Kesho fronste. Jagu stuurde hun pad steeds meer, richting de voedselvoorraden. 
+Kesho frowned. Jagu steered their path more and more, aiming for the food storages.
 
-"We werken toch al samen?"
+"Aren't we ... already cooperating?"
 
-Jagu schudde zijn hoofd en keek bedroefd. "Ik merk vijandigheid. Ik merk dat jullie zo snel mogelijk door willen. Terwijl het hier zo goed is! Vind je niet, Karsto?"
+Jagu shook his head. His voice was tinted with sadness. "I sense hostility. I sense your eagerness to leave. While we provide everything! It's good here, don't you think, Karsto?"
 
-Ze pauzeerden voor de voedselvoorraad, waar opnieuw iets in werd gegooid door een groep Gosti. Terwijl de Ashastam in rep en roer was om de verdwijning van Misha, werkte de Jagustam door alsof er niks aan de hand was. Misschien verdwenen hier zo vaak dieren.
+They paused next to the huts. Even more meat was thrown into them by a group of Gosti. While the Asha Tribe had raised the alarm due to Misha's disappearance, the Jagu Tribe pretended nothing was wrong. Perhaps missing creatures was the default here.
 
-Kesho watertandde. Zoveel eten. Jarenlang niks hoeven doen, niet hoeven jagen, veilig zijn. 
+Kesho salivated. So much food. Years of comfort and safety. No need to hunt. No need to be reminded how weak and useless he was without both arms.
 
-En dan ook nog die magie waarover Jambir sprak. Kesho zocht naar het fonkelende lichtje, maar als het er was, dan was het nu bedolven onder ladingen vissenvlees.
+And then there was Jambir's talk of magic. Kesho searched for the sparkling gemstone, but if it was there, it was now covered by too much food.
 
-"Het is hier ... prima."
+"It's ... fine here."
 
-"Prima?"
+"_Fine_?"
 
-"Best goed, denk ik," vulde Kesho snel aan. "Ik bedoel, zijn jullie ooit aangevallen? Is er ooit een wild dier binnengedrongen?"
+"Fine and nice," Kesho added. "I mean, have you ever been attacked? Has any wild animal ever breached your borders?"
 
-Jagu glimlachte. "Nee. Zoveel moordlustige stammen en dieren, maar wij zitten hier veilig."
+Jagu smiled. "No. So many murderous tribes and animals, yet we are safe here like a mother's womb."
 
-"En jagen dan? Heeft u ooit moeten jagen?"
+"And hunting? Have you ever needed to hunt?"
 
-"Eens in de zoveel tijd. Ik probeer in vorm te blijven, snap je."
+"Oh, once in a while. I try to stay in shape, you see."
 
-Daar snapte Kesho niks van.
+Kesho did not see it.
 
-"Mijn kinderen, daarentegen, hebben nooit gejaagd. En het plan is dat geen van onze kinderen dat ooit nog hoeft te doen."
+"My children, however, have never hunted. And the plan is to make sure _none_ of our children ever have to do so again."
 
-Hij bestudeerde de prins en prinses. De prins kon niet anders dan scheef en langzaam lopen met zijn kleine poten. De prinses leek slecht zicht te hebben door haar miniscule rechteroog, afgaand op hoe vaak ze een Gosti omver stootte. Of misschien was dat ook wel normaal.
+He studied Jagu's children. The prince couldn't walk straight, or fast, with his short legs. The princess had terrible sight due to her tiny eye, judging by how often she bumped into Gosti or buildings. Or maybe that was also the default here.
 
-Als zelfs zij een luizenleven konden hebben, waarom Kesho dan niet?
+If even _they_ could have a comfortable life---the life of _kings_---why not Kesho?
 
-Hij vertelde zijn gedachten hardop, voordat hij zichzelf kon stoppen. "Uw kinderen zijn inderdaad zwak, net zoals ik. Ik herken hun problemen."
+Before he could stop himself, He spoke his thoughts out loud. "Your children are weak indeed, just like me. I recognize their struggles."
 
-Jagu's kop draaide meteen naar hem toe. Zijn zwarte ogen keken op hem neer.
+Jagu's head swiveled frighteningly fast. His dark eyes looked down on him.
 
-Kesho stapte achteruit, maar één pas van Jagu was genoeg voor tien van hem.
+Kesho stepped back, but one step from Jagu covered ten steps of his own.
 
-"Ik bedoel, eh, natuurlijk, dat het fijn is om te zien dat je achter je kinderen staat!"
+"I, erm, obviously mean that it's nice to hear you support your children!"
 
-Jagu gromde en kraste zijn nagels in de muren van de voedselvoorraad.
+Jagu grumbled. His sharp nails scratched the walls of the storages.
 
-"Ik moet wel," bromde hij. "Zij moeten weer kinderen krijgen met elkaar om de stam in leven te houden."
+"I have to," he grunted. "They are supposed to bear children together to keep the tribe alive and well."
 
-Met ... met elkaar? Kesho dacht een hartslag aan kinderen krijgen met zijn zus Misha en kreeg rillingen over zijn hele lijf.
+With ... with each other? Kesho thought about getting a child with his own sister Misha, for only a heartbeat, which sent shivers through his body.
 
-_Het is waar, beste lezer. Omdat deze jaguars al jarenlang op dezelfde plek bleven, kwamen ze nooit nieuwe jaguars tegen. Ze kregen kinderen met hun eigen familie, waardoor elk kleine foutje in hun DNA steeds erger en groter werd. En foutjes in je DNA kunnen goed zijn, maar meestal leiden ze tot afwijkingen of ziektes._
+_It is true, dear reader. Because these jaguars stayed in the same place forever, they never met other jaguars. They only had each other, brothers and sisters bearing children to continue the family legacy. This meant that every mistake in their DNA was made worse with every child. Because both brother and sister had the same mistake in their blood---so now their child had it twice! And yes, sometimes mistakes in your DNA can be good, but they often lead to defects and illnesses._
 
-Jagu tikte Kesho zachtjes in zijn rug. 
+Jagu softly patted Kesho on the back. 
 
-"Toe maar, neem wat uit de voorraad. Als jouw stam met ons samenwerkt, zonder vijandigheid of wantrouwen, beloven we dat je nooit meer zonder eten zit. Ook jij---eenarmige Karno---kan leven als een prins."
+"Go on. Take from the storage. If your tribe cooperates, without hostility or distrust, we promise you will never be hungry again. Even you---one-armed Karno---could live like a king."
 
-Kesho hinkte op twee gedachten. Alles voelde raar aan deze stam. Hij werd al onrustig bij het idee van altijd op dezelfde plek blijven.
+Two thoughts fought each other. Everything about this tribe was _weird_. The _idea_ of staying in the same place forever already made him restless.
 
-Maar de voedselvoorraden trokken hem aan. De beloftes leken oprecht. In Jambir had hij een fijne vriend, en bij de _Indus_ rivier konden ze goed leven.
+Yet the food storages drew him in. The promises seemed honest. Jambir was already a good friend, and the _Indus_ river was a great place to live.
 
-"Ik zal met mijn vader praten," zei hij. Jagu hield hem nog een lange tijd bij zich en vertelde over de geschiedenis van de Jagustam. Daarna rende Kesho het boos in, afgaand op de schreeuwende stemmen van zijn ouders in paniek.
+"I will speak to father," he said. Jagu kept him a while longer, explaining the history of the Jagu tribe and way too many anecdotes about his dear prince and princess. 
+
+Then Kesho ran into the forest, finding his tribe by the sound of their panicked voices.
 
 ---
 
-Jambir had Kesho en Jagu de hele tijd gevolgd. In de schaduwen, verstopt, klaar om in te grijpen als Jagu hem iets wilde aandoen.
+Jambir had followed Kesho and Jagu all this time. In the shadows, hidden, ready to interfere if anything happened.
 
-Hij was net zo verbaasd als Kesho dat het een gesprek was en verder niks. Hield Kesho hem aan het lijntje? Werkten de Asha en de Jagu allang samen? _Geduld_, vertelde hij zichzelf. Hij kon nog wel even gebukt gaan onder werk, hij kon nog wel even wachten, als hij uiteindelijk maar met Misha ergens in vrijheid kon leven.
+To his surprise, it was just a conversation and nothing else. Was Kesho betraying him? Were the Asha and Jagu already the best of friends? 
 
-Hij kon vooral niet stilzitten met zijn gedachten nu Misha nog steeds werd vermist.
+_Patience,_ he told himself. He could work a little longer, he could wait a little longer, if it meant a future in freedom with Misha at some point.
 
-Toen Jagu plotseling omdraaide en hem recht in de ogen aankeek, was Jambir dan ook niet voorbereid. Zijn lichaam sloeg meteen stijf van spanning. 
+But he could not wait and sit around while Misha was still _missing_.
 
-Hij dook weg om zijn taken voor vandaag nog razendsnel uit te voeren. Deze keer bestond dat uit het verstevigen en verhogen van een stuk hek aan de andere kant. Alleen de meest betrouwbare Gosti mochten in de bomen klimmen, zodat ze aan de andere kant van het territorium eten konden verzamelen, of de bovenkant van het hek konden maken. 
+He ran away to the place they were expecting him. Today his tasks involved raising a fence on the other side and strengthening its base. Only the most trusted Gosti were trained---and allowed---to _climb_ the trees so they could collect food on the other side or repair fences from above.
 
-Jambir was, vanzelfsprekend, geen betrouwbare Gosti en mocht alleen hout en stenen aanslepen aan de onderkant. Het zware werk. Het ondankbare werk.
+Jambir was, obviously, not a trusted Gosti. He could only carry piles of wood and stone. The hard work. The ungrateful job.
 
-Natuurlijk gaven de jaguars geen uitleg, maar voor Jambir was het overduidelijk. Ze waren niet van plan om de Ashastam er ooit langs te laten. Maar waarom? Wat was het nut van een hele stam vasthouden? Nu gingen de voorraden sneller leeg, ze hadden alle kennis al uitgewisseld, nu---
+To him, the intent of the jaguars was clear as day. They were _never_ going to let the Asha Tribe past. They made it even harder to get past their fences. But _why_? Why keep an entire tribe hostage? Now the storages would deplete more quickly, while any knowledge had already been shared, and---
 
-Het antwoord werd overduidelijk toen hij een bekend figuur aan de _andere_ kant van het hek zag.
+The answer became obvious when he saw a familiar figure on the _other_ side of the fence.
 
-Misha. Lieve Misha.
+Misha. Lovely Misha.
 
-Ze was vastgeketend en werkte tussen alle andere Gosti, alsof ze er altijd al thuishoorde. De jaguars schreeuwden commando's en zij voerde ze uit. Ze had grote wonden over haar lichaam en haar ogen spuwden vuur.
+She was chained and put to work amidst the other Gosti, as if she'd always belonged there. The jaguars yelled commands and she executed them. Her body was covered with wounds and blood, while her eyes spit fire.
 
-De "betrouwbare Gosti" keken tevreden toe, van bovenaf, bijna verlekkerd. Jambir vond hun blik enorm lijken op een hongerig roofdier dat een lekker stuk vlees zag. Maar ze waren natuurlijk niet van plan om Misha op te eten. De Jagustam bestond uit veel kwaads, maar geen kannibalen.
+Those "trusted Gosti" looked down on her, satisfied, licking their lips. Their faces resembled that of a hungry predator spotting some tasty meat. 
 
-Nee, het was duidelijk nu. De jaguars waren van plan om Misha te gebruiken om meer Gosti kinderen te krijgen, die ze weer als slaafjes konden inzetten. Ze hadden de Ashastam "gevangen" zodat hun leden, op den duur, de Jagustam werden en vers bloed brachten.
+Surely they didn't intend to eat her. His tribe was a collection of evil and stupidity, but he had never seen proof they were _cannibals_.
 
-Misha keek op en zag Jambir door de gaten van het onafgemaakte hek. Haar ogen smeekten om iets. Haar lippen zeiden iets zonder geluid te maken.
+No, it was clear now. The jaguars intended to use Misha to bear children with the other Gosti. To continue their families of slaves with new DNA that prevented those defects in the prince and princess.
 
-_Moet werken, zeiden ze, krijg anders geen eten meer._
+They had captured the Asha Tribe so that their members, in time, would _become_ the Jagu Tribe and provide fresh blood.
 
-Er knapte iets in Jambir. Hij greep een steen en smeet hem in het gezicht van de jaguar die op de wacht stond.
+Misha looked up. She saw Jambir through the irregular, small holes in the unfinished fence. Her eyes begged for something. Her lips moved without making a sound.
+
+_Must work, they said, otherwise never food anymore._
+
+Something inside Jambir broke. He grabbed a large stone and threw it at the face of the jaguar guard, killing him on impact.

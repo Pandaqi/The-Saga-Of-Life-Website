@@ -1,130 +1,132 @@
 ---
-title: "3. Vuren van Muziek"
+title: "3. Songs of Fire"
 weight: 3
 ---
 
-Kesho kreeg een rondleiding van Jambir waarom hij niet had gevraagd. Zijn frustratie groeide toen hij merkte dat hij de Jagustam steeds minder stom vond. In eerste instantie wilde hij aanvallen of vluchten, toen sprak hij met Jambir over mogelijke plannen om de jaguars weg te ruimen, en nu klaagde hij vooral over hoe ... raar de Jagustam was.
+Kesho hadn't asked Jambir to give a tour of the camp, but he received one anyway. His frustration grew when he noticed he didn't actually hate the Jagu Tribe. First he wanted to attack or flee, then he discussed potential plans with Jambir to attack the jaguars, and now he mostly complained about how ... _weird_ they were.
 
-De Ashastam bestond uit allerlei verschillende diersoorten. Deze stam bestond uit niets dan _jaguars_, terwijl Gosti werden gebruikt als bedienden.
+The Asha Tribe had a collection of different species. The Jagu Tribe only had _jaguars_, using Gosti as their servants.
 
-De Ashastam trok rond naar waar het voedsel was. Ze hadden nauwelijks spullen en bouwden bijna nooit hutjes. De Jagustam bleef al lange tijd op dezelfde plek, dus hadden ze alles volgebouwd en de hele _Indus_ vol visnetten gegooid.
+The Asha Tribe roamed and searched places where food was available. They barely had possessions and rarely built structures. The Jagu Tribe, however, had been in this exact place for a _long_ time now. They'd built structures everywhere and clogged the _Indus_ river with fishing nets.
 
-Langzaam druppelde de rest van de Ashastam binnen. Het werd steeds duidelijker dat ze geen _keus_ hadden. De Jagustam had zoveel gebied afgezet en ingenomen dat ze nog geen manier zagen om erlangs te lopen. 
+The other members of the Asha Tribe slowly arrived. It became increasingly clear that they had no _choice_. The Jagu Tribe had conquered so much territory, and then walled it off with fences, that they could not go around them.
 
-Zij waren net door de noordgrens gekomen. De westgrens eindigde bij de brede rivier en hekken, terwijl de zuidgrens nóg meer hekken had. Zijn vader probeerde nu een weg te vinden door het dichte bos aan de oostgrens, maar hij had het eigenlijk al afgewezen: het was té ver van vers water en dat was te gevaarlijk.
+They had arrived through the northern border. The western border stopped at the wide river, while the southern border had the highest fences of all. His father was now searching for a way through the thick forest near the eastern border, but really gave it no chance: it was too far away from fresh water.
 
-Elk lid van de Ashastam keek argwanend naar de jaguars bij binnenkomst. Die keken net zo argwanend terug, hoeveel moeite koning Jagu ook deed om iedereen hartelijk te verwelkomen en thuis te laten voelen.
+Each Asha member eyed the jaguars with distrust upon entry. They looked back with equal distrust, no matter how much effort Jagu put into welcoming everybody with a smile and kind words.
 
-Ook zoiets. Zij hadden een _koning_. Het duurde een hele dag voordat Jagu begreep dat de Ashastam geen leider had en dat Farshar het dus ook niet was. En zelfs daarna vond hij het maar vreemd en bleef Farshar "koning" noemen.
+Another oddity: they had a _king_. It took an entire day before Jagu understood that the Asha did not have a leader and hence Farshar wasn't it. Even then, he found it confusing and kept calling Farshar "king of Asha".
 
-Veel leden van de Asha droegen nog steeds een losse dierenhuid als kleding, zelfs nu het geen ijstijd meer was. Ook had elk lid een verzameling veren en tanden die ze altijd mee hadden, als ketting, armband of hoofdtooi. Kesho's stam was een kleurrijke verschijning waarin iedereen er anders uitzag---en het stak lelijk af tegen de Jagustam die niks van dat alles had.
+Many Asha members still wore loose animal skin as clothing, despite the end of the ice age. Additionally, all members carried a selection of feathers and animal teeth which they wore as necklaces, bracelets or headdresses. His tribe was a colorful appearance in which all looked unique and diverse---which contrasted in the ugliest of ways with the Jagu Tribe which had none of that.
 
-De enige "cultuur" die Kesho kon ontdekken was dat de jaguars de hele dag lang op iets zaten te kauwen. Alsof ze zouden sterven als hun kaken eventjes stil waren.
+The only "culture" he could discover was that the jaguars were chewing on _something_ all day. As if they'd die if their jaws ever stopped moving.
 
-Zodra de avond viel was Jambirs rondleiding nog steeds bezig en hadden ze de voedselvoorraden bereikt.
+When night fell, Jambir still wasn't done with his tour and led him to the food storages.
 
-"Hier slaan we alles op. Die andere vijftien zitten al helemaal vol, maar deze ..." Bij de openstaande voorraad werd op dat moment eten naar binnen gegooid, waardoor Kesho kon zien hoeveel er wel niet in zat.
+"So this is where we store everything. The other fifteen are all filled to the brim, but this one ..." Food was currently hauled into the opened store hut, which allowed Kesho to see how much it contained.
 
-"Dat ... dat is genoeg voedsel voor een heel _leven_!"
+"That's ... that's enough food for an entire _lifetime_!"
 
-"Meerdere levens."
+"Multiple lifetimes."
 
-"Een hele stam."
+"An entire tribe."
 
-Jambir knikte. "Het enige goede aan de Jagustam. Zolang ik mijn zware werk doe, heb ik altijd te eten, dat is zeker."
+Jambir nodded. "The only positive about this tribe. If I do my job, I'll always have food, that much is certain."
 
-Kesho watertandde opnieuw. Nooit hoeven jagen of verzamelen? Nooit lange winters met nauwelijks eten? Hij bekeek weer zijn missende arm en kleine lichaam. Als de Ashastam zoveel voedsel kon sparen, dan maakte het niet uit hoe sterk je was, of hoe groot, of dat je wel de juiste hoeveelheid ledematen had. Dan was er nooit reden om te vechten: als een dier eten wilde, gaf je het gewoon, want je had toch genoeg.
+Kesho salivated again. No more hunting or collecting? No long winters with barely an edible scrap? He studied his missing arm and frail body again. If the Asha Tribe could store this much food, it wouldn't _matter_ how strong you were, or how big, or if you had the right number of limbs.
 
-Jambir trok hem snel weg bij de voorraden. "En als je stiekem iets ervan eet," fluisterde hij, "verander je zelf in eten. Denk er niet eens aan!"
+There was no reason to fight: if an animal wanted food, you just _gave_ it. 
 
-"Maar hoe blijft het zo lang goed? Wij moeten vlees meteen eten, anders bederft het."
+Jambir pulled him away from the storages. "If you secretly eat any of it," he whispered, "you'll be their next dinner. Don't even think about it!"
 
-"Een of andere magie. Gezegend door de goden, zeggen de jaguars altijd."
+"But why doesn't it spoil? We must eat meat immediately, otherwise it's worthless."
 
-Gezegend door de goden. Net zoals zij door Eeris bijna elke winter waren geholpen? Kesho wilde langer kijken, maar paniekerige schreeuwen uit het kamp trokken zijn aandacht. Iets stond in de brand, ongeveer rond het middelpunt tussen alle hutjes, en Gosti renden terug van de rivier met emmers water.
+"Some magic or other. A gift from the gods, the jaguars keep saying."
 
-"Ze hebben de boel in brand gestoken!" riep Jambir.
+A gift from the gods. Just like Eeris had helped them the previous few winters? Kesho wanted to stay longer, but panicked screams from the camp drew his attention. Something was on _fire_, roughly at the center, and Gosti ran back and forth from the river trying to carry water in a leaking basket. A hopeless task, no matter how much the jaguars screamed at them to do it.
 
-"Welnee, dat is ons kampvuurtje. Doen we bijna elke avond."
+"A punishment from the gods!" Jambir exclaimed, stepping away from Kesho.
 
-Jambir had lange tijd nodig om dit te verwerken. Kesho leerde pas later dat het een unieke vaardigheid van de Ashastam was om vuur te kunnen maken.
+"No _this_ is a gift. We think."
 
-Farshar rende inmiddels rond om iedereen duidelijk te maken dat er niks aan de hand was en dat ze het vuur onder controle hadden. Het maakte de relatie met de jaguars er niet beter op. De zwakkere dieren van de Ashastam, zoals rendieren en ibex, bleven dichtbij het vuur en Farshar.
+"You _think_?"
 
-Ze wonnen pas het vertrouwen toen koning Jagu de geur van geroosterd vlees rook.
+"We pray to Ardex the Firegod each night. And usually, a fire starts burning not long after."
 
-De jaguars wisten niet hoe snel ze bij het vuur moesten komen en hun deel opeisen. Ze bedankten de Ashastam en vroegen hoe ze dit zelf konden doen. Farshar legde het met plezier uit, al keken ze hem aan alsof hij magie uitlegde.
+Jambir needed time to process this. Kesho realized this was another difference: the Asha Tribe had the unique skill of summoning fire, known to nobody else.
 
-Jambir en Kesho waren ook dichterbij geslopen, aangetrokken tot de heerlijke warmte en gezelligheid. Maar vlak voordat ze in het licht kwamen, bleef Jambir staan.
+Farshar ran around to clear up the confusion. It didn't improve the relationship with the jaguars. The weaker Asha members, such as deer and ibex, stayed close to Farshar and the campfires.
 
-"Ik moet nog twintig vissen vangen vandaag," mompelde hij.
+No, the Asha only won unanimous trust when king Jagu _smelled_ the delicious scent of roasted meat.
 
-De prins had het gehoord en sprak tot iedereen. "Welnee joh! Dat was een _grapje_! Kom erbij Jambir, waardevol lid van onze stam. Zoals _alle_ leden van onze stam waardevol zijn."
+They raced to the fires to claim their part of dinner. They thanked the Asha tribe and asked how to do this themselves. Farshar's explanation of their prayers and nightly ritual fell on deaf ears.
 
-"Zo is het," zei koning Jagu, zijn mond vol. 
+Jambir and Kesho had crept closer, attracted by the familiar warmth and joyful atmosphere. Just before reaching the light, Jambir froze.
 
-Kesho had nog nooit zo'n dik dier gezien, maar nu hij zag hoeveel de koning at---en hoe weinig hij deed---was het raadsel snel opgelost. Dat kon toch niet fijn zijn? Al dat extra gewicht meeslepen tijdens het jagen? Vader had er vast een sterke mening over, die hij nu wijselijk voor zich hield in het hol van de leeuw.
+"I must catch twenty more fish today," he mumbled.
 
-Oh nee, stom, Jagu jaagde natuurlijk nooit zelf. Dat was ook niet nodig als je hele hutten vol met vissenvlees had die eeuwig werd bewaard.
+The prince overheard and addressed the entire tribe. "No! Nonsense! It was a _joke_! Come here, Jambir, most esteemed member of our tribe, yes. Like _all_ members of our tribe are valued."
 
-"Ik vind het nu al een geslaagde samenwerking," zei de prins, terwijl hij zijn lippen aflikte. Met zijn ingedeukte neus kon hij moeilijk ademhalen, waardoor hij tijdens het eten steeds rochelde.
+"Truer words were never spoken," king Jagu spoke with his mouth full.
 
-"Wij ook, beste jaguars," zei Murfa, een andere vader van de Ashastam. 
+Kesho had never seen such a fat animal, but now that he saw the king's diet---and lack of exercise---the riddle had solved itself. That couldn't be useful, right? All that extra weight to drag with you while hunting? Father probably held a strong opinion about it which he wisely didn't share.
 
-Hij hoorde origineel bij een andere stam, maar was verliefd geworden op Kesho's tante. Nadat hij een jaar had rondgehangen in hun buurt en uiteindelijk een kind had verwekt, was hij officieel onderdeel van deze stam. 
+Oh, right, silly him. Jagu obviously never hunted himself. It wasn't necessary when you had huts filled with perch meat that never spoiled.
 
-"Dus," vervolgde Murfa, "wij vragen jullie om hulp bij het verder reizen. Zouden jullie een deel van de hekken kunnen afbreken zodat wij erlangs kunnen?"
+"I think our cooperation has been most successful," the prince said, licking his lips. He gurgled while eating, for his dented nose made it hard to breathe at the same time.
 
-De glimlach verdween onder Jagu's snuit. "We zullen het ... overwegen."
+"So do we, dear jaguars," Murfa said, another father from the Asha Tribe. He originally belonged to another tribe, but had fallen in love with Kesho's aunt. After lingering around for a year, she bore his child and he had officially joined their ranks.
 
-"Zo niet, dan zien wij geen andere optie dan teruglopen naar waar we vandaan kwamen. En daar is al het voedsel definitief op, deels vanwege jullie---"
+"So," Murfa continued, "we ask your help with traveling further. Would you temporarily remove part of your fences to let us through?"
 
-"Vanwege onze _wat_?"
+The smile fell from Jagu's face. "We shall ... consider."
 
-"Vanwege jullie heel efficiënte visvangstmethodes," zei Misha snel. "We hopen ervan te leren en dan door te lopen richting betere plekken."
+"If not, we see no other option than to return from whence we came. And those lands bear no food anymore, partly due to your---"
 
-"_Betere_ plekken? Farshar, een paar woorden graag!"
+"Due to our _what_?"
 
-Farshar en Jagu wandelden weer weg van het vuur om onderling te fluisteren. Jambir was nog steeds niet zeker of het inderdaad een grapje was of dat hij alsnog twintig vissen moest vangen voordat het volle maan was. Samen met Kesho stond hij nog steeds verwijderd van de rest en kon het gesprek verstaan.
+"Due to your very efficient fishing methods", Misha added hastily. "We hope to learn from it and then walk onward to better places."
 
-"Ik moet zeggen," zei Jagu met geklemde kaken, "dat je jouw stam totaal niet onder controle hebt. Ze zijn onbeleefd! En ondankbaar! En allemaal ... anders. Onvoorspelbaar!"
+"_Better_ places? Farshar, words please!"
 
-"Voor de zoveelste keer, het is niet _mijn_ stam," zei Farshar. "We zijn allemaal gelijk. Mijn kinderen mogen zeggen en doen wat ze willen, zolang ze maar hun stukje eten voor de stam opleveren."
+Farshar and Jagu walked away from the fire, whispering. Jambir still wasn't sure if it was indeed a joke that he still had to catch twenty fish before full moon. Him and Kesho still hadn't joined the fires and could overhear the conversation.
 
-Jagu bleef stilstaan en keek in Farshars ogen. "Je hebt er nooit over nagedacht? De macht grijpen? Je zou kunnen stoppen met jagen en toch altijd te eten hebben. Geen gevaar, volledige winst!"
+"I must say," Jagu said through gritted teeth, "that you do not control your tribe in the slightest! They are rude! And ungrateful! And so ... different. Unpredictable!"
 
-"Waarom zou ik dat willen?"
+"Let me repeat: they are not _my_ tribe," Farshar said. "We're all equal. My children may say whatever they want, speak whenever they want, as long as they do their part in supporting the tribe."
 
-Nu stond Jagu helemáál versteld. "Waarom ... waarom niet? Denk aan de vrijheid. Alle tijd die je overhoudt."
+Jagu turned around to study Farshar's eyes. "You never considered it? Seizing power? You could stop hunting and still have enough food. No danger, only profit!"
 
-Farshar lachte. Hij draaide zich om en wees naar het vuur. 
+"Why would I want that?"
 
-De Ashastam was zacht begonnen met zingen. De stemmen smolten samen tot een prachtig koor dat de sterrenhemel iets lichter liet stralen. Leden pakten hun kettingen met veren en tanden. Door ermee te rammelen en krassen konden ze melodieën en ritmes maken, waarop sommige dieren dansten.
+This truly mystified Jagu. "Why ... why not? Think of the freedom. Think of the free time you'll have."
 
-Misha had een paar blokken hout gevonden en sloeg een ritme. De kinderen die te klein waren om te zingen probeerden uit alle macht mee te slaan op de blokken. Ze maakten het ritme vooral onvoorspelbaar.
+Farshar smiled. He turned around and pointed at the fires.
 
-In één specifieke hoek, precies waar het licht het beste viel, zat en groep oudere stamleden met stenen op hun schoot. Zij hadden ook hun veer erbij gepakt. Ze tekenden iets door de scherpe punt erin te krassen, soms wel twintig keer voordat de streep dik genoeg was.
+The Asha Tribe had started singing, softly at first. The voices melted together into a heavenly choir that made the starry sky shine just a little brighter. Several members grabbed their necklaces made of feathers and teeth. By shaking and scratching it, they could create melodies and rhythms, used for dancing.
 
-"We hebben niets _dan_ vrije tijd. We zijn _blij_ als we het kunnen afwisselen met jagen en verzamelen! Dus, als je het niet erg vindt, ik heb een hele avond om iets leuks te ondernemen met mijn vrouw ..."
+Misha had found several wooden blocks and perfectly aligned with the rhythm. Children who were too young to sing tried to help, creating unpredictable beats.
 
-Farshar tilde zijn vrouw weg bij het vuur. Samen renden ze giechelend en zoenend naar een donker hoekje.
+In one corner, where moonlight fell most graciously, a group of elderly members sat with stones in their laps. Using their own feather, they drew something in the stone, sometimes retracing a line twenty times before it was deep enough.
 
-Jagu bleef verbijsterd achter. Zijn ogen vielen op Jambir.
+"We have nothing _but_ free time," Farshar said. "We are _glad_ whenever we can alternate between this and hunting! And so, if you don't mind, I have an entire evening to spend with my wife ..."
 
-"Aan het werk jij slome luilak," siste hij. "Vijftig vissen vangen! Omdat je zo lui bent!"
+He carried his wife away from the fire. Giggling and kissing, they ran to a dark corner.
 
-Kesho voelde zich schuldig, maar durfde niks te beginnen tegen de grote koning. 
+Jagu could not move from the shock. His eyes noticed Jambir.
 
-Jambir wachtte tot ze weer alleen waren. Daarna glimlachte hij naar Kesho. 
+"Back to work, lazy idiot," he hissed. "Fifty fish! Punishment for laziness!"
 
-"Joh, het is prima. Ik houd nog wel even vol---ze geven me genoeg te eten. Zolang we uiteindelijk die jaguars maar uit de weg ruimen. Helpt, eh, je zus ook mee met het plan?"
+Kesho felt guilty, but did not stand up to the large king. 
 
-"Misschien. Ik zoek nog een manier om erover te beginnen."
+Jambir waited until they were alone. Then he smiled. "Oh well, it's fine. I'll survive. I'll manage---they feed me well. As long as we eventually destroy the jaguars. Will, erm, will your sister help?"
 
-Jambir slenterde weg en kon een beetje teleurstelling niet verbergen.
+"Perhaps. I'm searching for a way to bring it up."
 
-Kesho stapte naar het vuur, tussen zijn familieleden, en begon mee te zingen. Terwijl de Gosti om hen heen stiekem weer aan het werk waren gezet, beleefden zij een ontspannen avond met elkaar.
+Jambir sauntered away, unable to hide his disappointment.
 
-Zijn stam was zo slecht niet. De Jagustam die hen had binnengelaten ook niet.
+Kesho stepped towards the fires, joining his family members, and also joining the songs. While the Gosti around him had secretly been put back to work, he experienced a relaxed evening with his tribe.
 
-_Maar zingen bracht geen voedsel in zijn maag, beste lezer. Normaal gesproken zouden ze morgen weer verder lopen en nieuw vlees vinden. Ze hadden geen voorraad. Nu ze op dezelfde plek bleven, was het voedsel van de Ashastam zelf dan ook na één avond op. En Jambir kon je vertellen wat er gebeurde als je qua voedsel afhankelijk werd van een ander ..._
+His tribe wasn't so bad. Nor was the Jagu Tribe, who let them enter and stay here.
+
+_But singing does not feed the hungry, dear reader. In normal circumstances, they'd continue walking tomorrow, searching a new area for new meat. The Asha had no storage. Now that they remained in the same place, all their food was gone by night's end. And Jambir could tell you what happened once you depended on somebody else for your food ..._

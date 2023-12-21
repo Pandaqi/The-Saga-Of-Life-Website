@@ -38,6 +38,6 @@ But the Jagu Tribe received a godly gift
 
 Plundered the area for all its treasures
 
-The Asha Tribe must enter a cooperation swift
+The Asha Tribe must enter cooperation swift
 
 Or survival would require unprecedented measures

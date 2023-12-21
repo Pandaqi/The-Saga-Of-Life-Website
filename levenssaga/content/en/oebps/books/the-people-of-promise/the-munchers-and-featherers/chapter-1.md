@@ -1,156 +1,160 @@
 ---
-title: "1. Arme Jagers"
+title: "1. Poor Hunters"
 weight: 1
 ---
 
-Kesho kon zijn vader wel vermoorden. En zijn zus. En eigenlijk iedereen die te dichtbij kwam als hij zó boos was.
+Kesho could kill his dad. And his sister. And anyone else who came too close when he was this angry.
 
-"Ik ga mee," zei hij resoluut. Hij wilde zich groot maken en zijn poten opsteken, maar dat ging lastig als je was geboren met maar één arm. Op dit moment hadden de Gosti---een spookdiertje dat langzaam begon te lijken op een aap---nog geen duimen, dus een speer pakken met zijn kleine handjes ging ook niet makkelijk. Bovendien liepen ze de meeste tijd nog op vier poten.
+"I'm coming," he spoke decisively. He wanted to make himself big and raise his paws, but that was hard to do when you were born with only one arm. The Gosti---a ghostly creature that started to resemble an ape---didn't have thumbs yet either, so grabbing a spear for intimidation did not happen easily. 
 
-"Je gaat niet mee," zei zijn vader. "Jij gaat je zus helpen met bessen en noten verzamelen."
+_Especially because spears, dear reader, were no more than a stick with some sharp edges during this time period. And the Gosti still walked on all fours most of the time._
 
-Kesho's ogen spuwden vuur naar Misha, wiens ogen hetzelfde terug deden. Daarna lachte ze en pakte alvast haar rieten mand. 
+"You're not," his father said. "You will help your sister collect berries and nuts."
 
-De zon kwam op en onthulde een dichtbegroeid bosgebied, waar deze familie vluchtig een hutje van takken had opgezet. De rest van hun stam had in de open lucht geslapen, terwijl hun grootouders nog sliepen in een nabije grot.
+Kesho's eyes spit fire at Misha, whose eyes returned the favor. Then she smiled and walked off with her wicker basket.
 
-"Ik ben een _man_!" Kesho stampte zijn poot. "Ik hoor te _jagen_! Niet dat domme verzamelen."
+The rising sun revealed an overgrown forest, in which this family had hastily constructed cottages made from branches. The other members of the tribe had slept in the open air, while their grandparents slept in a nearby cave.
 
-"Dat domme _verzamelen_ is anders wel hoe we de afgelopen tien winters hebben overleefd!" riep Misha, waarna ze de eerste noten die ze vond in het gezicht van haar broertje wierp.
+"I'm a _man_!" Kesho stomped his foot. "I must _hunt_! Stupid collecting is beneath me."
 
-"Spaar je energie voor voedsel vinden," zei vader streng. "Wie sterk genoeg is, mag op bewegend voedsel jagen. De rest jaagt op stilstaand voedsel. Je kent de regels, Kesho."
+"That stupid _collecting_ is how we survived the past ten winters!" Misha yelled. She'd just found her first nuts in the mud and instantly threw them at her brother's face.
 
-Kesho had eindelijk de speer te pakken en smeet hem op volle kracht naar een boom. Het scheelde weinig of hij had een ander stamlid aan de boom gespietst. De bizon keek woedend op; Kesho merkte het niet eens. 
+"Save your energy for finding food," father spoke sternly. "You know the rules, son. _Those who are strong enough, may hunt food that moves. Everybody else hunts static food._"
 
-"Ik _ben_ sterk genoeg."
+Kesho finally managed to grab a spear and threw it deep into the bark of a tree. The throw almost impaled another member of the tribe. The bison looked up angrily; Kesho didn't even notice.
 
-Vader zuchtte en liep weg. "Ik zal oma vragen of ze een jaagspel met je speelt."
+"I _am_ strong enough."
 
-"Ik speel al _jarenlang_ spelletjes! En ik win ze allemaal," zei Kesho met enige trots, terwijl hij langs zijn vader schuurde.
+Father sighed and walked away. "I'll ask grandmother to play a hunting game with you."
 
-"Prima! Stop met zeuren. Je mag mee om te _kijken_, maar je doet niks. Begrepen?"
+"I've been playing games for _years_! And I win them all," Kesho spoke with a sense of pride, walking alongside his father.
 
-Kesho's glimlach was te breed voor zijn apengezicht. Een paar rendieren liepen langs, ook van plan te gaan verzamelen, en vonden het maar een eng gezicht. 
+"Fine! Stop whining. You will come with me, but only to _observe_, not to _act_. Understood?"
 
-De stam kende zo'n dertig dieren van vijf verschillende diersoorten. In Kesho's ervaring was dat relatief groot. De paar keer dat ze een andere stam waren tegengekomen, bleken het een handjevol verre familieleden. Ze hadden gezwaaid, misschien eten uitgewisseld, en waren daarna verder getrokken. 
+Kesho's smile seemed too broad for his face. Several deer walked past, holding baskets in their mouth, and found it a scary sight.
 
-Dus met het vertrek van de rendieren was het hele gebied achter hen nu leeg.
+The tribe held some thirty animals from five different species. Kesho though it was quite a large group. The only times they met other tribes, they turned out to be a handful of family members. They'd waved, traded some food, and then continued on their way.
 
-Misha schoof aan de andere kant langs vader. "Mag ik ook mee?"
+As such, the departure of the deer left the entire area behind them empty.
 
-"Nee." 
+Misha also rubbed up against father's fur, keeping pace with him. "Can I come too?"
 
-"Maar---"
+"No."
 
-"Nee."
+"But---"
 
-Vader zei het zo definitief dat Misha meteen bevroor en niet meer doorvroeg. Terwijl Kesho stuiterde van de energie---zijn eerste echte jacht!---hoorde hij Misha vloekend weglopen.
+"No."
 
-Vader duwde een paar laaghangende takken opzij. Ze stonden meteen op een kleine open plek, zoemend van de insecten nu het zonlicht erop stond. Hier waren ze gisteren en eergisteren ook al geweest, en beide keren hadden ze geconcludeerd dat er geen enkel eten meer was.
+His tone made Misha shrivel and shrink. While Kesho ran around with endless energy---his first true hunt!---Misha walked away cursing.
 
-"We zullen zien hoe goed die spellen je hebben voorbereid," mompelde vader. Waar hij normaal gesproken bewoog als een snelle hyena, was hij nu zenuwachtig en langzaam. Het duurde een eeuwigheid voordat ze de open plek verlieten en het échte werk begon.
+Father pushed away some low-hanging branches. They immediately arrived at a clearing, buzzing with insects now that sunlight reached it. They'd been here yesterday, and the day before, and concluded both times that there was truly no food to be found.
 
-"Ik zal je niet teleurstellen, vader Farshar!" riep Kesho opgewekt.
+"We'll see," father mumbled, "how well your hunting games have prepared you."
 
-Hij struikelde over een mammoet.
+His movement usually resembled that of a speedy hyena, but now he walked slowly and nervously. It took an eternity before they'd crossed the clearing and the _real_ hunt could begin.
 
-Het gebrek aan tweede arm zorgde dat Kesho hulpeloos naar de grond stortte en daar verdwaasd bleef liggen. Godzijdank hoorde hij drie seconden later de rustige stem van zijn vader. 
+"I won't disappoint you, father Farshar!" Kesho said cheerfully.
 
-_En ja, beste lezer, deze wezens dankten daadwerkelijk de goden, want die kwamen ze eens in de zoveel tijd tegen in het echt. Kesho herinnerde nog hoe Eeris de afgelopen winters stiekem extra bessenstruiken voor hen had gegroeid, toen ze nergens eten konden vinden._
+Then he stumbled over a mammoth.
 
-"De mammoet is dood. Nog niet al te lang."
+Lacking a second arm, Kesho helplessly tumbled to the ground and stayed there in a daze. Thank the gods---his father's calm voice came to him a heartbeat later.
 
-Kesho trok zichzelf overeind met hulp van een boomstam. "Natuurlijke dood?"
+_And yes, dear reader, these creatures did thank the actual gods, for they walked among them and visited them from time to time. Kesho remembered how Eeris had secretly grown more berry bushes for them the previous winters, when food was also nowhere to be found._
 
-Hem was verteld dat zijn stam vele jaren geleden over het ijs naar dit nieuwe land was gelopen. In die tijd waren de mammoeten overal en nog groter dan nu, maar sindsdien was de ijstijd voorbij en warmde het klimaat op. Vele mammoeten stierven simpelweg omdat het te warm werd.
+"The mammoth is dead," father said. "Killed recently."
 
-Het betekende ook dat het ijs nu was gesmolten en ze niet meer terug konden lopen. Een wilde oceaan golfde in hun rug. Voor de Ashastam was de enige weg _vooruit_, verder het gebied in dat ze _Schola_ noemden.
+Kesho pushed himself back on his feet using a tree trunk. "Natural death?"
 
-Kesho's zicht stelde eindelijk weer scherp.
+His tribe had crossed vast sheets of _ice_ long ago to reach this new land. Back then, mammoths were far larger and more abundant than now. Since then, the ice age ended and the climate rapidly heated up. Most mammoths died simply because it became too hot. Kesho imagined---however hard it was---that the giant dinosaurs from long ago died due to a similar reason.
 
-"Nee, geen natuurlijke dood," zei hij meteen bij het zien van de happen uit het lijk. Maar het waren kleine happen, alsof de aanvaller dit vlees niet lustte.
+It also meant that all ice had melted by now and they couldn't walk _back_ to their home land. A wild ocean flowed at their back. For the Asha tribe, the only way was _forward_, deeper into the area they called _Schola_.
 
-Farshar liep cirkels rondom het beest en zag hetzelfde. "Geen van ons heeft dit gedaan. En waarom heeft de aanvaller het vlees niet opgegeten?"
+Kesho could finally see clearly again.
 
-Kesho watertandde. Zo'n hele mammoet kon _maanden_ de stam voeden. En hij had hem gevonden! Hij ... hij ging iedereen zeggen dat hij hem had verslagen en---
+"No, not a natural death," he noticed instantly. Bites were taken out of its body. But the bites were small and haphazard, as if the attacker realized he didn't actually _like_ mammoth flesh.
 
-Vader keek op. "Omdat het geen jacht was. Het was een aanval."
+Farshar circled the beast and reached the same conclusion. "None of us did this. Why would you attack and then not claim the flesh?"
 
-"Aanval?"
+Kesho salivated. This mammoth could feed their tribe for _months_. And he had found it! He ... he would tell everyone how he had _defeated_ the beast and---
 
-"Deze mammoet had ruzie met iemand. Die ander heeft zich verdedigd door de mammoet te doden, en is toen gevlucht. Ja, dat is het." 
+Father looked up and pointed at a neat collection of stones, burnt black at the top. They knew what fire was and recognized its consequences, even if they had no clue how to start or control one.
 
-Farshar leek in ieder geval zeker van zijn zaak. 
+"He wasn't hunted. He was purposely attacked."
 
-Kesho was minder zeker. Het was een machtig beest. Groot, sterk, bewapend met slagtanden. En dan door zoiets stoms doodgaan?
+"Attack?"
 
-"Zo'n mammoet ... vermoord vanwege een ruzie?"
+"This mammoth quarreled with someone. The other defended themselves by killing the mammoth, and then fled. Yes. That's it."
 
-"Territorium, voedsel, een vrouwtje, wie zal het zeggen? Deze mammoet zat een ander beest in de weg. Dat had hij niet moeten doen. Zo is de natuur nou eenmaal, zoon."
+At least _he_ seemed certain of himself. Kesho was less certain. It was a powerful beast. Large, strong, armed with tusks. 
 
-Kesho slikte. Hij keek omlaag naar het stompje waar een arm had moeten zitten. Hij keek nog eens naar vaders grote gedaante vol spieren en vergeleek het met zijn kleine lichaampje. "Is ... is dat zo?"
+"Such a beast would die for such silly reasons?"
 
-Vader besloot er, zoals bijna altijd, een les van te maken. "En daarom kunnen sommige kinderen maar beter jagen op stilstaand voedsel. De Ashastam beschermt je, Kesho, en jij kan op jouw manier ook de stam beschermen. Keer je taken niet de rug toe."
+"Territory, food, a wife, who knows? This mammoth obstructed another creature. He shouldn't have done so. That's just how nature works, son."
 
-Kesho had honderd meningen over zijn "taken" en hoe hij de stam kon beschermen, maar hij hield zijn mond. 
+Kesho swallowed. He looked at the stump that should've been his second arm. He studied father's much larger, muscular appearance. "Is ... is that so?"
 
-Farshar zag iets in zijn ooghoeken en schoot erop af. Kesho beeldde zich een aanvaller in en zette zich schrap, maar het enige dat vader had gezien was ... een leeggeplukte struik? En een paar afgebroken takken?
+As usual, father turned it into a lesson. "And that's why some children should hunt static food. The Asha Tribe protects you, Kesho, and you can return the favor in your unique way. Do not turn your back on your duties."
 
-Hij schuifelde dichterbij, onzeker of het niet vader was die gek was geworden. "Die ... die zijn waarschijnlijk door Misha geplukt de afgelopen dagen. We moeten die mammoet---"
+Kesho had a hundred opinions about his "duties", but said none of them. He just shoved his spear into another tree.
 
-"En heeft Misha duizend handen?"
+Suddenly, Farshar noticed something and _shot_ towards it.
 
-Kesho keek langs vaders uitgestoken arm. De volgende struik was ook leeggeplukt en afgebroken. Die erachter ook. 
+Kesho imagined an attacker and readied himself, but all father had seen was ... a bush picked empty? And a few broken branches?
 
-Zo ver als ze konden zien, waren alle struiken en bomen kaalgeplukt én vernield. 
+He crept closer, unsure whether his father had gone insane. "Misha probably plucked those the past few days. We have to bring the mammoth---"
 
-"Misschien moeten we Misha vragen _iets_ voorzichtiger om te gaan met---"
+"And does Misha have a thousand hands?"
 
-"Dit hebben wij niet gedaan!" Vader rende weg, op zoek naar het eerste stukje natuur dat onaangetast was. "Wij zijn niet lang genoeg op dezelfde plek om zoiets te doen. En we zijn met te weinig."
+He looked past father's outstretched arm. The next bush had been picked empty too, destroyed even. The one behind it as well.
 
-"Dan vernielt iemand ons eten!" Kesho voelde weer de onbedwingbare neiging om een boom te slaan of een speer te gooien.
+As far as the eye could see, all shrubs and trees were entirely exhausted and destroyed.
 
-"Dat is niet ..." Farshar wilde meteen Kesho tegenspreken, maar bedacht zich. "Dat is dus waarom we de vele winters geen eten vonden. En nu nog steeds niet, hoe ver we ook zoeken. Het is ... een groter probleem dan ik wil toegeven."
+"Maybe we should ask Misha to be a little more careful when---"
 
-Ze vonden het volgende lijk. Een bizon, deze keer wel flink aangevreten. 
+"We did not do this!" Father ran away, looking for a piece of nature that was untouched. "We don't stay in the same spot long enough to do this! And we are too few."
 
-Even later kwamen ze bij de rivier _Indus_. Een gevaarlijke plek, zo wisten de Gosti, want alle dieren leefden graag vlakbij het water. Zowel de kleine als de hele grote. Donte's Regel werd nog steeds gevolgd binnen vele stammen.
+"Then somebody destroys our food." He wanted to throw his spear, but it was still stuck in the previous tree, so he kicked a tree instead.
 
-Ook hier vonden ze het ene na het andere lichaam van een vis. Sommige helemaal opgevreten, andere helemaal niet. 
+"That's not ..." Farshar stopped himself as he realized something. "So that's why we couldn't find any food the past ten winters. And we still can't, despite Eeris' aid. It's ... a bigger problem than I want to admit."
 
-Een net hing in het water, van de ene naar de andere kant. Tientallen vissen spartelden terwijl ze erin vastzaten. De Ashastam legde ook vaak netten in het water, maar nooit zó ver van hun eigen plekje.
+They discovered the next body. A bison, with more bites taken out of her.
 
-Farshar vertrouwde het niet en keerde terug naar de beschutting van de bomen.
+They reached the river _Indus_. The Gosti knew it to be a dangerous place, for all animals liked to live near the water. Both prey and predator. Most tribes still abided by Donte's Rule: don't approach a river until you're certain no predator lies in wait.
 
-Wie deze aanvaller ook was, het kon iedereen makkelijk doden. Doden werd zelfs nonchalant: ze hadden al zoveel eten dat ze die mammoet van eerder niet eens _hoefden_. En toch hadden ze hem gedood. Onvoorstelbaar. 
+On this small beach they discovered the body of fish after fish. Some were eaten to the bone, others were almost untouched. They even found the remnants of a hut, torn apart and partially covered by sand.
 
-En zij volgden nu precies diens spoor.
+A fishing net hung from poles at both sides of the river. A school of fish writhed and struggled as they tried to escape it. The Asha Tribe also used this technique, but they had surely never reached this far into Schola.
 
-Vader spitste zijn oren en krulde zijn staart. Kesho's zintuigen werden scherper: zijn zicht kleurrijker, zijn oren preciezer, zijn neus vol kleine geuren die hij eerst niet opmerkte. Geuren die hem bekend overkwamen, zoals van zijn stamleden, maar ook nieuwe onbekende geuren.
+Farshar didn't trust it and returned to the cover of trees.
 
-Geritsel klonk van alle kanten, vermengd met gegrom en gebrom. Hij kon niet snel genoeg ronddraaien om te zien waar elk geluid vandaan kwam, maar het werd luider en kwam op hen af. 
+Whoever this attacker was, it could kill anybody with ease. Killing became a sport: they already had so much food that they didn't even _need_ the mammoth's flesh. And still they murdered him. Unbelievable.
 
-Diep in het bos, tussen de bomen, hadden ze nauwelijks zonlicht. Kesho had het gemerkt---dankzij alle spellen die hem hadden getraind op allerlei situaties---maar nu het erop aankwam vergat hij uit angst al die lessen.
+And now they were precisely following the attacker's trail.
 
-De struik naast hem wiebelde uit zichzelf. 
+Father's ears pricked up and his tail curled. Kesho's senses sharpened: his sight clearer, his ears more precise, his nose filled with tiny smells he hadn't picked up before. Smells he recognized from other tribe members, but also ... new and unknown smells.
 
-Farshar duwde Kesho tegen de grond en sprong voor hem. Een belediging, vond hij, maar hij was ook opgelucht.
+Rustling sounded from all directions, mixed with growls and hums. He couldn't turn around fast enough to find the origin of each sound, but they grew louder and louder.
 
-Een gedaante verrees uit de struik, alsof een plant binnen twee tellen was uitgegroeid. Maar het was geen plant---het was zijn zus.
+They were deep in the forest, squished between trees. No sunlight reached them here. Kesho had noticed---thanks to all the hunting games that had prepared him---but completely forgotten to act on it due to fear.
 
-Misha greep snel haar mand, die kapot op de grond lag, en gooide er wat noten en bladeren in. Het toneelstukje was natuurlijk niet overtuigend. Ze was hen stiekem gevolgd.
+The shrub besides him wiggled of its own accord.
 
-"Ga terug. Nu!" 
+Farshar pushed Kesho to the floor and jumped in front of him. An insult, he thought, even though he was glad.
 
-Vader wilde schreeuwen, maar moest zich inhouden met het andere gevaar misschien nog in de buurt. 
+A silhouette rose from the shrub, like a plant growing to its full size within a heartbeat. But it was no plant---it was his sister.
 
-"Kijk dan naar Kesho," zeurde Misha op vol volume. "Hij ligt een beetje hulpeloos in de modder. Als er iemand mee op jacht mag, dan ben _ik_---"
+Misha quickly grabbed her basket, which lay broken on the ground, and threw some nuts and leaves inside. The act wasn't convincing in the slightest. She'd secretly followed them.
 
-Hun ogen volgden een zwarte vlek die door de lucht vloog, begeleid door een zoemend geluid alsof windstoten op komst waren. Voordat ze konden reageren zat een vlijmscherpe _pijl_ vast in Misha's mand. Nog twee landden voor Kesho's voeten.
+"Go back. Now!" Father wanted to yell, but had to restrain himself in case danger still lurked nearby.
 
-Hij schudde zijn hoofd. Ze hadden dat mammoetvlees moeten grijpen en teruglopen naar het kamp! Maar nee, nieuwsgierigheid deed Gosti weer de das om.
+"Look at Kesho," Misha whined at full volume. "Laying in the mud, helpless, fear in his eyes. If anybody should be allowed to hunt with you, it should be---"
 
-Nu realiseerde hij wat het gegrom en gebrom was. Het waren vage stemmen uit de verte. 
+Her eyes followed a black spot zooming through the sky, accompanied by a buzzing sound as if a storm was coming. Before the could react, a sharp _arrow_ pierced through Misha's basket. Two more landed before Kesho's feet.
 
-Een andere stam.
+He shook his head. They should've grabbed the mammoth and returned to camp! But no, curiosity killed the Gosti again.
 
-Iets vertelde hem dat het deze keer geen vriendelijke familieleden waren.
+Then he realized what the growls and hums meant. They were _voices_ coming from afar.
+
+Another tribe.
+
+Something told him these were not a handful of friendly family members.
