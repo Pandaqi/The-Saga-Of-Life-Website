@@ -1,144 +1,162 @@
 ---
-title: "1. ??"
+title: "1. Verdachte Handel"
 weight: 1
 ---
 
+Toen Prebuha wakker schrok, haar ogen stijf dicht, wist ze al dat de rivier flink was overstroomd.
 
+Je denkt nu natuurlijk dat haar huis was ondergelopen. Dat ze niet meer in haar bedje lag, maar was weggedragen door de golven naar niemandsland. Als iemand daar doorheen kon slapen, dan was het Prebuha wel.
 
+Maar nee, ze wist het omdat de _Indus_ elk jaar twee keer overstroomde, en altijd precies op dezelfde dag. Het water zou alle planten weer aansterken en belangrijke stofjes meenemen en afzetten op het strand.
 
+Nog belangrijker, het betekende _werk aan de winkel_. Dus Prebuha bleef lekker liggen en---
 
-## Outline
+Iemand stampte haar kamer in en tikte tegen haar bed. 
 
-**H1**: Opzet Indus en Gotia, en belang onderhandeling. Daarna onderhandeling zelf. Gotia vraagt te veel en is te rebels, dus het wordt afgeblazen door de rest en ze blijft met lege handen achter ... plus dat mysterieuze bericht.
+"Opstaan, luilak!" zei haar moeder. "Je hebt tot middenzon om je taken uit te voeren."
 
-    OPENING: "Toen Gotia wakker werd, haar ogen stijf dicht, wist ze al dat de rivier flink was overstroomd."
+Ze gromde. "Ik ben ziek."
 
-    OPENING: "Soms dacht Gotia dat de rivier tegen haar praatte."
+"Je bent niet ziek. En je taken zijn plotseling héél belangrijk geworden!" 
 
-    > Gedurende het hele eerste hoofdstuk ziet ze mensen in paniek, pratend in fluisteringen, wat de spanning verhoogt => totdat duidelijk wordt dat de leider dus is gestorven afgelopen nacht.
+Moeder trok haar uit bed. Ze haakte haar voet achter de poot om het tegen te houden, maar kreeg een flauwe glimlach.
 
-    > "Handtekening rivier" slaat ook op dat de handtekening zelf een golf/rivier is, én dus het verschil met dat de ene rivier betrouwbaar overstroomt (dat is diens "signature") en de ander niet.
+"Oh? Ben ik eindelijk leider geworden? Mag ik commando's geven aan anderen? _Moeder, bouw nu 3 paleizen in mijn naam en_---"
 
-**H2-H3**: Gotia vecht voor een volgende kans op onderhandeling (om het goed te maken), anders gestraft/uit stad gezet? Ook onderzoeken ze het bericht op waarheid + wie de mysterieuze afzender kan zijn.
+"Nee. Je moet handelen met Sumiser."
 
-**H4**: We zien het vanuit Sumer. Hoe ze nu zonder wapens zitten, hoe ze verder moeten vluchten, en dus maar naar Indus gaan.
-    
-    => De persoon die hier vlucht is van nature heel nieuwsgierig/gaat op "ontdekking"
+"Ugh. Dát noem je belangrijk?" 
 
-**H5**: Gotia gaat terug naar onderhandelplek, maar die anderen ... komen natuurlijk niet. In plaats daarvan verschijnt een ander volk? Een gemaskerd persoon die in de schaduwen blijft? Een valstrik? (Uit wil om het goed te maken en niet met lege handen terug te komen, geeft ze geheimen weg of te veel goederen?)
+"Als het mislukt, zitten wij zonder kleding, en eten, en bouwmaterialen voor die paleizen van jou, en---"
 
-**H6**: Gotia wordt uit haar beschaving gegooid. Ze gaat koppig verder met haar onderzoek, terwijl ze langzaam merkt hoe ze niet kan overleven en dergelijke.
+Prebuha schudde zich los en schuifelde door de opening. Moeder greep haar hand en nam haar mee, terwijl ze uitlegde uit hoe de handel werkte.
 
-**H7**: Nog een keer vanuit Sumer. Verder vluchten. Ze pikken Gotia op? Die zegt zo van "ik doe alles dat jullie vragen, ik werk voor jullie, maar laat me bij de groep"
+Ze deed de handen tegen haar oren. Ze wist dus écht wel hoe het werkte. Al vijf keer eerder had ze onderhandeld met mensen binnen hun eigen beschaving! Je nam wat spullen mee die je kwijt kon. Vervolgens riep je wat je wilde, die ander riep wat hij wilde, en uiteindelijk was je allebei ontevreden. Of, nou ja, dat was háár methode.
 
-    > Die anderen kennen dus de Garden of Eden, want dat is letterlijk bij hen in de buurt.
+Een jonge boodschapper beukte tegen haar schouder en rende paniekerig door. Hij werd pas gestopt toen een oude man hem staande hield en indringend in zijn oor fluisterde. Prebuha deed de handen van haar eigen oren, maar kon niks verstaan van hun verdachte gesprek.
 
-**H8**: Gotia doet er alles aan (samen met B?) om te zorgen dat ze worden afgewend. Dat lukt, maar zelf sluipen ze stiekem terug naar de Indus.
+Moeder trok haar gehaast verder. Maar toen Prebuha opkeek, stonden ze niet bij hun voorraden om spullen te pakken. Om haar heen spetterden honderden mensen door het water. De meeste verzamelden stenen en klei, zo ver voorovergebogen dat hun neus de golven raakte. Hoewel ze zeker wist dat sommige paniekerige handen gewoon iets kostbaars waren kwijtgeraakt. 
 
-"Jij zou alles doen om jouw groep te beschermen, om je sociale groep te helpen. Oorlog is exact hetzelfde. Het is alleen de meest agressieve uiting van opstaan voor jezelf en je soortgenoten." => Ik wil dat idee van "Evolution within groups" (altruïsme kan toch ontwikkelen omdat het helpt om jouw _groep_ sterker te maken dan andere _groepen_) en "War is simply the most destructive expression of social behavior."
+Zelf stond ze enkeldiep in het water, naast het hutje van de Kleischepper. 
 
-**H9**: Ze vindt de boosdoener van het bericht: een wetenschapper die had voorspeld dat een aardbeving/vulkaanuitbarsting eraan kwam, maar wist dat niemand hem zou geloven als het niet van de leider kwam. Ze evacueren op het laatste moment. Gotia doet een laatste onderhandeling, maar deze keer doet ze het goed.
+"Wat is dit nou weer? Is dit een grap? Ben ik hiervoor wakker geworden?"
 
-**H10**: Sprong naar de toekomst. Mensen vinden de overblijfselen van deze beschaving. Verbaast over dat ze geen wapens hadden, verbaast over waarom ze toch plotseling verdwenen. Ze eindigen met "Maar alles wijst erop dat de Assyriërs op volle sterkte de vallei in stormden, rekenend op het eten en rijkdommen die ze konden plunderen. Ze vonden slechts lege huizen en onbruikbare grond naast een overstroomde rivier."
+Moeder fronste. "Schat, heb je me gehoord? Je gaat handelen met Sumiser. _Zij spreken onze taal niet._"
 
-Ook praten ze over hoe "de mens de hele wereld heeft afgezocht, och och, wat zijn die mensen toch nieuwsgierig en ontdekkingsreizigers" => terwijl dit verhaal heel duidelijk aangeeft dat ze op de vlucht waren voor alle oorlog
+"Pff, luilakken," zei ze chagrijnig. Maar haar hart sloeg op hol. Hoe ging ze dat ooit doen? 
 
-OOK over hoe ze de Sanskriet natuurlijk hebben ontcijferd en dat het vele talen heeft beïnvloed, maar dat ze de taal van Indus nog steeds niet begrijpen. (En dan misschien nog een grapje/geheim over wat er staat, als je het verhaal goed hebt gelezen.)
+Ze waadde het hutje in. De Kleischepper had wijselijk alles op hoge schappen gestald. Daar pakte moeder de ene na de andere harde brok klei en wierp ze in een mand. Prebuha stapte dichterbij en zag dat deze brokken _symbolen_ hadden, iets dat ze een Bulla noemden.
 
-@IDEE: Er is iemand die de hele tijd verdedigingswerken of "wapenachtige dingen" maakt ... maar iedereen noemt diegene gestoord en maakt er grapjes over. Dat zijn de enige paar dingen die de archeologen later vinden.
+De Kleischepper, een man van middelbare leeftijd die altijd dingen uitrekende, was op dit moment bezig met de volgende kleibrokken. Zodra de klei nog zacht was, drukte hij het symbool erin met een paar dunne takjes. Daarna legde hij ze op het dak om te drogen in de zon. Een paar uur later zouden ze hard zijn en de tekening voor altijd dragen.
 
-@TODO: Voeg de goden/Ardex nog toe. Geeft de lezer ook een herkenbaar element en iets om om te geven.
+Prebuha had het vaker gezien. Nu pas begreep ze dat de Kleischepper niet gewoon creatief wilde zijn.
 
-@TODO: Tigris en Euphratis waren cool maar compleet onvoorspelbaar en wild. Indus was voorspelbaar en daarom veel handiger.
+Alle symbolen werden aan haar uitgelegd. Een vogel stond voor vogelvlees. Een vis voor visvlees. Een zaadje stond voor plantenzaadjes. Nou, ja, het sprak dus eigenlijk voor zichzelf.
 
-@TODO: De Assyriërs geloven dat de wereld zou eindigen als ze stopten met veroveren en gevechten winnen. Er was dus geen "gesprek" mogelijk of "redelijkheid", ze zouden kostte wat kost blijven aanvallen totdat ze een keer verloren.
+Zolang de tekening duidelijk was, kon ze met deze Bulla aangeven wat ze aanbood en wat ze wilde hebben.
 
-    => Assyrië, Babylon, of Perzië? (Ook voor volgend verhaal.)
-    => Alexander de Grote was van Macedonië, een Griekse stadstaat
+Het was al bijna middenzon toen ze, met een mand vol zware stenen, uit het hutje stapte. Een jongen van haar leeftijd spetterde haar nat in het voorbijgaan.
 
-    => Bereid de migratie van Aryans + hun focus op taal (Vedas) + hoe dat Hindoeïsme werd alvast voor in dit verhaal of de volgende? 
-    => Caste and Dharma, check of ik al verhaal had over Hindoeïsme? => Hindoeïsme niet zo handig voor empires omdat het volledig focust op individualiteit en je eigen verlichting bereiken, terwijl Boeddhisme al meer focust op relaties en sociale banden. 
-    => JA in volgende verhaal, Caste en Karma enzo zijn een geweldige manier om sociale hiërarchie en rolverdeling binnen beschavingen te punctueren. 
+"Sorry! Maar heb grote uitvinding gedaan! Dit moet vader weten!" 
 
-    Vier waarheden van Buddhisme.
-    * All life is suffering
-    * All suffering comes from desire
-    * To stop suffering, stop desiring
-    * And you can do so by following the eightfold path
+Hij drong het hutje in met een groot houten apparaat in zijn hand. Het paste niet in de opening. Bij elke poging om toch binnen te komen, brak hij meer van het hutje af, dus de Kleischepper riep dat zijn zoon Welpon buiten moest blijven. 
 
-## Sources
+Prebuha vond ze allebei maar raar. Altijd dingen maken en uitrekenen. Ze beweerden zelfs het weer te kunnen voorspellen.
 
-https://www.nytimes.com/2011/08/02/science/02warfare.html
+Opnieuw hoorde Prebuha gefluister om haar heen. Ze had sterk het idee dat mensen _haar_ aankeken terwijl ze het deden, met angst en schrik op hun gezicht.
 
-https://historiek.net/harappa-beschaving-vreedzaam/92672/
+Welpon had zijn apparaat met een grote plons in het water geïnstalleerd. Een lange houten balk zat vast aan een soort kom waarin een grote kat rustte. Ze bleef er maar uitlopen, totdat Welpon zuchtte en maar een grote steen in de kom legde. 
 
+"Hmm. De katten werken niet mee. Ik ga het toch lekker een katapult noemen! Kijk, als ik op deze kant spring, dan---"
 
+"NEE!" Zijn vader kwam te laat. Welpon schoot de steen ver de lucht in, sneller dan Prebuha kon volgen. Het raakte een toren van het Grote Badhuis en brak een stuk van het dak af.
 
+Alle omstanders schudden hun hoofd. Zijn vader had het snel uitgevogeld: hij trok precies de juiste balk eruit om het apparaat in elkaar te laten storten.
 
-## General notes/idea
+"Lieverd," zei zijn vader. "Wat had leider Larsham nou gezegd? Géén ... hoe noemde jij het nou?"
 
-The story is structured around three trades (chapter 1, chapter 5/6, chapter 10). 
+"Wapens!"
 
-* The first one goes wrong and starts a mystery
-* The second one goes terribly wrong
-* The third one resolves the whole story
+"Geen wapens meer maken." 
 
-Trades between whom? Indus Valley Civilization and the Sumer civilization (from Mesopotamia). (This is both true and useful within the story, as now I can display the _two_ earliest civilizations in one story!) Crucially, these two do not speak the same language.
+De Kleischepper tilde zuchtend de brokken van dit apparaat naar een hutje waar al die wapens van Welpon werden weggestouwd.
 
-The character from Indus (A) is a rebel and a troublemaker. Frankly, they are spoiled / pampered. The Indus know nothing but peace and safety. (These people are the descendants of the Asha tribe from the previous story!)
+Prebuha realiseerde dat dit haar volgende smoesje was. Haar laatste kans om eronderuit te komen. 
 
-A is somewhat forced into a certain job and lifestyle, and they hate that. Another character tries to explain that civilization means conceding some freedom for a greater benefit---which they obviously reject. 
+"Ik heb nog nooit met Sumiser onderhandeld, mam! Wil je dat het net zo mis gaat als dit? Waarom moet _ik_, een klein meisje, dat hele eind lopen met zware stenen en onderhandelen?"
 
-They screw up the trade by going off-script and ignoring customs/rules. This means the Indus are now without a bunch of resources upon which they relied. When A returns, however, they _have_ received one mysterious item: a piece of writing that tells them to leave NOW, signed by their leader. Their leader, however, has passed away a few days ago.
+Moeders glimlach was van korte duur. "We ... hebben niet zo'n sterke positie deze keer. We hebben weinig te bieden, maar vragen veel. Geen van ons heeft jouw geweldige ... vaardigheid om eigenwijs je wil door te drukken."
 
-This creates two storylines.
+"Nee. Ik zeg _nee_."
 
-* Now A has to make things right and prove their worth to the tribe.
-* They have to figure out what the message means and who faked it.
+Moeder liet vier Bulla in het water vallen. Een andere vrouw sprong erachteraan om ze te pakken voordat ze voorgoed waren verloren aan de golven.
 
-The character from Sumer (B) is in a constant state of war and aggression with nearby tribes. They barely sleep, never feel safe, have to fight for everything. They believe that anything is allowed to survive/be safe.
+"Dat is geen optie."
 
-They, too, relied on that trade. (Mesopotamia could create loads of food, but nothing else. Resources for weapons, for example, would have to come from somewhere else.) Now that it falls through, they have to flee for their lives.
+"Jullie vinden jezelf toch zo geweldig? Praten over beschaving en alles? Nou, hoe geweldig kan je zijn als je geen _vrijheid_ hebt om te doen wat je wilt!?"
 
-Their storyline is simpler.
+"Schat, beschaving betekent juist een beetje vrijheid opgeven om samen geweldig te worden. Niks beter om dat te leren, dan het ontmoeten van een andere beschaving."
 
-* They run, run, run away from danger.
-* Where do they run to? The only (peaceful) civilization they know, the Indus.
-* Until they realize the Indus would be defenseless, so they divert their own tribe away during the climax
-* (Optionally: they divert their own people away ... but don't come with them. They actually walk towards Indus to enjoy their safety, which is a huge betrayal, but also a logical step for a character who is only concerned with their own survival.)
+De laatste kleibrokken waren hard geworden in de steeds hetere zon. De mand eindelijk vol, de lijst van eisen in haar hoofd, werd ze toch echt op pad gestuurd. Ze stuurden zelfs de zoon van Larsham---hun leider op dit moment---met haar mee om zeker te zijn dat ze niet stiekem een rondje liep en terug in haar bed ging liggen.
 
+Hij was nerveus. Rode ogen en diepe wallen verraadden dat hij slecht had geslapen. Hij fluisterde ook zo mysterieus, maar tegen zichzelf. 
 
+Zodra ze over de grens liepen, draaide hij zonder een woord om en rende terug.
 
-"Waarom moet _ik_ dat hele eind lopen met zware stenen en onderhandelen?"
+"Ja joh, laat me maar alleen," zei ze tegen haarzelf. "Mijn poten zijn al dood van dit gewicht. Ik ben vergeten water mee te nemen. Top."
 
-"Geen van ons heeft jouw geweldige vaardigheid om eigenwijs je wil door te drukken."
+In de snikhete zon schuifelde ze vooruit. Kon ze niet eerst langs de Omako gaan? Veel dichterbij. Ze hoorde dat die kamelen ruilden voor bijna niks. Kon ze haar voeten even rust geven.
 
+Het ontmoetingspunt was altijd halverwege de twee beschavingen. Dat was het eerlijkst, natuurlijk. Ze lagen niet ver uit elkaar, maar ook niet bepaald dichtbij.
 
+Maar Prebuha was nauwelijks uit het zicht van de Indus toen ze al op andere handelaars stuitte. 
 
+Twee Gosti stonden voor haar. Aapachtigen met grote ogen, en een doek boven hun hoofd tegen de zon. Ze wezen naar de mand en zeiden iets tegen elkaar. Daarna lachten ze haar uit.
 
+Prebuha negeerde het. Aandacht erbij. Laat je niet gek maken. Als ze jou willen laten onderhandelen, nou, dan ging ze de beste handel ooit drijven! 
 
+Ze pakte de juiste beige kleibrokken uit haar mand. Ze wees eerst naar haarzelf en daarna naar de Gosti---het teken dat dit hun _aanbod_ was. Een berg klei, een berg vlees en plantaardig voedsel, een berg blauwe en rode stenen. Zij hadden er niks aan, maar voor de Sumiser was dit blijkbaar een teken van luxe en macht.
 
-Ardex: "Do not take pity on those working hard everyday and struggling through uncertainty. Take pity on those sitting still and living very comfortable lives of very little note. _No sleep without dance._"
+De Gosti fronsten. Zij pakten hun eigen stenen---iets groter en blauw getint---en gaven hun eigen aanbod. Een beetje katoen en voedsel, altijd goed. Een paar stukjes metaal, waarvan haar moeder beweerde dat ze er veel sterkere dingen mee konden maken. En dat was het.
 
+Belachelijk! 
 
-@INTERESTING: The Garden of Eden is just a story the Sumerians created to explain the transition from hunters-gatherers to farmers => might be setup here and paid off in the next story about the hand sign
+Ze trok een deel van haar aanbod in: het voedsel. Dat was toch altijd het belangrijkst. Daarna toonde ze haar eigen Bulla die een zwaard lieten zien. Ze wist niet wat het was, maar ze hadden van de Gosti geleerd dat het metaal betekende. Ze wees eerst naar hen, en dan naar haarzelf.
 
-    Die tuin van Gaia in het eerste verhaal heet ook _Eden_? Daarom noemt Feria haar eigen Legendarische Tuinen ook zo?
+De Gosti schudden hun hoofd.
 
-    De Asha én Jagu hebben een keten van dood en oorlog gestart, en zijn dus helemaal weggejaagd tot aan Sumer. (De een is al in Sumer, vredig en alles, en we volgen hoe die ander ernaartoe wordt weggejaagd.)
+Prebuha schokschouderde en draaide om alsof ze wegliep.
 
-    "Was it curiosity that caused human's expansion across the global, or asylum seeking?"
+Eén van de handelaars krijste. Toen ze omkeek, hadden ze hun aanbod van metaal verhoogd met vijf brokken.
 
-    _In deze tijd, beste lezer, was de wereld nog niet zo verbonden. Agricultuur werd dus meerdere keren opnieuw uitgevonden, op andere plekken, op andere momenten, zonder dat ze het van elkaar wisten. Terwijl ze hier bij de Twee Rivieren al een hele beschaving hadden, hadden ze op Origina het geheim nog niet eens ontdekt. Er waren maar twee manieren waarop informatie tussen beschavingen kon worden overgedragen: handelen ... of door een ander volk worden ingenomen._
+Ze glimlachte. Nu kwamen ze ergens. Ze wist dat Sumiser veel diersoorten had die geen vlees aten, dus ze verhoogde haar aanbod van plantaardig voedsel, maar alleen in ruil voor meer katoen.
 
-    @IDEA: De "Legendarische Tuinen" waren opgericht door Feria om een plek te hebben waar _sowieso_ levenskracht vandaan kwam. Dit correspondeert met die Tuinen van de Goden, en dat ze de mensen hadden gemaakt om die tuinen te verzorgen. (Want de goden moesten ook te eten hebben) Maar sommige van de bomen waren dus goed voor Goden maar verboden voor mensen => de verboden appel waardoor mensen zijn weggestuurd
+De handelaars praatten lange tijd met elkaar. Zuchtend werd haar aanbod geaccepteerd.
 
-    Dit is een SPROOKJE om kinderen te leren dat ze niet koppig moeten zijn of vechten tegen hun "meerderen", maar gewoon hun agricultuurwerk moeten verrichten.
+Hoe ver kon ze gaan? Wat---ze besefte waarom de handelaars helemaal hiernaartoe waren gekomen. Zij waren nog meer in paniek, ze wilden de handel niet langer uitstellen.
 
-    https://www.israel-a-history-of.com/the-garden-of-eden-as-recast-mesopotamian-myth.html
+Kon ze daar gebruik van maken?
 
-    Eden is Sumeriaans (?) voor "heide" of "plat veld" tussen de twee rivieren in
+Ze haalde al het vlees uit haar eigen aanbod. Ze moesten zelf ook nog te eten hebben! Vervolgens eiste ze iets waarvan ze wist dat Sumiser het ook had: kamelen. Vier stuks, want je weet maar nooit. Straks hield de ene kameel halverwege op en moest ze alsnog op haar eigen poten lopen!
 
+Ze grinnikte bij het uitstallen van haar nieuwste bod.
 
+Hun monden vielen open. De Gosti speelden met de brokken in hun kleine vingers. Hun gesprek werd steeds luider en bozer.
 
+Totdat _zij_ al hun brokken terug pakten en wegliepen.
 
+Niet toegeven. Zij speelden ook een spelletje. Zij---nee, ze liepen echt weg.
+
+"Wacht!" riep Prebuha. 
+
+Ze wachtten niet. De kleinste van de twee rommelde in hun mand en vond een veel groter, platgeslagen brok klei.
+
+Hij wierp het terug, bijna in haar gezicht. Het was geen aanbod, geen Bulla.
+
+Het was een boodschap, geschreven in haar eigen taal. 
+
+_Iedereen moet nu vertrekken! Grote rampen zijn aanstaande, ik weet het zeker, en als we niet vluchten gaan we allemaal ten onder! Ik ben zelf al gevlucht naar Sumiser. Volg._
+
+Eronder stond de handtekening. Drie golfjes, de middelste langer en dikker, om een rivier aan te duiden.
+
+De handtekening van haar eigen leider Larsham.
