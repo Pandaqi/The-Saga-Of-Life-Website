@@ -3,91 +3,128 @@ title: "3. Ondervraging"
 weight: 3
 ---
 
+Prebuha sjokte door de kaarsrechte winkelstraten op weg naar haar eerste verdachte. Voor de verandering had ze best willen rennen, maar dat kon niet vanwege de grote menigte. 
 
+Een nieuwe groep migranten was de stad binnengekomen. Ze werden begeleid naar een leegstaand Gebied. De muren die het omringden lieten allemaal hetzelfde symbool zien. Zodra ze daar woonden, kregen ze een Bulla met datzelfde symbool, om hun identiteit te bewijzen. Daarna mochten ze zelf hun leider kiezen en helemaal hun eigen ding doen.
 
-## Revisies (H1 + H2)
+Je zou hier kunnen leven zonder ooit je Gebied te verlaten. In de praktijk trouwde iedereen met iedereen, en handelden alle Gebieden elke dag in de winkelstraten.
 
-* Voeg diersoorten duidelijk toe.
-  * Prebuha's familie zijn luiaards.
-  * Meeste zijn wolven (en duiven zitten gewoon overal op)
-  * Leider + zoon zijn hyena's
-  * Kleischepper + zoon zijn echidna
-  * Megitas is een Gosti (door migratie erin gekomen)
-  * (Sumiser: Gosti + ??)
-* Herschrijf Prebuha's moeder die véél strenger moet zijn (verdacht streng). En dat Prebuha echt wel weet hoe je moet onderhandelen, want ze hebben geen geld en ALLES gaat via onderhandelen.
-* Herschrijf om Prebuha op een boot te zetten (inclusief voorraden) en veel meer tijd eroverheen te laten gaan? (Die Okamo stam was ook alleen bereikbaar per boot?) => Normaal gesproken moesten zij helemaal die andere kant op, maar Gosti ontmoeten haar veel eerder deze keer. => De Gosti hebben _ook_ zo'n seal gekregen om aan te tonen dat ze de juiste onderhandelaars zijn?
-* Herschrijf dat de stad zelf op een verhoging staat en nét niet overstroomd, maar alles daaromheen wel. (Daar lopen ze naartoe in eerste stukje.)
+De architecten van deze stad hadden dit allemaal voorzien, duizenden jaren geleden. Nog steeds stonden sommige Gebieden leeg. Waar ze de tijd en materialen vandaan haalden om jaren lang niets anders te doen dan een _gigantische_ stad maken ... wist niemand. Wat ze gingen doen als het wél vol was, wisten ze ook niet.
 
+Ze stopte bij een voedselwinkel om te oefenen. Ze zei geen woord en legde een paar Bulla op de toonbank: blokken hout die ze bij had in haar mand.
 
-@IDEA: Prebuha's vader weigerde werk te verrichten. Zelfs toen ze hem fysiek aanvielen om hem te dwingen. Uiteindelijk ging dat zo ver dat hij stierf aan een hoofdwond. => Haar moeder heeft hard gevochten om deze belangrijke handel aan Prebuha te geven, om hun status weer te verhogen en te zorgen dat ze hard leert werken. ("Wat heb je ervoor moeten verhandelen, mam?" "Dat is niet belangrijk." => hevig geïmpliceerd dat ze haar lichaam moest verkopen?)
+"Spreek je onze taal niet, meisje?" zei de wolvenvrouw die haar waren beschermde.
 
-@IDEA: Dit is allemaal ontstaan door de Tijdreizigster? Die ging terug en probeerde haar "utopia" te maken
-    => Als Prebuha de migratie en diversiteit beschrijft, zegt ze ook zoiets als "We hebben zelfs een witte en zwarte panda hier. Wist niet dat die ook al binnen waren gekomen!"
+Ze schudde bijna haar hoofd. Dom! Als ze de taal niet begreep, begreep ze dit natuurlijk ook niet! Dus ze keek alleen vragend.
 
-@IDEA: Dit is de Asha stam van vroeger, en ze houden _heel hard_ vast aan vredig zijn en geen wapens. Maar stiekem plaatst Megitas (of die leider ofzo) al heel lang Welpon's wapens over de hele rand van het gebied, en dat is de enige reden dat ze nog niet zijn aangevallen?
+De verkoopster zuchtte. Ze rommelde in haar eigen spullen en plaatste één Bulla die een strook graan liet zien.
 
-    => Met het einde van deze beschaving is ook alle hoop vervlogen op vredige beschavingen vanaf nu?
+Eén stuk graan voor al dat hout? Dat voelde niet eerlijk. Misbruik van een meisje uit het buitenland!
 
-    => Megitas heeft de leider vermoord, zodat hij zijn---veel makkelijker te manipuleren---zoon kan gebruiken om praktisch leider te zijn?
+Ze keek boos en wees op meer graan. De verkoopster schudde haar hoofd. Prebuha bood nog meer hout. Geen succes, nog niet eens één extra stuk graan!
 
-@IDEA: Sumiser zegt op een gegeven moment "Waarom nemen we hun gebied niet over!?" met als antwoord "We kunnen alles krijgen wat we willen door te handelen. Door een paar dingen weg te geven die we zelf niet nodig hebben. Waarom zouden we wél aanvallen?" ("Nou, ja, we _konden_ onderhandelen ...")
+"Ik heb zoveel hout niet nodig, meid," zei de verkoopster, terwijl ze ook uitbeeldde wat ze zei. "Tenzij je iets anders biedt, maak plaats voor de volgende klant."
 
-    => "Mijn vader woont daar. Mijn zus is getrouwd met iemand in hun andere grote stad. We vallen onze eigen familie niet aan."
+Dat kon natuurlijk ook. Je bood superveel waardevols, maar niet voor de andere partij. Blij met deze les, liep glimlachend verder en liet de wolvin verbaasd achter.
 
+Vlak voordat ze haar eerste verdachte bereikte, probeerde ze het opnieuw. Deze keer bij een kraampje dat veren verkocht, beheert door een veel te grote groep duiven. Die beesten zaten ook werkelijk _overal_ op tegenwoordig.
 
+Wat wilden vogels? Nootjes? Ze vond een Bulla dat een zaadje uitbeeldde en legde het neer. De vogels waren direct geïnteresseerd en zochten een tegenbod. Maar toen ze haar beter bekeken, gooiden ze hun Bulla weer weg.
 
-Outline soort van:
-* Meer over Harappan beschaving, hoe gebouwen eruitzien, etcetera
-  * Huizen waren gedraaid om wind te vangen als automatische air-conditioning.
-  * Ze hadden water-proofing en multi-storied buildings.
-  * Roads were cleaned by winds, roofs collected rainwater.
-  * Ze lieten praktisch iedereen van overal toe, en men trok constant rond. Trouwen/familie hebben aan alle kanten is een geweldige manier om geen oorlog te krijgen.
-  * Ze groeiden vooral Barley en Wheat, maar waren geobsedeerd met allerlei spices.
-  * Foreign Trade gebeurde vooral over zee, echter.
-  * Wat Sumer wilde van Harappa: lapis lazuli, goud, silver, koper, hout, ebony, ivoor, schildpadschild, kip, buffalo, pauw, hond, kat, aap
-    * De Harappans kwamen vaak in Mesopotamië---maar zij lijken nooit hun plekje te hebben verlaten. (Slechte zeilers? Of Harappa was té goedaardig?)
-    * Zij noemden hen Meluhhan, dat weten we zeker uit hun geschriften.
-    * Sumer heeft "verering" van oorlog en veldslagen, en ze hebben slaven.
-  * City Planning: grote paden die Noord-Zuid, Oost-West wijzen
-    * Opgedeeld in blokken, maar daarna was het vrije steegjes en losse paden (dus niet zo'n grid als Amerika), met ingang van huizen nooit aangesloten op de drukke hoofdweg.
-    * Grote muur om het geheel. => Muren overal, waarschijnlijk toch voor segregatie?
-    * Vaak een los gedeelte, de Citadel, met de belangrijke gedeelde gebouwen.
-    * De steden stonden op _verhoging_, juist om het te beschermen tegen overstroming van Indus.
-    * Sommige steden hadden zelfs klei bankjes en openingen voor bomen langs de hoofdpaden.
-    * Of grote vazen in de grond gestoken als een prullenbak.
-  * Waren vooral erg geïnteresseerd in hygiene / "sanitation" / plumbing.
-  * Bulla: altijd een dier + inscriptie. (Lijkt van rechts naar links geschreven, want op veel zegels raken ze in paniek als ze aan de linkerkant ineens geen ruimte meer hebben.)
-  * Standaardiseren van gewichten en metingen. (De seals, maar ook vaste afmetingen van bricks: 1:2:4)
-  * Bewerking metaal, manieren om water af te voeren of juist aan te voeren, handel brons tegen katoen. (Indus had zelf geen brons.)
-    * Steden veel verder uit elkaar dan in Mesapotamië, toch alles gestandardiseerd!
-  * Hun rijk is _gigantisch_; Prebuha woont aan de rand ergens.
-  * De meeste steden liggen langs de Ghagger-Hakra, die was misschien nóg beter dan de Indus. (Mensen denken dat dit de "lost" Sarasvati rivier is uit Hindu mythologie.)
-  * Ze hadden keramiek speelgoed dat ze mee in bad namen, zoals ... een (rubber) eend.
-* (Welpon komt weer terug met een wapen?)
-* Ze ondervraagt mensen en probeert te achterhalen wat er precies aan de hand is met dood leider, zonder het weg te geven.
-  * Het idee van handtekeningen / paspoorten moet hier eigenlijk wel belangrijk zijn en terugkomen.
-* Ze probeert te leren om een betere onderhandelaar te worden, hoewel ze constant moet vechten tegen haar luiheid en egoïsme. (Misschien goed als ze het nu al _voelt_? Dus dat Larsh expres zei dat ze geen eten meer aan haar moesten geven?)
-* Eindigt met dat ze opnieuw de onderhandeling ingaat.
+"Jij bent geen immigrant. Jij bent Prebuha! De luie slechte handelaar!"
 
+"Nou, ja---eh, ik bedoel, _ik versta jullie niet_!"
 
-@TODO: Bedenk een interessante regeringsvorm en pas die toe. (Bijvoorbeeld, gebied opgedeeld in provincies, elke geleid door de grootste hoofdstad daarin. Leiders worden elke overstroming opnieuw gekozen?)
-    => Zelfs elke _stad_ opgedeeld in hokjes door de vele muren. Elk hokje werd geleid door de persoon met de hoogste rang?
+"Bespaar je de moeite, meid. Niemand gaat ooit nog met jou onderhandelen als ze weten wie je bent. En als ze horen wie je vader was ..."
 
+Hoe wisten de duiven toch altijd wat er aan de hand was? Hadden ze roddelgroepjes hoog in de wolken?
 
-@TODO: Kies de diersoorten en verwerk ze! (De Indus heeft nog steeds wat Gosti en katachtigen (hyena/luipaard), maar het zijn vooral wolven?)
-* Dove
-* Echidna
-* Quokka
-* Alpaca
-* Leopard Lizard
-* Capybara
-* Hedgehog
-* Panda
-* (Rabbit?)
-* Sloths => dit past eigenlijk wel perfect bij Prebuha
+"En jullie ... jullie zijn _lelijk_."
 
-@TODO: Rond 2600-1900 BCE => zet juiste tijd bij metadata
+Ze stak haar tong uit en liep snel door. Twee korte onderhandelingen---en ze was nu al moe. Werk verrichten was veel werk. Stom.
 
-@TODO: Gedichtje bij voorpagina
+Plots keek iedereen langs haar. Iemand schreeuwde in haar rug. Terwijl ze omdraaide werd ze opzij gebeukt door een razendsnelle hyena met een mand eten in zijn bek.
 
-Good video about the entire Harappan Civilization: https://www.youtube.com/watch?v=rlONwxT9Nlc
+"Dief! Dief!"
+
+De omstanders kwamen meteen in actie om het beest tegen te houden. Ze grepen naar zijn poten, vormden een muur, gooiden het voorwerp dat ze toevallig vast hadden. Vaak was het succesvol---deze keer niet.
+
+De hyena was te sterk. Hij beet een stuk uit een wolf, glipte uit iemands grip, en sprong _over_ een standbeeld om te verdwijnen in donkere steegjes.
+
+"Prepre! Aan de kant!" riep een stem van boven. Ze had hem niet gezien! Welpon zat op het dak met zijn volgende wapen, terwijl een kat van zijn schoot rende. 
+
+Ze bukte. Welpon blies in een tube en schoot daarmee een regen van harde stenen af, als windvlagen vlak boven haar hoofd.
+
+De hyena gromde en paar keer en viel toen neer met een plof. De verkoper greep boos de gestolen goederen terug. Larsh rende richting Welpon en trok hem naar beneden terwijl hij nog omlaag klom. Welpon glimlachte breed, zijn stekels glimmend in de zon.
+
+"Levensgevaarlijk!" riep Larsh. "Meekomen jij."
+
+Pardon? Hij had een dief tegengehouden! Hij had tenminste een manier om slechte mensen tegen te houden!
+
+Maar ze mocht niks meer zeggen tegen Larsh. Ze liep door en herinnerde haarzelf aan alles dat ze zou missen als ze werd weggestuurd. Langs de straten stonden bankjes van klei om uit te rusten. Naast elke bank waren gaten gegraven. Soms plaatsten ze een vaas erin die als prullenbak werkte, soms plaatsten ze een boom, soms een waterput. De stad had bijna duizend waterputten en ze waren allemaal aangelegd door die eerste architecten, alsof ze de toekomst perfect hadden voorspeld.
+
+Die gasten waren sowieso geobsedeerd met water. Alle huizen hadden een afvoer voor smerig water. Die kwamen uit op een een tunnel die onder de stad door liep, richting een vertakking van de Indus. Ergens lag een berg smerigheid---maar het was nooit in hun mooie stadje.
+
+Maar het grootste bewijs was natuurlijk het Grote Badhuis.
+
+Een gigantisch zwembad dat steeds opnieuw vers water kreeg, verwarmd in de zon of gekoeld door slim gebruik te maken van koude winden. Een uitvinding van de Kleischepper had dat laatste mogelijk gemaakt. Iedereen was er bijna elke dag te vinden. Mocht de oorlog hiernaartoe komen, dan vonden ze in ieder geval een fris ruikende tegenstander.
+
+Daar vond ze Megitas, terwijl hij zijn baard fatsoeneerde en zich afdroogde met een ruwe lap katoen.
+
+"Ah, ik hoorde geroep over een dief," zei hij. "Maar ik ben blij dat jij het niet was."
+
+Ze kneep de Bulla in haar klauwen fijn. "Waarom wil _iedereen_ mij herinneren aan dat mijn vader één keer iets heeft gestolen?"
+
+Megitas stak zijn voorpoten omhoog, waardoor hij even op twee poten stond. "Vergeef me, ik wil je alleen beschermen voor ... dwaze daden. Wat wilde je vragen, mijn kind?"
+
+"Jij wist dat de leider was gevallen. Wat weet je nog meer over zijn dood?"
+
+"Hij inspecteerde het Gebied van bovenop de muur. Dat is een flinke afstand als je valt, mijn kind. Hij overleefde het, maar zijn wonden waren niet mals."
+
+"Was hij alleen? Zag je iemand hem duwen?"
+
+Megitas schudde zijn hoofd. "Het waaide. Hij was een ietwat arrogante hyena. Hij _viel_, een ongeluk."
+
+"En je zei dit tegen niemand? Je haalde geen arts erbij?"
+
+"Ons Gebied heeft geen arts."
+
+"De Kraaienzwervers naast ons wel."
+
+"Ja, en de Boogbanieren aan de andere kant geloven dat je alle wonden kunt helen door een geit te offeren." 
+
+Hij pakte zijn wandelstok en liep met haar een rondje om het bad.
+
+"De Indusbeschaving is groot, mijn kind. Veel groter dan je denkt. We bezitten in ons eentje meer land dan _alle_ beschaving rondom de Tweelingrivieren bij elkaar."
+
+"Dus er was sowieso een goede arts geweest!"
+
+"Nee, zo'n gebied is te groot om te besturen. We zouden allang oorlog moeten hebben, of zijn gevallen door mensen die wél wapens hebben. Waarom gebeurt het niet?"
+
+Prebuha schokschouderde. Vanaf het hoge Badhuis kon ze goed uitkijken over de rest van de Citadel. Alleen maar hokjes. Honderden kleine gebiedjes die grotendeels zichzelf bestuurden. "De Gebieden?"
+
+Megitas knikte. "Dieren kunnen niet verder denken dan een groepje van twintig of dertig. Dus de geniale architecten van onze beschaving bouwden een systeem waarin iedereen leefde in groepjes van dertig en niet meer. Zo succesvol, dat we kunnen _handelen_ met al onze vijanden, in plaats van _vechten_."
+
+Ze dacht terug aan de dief. Aan al die keren dat het de taak was van toevallige omstanders om een dief, of een moordenaar, of gewoon een pestkop tegen te houden. "Hoe kun je daar zo zeker van zijn? Zouden wapens echt zo erg zijn?"
+
+"Ja," zei Megitas, zijn ogen op de horizon. "Het zou een ramp zijn waar niet bovenop komen."
+
+Dat klonk onnodig dramatisch. Ze had een keer gezien dat de menigte de arm van een dief eraf rukte, in een poging hem te stoppen. Was dat nou _beter_ dan dieven afschrikken in de eerste plaats met wapens?
+
+"De ziel van Asha," zei de oude Gosti, "zou het niet overleven."
+
+"Wat is Asha?"
+
+Megitas liep de lange trap af, terug naar de weilanden die nog steeds deels onder water stonden. "Een stam van lang geleden. De stam is uit elkaar---hun idee van vrede en gelijkheid leeft voort. In ons, en nergens anders ter wereld."
+
+Ze zag het in zijn ogen. Hij geloofde heilig in deze beschaving, in de Gebieden, in het systeem. Hij had niks te winnen bij het vermoorden van hun Gebiedsleider.
+
+Ze moest de Kleischepper hierna ondervragen en anders zeker Welpon. En dan---
+
+Een wolvenboodschapper---schijnbaar altijd in paniek en gehaast---rende hen tegemoet op de trappen.
+
+"Bericht van Larsh," riep hij naar Prebuha. "De schepen van Sumiser zijn weer gespot in de verte, ze komen deze kant op. Ze zijn nog nooit zo ver gekomen! Ze mogen koste wat kost _niet_ in onze haven komen."
+
+"Waarom vertel je dit aan mij?" Ze was zo moe van al het gedoe dat ze het niet meer kon bijhouden.
+
+"Hij stuurt je vooruit in een bootje om te onderhandelen. Maak er geen puinhoop van."

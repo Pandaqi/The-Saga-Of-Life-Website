@@ -1,127 +1,122 @@
 ---
-title: "4. ??"
+title: "4. Tweelingsrivieren"
 weight: 4
 ---
 
+Toen de twee Gostihandelaars terugkwamen in Sumiser, met lege handen, was er geen hartslag twijfel. Iedereen zocht zijn familie, verzamelde alle belangrijke spullen, en zette het op een rennen.
 
-**H4**: We zien het vanuit Sumiser. (Hun rivieren zijn weer wild geworden en hebben hun hele oogst verwoest enzo?) Hoe ze nu zonder wapens zitten, hoe ze verder moeten vluchten, en dus maar naar Indus gaan.
-    => De persoon die hier vlucht is van nature heel nieuwsgierig/gaat op "ontdekking"
-    => Dat verhaal van Garden of Eden was origineel van Sumiser, dus hier geïntroduceerd? Kinderen worden verteld dat ze naar "het beloofde land" of de "goddelijke tuinen" gaan?
+Gelukkig stonden ze er al klaar voor, want hun eigen rivier---de Tigres---was weer onverwacht overstroomd. De meeste bezittingen waren al weggespoeld. De golven hadden ook de dode, droge gewassen van daarvoor meegenomen.
 
-**H5**: Prebuha gaat terug naar onderhandelplek, maar die anderen ... komen natuurlijk niet. In plaats daarvan verschijnt een ander volk? Een gemaskerd persoon die in de schaduwen blijft? Een valstrik? (Uit wil om het goed te maken en niet met lege handen terug te komen, geeft ze geheimen weg---zoals wapenloosheid---of te veel goederen?)
+"Eerst drie jaar droogte," mopperde Annatas, een vrouwelijke Gosti. "Daarna drie heftige overstromingen vlak na elkaar. De Tigres lijkt wel een wispelturige baby!"
 
-**H6**: Prebuha wordt uit haar beschaving gegooid. Ze gaat koppig verder met haar onderzoek, terwijl ze langzaam merkt hoe ze niet kan overleven en dergelijke.
+"Het zijn de goden, ik zweer het," zei haar man Perites. "Waarom konden wij niet Gulvi als onze stadsgod krijgen? Nu zitten we opgescheept met Cosmo, die alleen de wind kan laten waaien."
 
-**H7**: Nog een keer vanuit Sumiser. Verder vluchten. Ze pikken Prebuha op? Die zegt zo van "ik doe alles dat jullie vragen, ik werk voor jullie, maar laat me bij de groep"
+Zelfs toen hij het zei, gaf hij het standbeeld van Cosmo een buiging en mompelde een gebed. Ernaast stond een tweede standbeeld, van een stier die trots vooruit keek: hun commandant. Precies die persoon kwam nu aanlopen.
 
-    > Die anderen kennen dus de Garden of Eden, want dat is letterlijk bij hen in de buurt.
+Annatas schudde haar hoofd. Ze hield een paar schamele nootjes in haar klauwen. "Laat de goden erbuiten. Het komt door dat Meluhanvolk. Als ze ons niet hadden afgeperst in alle onderhandelingen, hadden we onszelf nu kunnen _verdedigen_."
 
-**H8**: Prebuha doet er alles aan (samen met B?) om te zorgen dat ze worden afgewend. Dat lukt, maar zelf sluipen ze stiekem terug naar de Indus.
+"Hadden we te eten gehad," bevestigde Perites, die het handjevol nootjes toch maar voor de zekerheid meenam.
 
-"Jij zou alles doen om jouw groep te beschermen, om je sociale groep te helpen. Oorlog is exact hetzelfde. Het is alleen de meest agressieve uiting van opstaan voor jezelf en je soortgenoten." => Ik wil dat idee van "Evolution within groups" (altruïsme kan toch ontwikkelen omdat het helpt om jouw _groep_ sterker te maken dan andere _groepen_) en "War is simply the most destructive expression of social behavior."
+Een Gostihandelaar kwamen dreigend op hen af. "En ben je nou blij? We hebben voor het eerst _nee_ gezegd toen ze te ver gingen. Zoals jullie allemaal wilden. En nu? Nu zitten we zonder eten én zonder steen én zonder wapens."
 
-**H9**: Ze vindt de boosdoener van het bericht: een wetenschapper die had voorspeld dat een aardbeving/vulkaanuitbarsting eraan kwam, maar wist dat niemand hem zou geloven als het niet van de leider kwam. Ze evacueren op het laatste moment. (Aardbeving zorgt natuurlijk dat de rivier stopt met betrouwbaar overstromen.) Prebuha doet een laatste onderhandeling, maar deze keer doet ze het goed.
+_Meluhan, beste lezer, was hun naam voor de beschaving die de hele Indus had bezet. Want ja, als je elkaars taal niet begrijpt, hoe vertel je dan hoe je heet?_
 
-    => Uiteindelijke message: "Geen bescherming zonder gevaar" (zowel over dat ze dus zichzelf niet verdedigen, maar ook het "fijne gevoel" van beschermd worden of veilig zijn)
+In de verte klonk al tromgeroffel. Duizenden hoeven lieten de grond sidderen. De vijand was een orkaan van geweld, een natuurkracht die aardbevingen mee bracht---en nu zichtbaar, als zwarte silhouetten, aan de horizon. De vorige tien grote steden van Sumiser waren al gevallen onder dit leger.
 
-    => Grootste deel vlucht naar Ganges, het nieuwe centrum van beschaving in Azië. De rest gaat terug naar leven in kleine zelfstandige dorpjes.
+De stierencommandant maakte zich groot en sprak.
 
-**H10**: Sprong naar de toekomst. Mensen vinden de overblijfselen van deze beschaving. Verbaast over dat ze geen wapens hadden, verbaast over waarom ze toch plotseling verdwenen. Ze eindigen met "Maar alles wijst erop dat de Assyriërs op volle sterkte de vallei in stormden, rekenend op het eten en rijkdommen die ze konden plunderen. Ze vonden slechts lege huizen en onbruikbare grond naast een overstroomde rivier."
+"Ik hoor jullie fluisteringen. Ik hoor ze uit alle duizend jullie monden. Maar we _hebben_ wapens. En we zijn met veel."
 
-Ook praten ze over hoe "de mens de hele wereld heeft afgezocht, och och, wat zijn die mensen toch nieuwsgierig en ontdekkingsreizigers" => terwijl dit verhaal heel duidelijk aangeeft dat ze op de vlucht waren voor alle oorlog
+Alle inwoners keken elkaar aan. Ging hij echt beweren dat zij de machtige Akradi gingen tegenhouden?
 
-OOK over hoe ze de Sanskriet natuurlijk hebben ontcijferd en dat het vele talen heeft beïnvloed, maar dat ze de taal van Indus nog steeds niet begrijpen. (En dan misschien nog een grapje/geheim over wat er staat, als je het verhaal goed hebt gelezen.)
+"We kunnen niet winnen van Akradi, niet in deze toestand. Maar we hebben goede banden met Meluhan, de beschaving die al duizend jaar niemand durft aan te vallen. We gaan daarheen, zo snel als we kunnen."
 
-    => Ook over hoe de Britten het meeste bewijs hebben vernield omdat ze de stenen konden gebruiken als ballast voor hun treinsporen.
+"Dan moeten we dwars door Lagaso!" riep Annatas.
 
-    => Het gebied is nu een kurkdroge woestijn, maar was ooit veel natter.
+Ze hadden nooit goede banden gehad met die stad. Maar als het de laatste stad was van jouw beschaving die nog overeind stond ...
 
-    => Ook over hoe deze hele beschaving tot dat moment _compleet nergens te vinden was_, juist omdat ze nooit rijken inpikten, zich nergens mee bemoeiden, etcetera.
+"En ieder die ons vertraagt," zei de stier heldhaftig, "blazen we omver."
 
-@IDEE: Er is iemand die de hele tijd verdedigingswerken of "wapenachtige dingen" maakt ... maar iedereen noemt diegene gestoord en maakt er grapjes over. Dat zijn de enige paar dingen die de archeologen later vinden.
+Iedereen stond klaar om te vertrekken. Maar ze misten nog iemand.
 
-@TODO: Voeg de goden/Ardex nog toe. Geeft de lezer ook een herkenbaar element en iets om om te geven.
+Hun zoon, Mamotas, had alles gehoord maar kon niks terugroepen. De golven trokken hem kopje onder. 
 
-@TODO: De Assyriërs geloven dat de wereld zou eindigen als ze stopten met veroveren en gevechten winnen. Er was dus geen "gesprek" mogelijk of "redelijkheid", ze zouden kostte wat kost blijven aanvallen totdat ze een keer verloren.
+Alle vloedstormen! Water drong zijn neusgaten in. Hij werd richting de zeebodem geduwd, gehuld in dansende luchtbellen. Zijn lucht raakte op. Hij---
 
-    => Assyrië, Babylon, of Perzië? (Ook voor volgend verhaal.)
-    => Alexander de Grote was van Macedonië, een Griekse stadstaat
+Meerdere armen grepen zijn ledematen en trokken hem naar het droge. Mamotas snakte naar lucht.
 
-    => Bereid de migratie van Aryans + hun focus op taal (Vedas) + hoe dat Hindoeïsme werd alvast voor in dit verhaal of de volgende? 
-    => Caste and Dharma, check of ik al verhaal had over Hindoeïsme? => Hindoeïsme niet zo handig voor empires omdat het volledig focust op individualiteit en je eigen verlichting bereiken, terwijl Boeddhisme al meer focust op relaties en sociale banden. 
-    => JA in volgende verhaal, Caste en Karma enzo zijn een geweldige manier om sociale hiërarchie en rolverdeling binnen beschavingen te punctueren. 
+"Altijd hetzelfde," mopperde Peritas. "Wat was het deze keer? Je zag een interessante steen op de zeebodem en je _moest_ hem van dichterbij bekijken?"
 
-    Vier waarheden van Buddhisme.
-    * All life is suffering
-    * All suffering comes from desire
-    * To stop suffering, stop desiring
-    * And you can do so by following the eightfold path
+Tegen de tijd dat ze opkeken, was de rest van hun stad al op volle vaart vertrokken. Vloekend sleepten zijn ouders hem mee.
 
-## Sources
+De achterstand was niet in te halen. De stier liet iedereen marcheren, alsof plots elke boer, schoenmaker en priester ook zijn soldaat was.
 
-https://www.nytimes.com/2011/08/02/science/02warfare.html
+"Hoe denk je dat de Akradi eruit zien?" vroeg Mamotas. "Net zoals wij? Ze zeggen dat ze rode ogen hebben en vleugels. Dat hun wapens---"
 
-https://historiek.net/harappa-beschaving-vreedzaam/92672/
+"Mond houden. Doorlopen."
 
+Hoewel ze het niet konden zien, voelden ze het Akradi leger in hun rug branden. Alsof ze elk moment konden verschijnen en een speer door hun rug staken.
 
+"Ik wil ze _zien_!" riep Mamotas. "Misschien kunnen we met ze praten. Misschien is het veel leuker bij hen dan bij---"
 
+"Nee, dat is het niet." Zijn moeder stopte de nootjes in zijn mond om hem het zwijgen op te leggen.
 
-## General notes/idea
+"Hoe weet je dat nou?" sprak hij met mond vol. "Je hebt ze nooit gezien."
 
-The story is structured around three trades (chapter 1, chapter 5/6, chapter 10). 
+"Ze ontstonden in de stad Akrad, die de god Ardex vereerde. Je bent wel eens bij hem in de buurt geweest. Wat gebeurde er toen?"
 
-* The first one goes wrong and starts a mystery
-* The second one goes terribly wrong
-* The third one resolves the whole story
+"Boos. Kwaad. Iets kapot slaan."
 
-Trades between whom? Indus Valley Civilization and the Sumiser civilization (from Mesopotamia). (This is both true and useful within the story, as now I can display the _two_ earliest civilizations in one story!) Crucially, these two do not speak the same language.
+Eindelijk kwamen ze dichterbij. Het voorste punt van hun groep was de rivier al overgestoken en stond nu stil voor de dichte stadsmuren van Lagaso.
 
-The character from Indus (A) is a rebel and a troublemaker. Frankly, they are spoiled / pampered. The Indus know nothing but peace and safety. (These people are the descendants of the Asha tribe from the previous story!)
+"Zou je blij zijn als je dat de hele dag voelde? Die Akradi geloven dat ze meteen sterven als ze een dag geen oorlog voeren en geen veldslagen winnen. Allemaal _in Ardex' naam_."
 
-A is somewhat forced into a certain job and lifestyle, and they hate that. Another character tries to explain that civilization means conceding some freedom for a greater benefit---which they obviously reject. 
+"Nou, dan ben ik blij dat wij vriendelijke Cosmo hebben. Misschien kunnen wij wel vliegen?" Mamatos wapperde zijn armen, daarna zijn staart, en uiteindelijk zijn voeten. Verrassend genoeg kwam hij niet van de grond.
 
-They screw up the trade by going off-script and ignoring customs/rules. This means the Indus are now without a bunch of resources upon which they relied. When A returns, however, they _have_ received one mysterious item: a piece of writing that tells them to leave NOW, signed by their leader. Their leader, however, has passed away a few days ago.
+"We hebben niks," zei moeder. "We bidden tot ze. Nu stil zijn en doorlopen."
 
-This creates two storylines.
+De rest van de toch bleef hij stil. Elke keer als ze terug leken te komen bij de groep, liepen ze net weer een stukje door. Alsof Lagaso maar vijftig mensen tegelijkertijd wilde toelaten en daarna pauze nam.
 
-* Now A has to make things right and prove their worth to the tribe.
-* They have to figure out what the message means and who faked it.
+Totdat ze zagen dat er van toelating geen sprake was.
 
-The character from Sumiser (B) is in a constant state of war and aggression with nearby tribes. They barely sleep, never feel safe, have to fight for everything. They believe that anything is allowed to survive/be safe.
+Hun vrienden en familie beklommen de muren. De poorten waren uit hun voegen gerukt. De stier rende van links naar rechts, gevolgd door honderden Gosti met wapens die alles neerschoten dat bewoog. Gekrijs klonk door de vallei en alle vogels kozen kraaiend het luchtruim.
 
-They, too, relied on that trade. (Mesopotamia could create loads of food, but nothing else. Resources for weapons, for example, would have to come from somewhere else.) Now that it falls through, they have to flee for their lives.
+Iedereen deed mee met het gevecht, zelfs de boer en zelfs de priester. De agressiviteit verraste Lagaso, wiens stadsgod lieve Bella was. Tegen de tijd dat hun leger overeind stond, was nog maar de helft over. 
 
-Their storyline is simpler.
+Zodra Mamatos voor de muur stond, was het gebied al uitgestorven. Lijken lagen overal, zowel van henzelf als het leger van Lagaso. Was dat niet precies wat Akradi wilde? Dat de grote legers van Sumeris _elkaar_ uit de weg ruimden?
 
-* They run, run, run away from danger.
-* Where do they run to? The only (peaceful) civilization they know, the Indus.
-* Until they realize the Indus would be defenseless, so they divert their own tribe away during the climax
-* (Optionally: they divert their own people away ... but don't come with them. They actually walk towards Indus to enjoy their safety, which is a huge betrayal, but also a logical step for a character who is only concerned with their own survival.)
+Onder luid gekraak en gepiep hoorden ze een andere poort opengaan---die aan de overkant van de stad. Alle overlevenden wilden meteen verder. Ze hadden de stad zodanig vernield dat het ook weinig zou beschermen tegen de Akradi.
 
+"Pak alle voedsel en wapens die je vindt," riep de stier tegen iedereen die hij zag. "De reis naar Meluhan is lang. Maar ga zo door en we zullen het halen!"
 
+De rest joelde en klapte als hij voorbij kwam. Mamatos' ouders deden mee. Plannen voor een nieuw standbeeld van hun grote commandant werden per direct uitgesproken. De weg naar de haven werd gevonden en de eerste boten gereedgemaakt voor vertrek.
 
+Mamatos zelf was afgeleid door teksten die in de muur waren gekrast.
 
-Ardex: "Do not take pity on those working hard everyday and struggling through uncertainty. Take pity on those sitting still and living very comfortable lives of very little note. _No sleep without dance._"
+_Dankzij de nieuwe uitvinding genaamd "school", beste lezer, kon elke Sumiseri lezen. De Indus kon slechts voorwerpen uitbeelden op hun Bulla; de Sumiser kon hele verhalen vertellen._
 
+Maar waar de Bulla sierlijke symbolen hadden, was het script van de Sumiser meer alsof ze het met spijkers erin hadden geslagen. Alsof kleine, rechte takjes per ongeluk in de klei waren blijven liggen terwijl het opdroogde. Efficiënt, niet mooi. De rechte streepjes bleken ook een geweldige manier om dingen te tellen door te turven.
 
-@INTERESTING: The Garden of Eden is just a story the Sumiserians created to explain the transition from hunters-gatherers to farmers => might be setup here and paid off in the next story about the hand sign
+Hij liep langs de muren aan de buitenkant van de stad en las het hardop voor.
 
-    Die tuin van Gaia in het eerste verhaal heet ook _Eden_? Daarom noemt Feria haar eigen Legendarische Tuinen ook zo?
+"_Als een man iemand vermoordt, moet die man zelf worden vermoord._"
 
-    De Asha én Jagu hebben een keten van dood en oorlog gestart, en zijn dus helemaal weggejaagd tot aan Sumiser. (De een is al in Sumiser, vredig en alles, en we volgen hoe die ander ernaartoe wordt weggejaagd.)
+Het volgende stuk was deels verwoest tijdens het gevecht. Het stuk daarna las: "_Als een slaaf een niet-slaaf trouwt, moet diegene diens eerste zoon aan de ander afstaan._"
 
-    "Was it curiosity that caused human's expansion across the global, or asylum seeking?"
+Dit waren regels. Regels voor de mensen in de stad? Geen wonder dat Lagaso zo makkelijk viel---wie ging zich nou aan regels houden die ze niet leuk vonden?
 
-    _In deze tijd, beste lezer, was de wereld nog niet zo verbonden. Agricultuur werd dus meerdere keren opnieuw uitgevonden, op andere plekken, op andere momenten, zonder dat ze het van elkaar wisten. Terwijl ze hier bij de Twee Rivieren al een hele beschaving hadden, hadden ze op Origina het geheim nog niet eens ontdekt. Er waren maar twee manieren waarop informatie tussen beschavingen kon worden overgedragen: handelen ... of door een ander volk worden ingenomen._
+Hij sloeg de hoek om en stond voor een gebouw dat in brand stond. Een stuk van het dak stortte in. Daardoor stroomde een regen van kleitabletten naar buiten. Een ... verhaalgebouw? Wat het ook was, de informatie die erin lag was nu in ieder geval verwoest.
 
-    @IDEA: De "Legendarische Tuinen" waren opgericht door Feria om een plek te hebben waar _sowieso_ levenskracht vandaan kwam. Dit correspondeert met die Tuinen van de Goden, en dat ze de mensen hadden gemaakt om die tuinen te verzorgen. (Want de goden moesten ook te eten hebben) Maar sommige van de bomen waren dus goed voor Goden maar verboden voor mensen => de verboden appel waardoor mensen zijn weggestuurd
+Slechts die paar kleitabletten kon hij redden.
 
-    Dit is een SPROOKJE om kinderen te leren dat ze niet koppig moeten zijn of vechten tegen hun "meerderen", maar gewoon hun agricultuurwerk moeten verrichten.
+Hij voelde weer twee armen die hem meetrokken. "Mamatos! Blijf _alsjeblieft_ een keer in de buurt! Ze zijn al bijna allemaal vertrokken op hun boten."
 
-    https://www.israel-a-history-of.com/the-garden-of-eden-as-recast-mesopotamian-myth.html
+Ze raceten naar de haven. 
 
-    Eden is Sumiseriaans (?) voor "heide" of "plat veld" tussen de twee rivieren in
+Ze waren te laat.
 
+Samen met tientallen anderen stonden ze in een lege haven en konden de commandant alleen maar uitzwaaien. De twee Gostihandelaars hadden de boot ook gemist.
 
+Eén van hen hield een bijzonder voorwerp vast dat hij tegen zijn oog zette. Toen hij erdoorheen keek, schrok hij meteen en liet het voorwerp vallen.
 
-
+Het leger van Arkadi was niet ver weg meer.

@@ -7,117 +7,111 @@ Toen Prebuha wakker schrok, haar ogen stijf dicht, wist ze al dat de rivier flin
 
 Je denkt nu natuurlijk dat haar huis was ondergelopen. Dat ze niet meer in haar bedje lag, maar was weggedragen door de golven naar niemandsland. Als iemand daar doorheen kon slapen, dan was het Prebuha wel.
 
-Maar nee, ze wist het omdat de _Indus_ elk jaar twee keer overstroomde, en altijd precies op dezelfde dag. Het water zou alle planten weer aansterken en belangrijke stofjes meenemen en afzetten op het strand.
+Maar nee, ze wist het omdat de _Indus_ elk jaar twee keer overstroomde, en altijd precies op dezelfde dag. Het water zou alle planten weer aansterken en belangrijke stofjes afzetten op het strand.
 
 Nog belangrijker, het betekende _werk aan de winkel_. Dus Prebuha bleef lekker liggen en---
 
-Iemand stampte haar kamer in en tikte tegen haar bed. 
-
-"Opstaan, luilak!" zei haar moeder. "Je hebt tot middenzon om je taken uit te voeren."
+"Opstaan luilak!" riep haar moeder. "Je moet vóór middenzon je taken uitvoeren."
 
 Ze gromde. "Ik ben ziek."
 
-"Je bent niet ziek. En je taken zijn plotseling héél belangrijk geworden!" 
+"Je bent niet ziek. En je taken zijn ditmaal héél belangrijk! Kom op!" 
 
-Moeder trok haar uit bed. Ze haakte haar voet achter de poot om het tegen te houden, maar kreeg een flauwe glimlach.
+Prebuha was een luiaard met grote sterke klauwen die haar slaaptak nu stevig vastgrepen. Moeder trok haar eraf, hardhandig, maar dat verstoorde haar flauwe glimlach niet.
 
-"Oh? Ben ik eindelijk leider geworden? Mag ik commando's geven aan anderen? _Moeder, bouw nu 3 paleizen in mijn naam en_---"
+"Belangrijk? Ben ik eindelijk Gebiedsleider geworden? Mag ik commando's geven aan anderen? _Moeder, bouw nu 3 badhuizen in mijn naam en_---"
 
-"Nee. Je moet handelen met Sumiser."
+"Ophouden nu!" Zo boos had ze haar mam nog nooit gezien. En normaal was ze zo lief! 
 
-"Ugh. Dát noem je belangrijk?" 
+Ze werd haar kamer uit _geslingerd_. "Je moet handelen met Sumiser."
 
-"Als het mislukt, zitten wij zonder kleding, en eten, en bouwmaterialen voor die paleizen van jou, en---"
+"Ugh. Dát noem je belangrijk?" Had ze niet moeten zeggen.
 
-Prebuha schudde zich los en schuifelde door de opening. Moeder greep haar hand en nam haar mee, terwijl ze uitlegde uit hoe de handel werkte.
+Moeder explodeerde. "Als het mislukt, zitten wij zonder kleding, eten, bouwmaterialen, alles!"
 
-Ze deed de handen tegen haar oren. Ze wist dus écht wel hoe het werkte. Al vijf keer eerder had ze onderhandeld met mensen binnen hun eigen beschaving! Je nam wat spullen mee die je kwijt kon. Vervolgens riep je wat je wilde, die ander riep wat hij wilde, en uiteindelijk was je allebei ontevreden. Of, nou ja, dat was háár methode.
+Prebuha schuifelde met hoofd omlaag hun huis uit. Had moeder iets verkeerds gegeten? Iemand op haar staart getrapt?
 
-Een jonge boodschapper beukte tegen haar schouder en rende paniekerig door. Hij werd pas gestopt toen een oude man hem staande hield en indringend in zijn oor fluisterde. Prebuha deed de handen van haar eigen oren, maar kon niks verstaan van hun verdachte gesprek.
+Het gebouw van kleistenen was drie verdiepingen hoog en, speciaal voor de luiaards, gebouwd rondom een boom met stevige takken. Het kwam uit op een dun slingerweggetje dat alle huizen van hun Gebied verbond. Ze volgden het en kwamen uit op de kaarsrechte hoofdweg. Daar onderhandelden honderden wezens druk met verkopers.
 
-Moeder trok haar gehaast verder. Maar toen Prebuha opkeek, stonden ze niet bij hun voorraden om spullen te pakken. Om haar heen spetterden honderden mensen door het water. De meeste verzamelden stenen en klei, zo ver voorovergebogen dat hun neus de golven raakte. Hoewel ze zeker wist dat sommige paniekerige handen gewoon iets kostbaars waren kwijtgeraakt. 
+_Alles ging met handel, beste lezer. Geld was nog niet uitgevonden. Als jij nieuwe kleding wilde, moest je zelf verzinnen wat je ervoor terug wilde geven. Maar dat soort alledaagse handel was niet waarvoor Prebuha was uitgekozen._
 
-Zelf stond ze enkeldiep in het water, naast het hutje van de Kleischepper. 
+Een jonge wolvenboodschapper beukte tegen haar schouder en rende paniekerig door. Hij werd pas afgeremd toen een oude Gostiman hem staande hield en indringend in zijn oor fluisterde. Ze kon niks verstaan van hun verdachte gesprek.
 
-"Wat is dit nou weer? Is dit een grap? Ben ik hiervoor wakker geworden?"
+Moeder leidde haar door de binnenste stadsmuren. Daarna de middelste stadsmuren. Elk Gebied was omringd door haar eigen muren, en een grote stad als deze had al snel honderd Gebieden. Prebuha wilde niet nog meer omlopen voor stomme muren, dus ze besloot eroverheen te klimmen in plaats van de poort te zoeken. 
 
-Moeder fronste. "Schat, heb je me gehoord? Je gaat handelen met Sumiser. _Zij spreken onze taal niet._"
+Ze landde in een plas water. Maar ze waren nog in de stad. En ze hadden haar verteld dat de stad was gebouwd op verhoogde grond en dus nooit moest overstromen! Pff. Leugenaars.
 
-"Pff, luilakken," zei ze chagrijnig. Maar haar hart sloeg op hol. Hoe ging ze dat ooit doen? 
+Tot ze eindelijk door de buitenste stadsmuren kwamen. In de verte lonkte de Citadel, een afgelegen gebiedje---omringd door muren, vanzelfsprekend---waarin de voorraden en belangrijkste gebouwen stonden. 
 
-Ze waadde het hutje in. De Kleischepper had wijselijk alles op hoge schappen gestald. Daar pakte moeder de ene na de andere harde brok klei en wierp ze in een mand. Prebuha stapte dichterbij en zag dat deze brokken _symbolen_ hadden, iets dat ze een Bulla noemden.
+Zuchtend begon Prebuha aan de zware tocht door het water naar de overkant. Om haar heen spetterden honderden wezens. De meeste verzamelden edelstenen en klei, zo ver voorovergebogen dat hun neus de golven raakte. Sommige leken in paniek, alsof ze iets kostbaars waren kwijtgeraakt op de bodem.
 
-De Kleischepper, een man van middelbare leeftijd die altijd dingen uitrekende, was op dit moment bezig met de volgende kleibrokken. Zodra de klei nog zacht was, drukte hij het symbool erin met een paar dunne takjes. Daarna legde hij ze op het dak om te drogen in de zon. Een paar uur later zouden ze hard zijn en de tekening voor altijd dragen.
+Maar moeder ging niet naar de voorraden. Ze stopten naast het hutje van de Kleischepper.
+
+"Wat is dit nou weer? Een grap? Ben ik hiervoor uit mijn warme bed---"
+
+Moeder sloeg ruw een poot tegen haar mond. "Schat, heb je me wel gehoord? Je gaat handelen met Sumiser. _Zij spreken onze taal niet._"
+
+"Pff. Luilakken," zei ze chagrijnig. Maar haar hart sloeg op hol. Hoe ging ze dat ooit doen? 
+
+Ze waadde het hutje in. De Kleischepper had wijselijk alles op hoge schappen gestald. Daar pakte moeder de ene na de andere brok en wierp ze in een mand. Prebuha stapte dichterbij en zag dat deze brokken _Bulla_ waren: harde klei met symbolen erin getekend.
+
+De Kleischepper, een echidna van middelbare leeftijd die altijd dingen uitrekende, was op dit moment bezig met de volgende kleibrokken. Zodra de klei nog zacht was, drukte hij het symbool erin met een paar dunne takjes. Daarna legde hij ze op het dak om te drogen in de zon. Een paar uur later zouden ze hard zijn en de tekening voor altijd dragen.
 
 Prebuha had het vaker gezien. Nu pas begreep ze dat de Kleischepper niet gewoon creatief wilde zijn.
 
 Alle symbolen werden aan haar uitgelegd. Een vogel stond voor vogelvlees. Een vis voor visvlees. Een zaadje stond voor plantenzaadjes. Nou, ja, het sprak dus eigenlijk voor zichzelf.
 
-Zolang de tekening duidelijk was, kon ze met deze Bulla aangeven wat ze aanbood en wat ze wilde hebben.
+Het was al bijna middenzon toen ze, met een mand vol zware stenen, uit het hutje stapte. Opnieuw hoorde ze gefluister om haar heen. Ze had sterk het idee dat de angstige wezens _haar_ aankeken terwijl ze het deden.
 
-Het was al bijna middenzon toen ze, met een mand vol zware stenen, uit het hutje stapte. Een jongen van haar leeftijd spetterde haar nat in het voorbijgaan.
+De laatste kleibrokken waren gehard in de zon.
 
-"Sorry! Maar heb grote uitvinding gedaan! Dit moet vader weten!" 
+Dit was haar laatste kans.
 
-Hij drong het hutje in met een groot houten apparaat in zijn hand. Het paste niet in de opening. Bij elke poging om toch binnen te komen, brak hij meer van het hutje af, dus de Kleischepper riep dat zijn zoon Welpon buiten moest blijven. 
+"Mam, wat als het mis gaat? Ik heb dit nooit gedaan. Waarom moet _ik_, een klein luiaardmeisje, deze oh zo belangrijke handel doen?"
 
-Prebuha vond ze allebei maar raar. Altijd dingen maken en uitrekenen. Ze beweerden zelfs het weer te kunnen voorspellen.
+Moeder keek streng. "Je hebt geen idee hoe hard ik moest handelen om jou deze kans te geven! We ... hebben niet zo'n sterke positie deze keer. We hebben weinig te bieden, maar vragen veel."
 
-Opnieuw hoorde Prebuha gefluister om haar heen. Ze had sterk het idee dat mensen _haar_ aankeken terwijl ze het deden, met angst en schrik op hun gezicht.
+"Maar ... maar waarom?"
 
-Welpon had zijn apparaat met een grote plons in het water geïnstalleerd. Een lange houten balk zat vast aan een soort kom waarin een grote kat rustte. Ze bleef er maar uitlopen, totdat Welpon zuchtte en maar een grote steen in de kom legde. 
-
-"Hmm. De katten werken niet mee. Ik ga het toch lekker een katapult noemen! Kijk, als ik op deze kant spring, dan---"
-
-"NEE!" Zijn vader kwam te laat. Welpon schoot de steen ver de lucht in, sneller dan Prebuha kon volgen. Het raakte een toren van het Grote Badhuis en brak een stuk van het dak af.
-
-Alle omstanders schudden hun hoofd. Zijn vader had het snel uitgevogeld: hij trok precies de juiste balk eruit om het apparaat in elkaar te laten storten.
-
-"Lieverd," zei zijn vader. "Wat had leider Larsham nou gezegd? Géén ... hoe noemde jij het nou?"
-
-"Wapens!"
-
-"Geen wapens meer maken." 
-
-De Kleischepper tilde zuchtend de brokken van dit apparaat naar een hutje waar al die wapens van Welpon werden weggestouwd.
-
-Prebuha realiseerde dat dit haar volgende smoesje was. Haar laatste kans om eronderuit te komen. 
-
-"Ik heb nog nooit met Sumiser onderhandeld, mam! Wil je dat het net zo mis gaat als dit? Waarom moet _ik_, een klein meisje, dat hele eind lopen met zware stenen en onderhandelen?"
-
-Moeders glimlach was van korte duur. "We ... hebben niet zo'n sterke positie deze keer. We hebben weinig te bieden, maar vragen veel. Geen van ons heeft jouw geweldige ... vaardigheid om eigenwijs je wil door te drukken."
+Moeders glimlach was van korte duur. "Geen van ons heeft jouw geweldige ... vaardigheid om eigenwijs je zin door te drukken."
 
 "Nee. Ik zeg _nee_."
 
 Moeder liet vier Bulla in het water vallen. Een andere vrouw sprong erachteraan om ze te pakken voordat ze voorgoed waren verloren aan de golven.
 
-"Dat is geen optie."
+"Geen optie. Duizend dagen straf als je niet doet wat ik zeg! Denk erom!" Een hele kudde leek wel op moeders staart getrapt vanochtend.
 
 "Jullie vinden jezelf toch zo geweldig? Praten over beschaving en alles? Nou, hoe geweldig kan je zijn als je geen _vrijheid_ hebt om te doen wat je wilt!?"
 
 "Schat, beschaving betekent juist een beetje vrijheid opgeven om samen geweldig te worden. Niks beter om dat te leren, dan het ontmoeten van een andere beschaving."
 
-De laatste kleibrokken waren hard geworden in de steeds hetere zon. De mand eindelijk vol, de lijst van eisen in haar hoofd, werd ze toch echt op pad gestuurd. Ze stuurden zelfs de zoon van Larsham---hun leider op dit moment---met haar mee om zeker te zijn dat ze niet stiekem een rondje liep en terug in haar bed ging liggen.
+Ze vertrok naar de haven. Larsh, de zoon van hun huidige Gebiedsleider Larsham, werd meegestuurd om te controleren of ze wel écht naar de haven ging en niet terug naar haar warme bedje. De hyena was nerveus. Rode ogen en diepe wallen verraadden dat hij slecht had geslapen. Hij fluisterde ook zo mysterieus, maar tegen zichzelf. 
 
-Hij was nerveus. Rode ogen en diepe wallen verraadden dat hij slecht had geslapen. Hij fluisterde ook zo mysterieus, maar tegen zichzelf. 
+Daar zag ze het schamele bootje dat ze had gekregen, plus vier jonge wolven die de voorraden hadden opgehaald en ingeladen. Moeder porde in haar rug totdat ze op de boot stond. Toen ze de zware mand liet vallen brak ze een plank in de bodem. 
 
-Zodra ze over de grens liepen, draaide hij zonder een woord om en rende terug.
+Ze vertrokken met haastige spoed, terwijl Larsh hen afwezig uitzwaaide.
 
-"Ja joh, laat me maar alleen," zei ze tegen haarzelf. "Mijn poten zijn al dood van dit gewicht. Ik ben vergeten water mee te nemen. Top."
+Ze had de neiging om eerst langs Omako te gaan. Veel dichterbij, en dan kon ze onderhandelen voor kamelen, die wilde ze altijd al hebben. Ze hadden toch alle tijd! Het zou nog---
 
-In de snikhete zon schuifelde ze vooruit. Kon ze niet eerst langs de Omako gaan? Veel dichterbij. Ze hoorde dat die kamelen ruilden voor bijna niks. Kon ze haar voeten even rust geven.
+"Schepen in zicht!" riep een wolf.
 
-Het ontmoetingspunt was altijd halverwege de twee beschavingen. Dat was het eerlijkst, natuurlijk. Ze lagen niet ver uit elkaar, maar ook niet bepaald dichtbij.
+"Onmogelijk," zei ze. "Die luie Sumisers komen nooit uit hun eigen gebied. Wij zijn veel te aardig dat we altijd helemaal naar hen toe komen."
 
-Maar Prebuha was nauwelijks uit het zicht van de Indus toen ze al op andere handelaars stuitte. 
+Toch volgde ze de uitgestoken poot. Verdraaid. Een schip van Sumiser.
 
-Twee Gosti stonden voor haar. Aapachtigen met grote ogen, en een doek boven hun hoofd tegen de zon. Ze wezen naar de mand en zeiden iets tegen elkaar. Daarna lachten ze haar uit.
+Ze controleerde het symbool op het zeil met een speciale blauwe Bulla. De handtekening paste bij die van de handelaars die ze moest ontmoeten. Wat deden ze helemaal _hier_?
 
-Prebuha negeerde het. Aandacht erbij. Laat je niet gek maken. Als ze jou willen laten onderhandelen, nou, dan ging ze de beste handel ooit drijven! 
+Niet veel later stonden twee Gosti op haar dek. Hun eigen schip zag eruit alsof een peuter het in elkaar had getimmerd, dus ze begreep het wel. 
 
-Ze pakte de juiste beige kleibrokken uit haar mand. Ze wees eerst naar haarzelf en daarna naar de Gosti---het teken dat dit hun _aanbod_ was. Een berg klei, een berg vlees en plantaardig voedsel, een berg blauwe en rode stenen. Zij hadden er niks aan, maar voor de Sumiser was dit blijkbaar een teken van luxe en macht.
+De aapachtigen met grote ogen hadden een doek omgebonden tegen de snikhete zon. Ze wezen naar de mand en zeiden iets onverstaanbaars tegen elkaar. Daarna lachten ze haar uit.
 
-De Gosti fronsten. Zij pakten hun eigen stenen---iets groter en blauw getint---en gaven hun eigen aanbod. Een beetje katoen en voedsel, altijd goed. Een paar stukjes metaal, waarvan haar moeder beweerde dat ze er veel sterkere dingen mee konden maken. En dat was het.
+Prebuha negeerde het. Aandacht erbij. Laat je niet gek maken. Als ze haar dwongen om te onderhandelen, nou, dan ging ze de beste handel ooit drijven!
+
+Ze had geen eigen Bulla handtekening---daarvoor deed ze niet genoeg belangrijke dingen---dus ze had die van haar Gebiedsleider meegekregen. Een hele eer, zeiden ze tegen haar. Raak hem niet kwijt. Toen ze die liet zien, namen de Gosti haar serieus.
+
+Ze pakte de juiste beige kleibrokken uit haar mand. Ze wees eerst naar haarzelf en daarna naar de Gosti---het teken dat dit haar _aanbod_ was. Een berg klei, een berg vlees en plantaardig voedsel, een berg blauwe en rode stenen. Zij hadden er niks aan, maar voor de Sumiser was dit blijkbaar een teken van macht. 
+
+De Gosti fronsten. Zij pakten hun eigen stenen---iets groter en blauw getint---en gaven hun eigen aanbod. Een beetje katoen en voedsel, altijd goed. Een paar stukjes brons en ander metaal, waarvan haar moeder beweerde dat ze er veel sterkere dingen mee konden maken. En dat was het.
 
 Belachelijk! 
 
@@ -133,15 +127,15 @@ Ze glimlachte. Nu kwamen ze ergens. Ze wist dat Sumiser veel diersoorten had die
 
 De handelaars praatten lange tijd met elkaar. Zuchtend werd haar aanbod geaccepteerd.
 
-Hoe ver kon ze gaan? Wat---ze besefte waarom de handelaars helemaal hiernaartoe waren gekomen. Zij waren nog meer in paniek, ze wilden de handel niet langer uitstellen.
+Hoe ver kon ze gaan? Wat---ze besefte waarom de handelaars helemaal hiernaartoe waren gekomen. Zij waren nog meer in paniek! Ze wilden de handel niet langer uitstellen.
 
-Kon ze daar gebruik van maken?
+Kon ze daar misbruik van maken?
 
-Ze haalde al het vlees uit haar eigen aanbod. Ze moesten zelf ook nog te eten hebben! Vervolgens eiste ze iets waarvan ze wist dat Sumiser het ook had: kamelen. Vier stuks, want je weet maar nooit. Straks hield de ene kameel halverwege op en moest ze alsnog op haar eigen poten lopen!
+Ze haalde al het vlees uit haar eigen aanbod. Ze moesten zelf ook nog te eten hebben! Vervolgens eiste ze iets waarvan ze wist dat Sumiser het ook had: kamelen. Vijf stuks, dan hoefden ze haar de komende tijd niet meer op onderhandeling te sturen. En nog meer katoen voor een héél zacht bedje.
 
 Ze grinnikte bij het uitstallen van haar nieuwste bod.
 
-Hun monden vielen open. De Gosti speelden met de brokken in hun kleine vingers. Hun gesprek werd steeds luider en bozer.
+Hun monden vielen open. De Gosti speelden met de brokken in hun kleine vingers. Hun gesprek groeide luider en bozer.
 
 Totdat _zij_ al hun brokken terug pakten en wegliepen.
 
@@ -151,12 +145,12 @@ Niet toegeven. Zij speelden ook een spelletje. Zij---nee, ze liepen echt weg.
 
 Ze wachtten niet. De kleinste van de twee rommelde in hun mand en vond een veel groter, platgeslagen brok klei.
 
-Hij wierp het terug, bijna in haar gezicht. Het was geen aanbod, geen Bulla.
+Hij wierp het terug, bijna in haar gezicht. Daarna klommen ze in de touwen van hun schip, zoals ze behendig in bomen klommen, en voeren weg.
 
-Het was een boodschap, geschreven in haar eigen taal. 
+Het was geen aanbod, geen Bulla. Het was een boodschap, geschreven in haar eigen taal. 
 
-_Iedereen moet nu vertrekken! Grote rampen zijn aanstaande, ik weet het zeker, en als we niet vluchten gaan we allemaal ten onder! Ik ben zelf al gevlucht naar Sumiser. Volg._
+_Iedereen moet nu vertrekken! Grote rampen zijn aanstaande, dat weet ik met zekerheid. Ik ben zelf al gevlucht naar Sumiser. Maak haast!_
 
-Eronder stond de handtekening. Drie golfjes, de middelste langer en dikker, om een rivier aan te duiden.
+Eronder stond de handtekening. Drie golfjes, de middelste langer en dikker, om hun geliefde Indusrivier aan te duiden.
 
-De handtekening van haar eigen leider Larsham.
+De handtekening van haar eigen Gebiedsleider.
