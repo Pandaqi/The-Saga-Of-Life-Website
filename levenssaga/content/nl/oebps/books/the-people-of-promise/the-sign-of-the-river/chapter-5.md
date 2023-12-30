@@ -5,205 +5,150 @@ weight: 5
 
 Prebuha zat in Larsh kamer, op twaalfde verdieping van het mooiste gebouw in het Gebied. Ze werd voorbereid op haar onderhandeling met de aanstormende Sumiseri. Na lang zeuren mocht haar moeder erbij zijn. Nou, ze wist inmiddels wel van wie ze die vaardigheid had om je wil door te drukken.
 
+"We hebben geen idee waarom de Sumiser plots met een grote lading boten hiernaartoe komt," zei Larsh. "Ik heb geen tijd om langs alle andere Gebieden te gaan en te vragen of zij een beter plan hebben. Misschien doen zij op dit moment wel precies hetzelfde. Dus, god helpe ons allen, we sturen jou per direct om je onderhandeling af te maken."
 
+"Een wijze keuze," zei moeder direct. "Ze zal je niet teleurstellen."
 
+Larsh snoof zijn neus. "En heeft je dochter al ontdekt wie mijn vader heeft vermoord?"
 
+"Hij ..." Prebuha slikte en keek weg. "Hij lijkt echt ongelukkig te zijn gevallen, Larsh."
 
+Hij stormde de kamer uit. "Maak je gereed, luilak! Je had al op dat schip moeten staan!"
 
+Ze pakte de laatste Bulla en rende achter hem aan---maar moeder versperde de opening. Ze legde een laatste Bulla in haar handen, eentje met een boot en een duidelijk kruis. Dáár moest ze over onderhandelen: wat kostte het om de schepen van Sumiser om te laten draaien?
 
+"Die boten mogen niet aanleggen, schat. Vecht als een hyena."
 
-# Revisies
+Prebuha stond stijf van de spanning. "Waarom doe je dit, mam? Ik ben een slechte handelaar, iedereen weet het. Ik vind het ook stom."
 
-H3 (en daarvoor?): 
-* Prebuha is juist _voor_ dat ze andere landen gaan inpikken (zoals Sumiser), want dan krijgen ze al die dingen ZONDER dat ze iets ervoor terug hoeven te handelen!
-* Prebuha is de eerste persoon die de hyena Dief kan tegenhouden, maar ze doet het niet (want dat kost moeite, en waarom haarzelf in gevaar brengen?) => vervolgens helpt niemand haar als ze weg wordt gestuurd, en ook de andere Gebieden zijn zo van "we hebben niks te maken met jouw gebied, we zijn niet verplicht om je op te vangen, verdwijn"
-* Badhuis = noem het smeren van tar voor waterdicht zijn, de standaardgrootte van alle bakstenen.
-* MEGITAS noemt hoe vreemd het is dat de Gosti zo snel opgaven, en zelfs in wanhopigheid niet toegaven aan iets dat ze KONDEN leveren.
+"Omdat je _iets_ moet doen, schat. Iets om je eigen eten te krijgen, want ik zal er niet altijd zijn."
 
-H4 (eventueel): 
-* De commandant wordt bijna opzij gezet eerst omdat hij niet meer de "favor of the gods" zou hebben na deze overstroming.
-* Ze zijn hun eigen boten kwijt door de overstromingen? Waarom gaan ze eerst naar Lagaso om vervolgens over de zee te gaan!?
+"Wie heeft die regels bedacht!? Ik _wil_ niet iets doen!" Ze had zin om die Bulla door de kamer te gooien, en tegelijkertijd niet eens de energie om een stap te zetten.
 
+Moeder zuchtte en mompelde: "Het gaat niet eens om jou. Of ons Gebied. Ik hoopte dat jij de eer van onze familie kon redden."
 
+Dat versteende haar, zoals elke keer als iemand weer over haar vader---"de dief"---begon. En dat gebeurde vaak, want iedereen fluisterde als ze langsliep en ging ervan uit dat zij ook een dief zou worden. Moeder zei altijd dat hij daarom zelf op een dag was weggelopen. Om aan de fluisteringen te ontkomen. Ze zag nu pas wat voor slechte smoes het was.
 
+"Vader is niet weggelopen, of wel?" fluisterde ze. 
 
+De stem van Larsh riep opnieuw dat ze moesten opschieten. Moeder bleef de deuropening versperren en legde een grote klauw op de schouder van haar dochter.
 
-## Stukken voor H5/H6 om Indus nog verder uit te leggen
+"Nee."
 
+"Hebben ze hem ... opgesloten? Voor één keer iets stelen?"
 
-@IDEA: Dit is allemaal ontstaan door de Tijdreizigster? Die ging terug en probeerde haar "utopia" te maken
-    => Als Prebuha de migratie en diversiteit beschrijft, zegt ze ook zoiets als "We hebben zelfs een witte en zwarte panda hier. Wist niet dat die ook al binnen waren gekomen!"
+"Het was niet één keer, meid. Je vader weigerde te werken. En de leden van Asha weigerden om hem te _dwingen_ met geweld. Dus hij stal al ons eten bij elkaar ... en vluchtte snel naar het volgende Gebied voordat het duidelijk werd. De Gebieden praten nauwelijks met elkaar---maar de legende van de stelende luiaard was overal bekend! We woonden eerst middenin de prachtige hoofdstad Harap, maar vluchtten steeds meer naar de rand."
 
-@IDEA: Stiekem plaatst Megitas (of die leider ofzo) al heel lang Welpon's wapens over de hele rand van het gebied, en dat is de enige reden dat ze nog niet zijn aangevallen?
+Moeder gaf haar een warme knuffel. "Totdat hij te ver ging. Hij stal een zak noten, maar de menigte was al ingelicht. Zodra een winkelier riep dat hij was bestolen, vormden ze samen een muur en vielen hem tegelijkertijd aan."
 
-    => Met het einde van deze beschaving is ook alle hoop vervlogen op vredige beschavingen vanaf nu?
+Samen liepen ze de trap af en naar buiten. De andere inwoners wezen de weg naar het schip als een erehaag, maar bleven op flinke afstand.
 
-    => Megitas heeft de leider vermoord, zodat hij zijn---veel makkelijker te manipuleren---zoon kan gebruiken om praktisch leider te zijn?
+Ze huilden samen. "De menigte heeft hem ter plekke doodgeslagen."
 
-    => Of is de leider per ongeluk vermoord door een wapen van Welpon? (Ze vinden een zware steen die waarschijnlijk de leider van de muur heeft geworpen? Maar dit blijkt een wapen van BUITENAF?)
+Geen wonder dat Prebuha van jongs af aan al een hekel had aan dit Gebied. Ze had de herinnering weggedrukt, maar het gevoel van oneerlijkheid en vijandigheid bleef. Ze wilde niet werken voor deze wezens.
 
+Maar nu stond ze bij een schip, alle ogen op haar, en moeder had met pijn en moeite deze grote kans afgedwongen.
 
+"Wat heb je moeten geven, mam?" fluisterde ze. "Wat heb je verhandelt om mij deze kans te geven?"
 
+Moeder schudde haar hoofd en gaf haar een laatste zoen. "Dat hoef jij niet te weten. Dat is mijn bescherming voor jou."
 
-Outline soort van:
-* Meer over Harappan beschaving, hoe gebouwen eruitzien, etcetera
-  * Huizen waren gedraaid om wind te vangen als automatische air-conditioning.
-  * Ze hadden water-proofing.
-  * Roads were cleaned by winds, roofs collected rainwater.
-  * Ze groeiden vooral Barley en Wheat, maar waren geobsedeerd met allerlei spices.
-  * Wat Sumer wilde van Harappa: lapis lazuli, goud, silver, koper, hout, ebony, ivoor, schildpadschild, kip, buffalo, pauw, hond, kat, aap
-  * City Planning: grote paden die Noord-Zuid, Oost-West wijzen
-    * Opgedeeld in blokken, maar daarna was het vrije steegjes en losse paden (dus niet zo'n grid als Amerika), met ingang van huizen nooit aangesloten op de drukke hoofdweg.
-  * Waren vooral erg geïnteresseerd in hygiene / "sanitation" / plumbing.
-  * Bulla: altijd een dier + inscriptie. (Lijkt van rechts naar links geschreven, want op veel zegels raken ze in paniek als ze aan de linkerkant ineens geen ruimte meer hebben.)
-  * Standaardiseren van gewichten en metingen. (De seals, maar ook vaste afmetingen van bricks: 1:2:4)
-  * Bewerking metaal, manieren om water af te voeren of juist aan te voeren, handel brons tegen katoen. (Indus had zelf geen brons.)
-    * Steden veel verder uit elkaar dan in Mesapotamië, toch alles gestandardiseerd!
-  * Hun rijk is _gigantisch_; Prebuha woont aan de rand ergens.
-  * De meeste steden liggen langs de Ghagger-Hakra, die was misschien nóg beter dan de Indus. (Mensen denken dat dit de "lost" Sarasvati rivier is uit Hindu mythologie.)
-  * Ze hadden keramiek speelgoed dat ze mee in bad namen, zoals ... een (rubber) eend.
-* Ze ondervraagt mensen en probeert te achterhalen wat er precies aan de hand is met dood leider, zonder het weg te geven.
-  * Het idee van handtekeningen / paspoorten moet hier eigenlijk wel belangrijk zijn en terugkomen.
-* Eindigt met dat ze opnieuw de onderhandeling ingaat. => 
+Het schip vertrok. Een samenraapsel van voorraden was overal en nergens neergezet. Ze had weer een paar wolven mee om alles te tillen en de boot te sturen. Larsh rende over het strand om de leider van een ander Gebied te ontmoeten voor een gesprek. Megitas en de Kleischepper stonden bij de voorraad waarin Welpons wapens werden opgeslagen. Overwogen ze om die in te zetten?
 
+Al die mensen werden al snel zwarte puntjes aan de horizon. Totdat haar stad helemaal uit zicht was en zij alleen over de golven gleed.
 
+Haar hoofd duizelde. Haar eigen mensen, het Gebied waarin ze haar hele leven was opgegroeid, hadden haar vader vermoord. Haar moeder gaf alles van haarzelf weg om te zorgen dat ze hun familie weer leuk vonden. En nu moest ze een stel Sumiseri, waarmee ze niet kon praten, overtuigen om iedereen te sparen? 
 
-@TODO: Rond 2600-1900 BCE => zet juiste tijd bij metadata
+Ze had het grappig gevonden als ze nog de energie had om te lachen.
 
-@TODO: Gedichtje bij voorpagina
+De rij schepen van Sumiser doemde op aan de horizon. Nee, het was geen nette rij. Ze voeren allemaal met andere snelheden en in andere richtingen. Eentje prikte met haar voorkant in het strand en kwam vast te zitten. Waardeloze scheepsvaarders waren het.
 
-Good video about the entire Harappan Civilization: https://www.youtube.com/watch?v=rlONwxT9Nlc
+Ze voer dichterbij en kon de symbolen op hun zeilen lezen. Ze vergeleek het weer met de handtekening op de blauwe Bulla, en ja, dit waren dezelfde handelaars. Het stelde haar iets meer gerust, maar niet veel.
 
+Pas toen ze al bijna naar elkaar konden schreeuwen, merkte ze dat ze nog geen levend wezen had gezien.
 
-Al vijf keer eerder had ze onderhandeld met mensen binnen hun eigen beschaving! Je nam wat spullen mee die je kwijt kon. Vervolgens riep je wat je wilde, die ander riep wat hij wilde, en uiteindelijk was je allebei ontevreden. Of, nou ja, dat was háár methode.
+Alle schepen waren leeg en verlaten. Ze gleden alle kanten op omdat er _niemand_ aan het stuur stond.
 
+Pardon? Wat was dit?
 
+De wolven keken naar haar, klauwen op een horizontaal stuur dat ze konden draaien door vooruit te lopen. 
 
+"Vaar door."
 
+Ze prikten door de rij heen. De snelheid van haar schip, en de golven die ervandaan kwamen, duwden de andere boten netjes aan de kant. Zo voeren ze door tot het hart van deze vloot.
 
-## Outline
+Maar waar ze ook keek, hoe hard ze ook riep, er was niemand. 
 
+Zaten ze verborgen onder het dek? Was het een valstrik? Ze begreep er niks van.
 
+Maar als niemand de boten bestuurde, ging ze die nooit allemaal omgekeerd krijgen.
 
-**H5**: Prebuha gaat terug naar onderhandelplek, maar die anderen ... komen natuurlijk niet. In plaats daarvan verschijnt een ander volk? Een gemaskerd persoon die in de schaduwen blijft? Een valstrik? (Uit wil om het goed te maken en niet met lege handen terug te komen, geeft ze geheimen weg---zoals wapenloosheid---of te veel goederen?)
+Ze mocht _niet_ opnieuw falen! Ze moest iets bedenken. Het werd al donker. De eerste schepen zouden binnenkort gevaarlijk dichtbij komen.
 
-=> Ze heeft eerst dat gesprek met haar moeder?
+Alle boten vernietigen? Nee, want ze hadden geen _wapens_ op dit schip! Domme Asha!
 
-=> Ze vertrouwt het weer omdat de handtekening/paspoort match, maar dan blijkt _deze_ vervalst?
+Ze had inmiddels de achterkant van de vloot bereikt. 
 
-_Natuurlijk hadden ze wel wapens, beste lezer. Speren om vissen mee te vangen. Messen om vlees mee te snijden. Ze noemden het alleen gereedschappen en weigerden het ook voor iets anders te gebruiken. Misschien dachten de meeste wezens er niet eens aan dat ze anders konden ingezet. De Indus wilden vrede---ze waren niet dom._
+"Draai om. Zoek naar een teken van leven."
 
-@IDEA: Prebuha's vader weigerde werk te verrichten. Zelfs toen ze hem fysiek aanvielen om hem te dwingen. Uiteindelijk ging dat zo ver dat hij stierf aan een hoofdwond. => Haar moeder heeft hard gevochten om deze belangrijke handel aan Prebuha te geven, om hun status weer te verhogen en te zorgen dat ze hard leert werken. ("Wat heb je ervoor moeten verhandelen, mam?" "Dat is niet belangrijk." => hevig geïmpliceerd dat ze haar lichaam moest verkopen?)
-  => Haar vader maakte er steeds een zooitje van in zijn huidige Vak, en liep dan naar de volgende.
-  => Zo is deze familie uiteindelijk helemaal aan de _rand_ uitgekomen, totdat het voorbij was voor Vader.
+"Er is echt niemand, Prebuha."
 
+"Wat kan het dan zijn?"
 
-**H6**: Prebuha wordt uit haar beschaving gegooid. Ze gaat koppig verder met haar onderzoek, terwijl ze langzaam merkt hoe ze niet kan overleven en dergelijke.
+Ze krabden achter hun flinke oren. "Dat is voor ons ook een raadsel."
 
-=> Zo kan ze dat bewijs van de "katapultkogel" vinden rondom de muur en dergelijke. Ook kan ze Kleischepper opzoeken, want zijn hutje staat buiten de muren.
+Daar! Aan de kust, in de verte, stond een groepje wezens. Prebuha ging er meteen op af.
 
-**H7**: Nog een keer vanuit Sumiser. Verder vluchten. Ze pikken Prebuha op? Die zegt zo van "ik doe alles dat jullie vragen, ik werk voor jullie, maar laat me bij de groep"
+Het was een gekke verzameling van diersoorten, zoals ze gewend was van Sumiser. Vlakbij lag een scheepswrak dat met geweld op de kust leek te zijn gebotst. Was er een ongeluk gebeurd? Had daarom iedereen de schepen verlaten?
 
-=> They barely sleep, never feel safe, have to fight for everything. They believe that anything is allowed to survive/be safe.
+Maar waarom kwamen ze in eerste instantie met zoveel schepen?
 
-=> Nu Prebuha er is, kan ze die Gostihandelaars ondervragen over waar het bericht vandaan komt enzo
+Prebuha meerde aan en sprong van haar schip. Haar klauwen landden diep in de zachte aarde, terwijl de wolven alvast wat voorraden pakten om te bewijzen wat ze hadden. 
 
-=> Zij hebben tijd uitgevonden, dus vanaf nu kan ik "secondes" en dergelijke gaan gebruiken?
+Pas toen ze opkeek, zag ze dat deze wezens _maskers_ op hadden.
 
-=> Mametos pikt Prebuha op, juist omdat hij wéér wegloopt en dingen gaat onderzoeken. (Terwijl zijn ouders zijn van "blijf dichtbij, vertrouw niemand, etcetera", doet hij het omgekeerde.)
+Een stier liep naar voren. Zijn masker was diepzwart met felrode strepen. De slagtanden van een groot monster maakten het af. Ze durfde er nauwelijks naar te kijken.
 
-@IDEA: Sumiser zegt op een gegeven moment "Waarom nemen we hun gebied niet over!?" met als antwoord "We kunnen alles krijgen wat we willen door te handelen. Door een paar dingen weg te geven die we zelf niet nodig hebben. Waarom zouden we wél aanvallen?" ("Nou, ja, we _konden_ onderhandelen ...")
+Hij zei iets in een taal die ze niet begreep.
 
-    => "Mijn vader woont daar. Mijn zus is getrouwd met iemand in hun andere grote stad. We vallen onze eigen familie niet aan."
+Ze gebaarde dat ze het niet verstond en presenteerde de Bulla. Ze zou simpel beginnen. Veilig. Ze vroeg wat eten, wat metaal, en natuurlijk dat de schepen verdwenen.
 
-    => Dat verhaal van Garden of Eden was origineel van Sumiser, dus hier geïntroduceerd? Kinderen worden verteld dat ze naar "het beloofde land" of de "goddelijke tuinen" gaan? => De oorsprong van dit verhaal staat op die kleitabletten die hij heeft gered.
+Door het masker kon ze niet zien wat de stier ervan vond. Begreep hij het niet?
 
-    => Zij geloofden dat Eridu de allereerste stad van de wereld was. Stad van de goden. Het stond ongeveer gelijk met Eden in hun ogen. (Zelfs als dat niet waar is, hebben ze waarschijnlijk de eer om de eerste stad ter wereld te hebben.)
+Ze wees eerst naar de boot met het kruis erdoorheen en daarna terug naar alle boten op het water. Al waren die nauwelijks te zien in de nacht.
 
-    => Ja, zo'n beetje alles in de Bijbel heeft toch diens oorsprong in Sumer, dus daar moet ik wel iets mee?
+De stier lachte. Hij zei weer iets hardop. Prebuha maakte opnieuw duidelijk dat het niet---oh, het was niet aan haar gericht.
 
+Achter hem trokken alle wezens plots wapens tevoorschijn. Haar hart stopte. De wolven kwamen beschermend voor haar staan.
 
-**H8**: Prebuha doet er alles aan (samen met B?) om te zorgen dat ze worden afgewend. Dat lukt, maar zelf sluipen ze stiekem terug naar de Indus.
+Ze richtten de wapens _omhoog_. Even later vlogen pijlen en kogels door de lucht, om even later een boot op het water te doorboren. De meeste waren zo gammel gebouwd dat ze meteen uit elkaar spatten.
 
-"Jij zou alles doen om jouw groep te beschermen, om je sociale groep te helpen. Oorlog is exact hetzelfde. Het is alleen de meest agressieve uiting van opstaan voor jezelf en je soortgenoten." => Ik wil dat idee van "Evolution within groups" (altruïsme kan toch ontwikkelen omdat het helpt om jouw _groep_ sterker te maken dan andere _groepen_) en "War is simply the most destructive expression of social behavior."
+Tot de stier weer iets schreeuwde en alles ophield.
 
-**H9**: Ze vindt de boosdoener van het bericht: een wetenschapper die had voorspeld dat een aardbeving/vulkaanuitbarsting eraan kwam, maar wist dat niemand hem zou geloven als het niet van de leider kwam. => Kleischepper natuurlijk. Ze evacueren op het laatste moment. (Aardbeving zorgt natuurlijk dat de rivier stopt met betrouwbaar overstromen.) Prebuha doet een laatste onderhandeling, maar deze keer doet ze het goed.
+"Ga door! Ga door!"
 
-    => Uiteindelijke message: "Geen bescherming zonder gevaar" (zowel over dat ze dus zichzelf niet verdedigen, maar ook het "fijne gevoel" van beschermd worden of veilig zijn)
+Hij wees in de richting van de Indus. De eerste stad was net zichtbaar vanaf hier: ze stonden hoog op een heuvel en in de stad waren vele vuurtjes aangestoken.
 
-    => Grootste deel vlucht naar Ganges, het nieuwe centrum van beschaving in Azië. De rest gaat terug naar leven in kleine zelfstandige dorpjes.
+Daarna pakte hij een Bulla uit haar mand. Degene met een zwaard.
 
-    => (Optionally: they divert their own people away ... but don't come with them. They actually walk towards Indus to enjoy their safety, which is a huge betrayal, but also a logical step for a character who is only concerned with their own survival.)
+Wat was zijn vraag? Welk antwoord betekende dat hij doorging met de boten vernielen?
 
-    => IDEA: Die commandant schrijft heel heldhaftig over alles wat hier is gebeurd, wat compléét niet waar is en alleen maar hemzelf ophemelt. (Maar dat vinden ze dus terug in hoofdstuk 10.)
+"Nee, ik heb geen wapens." Ze tikte op het symbool en schudde haar hoofd. Haar haren stonden recht overeind. Als deze gemaskerde wezens vijandig waren, was ze al dood.
 
-    => IDEA: Eenhoorns komen hier tevoorschijn? Als grappige verklaringe voor waarom die op de Indus seals staan?
+"Geen ... wapens?" zei de stier haar langzaam na, terwijl hij een pijl in zijn klauwen hield.
 
-**H10**: Sprong naar de toekomst. Mensen vinden de overblijfselen van deze beschaving. Verbaast over dat ze geen wapens hadden, verbaast over waarom ze toch plotseling verdwenen. Ze eindigen met "Maar alles wijst erop dat de Assyriërs op volle sterkte de vallei in stormden, rekenend op het eten en rijkdommen die ze konden plunderen. Ze vonden slechts lege huizen en onbruikbare grond naast een overstroomde rivier."
+Ze knikte.
 
-Ook praten ze over hoe "de mens de hele wereld heeft afgezocht, och och, wat zijn die mensen toch nieuwsgierig en ontdekkingsreizigers" => terwijl dit verhaal heel duidelijk aangeeft dat ze op de vlucht waren voor alle oorlog
+_Natuurlijk hadden de Indus wel wapens, beste lezer. Speren om vissen mee te vangen. Messen om vlees mee te snijden. Ze noemden het alleen gereedschappen en weigerden het ook voor iets anders te gebruiken. Ze hadden geen grote wapens die veel schade konden aanrichten. De Indus wilden vrede---ze waren niet dom._
 
-OOK over hoe ze de Sanskriet natuurlijk hebben ontcijferd en dat het vele talen heeft beïnvloed, maar dat ze de taal van Indus nog steeds niet begrijpen. (En dan misschien nog een grapje/geheim over wat er staat, als je het verhaal goed hebt gelezen.)
+De gemaskerde groep lachte nog harder. Ze gingen door met de boten vernielen, nog enthousiaster dan hiervoor, totdat ze allemaal waren gezonken.
 
-    => Ook over hoe de Britten het meeste bewijs hebben vernield omdat ze de stenen konden gebruiken als ballast voor hun treinsporen.
+Daarna stalen ze een deel van hun voorraden en renden weg.
 
-    => Het gebied is nu een kurkdroge woestijn, maar was ooit veel natter.
+"Hé! Kom terug! Kom---"
 
-    => Ook over hoe deze hele beschaving tot dat moment _compleet nergens te vinden was_, juist omdat ze nooit rijken inpikten, zich nergens mee bemoeiden, etcetera.
+"Kijk," zei een wolf, "iets zegt me dat dit niet Sumiser was."
 
-    => Over cuneiform en script en dergelijke
+"Hou je mond." 
 
-
-@TODO: Voeg de goden/Ardex nog toe. Geeft de lezer ook een herkenbaar element en iets om om te geven.
-
-@TODO: De Assyriërs geloven dat de wereld zou eindigen als ze stopten met veroveren en gevechten winnen. Er was dus geen "gesprek" mogelijk of "redelijkheid", ze zouden kostte wat kost blijven aanvallen totdat ze een keer verloren.
-
-    => Assyrië, Babylon, of Perzië? (Ook voor volgend verhaal.)
-    => Alexander de Grote was van Macedonië, een Griekse stadstaat
-
-    => Bereid de migratie van Aryans + hun focus op taal (Vedas) + hoe dat Hindoeïsme werd alvast voor in dit verhaal of de volgende? 
-    => Caste and Dharma, check of ik al verhaal had over Hindoeïsme? => Hindoeïsme niet zo handig voor empires omdat het volledig focust op individualiteit en je eigen verlichting bereiken, terwijl Boeddhisme al meer focust op relaties en sociale banden. 
-    => JA in volgende verhaal, Caste en Karma enzo zijn een geweldige manier om sociale hiërarchie en rolverdeling binnen beschavingen te punctueren. 
-
-    Vier waarheden van Buddhisme.
-    * All life is suffering
-    * All suffering comes from desire
-    * To stop suffering, stop desiring
-    * And you can do so by following the eightfold path
-
-## Sources
-
-https://www.nytimes.com/2011/08/02/science/02warfare.html
-
-https://historiek.net/harappa-beschaving-vreedzaam/92672/
-
-
-
-
-
-
-
-Ardex: "Do not take pity on those working hard everyday and struggling through uncertainty. Take pity on those sitting still and living very comfortable lives of very little note. _No sleep without dance._"
-
-
-@INTERESTING: The Garden of Eden is just a story the Sumiserians created to explain the transition from hunters-gatherers to farmers => might be setup here and paid off in the next story about the hand sign
-
-    Die tuin van Gaia in het eerste verhaal heet ook _Eden_? Daarom noemt Feria haar eigen Legendarische Tuinen ook zo?
-
-    De Asha én Jagu hebben een keten van dood en oorlog gestart, en zijn dus helemaal weggejaagd tot aan Sumiser. (De een is al in Sumiser, vredig en alles, en we volgen hoe die ander ernaartoe wordt weggejaagd.)
-
-    "Was it curiosity that caused human's expansion across the global, or asylum seeking?"
-
-    _In deze tijd, beste lezer, was de wereld nog niet zo verbonden. Agricultuur werd dus meerdere keren opnieuw uitgevonden, op andere plekken, op andere momenten, zonder dat ze het van elkaar wisten. Terwijl ze hier bij de Twee Rivieren al een hele beschaving hadden, hadden ze op Origina het geheim nog niet eens ontdekt. Er waren maar twee manieren waarop informatie tussen beschavingen kon worden overgedragen: handelen ... of door een ander volk worden ingenomen._
-
-    @IDEA: De "Legendarische Tuinen" waren opgericht door Feria om een plek te hebben waar _sowieso_ levenskracht vandaan kwam. Dit correspondeert met die Tuinen van de Goden, en dat ze de mensen hadden gemaakt om die tuinen te verzorgen. (Want de goden moesten ook te eten hebben) Maar sommige van de bomen waren dus goed voor Goden maar verboden voor mensen => de verboden appel waardoor mensen zijn weggestuurd
-
-    Dit is een SPROOKJE om kinderen te leren dat ze niet koppig moeten zijn of vechten tegen hun "meerderen", maar gewoon hun agricultuurwerk moeten verrichten.
-
-    https://www.israel-a-history-of.com/the-garden-of-eden-as-recast-mesopotamian-myth.html
-
-    Eden is Sumiseriaans (?) voor "heide" of "plat veld" tussen de twee rivieren in
-
-
-
-
+Prebuha schuifelde terug op hun schip en zocht een manier om dit allemaal uit te leggen aan Larsh.
