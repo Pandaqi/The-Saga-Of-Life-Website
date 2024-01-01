@@ -1,175 +1,132 @@
 ---
-title: "8. ??"
+title: "8. Valse Gids"
 weight: 8
 ---
 
+Prebuha dacht het te begrijpen. De commandant was de wrakstukken van de vernielde vloot tegengekomen en durfde niet meer verder te varen. Ze waren nu druk in gesprek over of ze Indus moesten betreden als vluchtelingen of als leger.
 
+Zelf had ze maar één doel: overeind blijven, stapje voor stapje, maak jezelf nuttig voor deze groep.
 
+Mamatos vergezelde haar, zoals altijd. Hij smokkelde eten voor haar, maar als er geen eten _was_ hield dat ook al op. De graanvelden van Indus waren niet ver meer. Dan kon ze wel---
 
+Nee, ze was géén dief. Geen rinkelende botten of rammelende maag ging dat veranderen.
 
+Het gedreun en geschreeuw van de Akradi bleef hen achtervolgen, steeds een stukje dichterbij. Alles bij elkaar waren ze met een paar duizend wezens. Dat was toch niet zo belangrijk? Waarom bleven ze volgen?
 
+Ze probeerde het uit te beelden aan Mamatos, door hun maskers en gestamp na te doen.
 
-"Ah, als het niet een legendarische handelaar van de Indus is," zei een diepe mannenstem. 
+Hij lachte en deed mee. Hij trok enge gezichten en maakte zich groot. "Ja, de Akradi zijn echte monsters. Maar goed dat je niet in hun poten bent gevallen!"
 
-"Eh, ja, dat ben ik! Dé beste handelaar die ze hebben."
+"Maar waarom?" Ze hadden inmiddels een gebaar vastgesteld dat een vraag zoals _waarom_ of _hoe_ betekende.
 
-Haar wolven zuchtten.
+"Hun stadsgod is Ardex. Ze geloven dat ze altijd moeten oorlog voeren, anders gaan ze ten onder. Ze zullen niet stoppen, zelfs al is hun buit slechts één konijntje."
 
-# Revisies
+Hij deed nog wat imitaties, zoals een Akradi die een speer werpt en eentje die boos een steen platstampt. Het idee was allang duidelijk.
 
-H3 (en daarvoor?): 
-* Prebuha is juist _voor_ dat ze andere landen gaan inpikken (zoals Sumiser), want dan krijgen ze al die dingen ZONDER dat ze iets ervoor terug hoeven te handelen!
-* Prebuha is de eerste persoon die de hyena Dief kan tegenhouden, maar ze doet het niet (want dat kost moeite, en waarom haarzelf in gevaar brengen?) => vervolgens helpt niemand haar als ze weg wordt gestuurd, en ook de andere Gebieden zijn zo van "we hebben niks te maken met jouw gebied, we zijn niet verplicht om je op te vangen, verdwijn"
-* Badhuis = noem het smeren van tar voor waterdicht zijn, de standaardgrootte van alle bakstenen.
-* MEGITAS noemt hoe vreemd het is dat de Gosti zo snel opgaven, en zelfs in wanhopigheid niet toegaven aan iets dat ze KONDEN leveren.
-* Meer _tijd_ hier overheen laten gaan.
+Ze leidde niet alleen deze wezens naar Indus---wat al erg genoeg was nu ze die commandant had gezien. Ze leidde ook de Akradi hierheen.
 
-H4 (eventueel): 
-* De commandant wordt bijna opzij gezet eerst omdat hij niet meer de "favor of the gods" zou hebben na deze overstroming.
-* Ze zijn hun eigen boten kwijt door de overstromingen? Waarom gaan ze eerst naar Lagaso om vervolgens over de zee te gaan!? => JA, boten kwijt, die spoelen nou juist aan in Hoofdstuk 5
+Haar stappen werden steeds kleiner, steeds trager. Mamatos riep naar achteren dat ze weer moesten pauzeren. Daar wilde de stier niks van weten.
 
+Hij ging op kop lopen. Iedereen moest achter hem aan marcheren, in de richting die Prebuha als laatste had aangewezen.
 
+Ze zag het met lede ogen aan. Wat moest ze doen? Nog een paar dagen lopen en ze zouden de stad met hun eigen ogen zien. Dan zouden ze aanvallen en winnen, want de Indus weigerde wapens op de muren te zetten.
 
+Wat kon ze doen? Iedereen marcheerde langs haar. Ze bleef achter in zandwolken, samen met een verbaasde Mamatos.
 
+Och, wat sprong ze makkelijk van groep naar groep. De Indus wilde haar niet? Dan ging ze zoeken naar de Akradi. Die kon ze niet vinden? Dan ging ze maar de Sumiseri helpen met haar eigen beschaving ten onder brengen.
 
+Zo werkte het natuurlijk niet. Als ze ooit ergens bij wilde horen---als ze ooit ergens veilig en verzorgd wilde zijn---moest ze loyaal zijn aan de groep. Als het moeilijk werd, moest ze harder werken voor de groep, niet weglopen. Als een dief iets van een ander stal, moest ze de dief ook tegenhouden. Alleen dan zouden die andere wezens datzelfde voor haar doen.
 
-@IDEA: Dit is allemaal ontstaan door de Tijdreizigster? Die ging terug en probeerde haar "utopia" te maken
-    => Als Prebuha de migratie en diversiteit beschrijft, zegt ze ook zoiets als "We hebben zelfs een witte en zwarte panda hier. Wist niet dat die ook al binnen waren gekomen!"
+En als ze luisterde naar haar hart, was er maar één groep waar ze bij hoorde: de Indus.
 
-@IDEA: Stiekem plaatst Megitas (of die leider ofzo) al heel lang Welpon's wapens over de hele rand van het gebied, en dat is de enige reden dat ze nog niet zijn aangevallen?
+Ze zwaaide haar armen en schreeuwde. "Nee! Ik heb me vergist! We lopen verkeerd!"
 
-    => Met het einde van deze beschaving is ook alle hoop vervlogen op vredige beschavingen vanaf nu?
+Op vier poten rende ze vooruit. "De Indus hebben de sterkste wapens ooit! Ze zullen ons vernietigen als we ook maar in de buurt komen!"
 
-    => Megitas heeft de leider vermoord, zodat hij zijn---veel makkelijker te manipuleren---zoon kan gebruiken om praktisch leider te zijn?
+Ze probeerde zwaarden en bogen uit te beelden, waarmee ze Mamatos zogenaamd dood sloeg. Ze krijste zo hard ze kon en wees in een compleet andere richting. De Indusbeschaving was zó groot; de enige manier om hem te ontwijken was om compleet van het continent Origina af te lopen.
 
-    => Of is de leider per ongeluk vermoord door een wapen van Welpon? (Ze vinden een zware steen die waarschijnlijk de leider van de muur heeft geworpen? Maar dit blijkt een wapen van BUITENAF?)
+"Onzin! Ze zijn een vredig volk. En ze leven langs de rivier, dat weten we zeker," zei de stier.
 
+De rest keek haar aan met samengeknepen ogen.
 
+"Ik meen het!" ze bleef de andere kant op wijzen. "Ik ... wij ... wij kunnen in gedachten met elkaar communiceren! En ze lieten me net weten dat jullie _niet_ welkom zijn!"
 
+Nou, ze probeerde dát uit te beelden---zonder succes. 
 
-## Stukken om Indusbeschaving nog verder uit te leggen
+De groep botste tegen elkaar aan omdat de helft wilde doorlopen en de andere helft haar wilde uithoren. 
 
-Outline soort van:
-* Meer over Harappan beschaving, hoe gebouwen eruitzien, etcetera
-  * Huizen waren gedraaid om wind te vangen als automatische air-conditioning.
-  * Ze hadden water-proofing.
-  * Roads were cleaned by winds, roofs collected rainwater.
-  * Ze groeiden vooral Barley en Wheat, maar waren geobsedeerd met allerlei spices.
-  * Wat Sumer wilde van Harappa: lapis lazuli, goud, silver, koper, hout, ebony, ivoor, schildpadschild, kip, buffalo, pauw, hond, kat, aap
-  * City Planning: grote paden die Noord-Zuid, Oost-West wijzen
-    * Opgedeeld in blokken, maar daarna was het vrije steegjes en losse paden (dus niet zo'n grid als Amerika), met ingang van huizen nooit aangesloten op de drukke hoofdweg.
-  * Waren vooral erg geïnteresseerd in hygiene / "sanitation" / plumbing.
-  * Bulla: altijd een dier + inscriptie. (Lijkt van rechts naar links geschreven, want op veel zegels raken ze in paniek als ze aan de linkerkant ineens geen ruimte meer hebben.)
-  * Standaardiseren van gewichten en metingen. (De seals, maar ook vaste afmetingen van bricks: 1:2:4)
-  * Bewerking metaal, manieren om water af te voeren of juist aan te voeren, handel brons tegen katoen. (Indus had zelf geen brons.)
-    * Steden veel verder uit elkaar dan in Mesapotamië, toch alles gestandardiseerd!
-  * De meeste steden liggen langs de Ghagger-Hakra, die was misschien nóg beter dan de Indus. (Mensen denken dat dit de "lost" Sarasvati rivier is uit Hindu mythologie.)
-  * Ze hadden keramiek speelgoed dat ze mee in bad namen, zoals ... een (rubber) eend.
-* Ze ondervraagt mensen en probeert te achterhalen wat er precies aan de hand is met dood leider, zonder het weg te geven.
-  * Het idee van handtekeningen / paspoorten moet hier eigenlijk wel belangrijk zijn en terugkomen.
-* Eindigt met dat ze opnieuw de onderhandeling ingaat. => 
+Mamatos keek sip. Hij begreep niet precies wat ze zei, maar wel waar ze heen wilde. In zijn ogen zag ze de prachtige muren van de Indus en de knappe uitvindingen die Mamatos eindeloos interessant had gevonden.
 
+"Prebuha heeft me alles uitgelegd," zei hij zacht. "Ze zegt dat ze niet had verwacht dat jullie echt zouden volgen. Ze was te verzwakt en niet goed bij haar hoofd---maar nu is ze weer helder. De Indus is levensgevaarlijk. Iedereen is dood voordat we dichtbij de muren komen. We lopen weg."
 
+De stier gromde en groef ter plekke een gat. "Wij kunnen iedereen overwinnen."
 
-@TODO: Rond 2600-1900 BCE => zet juiste tijd bij metadata
+"Ook een beschaving die vele malen ouder is dan ons en nooit overwonnen?"
 
-@TODO: Gedichtje bij voorpagina
+Steeds meer wezens draaiden om en liepen in de nieuwe richting, weg van Indus, maar ook nog weg van Akradi. De stier bleef grommen, maar een commandant zonder leger was niks waard, dus hij sjokte erachteraan.
 
-Good video about the entire Harappan Civilization: https://www.youtube.com/watch?v=rlONwxT9Nlc
+Prebuha glimlachte naar hem en kneep zacht in zijn poot als bedankje. Misschien waren niet _alle_ Sumiseri verschrikkelijk.
 
+Ze hingen achteraan de groep. Prebuha deed alsof haar lichaam nog té zwak was en liep met minuscule pasjes. 
 
-Al vijf keer eerder had ze onderhandeld met mensen binnen hun eigen beschaving! Je nam wat spullen mee die je kwijt kon. Vervolgens riep je wat je wilde, die ander riep wat hij wilde, en uiteindelijk was je allebei ontevreden. Of, nou ja, dat was háár methode.
+Totdat de groep verdween achter de volgende heuvel en zij twee achterbleven.
 
+Ze keken elkaar aan. Ze glimlachten en renden samen in de juiste richting.
 
+"Oh, oh, is het echt zo mooi als ik denk?" riep Mamatos tijdens het rennen.
 
+Prebuha knikte enthousiast, vooral omdat _hij_ enthousiast was. Ze hoopte dat _iemand_ had opgelet en had gezien hoe ze de vijand had afgewend. Of misschien kon Mamatos dat bewijs leveren.
 
+Ze renden dagenlang door. Alsof uitputting niet bestond. Alsof eten niet meer nodig was. Totdat ze tegen de avond door de graanvelden stuiterden en uiteindelijk bijna voor een buitenmuur stonden. De ogen van Mamatos stonden al permanent omhoog, naar de bouwwerken, vlaggen, en lichtjes in de stad. Ze sprankelden als sterren in zijn pupillen.
 
-## Outline
+"Die _gebouwen_! Die van ons lijken wel grotten. Die van ons drijven weg bij elke overstroming, maar dit ..."
 
+"Nou, nou, er is wel het probleempje van ... tja ... dat ze mij hebben verstoten." Prebuha had ook al een gebaar voor _gevaar_ of _probleem_ of _kijk uit!_ vastgesteld met de Sumiseri.
 
+"Dat," zei een diepe grommende stem achter haar, "is niet het enige probleem. Vuile, vuile verraders."
 
+De commandant stond hijgend voor hen. De stier was uitgedost in volledig harnas, met tientallen wapens en een helm die zijn hoorns nog groter maakte.
 
-**H8**: Prebuha doet er alles aan (samen met B?) om te zorgen dat ze worden afgewend. Dat lukt, maar zelf sluipen ze stiekem terug naar de Indus.
+"Dacht je echt dat ik het niet door had?"
 
-"Jij zou alles doen om jouw groep te beschermen, om je sociale groep te helpen. Oorlog is exact hetzelfde. Het is alleen de meest agressieve uiting van opstaan voor jezelf en je soortgenoten." => Ik wil dat idee van "Evolution within groups" (altruïsme kan toch ontwikkelen omdat het helpt om jouw _groep_ sterker te maken dan andere _groepen_) en "War is simply the most destructive expression of social behavior."
+Prebuha keek naar Mamatos. Die vertaalde in woord en vooral gebaar. "Hij is erg onder de indruk van hoe snel we kunnen rennen."
 
-**H9**: Ze vindt de boosdoener van het bericht: een wetenschapper die had voorspeld dat een aardbeving/vulkaanuitbarsting eraan kwam, maar wist dat niemand hem zou geloven als het niet van de leider kwam. => Kleischepper natuurlijk. Ze evacueren op het laatste moment. (Aardbeving zorgt natuurlijk dat de rivier stopt met betrouwbaar overstromen.) Prebuha doet een laatste onderhandeling, maar deze keer doet ze het goed.
+"Duizenden Sumiseri naar hun dood sturen en zelf lekker teruglopen?"
 
-    => Uiteindelijke message: "Geen bescherming zonder gevaar" (zowel over dat ze dus zichzelf niet verdedigen, maar ook het "fijne gevoel" van beschermd worden of veilig zijn)
+"Hij complimenteert je vacht. Het herstelt mooi van je wonden," zei Mamatos.
 
-    => Grootste deel vlucht naar Ganges, het nieuwe centrum van beschaving in Azië. De rest gaat terug naar leven in kleine zelfstandige dorpjes.
+"Wij zullen de Indus innemen en platbranden!" 
 
-    => (Optionally: they divert their own people away ... but don't come with them. They actually walk towards Indus to enjoy their safety, which is a huge betrayal, but also a logical step for a character who is only concerned with their own survival.)
+De stier gromde en sprong plotseling vooruit. Prebuha hoorde geschreeuw van _boven_. Een aantal katten liep over de stadsmuren.
 
-    => IDEA: Die commandant schrijft heel heldhaftig over alles wat hier is gebeurd, wat compléét niet waar is en alleen maar hemzelf ophemelt. (Maar dat vinden ze dus terug in hoofdstuk 10.)
+"Is hij alleen?" vroeg Prebuha terwijl ze achteruit sprong en op de muur begon te klimmen.
 
-    => IDEA: Eenhoorns komen hier tevoorschijn? Als grappige verklaringe voor waarom die op de Indus seals staan?
+"Eh, ja, ja. Wat ... wat?"
 
-**H10**: Sprong naar de toekomst. Mensen vinden de overblijfselen van deze beschaving. Verbaast over dat ze geen wapens hadden, verbaast over waarom ze toch plotseling verdwenen. Ze eindigen met "Maar alles wijst erop dat de Assyriërs op volle sterkte de vallei in stormden, rekenend op het eten en rijkdommen die ze konden plunderen. Ze vonden slechts lege huizen en onbruikbare grond naast een overstroomde rivier."
+De stier greep haar achterpoot. Mamatos, als Gosti, kon beter klimmen dan zij en was al boven haar. Hij liet zich vallen op de stier om hem los te rukken, maar daarmee rukte hij hen alle drie los.
 
-Ook praten ze over hoe "de mens de hele wereld heeft afgezocht, och och, wat zijn die mensen toch nieuwsgierig en ontdekkingsreizigers" => terwijl dit verhaal heel duidelijk aangeeft dat ze op de vlucht waren voor alle oorlog
+Ze ploften op de grond en spatten als druppels uit elkaar.
 
-OOK over hoe ze de Sanskriet natuurlijk hebben ontcijferd en dat het vele talen heeft beïnvloed, maar dat ze de taal van Indus nog steeds niet begrijpen. (En dan misschien nog een grapje/geheim over wat er staat, als je het verhaal goed hebt gelezen.)
+"Hij is de commandant van Sumiser," riep Prebuha terwijl ze overeind krabbelde. "Als hij wegkomt, gaan we eraan."
 
-    => Ook over hoe de Britten het meeste bewijs hebben vernield omdat ze de stenen konden gebruiken als ballast voor hun treinsporen.
+De stier besefte het nu ook. Hij hoefde dit gevecht niet te winnen. Hij moest teruglopen en zijn leger halen om de hele _oorlog_ direct te winnen.
 
-    => Het gebied is nu een kurkdroge woestijn, maar was ooit veel natter.
+De katten sprongen van de muur, landden precies op hun pootjes, en versperden zijn weg. Maar één zwaai met de hoorns en ze lagen allemaal verspreid in de modder.
 
-    => Ook over hoe deze hele beschaving tot dat moment _compleet nergens te vinden was_, juist omdat ze nooit rijken inpikten, zich nergens mee bemoeiden, etcetera.
+Prebuha herinnerde losse bakstenen in deze muur. Ze greep blind achter haar, rukte er één los, en stormde op de vluchtende stier af.
 
-    => Over cuneiform en script en dergelijke
+Misschien was het egoïsme. Misschien was het een oprechte, diepe haat jegens Prebuha en wat ze had gedaan. Misschien waren de Sumiseri gewoon _dom_.
 
+Maar hij stopte en draaide om, klaar om zijn hoorn door haar kwetsbare buik te prikken.
 
-@TODO: Voeg de goden/Ardex nog toe. Geeft de lezer ook een herkenbaar element en iets om om te geven.
+Ze sloeg de baksteen in zijn gezicht.
 
-@TODO: De Assyriërs geloven dat de wereld zou eindigen als ze stopten met veroveren en gevechten winnen. Er was dus geen "gesprek" mogelijk of "redelijkheid", ze zouden kostte wat kost blijven aanvallen totdat ze een keer verloren.
+Zijn ogen vielen dicht; zijn lichaam plofte voor haar neer.
 
-    => Assyrië, Babylon, of Perzië? (Ook voor volgend verhaal.)
-    => Alexander de Grote was van Macedonië, een Griekse stadstaat
+"Oh. Oh nee. Oh---"
 
-    => Bereid de migratie van Aryans + hun focus op taal (Vedas) + hoe dat Hindoeïsme werd alvast voor in dit verhaal of de volgende? 
-    => Caste and Dharma, check of ik al verhaal had over Hindoeïsme? => Hindoeïsme niet zo handig voor empires omdat het volledig focust op individualiteit en je eigen verlichting bereiken, terwijl Boeddhisme al meer focust op relaties en sociale banden. 
-    => JA in volgende verhaal, Caste en Karma enzo zijn een geweldige manier om sociale hiërarchie en rolverdeling binnen beschavingen te punctueren. 
+Haar zicht werd wazig. Haar poten vielen gevoelloos naar de grond. De baksteen landde op haar eigen tenen. Wat had ze gedaan? Ze was nog erger dan een dief---ze was een moordenaar.
 
-    Vier waarheden van Buddhisme.
-    * All life is suffering
-    * All suffering comes from desire
-    * To stop suffering, stop desiring
-    * And you can do so by following the eightfold path
+Ze strompelde weg, weg van hier, weg van dit alles. Maar Mamatos en de katten stuurden haar de andere kant op, terug naar de poorten van de Indus.
 
-## Sources
-
-https://www.nytimes.com/2011/08/02/science/02warfare.html
-
-https://historiek.net/harappa-beschaving-vreedzaam/92672/
-
-
-
-
-
-
-
-Ardex: "Do not take pity on those working hard everyday and struggling through uncertainty. Take pity on those sitting still and living very comfortable lives of very little note. _No sleep without dance._"
-
-
-@INTERESTING: The Garden of Eden is just a story the Sumiserians created to explain the transition from hunters-gatherers to farmers => might be setup here and paid off in the next story about the hand sign
-
-    Die tuin van Gaia in het eerste verhaal heet ook _Eden_? Daarom noemt Feria haar eigen Legendarische Tuinen ook zo?
-
-    De Asha én Jagu hebben een keten van dood en oorlog gestart, en zijn dus helemaal weggejaagd tot aan Sumiser. (De een is al in Sumiser, vredig en alles, en we volgen hoe die ander ernaartoe wordt weggejaagd.)
-
-    "Was it curiosity that caused human's expansion across the global, or asylum seeking?"
-
-    _In deze tijd, beste lezer, was de wereld nog niet zo verbonden. Agricultuur werd dus meerdere keren opnieuw uitgevonden, op andere plekken, op andere momenten, zonder dat ze het van elkaar wisten. Terwijl ze hier bij de Twee Rivieren al een hele beschaving hadden, hadden ze op Origina het geheim nog niet eens ontdekt. Er waren maar twee manieren waarop informatie tussen beschavingen kon worden overgedragen: handelen ... of door een ander volk worden ingenomen._
-
-    @IDEA: De "Legendarische Tuinen" waren opgericht door Feria om een plek te hebben waar _sowieso_ levenskracht vandaan kwam. Dit correspondeert met die Tuinen van de Goden, en dat ze de mensen hadden gemaakt om die tuinen te verzorgen. (Want de goden moesten ook te eten hebben) Maar sommige van de bomen waren dus goed voor Goden maar verboden voor mensen => de verboden appel waardoor mensen zijn weggestuurd
-
-    Dit is een SPROOKJE om kinderen te leren dat ze niet koppig moeten zijn of vechten tegen hun "meerderen", maar gewoon hun agricultuurwerk moeten verrichten.
-
-    https://www.israel-a-history-of.com/the-garden-of-eden-as-recast-mesopotamian-myth.html
-
-    Eden is Sumiseriaans (?) voor "heide" of "plat veld" tussen de twee rivieren in
-
-
-
-
+Even later werd ze binnengelaten en toegejuicht.
