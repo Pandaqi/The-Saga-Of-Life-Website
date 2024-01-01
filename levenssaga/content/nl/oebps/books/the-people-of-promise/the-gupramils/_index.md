@@ -1,9 +1,7 @@
 ---
-draft: true
-
 title: "De Gupramils"
 weight: 4
-date: 2023-10-13
+date: 2024-01-01
 #url: "oebps/books/de-beschavingen-van-belofte/de-gupramils"
 uniqueID: "the-gupramils"
 
@@ -19,7 +17,7 @@ godlink: []
 genre: []
 teaches: []
 
-blurb: "Gupra is er bijna in geslaagd heel Schola te veroveren en vrede te brengen. Totdat hij stuit op het laatste obstakel: de koningen van Tamli, waarover legendes beweren dat ze nooit zullen worden verslagen, wat je ook probeert."
+blurb: "Gupra is bijna erin geslaagd heel Schola te veroveren en vrede te brengen. Totdat hij stuit op het laatste obstakel: de koningen van Tamli, waarover legendes beweren dat ze nooit zullen worden verslagen, wat je ook probeert."
 
 timeline:
   - yearstart: 0

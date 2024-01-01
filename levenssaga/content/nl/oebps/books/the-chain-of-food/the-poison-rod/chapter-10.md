@@ -3,7 +3,7 @@ title: "10. Epiloog"
 weight: 10
 ---
 
-Jasmine wist precies what Thomas ging zeggen, dus ze was hem voor. "Laat me raden. Weer tanden van de Connidoe?"
+Jasmine wist precies wat Thomas ging zeggen, dus ze was hem voor. "Laat me raden. Weer tanden van de Connidoe?"
 
 Hij knikte en borstelde voorzichtig zand van het fossiel. Na elke veeg verzette hij zijn bril, terwijl Jasmine uitrustte in de verkoelende schaduw van een haastig opgezette tent. "Maak toch maar weer een foto."
 

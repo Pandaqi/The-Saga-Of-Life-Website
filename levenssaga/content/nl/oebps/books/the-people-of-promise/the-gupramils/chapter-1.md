@@ -10,7 +10,9 @@ weight: 1
 ## Outline
 
 * Chapters 1--5 are about Chandragupta and the Tamil kings resisting. (The Tamil kings being merchants claiming the shorelines of India and becoming unbelievably rich through that trade. Which helps when trying to defend yourself.)
-* Chapters 6--10 are about his son trying to do the same thing, then making that unexpected shift.
+  * His son is deemed "insane" or "mentally ill" as he sees ghosts => later it's revealed that he sees everyone's deaths
+* Chapters 6--10 are about his son Ashoka trying to do the same thing, then making that unexpected shift.
+  * Inspired by Prebuha, this leads to Buddha?
 * End on hint towards Gupta Empire and golden age of India?
 
 Main character 1 = older person of Tamli kings, actually befriends Chandra ( = Gupra) in the end and is sad to see him go (through fasting)?
@@ -39,3 +41,20 @@ So here's the idea.
 * Ashoka actually _gets_ her, but casts her aside and doesn't really give her any time or attention.
 * She obviously fights his invasion and dies in the process.
 * Ashoka now realizes what he had and feels such overwhelming love that he completely changes his ways.
+
+
+
+
+@TODO: 
+    => Assyrië, Babylon, of Perzië? (Ook voor volgend verhaal.)
+    => Alexander de Grote was van Macedonië, een Griekse stadstaat
+
+    => Bereid de migratie van Aryans + hun focus op taal (Vedas) + hoe dat Hindoeïsme werd alvast voor in dit verhaal of de volgende? 
+    => Caste and Dharma, check of ik al verhaal had over Hindoeïsme? => Hindoeïsme niet zo handig voor empires omdat het volledig focust op individualiteit en je eigen verlichting bereiken, terwijl Boeddhisme al meer focust op relaties en sociale banden. 
+    => JA in volgende verhaal, Caste en Karma enzo zijn een geweldige manier om sociale hiërarchie en rolverdeling binnen beschavingen te punctueren. 
+
+    Vier waarheden van Buddhisme.
+    * All life is suffering
+    * All suffering comes from desire
+    * To stop suffering, stop desiring
+    * And you can do so by following the eightfold path
