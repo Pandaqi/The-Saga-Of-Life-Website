@@ -16,7 +16,10 @@ weight: 6
 
 H6
 * Gupra's offer laat Tamli koningen opnieuw twijfelen, maar als ze Ashorra helemaal gek zien worden (van geesten) en beseffen dat hij de nieuwe leider is ...
-* Marili sluipt weg en bezoekt de koningen weer, die overwegen om haar niet meer terug te laten gaan. Zij zegt dat hij hélemaal is dolgedraaid en wraak wil, dat zelfs Ardex hem nauwelijks kan beteugelen. => Ze suggereren wel dat ze haar man vergiftigd om zo zelf aan de macht te komen? Waardoor ze juist meer afstandelijk wordt en ziet dat haar Tamli ook niet meteen de beste zijn om te beschermen?
+* Marili sluipt weg en bezoekt de koningen weer, die overwegen om haar niet meer terug te laten gaan. Zij zegt dat hij hélemaal is dolgedraaid en wraak wil, dat zelfs Ardex hem nauwelijks kan beteugelen.
+  * Ze suggereren wel dat ze haar man vergiftigd om zo zelf aan de macht te komen? Waardoor ze juist meer afstandelijk wordt en ziet dat haar Tamli ook niet meteen de beste zijn om te beschermen?
+  * Commandant Mero had Asherro ook nog wel in het gareel gekregen, maar die is dus gestorven.
+  * Een korte discussie over waarom de Tamli niet gewoon hun geld verdelen over iedereen en armoede weghalen, met die les van "No rich without poor" als gevolg, wat niet in goede aarde valt.
 * Wéér een missie om ze te doden, die nu juist mislukt doordat Marili aanwezig is?
 * BREAK
 * Ardex legt het concept van de zichtbare Dood uit + dat hij niet moet denken in "wij tegen jullie"
@@ -45,7 +48,10 @@ H9
 H10
 * Dat gesprek met Ardex over dat hij Marili zou willen vergeten om de pijn kwijt te raken. Dat Ardex uiteindelijk Ismaraldah ofzo opzoekt om zijn Vlamvreter die kracht te geven om "relaties op te branden". (Ook omdat hij dus vindt dat die "wij tegen jullie" en "bescherm de groep" weinig goeds doet voor de wereld?)
   * "No love without loss" en "No connection without vulnerability"
+  * Of ook "No love without freedom" / "No love with force" om aan te tonen dat je liefde niet moet forceren/afdwingen zoals Ashorra deed?
   * Want Ashorra weigert zwak te zijn of zijn ware zelf te tonen, hoewel juist die momenten met Marili het meest lief zijn. Hij noemt zijn grootvader steeds "zwak" en hoe hij écht niet is zoals hij.
+  * Misschien dat Ardex en Marili heel goed met elkaar overweg konden? Misschien dat dit nog meespeelde in Ashorra's ommekeer?
+  * Kan die tweede les van "No rich without poor" erbij vanuit het perspectief van de Tamli? ("Jij voelt je alleen rijk omdat je meer hebt dan de anderen. Je kan die andere Tamli koningen wel de deur uitkijken omdat ze evenveel hebben als jij, met als gevolg dat jij ontevreden bent terwijl je stinkend rijk bent!")
 * Inleiden Gupta rijk en gouden eeuw India.
 
 
@@ -54,10 +60,10 @@ H10
 
 * Ashorra meer obsessief bezig laten zijn met een goede koning worden, zich bewijzen, het land redden, niet meer "gek" worden gevonden
 * De schoonheid en slimheid en alles van Marili meer uiteenzetten.
+  * Sowieso de liefde van Ashorra voor Gupra/Marili iets meer tijd en details geven.
 * Meer de Gupta en Tamli cultuur benoemen met feitjes hier en daar.
 * (Ergens nog iets meer einde voor Alixader en hoe de rest van de goden/Eerste Conflict hierin meespeelt. Misschien dat derde continent waar mensen over praten als mysterie opzetten?)
 * Make the narrator really obvious in this one. They keep foreshadowing, referring back, making jokes about how the Tamli can't be conquered, they tell it like a fairy tale.
-
 * De personages meer eigen praatstijl, persoonlijkheid, verschijning, etcetera geven.
 
 
