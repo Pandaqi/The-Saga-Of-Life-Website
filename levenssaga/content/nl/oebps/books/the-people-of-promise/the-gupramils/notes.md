@@ -11,3 +11,26 @@ Zo kwam ik de twee waargebeurde verhalen op het spoor van Chandragupta en de ger
 
 (In Europa en Amerika vinden we het leuk om te denken dat alles bij ons begon, maar Azië is toch echt op vrijwel alle manieren de bakermat van beschaving geweest. De Chinese dynastie had al epische verhalen geschreven voordat het Romeinse Rijk werd bedacht.)
 
+@TODO
+
+
+
+
+
+## Personages
+
+
+De drie Tamli koningen natuurlijk. Neushoorns die zwemmen in goudstukken, handelaars.
+* **Are**: ietwat kinderacht en speels, maar kan het nog onderbouwen met gezond verstand en vaardigheid (vooral qua vechten) waar nodig.
+* **Bhola**: oudste, slimste, meest serieuze.
+* **Candya**: erg kinderachtig, neemt niks serieus, de jongste.
+
+
+
+
+
+
+
+
+
+

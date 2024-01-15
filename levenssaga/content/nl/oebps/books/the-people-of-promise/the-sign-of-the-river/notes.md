@@ -72,6 +72,8 @@ H4 (eventueel):
 
 @TODO: Nog duidelijker dat de Kleischepper steeds zegt "Mijn berekeningen ..." en dat iedereen eroverheen praat/het negeert.
 
+@TODO: Duidelijker maken dat dit een gevolg is van verhaal 2 => De Akradi bestaan uit Jaguars die zinnen op "wraak"?
+
 @TODO: Witte/zwarte panda noemen aan begin, en aan het einde staan ze naast de stad en zijn zo van "Verdorie, we hadden het nog zo goed uitgedacht en gepland." En Jacintah die de schouders ophaalt en zegt: "Mwah, volgende keer beter."
 
 
