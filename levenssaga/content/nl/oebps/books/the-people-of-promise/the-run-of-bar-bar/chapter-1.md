@@ -28,3 +28,11 @@ Our final check: do we have a goal, an obstacle ( = conflict), that is urgent an
 * It is urgent, for the leader makes these terrible decisions all day and will enact their plan soon. (Perhaps they are "visiting" some town nearby that makes this moment the best one ... for a brief window of time.)
 * If the barbarians don't do it, they lose good relations with Rome and/or their entire lifestyle.
 * If the lawyer doesn't win, he will be crushed by his destroyed faith in civilization and law. (Figuratively. Though it becomes literal when he is sentenced to death.)
+
+
+LESSONS:
+"Geen beschaving zonder chaos" (of iets in die richting)
+    a.  Het algemene punt is "geen beschaving zonder vergelijkingspunt van niet-beschaving" en "geen beschaving zonder mensen die guilty pleasures hebben of de onweerstaanbare drong zich er toch niet aan te houden"
+    b.  "Geen deugd zonder zonde" / "Geen beschaving zonder geheimen"
+
+Misschien kan "run" wel slaan op "run for president"-achtig wat die Lawyer doet?

@@ -51,7 +51,10 @@ De drie Tamli koningen natuurlijk. Neushoorns die zwemmen in goudstukken, handel
   * Sowieso de liefde van Ashorra voor Gupra/Marili iets meer tijd en details geven.
 * Meer de Gupta en Tamli cultuur benoemen met feitjes hier en daar.
 * Make the narrator really obvious in this one. They keep foreshadowing, referring back, making jokes about how the Tamli can't be conquered, they tell it like a fairy tale.
+  * Ja, meer "beste lezer stukjes"
+  * En meer een echt "geestverhaal"
 * De personages meer eigen praatstijl, persoonlijkheid, verschijning, etcetera geven.
+  * De cultuur, architectuur, specifieke diersoorten en hoe de wereld daarvoor is aangepast, en dergelijke van Tamil / Gupta neerzetten
 * H6: Noemen dat die gif specifiek komt van die plek uit De Hengel van Gif. Makkelijke referentie om te doen (De Rode Rivieren ofzo?)
 * H8: gesprek Ardex en Feria. "Het is gek, nietwaar? Hier bouwen ze al geavanceerde steden en gebouwen. Op Origina ontdekken ze pas net wat een huis is. Je hebt ... je hebt het idee dat alles beter was als de hele wereld met elkaar kon communiceren. Als de goden de nieuwste technologie aan _iedereen_ zouden geven." "Hmm, er is ergens een rode panda die heel boos zou worden als ze dit hoorde."
 * H9: Duidelijk maken dat zij vredig was gevlucht naar Candya, maar nu puur staat te vechten om zichzelf te _verdedigen_?
