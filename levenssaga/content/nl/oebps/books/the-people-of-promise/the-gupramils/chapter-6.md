@@ -3,109 +3,128 @@ title: "6. Wij tegen Zij"
 weight: 6
 ---
 
+Marili stapte uit haar schuilplek in de donkere bosjes. De Tamli koningen keken op met een grijns op het gezicht, zakken met geld in hun handen.
 
+"Hoe kan het toch," zei Bhola met buiging, "dat je nog elke dag mooier wordt?"
 
+"Ik heb weinig tijd. Ashorra zal merken dat ik weg ben," zei ze.
 
+Ook de andere koningen gaven haar een buiging. Marili keek zuur.
 
+"Ik ben het. _Ik_. Schattige Marili."
 
+"We bereiden ons simpelweg al voor," zei Bhola, "op de vrouw die snel koningin van Schola zal worden."
 
+Snel koningin? Ashorra was pas gezond en pas net volwassen. Het zou nog eeuwen duren voordat---
 
+Ze kneep haar ogen samen en fluisterde: "Wat ... suggereren jullie daarmee?"
 
+Are opende zijn geldzak om te onthullen dat er helemaal geen geld in zat. Hij overhandigde haar een glas met een stinkende vloeistof. "Poeh, gif zoals dit kan snel een einde maken aan een leven. Laten we hopen dat het niet zomaar in iemands avondeten terechtkomt."
 
-## Outline
+Marili nam het goedje aan met een trillende slurf. Wilde ze dit echt? Het zou zoveel oplossen. Maar---
 
-H6
-* Gupra's offer laat Tamli koningen opnieuw twijfelen, maar als ze Ashorra helemaal gek zien worden (van geesten) en beseffen dat hij de nieuwe leider is ...
-* Marili sluipt weg en bezoekt de koningen weer, die overwegen om haar niet meer terug te laten gaan. Zij zegt dat hij hélemaal is dolgedraaid en wraak wil, dat zelfs Ardex hem nauwelijks kan beteugelen.
-  * Ze suggereren wel dat ze haar man vergiftigd om zo zelf aan de macht te komen? Waardoor ze juist meer afstandelijk wordt en ziet dat haar Tamli ook niet meteen de beste zijn om te beschermen?
-  * Commandant Mero had Asherro ook nog wel in het gareel gekregen, maar die is dus gestorven.
-  * Een korte discussie over waarom de Tamli niet gewoon hun geld verdelen over iedereen en armoede weghalen, met die les van "No rich without poor" als gevolg, wat niet in goede aarde valt.
-* Wéér een missie om ze te doden, die nu juist mislukt doordat Marili aanwezig is?
-* BREAK
-* Ardex legt het concept van de zichtbare Dood uit + dat hij niet moet denken in "wij tegen jullie"
-  * In **story #4**, Ardex is like "Wars only exist because people want vengeance! Because people think of _us_ versus _them_. If I could just remove that ..." and he is like "I can do my duty, or I can remember it. I cannot do both." => Might also be Buddha who influences this.
-* We zien het patroon ontstaan van dat zowel Ashorra als Marili steeds weggaan en niet zeggen waarheen.
-    * Er komt zo'n patroon van dat Ashorra haar niet eens opzoekt en gewoon zegt "ik ga slapen" of "ik ben weer weg", totdat hij het een keer zegt en realiseert dat het hele huis allang leeg is => ze is teruggegaan naar Tamli om voor hen te vechten.
+De koningen keken haar verbaasd aan.
 
-H7
-* Volgende missie die mislukt.
-* Asherro is compleet _ruthless_. Tegelijkertijd sluit hij zich af van die geesten en dergelijke, doet nooit mee aan gevechten, heeft geen idee meer wat daarbuiten gaande is.
-  * Verteld zichzelf dat elke overwinning niet genoeg is. Dat hij Schola _zal_ herenigen. Dat hij nog steeds zijn vader _zal_ wreken.
-* Een laatste mooie moment tussen die twee.
-  * "Er zijn veel olifanten met een mooi gezicht als jij. Er is er maar één met zo'n unieke slurf."
-  * Asherro heeft de gewoonte om zijn vader te herinneren door regelmatig onderzoek te doen naar die Buha en dergelijke =>   * Inspired by Buha, which Ashorra researches due to father's comments.
-    * ("It is told he read of a sloth, a simple young sloth, who was cast out and had to leave her safe walls. It showed her the truth. It made her strong. It inspired him to step into the world himself and even take up part of her name.")
+"Dit is toch wat je wilde? Je berichten aan ons vertelden dat Ashorra helemaal gek was geworden. Dat je wanhoop nabij was." Bhola duwde zijn kop tegen de hare. "Ga me nu niet vertellen dat het overdreven geratel was van een meisje met liefdesverdriet."
 
-H8
-* Laatste missie die mislukt.
-* Asherro komt thuis en Marili is _weg_.
+Are schudde zijn hoofd. "We hadden een stemming, Marili. Gupra's actie had indruk gemaakt op heel Tamli. Een leider bereid om niet te eten totdat zijn onderdanen eten? We waren het erover eens dat we misschien toch samenwerking met de Gupramils moesten zoeken."
 
-H9
-* Hij voegt zich bij zijn groepen op het slagveld, 
-* Marili vecht aan de andere kant, dood dichtbij, sterft uiteindelijk
-* Dat breekt hem opnieuw. Hij roept alles en iedereen terug en draait een complete 180 graden.
+"Tot jouw bericht kwam," zei Bhola. "Met Gupra hadden we samen kunnen werken. Ashorra de Gekke moet zo snel mogelijk verwijderd."
 
-H10
-* Dat gesprek met Ardex over dat hij Marili zou willen vergeten om de pijn kwijt te raken. Dat Ardex uiteindelijk Ismaraldah ofzo opzoekt om zijn Vlamvreter die kracht te geven om "relaties op te branden". (Ook omdat hij dus vindt dat die "wij tegen jullie" en "bescherm de groep" weinig goeds doet voor de wereld?)
-  * "No love without loss" en "No connection without vulnerability"
-  * Of ook "No love without freedom" / "No love with force" om aan te tonen dat je liefde niet moet forceren/afdwingen zoals Ashorra deed?
-  * Want Ashorra weigert zwak te zijn of zijn ware zelf te tonen, hoewel juist die momenten met Marili het meest lief zijn. Hij noemt zijn grootvader steeds "zwak" en hoe hij écht niet is zoals hij.
-  * Misschien dat Ardex en Marili heel goed met elkaar overweg konden? Misschien dat dit nog meespeelde in Ashorra's ommekeer?
-  * Kan die tweede les van "No rich without poor" erbij vanuit het perspectief van de Tamli? ("Jij voelt je alleen rijk omdat je meer hebt dan de anderen. Je kan die andere Tamli koningen wel de deur uitkijken omdat ze evenveel hebben als jij, met als gevolg dat jij ontevreden bent terwijl je stinkend rijk bent!")
-* Inleiden Gupta rijk en gouden eeuw India.
+_Verwijderd?_ Haar hart sloeg op hol en haar stem donderde over de open plek. "Dit is wel mijn _man_ waarover jullie praten."
 
+Ja, Ashorra was steeds wreder geworden. Zeker zonder tijgercommandant Mero was er niemand meer om hem in toom te houden. Maar ze geloofde nog steeds dat hij een lief hart had, eentje waarmee ze gelukkig zou worden. Ze wist niet of dat waar was, of dat ze doodsbang was voor de gevolgen als ze nu haar belofte brak.
 
+De koningen stapten achteruit. "Het spijt ons. We dachten dat je nog iets gaf om je eigen volk, de Tamli."
 
-## Revisie
+Marili bestudeerde de geldzakken. Zoveel geld had ze in al die jaren niet eens gezien bij de Gupramils. Gupra leefde van bijna niks; wat hij had was uitgedeeld onder de inwoners van de stad. Ze leefde pas een jaar in de hoofdstad, maar was nu al gewend aan het simpelere leven---het leven dat iedereen die niet rijk was moest leven.
 
-* Ashorra meer obsessief bezig laten zijn met een goede koning worden, zich bewijzen, het land redden, niet meer "gek" worden gevonden
-* De schoonheid en slimheid en alles van Marili meer uiteenzetten.
-  * Sowieso de liefde van Ashorra voor Gupra/Marili iets meer tijd en details geven.
-* Meer de Gupta en Tamli cultuur benoemen met feitjes hier en daar.
-* (Ergens nog iets meer einde voor Alixader en hoe de rest van de goden/Eerste Conflict hierin meespeelt. Misschien dat derde continent waar mensen over praten als mysterie opzetten?)
-* Make the narrator really obvious in this one. They keep foreshadowing, referring back, making jokes about how the Tamli can't be conquered, they tell it like a fairy tale.
-* De personages meer eigen praatstijl, persoonlijkheid, verschijning, etcetera geven.
+"Ik geef om de Tamli! Ik geef meer om hen dan jullie," zei ze verbitterd. "Waarom delen jullie je geld niet uit, hè? Waarom moeten zoveel dieren in Schola sterven van honger, terwijl jullie op stapels goud zitten, hè?"
 
+Candya schuddebuikte van het lachen. "Gekke Marili. _Geen rijkdom zonder armoede!_"
 
-## Notes
+Are viel hem bij, tikkend op zijn geldzak. "Wil je deze hebben? Je mag hem hebben hoor. Maar niet meer, want dan denk ik dat Candya meer goudstukken heeft dan ik, en dat zou ik niet---"
 
-@TODO: 
-    => Assyrië, Babylon, of Perzië? (Ook voor volgend verhaal.)
-    => Alexander de Grote was van Macedonië, een Griekse stadstaat
+"Stelletje prutskoningen!" schreeuwde Marili. Ze gooide de fles met gif terug. Bhola ving hem gevaarlijk op in zijn bek.
 
-    => Bereid de migratie van Aryans + hun focus op taal (Vedas) + hoe dat Hindoeïsme werd alvast voor in dit verhaal of de volgende? 
-    => Caste and Dharma, check of ik al verhaal had over Hindoeïsme? => Hindoeïsme niet zo handig voor empires omdat het volledig focust op individualiteit en je eigen verlichting bereiken, terwijl Boeddhisme al meer focust op relaties en sociale banden. 
-    => JA in volgende verhaal, Caste en Karma enzo zijn een geweldige manier om sociale hiërarchie en rolverdeling binnen beschavingen te punctueren. 
+Ze draaide om. "Geef die zak geld aan de armen zonder eten. En de volgende zak geld. Misschien kan ik dan geloven dat jullie beter zijn dan de Gupramils."
 
-    Vier waarheden van Buddhisme.
-    * All life is suffering
-    * All suffering comes from desire
-    * To stop suffering, stop desiring
-    * And you can do so by following the eightfold path
+"Daar was ik al bang voor," zei Bhola met een grom. "Elke seconde in hun buurt maakt je meer van _hen_, en niet van _ons_."
 
+Tetterend rende ze weg---maar ze lieten haar niet gaan. Bhola versperde de weg vooruit; de andere koningen de paden aan de zijkant. 
 
-Alarion the Grand
+Ze sprong de bosjes in. De koningen doken achter haar aan.
 
-Alandros the Magnificent
+Ze worstelden in het duister. Takken prikten in haar zij, afgewisseld met hoorns. Gefrustreerde kreten mengden met elkaar, totdat ze werden overstemd door een loeiharde klap.
 
-Alixader the Giant => Alixader de Reus
+Het gevecht stopte. Ze keken allemaal opzij, naar een lichtpuntje dat buiten de bosjes was ontstaan. Iemand had een vuurkogel afgevuurd, precies gericht op waar ze een paar tellen geleden nog stonden, en de open plek nu in brand gezet. De volgende moordpoging op de Tamli koningen om domme redenen mislukt. Dom geluk. Verdacht geluk.
 
+Marili greep de giffles in haar slurf en vluchtte.
 
+___
 
-Buffalo
+Ashorra stond met Ardex op de stadsmuren. Sinds hij wist dat die geesten iemands _Dood_ voorstelden, kon hij ze beter herkennen en plakken bij de persoon bij wie ze hoorden. Gek genoeg maakte het hem minder bang, want het was niet _zijn_ Dood. Hoe vaak hij ook achterom keek, zijn eigen schaduw kon hij nooit zien. 
 
-Olifant
+"Precies als je wordt geboren," zei Ardex, "wordt er tegelijk een tweede wezen geboren. Jouw Dood. Het is alles wat jij niet bent. Daarom hebben mannen een vrouwelijke dood, daarom hebben sterke mensen een zwakke dood."
 
-Pauw
+"Maar waarom?" Ashorra keerde terug naar het paleis. Hij wilde Marili verrassen door een keer eerder thuis te komen en de avond samen door te brengen. Ze hadden zo weinig tijd samen en hij wilde haar een zoen geven.
 
-Tijger
+"Waarom? Nou, tja, omdat mijn ouders, de Oppergoden, het zo hebben gemaakt. Het is een wet van de natuur. Net zoals zwaartekracht, of licht, of---"
 
-Neushoorn
+"Jij bent de god van de dood, Ardex. Je moet toch een idee hebben?" Ashorra liep in harnas door de straten, kop omhoog en borst vooruit. Soldaten salueerden hem, verkopers stapten opzij. Eindelijk respect, ten koste van angst. Maar hij zou degene zijn die eindelijk heel Schola verenigd en wraak neemt op de Tamli.
 
-Geit
+"Mijn ... mijn ouders zijn ook een soort tegenovergestelden van elkaar. De een kan alleen maken, de ander alleen vernielen. Dit is ongeveer hetzelfde. Als het universum leven maakt, moet het precies evenveel dood maken, anders is het uit balans. Dus je Dood is altijd bij je. En hoe dichterbij jouw Dood komt ..."
 
-Rund (Zebu?)
+"Kan ik praten met mijn Dood?"
 
-Koe
+Ardex schudde zijn hoofd. "Ik ben verbaasd dat je ze kan zien. Je moet wel afstammen van de Asha, die hadden altijd bijzondere giften. Maar nee, ik denk niet dat je met je Dood kan praten, totdat je haar echt begrijpt."
 
-Leeuw
+Ze stapten door de paleisdeuren. "Marili? Ik ben thuis!"
+
+Zijn stem galmde door de lege hallen. Hij trompetterde luid genoeg om Ardex schrik aan te jagen. Geen reactie.
+
+"Als die Tamli haar iets hebben aangedaan," mompelde hij. "Ik maak ze allemaal kapot. _Allemaal_!"
+
+Hij rende de trappen op, naar de slaapvertrekken. Zijn bewakers stonden voor de deur te niksen. Was dat een goed teken of niet?
+
+Hij beukte de slaapkamerdeuren uit elkaar. 
+
+Marili stond middenin de kamer met een rood hoofd. Ze legde een flesje drinken op een tafel en deed met haar staart subtiel het raam dicht.
+
+Een last viel van zijn schouders. Nee, niet laten zien. Jij bent de koning, zij alleen een knappe olifant. 
+
+"Marili, waarom reageerde je niet op mij?"
+
+"Ik ben moe."
+
+"Je bent _altijd_ moe."
+
+"Welterusten, lief." Ze plofte op het gigantische zachte vierkant in de vloer dat ze een olifantenbed noemden.
+
+Ashorra trok haar bijna eruit, maar hield zich in. "Morgen sta je naast me op het slagveld! Zoals een vrouw van de koning hoort te doen!"
+
+Ze keek naar de grond en sprak zacht: "Ja, mijn koning."
+
+"Ik ga onze plannen aanscherpen. De Tamli horen onze wraak te voelen in het diepst van hun botten."
+
+"Wraak gaat niks goeds opleveren," bromde Ardex, vuur in zijn ogen.
+
+"We zijn in oorlog!"
+
+"Oorlogen bestaan alleen _omdat_ domme dieren de hele tijd wraak willen! Omdat iedereen denkt in _wij_ tegen _zij_." Ardex keerde zich af. "Iedereen in Schola stamt af van dezelfde paar beschavingen. Jullie zijn allemaal familie, maar jullie ... jullie trekken een willekeurige lijn en besluiten elkaar erover te vermoorden!"
+
+De kaarsen in de kamer laaiden hoger op door zijn woede. Ashorra rende de slaapkamer uit, richting de oorlogskamer, maar bleef stiekem wat langer luisteren. 
+
+Ardex sprak zacht tegen Marili. "Als ik ... als ik toch een manier had om dieren niet te laten denken in _wij_ tegen _zij_."
+
+"Stop daar nou eens mee, lieve Ardex. Je kan niet alles oplossen. Je weet dat je niet met krachten moet smijten."
+
+"Mijn ouders noemden me de koudste godenzoon. Soms ben ik bang dat ik ze gelijk zal geven."
+
+_Ze zijn wel erg vriendelijk met elkaar geworden, of niet?_
+
+_Ardex gaat je vrouw afpakken._
+
+_Lieg niet tegen jezelf. Als je Ardex boos maakt, dood hij je in één seconde in je slaap._
+
+Ashorra schudde zijn hoofd om de gedachten te laten verdwijnen. Hij zou Marili verbieden om nog met Ardex om te gaan, maar voor nu had hij een Schola om met bloed en wapens te verenigen.
