@@ -11,13 +11,16 @@ Gebruik **Seamless-M4T** (tenzij er ondertussen iets beters is uitgekomen).
 
 ## Toekomstige To-Do
 
-**Haal OUTLINES weg:** zinloos, geen zin om te updaten, haal gewoon weg.
-
-**Betere PRINT tool:** Gebruik Paged.js om automatisch paginanummers en dinges toe te voegen. Huidige systeem werkt om een of andere reden supertraag en matig.
-
 **ALS OFFICIEEL BESCHIKBAAR:** Maak de visuele kant van "dit boek is nog niet beschikbaar" duidelijker en mooier.
 
 **TOOL:** Een pagina die de jaartallen uitleest en alle verhalen op de juiste volgorde zet. (Zodat ik het niet meer met de hand hoef te doen.) => Gebruikt "yearstart" (en gemiddelde met "yearend", als die bestaat)
+
+**NOG VEEL GROTERE TOOL:**
+* Kan ik _data_ toevoegen (ofwel in data folder, ofwel bij het verhaal zelf het liefst) ...
+* ... die precies zegt "dit type ding, met deze naam, verschijnt op deze plek"
+* ... zodat hij _automatisch_ voor mij een wereldkaart maakt door de hele tijd heen
+* ... waarin ik simpelweg heen en weer kan gaan en precies kan zien hoe dingen eruitzagen op dat moment?
+* Dit zou mij toestaan om per verhaal iets meer metadata bij te houden (zoals ik al doe), om gratis en voor niets de meest geavanceerde wereldkaart ooit te krijgen
 
 **ICOONTJES:** Is er *een manier* om ze groter te laten zien? Want nu moet alles zo klein en versimpeld, dat ik vrij snel geen unieke icoontjes meer kan maken.
 

@@ -1,0 +1,11 @@
+@use "../critical_modules/core" as c;
+
+.pagedjs_page { 
+    p:first-child, hr + p {
+        float: left;
+        font-family: "Camelot Caps", Georgia, serif;
+        display: block;
+        font-style: normal;
+        font-weight: normal;
+    }
+}

@@ -111,7 +111,7 @@ In one corner, where moonlight fell most graciously, a group of elderly members 
 
 "We have nothing _but_ free time," Farshar said. "We are _glad_ whenever we can alternate between this and hunting! And so, if you don't mind, I have an entire evening to spend with my wife ..."
 
-He carried his wife away from the fire. Giggling and kissing, they ran to a dark corner.
+He carried his wife away from the fire, into a dark corner where they did who knows what.
 
 Jagu could not move from the shock. His eyes noticed Jambir.
 

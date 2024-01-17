@@ -1,8 +1,14 @@
 <!DOCTYPE html>
 {{ $lang := .Language.Lang }}
 <html lang="{{ $lang }}" xml:lang="{{ $lang }}">
-  {{- partial "head.html" . -}}
+  <head>
+    {{ block "head" . }}
+      {{- partial "head.html" . -}}
+    {{ end }}
 
+    {{ block "head-custom" . }}{{ end }}
+  </head>
+  
   {{ $color := partial "func/color-scheme.html" . }}
   <body class="{{ $color }}">
 

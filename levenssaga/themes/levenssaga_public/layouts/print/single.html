@@ -1,0 +1,88 @@
+{{ define "head-custom" }}
+    {{ $paged_js := resources.Get "js/paged.polyfill.js" | resources.Minify }}
+    <script src="{{ $paged_js.RelPermalink }}"></script>
+
+    <!-- Used by Paged.js to make stuff look like an actual book -->
+    {{ $paged_style := resources.Get "sass/paged-interface.css" | resources.Minify }}
+    <link href="{{ $paged_style.RelPermalink }}" rel="stylesheet" type="text/css">
+
+    <!-- Specific styles for the PDF creation -->
+    <style>
+        @page { 
+            size: 5.5in 8.5in;
+            margin-top: 18mm;
+            margin-bottom: 22mm;
+
+            @top-right { 
+                content: string(title);
+                font-style: italic;
+                opacity: 0.5;
+            }
+
+            @bottom-center { 
+                content: counter(page); 
+            }
+        } 
+        
+        @page:left {
+            margin-left: 15mm;
+            margin-right: 20mm;
+        }
+        
+        @page:right {
+            margin-left: 20mm;
+            margin-right: 15mm;
+        }
+
+        body {
+            font-size: 12pt;
+            background-color: white;
+            color: black;
+        }
+
+        .content p:first-child::first-letter { 
+            float: left;
+            font-family: "Camelot Caps", Georgia, serif;
+            display: block;
+            font-style: normal;
+            font-weight: normal;
+            color: black;
+            font-size: 7.75em;
+            line-height: 0.86em;
+        }
+    </style>
+{{ end }}
+
+{{ define "main" }}
+{{ $story := .Parent.CurrentSection }}
+<article class="reader-container">
+    <div class="reader">
+        {{ range $story.Pages }}
+            {{ $is_chapter := partial "func/test-if-chapter.html" . }}
+            {{ if not $is_chapter }}{{ continue }}{{ end }}
+            <h2>{{ .Title }}</h2>
+            <div class="content">
+                {{ .Content }}
+            </div>
+        {{ end }}
+    </div>
+</article>
+
+<script>
+    class AutoPrintHandler extends Paged.Handler 
+    {
+        constructor(chunker, polisher, caller) 
+        {
+            super(chunker, polisher, caller);
+        }
+    
+        afterPreview(pages) 
+        {
+            console.log(pages);
+            print();
+        }
+    }
+    Paged.registerHandlers(AutoPrintHandler);
+</script>
+
+{{ end }}

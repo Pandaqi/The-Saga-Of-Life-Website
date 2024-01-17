@@ -17,7 +17,7 @@ De woestijnvos staarde onverstoord in haar ogen. "Het is een eeuwenoud recept. E
 
 De vos rook naar modder en zweet. De geur botste met de fijne bloemengeur uit haar kar, en een ander recept dat borrelde en bruiste in een ketel achter haar. In het voorbijgaan doopte Chef haar vinger in het goedje en proefde het. _Bijna klaar. Mag iets meer Rosemarijn._
 
-Wat deed een woestijnvos zo ver van Floria---zo ver van de woestijn? Die ziekte moest wel héél ernstig zijn, maar zij zag er kerngezond uit. "Is het een huidziekte? Beschermt die mantel je tegen de zon?"
+Wat deed een woestijnvos zo ver van Floria---zo ver van de woestijn? Die ziekte moest wel héél ernstig zijn, maar zij zag er kerngezond uit. Alleen haar schaduw was een beetje raar, alsof ze stiekem twee vossen onder haar mantel verborg. "Is het een huidziekte? Beschermt die mantel je tegen de zon?"
 
 De hoge, puntige oren van de vos bogen omlaag. "Ik ben Minneka, de adviseur van een héél belangrijk en machtig persoon. _Hij_ is ziek. Als je de klokken hoort luiden, ligt hij op sterven. Onze beste dokters verwachten dat dit misschien al binnen tien dagen gebeurt."
 

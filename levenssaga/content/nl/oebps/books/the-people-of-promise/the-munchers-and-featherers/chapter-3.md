@@ -111,7 +111,7 @@ In één specifieke hoek, precies waar het licht het beste viel, zat en groep ou
 
 "We hebben niets _dan_ vrije tijd," zei Farshar. "We zijn _blij_ als we het kunnen afwisselen met jagen en verzamelen! Dus, als je het niet erg vindt, ik heb een hele avond om iets leuks te ondernemen met mijn vrouw ..."
 
-Hij tilde zijn vrouw weg bij het vuur. Samen renden ze giechelend en zoenend naar een donker hoekje.
+Hij tilde zijn vrouw weg bij het vuur om samen naar een donker hoekje te rennen.
 
 Jagu bleef verbijsterd achter. Zijn ogen vielen op Jambir.
 

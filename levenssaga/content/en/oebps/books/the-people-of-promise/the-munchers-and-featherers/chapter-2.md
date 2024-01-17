@@ -133,7 +133,9 @@ All held their breath. Farshar and the king studied each other, from top, to bot
 
 His son and daughter had recovered from the attack. They seemed ... angry at their father? 
 
-His son impatiently tapped his foot, while his daughter squeezed her basket's handle. Despite her wild and furious eyes, Jambir immediately felt a tug of love and desire, realizing he found her attractive.
+His son impatiently tapped his foot, while his daughter squeezed her basket's handle. Despite her wild and furious eyes, Jambir immediately felt a tug of desire, realizing he found her attractive.
+
+_Not a tug of love, dear reader, for that did not exist yet. Only the desire to have children with another animal, to make sure your family tree stood strong for a little longer._
 
 "With how many are how you?" the jaguar asked.
 

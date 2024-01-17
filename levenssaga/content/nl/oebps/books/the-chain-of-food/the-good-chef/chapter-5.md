@@ -57,6 +57,8 @@ Minneka beet om haar heen en wist de grootste stengels bij haar mond weg te houd
 
 Een volgende varen veranderde in een roofvogel en cirkelde boven haar hoofd. Een andere varen werd een gebouw, misschien een paleis of piramide. De laatste varen voor de afgrond werd een standbeeld van één van de godenkinderen. Chef zag de duizelingwekkende diepte naderen en had geen tijd om te ontcijferen welk godenkind het was.
 
+De varens hielden het licht buiten en deden het lijken alsof Minneka's schaduw die van een klein muisje was.
+
 "Laat haar los! Ze meent jullie geen kwaad."
 
 Dat was niet waar, besefte ze. Ze kwamen hier om de planten te _plukken_. Maar dat kon hetzelfde betekenen als een plant doden. 

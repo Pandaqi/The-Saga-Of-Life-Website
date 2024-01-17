@@ -129,7 +129,9 @@ De roodgele jaguar stapte verder naar voren. Hij stelde zich kwetsbaar op: één
 
 "We kunnen eten uitwisselen," zei Farshar, "technieken en kennis. Wij trekken over een paar dagen toch weer verder en je hebt geen last meer van ons."
 
-Zijn zoon en dochter waren bijgekomen van de schrik en leken nu vooral ... boos op hun vader? Zijn zoon stampte ongeduldig zijn poot en zijn dochter kneep de hendel van haar mand fijn. Maar zelfs met haar woedende gezicht, voelde Jambir meteen een getrek in zijn maag van liefde en verlangen, terwijl hij realiseerde dat hij haar knap vond.
+Zijn zoon en dochter waren bijgekomen van de schrik en leken nu vooral ... boos op hun vader? Zijn zoon stampte ongeduldig zijn poot en zijn dochter kneep de hendel van haar mand fijn. Maar zelfs met haar woedende gezicht, voelde Jambir meteen een getrek in zijn maag van verlangen, terwijl hij realiseerde dat hij haar knap vond.
+
+_Geen liefde, beste lezer, want dat bestond nog niet. Alleen de wil om samen met een ander dier kinderen te krijgen, zodat jouw stamboom nog langer overleefde._
 
 "Met hoeveel zijn jullie?" vroeg de jaguar.
 

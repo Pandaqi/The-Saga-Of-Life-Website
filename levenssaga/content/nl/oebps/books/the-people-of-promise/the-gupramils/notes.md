@@ -60,6 +60,33 @@ De drie Tamli koningen natuurlijk. Neushoorns die zwemmen in goudstukken, handel
 * H9: Duidelijk maken dat zij vredig was gevlucht naar Candya, maar nu puur staat te vechten om zichzelf te _verdedigen_?
 * H10: Iets meer over dat gouden tijdperk. (Hij staat alle geloven toe, alle meningen. Hij zoekt buiten zijn eigen familie voor troonopvolging.)
 
+## Check out what to do with this
+
+Van de YouTube comments van Crash Course - Alexander the Great
+
+@SOURCE: https://www.youtube.com/watch?v=0LsrkWDCvxg&list=PL2QuSfnT0hGFzi_l1LTsYZajvjVgdfjsE&index=8
+
+
+It was said that Alexander would visit all of the soldiers that were wounded in battle and ask them the circumstances that caused them to be injured. He would then listen to every story and allow them to embellish as much as they wanted.....no real point to that I just think it's a cool story.
+
+
+
+The reason Alexander wasn't able to accomplish conquering India was because of a man named Chanakya. Chanakya unified the 16 kingdoms of India and approached Alexander's army. Alexander's army was not equipped to fight and his soldiers were not skilled enough to fight tamed animals such as the huge Asian elephants. If you want more details on this subject, the History channel has made a documentary about this very topic. You are free to look it up.
+
+
+Guys, there was another reason why alexander's troops didn't move on from the indus valley. At this time, the Magadha Empire was being ruled by Mahapadma Nanda, who had transformed magadha into one of the most powerful armies in the world. At that time, about 55% of India was under their control.The army was scared of the Magadha Army and were homesick, so they turned back. Just saying. Also, the Seleucids whose leader was Seleucus Nicator attacked Chandragupta Maurya of the Mauryan Empire and was defeated like a twig.
+
+
+
+Alexandar's last  fight was  with Indian king Porus at river Indus in present day  Indian kashmir 
+As  it was difficult for Alexander's army to cross Indus river and tributaries
+
+Alexander was amazed to see   for the first time war elephants of india with great armours  which can kill army with thier tusk and training
+
+Alexander was amazed by tactics of Indian warriors and King Porus  and he recommended to praise him.
+
+Due to defeat Alexanders general had  Celeulus Necater  give his daughter to Indian king Chandragupta Maurya father of Ashoka Maurya
+
 ## Notes
 
 @TODO: 

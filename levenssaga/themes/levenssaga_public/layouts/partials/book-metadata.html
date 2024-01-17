@@ -4,13 +4,10 @@
     <h2 class="center">{{ i18n "book-metadata" }}</h2>
     <ul>
         
-        {{ $outline_url := printf "%soutline/" .RelPermalink }}
         {{ $notes_path := printf "%s/notes.md" (path.Dir .File.Path) }}
         {{ $notes_page := .Site.GetPage $notes_path }}
 
         <li><strong>Extra:</strong>
-        <a href="{{ $outline_url }}">{{ i18n "book-summary" }}</a>
-        
         {{ with $notes_page }}
             <a href="{{ .RelPermalink }}">{{ i18n "book-notes" }}</a>
         {{ end }}

@@ -61,11 +61,13 @@ Was het een dief met eer? Was het boek zoveel waard dat hij best oprecht wilde h
 
 _Moet je jezelf horen,_ dacht ze. _Zelfs een dief die een Hemelvoorwerp jat, praat je nog eer en goede bedoelingen aan._
 
-Het was stil in het oerwoud. Akelig stil. Chef en Minneka pakten elkaars poot. 
+Het was stil in het oerwoud. Akelig stil. Chef en Minneka pakten in paniek elkaars poot. 
 
 De klokken waren gestopt met luiden.
 
-Minneka sprong naar buiten. "Help! Help! Kom de kar trekken!"
+Minneka sprong naar buiten. Chefs zicht werd wazig, haar hele omgeving plots tien keer zo donker, alsof Minneka tien reuzenschaduwen had gekregen die haar ondergronds wilden trekken.
+
+"Help! Help! Kom de kar trekken!"
 
 "Wie is daar?" schreeuwde een bewaker vanaf de voorste paleistoren. 
 
