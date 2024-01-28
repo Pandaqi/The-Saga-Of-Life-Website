@@ -24,6 +24,8 @@ This is more like it. Over time, the ill one will seek out help from those that 
 
 But an invention helps them survive and combining powers, finishing their experiments, finds a cure for her illness just in time.
 
-(And, as stated, some plot twists about people _knowing_ everyone is lying and still going along. And how that has stifled progression in forever. The cure is probably something obvious and simple---maybe one of the others stumbled onto it "by accident" before, but was afraid to let it be known, for fear of being called a witcht!)
+(And, as stated, some plot twists about people _knowing_ everyone is lying and still going along. And how that has stifled progression in forever. The cure is probably something obvious and simple---maybe one of the others stumbled onto it "by accident" before, but was afraid to let it be known, for fear of being called a witch!)
 
-Yes, that's enough for me, let's start.
+**@IDEA: "living in denial".** One character drinks way too much (alcohol). But they come from a family where _all_ of them do that, so they're like "I don't drink any more than anyone else! This is alright!" Even as they decline further and further, get more and more ill, etcetera. 
+
+Even when they're _treated_ for it, their family keeps secretly getting them more alcohol, until they die without ever even realizing the truth?

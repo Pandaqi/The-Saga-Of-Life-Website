@@ -18,6 +18,7 @@ Gebruik **Seamless-M4T** (tenzij er ondertussen iets beters is uitgekomen).
 **NOG VEEL GROTERE TOOL:**
 * Kan ik _data_ toevoegen (ofwel in data folder, ofwel bij het verhaal zelf het liefst) ...
 * ... die precies zegt "dit type ding, met deze naam, verschijnt op deze plek"
+* (eventueel met aparte types voor "gebieden" en hun precieze vorm, zoals continenten en landen)
 * ... zodat hij _automatisch_ voor mij een wereldkaart maakt door de hele tijd heen
 * ... waarin ik simpelweg heen en weer kan gaan en precies kan zien hoe dingen eruitzagen op dat moment?
 * Dit zou mij toestaan om per verhaal iets meer metadata bij te houden (zoals ik al doe), om gratis en voor niets de meest geavanceerde wereldkaart ooit te krijgen

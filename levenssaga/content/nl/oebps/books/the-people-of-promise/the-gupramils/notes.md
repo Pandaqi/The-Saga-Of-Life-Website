@@ -43,6 +43,15 @@ De drie Tamli koningen natuurlijk. Neushoorns die zwemmen in goudstukken, handel
 
 ## Revisie / Notes / @TODO
 
+Die cyclus van wraak en "bescherm je groep" moet echt meer terugkomen.
+* De Tamli weigeren aan te sluiten bij de Gupramils omdat zij hen vroeger hebben aangevallen.
+* De Gupramils weigeren hen met rust te laten om precies dezelfde reden.
+* Ashorra praat consistent alles goed door te zeggen dat hij _zijn_ wezens verdedigt tegen die _anderen_.
+* Marili kan dus nooit loskomen van dat de Tamli toch echt _haar_ wezens zijn.
+
+ZET DIT OOK NEER (vanuit Ashorra) als "Oh, ze wilden mij dood hebben, ze noemden me gek en wilden me niet als leider---nou ik ga bewijzen wat ik waard ben en de liefde van mijn mensen terugwinnen."
+
+
 * Ashorra meer obsessief bezig laten zijn met een goede koning worden, zich bewijzen, het land redden, niet meer "gek" worden gevonden
   * Vanaf het begin die schuingedrukte "gedachten" geven die erg destructief zijn en inderdaad van een duistere geest lijken te komen.
   * In werkelijkheid doodde Ashorra zijn vader => kan ik dit omzetten naar Mero die hij doodt, omdat die anders "de troon tijdelijk zou overnemen totdat Ashorra ouder en wijzer was"? Moet ik sowieso iets zeggen over waarom hij geen vader heeft?
