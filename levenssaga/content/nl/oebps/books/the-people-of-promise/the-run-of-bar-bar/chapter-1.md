@@ -1,109 +1,141 @@
 ---
-title: "1. ??"
+title: "De Barbaarse Regels"
 weight: 1
 ---
-Himnib de Berenherder stond op het punt door de poort de stad te verlaten, toen hij dichtviel en het commando kwam _niemand_ meer door te laten. Zijn honderd schapen mekkerden onrustig toen een boodschapper hijgend een perkament overhandigde.
+Himnib de Berenherder wilde net de stad Amor verlaten toen de poort dichtviel en iedereen werd tegengehouden. Zijn honderd schapen mekkerden onrustig toen een boodschapper hijgend een perkament overhandigde.
 
+Een bericht van de koning. 
 
+De poortwachter, een wolf, las het snel en fronste. "_Alle soldaten moeten per direct de poort verlaten en naar het paleis komen. Laat één iemand achter die iedereen binnen honderd passen van de muur meteen ... doodschiet._"
 
-Zet dit op als een _sprookje_. Iets van een voorspelling, of vloek, of terugkerend vertellerpatroon vanaf het begin. Iets gebeurd 3 keer.
+Hij liet het perkament zakken vol ongeloof. De boodschapper tikte op een vergeten stukje.
 
-H1: De advocaat (een hamster, om extra de kleine tegen de grote op te zetten) komt langs Himnib en klaagt hem aan omdat zijn schapen regels overtreden. Alle andere Romeinen zijn het met hem eens en gedragen zich alsof zij veel "beter" zijn dan die barbaren en veel "correcter". Hij wint zijn rechtszaak ... maar de koning bemoeit zich ermee om een volslagen belachelijke straf (doodstraf?) op te leggen.
-* Gedurende het hoofdstuk worden al allerlei raaare dingen genoemd die de koning heeft opgelegd.
-* De rechter hier is dus die ene zoon van de koning die later belangrijk wordt.
-* Die advocaat spant dus uiteindelijk een rechtszaak aan _tegen de koning_.
+"_Oh, en alle wezens met rode vacht moet je bespugen._"
 
-H2: We ontmoeten de wetteloosheid van de barbaren, biggen die door de modder rollen, geen regels, etcetera. Dan komen die verdachte figuren (romeinen) langs, het voorstel, de missie.
-* De Hennen worden al genoemd. Ze zijn boos dat "alle barbaren over één kam worden gescheerd", terwijl zij ook worden opgejaagd door de Hennen en niks overeen hebben.
-* Ook een hoop schapen die met pure aantallen alles overlopen en opvreten
+Een lange rij dieren stond rondom de poort om binnen te komen of juist te vertrekken. Bij het horen van deze commando's keken ze angstig om en stapten toch maar achteruit, weg van de muur. De viervoeters wisten niet eens wat _honderd passen_ moest betekenen, dus ze renden in paniek zo ver mogelijk.
 
-H3: Die advocaat verzamelt bewijs. Ontdekt nog meer verschrikkelijke dingen. Presenteert uiteindelijk een behoorlijk sluitend argument ...  maar die corrupte rechter wijst hem resoluut af.
-* Zet er natuurlijk tempo achter om Himnib te redden voordat het zover is.
-* Roept hulp van de Wijze Uil in?
+De paar dieren met rode vacht besloten zich maar te verstoppen achter een ton.
 
-H4: De Barbaren bereiden voor op de missie, maar leggen ook uit hoe onzeker ze zijn over dit allemaal. Ze luisteren een gesprek tussen de zoons van de koning af? (Of is dat hoofdstuk 3?)
-* De jongste zoon/dochter van hen wordt constant verteld hoeveel _beter_ de Romeinen zijn en hoe _onbeschaafd_ de Barbaren zijn.
-* Terwijl diegene ook constant wordt weggezet, genegeerd, geen rechten heeft, ingezet voor rotklusjes.
+De soldaten zuchtten en sloten alles af.
 
-H5: Ze doen de missie. Maar ze stuiten op de advocaat, die hen overtuigt juist af te houden (ze twijfelden toch al), en dat ze dit _wettelijk_ en _op de juiste manier_ gingen doen.
-* Er is ruzie tussen de zoons over wie de koning mag opvolgen, dat loopt zo uit de hand dat de ene de ander doodt.
-* Die jongste zoon loopt (mede hierom) weg van huis, naar de barbaren? Of we zien dit nog niet, alleen dat een "vreemdeling" bij het vuur komt?
+Himnib rammelde aan de poort. "Ik kan hier toch niet blijven? Mijn schapen hebben hier geen ruimte om---"
 
-H6: Die advocaat gaat nog verder, nog meer bewijs, runt zelfs om zelf opvolger te worden, en raakt populair. De volgende keer dat hij de koning uitdaagt ... wordt hij op basis van niks aangeklaagd en bij Himnib in de gevangenis gegooid.
+Twee van zijn schapen waren al begonnen aan iemands voortuin. Een derde klom op een dak om luidkeels een nummer ten gehore te brengen.
 
-H7+H8: Als dit nieuws de Barbaren bereikt, besluiten ze toch door te gaan met hun missie. Dat zien we in deze hoofdstukken.
+"Hé! Ik ben anders wel een Kompaan!"
 
-H9: ??
-* De koning wordt gedood. 
-* Ze ontdekken dat de koning/zoon ook stiekem contacten had met de Hennen en hen zelfs inzette als hun eigen extra leger => dit moet een soort extra schokkende onthulling zijn
-* Maar inmiddels heeft die jongste zoon geleerd dat de barbaren het veel beter voor elkaar hebben. Hij laat ze binnen als ze willen (velen willen niet) en wil gezamenlijk _tegen_ de Hennen strijden.
-* Waarmee Himnib + Advocaat worden gered. (Hoewel Advocaat alle vertrouwen in systeem kwijt is?)
+Dat liet enkele wolven opkijken, maar was niet genoeg om hulp te krijgen.
 
-H10:
+In plaats daarvan beukte een stier hem opzij. "Houd je beesten onder controle, barbaar."
 
-## Outline
+Barbaar? Verwarde hij hem met iemand anders?
 
-As such, the vague outline for the story became ...
+Een vrouwelijke Prima, tijdelijk op twee benen, smeet een bak ijskoud water over de schapen die haar voortuin opnieuw inrichtten.
 
-* A group of Roman elites secretly seeks out Barbarians. They ask them to do a "barbaric task": kill their own leader. He is a terrible leader and leading the empire into ruin.
-  * In fact, these are his SONS (the next in line) wanting their father to be gone because they're so bad. (This also sets up hereditary nobles for Moon of Otto)
-* We follow one storyline where they discuss, plan the mission, then try to execute it.
-* We follow another storyline where a Roman, obsessed with order and civilization, tries to depose the leader using "legal" methods.
-  * One of the "judges" or "lawyers" is also a son of the current emperor, working against them every step of the way?
-* At first, the Barbarians are unsure, and the Roman seems to make headway.
-* But when he gets too close to _actually_ changing anything, he is attacked and incarcerated.
-* This exact event---seeing how justice is perverted when the king feels threatened---is what _convinces_ the barbarians to complete their mission.
+"Jeetje mina," mompelde ze. "Onbeschofd gespuis. Hoort hier niet thuis."
 
-So yes. The Saga of Life is getting a Lawyer storyline mixed with a Heist storyline. Let's not think too far ahead and just start writing that.
+Himnib sloeg zijn wandelstok op de grond, hard genoeg om paarse vonken te maken. Zijn schapen vormden meteen een nette rij en volgden hem terug de stad in.
 
-(I really want to make more characters reappear between stories. It feels a little too disconnected now. So I'll try to make the shepherds from the previous story in this time period relevant somehow. Also, my notes state that the Romans and Barbarians were being pushed around by the relentless Huns at this time, so let's keep that as a consistent threat driving things.)
+Hij passeerde twee Reuzenwolven. Ze droegen een wit gewaad dat losjes om hun lijf wikkelde en een kroon van gevlochten bloemen. Ze hadden een accent dat hij normaal alleen hoorde in de Raad van Kame als iemand héél graag wilde dat anderen hem slim vonden.
 
-Our final check: do we have a goal, an obstacle ( = conflict), that is urgent and with potential loss?
-* The goal is to remove the terrible leader before they make a bigger mess. (Perhaps they're planning an all-out attack, with the ENTIRE army, to wipe the Barbarians off the face of the earth for good.)
-* The obstacle is the leader itself, having all the power.
-* It is urgent, for the leader makes these terrible decisions all day and will enact their plan soon. (Perhaps they are "visiting" some town nearby that makes this moment the best one ... for a brief window of time.)
-* If the barbarians don't do it, they lose good relations with Rome and/or their entire lifestyle.
-* If the lawyer doesn't win, he will be crushed by his destroyed faith in civilization and law. (Figuratively. Though it becomes literal when he is sentenced to death.)
+"Ik zou wel willen, Rodrik," zei de een. "Maar de koning heeft vorige week nog verkondigd dat elke dag moet beginnen met een uur bidden ... tot hém! Ik houd geen tijd over om iets te doen!"
 
+"Zat eraan te komen," zei Rodrik terwijl zijn verachtende blik over Himnibs kudde gleed. "Weet je nog die straatartiest?Die tien jaar elke dag op het plein stond? Opgepakt en veroordeeld tot de dood, zonder reden."
 
-LESSONS:
-"Geen beschaving zonder chaos" (of iets in die richting)
-    a.  Het algemene punt is "geen beschaving zonder vergelijkingspunt van niet-beschaving" en "geen beschaving zonder mensen die guilty pleasures hebben of de onweerstaanbare drong zich er toch niet aan te houden"
-    b.  "Geen deugd zonder zonde" / "Geen beschaving zonder geheimen"
+Himnib schudde zijn hoofd---en struikelde over een hamster die hij daardoor niet zag.
 
-Misschien kan "run" wel slaan op "run for president"-achtig wat die Lawyer doet?
+"Ja! Stop maar!" piepte het beest. Hij was twee koppen kleiner dan Himnib, ook al schatte hij hem in als een volwassene. "Dat is een overtreding van reglement 4.1.7 Kom maar mee, barbaar."
 
+Weer dat woord. Hadden ze het wel tegen hem?
 
-## Andere notities
-**"De Ren van Baa-baa":** over de *barbaren*, hun invloed en overname van het Romeinse Rijk. Dit is een verzameling wilde schapen die, door pure *aantallen* en *zoektocht naar planten om te vreten*, heel Origina overloopt. => Animals that bleat: goat, sheep, seal, giraffe
+Hij negeerde het en liep door, maar de hamster blokkeerde opnieuw zijn pad met gevaar voor eigen leven.
 
-Werkt samen met "De Hennenvloot" (hunnen die hen verdrukken) en eventueel ziekte/tegenspoed dat toch al door het Romeinse rijk gaat.
+"Arrestatie ontwijken. Overtreding reglement 5.2.3, dat wordt flinke straf. Ja ja, je ontkomt Ginsea---advocaat van het paleis---niet zomaar!"
 
-Hangt samen met De Vergeten Herder. Die herders brengen de schapen naar overal? Hebben hen sterker gemaakt en hun aantallen zwaar verhoogd?
+De hamster floot naar twee wolvensoldaten vlakbij die niks stonden te doen. Himnib had de macht van Ginsea onderschat, want de soldaten hadden hem vijf tellen later in metalen pootboeien.
 
-Ik wil dat idee van "Evolution within groups" (altruïsme kan toch ontwikkelen omdat het helpt om jouw _groep_ sterker te maken dan andere _groepen_) => Kan eventueel ook bij de **Theekolonie**.
+"Wat is dit? Ik heb niks verkeerd gedaan. Ik heb---"
 
-**Vage outline:**
-* De herders van Vergeten Herder moeten hier sowieso een grote rol spelen.
-* Een personage gelooft heilig in _orde_ en _structuur_. (Een wetenschapper die alles met regels en formules probeert te omschrijven?) => diegene komt in aanraking met de barbaren (handel? gekidnapt? ongeluk?)
-* Aan de andere kant hebben we barbaren die overal rondtrekken, opgejaagd door de Hennen.
+Ginsea kuchte. "Jouw schapen hebben _meermaals_ andermans terrein bewandeld en andermans eten opgegeten. Je bent in het bezit van magische voorwerpen, wat niet is toegestaan in Amor. Moet ik doorgaan, barbaar?"
 
-**@TODO: Doe iets NIEUWS.** Andere structuur, ander genre, bijzondere opzet, weet ik veel.
+"Mijn excuses. Het zal niet opnieuw---"
 
-**Dit is een idee:** de Romeinen werkten vaak stiekem samen met de Barbaren om te winnen van andere Barbaren. Ze keken op hen neer en vonden hen "onbeschaafd", maar gebruikten wel hun speciale talenten voor hun eigen gewin.
+Eén van de wolven gniffelde. 
 
-Zo krijgt een clan barbaren dus de opdracht om de keizer van Amor te doden. (Of iets anders schokkends dat al die nobele Romeinen niet zelf willen doen of toegeven. Hint naar dat ze dit al vaker hebben gedaan.) Ze nemen de opdracht aan omdat de Hennen in hun rug duwen.
+"Je hebt gelijk," zei hij met een valse grijns. "Hun taaltje klinkt echt alsof ze _bar bar bar bar_ zeggen de hele tijd."
 
-Uiteindelijk is het punt dus dat een beetje chaos/onvoorspelbaarheid/anarchie nodig is, want vastzitten in orde en regels betekent ook dat je _nooit vooruitkomt_.
+Ze trokken hem door de straat. Hij had niks verkeerd gedaan! Het weerhield een paar Amori er niet van om wat rot fruit naar zijn hoofd te gooien.
 
-Het simpele dilemma van. "Moord is slecht, dat hebben we afgesproken. Maar als we de keizer niet doden, blijft zijn bar slechte leiding alles verwoesten en kunnen we geen _betere_ regels instellen."
+Ze schreeuwden nog een keer in zijn gezicht hoe _onbeschaafd_ en _vies_ hij was. Hoe hij niet thuishoorde tussen de nette Amori met hun eerlijke regeltjes.
 
-> Om dit aan te sterken moeten er echt ONGELOFELIJK veel regeltjes zijn. In de eerste hoofdstukken proberen ze allerlei simpele dingen, maar alles is verboden of heeft een (kleine) straf.
+Hij ging nu zien hoe eerlijk die precies waren.
 
-**@IDEA: De Barbaren praten nog steeds over de "ziel van Asha"?** Zij zijn nog overblijfselen van dat idee dat je in kleine groepjes moet leven en rondtrekken, niet steden bouwen of meer structuur, want dat gaat altijd mis.
+Ginsea duwde hem een donkere zaal van marmer in. Achter een verhoogd houten tableau stond een rechter met hamer. 
 
-Dit is een geweldige quote.
+Himnib had veel van de wereld rondgelopen met zijn kudde. Hij had wel vaker dieren meegemaakt die te weinig te doen hadden en hem irriteerden.
 
-> He noted that many poor Romans turned to the "barbarians" for help. "They doubtless seek Roman humanity among the barbarians, because they cannot bear barbarian inhumanity among the Romans."
+"Is dit nodig?" fluisterde hij in Ginsea's oor. "Zo'n klein vergrijp? Wat is de straf? Twee keer sorry zeggen?"
 
-https://www.livescience.com/45297-barbarians.html
+"Zoiets," fluisterde hij terug. "Maar als we dit soort dingen niet bestraffen, gaan dieren straks nóg meer reglementen breken, en nog meer, totdat we _niks_ meer bestraffen! Het zou barbaars zijn! Chaos! Een beetje ... ja, zoals _jullie_."
+
+Himnib stond voor de rechter, de boeien om zijn voorpoten vastgeklemd aan een paal. Zonlicht kwam alleen binnen door gaten bij het plafond. De tribunes om hem heen waren leeg, maar zonder een kruimeltje stof.
+
+Ginsea deed zijn verhaal over de zeven piepkleine reglementjes die Himnib _technisch_ gezien had gebroken. Hij wist het zelfs zo te draaien dat zijn schaap die vals zong een "verstoring van de openbare orde" was. Prima. Als ze maar van zijn schapen afbleven.
+
+"Ginsea," zei de rechter geïrriteerd, "ga iemand anders z'n tijd verdoen. Ik bevind deze Himnib compleet onschuldig en---"
+
+De kleine hamster maakte zich lang, wat op geen enkele manier intimiderend was. "Verbijsterd! Ik ben verbijsterd! Een rechter hoort---"
+
+De _koning_ wandelde de zaal in. De Reuzenwolf brabbelde over heksen, geesten en een vliegende kip. Hij keek even naar de rechter. Hij knikte, fluisterde iets in zijn oor, en liep net zo verdwaasd door de andere uitgang verder, zonder Himnib één keer aan te kijken.
+
+"Ongelofelijk!" barstte de rechter uit. "En dat laten we toe in onze stad? Zulke barbaren? Dit eist de _hoogste_ straf!"
+
+Ginsea fronste. "Dat, eh, dat is óók niet juist volgens reglement 4.1.2."
+
+De rechter sloeg zijn hamer oorverdovend hard tegen het hout. Himnibs wandelstok werd ruw uit zijn poten gegrepen.
+
+"Rechter Wolfar veroordeeld Himnib tot de Vlam."
+
+"De wat?"
+
+Ginsea werd lijkbleek. "De Vlam? Dat is wáánzin."
+
+"Dat is de definitieve uitspraak van Wolfar. Soldaten, breng hem naar de kerkers."
+
+"Wat is de Vlam?" schreeuwde Himnib, terwijl paniek zijn hart greep en bijna stilzette.
+
+"Dat ... dat," prevelde Ginsea, niet in staat Himnib aan te kijken. 
+
+Hij werd uit de zaal geduwd. Zijn poten wilden zijn schapen strelen en geruststellen, maar ze werden ruw uit elkaar getrokken. Hij in de ene koude, grijze cel---zijn schapen met alle honderd in een ander veel te klein hokje. 
+
+"Dat is haast nog erger dan de doodstraf," fluisterde Ginsea. "Wie de Vlam ondervindt, vergeet en wordt vergeten."
+
+"_Vergeten_?"
+
+Ginsea zocht rechter Wolfar, maar die was al weggelopen om te beginnen aan het avondeten.
+
+"Dit is een schande!" riep hij. "Dit was niet de bedoeling van onze wetten!"
+
+Wolfar keerde om, een stuk vlees half uit zijn mond. "Himnib is geen Amori, of wel? Hij komt van de Berenbouwers. Hij is een buitenlander."
+
+"Ja, maar---"
+
+"Onze wetten gaan alleen over hoe Amori rechtvaardig worden behandeld. Alles daarbuiten mag ik lekker zelf bepalen."
+
+Ginsea krabte zijn tempel. Hij haalde een boek tevoorschijn uit een buidel over zijn rug en las razendsnel alle reglementen. 
+
+"Hij heeft geen gelijk, toch?" zei Himnib hoopvol. De hamster die net nog een irritant beestje was veranderde plots in zijn enige schild.
+
+"Ik ben bang ..."
+
+Maar toen sprong Ginsea omhoog, zijn ogen stralend, zijn rug recht.
+
+"Aha! Reglement 2.4.8!" Hij hield het boek omhoog, alsof Wolfar dat vanaf die afstand kon lezen. "_Voor een juiste scheiding van recht en staat, is het verboden voor de koning om zich te bemoeien met welke rechtszaak dan ook!_"
+
+Wolfar bulderde van het lachen, terwijl zijn klauwen het volgende stuk vlees uit een mand gristen. "Ga je nou---"
+
+"_Ik klaag de koning aan!_"
+
+Het stuk vlees viel met een pets op de grond. Himnibs hoofd duizelde terwijl ze hem in zijn cel propten.
+
+Ginsea beeldde zijn excuses uit en dook weer in zijn wetboek, op zoek naar alles wat hij tegen de koning aan kon gooien.
