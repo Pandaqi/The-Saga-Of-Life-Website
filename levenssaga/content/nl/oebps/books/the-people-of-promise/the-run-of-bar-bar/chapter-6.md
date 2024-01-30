@@ -128,6 +128,10 @@ Lawaai explodeerde van alle kanten. De hele Raad stond overeind en klaar om het 
 
 Waar Wolzam dan ook mocht zijn. Of hij kwam terug, en ze hadden een betere koning. Of niet, en Ginsea vulde dat gat.
 
+"Onzin!" riep de koning opnieuw, tong uit de mond als een klein kind. "Een vrouw mag geen aanklager zijn!"
+
+"_Ik_ ben de aanklager," zei Ginsea. "Zij is slechts getuige."
+
 Hij glimlachte. De Raad besefte het ook. Ze hadden hem te pakken. Alle dominostenen zouden vallen, wég van de koning.
 
 Wolfar spuugde langs Ginsea. "Ik had gehoopt, waarde vijand, dat ik dit niet hoefde doen."
@@ -137,6 +141,8 @@ Het volledige leger, dat al een week verzamelde in het paleis, marcheerde de kam
 "Volgens reglement _niemand geeft erom_ veroordeel ik iedereen tot de Vlam, zo snel mogelijk. En zo is het."
 
 Hij nam de hamer in zijn bek en sloeg hem oorverdovend hard tegen het hout.
+
+Wat ging een klein hamstertje doen tegen grote klauwen? Ginsea liet zijn hoofd hangen, zijn hoofd gebroken. Hoe had hij ooit gedacht als kleintje een verschil te kunnen maken tegen sterkere wezens?
 
 Het laatste dat Ginsea zag was een grote grijze uil, door de ramen, die met haar flinke vleugelslagen al het zonlicht verborg.
 

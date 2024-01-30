@@ -1,7 +1,7 @@
 ---
 draft: false
 
-title: "De Ren van Baa-Baa"
+title: "De Ren van Bar-Bar"
 weight: 5
 date: 2024-01-16
 uniqueID: "the-run-of-bar-bar"
@@ -10,26 +10,41 @@ book: true
 timeperiod: 'Het Kompaanschap'
 cycle: 'De Beschavingen van Belofte'
 bundle: 'Barbaren & Hekshaarden'
-character: []
+character: ["Wolfar (Wolf)", "Wodrik (Wolf)", "Wozam (Wolf)", "Ginsea (Hamster)", "Bar-Bar (Schaap)", "Bipi (Big)", "Roddelrat", "Aria (Uil)"]
 prequel: []
 refers: []
 happens: []
-godlink: []
+godlink: ["Solong (Berenherder)", "Bar-Bar (Schaap)"]
 genre: []
 teaches: []
 
-blurb: "BLURB HIER"
+blurb: "De koning van Amori is gek geworden. Zijn bevelen breken het rijk op. Natuurlijk wil geen enkele nette Amori diens poten vuil maken, dus schakelen ze de onvoorspelbare Barbaren in voor een duistere missie."
 
-# this timeline is centered around the Soulsaw / Zielenzaag, not absolute 0 ( = universe creation)
 timeline:
-  - yearstart: 0
-    yearend: 0
+  - yearstart: 50
+    yearend: 50
 
 readability:
-  - words: 123
-    lines: 456
-    score: 7
+  - words: 14399
+    lines: 1494
+    score: 6
 
 ---
 
-@TODO: Gedichtje
+De koning van Amori gaf bevelen
+
+Steeds vreemder en gemener
+
+Hij was gek geworden, riepen velen
+
+Maar hoe nam zo'n machtig man de benen?
+
+&nbsp;
+
+Een Barbaarse missie start voor sluipmoord
+
+Een advocaat gooit het wetboek ertegenaan
+
+Maar doen ze wel het juiste
+
+Of geven ze hun ondergang vrij baan?

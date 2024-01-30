@@ -1,114 +1,93 @@
 ---
-title: "7. ??"
+title: Barbaar tegen Barbaar
 weight: 7
 ---
+Verbazing trok door de Grapi stammen toen de spionnen terugkwamen ... en _niks_ hadden gedaan. Waren ze wel in het paleis gekomen? Ja, dat waren ze. Hadden ze de kans de koning te doden? Jazeker.
 
+Het maakte de situatie nog onbegrijpelijker voor degene die achter de missie stonden. De andere dieren knikten tevreden hun hoofd, alsof ze wisten dat de vredelievende ziel van Asha zou zegevieren.
 
+"Zie je wel," zei Bipi's moeder, blij dat haar dochter weer bij haar was. "Uiteindelijk maakte jullie hart de juiste keuze."
 
-@TODO: Geef aan het begin het reglement dat "Alleen de getuigenis van een volwassen lid van de koninklijke familie geldt als bewijs." (nadat Wolzam niet serieus wordt genomen, want dat is nog maar een kind)
+"Ons hart maakte de keuze, ja," zei Bar-Bar. "Maar of het de juiste was ..."
 
-@IDEA: Ze gebruiken steeds andere zinnen om "I rest my case" te zeggen, zie die Reddit thread met grappige Nederlandse varianten.
+De Roddelrat was meteen teruggegaan om de situatie in Amor weer bij te houden. De rest van de dieren hoorde de verdere uitleg, over een hamster die zeker was dat hij met regels ging winnen, en een opgesloten Kompaan.
 
-@TODO: Noem eerder dat de bibliotheek open is voor iedereen (want natuurlijk moeten die edele Amori zich inlezen en intellectueel zijn), en de beste ingang biedt voor de missie van de barbaren.
+Ze zaten of lagen rondom een kampvuur, onder de open lucht. De paar tenten die ze hadden waren vooral om praktische reden, zoals het beschermen van waardevolle voorwerpen tegen regen. Het was een ware Wildernis vergeleken met de glimmende gebouwen en dikke muren van Amor.
 
+De Amori hadden een groot aandeel in het uitwissen van de godenkinderen, maar als er iets is dat ze maar graag overnamen, dan was dat het idee van de Wildernis. Binnen stadsmuren was elk dier beschermd, prooi of niet. Buiten de stadsmuren---in de Wildernis---was het ieder voor zich en mocht je nog jagen voor je eigen vlees.
 
-# Outline
-Zet dit op als een _sprookje_. Iets van een voorspelling, of vloek, of terugkerend vertellerpatroon vanaf het begin. Iets gebeurt 3 keer.
+Met regelmaat werden stukken uit het vee van de Barbaren gehapt. Het was een dreiging die nooit eindigde, maar toch bleven ze op dezelfde manier leven en weigerden een eigen stad op te richten. Zelfs al hadden ze meer dan genoeg dieren en macht ervoor. 
 
+De Grapi bestonden al voordat de Amori kwamen, ze waren altijd al groter geweest, en ze zouden blijven bestaan lang nadat Amor was gevallen. Maar bijna niemand zou dat weten, want ze schreven niks op en lieten dus niks achter.
 
+Nieuwe vreemdelingen kwamen bij het vuur, zoals bijna elke avond. De armste dieren van Amor. Een paar verdwaalde lieden van een andere stam. Een schaap die een oog miste, een geit waarvan één hoorn was afgezaagd---waarschijnlijk door dieven die het voor veel geld wilden verkopen, een wolf met een gezicht vol littekens en een mank loopje. 
 
-H6: Die advocaat gaat nog verder, nog meer bewijs, runt zelfs om zelf opvolger te worden, en raakt populair. De volgende keer dat hij de koning uitdaagt ... wordt hij op basis van niks aangeklaagd en bij Himnib in de gevangenis gegooid.
-* De _koning_ zit er deze keer letterlijk bij. (Zo leren we hem ook beter kennen, maar het verstoord ook het hele proces.)
+Ze kwamen vaak gehuld in zwarte kleding, alsof ze bang waren te bestaan. Maar Bipi wist dat ze na één avond bij het warme vuur hun schaamte afdeden en bij de stam wilden horen. Deels omdat ze altijd even nieuwsgierig kwam snuffelen of er nog een vreemdeling bij zat die ze wel leuk vond. Deze keer dook ze bovenop die wolf en gaf hem een kusje. Hij leek te schrikken en om te willen draaien, maar bleef toch.
 
-H7+H8: Als dit nieuws de Barbaren bereikt, besluiten ze toch door te gaan met hun missie. Dat zien we in deze hoofdstukken.
-* Die jongste zoon loopt (mede hierom) weg van huis, naar de barbaren? Of we zien dit nog niet, alleen dat een "vreemdeling" bij het vuur komt? => Moet misschien in H2/H4 al genoemd dat vaak vreemdelingen aansluiten bij de stammen en dat niemand er ooit van opkijkt
-	* Oh en de vreemdeling heeft zware littekens op het hoofd, misschien een manke poot, waardoor die in eerste instantie niet wordt _herkend_ als zijnde Wolzam.
+Allemaal mochten ze erbij zitten. Want het Grapi gebied was één gebied en het was van iedereen. Elke stam had een oudste, die een soort leider was, maar verder werd vrijheid en zelfstandigheid altijd aangemoedigd. 
 
+Sterker nog, Bar-Bar had de regel dat je niet langer dan een maand op hetzelfde stukje land mocht blijven. Iedereen moest steeds verhuizen, om te voorkomen dat ze te comfortabel werden en een stad begonnen te vormen.
 
-H9: ??
-* De koning wordt gedood. (Of een truc om alles op te lossen zonder dat te doen?)
-* Ze ontdekken dat de koning/zoon ook stiekem contacten had met de Hennen en hen zelfs inzette als hun eigen extra leger => dit moet een soort extra schokkende onthulling zijn
-* Maar inmiddels heeft die jongste zoon geleerd dat de barbaren het veel beter voor elkaar hebben. Hij laat ze binnen als ze willen (velen willen niet) en wil gezamenlijk _tegen_ de Hennen strijden.
-* Waarmee Himnib + Advocaat worden gered. (Hoewel Advocaat alle vertrouwen in systeem kwijt is?)
+Maar vanavond kwam een wel erg bijzondere vreemdeling. Een Hen in een halve soldatenuitrusting. De enige echte vijand die alle dieren op dit continent leken te hebben.
 
-H10:
-* De Barbaren worden nu te groot om nog hun eigen levensstijl aan te houden, waardoor ze toch steeds meer richting koningen en dergelijke gaan.
-* (Veel culturen die bij hen komen _willen_ juist de Amorinse levensstijl nabootsen en zien dat als ideaal.)
-* De Hunnen zijn dus de grote dreigen voor ieder vanaf nu, ook Amor.
-* De Barbaren schrijven zelf niks op en laten niks na, dus alles wat mensen weten (en alle meningen die ze vormen) zijn slechts gebaseerd op wat de Amori over hen opschrijven---wat niet perse waar is natuurlijk.
+Iedereen stond meteen op hun poten.
 
+De vrouwelijke kip gooide haar vleugels omhoog. Ze hijgde nog na van de sprint. "Ik ben een deserteur. Ik hoor niet meer bij de Hennen."
 
-DINGEN OM MEE TE NEMEN.
-* De Romeinen drinken constant wijn. (In ieder geval de koningszonen.) 
-	* Dit wordt gezien als normaal en zelfs _goed_.
-	* Ook al zorgt dit uiteindelijk dat hij niet bij zinnen is als hij zijn broer doodt.
-	* Én dit blijkt de reden dat de koning compleet zijn verstand is verloren.
-	*  -> De Sumptuary Laws (Leges) die werden ingevoerd om juist dit soort excessieve feesten en drinken en dergelijke in te dammen?
-* De Romeinen zijn allemaal gekleed (grotendeels in die witte gewaden). De Barbaren enzo zien zij dus als "naakt" en compleet ongehoord, ook als ze later vechten.
-	* Wolfar loopt vaak _naakt_ door de gangen als hij alleen denkt te zijn, want dat voelt enorm stout en aantrekkelijk enzo. => Heel goed idee, hoe laten we dit op natuurlijke wijze zien?
-* Misschien beter als we dat verhaal van "zonde" zo opzetten
-	* Wolfar hééft al Wisira als vrouw. Seks enzo is natuurlijk compleet achter gesloten deuren.
-	* Maar dan gaat hij voor Wodriks vrouw, puur omdat hij haar wil en dan pakt hij haar.
-	* Wat die ruzie natuurlijk aanwakkert.
-	* (Contrasteer dit met de Barbaren waar je even later leert dat niemand één man/vrouw heeft, iedereen voor iedereen mag gaan, seks in het openbaar, etcetera. Om aan te tonen dat een regel als "vreemdgaan" ook een _verzonnen regel_ is.)
-	* Uiteindelijk wordt Wolfar aangeklaagd voor vreemdgaan? Door zijn vrouw?
-	* (Hierin doen we een of twee vertellersstukjes om het allemaal te balanceren voor jongere lezers.)
-	* (Voeg een "Roddelrat" personage toe die grof geld verdient met geheimen doorsluizen en dingen uitzoeken, wat alleen _kan_ omdat er al die reglementen zijn van wat je wel/niet mag zeggen of doen.)
-* Ergens de "slaven" introduceren die werkelijk overal zijn. => Die straatartiest uit hoofdstuk 1 is omgedoopt tot slaaf en komt weer ergens tevoorschijn, misschien bij de missie?
-* De Germanen noemen Ardex Odin (in de traditie dat ná het verdwijnen van Godenkinderen ze allemaal andere namen kregen in andere geloven)
-* De Germanen bezaten één land dat ze onderverdeelden onder al hun leden. Sterker nog, ze wisselden dit constant af, om te voorkomen dat mensen "settelden" of te veel middels "agricultuur" gingen leven. (De omvang en status van hun stam werd vooral gemeten aan de hoeveelheid vee.)
-	* Hebben we het hier wel over de Germanen, of eerder over de Baltic-Slavic People?
+Ze deed haar helm en vleugelharnas af om het te bewijzen. "Ik breng alleen waarschuwing. Ze komen eraan. De hele stam, allemaal soldaten, komt recht op jullie af. Ze zijn vlakbij."
 
+"Waar halen ze al die wapens vandaan?" bromde Bar-Bar. "En het geld?"
 
-# Revisie
-* "De Vergeten Herder" kan nu plotseling meer gewicht krijgen, als Himnib écht dat deel van de herders enzo is vergeten dankzij een korte aanraking met de Vlam?
-* Noem een paar van zijn schapen (uit Vergeten Herder) bij naam.
-* H2: Leg dat Asha beter uit, voor wie de andere verhalen niet heeft gelezen?
-* H2: Geef Bipi een specifieke reden om uiteindelijk toch voor de missie te kiezen? => nah dit wordt verder uitgewerkt in H4. Misschien wel handig als we laten zien in H2 dat ze verliefd is op een meisjesbig en daarmee knuffelt/zoent?
-* Ginsea nog meer alles laten beschrijven als formules en regels en logica.
-* H2: Rivier Tibber => zoek op wat mijn eigenlijk naam voor de Tiber in Rome was.
-* Mogelijke manieren om meer tempo erin te zetten:
-	* De koning is slechts tijdelijk hier, daarna reist hij naar ergens anders.
-	* De Barbaren hebben al "soort van goede relaties" met Amor die ze zouden kwijtraken als ze de missie niet doen.
+Zelf hadden ze al hun bezittingen binnen een minuut verzameld. Het kampvuur werd gedoofd door konijnen die een bak water brachten. Tegen de Hennen konden ze niks beginnen, dat hadden ze de vorige dertig ontmoetingen wel geleerd.
 
-## Andere notities
-**"De Ren van Baa-baa":** over de *barbaren*, hun invloed en overname van het Romeinse Rijk. Dit is een verzameling wilde schapen die, door pure *aantallen* en *zoektocht naar planten om te vreten*, heel Origina overloopt. => Animals that bleat: goat, sheep, seal, giraffe
+Bipi schuurde tegen de wolf, maar kreeg geen enkele reactie. Hmm. Hij was duidelijk niet geïnteresseerd, en zelfs een beetje bang voor haar, dus dan ging ze wel terug naar Bilotte om---
 
-Werkt samen met "De Hennenvloot" (hunnen die hen verdrukken) en eventueel ziekte/tegenspoed dat toch al door het Romeinse rijk gaat.
+"Ik weet waar ze het geld vandaan krijgen," mompelde hij. "De Amori."
 
-Hangt samen met De Vergeten Herder. Die herders brengen de schapen naar overal? Hebben hen sterker gemaakt en hun aantallen zwaar verhoogd?
+Bipi fronste. "Huh? Die twee zijn de grootste vijanden."
 
-Ik wil dat idee van "Evolution within groups" (altruïsme kan toch ontwikkelen omdat het helpt om jouw _groep_ sterker te maken dan andere _groepen_) => Kan eventueel ook bij de **Theekolonie**.
+De wolf schudde zijn mantel af. Door de littekens hadden ze hem niet eerder gekend. Maar daar in het donker, omringd door de vluchtende Grapi, stond Wolzam de jongste prins.
 
-**Vage outline:**
-* De herders van Vergeten Herder moeten hier sowieso een grote rol spelen.
-* Een personage gelooft heilig in _orde_ en _structuur_. (Een wetenschapper die alles met regels en formules probeert te omschrijven?) => diegene komt in aanraking met de barbaren (handel? gekidnapt? ongeluk?)
-* Aan de andere kant hebben we barbaren die overal rondtrekken, opgejaagd door de Hennen.
+"Al sinds de Hennen bestaan, worden ze ingehuurd door de Amori om hun vuile zaakjes te regelen. De dingen waarvoor zij zichzelf te goed vinden. Zoals het langzaam uitroeien van al die _andere_ vervelende Barbaren."
 
-**@TODO: Doe iets NIEUWS.** Andere structuur, ander genre, bijzondere opzet, weet ik veel.
+"Zoals ... wij?"
 
-**Dit is een idee:** de Romeinen werkten vaak stiekem samen met de Barbaren om te winnen van andere Barbaren. Ze keken op hen neer en vonden hen "onbeschaafd", maar gebruikten wel hun speciale talenten voor hun eigen gewin.
+Wolzam zag er angstaanjagend uit in het maanlicht. Zijn diepste litteken ging als een bliksemschicht over zijn gezicht. "De Amori kunnen zichzelf vertellen dat ze aardig zijn en jullie nooit iets aan hebben gedaan. De meeste inwoners van Amor geloven het ook nog. Och, wat zijn ze goed. Och, wat zijn we _beschaafd_ en die andere _barbaars_. Maar in werkelijkheid zijn al jullie doden door de Hennen ... doden door hen."
 
-Zo krijgt een clan barbaren dus de opdracht om de keizer van Amor te doden. (Of iets anders schokkends dat al die nobele Romeinen niet zelf willen doen of toegeven. Hint naar dat ze dit al vaker hebben gedaan.) Ze nemen de opdracht aan omdat de Hennen in hun rug duwen.
+Ze konden niet langer blijven praten. Het gekakel van de Hennen klonk al door de avondlucht. Bipi zweerde hun kleine silhouetten al te zien aan de horizon, bovenop de heuvel.
 
-Uiteindelijk is het punt dus dat een beetje chaos/onvoorspelbaarheid/anarchie nodig is, want vastzitten in orde en regels betekent ook dat je _nooit vooruitkomt_.
+Hun kracht zat niet in grote klauwen of vuurspuwende adem. Hun kracht zat, net als alle andere rondtrekkende Barbaren, in _aantallen_. Hun macht werd gemeten in hoeveel vee ze hadden en hoeveel poten ze op een stuk land konden zetten.
 
-Het simpele dilemma van. "Moord is slecht, dat hebben we afgesproken. Maar als we de keizer niet doden, blijft zijn bar slechte leiding alles verwoesten en kunnen we geen _betere_ regels instellen."
+En, blijkbaar, zakken met geld van de hersenloze heerser.
 
-> Om dit aan te sterken moeten er echt ONGELOFELIJK veel regeltjes zijn. In de eerste hoofdstukken proberen ze allerlei simpele dingen, maar alles is verboden of heeft een (kleine) straf.
+De Grapi, en iedereen die in de buurt was, zetten het op een rennen. Waarnaartoe? Amor hoorde bij de Hennen! Maar het was de dichtstbijzijnde muur om achter te schuilen.
 
-**@IDEA: De Barbaren praten nog steeds over de "ziel van Asha"?** Zij zijn nog overblijfselen van dat idee dat je in kleine groepjes moet leven en rondtrekken, niet steden bouwen of meer structuur, want dat gaat altijd mis.
+En als de Hennen echt bij Amor hoorden ... dan zouden ze niet aanvallen, toch?
 
-Dit is een geweldige quote.
+Bipi hoopte maar dat de krankzinnige koning nog steeds al zijn soldaten had weggeroepen van de muren. Met het element van verrassing, zou het grootste deel van Grapi binnen kunnen stormen voordat alarm wordt geslagen.
 
-> He noted that many poor Romans turned to the "barbarians" for help. "They doubtless seek Roman humanity among the barbarians, because they cannot bear barbarian inhumanity among the Romans."
+Ze hoopte ook dat iemand haar kon dragen, want ze zakte door haar gewonde poten.
 
-https://www.livescience.com/45297-barbarians.html
+Een paar koeien sleepten een kar achter zich aan met daarop de paar voedselresten die ze hadden bewaard. Bipi werd bovenop de kar gelegd, ondanks luide protesten van de koeien die nu nog harder moesten trekken om iedereen bij te houden.
 
-LESSONS:
-"Geen beschaving zonder chaos" (of iets in die richting)
-    a.  Het algemene punt is "geen beschaving zonder vergelijkingspunt van niet-beschaving" en "geen beschaving zonder mensen die guilty pleasures hebben of de onweerstaanbare drang zich er toch niet aan te houden"
-    b.  "Geen deugd zonder zonde" / "Geen beschaving zonder geheimen"
+Hobbelend en stuiterend trokken ze over het heuvelachtige gebied dat leidde naar de zeven échte, hoge heuvels van Amor.
 
-Misschien kan "run" wel slaan op "run for president"-achtig wat die Lawyer doet?
+De vlucht leek eindeloos. Ook al hadden ze deze afstand nu al vaak afgelegd, onder druk van kakelende kippen in je rug leek het onoverbrugbaar. De Hennen wonnen terrein. Kippen waren _snel_.
 
+Op een gegeven moment werd Wolzam ook op de kar gelegd. De koeien bleken erg veel scheldwoorden te kennen. De wolf verstijfde opnieuw toen Bipi zonder schaamte tegen hem aan schuurde, alsof hij echt niet begreep wat er gebeurde. Hij mompelde iets over dat het niet hoorde en dat hij al verliefd was op een ander. 
+
+Twee vermoeide konijnen lagen even later ook plotseling op zijn buik. Uiteindelijk ontspande hij en accepteerde dat dit blijkbaar normaal was hier.
+
+Ze bereikten de muren. Daar wachtte een Roddelrat hen op.
+
+"Ik heb, eh, goed nieuws en slecht nieuws. Ginsea heeft de waarheid naar buiten gebracht en heel Amor in opstand gebracht tegen de koning en Wolfar. Hij zit ook op dit moment in een cel te wachten op zijn dood. Samen met, eh," de rat probeerde met zijn dunne pootjes te tellen, "bijna honderd anderen."
+
+Bipi klom direct uit de kar. Ze moest glimlachen toen Wolzam zacht gromde dat hij nog even wilde knuffelen, zijn ogen flauw en halfdicht, alsof hij net wakker werd.
+
+Hij was zeker wakker toen hij het nieuws nogmaals hoorde en Bipi hem ook uit de kar trok.
+
+Bar-Bar keek duister. "Wollig wolvenprinsje, hoe zeer ben je gehecht aan je vader en broer?"
+
+Wolzam keek opzij. "Niet zoveel als zou moeten, denk ik."
+
+"Mooi."
