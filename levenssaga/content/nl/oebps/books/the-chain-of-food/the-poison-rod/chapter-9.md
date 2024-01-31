@@ -1,5 +1,5 @@
 ---
-title: "9. Voorspelde Vijanden"
+title: "Voorspelde Vijanden"
 weight: 9
 ---
 

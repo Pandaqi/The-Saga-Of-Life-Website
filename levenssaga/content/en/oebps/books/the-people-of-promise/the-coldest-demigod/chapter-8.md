@@ -1,5 +1,5 @@
 ---
-title: "8. The Coldest Demigod"
+title: "The Coldest Demigod"
 weight: 8
 ---
 

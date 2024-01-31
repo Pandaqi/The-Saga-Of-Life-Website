@@ -1,5 +1,5 @@
 ---
-title: "3. Moeilijke Boodschap"
+title: "Moeilijke Boodschap"
 weight: 3
 ---
 

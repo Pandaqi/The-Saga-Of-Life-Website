@@ -1,5 +1,5 @@
 ---
-title: "2. De Zandkoning"
+title: "De Zandkoning"
 weight: 2
 ---
 

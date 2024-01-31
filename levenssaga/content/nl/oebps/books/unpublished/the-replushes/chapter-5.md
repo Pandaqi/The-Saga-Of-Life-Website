@@ -1,5 +1,5 @@
 ---
-title: "5. De Namenoorlog"
+title: "De Namenoorlog"
 weight: 5
 ---
 

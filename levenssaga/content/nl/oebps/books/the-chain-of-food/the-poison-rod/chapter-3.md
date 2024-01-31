@@ -1,5 +1,5 @@
 ---
-title: "3. Boek der Betekenis"
+title: "Boek der Betekenis"
 weight: 3
 ---
 

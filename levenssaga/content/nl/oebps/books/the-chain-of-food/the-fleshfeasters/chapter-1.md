@@ -1,5 +1,5 @@
 ---
-title: "1. Onwoudbaar"
+title: "Onwoudbaar"
 weight: 1
 ---
 

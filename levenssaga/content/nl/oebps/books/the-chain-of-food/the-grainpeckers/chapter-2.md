@@ -1,5 +1,5 @@
 ---
-title: "2. Zaadjeszucht"
+title: "Zaadjeszucht"
 weight: 2
 ---
 

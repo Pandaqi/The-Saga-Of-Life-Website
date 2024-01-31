@@ -1,5 +1,5 @@
 ---
-title: "4. De omgekeerde wereld"
+title: De omgekeerde wereld
 weight: 4
 ---
 

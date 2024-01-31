@@ -1,5 +1,5 @@
 ---
-title: "8. De vallende sterren"
+title: "De vallende sterren"
 weight: 8
 ---
 

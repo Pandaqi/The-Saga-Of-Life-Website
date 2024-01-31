@@ -1,5 +1,5 @@
 ---
-title: "4. Knelpunt van Kaperij"
+title: "Knelpunt van Kaperij"
 weight: 4
 ---
 

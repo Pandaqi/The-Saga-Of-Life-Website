@@ -1,5 +1,5 @@
 ---
-title: "8. Wie niet sterk is"
+title: "Wie niet sterk is"
 weight: 8
 ---
 

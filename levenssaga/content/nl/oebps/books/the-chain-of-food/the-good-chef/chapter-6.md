@@ -1,5 +1,5 @@
 ---
-title: "6. De Gifstructie"
+title: "De Gifstructie"
 weight: 6
 ---
 

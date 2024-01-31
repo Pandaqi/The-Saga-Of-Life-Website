@@ -1,5 +1,5 @@
 ---
-title: "5. Steenvreters"
+title: "Steenvreters"
 weight: 5
 ---
 

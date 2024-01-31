@@ -1,5 +1,5 @@
 ---
-title: "6. Plas van Hoop"
+title: "Plas van Hoop"
 weight: 6
 ---
 

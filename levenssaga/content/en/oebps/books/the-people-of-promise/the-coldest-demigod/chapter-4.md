@@ -1,5 +1,5 @@
 ---
-title: "4. Years Lost"
+title: "Years Lost"
 weight: 4
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "9. Een eigen land, een plek onder de boom"
+title: "Een eigen land, een plek onder de boom"
 weight: 9
 ---
 

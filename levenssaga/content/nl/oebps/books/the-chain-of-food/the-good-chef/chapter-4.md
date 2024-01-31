@@ -1,5 +1,5 @@
 ---
-title: "4. Altijd een Leeuw in Traferia"
+title: "Altijd een Leeuw in Traferia"
 weight: 4
 ---
 

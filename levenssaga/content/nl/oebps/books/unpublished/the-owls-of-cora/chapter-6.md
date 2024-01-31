@@ -1,5 +1,5 @@
 ---
-title: "6. De Boom der Nood"
+title: "De Boom der Nood"
 weight: 6
 ---
 

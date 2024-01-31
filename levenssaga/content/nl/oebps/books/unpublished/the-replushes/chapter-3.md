@@ -1,5 +1,5 @@
 ---
-title: "3. De goddelijke giraffe"
+title: "De goddelijke giraffe"
 weight: 3
 ---
 

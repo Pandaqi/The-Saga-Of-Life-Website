@@ -1,5 +1,5 @@
 ---
-title: "3. Magisch masker"
+title: "Magisch masker"
 weight: 3
 ---
 

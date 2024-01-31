@@ -1,5 +1,5 @@
 ---
-title: "5. Een ander geluid"
+title: "Een ander geluid"
 weight: 5
 ---
 

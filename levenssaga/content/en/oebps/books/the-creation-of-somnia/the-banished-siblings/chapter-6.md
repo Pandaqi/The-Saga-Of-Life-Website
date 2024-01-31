@@ -1,5 +1,5 @@
 ---
-title: "6. Energy"
+title: "Energy"
 weight: 6
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "4. Dubbelleven"
+title: "Dubbelleven"
 weight: 4
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "5. De toevallige rampen"
+title: "De toevallige rampen"
 weight: 5
 ---
 

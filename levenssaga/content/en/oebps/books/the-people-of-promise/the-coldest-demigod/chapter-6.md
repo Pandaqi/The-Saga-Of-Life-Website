@@ -1,5 +1,5 @@
 ---
-title: "6. Meaning of Life"
+title: "Meaning of Life"
 weight: 6
 ---
 

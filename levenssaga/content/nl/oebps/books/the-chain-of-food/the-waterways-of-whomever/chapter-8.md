@@ -1,5 +1,5 @@
 ---
-title: "8. De Wisselvlag"
+title: "De Wisselvlag"
 weight: 8
 ---
 

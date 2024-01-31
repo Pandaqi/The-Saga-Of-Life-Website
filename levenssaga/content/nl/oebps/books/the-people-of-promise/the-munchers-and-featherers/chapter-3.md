@@ -1,5 +1,5 @@
 ---
-title: "3. Vuren van Muziek"
+title: "Vuren van Muziek"
 weight: 3
 ---
 

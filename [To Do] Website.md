@@ -1,5 +1,9 @@
 # Website
 
+## Metadata
+
+* Voeg iets meer accurate "teaches" toe bij de eerste verhalen. (Dat ben ik nu aan het begin vaak vergeten. Hoewel die eerste vaak ook niks waargebeurds behandelen.)
+
 ## Vertalingen
 
 Gebruik **Seamless-M4T** (tenzij er ondertussen iets beters is uitgekomen).
@@ -30,5 +34,3 @@ Gebruik **Seamless-M4T** (tenzij er ondertussen iets beters is uitgekomen).
 * Die lezen we dan in Javascript, wat bepaalt welk deel van de lijst we pakken.
 
 **SUMMARIES:** Bij *verhaal* summaries (niet hoofdstuk), de titel van de *cyclus* laten zien. (In plaats van de naam van het boek herhalen?) En kan dan ook ergens het icoon van die *cyclus*? (Het icoon van het verhaal *bij het verhaal* is eigenlijk niet iets dat ik wil veranderen.)
-
-**MOBIEL:** Misschien *ietsje* kleiner lettertype. En een iets betere oplossing voor het hoofdmenu en de summary metadata. (Nu gaat het in blokken onder elkaar, wat oké is, maar niet geweldig.)

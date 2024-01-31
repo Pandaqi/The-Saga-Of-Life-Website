@@ -1,5 +1,5 @@
 ---
-title: "7. Liefdeslelie"
+title: "Liefdeslelie"
 weight: 7
 ---
 

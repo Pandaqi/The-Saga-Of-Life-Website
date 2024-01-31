@@ -1,5 +1,5 @@
 ---
-title: "4. De Troon van de Toekomst"
+title: "De Troon van de Toekomst"
 weight: 4
 ---
 

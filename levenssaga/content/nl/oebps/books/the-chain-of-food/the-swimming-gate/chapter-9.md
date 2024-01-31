@@ -1,5 +1,5 @@
 ---
-title: "9. Blaadfanaat"
+title: "Blaadfanaat"
 weight: 9
 ---
 

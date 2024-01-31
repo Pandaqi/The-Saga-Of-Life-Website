@@ -1,5 +1,5 @@
 ---
-title: "9. The fireflight"
+title: "The fireflight"
 weight: 9
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "4. Vermissing"
+title: "Vermissing"
 weight: 4
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "4. The Trone of Tomorrow"
+title: "The Trone of Tomorrow"
 weight: 4
 ---
 

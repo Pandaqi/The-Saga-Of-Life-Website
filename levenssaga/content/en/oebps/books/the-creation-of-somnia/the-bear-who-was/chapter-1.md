@@ -1,5 +1,5 @@
 ---
-title: "1. The Fearvolcano"
+title: "The Fearvolcano"
 weight: 1
 ---
 

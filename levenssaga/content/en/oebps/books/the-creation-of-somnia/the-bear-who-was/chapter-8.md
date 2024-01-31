@@ -1,5 +1,5 @@
 ---
-title: "8. The Marathon"
+title: "The Marathon"
 weight: 8
 ---
 

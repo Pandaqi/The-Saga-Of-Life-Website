@@ -1,5 +1,5 @@
 ---
-title: "6. A False Memory"
+title: "A False Memory"
 weight: 6
 ---
 

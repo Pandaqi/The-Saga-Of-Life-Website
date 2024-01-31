@@ -1,5 +1,5 @@
 ---
-title: "4. Omgekeerde Evolutie"
+title: "Omgekeerde Evolutie"
 weight: 4
 ---
 

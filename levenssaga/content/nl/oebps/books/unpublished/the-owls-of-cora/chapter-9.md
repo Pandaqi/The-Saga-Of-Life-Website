@@ -1,5 +1,5 @@
 ---
-title: "9. Wijsheid, Grijsheid"
+title: "Wijsheid, Grijsheid"
 weight: 9
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "7. De Nachtrivier"
+title: "De Nachtrivier"
 weight: 7
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "6. De herinnering van Parog"
+title: "De herinnering van Parog"
 weight: 6
 ---
 

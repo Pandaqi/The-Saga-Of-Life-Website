@@ -1,5 +1,5 @@
 ---
-title: "9. Wereldvriend"
+title: "Wereldvriend"
 weight: 9
 ---
 

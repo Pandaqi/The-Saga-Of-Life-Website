@@ -1,5 +1,5 @@
 ---
-title: "6. Vuurvlucht"
+title: "Vuurvlucht"
 weight: 6
 ---
 

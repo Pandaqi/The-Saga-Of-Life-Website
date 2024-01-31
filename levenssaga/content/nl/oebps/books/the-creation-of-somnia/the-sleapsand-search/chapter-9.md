@@ -1,5 +1,5 @@
 ---
-title: "9. De vogelmagie"
+title: "De vogelmagie"
 weight: 9
 ---
 

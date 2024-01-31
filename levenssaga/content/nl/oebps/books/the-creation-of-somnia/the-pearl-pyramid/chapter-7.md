@@ -1,5 +1,5 @@
 ---
-title: "7. Ademnood"
+title: "Ademnood"
 weight: 7
 ---
 

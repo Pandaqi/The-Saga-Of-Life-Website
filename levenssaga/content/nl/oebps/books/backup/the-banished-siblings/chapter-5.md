@@ -1,5 +1,5 @@
 ---
-title: "5. De groene zusjes"
+title: "De groene zusjes"
 weight: 5
 ---
 

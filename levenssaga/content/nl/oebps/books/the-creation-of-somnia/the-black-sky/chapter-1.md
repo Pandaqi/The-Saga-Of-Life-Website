@@ -1,5 +1,5 @@
 ---
-title: "1. De ster in het duister"
+title: "De ster in het duister"
 weight: 1
 ---
 

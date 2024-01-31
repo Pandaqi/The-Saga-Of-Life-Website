@@ -1,5 +1,5 @@
 ---
-title: "5. Boerderij Ontsnapping"
+title: "Boerderij Ontsnapping"
 weight: 5
 ---
 

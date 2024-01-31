@@ -1,5 +1,5 @@
 ---
-title: "4. Tweelingsrivieren"
+title: "Tweelingsrivieren"
 weight: 4
 ---
 

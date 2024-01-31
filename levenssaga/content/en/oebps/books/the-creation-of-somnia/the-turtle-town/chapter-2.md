@@ -1,5 +1,5 @@
 ---
-title: "2. Solomon the Old"
+title: "Solomon the Old"
 weight: 2
 ---
 

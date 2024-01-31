@@ -1,5 +1,5 @@
 ---
-title: "3. Eerste Eilandzoeker"
+title: "Eerste Eilandzoeker"
 weight: 3
 ---
 

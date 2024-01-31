@@ -1,5 +1,5 @@
 ---
-title: "2. De Jagustam"
+title: "De Jagustam"
 weight: 2
 ---
 

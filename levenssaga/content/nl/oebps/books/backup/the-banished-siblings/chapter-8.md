@@ -1,5 +1,5 @@
 ---
-title: "8. Het laatste zusje"
+title: "Het laatste zusje"
 weight: 8
 ---
 

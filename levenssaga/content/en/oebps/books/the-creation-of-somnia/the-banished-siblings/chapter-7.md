@@ -1,5 +1,5 @@
 ---
-title: "7. The Particle Soup"
+title: "The Particle Soup"
 weight: 7
 ---
 

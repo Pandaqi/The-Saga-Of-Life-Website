@@ -1,5 +1,5 @@
 ---
-title: "5. The Wind Warden"
+title: "The Wind Warden"
 weight: 5
 ---
 

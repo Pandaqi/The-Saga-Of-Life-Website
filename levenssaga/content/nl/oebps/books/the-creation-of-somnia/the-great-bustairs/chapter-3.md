@@ -1,5 +1,5 @@
 ---
-title: "3. Het schuldige schild"
+title: "Het schuldige schild"
 weight: 3
 ---
 

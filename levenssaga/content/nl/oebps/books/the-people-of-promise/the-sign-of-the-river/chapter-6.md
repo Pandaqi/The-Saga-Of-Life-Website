@@ -1,5 +1,5 @@
 ---
-title: "6. Eigenbewijs"
+title: "Eigenbewijs"
 weight: 6
 ---
 

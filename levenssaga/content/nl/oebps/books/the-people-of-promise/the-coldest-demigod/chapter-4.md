@@ -1,5 +1,5 @@
 ---
-title: "4. Vervlogen Jaren"
+title: "Vervlogen Jaren"
 weight: 4
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "6. De Cavedwellers"
+title: "De Cavedwellers"
 weight: 6
 ---
 

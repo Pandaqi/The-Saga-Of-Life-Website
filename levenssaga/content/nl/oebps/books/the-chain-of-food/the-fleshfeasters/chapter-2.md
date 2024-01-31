@@ -1,5 +1,5 @@
 ---
-title: "2. Sleutelgebaren"
+title: "Sleutelgebaren"
 weight: 2
 ---
 

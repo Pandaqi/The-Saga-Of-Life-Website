@@ -1,5 +1,5 @@
 ---
-title: "5. De klok terugvinden"
+title: "De klok terugvinden"
 weight: 5
 ---
 

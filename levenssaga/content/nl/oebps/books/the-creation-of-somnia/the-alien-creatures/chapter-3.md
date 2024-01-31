@@ -1,5 +1,5 @@
 ---
-title: "3. De eenzame boom"
+title: De eenzame boom
 weight: 3
 ---
 

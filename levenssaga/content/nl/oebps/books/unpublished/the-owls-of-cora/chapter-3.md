@@ -1,5 +1,5 @@
 ---
-title: "3. De Aanslag"
+title: "De Aanslag"
 weight: 3
 ---
 

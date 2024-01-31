@@ -1,5 +1,5 @@
 ---
-title: "5. Het raadsel van Horus"
+title: "Het raadsel van Horus"
 weight: 5
 ---
 

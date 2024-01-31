@@ -1,5 +1,5 @@
 ---
-title: "8. De slag om Platsu"
+title: De slag om Platsu
 weight: 8
 ---
 

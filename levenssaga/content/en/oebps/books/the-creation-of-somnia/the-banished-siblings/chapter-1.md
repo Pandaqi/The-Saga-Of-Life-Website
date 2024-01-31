@@ -1,5 +1,5 @@
 ---
-title: "1. A New Face"
+title: "A New Face"
 weight: 1
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "6. De Bergdwalers"
+title: "De Bergdwalers"
 weight: 6
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "9. Het verkeerde schot"
+title: Het verkeerde schot
 weight: 9
 ---
 

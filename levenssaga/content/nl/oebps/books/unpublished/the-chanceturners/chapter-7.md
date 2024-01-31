@@ -1,5 +1,5 @@
 ---
-title: "7. Oud gedaan"
+title: "Oud gedaan"
 weight: 7
 ---
 

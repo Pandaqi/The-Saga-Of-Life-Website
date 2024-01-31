@@ -1,5 +1,5 @@
 ---
-title: "4. Geheime Bron"
+title: "Geheime Bron"
 weight: 4
 ---
 

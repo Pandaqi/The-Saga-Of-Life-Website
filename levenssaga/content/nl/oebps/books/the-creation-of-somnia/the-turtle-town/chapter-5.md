@@ -1,5 +1,5 @@
 ---
-title: "5. Jaren van ware lessen"
+title: "Jaren van ware lessen"
 weight: 5
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "6. Boerderij Graancirkel"
+title: "Boerderij Graancirkel"
 weight: 6
 ---
 

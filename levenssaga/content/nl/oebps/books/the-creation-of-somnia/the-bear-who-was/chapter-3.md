@@ -1,5 +1,5 @@
 ---
-title: "3. De houtomaten"
+title: "De houtomaten"
 weight: 3
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "9. The Most Important Drop"
+title: "The Most Important Drop"
 weight: 9
 ---
 

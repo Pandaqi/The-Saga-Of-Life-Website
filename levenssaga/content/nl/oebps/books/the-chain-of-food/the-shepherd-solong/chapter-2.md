@@ -1,5 +1,5 @@
 ---
-title: "2. Foenixpoort"
+title: "Foenixpoort"
 weight: 2
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "2. De Boze Wolven"
+title: "De Boze Wolven"
 weight: 2
 ---
 

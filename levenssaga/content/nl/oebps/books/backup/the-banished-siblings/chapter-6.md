@@ -1,5 +1,5 @@
 ---
-title: "6. De eerste bladeren"
+title: "De eerste bladeren"
 weight: 6
 ---
 

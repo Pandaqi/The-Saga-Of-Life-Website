@@ -1,5 +1,5 @@
 ---
-title: "4. The Moon and the Mountain"
+title: "The Moon and the Mountain"
 weight: 4
 ---
 

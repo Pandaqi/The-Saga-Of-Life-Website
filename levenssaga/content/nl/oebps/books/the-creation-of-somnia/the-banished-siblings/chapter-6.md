@@ -1,5 +1,5 @@
 ---
-title: "6. De energie om door te gaan"
+title: De energie om door te gaan
 weight: 6
 ---
 

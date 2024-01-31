@@ -1,5 +1,5 @@
 ---
-title: "4. World Turned Upside-Down"
+title: "World Turned Upside-Down"
 weight: 4
 ---
 

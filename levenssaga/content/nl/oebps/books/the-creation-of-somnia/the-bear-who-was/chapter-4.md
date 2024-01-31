@@ -1,5 +1,5 @@
 ---
-title: "4. De hoge eisen"
+title: "De hoge eisen"
 weight: 4
 ---
 

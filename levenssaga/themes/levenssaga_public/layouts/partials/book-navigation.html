@@ -1,6 +1,6 @@
 {{ $currentPage := . }}
 
-<nav class="article-navigation block-center child-links-as-buttons">
+<nav class="article-navigation limit-width child-links-as-buttons">
   
   {{ $pages := partialCached "func/get-flat-story-list.html" . }}
   {{ $pages = partial "func/reverse-slice.html" $pages }}

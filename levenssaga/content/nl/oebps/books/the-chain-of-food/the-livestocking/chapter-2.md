@@ -1,5 +1,5 @@
 ---
-title: "2. Boerderij Nachtkaars"
+title: "Boerderij Nachtkaars"
 weight: 2
 ---
 

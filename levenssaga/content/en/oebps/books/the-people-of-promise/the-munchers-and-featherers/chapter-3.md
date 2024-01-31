@@ -1,5 +1,5 @@
 ---
-title: "3. Songs of Fire"
+title: "Songs of Fire"
 weight: 3
 ---
 

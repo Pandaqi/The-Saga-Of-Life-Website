@@ -1,5 +1,5 @@
 ---
-title: "1. De omweg naar Nibuwe"
+title: De omweg naar Nibuwe
 weight: 1
 ---
 

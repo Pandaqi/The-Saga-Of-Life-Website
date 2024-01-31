@@ -1,5 +1,5 @@
 ---
-title: "6. Het rekenwonder"
+title: "Het rekenwonder"
 weight: 6
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "1. Poor Hunters"
+title: "Poor Hunters"
 weight: 1
 ---
 

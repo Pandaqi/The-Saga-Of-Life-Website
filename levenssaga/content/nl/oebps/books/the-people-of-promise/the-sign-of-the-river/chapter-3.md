@@ -1,5 +1,5 @@
 ---
-title: "3. Ondervraging"
+title: "Ondervraging"
 weight: 3
 ---
 

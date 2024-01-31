@@ -1,5 +1,5 @@
 ---
-title: "3. The Guilty Shield"
+title: "The Guilty Shield"
 weight: 3
 ---
 

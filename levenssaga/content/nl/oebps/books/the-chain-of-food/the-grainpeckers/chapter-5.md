@@ -1,5 +1,5 @@
 ---
-title: "5. Verplaatste Veldslag"
+title: "Verplaatste Veldslag"
 weight: 5
 ---
 

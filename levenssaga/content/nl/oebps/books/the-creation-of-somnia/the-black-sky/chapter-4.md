@@ -1,5 +1,5 @@
 ---
-title: "4. De wapens van Kran"
+title: "De wapens van Kran"
 weight: 4
 ---
 

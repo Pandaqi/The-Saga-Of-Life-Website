@@ -1,5 +1,5 @@
 ---
-title: "7. Boerderij Verklapt"
+title: "Boerderij Verklapt"
 weight: 7
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "4. The Two Sleepstories"
+title: "The Two Sleepstories"
 weight: 4
 ---
 

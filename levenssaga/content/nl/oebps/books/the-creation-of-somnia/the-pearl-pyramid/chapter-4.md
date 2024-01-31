@@ -1,5 +1,5 @@
 ---
-title: "4. De hal van de waarheid"
+title: "De hal van de waarheid"
 weight: 4
 ---
 

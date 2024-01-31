@@ -1,5 +1,5 @@
 ---
-title: "5. Donte's Droom"
+title: "Donte's Droom"
 weight: 5
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "1. Het Medicijn"
+title: "Het Medicijn"
 weight: 1
 ---
 

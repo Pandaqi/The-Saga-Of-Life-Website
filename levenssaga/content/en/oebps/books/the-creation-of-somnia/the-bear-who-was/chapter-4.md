@@ -1,5 +1,5 @@
 ---
-title: "4. The Dire Demands"
+title: "The Dire Demands"
 weight: 4
 ---
 

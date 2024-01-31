@@ -1,5 +1,5 @@
 ---
-title: "7. The Last Bird"
+title: "The Last Bird"
 weight: 7
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "2. The Sphinx"
+title: "The Sphinx"
 weight: 2
 ---
 

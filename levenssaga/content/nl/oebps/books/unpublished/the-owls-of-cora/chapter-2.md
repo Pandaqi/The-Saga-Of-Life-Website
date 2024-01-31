@@ -1,5 +1,5 @@
 ---
-title: "2. Familiebedrijf"
+title: "Familiebedrijf"
 weight: 2
 ---
 

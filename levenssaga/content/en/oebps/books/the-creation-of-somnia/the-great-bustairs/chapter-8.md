@@ -1,5 +1,5 @@
 ---
-title: "8. The Invisible God"
+title: "The Invisible God"
 weight: 8
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "8. The Heavenly Palace"
+title: "The Heavenly Palace"
 weight: 8
 ---
 

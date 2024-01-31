@@ -1,5 +1,5 @@
 ---
-title: "3. De Levensboom"
+title: "De Levensboom"
 weight: 3
 ---
 

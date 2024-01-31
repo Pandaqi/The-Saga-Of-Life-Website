@@ -1,5 +1,5 @@
 ---
-title: "4. Allemaal afgewezen"
+title: "Allemaal afgewezen"
 weight: 4
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "9. Het lot"
+title: "Het lot"
 weight: 9
 ---
 

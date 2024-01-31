@@ -1,5 +1,5 @@
 ---
-title: "8. De kansen keren"
+title: "De kansen keren"
 weight: 8
 ---
 

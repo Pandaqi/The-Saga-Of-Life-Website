@@ -1,5 +1,5 @@
 ---
-title: "1. De Rivier"
+title: "De Rivier"
 weight: 1
 ---
 

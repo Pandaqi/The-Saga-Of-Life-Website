@@ -1,5 +1,5 @@
 ---
-title: "9. Fight of the Gods"
+title: "Fight of the Gods"
 weight: 9
 ---
 

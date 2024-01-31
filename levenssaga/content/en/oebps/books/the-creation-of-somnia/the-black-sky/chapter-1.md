@@ -1,5 +1,5 @@
 ---
-title: "1. The Star in the Dark"
+title: "The Star in the Dark"
 weight: 1
 ---
 

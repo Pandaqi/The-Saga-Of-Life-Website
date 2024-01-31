@@ -1,5 +1,5 @@
 ---
-title: "2. Hulpbrul"
+title: "Hulpbrul"
 weight: 2
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "4. De verbroken belofte"
+title: "De verbroken belofte"
 weight: 4
 ---
 

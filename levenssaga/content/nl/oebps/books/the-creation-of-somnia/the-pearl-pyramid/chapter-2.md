@@ -1,5 +1,5 @@
 ---
-title: "2. De Sfinx"
+title: "De Sfinx"
 weight: 2
 ---
 

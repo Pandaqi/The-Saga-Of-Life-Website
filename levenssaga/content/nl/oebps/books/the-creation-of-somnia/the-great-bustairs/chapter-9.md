@@ -1,5 +1,5 @@
 ---
-title: "9. Hoge vogels kunnen ver vallen"
+title: "Hoge vogels kunnen ver vallen"
 weight: 9
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "2. De ruimtegeesten"
+title: De ruimtegeesten
 weight: 2
 ---
 

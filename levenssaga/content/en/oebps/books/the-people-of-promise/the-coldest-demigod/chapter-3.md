@@ -1,5 +1,5 @@
 ---
-title: "3. The Monster Test"
+title: "The Monster Test"
 weight: 3
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "3. Stille nacht"
+title: "Stille nacht"
 weight: 3
 ---
 

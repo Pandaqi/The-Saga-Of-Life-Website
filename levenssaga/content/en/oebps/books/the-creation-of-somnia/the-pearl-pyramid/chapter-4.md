@@ -1,5 +1,5 @@
 ---
-title: "4. The Hall of Truth"
+title: "The Hall of Truth"
 weight: 4
 ---
 

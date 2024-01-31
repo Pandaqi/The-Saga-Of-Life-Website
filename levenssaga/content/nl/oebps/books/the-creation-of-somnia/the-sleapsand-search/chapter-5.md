@@ -1,5 +1,5 @@
 ---
-title: "5. De slimme Olombos"
+title: "De slimme Olombos"
 weight: 5
 ---
 

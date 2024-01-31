@@ -1,5 +1,5 @@
 ---
-title: "5. De diefstal"
+title: De diefstal
 weight: 5
 ---
 

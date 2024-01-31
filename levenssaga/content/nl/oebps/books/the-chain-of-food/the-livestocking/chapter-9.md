@@ -1,5 +1,5 @@
 ---
-title: "9. Boerderij Leegte"
+title: "Boerderij Leegte"
 weight: 9
 ---
 

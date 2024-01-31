@@ -1,5 +1,5 @@
 ---
-title: "8. Jambirs Lot"
+title: "Jambirs Lot"
 weight: 8
 ---
 

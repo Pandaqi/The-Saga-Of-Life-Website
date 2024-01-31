@@ -1,5 +1,5 @@
 ---
-title: "1. De Vreesvulkaan"
+title: De Vreesvulkaan
 weight: 1
 ---
 

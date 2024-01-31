@@ -1,5 +1,5 @@
 ---
-title: "7. Het Carncomplot"
+title: "Het Carncomplot"
 weight: 7
 ---
 

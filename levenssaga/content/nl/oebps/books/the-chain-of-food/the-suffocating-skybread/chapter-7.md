@@ -1,5 +1,5 @@
 ---
-title: "7. De explosie"
+title: "De explosie"
 weight: 7
 ---
 

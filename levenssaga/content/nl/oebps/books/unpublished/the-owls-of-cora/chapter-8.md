@@ -1,5 +1,5 @@
 ---
-title: "8. Te lezen of niet te lezen"
+title: "Te lezen of niet te lezen"
 weight: 8
 ---
 

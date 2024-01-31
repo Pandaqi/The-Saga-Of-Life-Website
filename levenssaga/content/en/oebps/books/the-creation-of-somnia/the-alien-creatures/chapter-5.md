@@ -1,5 +1,5 @@
 ---
-title: "5. The Theft"
+title: "The Theft"
 weight: 5
 ---
 

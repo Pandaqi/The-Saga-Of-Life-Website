@@ -1,5 +1,5 @@
 ---
-title: "8. Valse Gids"
+title: "Valse Gids"
 weight: 8
 ---
 

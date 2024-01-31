@@ -1,5 +1,5 @@
 ---
-title: "2. De onbekende hazelnoot"
+title: "De onbekende hazelnoot"
 weight: 2
 ---
 

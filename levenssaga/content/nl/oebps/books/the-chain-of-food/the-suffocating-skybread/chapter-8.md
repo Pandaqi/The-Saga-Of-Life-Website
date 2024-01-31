@@ -1,5 +1,5 @@
 ---
-title: "8. Bilara's Brief"
+title: "Bilara's Brief"
 weight: 8
 ---
 

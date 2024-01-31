@@ -1,5 +1,5 @@
 ---
-title: "2. The Wise Bear"
+title: "The Wise Bear"
 weight: 2
 ---
 

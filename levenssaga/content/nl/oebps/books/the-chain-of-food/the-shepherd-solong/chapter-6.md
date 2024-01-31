@@ -1,5 +1,5 @@
 ---
-title: "6. Behdo's Beslissing"
+title: "Behdo's Beslissing"
 weight: 6
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "1. Het misplaatste voorwerp"
+title: "Het misplaatste voorwerp"
 weight: 1
 ---
 

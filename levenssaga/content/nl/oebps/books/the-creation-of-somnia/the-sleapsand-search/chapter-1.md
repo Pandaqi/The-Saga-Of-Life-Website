@@ -1,5 +1,5 @@
 ---
-title: "1. De slapeloze nacht"
+title: "De slapeloze nacht"
 weight: 1
 ---
 

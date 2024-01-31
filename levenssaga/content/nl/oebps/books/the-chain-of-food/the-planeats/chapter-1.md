@@ -1,5 +1,5 @@
 ---
-title: "1. Weg naar Omnobereus"
+title: "Weg naar Omnobereus"
 weight: 1
 ---
 

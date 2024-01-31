@@ -1,0 +1,4 @@
+{{ $heading := printf "%s. %s" (.Weight | string) .Title }}
+{{ $is_chapter := partial "func/test-if-chapter.html" . }}
+{{ if not $is_chapter }}{{ $heading = .Title }}{{ end }}
+{{ return $heading }}

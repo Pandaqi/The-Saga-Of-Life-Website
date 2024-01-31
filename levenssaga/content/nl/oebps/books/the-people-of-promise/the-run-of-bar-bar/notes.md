@@ -89,7 +89,9 @@ Of weten we wel beter?
 
 
 # Revisie
-_Sorteer dit op volgorde van hoofdstukken voordat ik de revisie doe._
+_Sorteer dit op volgorde van hoofdstukken voordat ik de revisie doe.
+
+_Lees mijn "Revision for Run of Bar-Bar" article terug, die staat in Cyclus overzicht. Het hele verhaal moet op de schop_
 
 * De Romeinen drinken constant wijn. (In ieder geval de koningszonen.) 
 	* Dit wordt gezien als normaal en zelfs _goed_.
@@ -109,6 +111,7 @@ _Sorteer dit op volgorde van hoofdstukken voordat ik de revisie doe._
 * H2: "Maar Bar-Bar mocht als enige zo nonchalant zijn, want hij was niet te verslaan. Hij had de raarste soort magie in zijn schapenhoeven. Bla bla ..."
 	* "zodra hij een groep dieren helemaal omcirkelde met hekken en opsloot, werden ze meteen zijn vee"
 	* Het PUNT is een beetje dat hij dit niet WIL gebruiken. Die Germanen staan voor vrijheid, individualisme, zelfstandigheid. Dus hij weigert zelfs slaven te nemen of zijn magie te gebruiken.
+	* **Het andere grootste probleem** is dat de Barbaren geen duidelijk persoonlijk doel hebben. Wat wil Bar-Bar? Wat wil Bipi? Wat wil de Roddelrat? Waarom doen ze dit?
 * H2/H4: Noem alvast dat vaak vreemdelingen aansluiten bij de stammen en dat niemand er ooit van opkijkt?
 * H4: Wolfar hééft al Wisira als vrouw. Seks enzo is natuurlijk compleet achter gesloten deuren.
 * H4/H5: Bar-Bars speciale magie nog eens laten zien of noemen?

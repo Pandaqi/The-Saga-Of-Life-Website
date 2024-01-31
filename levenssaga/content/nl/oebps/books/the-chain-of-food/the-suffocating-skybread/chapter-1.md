@@ -1,5 +1,5 @@
 ---
-title: "1. De Eilanden van Vogelpoep"
+title: "De Eilanden van Vogelpoep"
 weight: 1
 ---
 

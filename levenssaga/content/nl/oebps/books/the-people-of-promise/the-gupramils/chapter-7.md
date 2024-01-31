@@ -1,5 +1,5 @@
 ---
-title: "7. Gesloten Geesten"
+title: "Gesloten Geesten"
 weight: 7
 ---
 

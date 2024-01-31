@@ -1,5 +1,5 @@
 ---
-title: "7. Out of Breath"
+title: "Out of Breath"
 weight: 7
 ---
 

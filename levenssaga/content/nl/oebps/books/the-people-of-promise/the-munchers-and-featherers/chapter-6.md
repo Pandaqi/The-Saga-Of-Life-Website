@@ -1,5 +1,5 @@
 ---
-title: "6. De Ziel van Asha"
+title: "De Ziel van Asha"
 weight: 6
 ---
 

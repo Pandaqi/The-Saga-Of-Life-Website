@@ -1,5 +1,5 @@
 ---
-title: "8. Always Another Plan"
+title: "Always Another Plan"
 weight: 8
 ---
 

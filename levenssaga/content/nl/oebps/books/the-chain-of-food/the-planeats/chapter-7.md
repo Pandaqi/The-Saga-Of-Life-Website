@@ -1,5 +1,5 @@
 ---
-title: "7. Verdachte Vrienden"
+title: "Verdachte Vrienden"
 weight: 7
 ---
 

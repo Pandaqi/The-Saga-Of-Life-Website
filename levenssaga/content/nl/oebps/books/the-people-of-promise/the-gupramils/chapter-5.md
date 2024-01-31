@@ -1,5 +1,5 @@
 ---
-title: "5. Vastberaden"
+title: "Vastberaden"
 weight: 5
 ---
 

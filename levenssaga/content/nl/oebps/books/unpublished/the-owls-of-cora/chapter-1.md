@@ -1,5 +1,5 @@
 ---
-title: "1. Het Geheime Bericht"
+title: "Het Geheime Bericht"
 weight: 1
 ---
 

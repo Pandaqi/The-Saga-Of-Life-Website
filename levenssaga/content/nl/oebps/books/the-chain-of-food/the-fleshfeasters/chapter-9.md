@@ -1,5 +1,5 @@
 ---
-title: "9. Oversteken, overleven"
+title: "Oversteken, overleven"
 weight: 9
 ---
 

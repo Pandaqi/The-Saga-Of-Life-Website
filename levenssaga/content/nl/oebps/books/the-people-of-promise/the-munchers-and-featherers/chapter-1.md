@@ -1,5 +1,5 @@
 ---
-title: "1. Arme Jagers"
+title: "Arme Jagers"
 weight: 1
 ---
 

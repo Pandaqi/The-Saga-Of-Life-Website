@@ -66,6 +66,10 @@ input[type="submit"],
     max-width: g.$reader-max-width;
 }
 
+.limit-width {
+    max-width: g.$reader-max-width;
+}
+
 .center {
     text-align: center;
 }

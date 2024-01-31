@@ -1,5 +1,5 @@
 ---
-title: "8. De kooikeuze"
+title: "De kooikeuze"
 weight: 8
 ---
 

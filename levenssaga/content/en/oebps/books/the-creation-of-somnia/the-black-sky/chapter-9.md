@@ -1,5 +1,5 @@
 ---
-title: "9. Two Worlds"
+title: "Two Worlds"
 weight: 9
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "1. Schaduwsluipers"
+title: "Schaduwsluipers"
 weight: 1
 ---
 

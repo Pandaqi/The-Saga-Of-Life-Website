@@ -1,5 +1,5 @@
 ---
-title: "6. De hoogste minister"
+title: "De hoogste minister"
 weight: 6
 ---
 

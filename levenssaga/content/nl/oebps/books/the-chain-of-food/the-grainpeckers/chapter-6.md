@@ -1,5 +1,5 @@
 ---
-title: "6. Verslagen"
+title: "Verslagen"
 weight: 6
 ---
 

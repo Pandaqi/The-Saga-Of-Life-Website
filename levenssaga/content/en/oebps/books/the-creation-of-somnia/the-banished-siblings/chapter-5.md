@@ -1,5 +1,5 @@
 ---
-title: "5. The Barren Gardens"
+title: "The Barren Gardens"
 weight: 5
 ---
 

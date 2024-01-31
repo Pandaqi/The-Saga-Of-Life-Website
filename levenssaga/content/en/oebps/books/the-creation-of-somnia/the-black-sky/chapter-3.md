@@ -1,5 +1,5 @@
 ---
-title: "3. The Slippery Mission"
+title: "The Slippery Mission"
 weight: 3
 ---
 

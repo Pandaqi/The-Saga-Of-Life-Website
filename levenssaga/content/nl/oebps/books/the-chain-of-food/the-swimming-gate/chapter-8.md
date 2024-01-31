@@ -1,5 +1,5 @@
 ---
-title: "8. Samen of niet"
+title: "Samen of niet"
 weight: 8
 ---
 

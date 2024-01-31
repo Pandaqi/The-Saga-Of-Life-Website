@@ -1,5 +1,5 @@
 ---
-title: "3. De Bijnabergen"
+title: "De Bijnabergen"
 weight: 3
 ---
 

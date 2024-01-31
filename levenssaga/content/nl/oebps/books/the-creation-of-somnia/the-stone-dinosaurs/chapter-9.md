@@ -1,5 +1,5 @@
 ---
-title: "9. De vuurvlucht"
+title: "De vuurvlucht"
 weight: 9
 ---
 

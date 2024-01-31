@@ -1,5 +1,5 @@
 ---
-title: "4. Boerderij Plan"
+title: "Boerderij Plan"
 weight: 4
 ---
 

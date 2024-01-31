@@ -1,5 +1,5 @@
 ---
-title: "7. The Feast"
+title: "The Feast"
 weight: 7
 ---
 

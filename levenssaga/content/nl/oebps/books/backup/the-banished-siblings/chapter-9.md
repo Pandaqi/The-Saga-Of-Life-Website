@@ -1,5 +1,5 @@
 ---
-title: "9. Levenslessen"
+title: "Levenslessen"
 weight: 9
 ---
 

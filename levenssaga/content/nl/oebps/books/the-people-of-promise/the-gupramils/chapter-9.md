@@ -1,5 +1,5 @@
 ---
-title: "9. Ashorra de Enige"
+title: "Ashorra de Enige"
 weight: 9
 ---
 

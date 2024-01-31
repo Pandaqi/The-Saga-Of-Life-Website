@@ -1,5 +1,5 @@
 ---
-title: "1. Klif van Kaperij"
+title: "Klif van Kaperij"
 weight: 1
 ---
 

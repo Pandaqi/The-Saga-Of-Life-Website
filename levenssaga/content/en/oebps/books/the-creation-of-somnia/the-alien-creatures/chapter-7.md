@@ -1,5 +1,5 @@
 ---
-title: "7. Idi the Astronaut"
+title: "Idi the Astronaut"
 weight: 7
 ---
 

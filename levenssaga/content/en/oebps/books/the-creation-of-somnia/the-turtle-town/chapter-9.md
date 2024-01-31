@@ -1,5 +1,5 @@
 ---
-title: "9. Friend of the World"
+title: "Friend of the World"
 weight: 9
 ---
 

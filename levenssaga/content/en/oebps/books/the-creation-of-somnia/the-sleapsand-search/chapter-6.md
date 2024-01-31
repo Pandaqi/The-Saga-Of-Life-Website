@@ -1,5 +1,5 @@
 ---
-title: "6. Parog's Memory"
+title: "Parog's Memory"
 weight: 6
 ---
 

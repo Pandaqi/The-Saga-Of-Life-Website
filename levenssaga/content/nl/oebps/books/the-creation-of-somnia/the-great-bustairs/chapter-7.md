@@ -1,5 +1,5 @@
 ---
-title: "7. De laatste vogel"
+title: "De laatste vogel"
 weight: 7
 ---
 

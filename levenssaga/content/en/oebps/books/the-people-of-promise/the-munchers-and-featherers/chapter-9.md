@@ -1,5 +1,5 @@
 ---
-title: "9. No winners here"
+title: "No winners here"
 weight: 9
 ---
 

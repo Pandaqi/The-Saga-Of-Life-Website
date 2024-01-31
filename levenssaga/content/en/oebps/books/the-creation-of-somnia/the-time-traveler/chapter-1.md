@@ -1,5 +1,5 @@
 ---
-title: "1. Battle for Baroke"
+title: "Battle for Baroke"
 weight: 1
 ---
 

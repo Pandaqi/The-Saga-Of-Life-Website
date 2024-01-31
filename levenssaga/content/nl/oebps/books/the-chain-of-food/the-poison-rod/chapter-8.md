@@ -1,5 +1,5 @@
 ---
-title: "8. Het Foute Stofje"
+title: "Het Foute Stofje"
 weight: 8
 ---
 

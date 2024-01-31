@@ -1,5 +1,5 @@
 ---
-title: "5. The Shieldfriends"
+title: "The Shieldfriends"
 weight: 5
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "6. De eiermissie"
+title: "De eiermissie"
 weight: 6
 ---
 

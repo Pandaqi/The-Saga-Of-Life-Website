@@ -1,5 +1,5 @@
 ---
-title: "7. The Stream of Truth"
+title: "The Stream of Truth"
 weight: 7
 ---
 

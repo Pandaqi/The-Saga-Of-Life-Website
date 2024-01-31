@@ -1,5 +1,5 @@
 ---
-title: "4. Een levend hol"
+title: "Een levend hol"
 weight: 4
 ---
 

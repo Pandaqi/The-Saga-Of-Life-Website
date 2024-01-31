@@ -1,5 +1,5 @@
 ---
-title: "5. Years of Wisdom"
+title: "Years of Wisdom"
 weight: 5
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "6. Into the trees"
+title: "Into the trees"
 weight: 6
 ---
 

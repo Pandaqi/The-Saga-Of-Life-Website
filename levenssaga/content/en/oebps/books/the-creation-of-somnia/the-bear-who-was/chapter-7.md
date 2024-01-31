@@ -1,5 +1,5 @@
 ---
-title: "7. The Prison Cell"
+title: "The Prison Cell"
 weight: 7
 ---
 

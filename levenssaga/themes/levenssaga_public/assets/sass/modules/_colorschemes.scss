@@ -118,6 +118,10 @@ $colorschemes: (
         background-color: color.scale(map.get($info, "bg"), $lightness: -20%);
     }
 
+    .print-instruction a {
+        color: black;
+    }
+
     @if $is-inverted {
         .story-icon {
             filter: #{ "invert()" };
@@ -132,6 +136,10 @@ $colorschemes: (
         // the OUTER border-image is only inverted if the WHOLE PAGE is inverted
         .summary {
             border-image-source: url(g.$border-image-url-inverted);
+        }
+
+        .print-instruction a {
+            color: white;
         }
 
         #site-header {

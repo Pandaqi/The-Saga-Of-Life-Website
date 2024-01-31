@@ -1,5 +1,5 @@
 ---
-title: "3. Gatenkaas"
+title: "Gatenkaas"
 weight: 3
 ---
 

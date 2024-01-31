@@ -1,5 +1,5 @@
 ---
-title: "1. De Pilaren van Gibra"
+title: "De Pilaren van Gibra"
 weight: 1
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "5. Seed of Life"
+title: "Seed of Life"
 weight: 5
 ---
 

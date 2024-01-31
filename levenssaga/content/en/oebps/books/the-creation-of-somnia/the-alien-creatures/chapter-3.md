@@ -1,5 +1,5 @@
 ---
-title: "3. The Lonely Tree"
+title: "The Lonely Tree"
 weight: 3
 ---
 

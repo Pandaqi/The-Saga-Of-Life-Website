@@ -1,5 +1,5 @@
 ---
-title: "3. Hongerige wolven slapen niet"
+title: "Hongerige wolven slapen niet"
 weight: 3
 ---
 

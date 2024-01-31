@@ -1,5 +1,5 @@
 ---
-title: "1. Herberg bij Hima"
+title: "Herberg bij Hima"
 weight: 1
 ---
 

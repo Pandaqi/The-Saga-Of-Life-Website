@@ -1,5 +1,5 @@
 ---
-title: "2. Stikstof"
+title: "Stikstof"
 weight: 2
 ---
 

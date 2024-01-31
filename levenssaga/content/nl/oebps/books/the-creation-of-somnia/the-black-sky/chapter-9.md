@@ -1,5 +1,5 @@
 ---
-title: "9. De twee werelden"
+title: "De twee werelden"
 weight: 9
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "7. De vogelvoordelen"
+title: "De vogelvoordelen"
 weight: 7
 ---
 

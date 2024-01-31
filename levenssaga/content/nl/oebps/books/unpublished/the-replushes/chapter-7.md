@@ -1,5 +1,5 @@
 ---
-title: "7. De Equi"
+title: "De Equi"
 weight: 7
 ---
 

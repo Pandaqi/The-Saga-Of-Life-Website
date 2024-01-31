@@ -1,5 +1,5 @@
 ---
-title: "4. De twee Slaapverhalen"
+title: "De twee Slaapverhalen"
 weight: 4
 ---
 

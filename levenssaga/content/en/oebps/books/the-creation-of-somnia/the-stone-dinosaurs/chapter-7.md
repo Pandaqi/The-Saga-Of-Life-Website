@@ -1,5 +1,5 @@
 ---
-title: "7. Donte's Deed"
+title: "Donte's Deed"
 weight: 7
 ---
 

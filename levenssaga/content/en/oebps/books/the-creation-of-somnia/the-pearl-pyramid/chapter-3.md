@@ -1,5 +1,5 @@
 ---
-title: "3. Hidden Traps"
+title: "Hidden Traps"
 weight: 3
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "4. Laatschaap"
+title: "Laatschaap"
 weight: 4
 ---
 

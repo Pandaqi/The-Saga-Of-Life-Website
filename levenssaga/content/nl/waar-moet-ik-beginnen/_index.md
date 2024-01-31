@@ -9,7 +9,7 @@ Deze pagina zal je helpen.
 
 ## Voor de dappere: begin ergens
 
-In theorie kan je **overal** beginnen. Alle verhalen staan op zichzelf. Als informatie van andere verhalen essentieel is, wordt het opnieuw genoemd in de tekst. Vanzelfsprekend probeer ik elke verhaal even waardevol, interessant of leuk te maken.
+In theorie kan je **overal** beginnen. Alle verhalen staan op zichzelf. Als informatie van andere verhalen essentieel is, wordt het opnieuw genoemd in de tekst. Vanzelfsprekend probeer ik elk verhaal even waardevol, interessant of leuk te maken.
 
 ## Voor de praktische: voorverhalen
 

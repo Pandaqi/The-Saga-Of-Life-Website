@@ -1,5 +1,5 @@
 ---
-title: "9. Osiris and the King"
+title: "Osiris and the King"
 weight: 9
 ---
 

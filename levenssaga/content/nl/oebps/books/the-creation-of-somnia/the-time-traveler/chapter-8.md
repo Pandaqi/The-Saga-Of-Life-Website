@@ -1,5 +1,5 @@
 ---
-title: "8. Altijd een stiekem plan"
+title: "Altijd een stiekem plan"
 weight: 8
 ---
 

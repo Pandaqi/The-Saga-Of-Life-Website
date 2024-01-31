@@ -1,5 +1,5 @@
 ---
-title: "7. The Advantages of Birds"
+title: "The Advantages of Birds"
 weight: 7
 ---
 

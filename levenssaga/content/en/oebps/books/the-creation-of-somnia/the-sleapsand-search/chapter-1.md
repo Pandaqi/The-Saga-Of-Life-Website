@@ -1,5 +1,5 @@
 ---
-title: "1. The Sleepless Night"
+title: "The Sleepless Night"
 weight: 1
 ---
 

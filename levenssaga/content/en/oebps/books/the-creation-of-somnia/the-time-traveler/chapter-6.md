@@ -1,5 +1,5 @@
 ---
-title: "6. Castle Commands"
+title: "Castle Commands"
 weight: 6
 ---
 

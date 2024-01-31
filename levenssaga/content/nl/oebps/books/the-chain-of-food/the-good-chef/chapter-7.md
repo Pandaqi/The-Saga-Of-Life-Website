@@ -1,5 +1,5 @@
 ---
-title: "7. De Bomenbruggen"
+title: "De Bomenbruggen"
 weight: 7
 ---
 

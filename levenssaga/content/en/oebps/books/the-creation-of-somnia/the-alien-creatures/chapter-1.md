@@ -1,5 +1,5 @@
 ---
-title: "1. The Detour towards Nibuwe"
+title: "The Detour towards Nibuwe"
 weight: 1
 ---
 

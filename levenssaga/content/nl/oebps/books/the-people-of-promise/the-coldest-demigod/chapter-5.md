@@ -1,5 +1,5 @@
 ---
-title: "5. Zaadje van Leven"
+title: "Zaadje van Leven"
 weight: 5
 ---
 

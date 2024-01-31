@@ -1,5 +1,5 @@
 ---
-title: "7. Het pianoplan"
+title: "Het pianoplan"
 weight: 7
 ---
 

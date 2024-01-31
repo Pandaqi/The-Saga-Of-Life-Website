@@ -1,5 +1,5 @@
 ---
-title: "8. The Falling Stars"
+title: "The Falling Stars"
 weight: 8
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "2. De grote trap"
+title: "De grote trap"
 weight: 2
 ---
 

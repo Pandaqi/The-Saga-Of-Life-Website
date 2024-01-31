@@ -1,5 +1,5 @@
 ---
-title: "5. Horus' Riddle"
+title: "Horus' Riddle"
 weight: 5
 ---
 

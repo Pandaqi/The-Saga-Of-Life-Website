@@ -1,5 +1,5 @@
 ---
-title: "5. Darus' hulpjes"
+title: "Darus' hulpjes"
 weight: 5
 ---
 

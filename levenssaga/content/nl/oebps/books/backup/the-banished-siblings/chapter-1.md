@@ -1,5 +1,5 @@
 ---
-title: "1. Een nieuw gezicht"
+title: "Een nieuw gezicht"
 weight: 1
 ---
 

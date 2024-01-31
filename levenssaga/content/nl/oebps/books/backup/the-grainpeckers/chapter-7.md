@@ -1,5 +1,5 @@
 ---
-title: "7. Leugenaars"
+title: "Leugenaars"
 weight: 7
 ---
 

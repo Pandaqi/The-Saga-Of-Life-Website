@@ -1,5 +1,5 @@
 ---
-title: "4. De Gigageisers"
+title: "De Gigageisers"
 weight: 4
 ---
 

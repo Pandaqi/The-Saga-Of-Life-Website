@@ -1,5 +1,5 @@
 ---
-title: "10. Epiloog"
+title: "Epiloog"
 weight: 10
 ---
 

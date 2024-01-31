@@ -18,9 +18,8 @@ godlink: []
 genre: []
 teaches: []
 
-blurb: "BLURB HIER"
+blurb: "?? raakt ongeneeslijk ziek. Haar familie koopt de beste genezers met wel héél mysterieuze methoden, totdat ze uit wanhoop verwikkeld raakt in een heksenjacht---en anderen daarin onbedoeld mee sleurt."
 
-# this timeline is centered around the Soulsaw / Zielenzaag, not absolute 0 ( = universe creation)
 timeline:
   - yearstart: 0
     yearend: 0

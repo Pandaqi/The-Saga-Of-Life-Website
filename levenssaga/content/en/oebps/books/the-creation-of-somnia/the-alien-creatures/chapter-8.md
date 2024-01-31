@@ -1,5 +1,5 @@
 ---
-title: "8. Battle for Platsu"
+title: "Battle for Platsu"
 weight: 8
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "3. The Woodomaton"
+title: "The Woodomaton"
 weight: 3
 ---
 

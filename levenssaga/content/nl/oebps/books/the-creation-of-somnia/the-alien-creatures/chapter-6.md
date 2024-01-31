@@ -1,5 +1,5 @@
 ---
-title: "6. De verstoten rivier"
+title: De verstoten rivier
 weight: 6
 ---
 

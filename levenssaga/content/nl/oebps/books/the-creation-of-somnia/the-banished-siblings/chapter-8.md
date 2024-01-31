@@ -1,5 +1,5 @@
 ---
-title: "8. Het hemelpaleis"
+title: Het hemelpaleis
 weight: 8
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "7. Het Eerste Hemelvoorwerp"
+title: "Het Eerste Hemelvoorwerp"
 weight: 7
 ---
 

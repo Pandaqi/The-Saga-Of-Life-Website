@@ -1,5 +1,5 @@
 ---
-title: "2. De bange Paraat"
+title: "De bange Paraat"
 weight: 2
 ---
 

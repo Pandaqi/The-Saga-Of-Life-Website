@@ -1,5 +1,5 @@
 ---
-title: "6. Wilde Robot"
+title: "Wilde Robot"
 weight: 6
 ---
 

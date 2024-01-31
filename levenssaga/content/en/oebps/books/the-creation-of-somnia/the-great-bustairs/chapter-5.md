@@ -1,5 +1,5 @@
 ---
-title: "5. The Chance Disasters"
+title: "The Chance Disasters"
 weight: 5
 ---
 

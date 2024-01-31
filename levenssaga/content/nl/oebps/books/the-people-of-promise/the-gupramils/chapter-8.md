@@ -1,5 +1,5 @@
 ---
-title: "8. Geen Eindeloos Geluk"
+title: "Geen Eindeloos Geluk"
 weight: 8
 ---
 

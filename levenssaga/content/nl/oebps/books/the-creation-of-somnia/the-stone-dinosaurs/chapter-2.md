@@ -1,5 +1,5 @@
 ---
-title: "2. Het Dinonest"
+title: "Het Dinonest"
 weight: 2
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "5. Matenhaven"
+title: "Matenhaven"
 weight: 5
 ---
 

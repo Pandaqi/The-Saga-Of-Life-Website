@@ -1,5 +1,5 @@
 ---
-title: "6. Gifgrijpers"
+title: "Gifgrijpers"
 weight: 6
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "5. The Smart Olombos"
+title: "The Smart Olombos"
 weight: 5
 ---
 

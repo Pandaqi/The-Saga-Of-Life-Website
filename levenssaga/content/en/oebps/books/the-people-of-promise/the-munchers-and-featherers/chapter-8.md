@@ -1,5 +1,5 @@
 ---
-title: "8. Jambir's Fate"
+title: "Jambir's Fate"
 weight: 8
 ---
 

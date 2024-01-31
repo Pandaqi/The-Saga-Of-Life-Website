@@ -1,5 +1,5 @@
 ---
-title: "2. The Dino Nest"
+title: "The Dino Nest"
 weight: 2
 ---
 

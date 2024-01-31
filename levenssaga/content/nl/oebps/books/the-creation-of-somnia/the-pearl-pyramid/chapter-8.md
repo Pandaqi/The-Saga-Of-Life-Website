@@ -1,5 +1,5 @@
 ---
-title: "8. Het onverwachte parelmonster"
+title: "Het onverwachte parelmonster"
 weight: 8
 ---
 

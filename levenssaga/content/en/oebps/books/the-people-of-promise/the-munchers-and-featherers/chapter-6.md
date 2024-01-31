@@ -1,5 +1,5 @@
 ---
-title: "6. The Soul of Asha"
+title: "The Soul of Asha"
 weight: 6
 ---
 

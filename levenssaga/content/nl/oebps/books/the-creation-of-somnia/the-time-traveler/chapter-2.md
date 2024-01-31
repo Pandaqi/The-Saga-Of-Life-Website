@@ -1,5 +1,5 @@
 ---
-title: "2. Tijdreizen voor beginners"
+title: "Tijdreizen voor beginners"
 weight: 2
 ---
 

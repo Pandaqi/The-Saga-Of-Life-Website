@@ -1,5 +1,5 @@
 ---
-title: "5. Voedseltralies"
+title: "Voedseltralies"
 weight: 5
 ---
 

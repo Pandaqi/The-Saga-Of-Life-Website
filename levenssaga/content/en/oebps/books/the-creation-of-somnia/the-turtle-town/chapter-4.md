@@ -1,5 +1,5 @@
 ---
-title: "4. The Broken Promise"
+title: "The Broken Promise"
 weight: 4
 ---
 

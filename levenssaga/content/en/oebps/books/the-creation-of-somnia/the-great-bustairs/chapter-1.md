@@ -1,5 +1,5 @@
 ---
-title: "1. Prologue"
+title: "Prologue"
 weight: 1
 ---
 

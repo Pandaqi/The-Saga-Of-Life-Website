@@ -1,5 +1,5 @@
 ---
-title: "4. Brandnestel"
+title: "Brandnestel"
 weight: 4
 ---
 

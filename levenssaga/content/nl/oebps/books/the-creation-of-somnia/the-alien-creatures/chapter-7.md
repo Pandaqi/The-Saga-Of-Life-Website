@@ -1,5 +1,5 @@
 ---
-title: "7. De astronaut Idi"
+title: De astronaut Idi
 weight: 7
 ---
 

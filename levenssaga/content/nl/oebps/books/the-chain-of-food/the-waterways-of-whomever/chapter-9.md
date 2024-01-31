@@ -1,5 +1,5 @@
 ---
-title: "9. Raad van Kame"
+title: "Raad van Kame"
 weight: 9
 ---
 

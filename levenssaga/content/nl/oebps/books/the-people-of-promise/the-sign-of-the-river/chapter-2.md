@@ -1,5 +1,5 @@
 ---
-title: "2. Geheime Raad"
+title: "Geheime Raad"
 weight: 2
 ---
 

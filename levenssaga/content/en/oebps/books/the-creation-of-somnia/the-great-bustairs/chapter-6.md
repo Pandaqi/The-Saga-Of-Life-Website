@@ -1,5 +1,5 @@
 ---
-title: "6. The Egg-Back Mission"
+title: "The Egg-Back Mission"
 weight: 6
 ---
 

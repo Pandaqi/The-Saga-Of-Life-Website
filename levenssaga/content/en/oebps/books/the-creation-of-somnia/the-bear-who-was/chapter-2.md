@@ -1,5 +1,5 @@
 ---
-title: "2. The Scared Paraat"
+title: "The Scared Paraat"
 weight: 2
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "9. De Verkeerde Keuze"
+title: "De Verkeerde Keuze"
 weight: 9
 ---
 

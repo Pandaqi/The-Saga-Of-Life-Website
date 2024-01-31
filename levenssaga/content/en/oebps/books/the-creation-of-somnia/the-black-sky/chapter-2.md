@@ -1,5 +1,5 @@
 ---
-title: "2. The New Plan"
+title: "The New Plan"
 weight: 2
 ---
 

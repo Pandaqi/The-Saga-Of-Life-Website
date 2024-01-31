@@ -1,5 +1,5 @@
 ---
-title: "8. De Koudste Godenzoon"
+title: "De Koudste Godenzoon"
 weight: 8
 ---
 

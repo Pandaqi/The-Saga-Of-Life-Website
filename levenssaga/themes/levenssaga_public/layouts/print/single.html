@@ -60,7 +60,7 @@
         {{ range $story.Pages }}
             {{ $is_chapter := partial "func/test-if-chapter.html" . }}
             {{ if not $is_chapter }}{{ continue }}{{ end }}
-            <h2>{{ .Title }}</h2>
+            <h2>{{ partial "func/get-chapter-heading.html" . }}</h2>
             <div class="content">
                 {{ .Content }}
             </div>

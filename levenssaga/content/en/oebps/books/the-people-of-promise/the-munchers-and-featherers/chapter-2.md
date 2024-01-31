@@ -1,5 +1,5 @@
 ---
-title: "2. The Jagu Tribe"
+title: "The Jagu Tribe"
 weight: 2
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "1. Proloog"
+title: "Proloog"
 weight: 1
 ---
 

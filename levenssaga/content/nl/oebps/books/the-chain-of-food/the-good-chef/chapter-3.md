@@ -1,5 +1,5 @@
 ---
-title: "3. Het Gebroken Woud"
+title: "Het Gebroken Woud"
 weight: 3
 ---
 

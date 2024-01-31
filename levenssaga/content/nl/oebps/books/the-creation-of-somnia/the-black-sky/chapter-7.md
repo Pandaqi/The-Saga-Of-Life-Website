@@ -1,5 +1,5 @@
 ---
-title: "7. De laatste fluithaas"
+title: "De laatste fluithaas"
 weight: 7
 ---
 

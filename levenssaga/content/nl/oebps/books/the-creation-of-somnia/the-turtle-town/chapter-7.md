@@ -1,5 +1,5 @@
 ---
-title: "7. De stroom der waarheid"
+title: "De stroom der waarheid"
 weight: 7
 ---
 

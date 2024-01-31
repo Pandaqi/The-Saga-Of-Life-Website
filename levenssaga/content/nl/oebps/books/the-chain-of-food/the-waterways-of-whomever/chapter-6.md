@@ -1,5 +1,5 @@
 ---
-title: "6. Het Zeemonster"
+title: "Het Zeemonster"
 weight: 6
 ---
 

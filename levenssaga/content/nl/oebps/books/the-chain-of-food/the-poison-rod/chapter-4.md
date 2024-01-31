@@ -1,5 +1,5 @@
 ---
-title: "4. Hengel van Kracht"
+title: "Hengel van Kracht"
 weight: 4
 ---
 

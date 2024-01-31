@@ -1,5 +1,5 @@
 ---
-title: "5. Het Noorden"
+title: "Het Noorden"
 weight: 5
 ---
 

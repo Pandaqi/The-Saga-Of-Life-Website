@@ -1,5 +1,5 @@
 ---
-title: "3. Koningskameraad"
+title: "Koningskameraad"
 weight: 3
 ---
 

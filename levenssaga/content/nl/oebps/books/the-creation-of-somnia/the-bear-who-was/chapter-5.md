@@ -1,5 +1,5 @@
 ---
-title: "5. De schildvrienden"
+title: "De schildvrienden"
 weight: 5
 ---
 

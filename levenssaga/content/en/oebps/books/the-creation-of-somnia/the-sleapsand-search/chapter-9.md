@@ -1,5 +1,5 @@
 ---
-title: "9. The Magic of Birds"
+title: "The Magic of Birds"
 weight: 9
 ---
 

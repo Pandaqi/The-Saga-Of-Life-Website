@@ -1,5 +1,5 @@
 ---
-title: "4. De Puddingrace"
+title: "De Puddingrace"
 weight: 4
 ---
 

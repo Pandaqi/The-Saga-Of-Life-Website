@@ -1,5 +1,5 @@
 ---
-title: "8. Boerderij Ruimteschip"
+title: "Boerderij Ruimteschip"
 weight: 8
 ---
 

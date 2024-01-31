@@ -1,5 +1,5 @@
 ---
-title: "8. The Unexpected Pearlmonster"
+title: "The Unexpected Pearlmonster"
 weight: 8
 ---
 

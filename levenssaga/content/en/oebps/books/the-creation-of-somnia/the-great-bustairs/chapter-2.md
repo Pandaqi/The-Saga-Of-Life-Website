@@ -1,5 +1,5 @@
 ---
-title: "2. The Big Stairs"
+title: "The Big Stairs"
 weight: 2
 ---
 

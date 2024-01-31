@@ -1,5 +1,5 @@
 ---
-title: "1. The Prophecy of Guds"
+title: "The Prophecy of Guds"
 weight: 1
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "4. Missing Daughter"
+title: "Missing Daughter"
 weight: 4
 ---
 

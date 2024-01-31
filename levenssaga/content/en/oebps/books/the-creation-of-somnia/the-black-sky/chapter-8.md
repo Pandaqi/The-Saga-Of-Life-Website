@@ -1,5 +1,5 @@
 ---
-title: "8. Choice of Cage"
+title: "Choice of Cage"
 weight: 8
 ---
 

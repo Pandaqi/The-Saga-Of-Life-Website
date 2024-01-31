@@ -1,5 +1,5 @@
 ---
-title: "3. Verborgen valstrikken"
+title: "Verborgen valstrikken"
 weight: 3
 ---
 

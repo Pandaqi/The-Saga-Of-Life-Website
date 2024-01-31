@@ -1,5 +1,5 @@
 ---
-title: "8. Heldengevecht"
+title: "Heldengevecht"
 weight: 8
 ---
 

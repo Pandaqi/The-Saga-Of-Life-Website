@@ -1,5 +1,5 @@
 ---
-title: "9. Godengevechten"
+title: "Godengevechten"
 weight: 9
 ---
 

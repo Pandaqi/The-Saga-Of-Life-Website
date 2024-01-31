@@ -1,5 +1,5 @@
 ---
-title: "9. To Fall Far from the Tree"
+title: "To Fall Far from the Tree"
 weight: 9
 ---
 

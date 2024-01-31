@@ -1,5 +1,5 @@
 ---
-title: "4. De maan en de berg"
+title: De maan en de berg
 weight: 4
 ---
 

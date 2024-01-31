@@ -1,5 +1,5 @@
 ---
-title: "7. Donte's Daad"
+title: "Donte's Daad"
 weight: 7
 ---
 

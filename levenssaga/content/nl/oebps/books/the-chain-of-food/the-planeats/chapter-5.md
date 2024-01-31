@@ -1,5 +1,5 @@
 ---
-title: "5. De Planeters"
+title: "De Planeters"
 weight: 5
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "2. The Sand King"
+title: "The Sand King"
 weight: 2
 ---
 

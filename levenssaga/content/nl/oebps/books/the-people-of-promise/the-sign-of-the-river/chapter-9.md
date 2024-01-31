@@ -1,5 +1,5 @@
 ---
-title: "9. De Zondvloed"
+title: "De Zondvloed"
 weight: 9
 ---
 

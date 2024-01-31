@@ -1,5 +1,5 @@
 ---
-title: "5. De Gifgordel"
+title: "De Gifgordel"
 weight: 5
 ---
 

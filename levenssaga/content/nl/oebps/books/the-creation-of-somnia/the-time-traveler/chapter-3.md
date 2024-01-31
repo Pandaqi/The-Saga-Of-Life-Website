@@ -1,5 +1,5 @@
 ---
-title: "3. Kameraden zonder Koning"
+title: "Kameraden zonder Koning"
 weight: 3
 ---
 

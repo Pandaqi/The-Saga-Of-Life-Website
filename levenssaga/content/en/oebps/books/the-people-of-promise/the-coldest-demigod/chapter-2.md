@@ -1,5 +1,5 @@
 ---
-title: "2. Pillarbreaker"
+title: "Pillarbreaker"
 weight: 2
 ---
 

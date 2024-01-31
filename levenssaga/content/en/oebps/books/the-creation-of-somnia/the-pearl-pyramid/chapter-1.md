@@ -1,5 +1,5 @@
 ---
-title: "1. Shadowshifters"
+title: "Shadowshifters"
 weight: 1
 ---
 

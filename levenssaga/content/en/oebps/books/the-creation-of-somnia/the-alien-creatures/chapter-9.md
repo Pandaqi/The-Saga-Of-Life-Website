@@ -1,5 +1,5 @@
 ---
-title: "9. The Wrong Shot"
+title: "The Wrong Shot"
 weight: 9
 ---
 

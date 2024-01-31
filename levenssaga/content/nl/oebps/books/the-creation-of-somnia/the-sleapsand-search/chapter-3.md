@@ -1,5 +1,5 @@
 ---
-title: "3. De Wet van Eerste Landing"
+title: "De Wet van Eerste Landing"
 weight: 3
 ---
 

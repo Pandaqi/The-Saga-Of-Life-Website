@@ -1,5 +1,5 @@
 ---
-title: "4. Nieuw doel"
+title: "Nieuw doel"
 weight: 4
 ---
 

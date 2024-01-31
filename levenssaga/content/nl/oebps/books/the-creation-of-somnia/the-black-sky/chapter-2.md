@@ -1,5 +1,5 @@
 ---
-title: "2. Het nieuwe plan"
+title: "Het nieuwe plan"
 weight: 2
 ---
 

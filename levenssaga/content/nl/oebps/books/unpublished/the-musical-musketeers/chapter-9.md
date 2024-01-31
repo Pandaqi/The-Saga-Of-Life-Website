@@ -1,5 +1,5 @@
 ---
-title: "9. Een veilige haven"
+title: "Een veilige haven"
 weight: 9
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "6. Een valse herinnering"
+title: "Een valse herinnering"
 weight: 6
 ---
 

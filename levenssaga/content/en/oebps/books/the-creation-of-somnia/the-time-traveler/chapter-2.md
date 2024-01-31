@@ -1,5 +1,5 @@
 ---
-title: "2. Time Travel for Beginners"
+title: "Time Travel for Beginners"
 weight: 2
 ---
 

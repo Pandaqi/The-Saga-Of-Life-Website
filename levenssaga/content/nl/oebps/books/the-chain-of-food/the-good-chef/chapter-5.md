@@ -1,5 +1,5 @@
 ---
-title: "5. De Ongeziene Zaadjes"
+title: "De Ongeziene Zaadjes"
 weight: 5
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "8. The Hard Truth"
+title: "The Hard Truth"
 weight: 8
 ---
 

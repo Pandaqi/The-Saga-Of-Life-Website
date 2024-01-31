@@ -1,5 +1,5 @@
 ---
-title: "4. De onschuldige indringer"
+title: "De onschuldige indringer"
 weight: 4
 ---
 

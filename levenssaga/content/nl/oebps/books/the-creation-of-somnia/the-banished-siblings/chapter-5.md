@@ -1,5 +1,5 @@
 ---
-title: "5. De dorre tuinen"
+title: De dorre tuinen
 weight: 5
 ---
 

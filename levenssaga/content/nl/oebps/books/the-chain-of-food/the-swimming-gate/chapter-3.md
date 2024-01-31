@@ -1,5 +1,5 @@
 ---
-title: "3. Vuurvoelsprieten"
+title: "Vuurvoelsprieten"
 weight: 3
 ---
 

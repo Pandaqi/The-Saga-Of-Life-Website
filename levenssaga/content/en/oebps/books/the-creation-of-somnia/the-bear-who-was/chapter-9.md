@@ -1,5 +1,5 @@
 ---
-title: "9. The Last Wish"
+title: "The Last Wish"
 weight: 9
 ---
 

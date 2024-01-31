@@ -1,5 +1,5 @@
 ---
-title: "6. The Expelled River"
+title: "The Expelled River"
 weight: 6
 ---
 

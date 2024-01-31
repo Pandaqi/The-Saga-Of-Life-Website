@@ -1,5 +1,5 @@
 ---
-title: "7. Boek der Bekentenis"
+title: "Boek der Bekentenis"
 weight: 7
 ---
 

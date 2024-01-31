@@ -1,5 +1,5 @@
 ---
-title: "6. The Number Wizard"
+title: "The Number Wizard"
 weight: 6
 ---
 

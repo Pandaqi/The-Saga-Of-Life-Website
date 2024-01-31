@@ -1,5 +1,5 @@
 ---
-title: "7. Altijd groener"
+title: "Altijd groener"
 weight: 7
 ---
 

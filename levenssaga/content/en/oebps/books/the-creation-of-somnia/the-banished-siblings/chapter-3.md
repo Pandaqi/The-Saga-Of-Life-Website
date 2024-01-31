@@ -1,5 +1,5 @@
 ---
-title: "3. In a Vacuum"
+title: "In a Vacuum"
 weight: 3
 ---
 

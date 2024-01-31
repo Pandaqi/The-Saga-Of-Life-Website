@@ -1,5 +1,5 @@
 ---
-title: "4. Legerbotsingen"
+title: "Legerbotsingen"
 weight: 4
 ---
 

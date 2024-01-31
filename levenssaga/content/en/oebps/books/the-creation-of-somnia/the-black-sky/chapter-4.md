@@ -1,5 +1,5 @@
 ---
-title: "4. Weapons of Kran"
+title: "Weapons of Kran"
 weight: 4
 ---
 

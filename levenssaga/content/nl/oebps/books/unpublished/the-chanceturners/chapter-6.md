@@ -1,5 +1,5 @@
 ---
-title: "6. Kans verkeken"
+title: "Kans verkeken"
 weight: 6
 ---
 

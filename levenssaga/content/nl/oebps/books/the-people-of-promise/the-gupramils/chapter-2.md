@@ -1,5 +1,5 @@
 ---
-title: "2. Alixader de Reus"
+title: "Alixader de Reus"
 weight: 2
 ---
 

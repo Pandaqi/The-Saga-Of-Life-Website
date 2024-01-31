@@ -1,5 +1,5 @@
 ---
-title: "5. Handelaar van Maskers"
+title: "Handelaar van Maskers"
 weight: 5
 ---
 

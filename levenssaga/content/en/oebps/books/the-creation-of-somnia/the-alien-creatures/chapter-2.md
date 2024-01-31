@@ -1,5 +1,5 @@
 ---
-title: "2. The Space Ghosts"
+title: "The Space Ghosts"
 weight: 2
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "9. Voedingvraat"
+title: "Voedingvraat"
 weight: 9
 ---
 

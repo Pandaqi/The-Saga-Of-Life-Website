@@ -1,5 +1,5 @@
 ---
-title: "8. Zeeziek, hectiek"
+title: "Zeeziek, hectiek"
 weight: 8
 ---
 

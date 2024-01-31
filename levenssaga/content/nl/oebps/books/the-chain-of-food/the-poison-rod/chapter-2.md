@@ -1,5 +1,5 @@
 ---
-title: "2. Voorspelling van Gif"
+title: "Voorspelling van Gif"
 weight: 2
 ---
 

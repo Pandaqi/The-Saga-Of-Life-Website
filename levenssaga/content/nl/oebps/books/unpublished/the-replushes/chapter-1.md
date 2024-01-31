@@ -1,5 +1,5 @@
 ---
-title: "1. Zee, strand, pluisjes aan land"
+title: "Zee, strand, pluisjes aan land"
 weight: 1
 ---
 

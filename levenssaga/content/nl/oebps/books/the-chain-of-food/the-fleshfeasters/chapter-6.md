@@ -1,5 +1,5 @@
 ---
-title: "6. Vaartdraken"
+title: "Vaartdraken"
 weight: 6
 ---
 

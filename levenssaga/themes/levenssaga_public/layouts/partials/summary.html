@@ -32,7 +32,7 @@
 
     {{ partial "section-metadata.html" (dict "context" . "usage" "print" "type" $type) }}
 
-    <h2 class="summary-title">{{ .Title }}</h2>
+    <h2 class="summary-title">{{ partial "func/get-chapter-heading.html" . }}</h2>
     <div>
       <p class="summary-blurb">
         {{ $content }} 

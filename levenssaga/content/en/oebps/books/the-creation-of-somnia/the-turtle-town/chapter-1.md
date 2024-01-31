@@ -1,5 +1,5 @@
 ---
-title: "1. The Pillars of Gibra"
+title: "The Pillars of Gibra"
 weight: 1
 ---
 

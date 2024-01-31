@@ -1,5 +1,5 @@
 ---
-title: "9. Osiris en de Koning"
+title: "Osiris en de Koning"
 weight: 9
 ---
 

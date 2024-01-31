@@ -1,5 +1,5 @@
 ---
-title: "8. De marathon"
+title: "De marathon"
 weight: 8
 ---
 

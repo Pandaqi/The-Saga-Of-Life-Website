@@ -1,5 +1,5 @@
 ---
-title: "3. The Found City"
+title: "The Found City"
 weight: 3
 ---
 

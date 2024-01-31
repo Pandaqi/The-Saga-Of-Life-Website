@@ -1,5 +1,5 @@
 ---
-title: "8. Het Receptenboek"
+title: "Het Receptenboek"
 weight: 8
 ---
 

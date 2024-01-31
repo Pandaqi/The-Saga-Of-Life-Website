@@ -1,5 +1,5 @@
 ---
-title: "6. Mosterdgas"
+title: "Mosterdgas"
 weight: 6
 ---
 

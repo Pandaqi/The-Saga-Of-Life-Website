@@ -1,5 +1,5 @@
 ---
-title: "1. Waardeloze Vechters"
+title: "Waardeloze Vechters"
 weight: 1
 ---
 

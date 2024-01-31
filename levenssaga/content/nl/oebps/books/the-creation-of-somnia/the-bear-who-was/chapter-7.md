@@ -1,5 +1,5 @@
 ---
-title: "7. De gevangenis"
+title: "De gevangenis"
 weight: 7
 ---
 

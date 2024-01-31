@@ -1,5 +1,5 @@
 ---
-title: "4. The Gigagushers"
+title: "The Gigagushers"
 weight: 4
 ---
 

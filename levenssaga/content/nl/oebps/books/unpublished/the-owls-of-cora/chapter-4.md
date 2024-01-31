@@ -1,5 +1,5 @@
 ---
-title: "4. De Drinkboom"
+title: "De Drinkboom"
 weight: 4
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "7. Always greener"
+title: "Always greener"
 weight: 7
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "7. Wandelhout"
+title: "Wandelhout"
 weight: 7
 ---
 

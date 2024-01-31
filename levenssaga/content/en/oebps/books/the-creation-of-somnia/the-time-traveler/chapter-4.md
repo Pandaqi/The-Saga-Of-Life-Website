@@ -1,5 +1,5 @@
 ---
-title: "4. Double Life"
+title: "Double Life"
 weight: 4
 ---
 

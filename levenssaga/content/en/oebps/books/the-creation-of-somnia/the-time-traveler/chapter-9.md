@@ -1,5 +1,5 @@
 ---
-title: "9. Fate"
+title: "Fate"
 weight: 9
 ---
 

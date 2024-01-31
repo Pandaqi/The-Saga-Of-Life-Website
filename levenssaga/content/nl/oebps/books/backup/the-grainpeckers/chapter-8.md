@@ -1,5 +1,5 @@
 ---
-title: "8. Godin van Vruchtbaarheid"
+title: "Godin van Vruchtbaarheid"
 weight: 8
 ---
 

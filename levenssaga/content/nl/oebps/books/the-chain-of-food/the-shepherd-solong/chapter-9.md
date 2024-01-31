@@ -1,5 +1,5 @@
 ---
-title: "9. De uitslag"
+title: "De uitslag"
 weight: 9
 ---
 

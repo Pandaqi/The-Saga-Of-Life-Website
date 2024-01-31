@@ -1,5 +1,5 @@
 ---
-title: "5. Nooit meer honger"
+title: "Nooit meer honger"
 weight: 5
 ---
 

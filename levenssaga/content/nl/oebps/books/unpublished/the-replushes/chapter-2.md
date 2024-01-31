@@ -1,5 +1,5 @@
 ---
-title: "2. Het vliegende circus"
+title: "Het vliegende circus"
 weight: 2
 ---
 

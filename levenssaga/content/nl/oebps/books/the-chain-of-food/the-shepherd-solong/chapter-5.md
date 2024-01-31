@@ -1,5 +1,5 @@
 ---
-title: "5. Breekboom"
+title: "Breekboom"
 weight: 5
 ---
 

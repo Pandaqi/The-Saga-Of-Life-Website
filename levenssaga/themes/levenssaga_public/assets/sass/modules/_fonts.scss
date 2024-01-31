@@ -48,12 +48,14 @@ $info in $fonts {
         $font-fam: map.get($info, "key") #{g.$body-font-appendix};
         font-family: $font-fam;
 
-        $size: map.get($info, "size") * g.$base-font-size;
+        $size: calc( map.get($info, "size") * g.$base-font-size-responsive  + 0.390625vw);
         font-size: $size;
+
+        /*font-size: calc(15px + 0.390625vw);
 
         @media (max-width: g.$breakpoint-small) {
             font-size: $size * 0.85;
-        }
+        }*/
 
         @if map-has-key($info, "line-height") {
             line-height: g.$base-line-height * map.get($info, "line-height");

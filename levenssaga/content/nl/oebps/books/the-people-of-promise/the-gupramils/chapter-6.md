@@ -1,5 +1,5 @@
 ---
-title: "6. Wij tegen Zij"
+title: "Wij tegen Zij"
 weight: 6
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "8. The Vanished Voice"
+title: "The Vanished Voice"
 weight: 8
 ---
 

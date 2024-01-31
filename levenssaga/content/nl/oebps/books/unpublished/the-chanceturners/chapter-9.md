@@ -1,5 +1,5 @@
 ---
-title: "9. Een laatste kans"
+title: "Een laatste kans"
 weight: 9
 ---
 

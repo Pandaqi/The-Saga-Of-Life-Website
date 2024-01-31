@@ -1,5 +1,5 @@
 ---
-title: "6. Minister of Utmost Importance"
+title: "Minister of Utmost Importance"
 weight: 6
 ---
 

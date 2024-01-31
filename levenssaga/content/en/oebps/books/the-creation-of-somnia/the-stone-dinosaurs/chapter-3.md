@@ -1,5 +1,5 @@
 ---
-title: "3. The Tree of Life"
+title: "The Tree of Life"
 weight: 3
 ---
 

@@ -10,13 +10,13 @@ book: true
 timeperiod: 'Het Kompaanschap'
 cycle: 'De Beschavingen van Belofte'
 bundle: 'Barbaren & Hekshaarden'
-character: ["Wolfar (Wolf)", "Wodrik (Wolf)", "Wozam (Wolf)", "Ginsea (Hamster)", "Bar-Bar (Schaap)", "Bipi (Big)", "Roddelrat", "Aria (Uil)"]
-prequel: []
-refers: []
-happens: []
-godlink: ["Solong (Berenherder)", "Bar-Bar (Schaap)"]
-genre: []
-teaches: []
+character: ["Wolfar (Wolf)", "Wodrik (Wolf)", "Wozam (Wolf)", "Ginsea (Hamster)", "Bar-Bar (Schaap)", "Bipi (Big)", "Roddelrat", "Aria (Uil)", "Himnib (Beer)", "Solong (Beer)"]
+prequel: ["De Vergeten Herder"]
+refers: ["Amor", "Raad van Kame", "Reuzenwolven", "Vlamvreter", "Grapi", "Tibber", "Zandkoning (Claes)"]
+happens: ["Dood Hersenloze Heerser", "Hennenverraad"]
+godlink: ["Solong (Beer)", "Bar-Bar (Schaap)"]
+genre: ["Actief", "Maatschappij", "Macht", "Groeien", "Geschiedenis", "Spionage", "Educatief"]
+teaches: ["Romeinen", "Barbaren", "Hunnen", "Rechtsspraak"]
 
 blurb: "De koning van Amori is gek geworden. Zijn bevelen breken het rijk op. Natuurlijk wil geen enkele nette Amori diens poten vuil maken, dus schakelen ze de onvoorspelbare Barbaren in voor een duistere missie."
 

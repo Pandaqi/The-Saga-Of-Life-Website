@@ -1,5 +1,5 @@
 ---
-title: "1. De slag bij Baroke"
+title: "De slag bij Baroke"
 weight: 1
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "1. The River"
+title: "The River"
 weight: 1
 ---
 

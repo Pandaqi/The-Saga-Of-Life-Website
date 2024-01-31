@@ -1,5 +1,5 @@
 ---
-title: "2. Bewaakte Bulten"
+title: "Bewaakte Bulten"
 weight: 2
 ---
 

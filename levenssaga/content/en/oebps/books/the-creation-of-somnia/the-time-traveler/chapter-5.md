@@ -1,5 +1,5 @@
 ---
-title: "5. Clock Recovery"
+title: "Clock Recovery"
 weight: 5
 ---
 

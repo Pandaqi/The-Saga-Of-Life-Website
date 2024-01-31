@@ -1,5 +1,5 @@
 ---
-title: "8. Het Apenrijk"
+title: "Het Apenrijk"
 weight: 8
 ---
 

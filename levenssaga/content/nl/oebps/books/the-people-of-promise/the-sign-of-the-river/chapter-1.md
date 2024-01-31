@@ -1,5 +1,5 @@
 ---
-title: "1. Verdachte Handel"
+title: "Verdachte Handel"
 weight: 1
 ---
 

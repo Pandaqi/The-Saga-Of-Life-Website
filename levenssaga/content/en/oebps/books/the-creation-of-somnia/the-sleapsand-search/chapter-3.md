@@ -1,5 +1,5 @@
 ---
-title: "3. Law of First Landing"
+title: "Law of First Landing"
 weight: 3
 ---
 

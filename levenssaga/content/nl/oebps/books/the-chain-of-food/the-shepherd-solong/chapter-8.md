@@ -1,5 +1,5 @@
 ---
-title: "8. De Lopende Bloemen"
+title: "De Lopende Bloemen"
 weight: 8
 ---
 

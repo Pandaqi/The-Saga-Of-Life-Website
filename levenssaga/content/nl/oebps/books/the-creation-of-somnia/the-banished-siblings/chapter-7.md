@@ -1,5 +1,5 @@
 ---
-title: "7. De deeltjessoep"
+title: De deeltjessoep
 weight: 7
 ---
 

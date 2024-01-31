@@ -1,5 +1,5 @@
 ---
-title: "8. De onzichtbare Oppergod"
+title: "De onzichtbare Oppergod"
 weight: 8
 ---
 

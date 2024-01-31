@@ -1,5 +1,5 @@
 ---
-title: "9. Maïsveldslag"
+title: "Maïsveldslag"
 weight: 9
 ---
 

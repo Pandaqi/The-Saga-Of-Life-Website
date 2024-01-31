@@ -1,5 +1,5 @@
 ---
-title: "1. ??"
+title: "??"
 weight: 1
 ---
 

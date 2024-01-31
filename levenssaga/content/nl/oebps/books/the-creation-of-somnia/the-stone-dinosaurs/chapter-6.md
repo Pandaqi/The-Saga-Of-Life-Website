@@ -1,5 +1,5 @@
 ---
-title: "6. De boom in"
+title: "De boom in"
 weight: 6
 ---
 

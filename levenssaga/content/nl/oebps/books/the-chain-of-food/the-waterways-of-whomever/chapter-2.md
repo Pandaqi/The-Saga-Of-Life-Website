@@ -1,5 +1,5 @@
 ---
-title: "2. Roverjager"
+title: "Roverjager"
 weight: 2
 ---
 

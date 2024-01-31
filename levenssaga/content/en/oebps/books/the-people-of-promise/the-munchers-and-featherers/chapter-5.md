@@ -1,5 +1,5 @@
 ---
-title: "5. Food Prison"
+title: "Food Prison"
 weight: 5
 ---
 

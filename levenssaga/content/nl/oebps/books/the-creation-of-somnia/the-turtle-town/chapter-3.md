@@ -1,5 +1,5 @@
 ---
-title: "3. De gevonden stad"
+title: "De gevonden stad"
 weight: 3
 ---
 

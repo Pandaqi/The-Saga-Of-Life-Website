@@ -1,5 +1,5 @@
 ---
-title: "7. The First Heavenmatter"
+title: "The First Heavenmatter"
 weight: 7
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "3. Boerderij Gevaar"
+title: "Boerderij Gevaar"
 weight: 3
 ---
 

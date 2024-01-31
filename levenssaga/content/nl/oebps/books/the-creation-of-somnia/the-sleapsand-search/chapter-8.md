@@ -1,5 +1,5 @@
 ---
-title: "8. De verdwenen stem"
+title: "De verdwenen stem"
 weight: 8
 ---
 

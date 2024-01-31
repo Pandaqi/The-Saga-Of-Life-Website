@@ -1,5 +1,5 @@
 ---
-title: "1. De Voorspelling van Guds"
+title: "De Voorspelling van Guds"
 weight: 1
 ---
 
@@ -11,7 +11,7 @@ In die leegte sprankelde een ster. Een klein bolletje energie, goddelijke macht,
 
 Maar één ster werden er twee. Twee pure levenskrachten vonden elkaar. Niet uit liefde of op afspraak---nee nee, dat bestond nog helemaal niet. Omdat in dit universum al het leven altijd deze eigenschap had: de wil om ander leven te zoeken en daarmee zorgen dat het leven langer blijft bestaan.
 
-In een flits werd de leegte gevuld met een paleis. Het Hemelpaleis. Wat je je ook voorstelt, beste lezer, als het mooi is en je hart verwarmd, of gruwelijk en je hart stilzet, dan heb je in beide gevallen gelijk. 
+In een flits werd de leegte gevuld met een paleis. Het Hemelpaleis. Wat je je ook voorstelt, beste lezer, als het mooi is en je hart verwarmt, of gruwelijk en je hart stilzet, dan heb je in beide gevallen gelijk. 
 
 Ze maakten een plek die alles uit het universum had. Het goede én het slechte. Een klein mini-universum waarin ze leefden en de rest overzagen. 
 
@@ -87,7 +87,7 @@ Ze keerde haar gezicht af. "Ik weet ook niet wat het precies betekent. Ik kan de
 
 Vader verzonk in gedachten. De voorspelling leek te praten over meerdere kinderen. Een hele boel, zelfs. Of was dat ook maar een interpretatie? Al die eigenschappen---licht, zwaar, snel---zouden op dit ene kind kunnen slaan. 
 
-Een monster. Een kind bedoelt om hen te verslaan of de macht over te nemen. Vader hield best wel van zijn macht.
+Een monster. Een kind bedoeld om hen te verslaan of de macht over te nemen. Vader hield best wel van zijn macht.
 
 Zijn handen, menselijk op het eerste gezicht maar gemaakt van acht magische vingers, grepen die van zijn vrouw.
 

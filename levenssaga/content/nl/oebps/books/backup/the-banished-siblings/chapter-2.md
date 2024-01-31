@@ -1,5 +1,5 @@
 ---
-title: "2. De wijsbeer"
+title: "De wijsbeer"
 weight: 2
 ---
 

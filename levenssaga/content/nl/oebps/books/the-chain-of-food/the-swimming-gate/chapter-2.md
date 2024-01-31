@@ -1,5 +1,5 @@
 ---
-title: "2. De levenskenmerken"
+title: "De levenskenmerken"
 weight: 2
 ---
 

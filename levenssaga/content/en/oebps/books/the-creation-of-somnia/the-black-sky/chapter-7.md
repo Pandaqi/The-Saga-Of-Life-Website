@@ -1,5 +1,5 @@
 ---
-title: "7. The Last Pika"
+title: "The Last Pika"
 weight: 7
 ---
 

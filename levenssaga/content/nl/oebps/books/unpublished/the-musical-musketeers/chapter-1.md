@@ -1,5 +1,5 @@
 ---
-title: "1. De hazelnoten"
+title: "De hazelnoten"
 weight: 1
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "3. In het luchtledige"
+title: "In het luchtledige"
 weight: 3
 ---
 

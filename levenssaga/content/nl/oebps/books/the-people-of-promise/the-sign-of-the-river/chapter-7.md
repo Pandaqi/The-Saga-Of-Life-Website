@@ -1,5 +1,5 @@
 ---
-title: "7. Sterven na Dood"
+title: "Sterven na Dood"
 weight: 7
 ---
 

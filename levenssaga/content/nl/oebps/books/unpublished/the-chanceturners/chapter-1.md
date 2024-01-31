@@ -1,5 +1,5 @@
 ---
-title: "1. Onvrijwillig Opgesloten"
+title: "Onvrijwillig Opgesloten"
 weight: 1
 ---
 

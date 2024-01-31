@@ -1,5 +1,5 @@
 ---
-title: "8. De harde waarheid"
+title: "De harde waarheid"
 weight: 8
 ---
 

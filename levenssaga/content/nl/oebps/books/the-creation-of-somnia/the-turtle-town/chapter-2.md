@@ -1,5 +1,5 @@
 ---
-title: "2. Solomon de Oude"
+title: "Solomon de Oude"
 weight: 2
 ---
 

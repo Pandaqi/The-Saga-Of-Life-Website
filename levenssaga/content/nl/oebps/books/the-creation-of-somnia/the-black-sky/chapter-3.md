@@ -1,5 +1,5 @@
 ---
-title: "3. De glibberige missie"
+title: "De glibberige missie"
 weight: 3
 ---
 

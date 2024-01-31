@@ -1,5 +1,5 @@
 ---
-title: "7. Geen ruimte"
+title: "Geen ruimte"
 weight: 7
 ---
 

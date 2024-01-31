@@ -1,5 +1,5 @@
 ---
-title: "2. Pilarenbreker"
+title: "Pilarenbreker"
 weight: 2
 ---
 

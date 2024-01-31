@@ -1,5 +1,5 @@
 ---
-title: "4. De belangrijkste druppel"
+title: "De belangrijkste druppel"
 weight: 4
 ---
 

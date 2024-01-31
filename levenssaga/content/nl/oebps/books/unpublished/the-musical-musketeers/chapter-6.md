@@ -1,5 +1,5 @@
 ---
-title: "6. Dobberend tobben"
+title: "Dobberend tobben"
 weight: 6
 ---
 

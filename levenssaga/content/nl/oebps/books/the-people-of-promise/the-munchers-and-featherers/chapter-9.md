@@ -1,5 +1,5 @@
 ---
-title: "9. Alleen maar verliezers"
+title: "Alleen maar verliezers"
 weight: 9
 ---
 

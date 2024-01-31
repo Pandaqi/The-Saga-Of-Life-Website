@@ -1,5 +1,5 @@
 ---
-title: "3. Comrades without King"
+title: "Comrades without King"
 weight: 3
 ---
 

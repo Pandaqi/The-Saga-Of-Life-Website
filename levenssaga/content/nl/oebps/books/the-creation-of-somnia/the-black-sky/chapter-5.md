@@ -1,5 +1,5 @@
 ---
-title: "5. De windwachter"
+title: "De windwachter"
 weight: 5
 ---
 

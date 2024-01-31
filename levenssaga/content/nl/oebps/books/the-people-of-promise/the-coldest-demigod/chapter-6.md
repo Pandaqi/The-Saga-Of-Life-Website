@@ -1,5 +1,5 @@
 ---
-title: "6. Zin van het Leven"
+title: "Zin van het Leven"
 weight: 6
 ---
 

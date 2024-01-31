@@ -3,7 +3,7 @@
     <header>
       {{ partial "section-metadata.html" (dict "context" . "usage" "link" "add_navigation" true "class" "wrap") }}
       <h1>
-        {{ .Title }}
+        {{ partial "func/get-chapter-heading.html" . }}
       </h1>
     </header>
 

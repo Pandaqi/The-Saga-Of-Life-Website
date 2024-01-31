@@ -1,5 +1,5 @@
 ---
-title: "3. Kleintocht"
+title: "Kleintocht"
 weight: 3
 ---
 

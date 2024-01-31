@@ -1,5 +1,5 @@
 ---
-title: "5. Jong geleerd"
+title: "Jong geleerd"
 weight: 5
 ---
 

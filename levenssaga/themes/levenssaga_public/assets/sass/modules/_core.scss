@@ -21,7 +21,7 @@
 
 // second rule to win the specificity war
 .flex-btn, a.flex-btn {
-  display: flex;
+  display: flex !important;
   align-items: center;
   align-content: center;
   gap: 0.75em;
