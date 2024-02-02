@@ -19,7 +19,7 @@ Ten tweede, de wolven zijn natuurlijk niet zomaar gekozen voor de Amori. Een van
 ## Romeinen vs Barbaren
 De Amori staan natuurlijk voor de Romeinen. (En Amor voor Rome.) Dit verhaal vind plaats redelijk vroeg in de tijdlijn van hun rijk.
 
-De Barbaren is, zoals het verhaal opmerkt, een veel te algemene term voor wat eigenlijk een grote groep diverse stammen waren. De meest bekende daarvan zijn de Germaanse stammen, waaraan _Germany_ (Duitsland)diens naam ontleent.
+De Barbaren is, zoals het verhaal opmerkt, een veel te algemene term voor wat eigenlijk een grote groep diverse stammen waren. De meest bekende daarvan zijn de Germaanse stammen, waaraan _Germany_ (Duitsland) diens naam ontleent.
 
 De Romeinen en de Barbaren waren niet perse vrienden. Maar de Barbaren waren met _veel_. Ze overliepen zo'n beetje heel Europa, en omdat ze altijd bleven rondtrekken, moesten ze dus vaak nieuw gebied innemen en waren steeds een gevaar.
 
@@ -43,11 +43,11 @@ Het hele idee van "beschaving" kan alleen bestaan als we beseffen wat "geen besc
 ## Over de wetten
 Ja, de Romeinen hadden wetten tegen "vreemdgaan". Wat betekende dat iedereen dus precies één partner (van het andere geslacht) mocht hebben, en met een ander in bed liggen was strafbaar.
 
-Zoals zo vaak in onze geschiedenis, was dit niet dezelfde straf voor man en vrouw. Een vrouw die vreemdging kreeg snel de doodstraf. Een man die vreemdging kon eronder uitkomen als er "goede reden voor was".
+Zoals zo vaak in onze geschiedenis, was dit niet dezelfde straf voor man en vrouw. Een vrouw die vreemdging kreeg snel de doodstraf. Een man die vreemdging kon er onderuit komen als er "goede reden voor was".
 
 Ook mocht je als vrouw dus niemand aanklagen. Als jij een vrouw was, en je man ging vreemd, dan moest je jouw _vader_ vragen om de rechtszaak te starten.
 
-En tevens golden de eerste wetten alleen voor Romeinen, niet voor buitenlanders. 
+Tevens golden de eerste wetten alleen voor Romeinen, niet voor buitenlanders. 
 
 (Dat betekende niet dat buitenlanders een soort vogelvrij waren en zomaar mochten worden bestolen of vermoord. Het betekende dat _als_ ze in de problemen kwamen, vaak andere regels werden toegepast. Meestal die van de _handel_, want buitenlanders kwamen vaak slechts om te handelen. Toerisme was niet zo'n ding in het tijdperk dat je een half jaar moest lopen om bij je favoriete strand te komen.)
 
@@ -93,6 +93,7 @@ _Sorteer dit op volgorde van hoofdstukken voordat ik de revisie doe.
 
 _Lees mijn "Revision for Run of Bar-Bar" article terug, die staat in Cyclus overzicht. Het hele verhaal moet op de schop_
 
+* **IDEE: Wolfar heeft goede intenties.** Hij denkt écht dat hij een betere koning is, dan zowel zijn vader als zijn broertjes. Hij geeft wél om rechtsspraak en daarom laat hij het allemaal doorgaan. Hij is niet de grote slechterik die hij nu is, want dat is eigenlijk niet interessant. 
 * De Romeinen drinken constant wijn. (In ieder geval de koningszonen.) 
 	* Dit wordt gezien als normaal en zelfs _goed_.
 	* Ook al zorgt dit uiteindelijk dat hij niet bij zinnen is als hij zijn broer doodt.
@@ -162,7 +163,10 @@ _Lees mijn "Revision for Run of Bar-Bar" article terug, die staat in Cyclus over
 * Ik laat de zaak rusten
 * Haha, ik zei het lekker toch
 
-@TODO: Noem eerder dat de bibliotheek open is voor iedereen (want natuurlijk moeten die edele Amori zich inlezen en intellectueel zijn), en de beste ingang biedt voor de missie van de barbaren. => Zo'n missie werkt allemaal een stuk beter als de lezer al van tevoren de plattegrond en obstakels _weet_.
+@TODO: Noem eerder dat de bibliotheek open is voor iedereen (want natuurlijk moeten die edele Amori zich inlezen en intellectueel zijn), en de beste ingang biedt voor de missie van de barbaren.
+* Zo'n missie werkt allemaal een stuk beter als de lezer al van tevoren de plattegrond en obstakels _weet_.
+* **IDEE:** Laat Ginsea een boek lezen in de bibliotheek van Ardex' uitspraken. Ardex (samen met Bella) is het meest van "wetten" en "orde", en het geeft een reden waarom Ginsea zijn uitspraken overneemt. 
+
 
 @TODO: Uitleggen dat alle deuren in paleis kleine balken op alle hoogtes hadden, zodat elk dier ze met poot of bek kon openen en sluiten.
 

@@ -72,7 +72,9 @@ H4 (eventueel):
 
 @TODO: Nog duidelijker dat de Kleischepper steeds zegt "Mijn berekeningen ..." en dat iedereen eroverheen praat/het negeert.
 
-@TODO: Duidelijker maken dat dit een gevolg is van verhaal 2 => De Akradi bestaan uit Jaguars die zinnen op "wraak"?
+@TODO: Duidelijker maken dat dit een gevolg is van verhaal 2 => De Akradi bestaan uit Jaguars die zinnen op "wraak"? => JA, DIT SOWIESO. 
+* Eerst duidelijk maken dat de Sumiser constant elkaars steden aanvallen _omdat die ander een tijd geleden hun stad had overgenomen_.
+* Dan duidelijk benadrukken dat de Akradi al langere tijd toewerken naar wraak nemen op de Asha voor wat zo lang geleden is gebeurd, maar ze weten gewoon niet waar ze heen zijn gegaan. (Totdat Prebuha hen weggeeft / ze zo door Sumiser kunnen lopen? Het moet niet te INGEWIKKELD worden.)
 
 @TODO: Witte/zwarte panda noemen aan begin, en aan het einde staan ze naast de stad en zijn zo van "Verdorie, we hadden het nog zo goed uitgedacht en gepland." En Jacintah die de schouders ophaalt en zegt: "Mwah, volgende keer beter."
 

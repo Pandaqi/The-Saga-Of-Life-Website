@@ -9,7 +9,9 @@ _Dit is dus de Amerikaanse Revolutie = geboorte van Amerika._
 
 **@IDEE:** Concentreer dit verhaal rondom een reeks **Prisoner's Dilemmas**. Jonge gasten hebben revolutionaire gedachten en vechten tegen de onderdrukking, maar dan worden ze gescheiden opgesloten en moeten ineens hun leven wedden op wat die ander gaat doen met het dilemma.
 
-**@IDEE: Dit is niet gewelddadig?** Ze krijgen het voor elkaar om de meest belangrijke werkers (boeren etc.) allemaal te laten _stoppen_ met werken, wat het hele rijk natuurlijk in één klap op de knieën krijgt.
+**@IDEE: Dit is niet gewelddadig?** 
+* Ze krijgen het voor elkaar om de meest belangrijke werkers (boeren etc.) allemaal te laten _stoppen_ met werken, wat het hele rijk natuurlijk in één klap op de knieën krijgt.
+* Dit om te benadrukken **dat de echte macht bij de gewone mens (in grote aantallen) ligt**.
 
 **@IDEA:** Ik zeg in de bundelbeschrijving iets over dat hun rebellion weinig succes kent en dat ze dus wachten/zoeken naar een "mythisch wonder". Dit is letterlijk bedoelt, maar wordt uiteindelijk figuurlijk: het wonder dat er genoeg _goede mensen aan de macht zijn_ die _goede dingen willen doen_, en zo de boel veranderen.
 
@@ -20,3 +22,4 @@ _Dit is dus de Amerikaanse Revolutie = geboorte van Amerika._
 
 Ik wil dat idee van "Evolution within groups" (altruïsme kan toch ontwikkelen omdat het helpt om jouw _groep_ sterker te maken dan andere _groepen_) => Kan eventueel ook bij de **Theekolonie**.
 
+**IDEE:** Dat ze proberen "netjes" oorlog te voeren en alleen militaire doelwitten van de tegenstander te raken. Maar ja, hoe kom je erachter welke dat zijn? Daarvoor doen ze dus spionnenmissies, "intelligence gathering", etcetera. Wat natuurlijk goed fout kan gaan als verkeerde informatie wordt doorgegeven => is DIT wat er gebeurd met vertrouwen in Theekolonie? => Als dit niet past, dan naar Oorlogen zonder Zin (cyclus 15 nu)

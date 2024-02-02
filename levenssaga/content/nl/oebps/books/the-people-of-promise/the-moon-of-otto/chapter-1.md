@@ -52,6 +52,7 @@ Here's a vague outline.
 	* As their empire is bombed behind them, they realize that aircraft from the enemy was hiding the moon from view. They're one of the few to survive this event.
 	* **@IDEA (There's A Light That Will Never Go Out): (perhaps introduced earlier)** Moon is always the only one with her lights on during the night, as she paints the moon. She says: "As long as my light is on, I will love you. Come in time and we'll run away together" => Or maybe "her light" is just a metaphor for her moon, which does NOT appear this one evening.
 * Chapter 10 = the empire is defeated at the end of World War 1. It's dissolved into tiny chunks, basically leading to the MIddle-Eastern conflicts we know today.
+	* Het Rijk van Otto moet wel echt inzetten hoe dat hele midden-oosten uit elkaar viel toen het rijk plots stopte.
 
 The general lesson of this story is "No power without the powerless", which might be amended with a general lesson about pursuing "useless" things (like art) because you never know when they might be useful.
 
