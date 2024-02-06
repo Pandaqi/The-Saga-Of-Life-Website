@@ -1,7 +1,7 @@
 ---
 title: "De Maan van Otto"
 weight: 7
-date: 2024-01-31
+date: 2024-09-12
 uniqueID: "the-moon-of-otto"
 
 book: true

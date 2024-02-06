@@ -1,7 +1,7 @@
 ---
 title: "De Handtekening van de Rivier"
 weight: 3
-date: 2023-12-26
+date: 2023-04-12
 #url: "oebps/books/de-beschavingen-van-belofte/de-handtekening-van-de-rivier"
 uniqueID: "the-sign-of-the-river"
 

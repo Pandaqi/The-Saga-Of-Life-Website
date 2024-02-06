@@ -1,9 +1,7 @@
 ---
-draft: false
-
 title: "De Kenniskwaal"
 weight: 6
-date: 2024-01-16
+date: 2024-06-12
 uniqueID: "the-illness-of-intellect"
 
 book: true

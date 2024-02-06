@@ -1,9 +1,7 @@
 ---
-draft: false
-
 title: "De Ren van Bar-Bar"
 weight: 5
-date: 2024-01-16
+date: 2024-06-12
 uniqueID: "the-run-of-bar-bar"
 
 book: true
