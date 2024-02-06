@@ -87,7 +87,7 @@ Maar er ligt wel **een plan**. Een tijdlijn, de geheime rode draad, waarvoor zek
 
 De levenssaga zal dus constant blijven groeien en ontwikkelen. Daarom staat er bijvoorbeeld geen wereldkaart op de website: terwijl ik dit schrijf, zijn grote delen nog leeg (of zouden spoilers bevatten). 
 
-Essentieel hierbij is **feedback**. Als je een verhaal minder vond, of juist geweldig, laat het weten! Mail me op: [tiamo@rodepanda.com](mailto:tiamo@rodepanda.com)
+Essentieel hierbij is **feedback**. Als je een verhaal minder vond, of juist geweldig, laat het weten! Mail me op: [tiamopastoor@gmail.com](mailto:tiamopastoor@gmail.com)
 
 ## Overig
 

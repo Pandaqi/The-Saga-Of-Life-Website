@@ -84,7 +84,7 @@ But there is **a plan**. A time line, a secret thread. I aim to write one cycle 
 
 The Saga of Life will keep growing and developing. That's why there's no world map on the website, for example: as I write this, large parts are either empty _or_ would contain spoilers.
 
-**Feedback** is essential with such a project. If you didn't like a story, or loved, let me know! If the website doesn't work for you, or you didn't understand part of a story, let me know! Mail me at: [tiamo@rodepanda.com](mailto:tiamo@rodepanda.com).
+**Feedback** is essential with such a project. If you didn't like a story, or loved, let me know! If the website doesn't work for you, or you didn't understand part of a story, let me know! Mail me at: [tiamopastoor@gmail.com](mailto:tiamopastoor@gmail.com).
 
 ## Miscellaneous
 
