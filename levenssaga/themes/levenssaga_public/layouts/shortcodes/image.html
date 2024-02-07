@@ -5,7 +5,7 @@
 		{{- range first 1 . -}}
 		{{- $scaled := .Resize $size -}}
 <figure>
-<img src="{{ $scaled.RelPermalink }}" alt="{{ $caption | default $.Page.Title }}" />
+<img src="{{ $scaled.RelPermalink }}" alt="{{ $caption | default $.Page.Title }}" decoding="async" loading="lazy" />
 <figcaption>{{ $caption }}</figcaption>
 </figure>
         	{{- end -}}

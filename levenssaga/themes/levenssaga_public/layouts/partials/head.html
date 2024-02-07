@@ -34,14 +34,9 @@
 <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}">
 <link rel="icon" type="image/x-icon" href="/oebps/marketing/levenssaga_logo_color_detail_favicon.png">
 
-<!-- Canonnical URL based on language (to allow multi-domain without duplicate content) -->
+<!-- Canonical URL based on language (the English main domain is the only correct one) -->
 {{ $page_lang := .Page.Lang }}
-{{ $canonical := .RelPermalink }}
-{{ if eq $page_lang "nl" }}
-  {{ $canonical = add "https://delevenssaga.nl" $canonical }}
-{{ else if eq $page_lang "en" }}
-  {{ $canonical = add "https://thesagaoflife.com" $canonical }}
-{{ end }}
+{{ $canonical := printf "https://thesagaoflife.com%s" .RelPermalink }}
 <link rel="canonical" href="{{ $canonical }}" data-lang="{{ $page_lang }}">
 
 <!-- Progressive Web App essentials -->

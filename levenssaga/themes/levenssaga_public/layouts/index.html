@@ -2,13 +2,13 @@
   <div class="welcome-message-container">
     <section class="welcome-message">
       <div class="favicon-logo">
-        <img src="/oebps/marketing/levenssaga_logo_color_detail.webp" alt="Logo Saga of Life (color, detailed)" />
+        <img src="/oebps/marketing/levenssaga_logo_color_detail.webp" alt="Logo Saga of Life (color, detailed)" decoding="async" loading="lazy" />
       </div>
       <div class="logo-and-text">
         <div class="textual-logo">
           {{ $lang := .Site.Language.Lang }}
           {{ $url := printf "/oebps/marketing/levenssaga_textual_logo_%s.webp" $lang }}
-          <img src="{{ $url }}" alt="Textual Logo for The Saga of Life" />
+          <img src="{{ $url }}" alt="Textual Logo for The Saga of Life" decoding="async" loading="lazy" />
         </div>
         <div>
           <p>

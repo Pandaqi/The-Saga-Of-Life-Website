@@ -13,7 +13,7 @@ Wie _alles_ leest, echter, krijgt een groter beeld van een gigantische wereld vo
 
 ## Voor wie is het?
 
-De verhalen zijn zelfstandig te lezen vanaf ongeveer acht jaar. Ik test dit mede via de bekende Flesch test voor _leesbaarheid_, waarvan de resultaten onder elk verhaal staan.
+De verhalen zijn zelfstandig te lezen vanaf ongeveer 8 jaar. Ik test dit mede via de bekende Flesch test voor _leesbaarheid_, waarvan de resultaten onder elk verhaal staan.
 
 Maar het doel van deze saga is om _universele_ verhalen te vertellen. Van die mythes en legendes die zowel kinderen als volwassenen kennen, zodat elke leeftijdsgroep ervan kan genieten. 
 
@@ -25,21 +25,23 @@ Hoewel ik dus kindvriendelijk schrijf, bevat het leven veel mindere elementen. D
 
 Onzeker waar je moet beginnen? Check mijn pagina [Waar moet ik beginnen?](/nl/waar-moet-ik-beginnen).
 
-## De proefperiode (2022-2024)
+## De proefperiode (2022-??)
 
 Dit project is dermate experimenteel dat ik besloot te beginnen met een soort proefperiode (of "beta phase").
 
 Voor nu staan _alle_ verhalen gratis online en zijn er nog _geen_ fysieke versies te koop. De verhalen kunnen nog worden aangepast. De website kan nog ingrijpend veranderen. Het staat nog in de steigers, als het ware.
 
-_Wanneer eindigt dit?_ Zodra ik zeker weet dat de website, het concept, en de eerste cyclus verhalen zo sterk en foutloos mogelijk zijn. Zodra er genoeg bekendheid en interesse is om definitief naar officiële uitgaves te gaan. Ik verwacht dat dit halverwege 2024 gebeurt.
+_Wanneer eindigt dit?_ Zodra ik zeker weet dat de website, het concept, en de eerste verhalen zo sterk en foutloos mogelijk zijn. Zodra er genoeg bekendheid en interesse is om definitief naar officiële uitgaves te gaan. Ik verwacht dat dit rond 2025 gebeurt.
 
 ## Hoe werkt de website?
 
-Deze website _is_ de Levenssaga. Het bevat alle verhalen _behalve_ de allernieuwsten, die zijn voor een tijd alleen te koop. 
+Deze website _is_ de Levenssaga. Officiële boeken---die je dus zal kunnen kopen zodra de proefperiode voorbij is---zijn simpelweg een mooie opgemaakte uitdraai van deze exacte website.
 
-De betaalde versies zijn een uitdraai van deze website. Dus je hoeft geen account te maken, de verhalen stoppen niet ineens na twee hoofdstukken, het staat je vrij om alles te lezen, en je mist niks.
+Sterker nog, de website is open source! Je kan gratis de gehele inhoud en code zien of downloaden van deze link: [Saga of Life (on GitHub)](https://github.com/Pandaqi/The-Saga-Of-Life-Website).
 
-**Nieuw hier?** Begin bij het [allereerste verhaal](/nl/oebps/books/de-verbannen-familie).
+Dus je hoeft geen account te maken, de verhalen stoppen niet ineens na twee hoofdstukken, het staat je vrij om alles te lezen, en je mist niks.
+
+**Nieuw hier?** Begin bij het [allereerste verhaal](/nl/oebps/books/de-verbannen-familie). Of één van de [Starter verhalen](/nl/genre/starter/).
 
 **Op zoek naar iets?** Gebruik de vele zoekfuncties op de website! Onderin vind je een [zoekbalk](#zoekbalk). Onderaan elk boek staat informatie waarop je kunt klikken. Op de [voorpagina](/nl/#verhalen-zoeken) kan je zoeken per tijdperk/cyclus/genre. 
 
@@ -53,7 +55,7 @@ Het helpt om deze website online te houden en te laten groeien. Het geeft mij ee
 
 ## Copyright
 
-De volledige copyright van de Levenssaga ligt bij Tiamo Pastoor. De (gratis) toegankelijkheid van deze website verandert daar niks aan. (Onderaan elke pagina staat de _copyright notice_.)
+De volledige copyright van de Levenssaga ligt bij Tiamo Pastoor. De gratis toegankelijkheid van deze website verandert daar niks aan. (Onderaan elke pagina staat de _copyright notice_.)
 
 Verhalen (of delen ervan) mogen niet worden gekopieerd, vermenigvuldigd, of anderzijds (her)gebruikt zonder expliciete toestemming van de copyright eigenaar.
 
@@ -69,7 +71,7 @@ Zolang een verhaal alleen digitaal beschikbaar is, sta ik open voor alle feedbac
 
 Dit betekent niet dat ik halve verhalen plaats. Ik doe mijn uiterste best om een verhaal perfect te krijgen voordat hij publiek gaat. Maar alles kan altijd nét iets beter!
 
-## Waar kan ik het kopen? (nog niet dus)
+## Waar kan ik het kopen? (nog niet dus!)
 
 De boeken zijn **fysiek (paperback)** en **digitaal (ebook)** te koop. Zoek op "De Levenssaga" en je favoriete (boeken)winkel. Of gebruik de links hieronder.
 
@@ -77,15 +79,20 @@ Elk boek is een _bundel_ van twee verhalen uit een ander tijdperk in Somnia. Er 
 
 Bij elke bundelpagina staat ook een link om het boek te kopen. Dit is [de eerste bundel](/nl/bundle/droomdinos-knuffelgoden). Of gebruik [dit overzicht van alle bundels](/nl/bundle/).
 
-Het heeft mijn voorkeur als je _niet_ bij Bol.com koopt, want die pakken een belachelijk groot deel van de opbrengst af. Elke andere winkel is prima en betrouwbaar, de prijs is overal hetzelfde.
+Het heeft mijn voorkeur als je _niet_ bij Bol.com koopt, want die pakken een belachelijk groot deel van de opbrengst af. (Ditzelfde geldt voor de andere "grote" websites die bijna iedereen gebruikt en dus een monopolie hebben waarvan ze misbruik maken.) Elke andere winkel is prima en betrouwbaar, de prijs is overal hetzelfde.
 
 ## De toekomst
 
-Deze saga is zo opgezet dat er altijd méér verhalen kunnen worden verteld. Ik ben dan ook van plan om zo lang mogelijk de saga uit te breiden, eventueel tussen andere projecten door of als ik eens een vrije week heb. 
+Deze saga is zo opgezet dat er altijd méér verhalen kunnen worden verteld. Ik heb geen illusies over dat het ooit "af" is, de hele menselijke geschiedenis verteld, de hele wetenschap uitgelegd. Dat is natuurlijk onmogelijk!
 
-Maar er ligt wel **een plan**. Een tijdlijn, de geheime rode draad, waarvoor zeker 10 cycli ( = 100 verhalen) nodig zijn.
+Maar er ligt wel **een plan**. Een tijdlijn, enkele rode draden, dingen die ik perse wil hebben behandeld.
+Daarvoor zullen zeker 10 cycli ( = 100 verhalen) nodig zijn, hoewel het plan zich nu strekt tot 40 cycli.
 
-De levenssaga zal dus constant blijven groeien en ontwikkelen. Daarom staat er bijvoorbeeld geen wereldkaart op de website: terwijl ik dit schrijf, zijn grote delen nog leeg (of zouden spoilers bevatten). 
+Het doel is om **één cyclus per jaar** te schrijven, wat 2 of 3 verhalen per seizoen betekent. 
+
+Ook sta ik geheel toe dat ik over tijd zal veranderen als persoon en als schrijver, dus het soort verhalen, de kwaliteit, de thema's, het zal allemaal drastisch veranderen over de jaren. (Dit zie je nu al terug als je de allereerste verhalen vergelijkt met de allerlaatste, slechts enkele jaren van elkaar verwijderd!)
+
+De Levenssaga zal dus constant blijven groeien en ontwikkelen. Daarom staat er bijvoorbeeld geen wereldkaart op de website: terwijl ik dit schrijf, zijn grote delen nog leeg (of zouden spoilers bevatten). 
 
 Essentieel hierbij is **feedback**. Als je een verhaal minder vond, of juist geweldig, laat het weten! Mail me op: [tiamopastoor@gmail.com](mailto:tiamopastoor@gmail.com)
 

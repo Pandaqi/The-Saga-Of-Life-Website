@@ -13,28 +13,28 @@
     <button id="bookshelfBtn" data-url="{{ $base_url }}/{{ $bookshelf_text }}">
       {{ $bookshelf_tooltip := i18n "bookshelf-tooltip" }}
       {{ $bookshelf_alt := i18n "bookshelf-alt" }}
-      <img src="/oebps/ui/boekenkast_knop.webp" class="font-button" title="{{ $bookshelf_tooltip }}" alt="{{ $bookshelf_alt }}" />
+      <img src="/oebps/ui/boekenkast_knop.webp" class="font-button" title="{{ $bookshelf_tooltip }}" alt="{{ $bookshelf_alt }}" decoding="async" loading="lazy" />
     </button>
 
     <!-- it's a class because there can be MULTIPLE of this type on the page -->
     <button class="changeFontBtn">
       {{ $font_tooltip := i18n "font-tooltip" }}
       {{ $font_alt := i18n "font-alt" }}
-      <img src="/oebps/ui/lettertype_knop.webp" class="font-button" title="{{ $font_tooltip }}" alt="{{ $font_alt }}" />
+      <img src="/oebps/ui/lettertype_knop.webp" class="font-button" title="{{ $font_tooltip }}" alt="{{ $font_alt }}" decoding="async" loading="lazy" />
     </button>
 
     {{ if .IsTranslated }}
       <button class="changeLanguageBtn">
         {{ $language_tooltip := i18n "language-tooltip" }}
         {{ $language_alt := i18n "language-alt" }}
-        <img src="/oebps/ui/language_button.webp" class="font-button" title="{{ $language_tooltip }}" alt="{{ $language_alt }}" />
+        <img src="/oebps/ui/language_button.webp" class="font-button" title="{{ $language_tooltip }}" alt="{{ $language_alt }}" decoding="async" loading="lazy" />
       </button>
     {{ end }}
 
     <button id="gotoBottomBtn">
       {{ $goto_bottom_tooltip := i18n "goto-bottom-tooltip" }}
       {{ $goto_bottom_alt := i18n "goto_bottom-alt" }}
-      <img src="/oebps/ui/beneden_pijl.webp" class="bottom-arrow" title="{{ $goto_bottom_tooltip }}" alt="{{ $goto_bottom_alt }}" />
+      <img src="/oebps/ui/beneden_pijl.webp" class="bottom-arrow" title="{{ $goto_bottom_tooltip }}" alt="{{ $goto_bottom_alt }}" decoding="async" loading="lazy" />
     </button>
   </div>
 
@@ -42,7 +42,7 @@
   <nav id="site-header-navigation">
     <span class="crumb-container">
       <a href="{{ $base_url }}">
-        <img class="story-icon story-icon-small inversion-disabled" src="/oebps/marketing/levenssaga_logo_blackwhite_detail.webp" alt="Levenssaga logo, zwartwit en simpel" />
+        <img class="story-icon story-icon-small inversion-disabled" src="/oebps/marketing/levenssaga_logo_blackwhite_detail.webp" alt="Levenssaga logo, zwartwit en simpel" decoding="async" loading="lazy"/>
       </a>
       <a href="{{ $base_url }}">{{ $site_name }}</a>
     </span>
