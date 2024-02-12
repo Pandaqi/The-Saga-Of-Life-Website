@@ -1,31 +1,123 @@
 ---
-title: "??"
+title: Onbehulpzame Helers
 weight: 1
 ---
+Catia werd gevraagd om ondersteboven te gaan hangen en de vleugel van een kip over haar gezicht te wrijven. De zwarte poes keek haar heler---een uil met een bril---vol verbazing aan. 
 
+"Niet zo kijken, meisje," mopperde haar moeder. "Doe wat de aardige man zegt."
 
+Een scheut pijn trok door Catia's ruggengraat. Het was weer een slechte dag. De tintelingen waren definitief uitgestraald naar haar linkerpoot, en de hoofdpijn was zo erg dat elk geluid een explosie leek.
 
+Met geklemde kaken volgde ze de bevelen van heer Owin. Ze hing minutenlang ondersteboven van het plafond en wreef totdat ze kippenveren op haar tong had. Ze had niet het idee dat het iets deed.
 
+"En?" vroegen haar ouders hoopvol. "Beter?"
 
-## Outline
+Catia kon nauwelijks praten zo. "Raarder."
 
-This is a possible combination of the ideas.
-* The ill protagonist is extremely rich. Maybe they're royal family, or noble, or something close. That's how they can _pay_ for all those "advanced healers" and stuff. But all that money does not actually cure her. 
-	* **Inciting Incident:** find a cure or die. (Urgent, certain loss, goal is to survive, obstacle is the illness.)
-* The other protagonist comes from a very poor background. She is cast out, alone, nearly dying from hunger and cold.
-	* **Inciting Incident:** her goal is to belong to the group, giving her safety and food. (Urgent, certain loss, goal is to survive, obstacle is the fact she has nothing to offer)
-	* She _lies_ about someone and gets them drowned for being a witch, just to belong to the group. ("Yes! I was there. This woman had a room full of skeletons and a potion brewing!")
-	* She invents something, but asks the other to really stay quiet about it or she's called a witch, just to belong to the group.
-	* But now that she belongs, she obviously has to take over their opinions and their ideas. And they especially despise those rich noble families.
+"Het heeft tijd nodig," zei Owin met een langzame en deftige stem. "Geef het minstens een maand. Ik zal regelmatig langskomen."
 
-In all of this, there's the lesson of **no learning without failing** => they constantly try something, fail to reach their end goal, then must pick up the pieces to try again
+Hij wierp twee rauwe eieren in een beker met melk, en gebruikte vervolgens wat modder en blaadjes om het drankje de meest vieze kleur mogelijk te geven. Daarna zette hij de beker tegen Catia's tong, die uit reflex haar mond dichtsloeg.
 
-This is more like it. Over time, the ill one will seek out help from those that are supposed to "despise" her (coming in contact with the other one), as the other gets involved more and more deeply in lies and potential giveaways that might mark her a witch. This culminates in both being tracked down, caught after a chase, and burned at the stake / drowned / whatever witch trial they come up with.
+"En dit moet je elke dag drinken," zei hij. Zijn hoofd knikte bij elk woord, alsof hij het steeds eens was met zichzelf.
 
-But an invention helps them survive and combining powers, finishing their experiments, finds a cure for her illness just in time.
+"Ieuw. Echt niet."
 
-(And, as stated, some plot twists about people _knowing_ everyone is lying and still going along. And how that has stifled progression in forever. The cure is probably something obvious and simple---maybe one of the others stumbled onto it "by accident" before, but was afraid to let it be known, for fear of being called a witch!)
+Catia begon licht in haar hoofd te worden. Dat hielp de hoofdpijn zeker niet. Haar lichaam was al maandenlang steeds zieker en ze had het idee dat ze moe genoeg was om een hele week te slapen.
 
-**@IDEA: "living in denial".** One character drinks way too much (alcohol). But they come from a family where _all_ of them do that, so they're like "I don't drink any more than anyone else! This is alright!" Even as they decline further and further, get more and more ill, etcetera. 
+"Catia! Gedraag jezelf!" zei moeder. Daarna fluisterde ze in haar oor: "We betalen door onze _snorharen_ voor deze dure heler! Hij is één van de beste. Doe wat Owin zegt en ik weet zeker dat je geneest."
 
-Even when they're _treated_ for it, their family keeps secretly getting them more alcohol, until they die without ever even realizing the truth?
+Ze hielpen haar eindelijk omlaag. Toen ze haar loslieten, viel Catia meteen om, haar zicht zwart en niet in staat om haar eigen poten te gebruiken. Geschrokken tilden haar ouders haar richting het zachte bed in de hoek.
+
+"Misschien," zei Catia met schorre stem, "kan Owin dan uitleggen _waarom_ dit zou werken?"
+
+"Och, ja, natuurlijk," zei hij, terwijl de uil zijn buidel met spullen weer inpakte en op zijn vleugels vastmaakte. "Er zit een ziekte in je hoofd, die geeft hoofdpijn. Dus ondersteboven hangen zorgt dat die ziekte er langzaam uitloopt, als een druppelende kraan."
+
+"En de kip?"
+
+"Kippenveren stimuleren de spieren. Dat wist zelfs Bella het godenkind al! Algemene kennis, algemene kennis."
+
+"Ah ja. Natuurlijk."
+
+Haar ouders hielpen Owin op weg naar buiten. De villa was een groot, onbegaanbaar doolhof voor ieder die er niet zelf woonde. De vorige vijf helers waren verdwaald.
+
+Catia klemde haar kaken opnieuw. Scheuten pijn trokken door haar lichaam, nu al wekenlang, steeds feller en steeds vaker. Ze rolde in haar bed, keerde op haar ene zij, en haar andere, maar niks liet het verdwijnen. Alsof haar lichaam van binnenuit door die ziekte werd opgevreten.
+
+Eerst had ze nog gejankt van de pijn. Zelfs dat stadium was ze nu voorbij. Haar leven was nu gewoon een doffe dreun tegen haar lichaam en ze verloor langzaam de hoop dat _iets_ haar ging genezen.
+
+Ze was jong! Zou ze niet sterk moeten zijn? Nog negen levens hebben? Het was oneerlijk, en stom, en waarom kochten haar ouders niet _de beste heler_ van al hun geld?
+
+Moeder kwam naast haar zitten. Hun butler kwam langs om eten te brengen en Catia's bed te verschonen. Hun assistente stak snel een paar kaarsen langs de muren aan, maar vluchtte toen ze moeders gezicht zag. 
+
+"Je gaat nooit genezen als je dit niet serieus neemt, lief," zei moeder.
+
+"Ik neem het serieus. Ik doe die oefeningen. Ik slik die gore medicijnen. Maar _niks werkt_."
+
+Moeder zuchtte. Ze was een mooie zwarte poes, altijd gestoken in de meest hippe kleding en haar vacht glanzend schoon. Maar Catia's ziekte had zelfs haar ouders inmiddels uitgeput en diepe rimpels in het gezicht gegeven. Ergens voelden ze allemaal dat dit geen griepje was die wel over zou gaan. 
+
+"Ik moet toegeven dat hij minder goed was dan ik had verwacht. Zeker voor al dat geld dat hij vraagt."
+
+"We moeten de beste heler hebben," zei Catia zelfverzekerd. "Owuit de Heldenheler."
+
+"Maar lief, je weet toch dat hij ..."
+
+"Ik zal alles doen wat hij vraagt! Hij is al dat geld waard."
+
+Haar moeder keek weg. Vanuit hun villa op de heuvel konden ze de prachtige natuur in de omgeving zien---en alle arme, vieze sloppenwijken van een nette afstand. 
+
+"Het is ook bijna _al_ ons geld dat we nog hebben. Owuit accepteert niet alle patiënten, alleen degene waarvan hij zeker weet dat hij ze kan genezen."
+
+"Maar daarom is hij legendarisch: _alle_ patiënten in zijn kliniek zijn altijd genezen! Hij zal mij opnemen. Ik weet het zeker!" 
+
+Catia vertelde het vooral tegen haarzelf. Haar moeder zou al dat geld zonder problemen uitgeven om haar dochter te redden. Catia wilde gewoon de hoop houden dat de pijn weer een keer verdween.
+
+Dus moeder overlegde met vader. Een kluis werd geopend, helemaal leeggehaald, en daarna omringd door bewakers in hun koets geplaatst. Even later tilden ze Catia naar de achterbank, maar ze wilde perse zelf lopen. Dat korte stukje lukte tenminste nog. Een kleine overwinning.
+
+Diezelfde avond nog reden ze naar het enorme landgoed van Owuit.
+
+De comfortabele koets, met nog zachtere banken, gleed geruisloos over de vlakke paden. Catia dommelde vrijwel meteen in slaap.
+
+Maar de weg werd steeds hobbeliger naarmate ze dichterbij de binnenstad kwamen. Zelfs op dit late tijdstip was het rumoerig. De bedelaars en de verkopers mengden met elkaar tot eindeloos gejammer om geld, hulp, eten, of alle drie.
+
+Een felle _klap_ schokte Catia overeind.
+
+Haar raam was besmeurd met iets roods. Tomaat? Ja, weer tomaat.
+
+Ze wist precies door welke wijk ze reden. En de dieren hier, in gerafelde kleding of uitgehongerde lijven, wisten precies wie er in dit soort koetsen zaten. De stemmen kwamen akelig dichtbij. Eentje schreeuwde om de "rijke stinkerds" uit de koets te sleuren. Een ander rammelde aan de touwen die de paarden aan de koets verbonden.
+
+Catia's hart bonkte in haar keel. De paarden maakten extra vaart. Haar ouders schoven hun warme lichaam tegen haar aan totdat het moment voorbij was. De ruiten moesten gewassen, maar ze leefden tenminste nog.
+
+En zo kwamen ze bij Owuits landgoed. Zelfs de poort was gemaakt van goud en zilver, hoog en breed genoeg om een olifant toegang te bieden. De hele plek straalde iets magisch uit. Een plek van kennis, en wetenschap, en geneeskunde.
+
+Ja. Hier zou Catia worden opgenomen en genezen. Het ging lukken. De pijn zou---
+
+Haar ouders gebruikten hun zak geld en aanzienlijke macht om meteen de poort open te krijgen. Catia wist niet precies wat haar ouders zo belangrijk maakte, maar ze was blij dat het zo werkte. Ze hadden een hoop land. Maar waarom? Waarom waren stukjes land het eigendom van dieren? Haar vader en moeder leken nooit _aan het werk_?
+
+Owuit kwam zelf naar buiten vliegen. Een goed teken? Zijn vleugels waren zo lang dat ze soms de grond schraapten bij het lopen. Zijn ogen waren bijna te groot voor zijn hoofd en hij droeg drie brillen over elkaar.
+
+De deur vloog open. Koude wind blies over Catia's lichaam om de rillingen tweemaal heftiger te maken. Ze werd naar buiten gedragen en gepresenteerd als een pasgeboren lammetje---hopelijk niet voor de slacht.
+
+"Wat zijn de klachten?" vroeg Owuit, terwijl hij van bril wisselde. Catia wilde het zelf vertellen---het was potjandorie haar lichaam---maar ze had de kracht niet meer.
+
+"Het begon maanden geleden met zwakke poten, hoofdpijn, altijd koud. Nu kan ze bijna niet meer zelf staan of lopen, en wil alleen maar slapen tegen de pijn en de harde geluiden." Moeders stem brak bijna in tranen uit. "Alsjeblieft. Help haar. We hebben alles gegeven dat we nog hadden."
+
+Owuit wisselde opnieuw van bril. Hij boog zich over Catia. Moesten ze dit _buiten_ doen? Wat was de haast? Ze dacht terug aan alle andere legendes over patiënten met gekke ziektes die Owuit had genezen. En ja, in al die legendes werd de beslissing ook _buiten_ gemaakt. Je mocht pas naar binnen als hij je definitief opnam.
+
+Zijn pufferige vleugels draaiden als een warme deken om haar lichaam. Hij tilde elke poot één voor één op, tilde haar oogleden pijnlijk ver omhoog, en stak een dun apparaatje in haar oren. Hij was nu al langer bezig met fatsoenlijk onderzoek dan al die andere helers.
+
+Daarna keek hij haar erg zorgelijk en verdrietig aan.
+
+"Nee toch ..." snikte haar moeder.
+
+"Alsjeblieft," kraakte Catia. "Zo erg is het niet. Ik heb andere klachten---"
+
+Haar zin werd onderbroken door een hoest die bijna een minuut lang aanhield. Die wijze uilenogen keken lang recht in die van Catia.
+
+"Oh! Dat heb ik gemist," zei Owuit ineens. Hij toverde een bladzijde tevoorschijn met allerlei schematische tekeningen en gekrabbel in een handschrift dat echt niemand kon lezen. Hij trok het puntje van zijn vleugel eroverheen, alsof hij iets natekende, en knikte tegen zichzelf. Blijkbaar deden alle helers dat.
+
+Daarna glimlachte hij en nam Catia mee.
+
+"Welkom op mijn landgoed. Kom binnen."
+
+Haar hart maakte een sprong en van opluchting dommelde ze weer weg in zijn grote vleugels.
+
+"Het eerste dat we gaan proberen is ondersteboven van het plafond hangen."
