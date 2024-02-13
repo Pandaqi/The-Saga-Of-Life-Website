@@ -2,67 +2,138 @@
 title: Gered Door God
 weight: 4
 ---
-Felicia luisterde met groeiende frustratie naar de gesprekken tussen Dormas, de helers, en haar nieuwe "vrienden".
+Felicia luisterde met groeiende frustratie naar de gesprekken tussen Dormas, de helers, en haar nieuwe "vrienden". Alleen de uilen konden voor zichzelf werken en grote hoeveelheden geld vragen; alle andere diersoorten die geneeskunde deden werkten samen in een gebrekkig ziekenhuis als deze. Vaak probeerden ze dan dezelfde diersoort te regelen als de patiënt.
 
-OUTLINE:
-* Ze hebben alsnog alcohol meegenomen naar het ziekenhuis. (Ook al kreeg hij dus te horen om natuurlijk niks meer te drinken enzo.)
-* Felicia geeft haarzelf bijna weg en gaat "tegen de groep in". Dat is het moment dat ze realiseert dat zij meededen met haar leugen zodat _zij_ ook _voor hen zou liegen_ als dat nodig was. ("Je begrijpt volgens mij niet helemaal hoe het werkt, poesje.")
-* Dan halverwege gaat ze op zoek naar Catia en verbergt haar, begint het proces van genezing.
+Zo stond er dus een vrouwtjeshond naast Dormas' bed die vroeg: "Heb je onlangs iets gedaan dat God zou kunnen beledigen?"
 
+"Nee, nee," brabbelde Dormas. "Altijd netjes op Zaterdag naar de kerk."
 
+"Zondag bedoelt hij natuurlijk," corrigeerde de vos waarvan Felicia nu wist dat ze Fonza heette en altijd _iedereen_ corrigeerde.
 
+De hond kraste met haar nagels iets in de harde grond naast het bed en zuchtte. "In dat geval, netjes drie keer bidden tot God en vragen om genezing elke dag. En natuurlijk géén alcohol meer."
 
+"Pardon?" blafte Dormas. "Wat heeft dat ermee te maken?"
 
-Zwarte kat, kraai, hond, uil, paard/eenhoorn, giraffe, vleermuis, olifant, griffioen?
+Hun heler keek vol ongeloof. Ze griste zelf maar alle bekers van het tafeltje en rende naar de volgende patiënt. Felicia haalde opgelucht adem. Dit verhoogde de kansen op genezing voor de oude hond.
 
+Twee kraaien kwamen de grote tent binnen. "Wij zoeken een vos," zeiden ze meteen dreigend. "Iemand die al maandenlang stiekem vist uit de rivier en de slachtoffers opeet. Tienvoudige moord is dat! Wie iets weet, stap naar voren."
 
+"Of, eh," voegde de andere kraai toe, "blijf natuurlijk in bed liggen met je zieke lichaam en zeg het tegen ons."
 
-## Specifieke Outline
-H4-H5: Ze doen testen, ze proberen aan ingrediënten te komen, en dat allemaal met constant de angst dat ze worden gesnapt.
-* Die zieke met alcoholverslaving wordt erger en erger, terwijl iedereen elkaar vertelt "nee je dronk echt niet te veel" en "bid tot god en het komt goed", terwijl ze alcohol blijven meenemen om "de pijn te verzachten"
-* Zij verwikkelt zich in steeds gekkere leugens om er maar bij te horen en geen heks te worden gevonden.
+Felicia keek naar Fonza, de enige vos in deze kamer, die meteen ineenkromp. Een paar puzzelstukjes vielen op hun plek. Fonza had moedwillig misschien wel honderden vissen---inwoners van de stad---opgegeten. Met wie was ze in hemelsnaam vrienden geworden?
 
-Tegelijkertijd ontmoeten ze dat karakter dat slim is en de toekomst goed ziet enzo. Die zegt dat eerlijk en wordt uit de buurt geschopt.
+De kraaien wilden haar natuurlijk ook als eerste spreken.
 
-H6: Diegene met verslaving sterft. Misschien doen ze een laatste poging hen te redden, of misschien komen mensen daarom op bezoek, maar zonder bescherming worden ze ineens betrapt.
-* Ergens hier komen Owuits uitspraken (over dat heksen niet bestaan, veel medicijnen onzin zijn, etcetera) naar buiten en wordt hij ineens ook verdreven van zijn landgoed? Of ziet men langzaam dat de lijn tussen Heler en Heks nogal dun is?
+"Ik was het niet hoor, agenten," zei Fonza lacherig. "Ik weet niet eens over welke rivier je het hebt."
 
-H7-H8: ze vluchten, schuilen, worden achterna gejaagd (die "slimme" is hierin ook belangrijk, en vertelt dat ziekte ongeneesbaar is).
+"Ja ze is bang voor water," zeiden haar vrienden meteen. "Allergisch zelfs!"
 
+"Fonza, zei je niet laatst dat je al jaren geen vis meer had gehad?"
 
-H9: ze worden gepakt, op brandstapel (of andere heksentest), maar een uitvinding (of iets chemisch tegen dat vuur?) redt hun levens. Maar ja, ze hebben _de brandstapel overleeft_, dus ze moeten wel een heks zijn! Dit alles laat hen inzien dat anderen napraten om er maar bij te horen geen enkele zin heeft,
+"Ja, vis is nou _precies_ wat een heks zou eten!" zei Fonza. Daarna plakte ze vluchtig erachteraan: "Maar ik zal God vragen dat de dader van deze grote misdaad zo snel mogelijk wordt gevonden."
 
-H10: Chef arriveert om haar Boek der Betekenis terug te stelen van die "slimme persoon". Zij draait het perspectief dus om en helpt haar alsnog te genezen.
+De kraaien fluisterden iets naar elkaar, maar lieten Fonza voor nu alleen.
 
-ERGENS nog iets over hoe Felicia's ouders dus zijn opgesloten/verbannen vanwege hun kritiek op geloof en focus op wetenschap?
+De hele groep zat er stil en bevroren bij totdat zowel de kraaien als hun heler uit de tent waren.
 
-@IDEE: Owuit behandelt Catia op deze manier om niet haar hoop weg te halen in de laatste dagen. Hij behandelt in het algemeen iedereen op die "bizarre manier" als een rookgordijn zodat hij niet wordt opgepakt door de kerk.
+Fonza stak haar snuit in haar buidel stak en toverde nieuwe glazen tevoorschijn. "Geen zorgen, Dormas, jij hoeft niet zonder alcohol te zitten."
 
-## Vague Outline
+De hond likte Fonza's gezicht van enthousiasme. "Het is belachelijk, ja toch? Ja toch?"
 
-This is a possible combination of the ideas.
-* The ill protagonist is extremely rich. Maybe they're royal family, or noble, or something close. That's how they can _pay_ for all those "advanced healers" and stuff. But all that money does not actually cure her. 
-	* **Inciting Incident:** find a cure or die. (Urgent, certain loss, goal is to survive, obstacle is the illness.)
-* The other protagonist comes from a very poor background. She is cast out, alone, nearly dying from hunger and cold.
-	* **Inciting Incident:** her goal is to belong to the group, giving her safety and food. (Urgent, certain loss, goal is to survive, obstacle is the fact she has nothing to offer)
-	* She _lies_ about someone and gets them drowned for being a witch, just to belong to the group. ("Yes! I was there. This woman had a room full of skeletons and a potion brewing!")
-	* She invents something, but asks the other to really stay quiet about it or she's called a witch, just to belong to the group.
-	* But now that she belongs, she obviously has to take over their opinions and their ideas. And they especially despise those rich noble families.
+"Ja," zeiden de anderen meteen. "Jij drinkt niet meer dan wij. Dit heeft nergens iets mee te maken."
 
-In all of this, there's the lesson of **no learning without failing** => they constantly try something, fail to reach their end goal, then must pick up the pieces to try again
+"Die helers kunnen er ook niks van tegenwoordig," zei Felicia. "En bidden tot God? Wat gaat die onzin nou---"
 
-This is more like it. Over time, the ill one will seek out help from those that are supposed to "despise" her (coming in contact with the other one), as the other gets involved more and more deeply in lies and potential giveaways that might mark her a witch. This culminates in both being tracked down, caught after a chase, and burned at the stake / drowned / whatever witch trial they come up with.
+De gezichten van de anderen sloegen meteen op onweer. "Jij bidt toch wel drie keer per dag, Felicia?" vroeg Fonza intens.
 
-But an invention helps them survive and combining powers, finishing their experiments, finds a cure for her illness just in time.
+"Ja. Ja natuurlijk. Voor genezing, en wereldvrede, en lekker eten. De normale dingen."
 
-(And, as stated, some plot twists about people _knowing_ everyone is lying and still going along. And how that has stifled progression in forever. The cure is probably something obvious and simple---maybe one of the others stumbled onto it "by accident" before, but was afraid to let it be known, for fear of being called a witch!)
+Ze keken elkaar even aan, alsof ze roddelden over Felicia met slechts hun ogen. 
 
-**@IDEA: "living in denial".** One character drinks way too much (alcohol). But they come from a family where _all_ of them do that, so they're like "I don't drink any more than anyone else! This is alright!" Even as they decline further and further, get more and more ill, etcetera. 
+"Jij begrijpt volgens mij niet helemaal hoe het werkt, _poesje_," zei Fonza dreigend. "Ik bid elke dag tot God. Elke ... eventuele misdaad die je denkt dat ik ben begaan, is natuurlijk kwijtgescholden."
 
-Even when they're _treated_ for it, their family keeps secretly getting them more alcohol, until they die without ever even realizing the truth?
+"Wij liegen voor jou als jij liegt voor ons," zei Dormas iets minder diplomatisch.
 
-**@IDEA: Having knowledge/being smart is also a curse.**
-* Halfway (or just past that) a character says to them: "You don't want knowledge. It's a curse. If you had it ... you would have known your disease is incurable and given up hope weeks ago." 
-* This is true, though in the epilogue Chef arrives to _try_ their hand at curing the disease. (Because "but the only way to change that, is by getting even more knowledge")
-* OPTIONAL: Make Chef a more involved character in the WHOLE story?
-* OPTIONAL: Introduce one character who is _really smart_ and can thus predict how people will respond, how events will unfold, how unjust the world is ... and it just makes them depressed and unable to do anything.
+Felicia knikte, haar ogen schuldbewust. Dit was nou eenmaal nodig om bij de groep te horen en te eten te hebben. Zo erg was het allemaal niet. "Ik ... begrijp hoe het werkt."
+
+"Mooi." Dormas kreeg een flink glas bier van Fonza die hij gulzig opdronk. "Hier, oude rakker, om de pijn te verzachten. En alle anderen," ze keek dreigend naar Felicia, "hebben hier niks van gezien."
+
+"Ik weet niet eens wat ik gezien zou moeten hebben," zei Felicia met een glimlach.
+
+___
+
+Ze had gewacht totdat alle anderen sliepen. Doordat Dormas in het ziekenhuis lag, had Felicia plots zijn kamers voor haarzelf. Uit het niets werd ze vorige maand zwerver zonder ouders, en nu weer uit het niets de enige inwoner van een best groot huis. 
+
+Maar de muren waren dun en Fonza lette nu extra op wat de zwarte poes deed. Toen Dormas flauwviel had Felicia meteen een paar potjes gepakt om een medicijn te maken---en haarzelf alleen gered door te doen alsof ze dacht dat daar iets te drinken in zat. Sindsdien had Fonza bijna alle potjes en ingrediënten uit Dormas' huis gehaald. Achterdochtige vos.
+
+Dus pas rond middernacht sloop ze naar de rode boom waar ze had afgesproken met Catia.
+
+De zieke poes lag bibberend en kreunend tussen de planten. 
+
+"Oh. Oh dit is niet goed," fluisterde ze. Catia schok er wakker van.
+
+"Je ... je bent toch gekomen."
+
+"Natuurlijk. Ik kom uit de familie Felix," zei ze met enige trots, "wij komen afspraken en beloftes na."
+
+Samen hobbelden ze terug naar het huis van Dormas. Felicia kalmeerde haarzelf. Ze had _niks_ verkeerd gedaan. Als ze dit zagen, zei ze gewoon dat Catia haar zusje was. 
+
+Maar Dora had ook niks verkeerd gedaan.
+
+_Wij liegen voor jou als jij liegt voor ons._
+
+Totdat ze iemand anders vonden die nóg liever meespeelde met hun spel. Ze moest dit allemaal later aan Catia uitleggen, maar nu moest ze de ergste pijn weghalen.
+
+"Wat heb je allemaal al geprobeerd?" vroeg ze.
+
+"Alles. Alle helers. Zelfs Owuit. Maar er zit een limiet aan hoeveel dieren ik over mijn huid kan wrijven of hoeveel drankjes met modder ik kan drinken. En hoeveel ik ondersteboven of zijwaarts kan hangen."
+
+Felicia lachte. "Ik ben bang dat ik je nog een drankje ga laten drinken. Maar deze heeft geen modder, alleen wat planten en een geperste noot als ik die kan vinden. Het is een pijnstiller die ik lang geleden leerde van mama."
+
+Catia draaide op haar zij en vernauwde haar ogen. "Dus ... je bent een heks?"
+
+"Ik ben een heler."
+
+"Maar je bent een vrouw. En je heelt in een donker huis met recepten die de kerk niet goedkeurt."
+
+"Wil je soms dat ik je weer op straat gooi?" zei Felicia met een geïrriteerde miauw.
+
+"Nee, nee, ik ... ik probeer het gewoon te begrijpen denk ik." 
+
+Felicia miauwde enthousiast toen ze een kastdeur opensloeg en precies de laatste ingrediënten vond die ze zocht. Mama noemde het altijd al de "armelui pijnstiller", want _iedereen_ moest dit kunnen maken met wat ze in huis hebben.
+
+Even later gaf ze Catia een soepkom met het medicijn. Ze dronk er gretig van, al moest het _verschrikkelijk_ smaken. Niet veel later leek ze tot rust te komen, haar lichaam niet meer zo stijf van de pijn.
+
+"Dankjewel," fluisterde ze, tranen in haar ogen.
+
+"Geen probleem. Maar, eh, toch mondje dicht tegen de rest."
+
+"Je bent een zéér geheimzinnige niet-heks-heler."
+
+"Verbaast me wel dat Owuit dit soort recepten niet kent. Ze zeggen dat hij _alles_ weet, zelfs over hele andere vakgebieden."
+
+"Hij is vreemd." Catia gaapte langdurig en ging anders liggen, waardoor ze Felicia plots aanstaarde. "Werken je ouders nu ook ergens stiekem in een donker huis?"
+
+Felicia klom op de andere kant van het bed met terneergeslagen ogen. "Mijn ouders zijn verdwenen, van de ene op de andere dag. Ik kom inderdaad van een familie van helers. We waren rijk, machtig, en werkten vooral in Amor. Vader pronkte zelfs dat hij bevriend was met Chef de Goede!"
+
+De toonhoogte van haar stem verlaagde. "Maar toen waren ze plots _weg_, en ons huis werd ingepikt, en onze rijkdom, en mij schopten ze naar buiten alsof ik een besmettelijk virus was."
+
+"Een _wat_?"
+
+Felicia schudde haar hoofd. "Wat iedereen _hekserij_ noemt is in andere delen van de wereld gewoon _scheikunde_ en _de reden waarom niet iedereen sterft aan ziektes_. Ik snap hoe stofjes werken en ik zou veel goeds ermee kunnen doen. Maar als ik dit tegen een ander zeg ..."
+
+Plots greep Felicia naar Catia's poot en hield hem pijnlijk stevig vast. "Dus _mondje dicht_, oké?"
+
+Catia giechelde. "Waarom zou ik de enige persoon verklikken die mij wél helpt?"
+
+"Ik weet niet meer waarom dieren dingen wel of niet doen," mompelde Felicia. "Logica is vaak ver te zoeken."
+
+"Logiwat?"
+
+Felicia zuchtte. "Slaap lekker. Morgen ga ik je testen en proberen of ik een medicijn kan vinden."
+
+Catia opende één oog, al bijna in slaap. "En als dat niet werkt?"
+
+"Overmorgen hetzelfde. En de dag daarna. En de dag daarna."
+
+Gerustgesteld viel de zieke poes in slaap. Felicia glipte naar buiten om ingrediënten te plukken.
