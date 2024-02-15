@@ -2,6 +2,7 @@
 title: Middernachtmerrie
 weight: 7
 ---
+
 Catia moest achterblijven. Ze was te ziek om in alle haast mee te rennen naar het ziekenhuis. Felicia tilde haar de hele weg terug naar het huis, een inspanning die bijna haar rug brak, en rende daarna weer terug. Ze had veel te weinig gegeten hiervoor en---
 
 Toen ze met bonkend hart de ziekenhuistent instapte, wist ze al dat het misschien te laat was.
@@ -92,16 +93,54 @@ Owuit landde op het dak van het huis. Ze zochten de omgeving af. Geen verdachte 
 
 Ze klommen omlaag---en hun ongelijk werd bewezen.
 
-De deur stond open op een kiertje, het zwakke slot versplinterd dankzij een flinke beet.
+De deur stond open op een kiertje, het zwakke slot versplinterd dankzij een flinke beet. De planken voor de gaten in de muur waren eraf gerukt. Rook kwam erdoorheen. Vuur? Stond de slaapkamer in brand? 
 
-@TODO: Laatste stukje, creepy naar binnen, daar is Catia gegijzeld door de rest van de groep (die naast een ketel staan met het volgende borrelende medicijn ofzo) => Hoe eindigt het?
+Felicia had haar volgende medicijn op het vuur laten staan, in de grote ketel!
 
+Ze begon een miauw voor Catia en wilde naar binnen rennen. Owuit drukte zijn vleugel tegen haar mond en drong als eerste naar binnen.
 
+De hal was donker. Alle kaarsen waren uit en aan ramen had dit huis sowieso tekort. Het huis was muisstil, de deur naar de slaapkamer wagenwijd open. Er kwam nauwelijks licht vandaan, niet meer dan haar kookvuurtje zou werpen.
 
-Zwarte kat, kraai, hond, uil, paard/eenhoorn, giraffe, vleermuis, olifant, griffioen?
+Owuit ontweek net op tijd een ingestort deel van het plafond. Zo bereikten ze geruisloos de deuropening naar de slaapkamer.
 
-@TODO: Ook laten zien dat groepsdruk juist weer goede dingen kan veroorzaken, zoals iemand overtuigen om zich te gedragen (aardiger zijn, stoppen met pesten, etcetera) 
-* Misschien dat nu heel veel mensen dus de landheer gaan lastigvallen over die Heksenprocessen enzo. Dat hij zich er eerst niks van aantrekt en het ontwijkt, totdat het zó vervelend en zó constant wordt, dat hij wel iets moet toegeven.
-* Of misschien heeft Owuit echt ongelofelijk veel dieren genezen in zijn tijd, dus een groot deel van de wezens die achter hem staan zijn oude patiënten (die *weten* dat hij andere methodes gebruikt)?
+Felicia keek razendsnel naar binnen. Er was ... niemand. Zelfs Catia was weg. Grijze rook vulde de kamer, gevormd door het flink aangebrande goedje.
 
-@TODO: Een punt over dat, op dit moment, dat hemelse rijk van Owuit nog niet echt kan bestaan. Vanwege gebrek aan kennis, gebrek aan grondstoffen, technologie, etcetera. Maar dan later, in periode 9 hebben mensen _alles_ ... en het bestaat nog steeds niet echt.
+Maar Owuit hield haar nog steeds tegen. Zijn geweldige uilenogen---of misschien de bril---zagen de pootafdrukken op de grond. Modderig, vol stukjes gras en takjes.
+
+Ze gingen _in_ de kamer---ze gingen er niet meer _uit_.
+
+Owuit wapperde eenmaal zijn vleugels, om de kamer van iets hoger te zien, en gaf daarmee zichzelf weg.
+
+Een vos dook uit de donkere hoek en trok hem richting de andere. Een tweetal wilde jonge honden beukten Felicia van haar poten totdat ze tegen het strobed rolde.
+
+Fonza's lichaam bleef onzichtbaar; alleen haar gezicht lichtte op van onderen door het vuurtje.
+
+"Ik _wist_ het," krijste ze. "Je bent een _heks_! En waar ben je nu, hè, zonder de bescherming van de oude hond?"
+
+"Ik maak Catia's lievelingssoep!"
+
+Felicia werd vastgehouden door stevige hondenbeten. Owuit wapperde nog steeds rond en maakte zijn achtervolger gek.
+
+"Ja, dat is _precies_ wat een heks zou zeggen!" Fonza wees met haar staart naar de muur.
+
+Zelfs in het flauwe licht, zag ze de symbolen die erin waren gekrast. Sterren met de lijnen doorgetrokken, symbolen alsof ze uit een antieke taal kwamen. Die had Felicia écht niet zelf erop gekrast.
+
+En Catia. Vastgebonden en doodsbang. Ze was niet eens meer sterk genoeg om tegen de touwen te vechten.
+
+"De Kraaien komen eraan. Geef toe dat je een heks bent, of je ziet je zusje niet meer terug." Fonza fronste. "Of _is_ ze wel je zusje?"
+
+"Waarom ben je _zo_ bang voor heksen?" riep Felicia. "Wat hebben ze jou ooit aangedaan?"
+
+"Ze zijn een bedreiging voor onze cultuur. Onze normen en waarden. Onze _beschaafdheid!_"
+
+Felicia spuugde in haar gezicht. "Als jij jezelf beschaafd noemt ... dan ben ik liever onbeschaafd."
+
+"Lekker bezig, zus," 
+
+Owuit dook omlaag en sneed met zijn navel Catia's touwen los. Felicia beet om haar heen, een kat in het nauw die rare---en pijnlijke---sprongen maakte, wat haar net genoeg vrijheid verschafte.
+
+Verborgen door de rook, sprong het drietal door het raam naar buiten.
+
+Fonza schreeuwde de hele buurt wakker. Meerdere Kraaien hadden zich al verzameld op hun scheve dak, gemaakt van afwisselend riet en dakpannen, het beste dat Dormas kon betalen.
+
+"Drie heksen! Drie heksen op de vlucht! Laat ze niet ontsnappen!"

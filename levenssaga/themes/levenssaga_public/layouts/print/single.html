@@ -1,5 +1,6 @@
 {{ define "head-custom" }}
-    {{ $paged_js := resources.Get "js/paged.polyfill.js" | resources.Minify }}
+    <!--- @NOTE: | resources.Minify stops the AutoPrintHandler below from working :/ --->
+    {{ $paged_js := resources.Get "js/paged.polyfill.js" }}
     <script src="{{ $paged_js.RelPermalink }}"></script>
 
     <!-- Used by Paged.js to make stuff look like an actual book -->
