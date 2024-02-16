@@ -2,6 +2,7 @@
 
 ## Metadata
 
+* **PERSONAGES:** Haal diersoort weg in personagenaam. Zo nodig, maak een pagina aan voor het personage (een bestand onder `characters` en schrijf daarin backstory, met diersoort als YAML metadata.)
 * Voeg iets meer accurate "teaches" toe bij de eerste verhalen. (Dat ben ik nu aan het begin vaak vergeten. Hoewel die eerste vaak ook niks waargebeurds behandelen.)
 
 ## Vertalingen

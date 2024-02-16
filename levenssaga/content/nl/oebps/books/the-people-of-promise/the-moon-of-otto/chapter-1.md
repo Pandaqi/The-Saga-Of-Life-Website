@@ -79,6 +79,7 @@ This is still quite vague. I'll need to figure out the details of the powers, th
 
 @TODO: Otto spreekt over Alixader als "groots" en idoliseert, wat de rest dus tegenspreekt met "hij is alleen groots omdat wij veroveraars blijkbaar leuk vinden"
 
+@TODO: The idea that it's always easier to be the underdog and fight a guerilla war, than being the big empire. Eventually, everyone gets too big and gets attacked from all sides, and it always leads to their downfall (this goes almost in predictable cycles).
 
 "You can get my forced labor or my voluntary loyalty, not both." -Enra.
 

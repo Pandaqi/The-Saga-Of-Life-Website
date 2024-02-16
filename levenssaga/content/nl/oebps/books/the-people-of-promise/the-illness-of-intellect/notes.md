@@ -62,6 +62,8 @@ HEKSENDIEREN: Zwarte kat, kraai, hond, uil, paard/eenhoorn, giraffe, vleermuis, 
 
 # Todo/Revisie
 
+**Algemeen: Ja, het einde met Chef + Ouders en vrijspraak enzo komt nogal uit het niets nu.** De veranderingen hieronder maken het al iets beter, maar niet helemaal. Bedenk iets dat meer bevredigend is.
+
 **Algemeen**: We hebben nog geen Verteller-moment!
 
 **Algemeen:** De les van het verhaal komt nog nergens voor! (_Geen groei zonder falen_ of _leren gaat met vallen en opstaan?_)
