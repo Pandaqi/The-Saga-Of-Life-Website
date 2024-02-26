@@ -3,6 +3,8 @@
 ## Metadata
 
 * **PERSONAGES:** Haal diersoort weg in personagenaam. Zo nodig, maak een pagina aan voor het personage (een bestand onder `characters` en schrijf daarin backstory, met diersoort als YAML metadata.)
+  * Ik zet nu meestal toch al notities over personages bij de _notes_.
+  * Haal ze daar weg om alvast die karakterpagina's te vullen => dit is ook een goede stap naar minder "one-off" personages en meer hergebruik richting de toekomst.
 * Voeg iets meer accurate "teaches" toe bij de eerste verhalen. (Dat ben ik nu aan het begin vaak vergeten. Hoewel die eerste vaak ook niks waargebeurds behandelen.)
 
 ## Vertalingen

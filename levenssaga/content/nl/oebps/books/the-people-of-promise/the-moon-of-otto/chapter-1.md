@@ -1,86 +1,125 @@
 ---
-title: "??"
+title: Maanfluisteringen
 weight: 1
 ---
+Ze kwamen in de nacht, eerder en met meer dan verwacht. Voor Chonib voelde het als gisteren dat ene Otto was opgestaan en ontevreden was met zijn kleine gebiedje. Hij bleek _zeer_ ontevreden. 
 
+Chonib dacht dat ze tijd hadden. Dat er nog vele steden tussen hen en het Rijk van Otto lagen, als een soort schild. Maar in die korte tijd waren blijkbaar al die steden opgeslokt door de vechtlustige slangen.
 
+En opgeslokt was het juiste woord.
 
+Zijn leger raasde door haar dorp. Huizen vielen om, versplinterd of fijn gewurgd, en niet alle inwoners kwamen op tijd weg. Stapels hout werden in brand gestoken. De vlammen mengden met het flauwe maanlicht en toonden de angstaanjagende gezichten van hun aanvallers. De mannelijke dieren grepen wapens en probeerden de dodelijke vloedgolf te stoppen. Maar een groepje bange koeien, geiten en kamelen was niets anders dan rijp voor de slacht.
 
+Als Otto zelfs hier kon aanvallen ... dan was zijn rijk over een paar jaar de halve wereld!
 
-"Het Rijk van Otto" (beschaving): Het Ottomaanse Rijk dat lekker doorgaat met delen innemen, Islam verspreiden, lekker groot worden, spanningen tussen geloven weer laat opbloeien. Ze snijden Europa af van "the silk road" (en de rest van de spices/handelroutes daar) => Een grote reden waarom Columbus uiteindelijk vertrekt.
+Chonib, een bruine beer, zag het allemaal gebeuren vanaf haar balkon. Ze zat op haar zachte kont en schilderde, doof voor de schreeuwen en de vernieling. Haar hele dorp werd weggevaagd nog voordat de maan haar plek in de hemel had veranderd. De overlevenden stonden trillend in het duister, dicht tegen elkaar aan voor warmte en steun.
 
-**@TODO: Ergens het idee behandelen dat mensen van nature "overwinnaars" onthouden en vereren.** Enerzijds zit dat dus in onze natuur, om kracht, macht, etcetera te idoliseren. Anderzijds hebben ze natuurlijk veel gebied veroverd en dus veel mensen bereikt. => Vrijwel niemand onthoudt grote uitvinders van cruciale dingen, of die ene persoon die vrede hield voor duizend jaar door goede beslissingen.
+Otto keek omhoog. Hij had alleen oog voor de maan. Vannacht was ze halfvol, glinsterend maar niet spierwit. Hij volgde dit puntje aan de hemel voor lange tijd. Uiteindelijk glimlachte hij tevreden, alsof hij een vraag had gesteld aan de maan en antwoord had gekregen.
 
+"Jullie hebben geluk," siste de reusachtige adder. "De maan vraagt vannacht om vergeving. Jullie horen vanaf nu bij het Rijk van Otto. Herbouw je stad en betaal mij elke maand belasting, en je zal genieten van---"
 
+Plots keek Otto opzij, schuin omhoog. Hij zag voor het eerst Chonib, die rustig doorging met schilderen.
 
+"Kom onmiddellijk omlaag!" schreeuwde hij. "Of ik hak je kop eraf!"
 
+Chonib deed alsof ze het niet hoorde. Het schilderij was bijna af, en dit was ook nog een van haar betere. Haar berenpoten dansten elegant over het canvas, meerdere verfkwasten tussen de vingers.
 
+Otto glibberde haar huis in, de trap op, over het balkon. Zijn gewicht liet de houten balken kraken en gruis afbrokkelen. Hij opende zijn mond voor een giftige beet in Chonibs zij.
 
+De wereld ging op zwart. Niet figuurlijk. Niet Chonibs wereld. _De hele wereld._
 
-My first instinct? Some kind of "guiding star". In all decisions made, through the centuries, some guiding star leads the way for our protagonist and helps the empire grow. => This starts as a literal guiding star, then turns figurative by following the Moon Goddess?
+Otto versteende. Chonib zette de laatste streken en zuchtte tevreden.
 
-I also think we could go for the perspective of one such boy recruited in that "devsirme" system. Their initial fear, torn from family, brainwashed. How they climb the ladder and actually get a powerful position.
+"Ik zie dat u nog veel te leren heeft over Maanlezen," zei ze rustig.
 
-We do need a second perspective for the moments _before_ (and potentially _after_) this boy's recruitment. This should be an _artist_ or _scientist_ woman, showing off the advancements and standardization. 
-* Let's make her a _(half) goddess of the Moon_. 
-* Her control of the tides helps their naval dominance and sea trade. (This is a mystery that gets revealed somewhere.)
-* Every night, she paints the moon. She also puts the Moon in _everything_ she makes, from architecture, to poems, to laws, etcetera.
-* She has the burning desire inside her to find the _(half) god of the Sun_?
-* She is like the "guiding star" of Otto, helping him make decisions and actually keeping the empire from imploding several times?
-* **She has discussions with him about Love being the odd one out.** Love causes you to act against self-interest, just because you love someone. Love causes you to do what you otherwise couldn't.
-	* "Would you die for me?" she asked.
-	* "Yes," Enra replied without missing a beat.
-	* "_Why?_" she said with curious wide eyes. "There's nothing to gain. You are dead. I am but one person without power."
-	* Enra stayed silent. "Because ... because I feel it."
-	* "Love?"
-	* "Something."
+En inderdaad, enkele tellen later kwam de maan weer uit haar verstopplek. De dichte wolken trokken verder en de nacht kreeg weer een flauw wit licht.
 
+Otto staarde naar het schilderij. Chonib had de maan getekend, precies zoals ze er vannacht bij stond, elk detail en elke kleur _perfect_.
 
-Here's a vague outline.
-* Chapter 1 = leader is presumed dead, their sons all pipe up and nearly kill each other to get the throne. Until the leader returns alive and realizes this just won't work. They call their current laws and systems completely _void_ and start from scratch.
-	* (As that boy obviously hasn't entered the story yet, such scenes are from the perspective of that Moon goddess.)
-	* This starts out as a **mystery/investigation:** WHO made the false claim the king was dead?
-* Chapter 2 = That boy is recruited for the "devsirme" and ends up in the empire.
-* Chapter 3-6 = The boy slowly regains strength and starts to climb ranks. We make time jumps as the empire grows, we get references to other empires, etcetera.
-	* Around chapter 6 = Columbus and such start their routes (to prevent trade being choked), Renaissance kicks off
-* Midpoint = They stage a successful revolt (perhaps after a failed one) and undo the devsirme system, seizing a lot of power at once.
-* Chapter 7-8 = the last of the Habsburgs (Charles II) enters the story (mostly to come back to the "inbreeding" and "that's why people need to move around" thing from story 2)
-	* However, the power struggles that entered the empire weaken it and make it shrink.
-	* Their advancements and freedom is rapidly scaled back to put all resources into warfare and nothing else.
-* Chapter 9 = World war 1 is shaping up. Our two protagonists make _some_ huge decision here.
-	* Here's an idea: this one night, she is shocked to see there is no moon (or "the moon looks/feels wrong"). This causes them to flee just in time.
-	* As their empire is bombed behind them, they realize that aircraft from the enemy was hiding the moon from view. They're one of the few to survive this event.
-	* **@IDEA (There's A Light That Will Never Go Out): (perhaps introduced earlier)** Moon is always the only one with her lights on during the night, as she paints the moon. She says: "As long as my light is on, I will love you. Come in time and we'll run away together" => Or maybe "her light" is just a metaphor for her moon, which does NOT appear this one evening.
-* Chapter 10 = the empire is defeated at the end of World War 1. It's dissolved into tiny chunks, basically leading to the MIddle-Eastern conflicts we know today.
-	* Het Rijk van Otto moet wel echt inzetten hoe dat hele midden-oosten uit elkaar viel toen het rijk plots stopte.
+Zijn bewakers kwamen nu ook het balkon op, zeker dat deze prachtige beer hem had betoverd of behekst. Waarom was ze anders nog niet dood? Maar Otto siste dat ze op afstand bleven.
 
-The general lesson of this story is "No power without the powerless", which might be amended with a general lesson about pursuing "useless" things (like art) because you never know when they might be useful.
+"Oh ja, schone dame? En wat zegt de maan dan nog meer?"
 
-This is still quite vague. I'll need to figure out the details of the powers, the specific scenes, etcetera as we go.
+Chonib keek voor het eerst opzij, recht in Otto's ogen. Vurige ogen. Giftige ogen. Geen wonder dat hij zo snel zijn rijk uitbreidde. Ze moest haarzelf kalmeren en sterker maken om niet voor die blik ineen te krimpen.
 
-(Like, how do we get to see the scenes at the other side of the world, with Columbus and such? Does that goddess perhaps influence the waves to make Columbus end up at the wrong continent?)
+"Dat je mij, Chonib Halfmaan, moet aannemen als je adviseuse," zei Chonib met een lichte glimlach.
 
-@TODO: **connect** this star idea with the stars from the final story (Holbewoners).
+Otto cirkelde om haar heen. Bij het eerste woord dat hij niet leuk vond kon hij haar wurgen met zijn massieve lichaam. "Dat verzin je ter plekke," gromde hij.
 
-@TODO: get more **out of** this idea of a "complete reset of law/country" (and baggage you take with you from before)
+Chonib schudde haar hoofd. Met de andere kant van haar kwast wees ze op vijf verschillende vlekjes op de maan. "Dit zegt dat je rijk snel uitbreidt en dat je dus hulp nodig hebt. Dit zegt dat Maanlezen essentieel zal zijn voor je succes. En als je deze vlekjes omzet in letters, krijg je mijn naam."
 
-@TODO: mention wanting to conquer the Tamli, then someone saying "ah forget it, believe me"
+Ze stond en maakte haarzelf nóg sterker voor wat ze nu moest zeggen. "Ik _wil_ niet voor je werken, Otto. Je hebt zojuist mijn dorp platgebrand. Maar de Maan zegt dat het moet."
 
-@TODO: Have the Goddess' art be an invaluable _trading tool_! Someone offers to pay a lot of money, or will have peace, if they can have her paintings. But then they get lost at sea? (As the icon shows?)
-* At the same time, her moon / sun are crucial to _navigation_ (both across land and sea) => **@IDEA:** In a big plot twist, she _hides_ the moon, confusing all sailors and completely disrupting the trade.
-* Enra is fine with the potential to shipwreck here because "to die by your side, the pleasure the privilige is mine"
-* She regularly meets Enra and tells him stories about someone who tried to "go it alone" (as he does) and failed miserably in our history. (She's in love with him of course, he denies and doesn't want it, also because he reveals he "can't have kids" later.)
-* "But I can't give you children!" "It is not a _trade_! It is _love_. I want nothing from you. I just want to give all I have and see you happy."
-* "Why do you stay, Moon? You're miles better than anyone here?" "You really don't understand?" (She mostly stays for Enra at this point.)
- 
-@TODO (Optional): About the origins of the star-and-crescent, which basically go back to Sumer/Mesopotamia and people just kept copying it.
+Het was een gok. De Maan zei helemaal niks van dit alles. Ze zei _wel_ dat Otto gaf om kracht en oorlog, maar ook om eer en plicht. Door te doen alsof ze tegen haar zin inging, hoopte ze juist dat hij accepteerde.
 
-@TODO: The other protagonist is called **Enra**, as in "not-Ra". A very bad attempt by their parents to hide that they're the goddess of Sun.
+En de gok betaalde uit. Otto knikte en glimlachte terug. 
 
-@TODO: Otto spreekt over Alixader als "groots" en idoliseert, wat de rest dus tegenspreekt met "hij is alleen groots omdat wij veroveraars blijkbaar leuk vinden"
+"Vanaf nu is Chonib mijn adviseuse en hoogste Maanlezer," verklaarde hij luidkeels. "Ze heeft mijn bescherming en behoort nu tot het koninklijke huishouden."
 
-@TODO: The idea that it's always easier to be the underdog and fight a guerilla war, than being the big empire. Eventually, everyone gets too big and gets attacked from all sides, and it always leads to their downfall (this goes almost in predictable cycles).
+Ze werd weggeleid van haar dorp. Slangenbewakers duwden haar in een woestijnslee getrokken door kamelen. Otto reisde zelf in een veel luxere slee, samen met zijn drie zonen. Waarschijnlijk bespraken ze hoe ze de volgende paar steden gingen terroriseren.
 
-"You can get my forced labor or my voluntary loyalty, not both." -Enra.
+Had ze wel de juiste keuze gemaakt? Ze schudde haar vacht. Het was nu te laat voor terugkrabbelen. Over een paar uur werd het paleis van Otto haar nieuwe thuis. Het eerste dat ze ging doen was een eindeloze voorraad kwasten en verf vragen om---
 
-@SOURCE: https://nl.wikipedia.org/wiki/Dev%C5%9Firme
+Een explosie.
+
+Wrakstukken van Otto's slee vlogen bij Chonib naar binnen. Rookwolken verborgen de opkomende zon en maakten de gele woestijn een grijze vlakte. Bewakers schreeuwden naar Otto, doofden de vuurtjes, zochten de overblijfselen van de slee.
+
+Chonib keek bevroren toe. De Maan had niks hierover gezegd! Ze zei dat Otto haar lang zou beschermen! Was ze toch niet zo'n goede Maanlezer als ze dacht? Had ze---
+
+De rookwolken vervlogen eindelijk in de helderblauwe lucht. Van Otto's slee was niks meer over. Zowel hij als zijn zonen waren nergens te bekennen, maar Chonib kon vanuit haar positie ook geen lichamen zien.
+
+Ze konden niet blijven zoeken en wachten. Degene die de aanval hadden veroorzaakt konden nog dichtbij zijn, dus verward en gehaast trokken ze naar het paleis.
+
+Eenmaal daar wisten ze niet wat ze met Chonib moesten doen. Uiteindelijk werd ze in de troonzaal op een kussen gezet en bevolen om daar te _blijven zitten_ totdat iemand een ander bevel gaf.
+
+Naarmate de dag vorderde, liepen steeds meer dieren door de zaal. Ze waren druk in gesprek, maar één fluistering kwam steeds opnieuw terug.
+
+_Otto is dood._
+
+"Ja? Is dat zeker?" vroeg Chonib dan vol verwachting. Niemand vond haar een antwoord waardig.
+
+Totdat de troonzaal volstroomde en Chonib bijna tegen de muur werd gedrukt. Iedereen maakte een erehaag voor een nieuwe bezoeker: een prins. Een zoon van Otto.
+
+Hij zigzagde naar binnen. Zijn taaie slangenhuid toonde grote wonden en hij zag er doodmoe uit. Zijn ogen waren rood van de tranen.
+
+"Geen zorgen," zei hij met krakende stem. "Ik heb van betrouwbare bronnen dat onze vorige leider niet meer is. Dat betekent dat ik, Aratto, de nieuwe leider ben. Het Rijk van Otto blijft sterk als altijd!"
+
+Maar toen kwamen de volgende bezoekers: de andere twee prinsen. Net zo gewond en uitgeput, maar veel _bozer_. De drie prinsen scheelden bijna niks qua leeftijd, grootte of kracht, want ze waren een drieling.
+
+"Onzin!" schreeuwde Bitto. "We zijn allemaal even oud!"
+
+Aratto had zich al gepositioneerd op de troon. Omdat dit rijk werd geregeerd door slangen, was dat geen stoel maar een nest vol bladeren en takken. "Ik kwam er als eerste uit. Ik ben de oudste. Vraag maar aan de vele getuigen."
+
+Die getuigen stapten al naar voren, maar Crotto duwde ze terug. "Otto heeft nooit vastgelegd wie hem zou opvolgen. Daar had hij nog geen tijd voor gehad."
+
+Aratto schreeuwde gefrustreerd terug. "Dus we nemen de regels over die _alle andere rijken_ hanteren. Oudste zoon leider."
+
+Bitto zoefde naar voren, bek wijd open. Aratto kon de aanval maar net ontwijken. De broers tolden om elkaar heen, grepen elkaar om en om met hun flinke lichaam, maar kregen nooit de ander in een wurggreep.
+
+Crotto vervloekte ze en bleef staan middenin de troonzaal. "Kinderachtig gedoe. Otto is _dood_! Het laatste dat we willen is chaos en nóg meer---"
+
+Aratto kreeg de overhand en beet Bitto hard in de zij. Zijn broertje moest jammerend de strijd staken en glibberde naar een hoekje van de zaal. Crotto's ogen vernauwden, zijn lichaam klaar om nu zelf aan te vallen.
+
+"We verdelen het rijk. Elke zoon krijgt een derde," probeerde Crotto nog.
+
+"Aratto valt zijn eigen familie aan," piepte Bitto. "Sluit hem op en maak mij de leider!"
+
+"_Ik_ ben de baas, volgens alle regels die iedereen kent," schreeuwde Aratto. "En ik beveel het leger om mijn broers, deze _verraders_, te doden!"
+
+Men wist niet hoe snel ze de zaal moesten verlaten. De bewakers die overbleven keken elkaar aan, schuifelend op de plek. Maar uiteindelijk gaven ze Aratto gelijk en bewogen om de andere prinsen te grijpen.
+
+Chonib was als enige toeschouwer van wat volgde. 
+
+Toen het Aratto opviel, wees hij naar haar met een lange tong. "Geef haar maar aan de beren ofzo, als ... geschenk van hun nieuwe leider."
+
+"_Pardon?_"
+
+Otto had beloofd haar te beschermen. Maar Otto was niet meer. 
+
+Terwijl tranen over haar gezicht druppelden, sloten slangenlichamen als handboeien om haar ledematen. Ze had niet eens de kracht om tegen te stribbelen. De bewakers sleepten haar de zaal uit. 
+
+Waar ze botsten op een grote slang die heel, heel kwaad was. Hij rukte Chonib meteen uit de klauwen van zijn bewakers en duwde haar veilig achter zich.
+
+"_Ik vermoord de verrader die het gerucht verspreidde dat ik dood was,_" schreeuwde Otto. 
+
+Dat was niet eens zijn meest schokkende uitspraak. Want daarna zei hij: "En vanaf nu zijn al onze wetten en regels _afgeschaft_, inclusief wie de troon opvolgt. Vergeet alles. Vanaf vandaag bedenk ik nieuwe regels voor ons rijk."
