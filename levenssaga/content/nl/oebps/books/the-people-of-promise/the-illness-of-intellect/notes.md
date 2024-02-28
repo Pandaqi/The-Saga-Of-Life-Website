@@ -61,7 +61,7 @@ HEKSENDIEREN: Zwarte kat, kraai, hond, uil, paard/eenhoorn, giraffe, vleermuis, 
 --->
 
 # Todo/Revisie
-
+### Algemeen
 **Algemeen: Ja, het einde met Chef + Ouders en vrijspraak enzo komt nogal uit het niets nu.** De veranderingen hieronder maken het al iets beter, maar niet helemaal. Bedenk iets dat meer bevredigend is.
 
 **Algemeen**: We hebben nog geen Verteller-moment!
@@ -79,7 +79,7 @@ HEKSENDIEREN: Zwarte kat, kraai, hond, uil, paard/eenhoorn, giraffe, vleermuis, 
 * Als Owuit in H9 op de brandstapel staat, roept een groot deel dat ze hem ( -> De Wijze Uil) moeten sparen. (Waardoor Felicia dus echt de enige is die in gevaar is uiteindelijk?)
 * Als Felicia in H10 met de landheer praat, zegt hij dat hij haar "eigenlijk zou moeten opsluiten", maar dat een hoop dieren hebben gevraagd voor volledige vrijspraak én om die heksenwetten af te schaffen. Hij zegt iets van "ze hebben geen gelijk, maar ze zijn met veel"
 
-
+### Per Hoofdstuk
 **H1:** laat Owuit alvast iets zeggen over heksen of hekserij?
 **H2:** het eten dat Felicia krijgt zit vol met heerlijke stukjes vis, en ze vraagt zich af of ze zo'n rijkdom wel waard is.
 * Felicia's familie mag echt wel wat meer opzet/hints/details krijgen
@@ -98,3 +98,4 @@ HEKSENDIEREN: Zwarte kat, kraai, hond, uil, paard/eenhoorn, giraffe, vleermuis, 
 **Zou leuk zijn:** alvast het rijk van Otto inzetten. Misschien hebben die onlangs een hoop steden overgenomen. Misschien komt hun cultuur steeds dichterbij, en zij hebben een andere god/hebben niks tegen heksen? => Dat is eventueel ook een manier om Floria, het unieke van dit tijdperk, weer erbij te betrekken.
 
 **Zou leuk zijn:** échte heksen laten voorkomen. Dus ergens een of ander bizar ritueel laten voorbijkomen, en dat dit dan _halfgoden_ zijn die echte _toverdrankjes_ maken => Dit kan eventueel een vervolg zijn op dit. Dat Catia/Felicia uiteindelijk doorreizen en ergens anders bekend staan als de Heksen, op een goede/grappige manier.
+* **Ja, echt die halfgoden moeten terugkomen. Hoe ze worden opgejaagd omdat ze raar zijn en anders, want dat is het hele idee dat uiteindelijk leidt tot het Tweede Conflict.**
