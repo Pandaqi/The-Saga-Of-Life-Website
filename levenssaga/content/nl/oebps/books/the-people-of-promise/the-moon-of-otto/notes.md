@@ -42,22 +42,26 @@ Maar als ik tegen mensen vertelde dat ik een verhaal schreef over het Ottomaanse
 ## Revisie
 Per hoofdstuk:
 * **Ch1-4:** Enra iets meer familie laten missen?
-* **Ch5-6:** Zijn Enra's ouders inmiddels gestorven??
+  * Misschien is dat de betere invalshoek voor hem. Dat hij na zoveel pijn en missen en gedwongen worden om voor Otto te vechten "emotioneel afgestompt" is?
+* **Ch6**: Enra vraagt zich af of zijn ouders inmiddels zijn gestorven. Ook _herkent_ hij Esprante niet eens meer van vroeger + is niet meer gewend aan klimaat, zo lang is hij weggeweest.
 * **Ch6:** iets logischer maken dat al die belangrijke mensen op zo'n schip staan + dat het een helderblauwe probleemloze dag is + dat zij zichzelf zouden opofferen om dat allemaal te vernietigen.
 	* Wacht, dit stuk van het oude Traferia zou nu van Otto moeten zijn, dus in dit hoofdstuk al melden dat Esprante al flink wat zeegevechten heeft gevoerd en een stuk terug heeft gewonnen?
 	* Je kan zeggen dat ze simpelweg bloedvergieten willen voorkomen.
 	* Je kan zeggen dat ze toch loyaliteit voelen voor het rijk waar ze honderden jaren in hebben geleefd => die lijkt me het sterkste.
 	* Je kan zeggen dat Chonib hiermee een grotere slag wil slaan dan ze ooit met haar advies kon doen. Ze wil juist oorlog en dat iedereen Otto kapotmaakt?
 	* Duidelijker maken dat Maanlezen super zeldzaam is en veel lessen/training vraagt?
+* **Ch8-10**: duidelijk maken dat Enra + Chonib inmiddels ook al bejaard worden? Duidelijker maken dat het effect van Langleven in deze tijdperken dus nog speelt?
 
 Algemeen:
 * Opzetten hoe Enra ook Chonib afhoudt en bezig blijft als _wraak_ jegens Otto?
 * Beter opzetten hoe zowel Enra als Chonib langzaam Ottojon als hun thuis gaan zien en toch wel loyaal worden? => Misschien het handigste als ik een paar van die Devirma jongens als vaste vrienden terug laat komen => 
 	* Vooral die olifant die aan het einde ook belangrijk wordt en dan kan ik er een Tamli opmerking bij maken? => @TODO: Een grapje dat Chonib of Enra afstamt van wezens bij de Tamli? En dat hij daarom zo eindeloos geluk heeft met alles? Of is dat weer een ander figuur in het verhaal dat dit veroorzaakt? Misschien een Devirma olifant waarmee Enra al vanaf het begin bevriend moet geraken?
+	* Maar de Tamli waren neushoorns???
 * Chonib also puts the Moon in _everything_ she makes, from architecture, to poems, to laws, etcetera.
 	* Moet dat Maanlezen/Zonlezen niet sowieso meer aandacht krijgen? Lijkt een behoorlijk nuttige kracht die slechts een paar wezens kunnen, zelfs Otto probeert het te leren aan het begin.
 * Meer feitjes en details van Ottomaanse cultuur en hoe die sultans eruitzagen enzo. (Sowieso het woord sultan al iets eerder gebruiken.)
 * Kan deze erbij? "No power without the powerless"
+* Chonib, Enra en Otto meer op unieke manieren laten praten/denken.
 
 @TODO: **connect** this star idea with the stars from the final story (Holbewoners).
 

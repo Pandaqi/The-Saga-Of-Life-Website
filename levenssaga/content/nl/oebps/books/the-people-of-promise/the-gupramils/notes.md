@@ -51,6 +51,7 @@ Die cyclus van wraak en "bescherm je groep" moet echt meer terugkomen.
 
 ZET DIT OOK NEER (vanuit Ashorra) als "Oh, ze wilden mij dood hebben, ze noemden me gek en wilden me niet als leider---nou ik ga bewijzen wat ik waard ben en de liefde van mijn mensen terugwinnen."
 
+@IDEA: Kan ik de "uitleg" voor het geluk van de Tamli verbinden met De Maan van Otto? Kan ik één neushoorn echt de Halfgod van Geluk maken, en precies die neushoorn komt vervolgens terug als beste vriend van Enra (enige vriend, omdat hij zich zo afsluit) in Otto? JA GOED PLAN.
 
 * Ashorra meer obsessief bezig laten zijn met een goede koning worden, zich bewijzen, het land redden, niet meer "gek" worden gevonden
   * Vanaf het begin die schuingedrukte "gedachten" geven die erg destructief zijn en inderdaad van een duistere geest lijken te komen.
@@ -64,10 +65,10 @@ ZET DIT OOK NEER (vanuit Ashorra) als "Oh, ze wilden mij dood hebben, ze noemden
   * En meer een echt "geestverhaal"
 * De personages meer eigen praatstijl, persoonlijkheid, verschijning, etcetera geven.
   * De cultuur, architectuur, specifieke diersoorten en hoe de wereld daarvoor is aangepast, en dergelijke van Tamil / Gupta neerzetten
-* H6: Noemen dat die gif specifiek komt van die plek uit De Hengel van Gif. Makkelijke referentie om te doen (De Rode Rivieren ofzo?)
-* H8: gesprek Ardex en Feria. "Het is gek, nietwaar? Hier bouwen ze al geavanceerde steden en gebouwen. Op Origina ontdekken ze pas net wat een huis is. Je hebt ... je hebt het idee dat alles beter was als de hele wereld met elkaar kon communiceren. Als de goden de nieuwste technologie aan _iedereen_ zouden geven." "Hmm, er is ergens een rode panda die heel boos zou worden als ze dit hoorde."
-* H9: Duidelijk maken dat zij vredig was gevlucht naar Candya, maar nu puur staat te vechten om zichzelf te _verdedigen_?
-* H10: Iets meer over dat gouden tijdperk. (Hij staat alle geloven toe, alle meningen. Hij zoekt buiten zijn eigen familie voor troonopvolging.)
+* **H6**: Noemen dat die gif specifiek komt van die plek uit De Hengel van Gif. Makkelijke referentie om te doen (De Rode Rivieren ofzo?)
+* **H8**: gesprek Ardex en Feria. "Het is gek, nietwaar? Hier bouwen ze al geavanceerde steden en gebouwen. Op Origina ontdekken ze pas net wat een huis is. Je hebt ... je hebt het idee dat alles beter was als de hele wereld met elkaar kon communiceren. Als de goden de nieuwste technologie aan _iedereen_ zouden geven." "Hmm, er is ergens een rode panda die heel boos zou worden als ze dit hoorde."
+* **H9**: Duidelijk maken dat zij vredig was gevlucht naar Candya, maar nu puur staat te vechten om zichzelf te _verdedigen_?
+* **H10**: Iets meer over dat gouden tijdperk. (Hij staat alle geloven toe, alle meningen. Hij zoekt buiten zijn eigen familie voor troonopvolging.)
 
 ## Check out what to do with this
 
