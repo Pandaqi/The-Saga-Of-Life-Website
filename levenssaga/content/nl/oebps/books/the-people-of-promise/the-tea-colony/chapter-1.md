@@ -1,172 +1,101 @@
 ---
-title: "??"
+title: Jumbodors Ongeluk
 weight: 1
 ---
+Het probleem met avonturiers die continenten ontdekten, was dat even later de Frambozi en Casbrita ook op kwamen dagen. Olombos ontdekte eeuwen geleden het midden van Elwar voor Esprante. Sindsdien had Casbrita de hele kustlijn daarboven gekoloniseerd, en Frambozi al het gebied daarachter. Ook de Laaglanden deden lang mee, maar vonden uiteindelijk alleen het midden van Elwar appetijtelijk.
 
+Dat betekende dat een groot gebied bestond waarvan ze _allebei_ dachten die te hebben. De Frambozi begonnen er nu kastelen---of _forts_---te plaatsen. Dus Generaal Wasserbox, van Casbrita, kreeg de taak dit een halt toe te roepen.
 
-## Personages
-WASHINGTON = most soldier, most commander, mostly good morals with a few weird cracks, insider knowledge about the Brits
-JAY = most rebellious, most guerilla warfare, comes from pretty wealthy background
-JEFFERSON = has huge library, always reads books, etcetera
-FRANKLIN = extremely eccentric, chaotic, unpredictable, but also charismatic (and thus diplomatic)
-ADAMS = very serious, terse, formal, but smart => is HE the leader of this part of the rebellion?
+Officieel stond hij bekend als een speciale boodschapper, geen soldaat. Maar stiekem had de koning ingefluisterd dat hij moest spioneren en, als mogelijk, het fort meteen innemen. En daar was Wasserbox het wel mee eens.
 
-NATIVE AMERICAN = ??
-SLAVE = ??
+Dus met een licht battalion---weinig soldaten, niet eens allemaal bewapend---sloop hij door de duisternis naar Fort Le Boef.
 
-## Outline
-* **Chapter 1**: Washington is intercepted when going to France territory to tell them to stop. They say no, but treat him really well and send him back. Later, his regiment accidentally meets one from France and an important commander carrying a diplomatic message (Jumonville) is shot. Later, when Washington must surrender he _accidentally_ signs off on "yes I killed Jumonville". This kicks off the 7 years war, which Britain wins.
-	* Incorporate his getting intel from Native Americans. That's how he brings one of theirs to their group?
-	* The reason this meeting goes so _wrong_ (and Jumonville is killed) is a Prisoner's Dilemma. Both sides are asked to pick peace of war, knowing the best solution is if they both pick _peace_, but if only one picks peace and the other doesn't ... well this happens.
-* **Chapter 2**: Britain declares broke and starts taxing and mistreating.
-	* Boycots, Committees of Correspondence
-	* In areas where it's possible, British loyalists are bullied
-	* Washington switches sides, but everyone is suspicious.
-		* Partially because he kept being passed over for promotion or just attention => a precursor for Benedict Arnold later.
-		* he and other colonists were also angered by the [Royal Proclamation of 1763](https://en.wikipedia.org/wiki/Royal_Proclamation_of_1763 "Royal Proclamation of 1763") which banned American settlement west of the [Allegheny Mountains](https://en.wikipedia.org/wiki/Allegheny_Mountains "Allegheny Mountains") and protected the [British fur trade](https://en.wikipedia.org/wiki/North_American_fur_trade "North American fur trade").
-		* "an invasion of our rights and privileges" => He said Americans must not submit to acts of tyranny since "custom and use shall make us as tame and abject slaves, as the blacks we rule over with such arbitrary sway"
-* **Chapter 3**: Boston Massacre, Boston Tea Party, Britain takes complete control
-	* Our "Sons of Liberty" is formed, with a few characters being involved with the actual missions, while others watch from above and strategize.
-* **Chapter 4**: Benedict Arnold on his way to conquer Fort Ticonderoga, meets Sons of Liberty, disputes about leadership.
-* **Chapter 5**: The attack on the fort, which breaks into the Prisoner's Dilemma when some are captured.
-	* They start getting secret aid from France and Spain (though that is a mystery now)
-	* The Brits get even angrier and lash out even more.
-* **Chapter 6**: continuation Prisoner's Dilemma.
-* **Chapter 7**: Thomas Jefferson starts writing Declaration of Independence. The others start thinking about a way to reclaim Boston and win.
-* **Chapter 8**: They butcher his declaration, Knox uses Ticonderoga to reinforce Boston
-* **Chapter 9**: Fight for Boston, win, Independence declared!
-	* Most importantly, however, this is another Prisoner's Dilemma. Multiple people get the same ultimatum at the same time, and cannot communicate/stall/whatever, so they need to accurately predict or trust what the other will do.
-* **Chapter 10**: hints about how it continues
+En nam een andere route dan afgesproken.
 
+Onder groeiend gemompel van zijn soldaten, volgde hij de Ohoi Rivier een tijdje de andere kant op. Totdat een kleine cirkel van fakkels een open plek belichtte met prachtige geschilderde tipi's---de puntige hutten van de originele inwoners van Elwar. Olombos had ze Scholianen genoemd omdat hij dacht in Schola te zijn geland, maar inmiddels was wel duidelijk dat hij er flink naast had gezeten. Men noemde hen nu de inboorlingen van Elwar, of Elwarianen.
 
-In previous stories, the "Demigod of Luck" has been mentioned several times. This feels like the time to actually introduce them. (Because the Americans WERE lucky a lot during their war, such as French/Spanish aid arriving when they were completely out of weapons/ammo.) 
-* So here they actually appear. In the final climax, they can't fight their way out, and have to trust on this demigod being who he says he is and working his magic one more time.
-* Yeah, make a Narrator Point about confirmation bias. The victors weren't necessarily victors because they were _right_ or _the best_. All circumstances in the world had to go their way. And when you look into it, many winners were just lucky and the losers unlucky. If that's the only thing on which you built your success, it will fail sooner or later.
+De soldaten van Wasserbox werden meteen omsingeld door inboorlingen die uit het niets de schaduwen opvulden. Hun bogen stonden strak op hen gericht. 
 
-All gaps or spare chapters are filled with the general conflict of ...
-* Two lovers who are forbidden from being in love by their strict rebellion leader. (Which slowly leads to people considering a mutiny against their own leader, because they wouldn't want _them_ to become boss too.)
-* Distrust between people from different backgrounds (a Native American, a slave, an American). How some of them bond, some of them just become more and more aggressive. Which comes to a head in the Prisoner's Dilemma where you must come clean about your actual feeling of trust.
-* The general hypocrisy / self-denial of people fighting for freedom while keeping slaves and treating them as such. (And how the Brits constantly try to lure slaves away by promising them freedom.)
+Toen de leider van de Elwarianen de generaal zag, kreeg hij een grote glimlach en spreidde zijn armen. Wasserbox deed hetzelfde. Het was een gebaar; ze gaven elkaar nooit echt een knuffel, want de een dacht nog altijd dat de ander besmettelijk was. De bogen gingen omlaag.
 
+Wasserbox hield een stapel gouden munten in zijn hand. Hij kon dat, want hij was een aap, net als zijn hele battalion. "Nog nieuws over de Frambozi?"
 
+"Fort Le Boef is zwaarbewaakt en heeft een van de hoogste generaals van Frambozi. Als je daarheen gaat, moet je volledig spelen dat je boodschapper bent," zei de leider. De imposante buffalo had witte strepen op zijn gezicht en een verentooi op zijn hoofd. "Maar we zien al dagenlang kleine plukjes Frambozi soldaten die zonder licht door de nacht sluipen. Ze zijn met weinig en slecht beveiligd, want ze proberen _ongezien_ iets te doen. Jouw soldaten kunnen ze makkelijk verrassen en uitroeien."
 
+Wasserbox pufte. "Ze proberen ons gebied te bereiken. Vuile Frambozi."
 
+"En wat probeerde u dan te doen, generaal?" zei de buffalo dapper.
 
+Wasserbox dacht hier even over na. In de verte dacht hij voetstappen te horen, en het knisperende geluid van iets zwaars dat over takken en bladeren rolt. Daarna gaf hij de Elwari buffalo een paar munten en draaide naar zijn soldaten. "Laat je geweren hier achter. Alleen ik en de vice-generaal houden ons geweer."
 
+"Pardon?" zei zijn vice-generaal.
 
-**"De Theekolonie"** (beschaving): over de Britten en de Fransen die elkaar bevechten. Eindigen allebei blut ... reageren het af op hun onderdanen en koloniën. Amerika komt in opstand tegen diens Britse overheersers. Eindigt met de suggestie dat de Franse revolutie gaat beginnen.
+"Wij zijn niets meer dan _simpele boodschappers_. Maar als de Frambozi onze boodschap in de wind slaan, komen we hier terug en pakken we die andere prooi."
 
-_Dit is dus de Amerikaanse Revolutie = geboorte van Amerika._
+Zijn soldaten beken de buffalo's met argwaan. Die zagen al de toekomst waarin ze gewoon hun wapens hadden gejat en waren vertrokken. Vuile Elwari, niet te vertrouwen. Maar Wasserbox was de baas, en zijn familie had een lange historie van vriendschap met de Elwari, dus ze deden het. 
 
-**@IDEE:** Concentreer dit verhaal rondom een reeks **Prisoner's Dilemmas**. Jonge gasten hebben revolutionaire gedachten en vechten tegen de onderdrukking, maar dan worden ze gescheiden opgesloten en moeten ineens hun leven wedden op wat die ander gaat doen met het dilemma.
-* Deze jonge gasten zijn vooral van rijke afkomst, want de rest is letterlijk te arm om hier tijd in te steken.
+Zonder al te veel bescherming, liepen ze verder het duister in. En inderdaad, nog geen half uur later werden ze onderschept door een Frambozi patrouille. Een grote groep otters met een paar marmotten. Zij waren duidelijk beter gekleed tegen het ijskoude winterweer hier bovenin Elwar. Wasserbox hoopte vaak dat hij een keer een missie kreeg in het zuiden, bij de tropische eilanden.
 
-**@IDEE: Dit is niet gewelddadig?** 
-* Ze krijgen het voor elkaar om de meest belangrijke werkers (boeren etc.) allemaal te laten _stoppen_ met werken, wat het hele rijk natuurlijk in één klap op de knieën krijgt.
-* Dit om te benadrukken **dat de echte macht bij de gewone mens (in grote aantallen) ligt**.
+Zonder een woord werden ze opgenomen in de groep en geleid richting Fort Le Boef. De Frambozi waren niet vriendelijk, maar ook niet vijandig. Dit was simpelweg hoe het hoorde. Niet-strijdende leden van de vijand---zoals boodschappers---behandelde je goed. Wasserbox had erop gerekend en zou het ook andersom hebben gedaan.
 
-**@IDEA:** Ik zeg in de bundelbeschrijving iets over dat hun rebellion weinig succes kent en dat ze dus wachten/zoeken naar een "mythisch wonder". Dit is letterlijk bedoelt, maar wordt uiteindelijk figuurlijk: het wonder dat er genoeg _goede mensen aan de macht zijn_ die _goede dingen willen doen_, en zo de boel veranderen.
+Ze betraden het fort. Binnen was het behaaglijk warm en liepen drukke otters van links naar rechts om taken te volbrengen. De hal waar zij binnenkwamen lag bomvol met musketgeweren, alsof ze er per ongeluk een paar duizend over hadden. Daar mochten ze natuurlijk niet blijven.
 
-**@IDEE:** Ook over een _figuurlijke_ gevangenis. Iemand die gigantische eisen stelt aan anderen, die diens eigen kinderen ziet als speelgoed, die andere wezens alleen ziet als een _probleem_ en iets om te _controleren_. Als niet binnen een familie, dan binnen een relatie of vriendschap => "Dus je controleert. Je commandeert. Je plaatst een gevangenis om ieder ander wezen omdat je banger bent dat ze je verrassen dan dat je hun geweldige ideeën moet missen."
+Het battalion eindigde in een ontvangstkamer vol tapijten en schilderijen van Frambozi koningen, en vrijwel niks anders. Daar stond de hoogste generaal klaar om de boodschap aan te horen.
 
-**@IDEA:** "I don't trust any rebellion where love is not allowed." Verwerk op een of andere manier. => JA, die persoon hierboven die anderen in een "gevangenis" plaatst, en dus ook van alles (zoals liefde) verbied binnen de revolutie.
+"De koning van Casbrita," zei Wasserbox plechtig, "vraagt u met klem om alle Frambozi troepen terug te trekken van Elwar. Wij bezitten het waardevolle gebied langs de kust, waar daadwerkelijk steden staan en wezens wonen. Jullie hebben de grote leegte daarachter. En al is die héél groot, toegegeven, het brengt jullie niks. Wij waren hier eerst. Dus trek je terug en geef de overwinning aan Casbrita, om nog meer schade te voorkomen."
 
+De generaal, een lynx, stak zijn poot uit en kreeg snel papier en inkt. Hij schreef ter plekke, in niet mis te verstane termen, dat Casbrita mocht oprotten en dat Frambozi al hun gebied zou innemen. Als de Casbrita écht gaven om wie het land eerst had, zouden ze alles terug moeten geven aan de inboorlingen.
 
-Ik wil dat idee van "Evolution within groups" (altruïsme kan toch ontwikkelen omdat het helpt om jouw _groep_ sterker te maken dan andere _groepen_) => Kan eventueel ook bij de **Theekolonie**.
-* Er is een personage dat denkt dat het onmogelijk is ("elk levend wezen zet eigen overleving altijd op de eerste plaats; denken dat het ooit anders gaat zijn is waanzin"), wil daarom ook steeds niet bij de groep horen (ook al kunnen ze zijn kennis/wapens/geld/etcetera heel goed gebruiken)
+Wasserbox kreeg eten en warme kleding voor zijn soldaten, en werd met die boodschap teruggestuurd. Ondanks de goede behandeling, siste Wasserbox even later: "De tijd voor vriendelijke boodschapjes is voorbij. Nu vallen we actief aan."
 
-**IDEE:** Dat ze proberen "netjes" oorlog te voeren en alleen militaire doelwitten van de tegenstander te raken. (Want ja, al deze rebellen leven letterlijk op dit land en al hun familie/vrienden leven er ook.) Maar ja, hoe kom je erachter welke dat zijn? Daarvoor doen ze dus spionnenmissies, "intelligence gathering", etcetera. Wat natuurlijk goed fout kan gaan als verkeerde informatie wordt doorgegeven => is DIT wat er gebeurd met vertrouwen in Theekolonie? => Als dit niet past, dan naar Oorlogen zonder Zin (cyclus 15 nu)
+Natuurlijk reisden ze eerst naar de inboorlingen. Die waren nauwelijks verplaatst in de tussentijd. Toen alle wapens stuk voor stuk werden teruggegeven, ging een zucht van verlichting door de groep. 
 
+En daarna volgden ze de Ohoi rivier verder, naar waar dat onwetende groepje Frambozi hun kamp had opgeslagen. Ze hadden geen licht en geen bewakers, wat het moeilijk maakte om hen te vinden. De zon kwam al bijna op toen één van zijn soldaten bevroor omdat hij _bijna_ per ongeluk over de poten van een vijandelijke soldaat was gestruikeld.
 
-## Notes van Oversimplified
+In een flits hadden al zijn soldaten hun wapens gereedgemaakt en op het Frambozi battalion gericht. Maar slapende soldaten zo neerschieten? Zo'n slachtpartij uitvoeren? Dat ging Wasserbox niet over zijn hart verkrijgen.
 
-Columbus ontdekte natuurlijk Amerika (voor Spanje). Spullen die hij meenam:
-* Tobacco
-* Pineapple
-* Turkey
-* Hammock
+"Hey!" schreeuwde hij. Met verbazingwekkende snelheid werden de Frambozi wakker en namen verdedigende posities in. "Jullie zijn in ondertal, wij hebben al gewonnen. Geef je over. Geef alle wapens aan ons. Jullie zijn krijgsgevangenen."
 
-Alle andere grote zeemachten (Engeland, Frankrijk, Nederland) volgden meteen en claimden andere stukjes langs de rand. Vooral de Engelsen en Fransen bleven over, waarbij Fransen het meeste hadden, en ze zelfs een groot gebied hadden dat ze _allebei_ claimden.
+Hij wist dat de Frambozi expres weigerden het taaltje van de Casbrita te leren. Maar de talen leken genoeg op elkaar dat ze de meeste commando's verstonden.
 
-Na een 7 jaar lang (globaal) conflict tussen Engeland en Frankrijk, Engeland won. Frankrijk moest helemaal weg.
+"Jullie winnen pas als jullie winnen," zei hun generaal. Zijn uniform ging gebukt onder vele medailles, maar ook een naamplaatje dat Jumbodor zei, en een symbool dat hem óók speciale boodschapper maakte.
 
-Maar door de oorlog was Engeland helemaal blut (60 miljoen verbruikt), dus ze begonnen hevig belastingen te vragen van Amerika. 
-* 1764; Sugar Act => de kolonies moesten suiker exclusief van Engeland importeren en veel extra over betalen
-* 1765; Stamp Act => een belasting die je op vrijwel elk contract kan _stampen_ => een paar jaar later moesten ze deze al opgeven
-* 1766; Declaratory Act => Engeland zegt praktisch dat ze de baas zijn en kunnen doen met de kolonies wat ze willen
-* 1767; Townshend Acts => nog meer belastingen. (Glas, lood, papier, olie, **thee**.)
+"Je weet dat je hier niet uit komt," zei Wasserbox rustig. Door de omsingeling had zeker de helft van hun soldaten geen manier om hun wapen te pakken. De andere helft keek nog slaperig uit hun ogen. "Als jullie schieten, schieten wij. Jullie dood, wij slechts een paar slachtoffers."
 
-De meest voorkomende revolutie hiertegen was een simpele **boycot** tegen Britse goederen, waardoor Engeland steeds weer moest opgeven. Ze haalden alle belastingen terug, **behalve** degene on thee.
+"En als we niet schieten, verliezen we sowieso."
 
-Deze boycots werden zelfs geregeld door Committees of Correspondence. Als mensen zich niet eraan leken te houden, werden ze zelfs gedwongen om mee te doen met ... niet bepaalde producten gebruiken. Ze huurden zelfs artsen in om Amerikaanse mannen te vertellen dat thee drinken hen zwak en vrouwelijk zou maken.
+De spanning bouwde op. Beide kanten wisten dat de beste uitkomst was om allebei niet te schieten. Maar de beste uitkomst per groep was als jij wél schoot en de ander niet. Als je de eerste was die schoot, kon je misschien wel winnen voordat de ander reageerde.
 
-Het was bijna als een government => deze mate van samenwerking en structuur maakte het _makkelijk_ om later de Continentale Congress te starten.
+Poten, vingers, en staarten krulden om de trekkers van musketgeweren. Ondanks de sneeuw droop het zweet van gezichten. De generaals staarden elkaar aan.
 
-(Naast boycots kregen veel Britse loyalisten de tar-and-feather treatment, wat veel dodelijker is dan je denkt.)
+Iemand schoot. 
 
-Ze stuurden 1000 soldaten naar Boston. Een paar Amerikanen begonnen een soldaat uit te lachen en lastig te vallen (papier en stenen gooien), support kwam aan beide kanten, totdat de soldaten in ondertal in paniek begonnen te schieten. (Vijf doden, Boston Massacre.)
+Wasserbox wist niet wie. Maar in reactie schoten alle andere dieren ook. Het gevecht duurde maar een paar tellen, nauwelijks lang genoeg om meerdere keren te vuren. En toen de rook klaarde, was het grootste deel van de Frambozi dood, en een stuk of tien soldaten aan zijn kant. 
 
-Toen duidelijk werd dat de gouverneur van Massasuchets de kolonisten steunde en hun onderdrukking, werd zijn huis verbrand.
+Het belangrijkste was de gevallen Jumbodor. Uit een binnenzak van zijn uniform stak een brief. Toen Wasserbox dichterbij kwam, zag hij dat het gericht was aan Casbrita. Het bevatte hetzelfde verzoek als hij eerder deed: dat de vijand terugtrok om meer bloedvergieten te voorkomen.
 
-December 16, 1773: _Sons of Liberty_ vermommen zich als Native Americans, kapen een schip in Boston Harbor, en gooien (publiekelijk) 10,000 ton aan thee in de zee. Als reactie haalde Engeland hun hele (vrije?) bestuur weg en stuurde nogmaals 3000 troepen. Boston stond nu onder directe controle van Engeland.
+Zijn ogen gleden nogmaals over Jumbodor. Hij moest een héle hoge generaal zijn geweest.
 
-Kwaad---en bang dat zij dadelijk de volgende waren---organiseerden de andere staten de eerste Continental Congress (in Philadelphia). Vrijwel alle bekende namen uit Amerikaanse geschiedenis zijn bij deze of latere congressen op komen dagen (zoals Hamilton en Washington).
+"We moeten weg! Nu!" schreeuwde hij. Wat over was van zijn battalion rende achter hem aan langs de Ohoi rivier. Sommige renden het water in, bang dat Frambozi nu vanachter elke boom zouden beginnen met schieten.
 
-Toen Engeland niet luisterde, besloten ze alle mensen met wapens in alle staten te vertellen dat ze klaar moesten zijn voor een oorlog. (Washington vocht eerst voor de Britten, maar was nu degene met dit plan en de leider van de rebellen.)
+Rennen. Rennen tot ze terug waren in Casbrita gebied. En dan? Dit zou---
 
-Engeland wilde snel toeslaan ('s nachts) voordat de rebellen te sterk en georganiseerd waren. Ze ontmoetten het eerste rebellenleger rond Lexington. Iemand schoot. De oorlog was officieel begonnen. In eerste instantie wint Engeland door superieure aantallen, maar als alle rebellen eenmaal wakker zijn worden ze juist omsingeld in Boston en zijn hulpeloos.
+Tegen de middag werden ze van alle kanten beschoten. Meerdere troepen Frambozi hadden hun spoor gevonden en joegen hen op alsof ze prooidieren waren. 
 
-Colonel Benedict Arnold maakt het plan om **Fort Ticonderoga** in te nemen, want daar zijn veel wapens en ammunitie opgeslagen. Onderweg kwam hij de _Green Mountain Boys_ (van Ethan Allen) tegen die exact hetzelfde plan hadden. Samen namen ze het fort met weinig problemen in, hoewel Ethan alle eer opstreek.
+Wasserbox leidde zijn mannen naar het dichtstbijzijnde kasteel: Fort Noodzaak. Een passende naam. Ze konden de hoge grijze torens als zien. Een groep zwaarbewapende apen openden de poorten al.
 
-Vanaf dat moment besloten de rebellen om een fatsoenlijk leger te onderhouden (onder Washingtons officiële leiding).
+Maar toen ze zagen hoeveel Frambozi er precies op Wasserbox' nek zaten, sloten ze héél langzaam de piepende poort.
 
-Inmiddels zag de rest van de wereld Engeland als de grote brute slechterik. Dus Frankrijk en Spanje begonnen de _rebellen_ te steunen met goederen en geld.
+"Hey! Doe open! Ik---"
 
-Henry Knox haalt alle wapens uit Fort Ticonderoga en reist twee maanden richting Boston, zodat ze de siege eindelijk konden eindigen door een actieve aanval in te zetten. => Engeland moest Boston opgeven en vertrekken per schip. (Daarna verplaatste dit leger naar New York, het meest waarschijnlijke andere doelwit van Engeland.)
+Een schot schampte zijn vingers. De schok en de pijn brachten hem tot stilstand, ook al had hij geen wond. Een diepe zucht ontsnapte hem.
 
-Thomas Payne schreef een pamflet genaamd "Common Sense" waarin hij schreef waarom ze totale onafhankelijkheid van Engeland moesten hebben. => Hierop werd Thomas Jefferson aangestuurd om een officiële Declaration of Independence te schrijven.
+Hij stak zijn handen op, zo'n kilometer verwijderd van Fort Noodzaak. Zijn soldaten deden hetzelfde. Binnen de kortste keren stroomden otters, marmotten en lynxen door het bos en omsingelden hen.
 
-July 4th, 1776, Amerika had gewonnen en de United States of America waren geboren. (John Adams deed deze declaratie, als leider van dat congress. Dit werd niet geaccepteerd door Engeland.)
+Wasserbox kreeg een formulier voor zijn ogen. Een formulier in de Frambozi taal, niet zijn eigen. Een vertaler werd opgeroepen en vertelde hem dat het een standaard verliezersdocument was. Eentje die zei dat je je opgaf en al je soldaten gevangen van de tegenstander werden. Wasserbox zelf mocht terug, zo vereiste de eer van de Frambozi.
 
-Engeland viel eindelijk aan, met een gigantisch leger richting New York (via Staten Island). Ze achtervolgden de Amerikanen door alle staten, met slag na slag, en allemaal verloren door de Amerikanen.
+Hij zette zijn handtekening eronder.
 
-De Britten besloten pauze te houden en te genieten van de winter, want ze gingen ervan uit dat er toch niet werd gevochten dan. Washington stak de icy Delaware river over en viel lekker wel aan, waardoor hij won (van Hessian mercenaries).
+_Wat hij niet wist, beste lezer, was dat het document ook zei dat hij volledige verantwoordelijkheid voor de brute moord op hooggeplaatste generaal Jumbodor. Dat de Casbrita deze moord bewust hadden gepleegd omdat ze de Frambozi minderwaardig achtten. En dat dit een oorlogsmisdaad was, zeker nadat zij Wasserbox zó goed hadden behandeld op Fort Le Boef._
 
-Na dit verlies, maakten de Britten een beter plan om te winnen. Generaal Williams (Burgoyne?) zou van boven komen en Generaal Howe van onderen, waardoor ze het Amerikaanse gebeid door midden spleten als ze elkaar in het midden ontmoetten. Williams deed z'n ding, maar moest stoppen na te veel weerstand. Howe negeerde het plan en ging voor persoonlijke glorie door Philadelphia plotseling aan te vallen. => Congress moest vluchten naar York.
-
-(De tactiek van "hit him with a decoy and flank him from behind" werd door de Britten vaak succesvol gebruikt.)
-
-Nadat Burgoyne in Saratoga compleet de grond in was gestampt door _Benedict Arnold!_, vond Frankrijk het genoeg bewijs dat de Amerikanen zouden winnen. Dus ze stapten in de oorlog aan hun kant. En Frankrijk stuurde adviseurs die het Amerikaanse leger daadwerkelijk _trainden_. (Benjamin Franklin was al die tijd aan het onderhandelen met hen in Frankrijk.)
-
-John Paul Jones (Scottish) was een soort piraat die de Engelse kust lastigviel met veel succes. Maar de Amerikanen hadden nog steeds geen zeeleger---totdat Frankrijk hun vloot aanbood.
-
-> Fun Fact About John Paul Jones: he once Joined the Russian Navy and Commanded a Russian Fleet Against the Ottoman Empire in the Russo Turkish war of 1768
-
-Spanje stapte ook in de oorlog. Waar Frankrijk vooral hielp bovenin (richting Canada), hielp Spanje vooral in het midden (richting Mexico). Daar waren de meeste Native Americans, die ook vaak werden ingehuurd door de ene of de andere partij. 
-
-Ook veel African Americans hielpen mee, hopend dat het vrijheid zou opleveren, maar vooral die aan Amerikaanse kant gingen gewoon terug naar slaaf zijn. => De Britten maakten hier gebruik van door wél vrijheid te garanderen, waardoor ze veel meer aan hun kant kregen.
-
-(Thomas Jefferson had in eerste instantie slavernij verboden in de Decloration, maar op het laatste moment was die weggehaald omdat ze bang waren de zuidelijke kolonies kwijt te raken.)
-
-Benedict Arnold, na constant geen eer te krijgen voor zijn daden, en nu boze brieven van Washington over zijn gedrag, besluit over te lopen. Hij krijgt de leiding over een groot fort en geeft al diens geheimen aan de Britten. (Deze eerste plannen werden onderschept op een gevangen Britse soldaat, maar daarna ging hij gewoon lekker door.)
-
-> Apparently Benedict Arnold almost died at Saratoga. If he did, he would have gone down as one of the greatest heros in American history with statues erected everywhere and towns named in his honour.
-
-1780; de grootste problemen voor de Amerikanen waren mutinies (nog meer mensen die overliepen). Veel mannen vochten zonder salaris of basic needs, in de strengste winter tot nog toe, en geen einde van het vechten in zicht.
-
-Nu de Fransen met méér troepen aan kwamen zetten, echter, wisten de Amerikanen de Britten te overlopen. Yorktown werd een gigantische winst.
-
-1783; Peace Treaty. Britten halen alle troepen weg. Ook geven ze al het territorium op in het westen van de staten. (Wat _veruit het grootste deel van Amerika was_, maar simpelweg onbewoond.) Amerika belooft schuld te betalen en overgebleven kolonisten eerlijk te behandelen.
-
-Washington wordt (tegen zijn eigen zin) eerste president USA. Zijn manier van handelen zette veel regels en gewoontes van het presidentschap nu. (Zoals dat hij de macht vrijwillig opgaf na 2 terms. En de jaarlijkse State Address om zijn macht in check te houden.)
-
-> He was heavily inspired by Cinncinatus, an ancient Roman who the Romans considered to be the model example of a "dictator". In Rome's Republican political system, a "dictator" would be appointed in times of crisis. They would gain absolute power for a limited time in order to address the crisis. Cinncinatus was one such dictator who immediately resigned from politics and went back to farming upon solving the crisis he was faced with, and Washington sought sought emulate him. The city of Cinncinati is named for him
-
-(Frankrijk heeft nu inmiddels ook een gigantische schuld en loopt zo de Franse Revolutie in 10 jaar later.)
-
-Fun Fact: during the siege of Yorktown near the end of the war, British General Cornwallis’s dog somehow got onto the American side, and George Washington paused the battle to return the dog back to him.
-
-
-
-
-QUOTE: "If you're going to base your new society on philosophy, you should try to found it on ideals that are as inclusive and humanistic as possible - because the people executing those ideas will never be ideal" - John Green
+Binnen een dag brak een gigantische, wereldwijde oorlog uit tussen de Frambozi en Casbrita.
