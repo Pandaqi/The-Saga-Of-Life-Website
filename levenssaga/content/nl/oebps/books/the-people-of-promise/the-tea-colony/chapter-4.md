@@ -1,165 +1,121 @@
 ---
-title: Alle Staten Een
+title: Alle Kolonies Een
 weight: 4
 ---
+Casbrita had een nieuwe lading soldaten gestuurd om Bosnot in het gareel te houden. Ook hadden ze in alle kolonies het recht weggehaald om zichzelf te besturen. In de praktijk waren de kolonies nu direct bestuurd door het parlement van Casbrita---aan de andere kant van de wereld.
 
-## Personages
-WASHINGTON (Wasserbox) = most soldier, most commander, mostly good morals with a few weird cracks, insider knowledge about the Brits
-JAY (Ajay) = most rebellious, most guerilla warfare, comes from pretty wealthy background
-JEFFERSON (Jefizon) = has huge library, always reads books, etcetera
-FRANKLIN = extremely eccentric, chaotic, unpredictable, but also charismatic (and thus diplomatic)
-ADAMS = very serious, terse, formal, but smart => is HE the leader of this part of the rebellion?
+Door de verhoogde hoeveelheid soldaten moesten de _Kinderen van Vrijheid_ weg uit hun café. Gelukkig hadden die rijke oprichters allemaal wel een landgoed, dus ze trokken naar die van Ajay. Jefizon en Fuja kozen meteen samen een slaapkamer uit.
 
-NATIVE AMERICAN = ??
-SLAVE = ??
+Totdat Ajay ertussen kwam. Hij leunde in de deuropening, zijn strenge ogen op het koppel.
 
-## Outline
+"Kappen hiermee," zei hij. "Of je breekt de relatie, of jullie mogen allebei oprotten."
 
-@TODO: We hebben iets meer andere diersoorten nodig + dat mythische wonder/Halfgod van Geluk moet eigenlijk al in het verhaal zitten.
+"Dat is waanzin, Ajay," zei Jefizon, die Fuja vasthield.
 
-* **Chapter 4**: eerste Continentale Congress;
-	* Benedict Arnold on his way to conquer Fort Ticonderoga, meets Sons of Liberty, disputes about leadership.
-* **Chapter 5**: The attack on the fort, which breaks into the Prisoner's Dilemma when some are captured.
-	* They start getting secret aid from France and Spain (though that is a mystery now)
-	* The Brits get even angrier and lash out even more.
-* **Chapter 6**: continuation Prisoner's Dilemma.
-* **Chapter 7**: Thomas Jefferson starts writing Declaration of Independence. The others start thinking about a way to reclaim Boston and win.
-* **Chapter 8**: They butcher his declaration, Knox uses Ticonderoga to reinforce Boston
-* **Chapter 9**: Fight for Boston, win, Independence declared!
-	* Most importantly, however, this is another Prisoner's Dilemma. Multiple people get the same ultimatum at the same time, and cannot communicate/stall/whatever, so they need to accurately predict or trust what the other will do.
-* **Chapter 10**: hints about how it continues
+"Ga maar weg dan," zei hij, terwijl zijn linkerhand wees naar de uitgang.
 
+"Na alles dat we hebben gedaan voor de rebellen?" zei Jefizon vol ongeloof. "Net nu we winnen?"
 
-In previous stories, the "Demigod of Luck" has been mentioned several times. This feels like the time to actually introduce them. (Because the Americans WERE lucky a lot during their war, such as French/Spanish aid arriving when they were completely out of weapons/ammo.) 
-* So here they actually appear. In the final climax, they can't fight their way out, and have to trust on this demigod being who he says he is and working his magic one more time.
-* Yeah, make a Narrator Point about confirmation bias. The victors weren't necessarily victors because they were _right_ or _the best_. All circumstances in the world had to go their way. And when you look into it, many winners were just lucky and the losers unlucky. If that's the only thing on which you built your success, it will fail sooner or later.
+"Zie je wel, liefde maakt je al blind," bromde Ajay. "We zijn niet aan het winnen. Deze grap met de thee weggooien heeft ons weggejaagd uit Bosnot. En ik heb bewijs dat Fuja een spion is."
 
-All gaps or spare chapters are filled with the general conflict of ...
-* Two lovers who are forbidden from being in love by their strict rebellion leader. (Which slowly leads to people considering a mutiny against their own leader, because they wouldn't want _them_ to become boss too.)
-* Distrust between people from different backgrounds (a Native American, a slave, an American). How some of them bond, some of them just become more and more aggressive. Which comes to a head in the Prisoner's Dilemma where you must come clean about your actual feeling of trust.
-* The general hypocrisy / self-denial of people fighting for freedom while keeping slaves and treating them as such. (And how the Brits constantly try to lure slaves away by promising them freedom.)
+"Ja. Voor ons."
 
+"ERUIT!"
 
+Jefizon en Fuja lieten elkaars warme handen los. Ze keken elkaar lang in de ogen, totdat Fuja als eerste sprak.
 
+"Ik ben bang ... dat we elkaar niet meer moeten zien," zei ze, waarna ze huilend de kamer uit rende.
 
+Jefizon bleef achter, kwaad en alleen. Ajay leek gerustgesteld, totdat Jefizon langs hem liep en hem een snoeiharde schouderbeuk gaf. "Ik vertrouw geen revolutie waar liefde niet is toegestaan."
 
+Toen Jefizon beneden kwam, was Fuja al verdwenen. Ze zou toch niet helemáál weggaan? Had hij ... had hij de signalen in haar ogen wel goed begrepen? Ze wilde stiekem samenblijven?
 
+De deur ging open en een lang verloren lid van de rebellen kwam binnen. Benni Fracclin, weer ietsje dikker dan de vorige keer, maar nog even vrolijk en charismatisch als altijd.
 
-**"De Theekolonie"** (beschaving): over de Britten en de Fransen die elkaar bevechten. Eindigen allebei blut ... reageren het af op hun onderdanen en koloniën. Amerika komt in opstand tegen diens Britse overheersers. Eindigt met de suggestie dat de Franse revolutie gaat beginnen.
+"Ah, Jefizon! Je kijkt alsof je de wolken gaat vermoorden. Laat mij je verblijden met goed nieuws: onze uitvinders denken een verbetering te hebben ontdekt aan onze pistolen. Straks schieten we sneller en beter dan die Casbrita!"
 
-_Dit is dus de Amerikaanse Revolutie = geboorte van Amerika._
+Ajay kwam ook de trap af en riep iedereen bij elkaar voor een belangrijke bespreking. Totdat hij Fracclin zag.
 
-**@IDEE:** Concentreer dit verhaal rondom een reeks **Prisoner's Dilemmas**. Jonge gasten hebben revolutionaire gedachten en vechten tegen de onderdrukking, maar dan worden ze gescheiden opgesloten en moeten ineens hun leven wedden op wat die ander gaat doen met het dilemma.
-* Deze jonge gasten zijn vooral van rijke afkomst, want de rest is letterlijk te arm om hier tijd in te steken.
+"Fracclin, je moet stoppen met je bezoekjes aan de wetenschapsbeurzen."
 
-**@IDEE: Dit is niet gewelddadig?** 
-* Ze krijgen het voor elkaar om de meest belangrijke werkers (boeren etc.) allemaal te laten _stoppen_ met werken, wat het hele rijk natuurlijk in één klap op de knieën krijgt.
-* Dit om te benadrukken **dat de echte macht bij de gewone mens (in grote aantallen) ligt**.
+Hij fronste. "Waarom nu weer?"
 
-**@IDEA:** Ik zeg in de bundelbeschrijving iets over dat hun rebellion weinig succes kent en dat ze dus wachten/zoeken naar een "mythisch wonder". Dit is letterlijk bedoelt, maar wordt uiteindelijk figuurlijk: het wonder dat er genoeg _goede mensen aan de macht zijn_ die _goede dingen willen doen_, en zo de boel veranderen.
+"En stap uit de Raad van Uitvinders."
 
-**@IDEE:** Ook over een _figuurlijke_ gevangenis. Iemand die gigantische eisen stelt aan anderen, die diens eigen kinderen ziet als speelgoed, die andere wezens alleen ziet als een _probleem_ en iets om te _controleren_. Als niet binnen een familie, dan binnen een relatie of vriendschap => "Dus je controleert. Je commandeert. Je plaatst een gevangenis om ieder ander wezen omdat je banger bent dat ze je verrassen dan dat je hun geweldige ideeën moet missen."
+Fracclin schudde zijn hoofd. "Gaat niet gebeuren, Ajay. Ik had nooit gedacht dat jij nog het meest bang was voor wetenschappers."
 
-**@IDEA:** "I don't trust any rebellion where love is not allowed." Verwerk op een of andere manier. => JA, die persoon hierboven die anderen in een "gevangenis" plaatst, en dus ook van alles (zoals liefde) verbied binnen de revolutie.
+"Jullie zijn _freaks_. Jouw reputatie laat alle rebellen een stel gekkies lijken. Stop ermee."
 
+Fracclin keek naar de rest. Zijn voorhoofd was kaal, wat zijn achterhoofd leek te willen compenseren met extra lange haren die al vroeg grijs werden. Hij was nooit een strijder geweest of een held, maar wel veruit de slimste en warmste persoon van de rebellen.
 
-Ik wil dat idee van "Evolution within groups" (altruïsme kan toch ontwikkelen omdat het helpt om jouw _groep_ sterker te maken dan andere _groepen_) => Kan eventueel ook bij de **Theekolonie**.
-* Er is een personage dat denkt dat het onmogelijk is ("elk levend wezen zet eigen overleving altijd op de eerste plaats; denken dat het ooit anders gaat zijn is waanzin"), wil daarom ook steeds niet bij de groep horen (ook al kunnen ze zijn kennis/wapens/geld/etcetera heel goed gebruiken)
+"Oh kom op," bromde Wasserbox. "Je gaat toch---"
 
-**IDEE:** Dat ze proberen "netjes" oorlog te voeren en alleen militaire doelwitten van de tegenstander te raken. (Want ja, al deze rebellen leven letterlijk op dit land en al hun familie/vrienden leven er ook.) Maar ja, hoe kom je erachter welke dat zijn? Daarvoor doen ze dus spionnenmissies, "intelligence gathering", etcetera. Wat natuurlijk goed fout kan gaan als verkeerde informatie wordt doorgegeven => is DIT wat er gebeurd met vertrouwen in Theekolonie? => Als dit niet past, dan naar Oorlogen zonder Zin (cyclus 15 nu)
+"Ik zou denken dat jij als soldaat _begreep_ dat je niet tegen je baas inging. Ik, Ajay, de baas."
 
+Wasserbox lachte. "Wie moet herhalen dat hij de baas is---"
 
-## Notes van Oversimplified
+"Heb je ooit een boek gelezen? Of je hersencellen gebruikt?" snauwde Jefizon. "Wasserbox staat erom bekend dat hij luistert naar adviezen van anderen. Je moet juist tegen je baas ingaan als die een stomme fout maakt. Het _enige_ dat de baas doet, en dit is een nobele taak die hij niet moet misbruiken, is de eindbeslissing maken."
 
-Columbus ontdekte natuurlijk Amerika (voor Spanje). Spullen die hij meenam:
-* Tobacco
-* Pineapple
-* Turkey
-* Hammock
+Ajay was even stil. "Nou, dan, mijn eindbeslissing is dat Fracclin moet stoppen met zijn heksenwerk en dat Fuja lekker weg mag blijven. Vertrouwde haar al niet vanaf het begin."
 
-Alle andere grote zeemachten (Engeland, Frankrijk, Nederland) volgden meteen en claimden andere stukjes langs de rand. Vooral de Engelsen en Fransen bleven over, waarbij Fransen het meeste hadden, en ze zelfs een groot gebied hadden dat ze _allebei_ claimden.
+Als het een stemming was geweest, had niemand Ajay als leider gekozen. Maar Ajay had deze rebellen _opgericht_, alles ervoor geregeld, en het meeste geld en connecties om het een succes te maken.
 
-Na een 7 jaar lang (globaal) conflict tussen Engeland en Frankrijk, Engeland won. Frankrijk moest helemaal weg.
+Dus met terneergeslagen ogen en een bedrukte stemming, nam iedereen plaats in een ring rondom Ajay.
 
-Maar door de oorlog was Engeland helemaal blut (60 miljoen verbruikt), dus ze begonnen hevig belastingen te vragen van Amerika. 
-* 1764; Sugar Act => de kolonies moesten suiker exclusief van Engeland importeren en veel extra over betalen
-* 1765; Stamp Act => een belasting die je op vrijwel elk contract kan _stampen_ => een paar jaar later moesten ze deze al opgeven
-* 1766; Declaratory Act => Engeland zegt praktisch dat ze de baas zijn en kunnen doen met de kolonies wat ze willen
-* 1767; Townshend Acts => nog meer belastingen. (Glas, lood, papier, olie, **thee**.)
+"Wat belangrijke nieuws?" vroeg Bardams. Zoals altijd waren de meesten al vergeten dat hij er was.
 
-De meest voorkomende revolutie hiertegen was een simpele **boycot** tegen Britse goederen, waardoor Engeland steeds weer moest opgeven. Ze haalden alle belastingen terug, **behalve** degene on thee.
+"De roep is gekomen," zei Ajay met een glimlach. "Philadinna. Daar gaan de grootste leiders en denkers van elke kolonie samenkomen. Ze noemen het een _Continentaal Congres_. We gaan bespreken hoe we kunnen samenwerken en het land besturen nadat Casbrita is weggejaagd."
 
-Deze boycots werden zelfs geregeld door Committees of Correspondence. Als mensen zich niet eraan leken te houden, werden ze zelfs gedwongen om mee te doen met ... niet bepaalde producten gebruiken. Ze huurden zelfs artsen in om Amerikaanse mannen te vertellen dat thee drinken hen zwak en vrouwelijk zou maken.
+"_Als_ Casbrita kan worden weggejaagd," zei Jefizon.
 
-Het was bijna als een government => deze mate van samenwerking en structuur maakte het _makkelijk_ om later de Continentale Congress te starten.
+"Het gaat gebeuren," zei Ajay zelfverzekerd.
 
-(Naast boycots kregen veel Britse loyalisten de tar-and-feather treatment, wat veel dodelijker is dan je denkt.)
+Fracclin kuchte en keek op met een scheve glimlach. "Weet je zeker dat je mij wilt verbieden om mijn ... bijbaantjes te doen buiten de rebellen?"
 
-Ze stuurden 1000 soldaten naar Boston. Een paar Amerikanen begonnen een soldaat uit te lachen en lastig te vallen (papier en stenen gooien), support kwam aan beide kanten, totdat de soldaten in ondertal in paniek begonnen te schieten. (Vijf doden, Boston Massacre.)
+Ajay fronste. "Ja. Volgens mij was ik duidelijk."
 
-Toen duidelijk werd dat de gouverneur van Massasuchets de kolonisten steunde en hun onderdrukking, werd zijn huis verbrand.
+"En wat als ik zeg dat _ik_ met dit hele idee ben gekomen en dat hele potdomme congres heb geregeld? Dan nog steeds, Ajay?"
 
-December 16, 1773: _Sons of Liberty_ vermommen zich als Native Americans, kapen een schip in Boston Harbor, en gooien (publiekelijk) 10,000 ton aan thee in de zee. Als reactie haalde Engeland hun hele (vrije?) bestuur weg en stuurde nogmaals 3000 troepen. Boston stond nu onder directe controle van Engeland.
+Hij viel stil, zijn gezicht grauw. Uiteindelijk draaide hij om en liep boos weg. 
 
-Kwaad---en bang dat zij dadelijk de volgende waren---organiseerden de andere staten de eerste Continental Congress (in Philadelphia). Vrijwel alle bekende namen uit Amerikaanse geschiedenis zijn bij deze of latere congressen op komen dagen (zoals Hamilton en Washington).
+___
 
-Toen Engeland niet luisterde, besloten ze alle mensen met wapens in alle staten te vertellen dat ze klaar moesten zijn voor een oorlog. (Washington vocht eerst voor de Britten, maar was nu degene met dit plan en de leider van de rebellen.)
+Het was de bedoeling dat ze één iemand stuurden, waarbij Fracclin natuurlijk de voorkeur kreeg. Maar Jefizon wilde ook mee. En Bardams. En Ajay ging natuurlijk niet zijn beste leden op pad sturen zonder zelf toe te kijken. 
 
-Engeland wilde snel toeslaan ('s nachts) voordat de rebellen te sterk en georganiseerd waren. Ze ontmoetten het eerste rebellenleger rond Lexington. Iemand schoot. De oorlog was officieel begonnen. In eerste instantie wint Engeland door superieure aantallen, maar als alle rebellen eenmaal wakker zijn worden ze juist omsingeld in Boston en zijn hulpeloos.
+Dus uiteindelijk kwamen ze met z'n allen aan in Philadinna. Alle kolonies hadden hun beste vertegenwoordigers gestuurd. Voor sommige kolonies waren dit de gouverneurs van de steden---althans, voordat ze uit die positie waren gezet en de Casbrita een eigen dier de baas had gemaakt. Voor andere waren dit belangrijke soldaten of slimme denkers zoals Bardams.
 
-Colonel Benedict Arnold maakt het plan om **Fort Ticonderoga** in te nemen, want daar zijn veel wapens en ammunitie opgeslagen. Onderweg kwam hij de _Green Mountain Boys_ (van Ethan Allen) tegen die exact hetzelfde plan hadden. Samen namen ze het fort met weinig problemen in, hoewel Ethan alle eer opstreek.
+Uiteindelijk zat de zaal vol met dieren die alles wisten van de wet en hoe je een land moest besturen, maar ook dieren die alles wisten van hoe je een vijandelijk leger moest verslaan. Iedereen mocht spreken en diens gedachten geven.
 
-Vanaf dat moment besloten de rebellen om een fatsoenlijk leger te onderhouden (onder Washingtons officiële leiding).
+Maar de rebellen werden verrast door wat er werd gezegd. Al die andere kolonies wilden vooral de relatie met Casbrita herstellen. Een voordelige vrede afspreken, handel weer mogelijk maken, en zo de kolonies weer sterk krijgen.
 
-Inmiddels zag de rest van de wereld Engeland als de grote brute slechterik. Dus Frankrijk en Spanje begonnen de _rebellen_ te steunen met goederen en geld.
+Hun enige geluk was dat Bardams en Jefizon werden herkend als de belangrijkste personen. Hun prestaties, diploma's en genie maakten hen bijna de baas van het congres. Dus zij konden als enige een tegengeluid geven.
 
-Henry Knox haalt alle wapens uit Fort Ticonderoga en reist twee maanden richting Boston, zodat ze de siege eindelijk konden eindigen door een actieve aanval in te zetten. => Engeland moest Boston opgeven en vertrekken per schip. (Daarna verplaatste dit leger naar New York, het meest waarschijnlijke andere doelwit van Engeland.)
+"En wat als Casbrita nooit vrede wil?" zei Bardams. "Dan verzwakken we onszelf terwijl zij toeslaan."
 
-Thomas Payne schreef een pamflet genaamd "Common Sense" waarin hij schreef waarom ze totale onafhankelijkheid van Engeland moesten hebben. => Hierop werd Thomas Jefferson aangestuurd om een officiële Declaration of Independence te schrijven.
+"De afstand is het probleem," voegde Jefizon toe. "Nieuwe troepen van Casbrita moeten maandenlang over zee reizen voordat ze hier aankomen. Dus het kan dat wij een vredesvoorstel sturen ... terwijl zij al duizend boten onze kant op hebben gestuurd. Ze lachen ons uit!"
 
-July 4th, 1776, Amerika had gewonnen en de United States of America waren geboren. (John Adams deed deze declaratie, als leider van dat congress. Dit werd niet geaccepteerd door Engeland.)
+"We zijn in géén toestand om Casbrita te bevechten," opperde een andere stem. "Onze soldaten zijn losse plukjes vaders en zonen verspreid over de kolonies. Onze economie staat stil nu Casbrita ons niks meer levert! Nee, vrede is het eerste pad om te bewandelen."
 
-Engeland viel eindelijk aan, met een gigantisch leger richting New York (via Staten Island). Ze achtervolgden de Amerikanen door alle staten, met slag na slag, en allemaal verloren door de Amerikanen.
+"Denk dan aan het _principe_," zei Bardams. "Geen dier zou gebukt moeten gaan onder de controle van een ander. De kolonies zijn van de inwoners, niet van de Casbrita die er niet eens zelf wonen. We moeten onszelf uit principe bevrijden. Wij kunnen het _eerste land_ ter wereld worden die dictators en koningen afschaft! Zoals wij slavernij al lang geleden hadden moeten afschaffen."
 
-De Britten besloten pauze te houden en te genieten van de winter, want ze gingen ervan uit dat er toch niet werd gevochten dan. Washington stak de icy Delaware river over en viel lekker wel aan, waardoor hij won (van Hessian mercenaries).
+Dat gaf een sterkere reactie. Zeker in de zuidelijke kolonies leefde men bijna volledig van slavernij. Het hele gebied stond vol met kwekerijen waar luxe goederen als katoen en suiker werden verbouwd. Verbouwd door slaven. Zij vonden Bardams' woorden walgelijke praat.
 
-Na dit verlies, maakten de Britten een beter plan om te winnen. Generaal Williams (Burgoyne?) zou van boven komen en Generaal Howe van onderen, waardoor ze het Amerikaanse gebeid door midden spleten als ze elkaar in het midden ontmoetten. Williams deed z'n ding, maar moest stoppen na te veel weerstand. Howe negeerde het plan en ging voor persoonlijke glorie door Philadelphia plotseling aan te vallen. => Congress moest vluchten naar York.
+Uiteindelijk ging het congres maar liefst zes weken lang door. Dat was de keerzijde van iedereen laten spreken en alles uithoren.
 
-(De tactiek van "hit him with a decoy and flank him from behind" werd door de Britten vaak succesvol gebruikt.)
+Wasserbox was er ook, maar zei niks. Ajay had hem in eerste instantie verboden om binnen te komen en mee te luisteren tijdens het congres, maar toen hadden andere leiders hem alsnog uitgenodigd omdat ze hem herkenden. Ajay vroeg zich af of iedereen gek was geworden en Wasserbox' verleden bij Casbrita was vergeten.
 
-Nadat Burgoyne in Saratoga compleet de grond in was gestampt door _Benedict Arnold!_, vond Frankrijk het genoeg bewijs dat de Amerikanen zouden winnen. Dus ze stapten in de oorlog aan hun kant. En Frankrijk stuurde adviseurs die het Amerikaanse leger daadwerkelijk _trainden_. (Benjamin Franklin was al die tijd aan het onderhandelen met hen in Frankrijk.)
+Uiteindelijk konden ze maar over twee dingen eens worden. Alle soldaten moesten paraat staan om te vechten. En ze zouden snel een volgend congres houden, als dit vredesvoorstel werd afgewezen door Casbrita.
 
-John Paul Jones (Scottish) was een soort piraat die de Engelse kust lastigviel met veel succes. Maar de Amerikanen hadden nog steeds geen zeeleger---totdat Frankrijk hun vloot aanbood.
+Ze reden weer naar huis in hun koets, getrokken door zes paarden. Bardams vond dit gebruik van paarden niet kunnen, maar moest toegeven dat de afstand veel te ver was om te lopen. Zelfs met de duurste koets duurde het weken.
 
-> Fun Fact About John Paul Jones: he once Joined the Russian Navy and Commanded a Russian Fleet Against the Ottoman Empire in the Russo Turkish war of 1768
+Zeker als je enkele kilometers voor het einde werd opgehouden door een groep inboorlingen.
 
-Spanje stapte ook in de oorlog. Waar Frankrijk vooral hielp bovenin (richting Canada), hielp Spanje vooral in het midden (richting Mexico). Daar waren de meeste Native Americans, die ook vaak werden ingehuurd door de ene of de andere partij. 
+De Elwarianen versperden de weg en joelden luid om aandacht te trekken. Ze hielden wapens in de aanslag, maar richtten ze nog niet op de koets. De paarden weigerden door te lopen, mede vanwege twee tipi's waar ze niet omheen konden.
 
-Ook veel African Americans hielpen mee, hopend dat het vrijheid zou opleveren, maar vooral die aan Amerikaanse kant gingen gewoon terug naar slaaf zijn. => De Britten maakten hier gebruik van door wél vrijheid te garanderen, waardoor ze veel meer aan hun kant kregen.
+Wasserbox was als enige dapper genoeg om uit te stappen. 
 
-(Thomas Jefferson had in eerste instantie slavernij verboden in de Decloration, maar op het laatste moment was die weggehaald omdat ze bang waren de zuidelijke kolonies kwijt te raken.)
+"Is er een probleem?" zei hij rustig. "Of zullen we dit een ongelukkige ontmoeting noemen en nemen wij een andere route naar huis?"
 
-Benedict Arnold, na constant geen eer te krijgen voor zijn daden, en nu boze brieven van Washington over zijn gedrag, besluit over te lopen. Hij krijgt de leiding over een groot fort en geeft al diens geheimen aan de Britten. (Deze eerste plannen werden onderschept op een gevangen Britse soldaat, maar daarna ging hij gewoon lekker door.)
+Uit de groep inboorlingen stapte Fuja naar voren. Jefizon sprong ook uit de koets bij het aanzicht van haar glimlachende gezicht. 
 
-> Apparently Benedict Arnold almost died at Saratoga. If he did, he would have gone down as one of the greatest heros in American history with statues erected everywhere and towns named in his honour.
-
-1780; de grootste problemen voor de Amerikanen waren mutinies (nog meer mensen die overliepen). Veel mannen vochten zonder salaris of basic needs, in de strengste winter tot nog toe, en geen einde van het vechten in zicht.
-
-Nu de Fransen met méér troepen aan kwamen zetten, echter, wisten de Amerikanen de Britten te overlopen. Yorktown werd een gigantische winst.
-
-1783; Peace Treaty. Britten halen alle troepen weg. Ook geven ze al het territorium op in het westen van de staten. (Wat _veruit het grootste deel van Amerika was_, maar simpelweg onbewoond.) Amerika belooft schuld te betalen en overgebleven kolonisten eerlijk te behandelen.
-
-Washington wordt (tegen zijn eigen zin) eerste president USA. Zijn manier van handelen zette veel regels en gewoontes van het presidentschap nu. (Zoals dat hij de macht vrijwillig opgaf na 2 terms. En de jaarlijkse State Address om zijn macht in check te houden.)
-
-> He was heavily inspired by Cinncinatus, an ancient Roman who the Romans considered to be the model example of a "dictator". In Rome's Republican political system, a "dictator" would be appointed in times of crisis. They would gain absolute power for a limited time in order to address the crisis. Cinncinatus was one such dictator who immediately resigned from politics and went back to farming upon solving the crisis he was faced with, and Washington sought sought emulate him. The city of Cinncinati is named for him
-
-(Frankrijk heeft nu inmiddels ook een gigantische schuld en loopt zo de Franse Revolutie in 10 jaar later.)
-
-Fun Fact: during the siege of Yorktown near the end of the war, British General Cornwallis’s dog somehow got onto the American side, and George Washington paused the battle to return the dog back to him.
-
-
-
-
-QUOTE: "If you're going to base your new society on philosophy, you should try to found it on ideals that are as inclusive and humanistic as possible - because the people executing those ideas will never be ideal" - John Green
-
-
+"Er is een probleem. Maar jullie hebben weer het stomme geluk dat jullie net op tijd zijn voor een verrassingsaanval."
