@@ -4,7 +4,7 @@ weight: 3
 ---
 Ajay en Jefizon keken vanachter het raam naar een afgezant van Casbrita, die omringd door soldaten de volgende nare wetten aankondigde. Achter hen zat Wasserbox, die een militaire plattegrond bestudeerde. Om hen heen liep Fuja, de inboorling die hij meebracht, die _altijd_ in het café aanwezig leek.
 
-De eerste wet verbood hen om nieuwe steden en dorpen te stichten buiten de kolonies. De kolonies waren maar een piepklein stukje van Elwar. Casbrita was op zoveel land gestuit dat ze niet wisten wat ze ermee moesten doen.
+De eerste wet verbood hen om nieuwe steden te stichten buiten de kolonies. De kolonies waren maar een piepklein stukje van Elwar; daarachter lag nog een heel continent aan lege grasvelden en heuvels. Casbrita was op zoveel land gestuit dat ze niet wisten wat ze ermee moesten doen.
 
 De tweede wet zei, met veel nette woorden, dat Casbrita mocht doen met de kolonies waar ze zin in hadden. Hun wetten waren belangrijker dan koloniale wetten. Als zij zeiden dat iets moest, dan moest dat.
 
@@ -58,7 +58,7 @@ Fuja's gezicht vertrok. Ze bloosde, maar was ook boos. Daarna rende ze weg.
 
 Jefizon probeerde haar te volgen, maar merkte meteen hoeveel gelijk Fuja had. Hoe lang geleden was het dat hij had _gerend_? Hij was zwaar uit conditie. Fuja had daar geen last van.
 
-Tegen de tijd dat hij een ander plein bereikte, geplaatst voor een indrukwekkende kerk, had ze al stennis geschopt. Eén eenzame Casbrita soldaat bewaakte het plein en werd bekogeld met sneeuwballen.
+Tegen de tijd dat hij een ander plein bereikte, geplaatst voor een indrukwekkende kerk, had ze al stennis geschopt. Eén eenzame Casbrita soldaat bewaakte het plein en werd bekogeld met sneeuwballen. De aanvallers riepen dat Casbrita moest oprotten en dat ze de belastingen niet gingen betalen.
 
 Hij kreeg snel hulp van andere soldaten. Maar de rebellen kregen ook hulp. Sneeuwballen werden ijsballen, werden stenen, werden alles wat ze konden vinden.
 
@@ -68,7 +68,7 @@ De menigte groeide verder en verder, bozer en bozer. Fuja stond ergens in het mi
 
 "Fuja! Stop!" Jefizon kon haar hoofdtooi bijna aanraken, maar twee buffalo's beukten hem opzij. 
 
-Zij gooiden scherpe glasscherven en riepen dat Casbrita moest oprotten. De eerste paar scherven botsten tegen de helmen van soldaten; daarna doorboorde eentje iemands uniform, als een mes in de rug.
+Zij gooiden scherpe glasscherven en riepen dat Casbrita dood moest. De eerste paar scherven botsten tegen de helmen van soldaten; daarna doorboorde eentje iemands uniform, als een mes in de rug.
 
 De soldaten raakten in paniek. 
 
@@ -88,7 +88,7 @@ ___
 
 Het huis van de gouverneur van Bosnot stond in brand. Na meerdere spionnenmissies van Fuja, hadden ze bewijs dat hij stiekem loyaal was aan Casbrita en actief rebellen opspeurde om ze de doodstraf te geven. Ze vonden het vooral jammer dat ze de man zelf niet te pakken hadden gekregen voordat hij vluchtte.
 
-In de tussentijd gebruikte Jefizon zijn koopverslaving om vooral veel wapens en ammunitie te kopen. Het begon in de staat waarvan Bosnot hoofdstad was, maar dankzij andere genereuze donoren konden ze nu door alle kolonies burgers bewapenen. De Casbrita soldaten hadden geen idee, maar achter bijna elke voordeur lag nu een geweer klaar om te gebruiken als het moest.
+In de tussentijd gebruikte Jefizon zijn koopverslaving om vooral veel wapens en ammunitie te kopen. Het begon in de kolonie waarvan Bosnot hoofdstad was, maar dankzij andere genereuze donoren konden ze nu door alle kolonies burgers bewapenen. De Casbrita soldaten hadden geen idee, maar achter bijna elke voordeur lag nu een geweer klaar om te gebruiken als het moest.
 
 Maar het volgende plan was nog veel beter. Jefizon en Fuja hadden de informatie verzameld. Wasserbox had al kennis over de gewoontes en structuren van Casbritaanse soldaten, waardoor ze het perfecte moment konden uitkiezen.
 

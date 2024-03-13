@@ -92,10 +92,10 @@ Een schot schampte zijn vingers. De schok en de pijn brachten hem tot stilstand,
 
 Hij stak zijn handen op, zo'n kilometer verwijderd van Fort Noodzaak. Zijn soldaten deden hetzelfde. Binnen de kortste keren stroomden otters, marmotten en lynxen door het bos en omsingelden hen.
 
-Wasserbox kreeg een formulier voor zijn ogen. Een formulier in de Frambozi taal, niet zijn eigen. Een vertaler werd opgeroepen en vertelde hem dat het een standaard verliezersdocument was. Eentje die zei dat je je opgaf en al je soldaten gevangen van de tegenstander werden. Wasserbox zelf mocht terug, zo vereiste de eer van de Frambozi.
+Wasserbox kreeg een formulier voor zijn ogen. Een formulier in de Frambozi taal, niet zijn eigen. Een vertaler werd opgeroepen en vertelde hem dat het een standaard verliezersdocument was. Eentje die zei dat je je opgaf en al je soldaten gevangenen van de tegenstander werden. Wasserbox zelf mocht terug, zo vereiste de eer van de Frambozi.
 
 Hij zette zijn handtekening eronder.
 
-_Wat hij niet wist, beste lezer, was dat het document ook zei dat hij volledige verantwoordelijkheid voor de brute moord op hooggeplaatste generaal Jumbodor. Dat de Casbrita deze moord bewust hadden gepleegd omdat ze de Frambozi minderwaardig achtten. En dat dit een oorlogsmisdaad was, zeker nadat zij Wasserbox zó goed hadden behandeld op Fort Le Boef._
+_Wat hij niet wist, beste lezer, was dat het document ook zei dat hij volledige verantwoordelijkheid nam voor de brute moord op hooggeplaatste generaal Jumbodor. Dat de Casbrita deze moord bewust hadden gepleegd omdat ze de Frambozi minderwaardig achtten. En dat dit een oorlogsmisdaad was, zeker nadat zij Wasserbox zó goed hadden behandeld op Fort Le Boef._
 
 Binnen een dag brak een gigantische, wereldwijde oorlog uit tussen de Frambozi en Casbrita.

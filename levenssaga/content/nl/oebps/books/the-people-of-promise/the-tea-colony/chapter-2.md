@@ -12,9 +12,9 @@ Jefizon fronste. "Waarom zouden ze boeken extreem duur maken? Wat winnen ze erme
 
 "Nou, dat betaal ik dus _niet_." Hij kon het wel betalen. Maar hij deed het niet uit principe. Geen cent voor die kolonisten van Casbrita.
 
-Sinds Casbrita de oorlog met Frambozi had gewonnen---na zeven jaar vechten---was het blut. Ze hadden vrijwel heel Elwar in bezit, maar niet het geld om nog iets anders te doen. Dus meer en meer belastingen werden op het continent heen losgelaten om de schatkist weer op te vullen.
+Sinds Casbrita de oorlog met Frambozi had gewonnen---na zeven jaar vechten---was het blut. Ze hadden vrijwel heel Elwar in bezit, maar niet het geld om nog iets anders te doen. Dus meer en meer belastingen werden op het continent losgelaten om de schatkist weer op te vullen.
 
-Maar aan het ergste werd Jefizon herinnerd toen hij naar buiten stapte. Casbrita besteedde wél nog miljoenen per jaar aan de grote hoeveelheid soldaten die door hun steden liep. Hij kon geen stap zetten of iemand met een musketgeweer liep hem bijna omver. Je kon geen evenement bijwonen of Casbrita vond dat het duizend soldaten aanwezig moest hebben.
+Maar aan het ergste werd Jefizon herinnerd toen hij naar buiten stapte. Casbrita besteedde wél miljoenen per jaar aan de soldaten die zinloos door hun steden liepen. Hij kon geen stap zetten of iemand met een musketgeweer liep hem bijna omver. Je kon geen evenement bijwonen of Casbrita vond dat het duizend soldaten aanwezig moest hebben.
 
 En waarvoor? Niemand ging ze nog aanvallen. Iedereen was weg uit Elwar; alleen Casbrita was over.
 
@@ -36,7 +36,7 @@ Ajay stond op en leunde tegen het raam. "En daarom moeten we _nu_ toeslaan."
 
 Een worstelende eekhoorn werd het plein op gesleurd door een grote vrouwelijke aap. Ze riep naar iedereen die het wilde horen.
 
-"Deze hier wilde mijn belasting komen innen," schreeuwde ze. Zonder te kijken, alsof de eekhoorn niks woog, draaide en duwde ze hem alle kanten op. "Deze hier koopt al maandenlang goederen van de Britten! Wat zeggen wij daartegen?"
+"Deze hier wilde mijn belasting komen innen," schreeuwde ze. Zonder te kijken, alsof de eekhoorn niks woog, duwde ze hem alle kanten op. "Deze hier koopt al maandenlang goederen van de Britten! Wat zeggen wij daartegen?"
 
 Als geen soldaten in de buurt waren, durfde men het wel te zeggen. "Nee! Wij zeggen _nee_!"
 

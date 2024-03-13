@@ -32,11 +32,11 @@ Hoofdschuddend stampte Ajay weg, mompelend hoe hij _niemand_ van zijn rebellen k
 
 Wasserbox had de paarden van de koets gehaald. Hij, Bardams en Fracclin waren elk in een andere richting gereden om soldaten te vinden. Als ze snel waren, konden ze Casbrita niet alleen _tegenhouden_ voordat ze een groot gebied innamen, ze konden hen zelfs _verslaan_. Met dat in het vooruitzicht reden ze nog een stuk harder.
 
-De soldaten die ze vonden waren niet allemaal even inspirerend. Sommige zouden niet weten hoe je een geweer schiet. Andere waren te ongezond om langer dan een halve minuut te rennen. Maar ze moesten het doen met wat ze hadden.
+De soldaten die ze vonden waren niet allemaal even inspirerend. Sommige zouden niet weten hoe je een geweer schoot. Andere waren te ongezond om langer dan een halve minuut te rennen. Maar ze moesten het doen met wat ze hadden.
 
 Bardams kreeg toch steeds meer gelijk: afwachten en vrede zoeken met Casbrita had hen te sloom gemaakt, te onvoorbereid.
 
-Tegen het ochtendgloren, botste hun geïmproviseerde leger met die van Casbrita. Op een heuvelig gebied, omringd door een paar dunne rivieren, stonden de troepen tegenover elkaar en losten de eerste schoten.
+Tegen het ochtendgloren botste hun geïmproviseerde leger met die van Casbrita. Op een heuvelig gebied, omringd door een paar dunne rivieren, stonden de troepen tegenover elkaar en losten de eerste schoten.
 
 En Wasserbox verloor.
 
@@ -52,7 +52,7 @@ Totdat het geluk ook deze keer bij hem kwam, geen seconde te laat.
 
 Een dikke mist hing over het land vandaag. Dik genoeg dat Wasserbox de rivier alsnog in het geheim kon oversteken. Eenmaal aan de andere kant, hadden ze juist veruit de beste positie. Ze stonden hoger en het stromende water was een soort schild. 
 
-Ze schoten de soldaten van Casbrita terug. En terwijl ze terugtrokken, door de heuvelige kolonie, ontdekte Casbrita wat het betekent als een heel continent wil dat je vertrekt. Achter elke hoek, in elk dorp, staan mensen klaar om je weg te schieten. Hoe hard Casbrita ook terug rende, altijd kwamen ze wel nieuwe soldaten tegen, vaak opgetrommeld door Fracclin. Bardams probeerde het wel, maar was een stuk minder overtuigend dan zijn vriend. Bovendien leek het altijd alsof Fracclin vrienden en familie had op elke centimeter aarde.
+Ze schoten de soldaten van Casbrita terug. En terwijl ze terugtrokken, door de heuvelige kolonie, ontdekte Casbrita wat het betekende als een heel continent wil dat je vertrekt. Achter elke hoek, in elk dorp, stonden dan mensen klaar om je weg te schieten. Hoe hard Casbrita ook terug rende, altijd kwamen ze wel nieuwe soldaten tegen, vaak opgetrommeld door Fracclin. Bardams probeerde het wel, maar was een stuk minder overtuigend dan zijn vriend. Bovendien leek het altijd alsof Fracclin vrienden en familie had op elke centimeter aarde.
 
 Totdat Casbrita geen andere keus had dan hélemaal terugtrekken tot Bosnot, waar het zichzelf ingroef en niemand meer binnenliet.
 
@@ -76,7 +76,7 @@ En toen Wasserbox die zaal uitliep, was hij commandant van het hele Continentale
 
 ___
 
-Fuja schuilde in de bosjes. Jefizon nam het risico om vlak naast haar te verstoppen. De _Kinderen van Vrijheid_ keken uit op een imposant stenen kasteel op een heuvel, genaamd Fort Tondoga, in het bezit van Casbrita. Ajay had gehoord dat hij nauwelijks verdedigd was. Nog belangrijker, ze zouden hier bergen met wapens en ammunitie opslaan.
+Fuja schuilde in de bosjes. Jefizon nam het risico om vlak naast haar te verstoppen. De _Kinderen van Vrijheid_ keken uit op een imposant stenen kasteel op een heuvel, genaamd Fort Tondoga, in het bezit van Casbrita. Ajay had gehoord dat het nauwelijks verdedigd was. Nog belangrijker, ze zouden hier bergen met wapens en ammunitie opslaan.
 
 Als ze dit konden innemen, maakten ze weer en grote sprong vooruit.
 
