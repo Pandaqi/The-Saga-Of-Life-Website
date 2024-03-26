@@ -35,7 +35,7 @@ Thomas keek bedenkelijk. "Wat me vooral opvalt, is dat we geen wapens vinden. Al
 
 Thomas schudde zijn hoofd. "Zelfs als dat zo was, dan was het ook meteen hun ondergang. Een ander leger kon zo binnenwandelen."
 
-Ze keken samen naar de kaart die ze hadden getekend, vol pijlen en symbolen voor gebeurtenissen en beweging van troepen. 
+Ze keken samen naar de kaart die ze hadden getekend, vol pijlen en symbolen voor gebeurtenissen en beweging van groepen. 
 
 "Tja," zei Jasmine. "Als je nooit een aanvaller tegenkomt, ben je ook niet op je hoede. Je raakt te veel op je gemak, denkt dat alles altijd veilig zal zijn. _Geen bescherming zonder gevaar._"
 
@@ -45,7 +45,7 @@ Jasmine bekeek nogmaals de reeks symbolen die op zoveel kleitabletten was geschr
 
 Ze sloeg haar vuist op tafel. "Zoveel dat we niet weten! Zoveel bewijs al vernield door die stomme soldaten."
 
-Het was kurkdroog en verschrikkelijk heet in de woestijn. Maar daar waren de archeologen inmiddels wel aan gewend. Klimaatverandering had alle vruchtbare en natte plekken van duizenden jaren geleden inmiddels woestijnen gemaakt. De Indus bestond nog, maar was niet zo voorspelbaar als eerst. Die andere rivier, de Zwaarwater, was allang weg.
+Het was kurkdroog en verschrikkelijk heet in de woestijn. Maar daar waren de archeologen inmiddels wel aan gewend. Klimaatverandering had alle vruchtbare en natte plekken van duizenden jaren geleden inmiddels woestijnen gemaakt. De Indus bestond nog, maar was niet zo voorspelbaar als eerst. Die andere rivier, de Zwaarwater, was allang weg en inmiddels meer een legende.
 
 In de jaren die volgden kregen ze een steeds beter beeld van deze tijd. De meeste wezens waren vertrokken naar de Gangris, de nieuwe _beste rivier_ van Garda waar een andere beschaving al opstond. Sommige waren teruggegaan naar jagers en verzamelaars, of kleine dorpjes van zo'n twintig tot dertig wezens.
 
@@ -61,13 +61,13 @@ Het Indus Script bleef een raadsel. Maar het spijkerschrift van de Sumiser hadde
 
 "Ben je al verder?" vroeg ze.
 
-"Hmm. Ja. Hmm." Biribas verschoof zijn brilletje. "Er komt een verhaal uit, getekend door ene Mamatos, maar ik weet nou niet of dit ..."
+"Hmm. Ja. Hmm." Biribas verschoof zijn brilletje. "Er komt een verhaal uit, getekend door ene Mamotas, maar ik weet nou niet of dit ..."
 
 "Vertel."
 
 "_Prebuha was een heldin, een luiaard met drie koppen en zeven armen, die met haar blik vijanden kon doden. Ze reed op eenhoorns en was het slimste dier dat toen leefde. Ze kon toveren en vliegen---en was beste vrienden met de goden. Dankzij haar is veel bloedvergieten voorkomen en hebben vele beschavingen kunnen vluchten voor het eerste rijk ooit: de Akradi. Haar leven is een voorbeeld voor iedereen._"
 
-Hij pakte een tweede kleibrok. "_Als dat te moeilijk is, is het leven van Mamatos ook een prima leidraad._"
+Hij pakte een tweede kleibrok. "_Als dat te moeilijk is, is het leven van Mamotas ook een prima leidraad._"
 
 Jasmine schokschouderde. "We hebben ook eenhoorns gevonden op hun zegels. Dus wie zegt dat luiaards toen niet drie koppen en zeven armen hadden?"
 

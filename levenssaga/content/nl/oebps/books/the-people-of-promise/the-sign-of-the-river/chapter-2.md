@@ -13,7 +13,7 @@ Prebuha klom op een lage muur en schreeuwde iedereen toe. "Ze weigerden met mij 
 
 De boodschap van de leider golfde door de menigte. Rampen? Vluchten? Naar Sumiser? Werkelijk elk onderdeel vonden ze moeilijk te geloven.
 
-Larsh kreeg de boodschap nu ook in zijn poten.
+Larsh, de zoon van de leider, kreeg de boodschap nu ook in zijn poten.
 
 Prebuha was bijna de hoek om, een paar sprongen verwijderd van huis, toen hij haar naam riep.
 
@@ -47,7 +47,7 @@ Larsh smeet de boodschap op tafel alsof hij gloeiend heet was. "Deze boodschap _
 
 "Mijn vader _valt niet_."
 
-Larsh' ogen spuwden vuur richting Prebuha. "Bovendien moesten we _sterk_ blijven voor de onderhandelingen. Een verdeelde beschaving zonder leider is niet sterk. Maar ja, toen stuurden we deze imbeciel."
+Larsh' ogen spuwden vuur richting Prebuha. "Bovendien moesten we _sterk_ blijven voor de onderhandelingen. Een verdeeld Gebied zonder leider is niet sterk. Maar ja, toen stuurden we deze imbeciel."
 
 "Hé!"
 
@@ -57,21 +57,21 @@ Prebuha schreeuwde iets over haar vader erbuiten laten en viel hem aan. Larsh bl
 
 De Kleischepper had al die tijd de handtekening bestudeerd. Hij stak zijn voorpoot uit naar Prebuha. Die gebruikte hem om op te staan---maar dat was niet zijn bedoeling. Zijn poot bleef uitgestoken totdat ze de Bulla van hun gestorven leider teruggaf.
 
-Hij vergeleek de twee en knikte opnieuw. "Dit is zijn handtekening. Elk detail. Als het een namaak is, komt het van iemand wiens kleivaardigheden zelfs de mijne overtreffen."
+Hij vergeleek de twee en knikte opnieuw. "Dit is zijn handtekening. Elk detail. Als het een namaak is, komt het van iemand wiens kleivaardigheden zelfs de mijne overtreffen. Maar mijn berekeningen---"
 
 "Dus ... we luisteren ernaar?" zei Prebuha voorzichtig. "We vluchten voor rampen---en _ik_ heb ons allemaal gered?"
 
 Larsh duwde haar weer weg met zijn sterke voorhoofd. "Als jij denkt dat luisteren een goed idee is, moeten we denk ik het _tegenovergestelde_ doen. Dit is een truc. Sumiser wil dat we weglopen van onze rijkdommen en onze rivier innemen. Overduidelijk, toch?"
 
-"Dat is waar," zei de Kleischepper. "Al die beschavingen rond de Tweelingsrivieren zijn geobsedeerd met macht en landjes inpikken. We mogen van geluk spreken dat niemand ons in al die duizenden jaren heeft aangevallen."
+"Dat is waar," zei de Kleischepper. "Al die beschavingen rond de Tweelingsrivieren zijn geobsedeerd met macht en landjes inpikken. We mogen van geluk spreken dat niemand ons in al die duizenden jaren heeft aangevallen. Mijn berekeningen laten toch echt---"
 
-Prebuha hoopte inderdaad dat hun uitvinding van _oorlog_ lekker wegbleef. Ze ging dus écht geen zware speer dragen, hallo. Oh, en iedereen dood is waarschijnlijk ook niet fijn.
+Prebuha hoopte inderdaad dat hun uitvinding van _oorlog_ lekker wegbleef. Ze ging dus écht geen zware speer dragen, hallo. Oh, en iedereen dood is waarschijnlijk ook niet fijn. Aan de andere kant ... als een oorlog winnen betekende dat ze al hun eten en huizen zouden krijgen zonder ervoor te hoeven werken, dan zou dat _geweldig_ zijn!
 
 "Ja, ja, overduidelijk," zei Megitas. Hij stond op. Zijn ene hand leunde op zijn wandelstok, terwijl de andere Larsh greep.
 
 "Het haalt niet weg dat we een gat hebben in ons leiderschap. Ik zie dat je veel hebt geleerd van je vader. Ik nomineer jou als nieuwe Gebiedsleider."
 
-Normaal gesproken was dit een beslissing die het hele Gebied samen nam. Maar wat als hij gelijk had? Iemand wilde hen van binnenuit kapotmaken? Eén of meerdere mensen ... hadden hun leider vermoord. Was het dan wel slim om die te laten stemmen? 
+Normaal gesproken was dit een beslissing die het hele Gebied samen nam. Maar wat als hij gelijk had? Iemand wilde hen van binnenuit kapotmaken? Eén of meerdere wezens ... hadden hun leider vermoord. Was het dan wel slim om die te laten stemmen? 
 
 Dus de keuze werd gemaakt in dit kleine kamertje. De Kleischepper was het er ook mee eens, al leek die wat afwezig.
 
@@ -81,15 +81,17 @@ Dus de keuze werd gemaakt in dit kleine kamertje. De Kleischepper was het er ook
 
 "Misschien heeft zij deze hele boodschap verzonnen! En de handtekening vervalst! Zodat ze terug kwam van de handel met _iets_." Zijn sterke poten duwden haar weer weg, deze keer tegen de deur. "Verdwijn."
 
-"Nee, nee, alsjeblieft. Geef me een tweede kans." Ze zat inmiddels op haar knieën, onder de vernietigende blik van Larsh. Haar hart bonkte in haar keel. Beelden van een leven in de wildernis, zonder zacht bed, zonder water en eten, zetten haar op scherp. "Ik had ze _bijna_. Al hun metaal en voedsel, voor bijna niks van ons! Als ze niet zo kieskeurig waren geweest over kamelen ..."
+"Nee, nee, alsjeblieft. Geef me een tweede kans." Ze zat inmiddels op haar knieën, onder de vernietigende blik van Larsh. Haar hart bonkte in haar keel. Verschrikkelijke beelden van een leven in de Wildernis, zonder zacht bed, zonder water en eten, zetten haar op scherp. 
+
+"Ik had ze _bijna_. Al hun metaal en voedsel, voor bijna niks van ons! Als ze niet zo kieskeurig waren geweest over kamelen ..."
 
 "Geen sprake---"
 
 "Ze heeft een punt," zei Megitas. "Ik geloof meteen dat ze haar wil probeerde door te drukken, maar te ver is gegaan. Alles leer je met vallen en opstaan, niet waar? Geef haar die tweede kans."
 
-"Ik moet jammer genoeg tegen stemmen," zei de Kleischepper meteen, "als je zou weten hoe weinig graan we nog---"
+"Ik moet jammer genoeg tegen stemmen," zei de Kleischepper meteen, "als je zou weten hoe weinig graan we nog hebben volgens mijn berekeningen---"
 
-Larsh gromde en keek naar Prebuha. "Vind de moordenaar en zorg dat onze volgende handel legendarisch wordt. Anders ben je waardeloos. En wie niks kan inbrengen, mag verdwijnen."
+Larsh gromde en keek naar Prebuha. "Vind de moordenaar en zorg dat onze volgende handel legendarisch wordt. Anders ben je waardeloos. En wie niks kan inbrengen, mag niet genieten van de voordelen van onze beschaving."
 
 "Dank je, dank je, dank je."
 
@@ -131,6 +133,8 @@ Hij haalde een brok klei tevoorschijn met vele korte lijntjes erin gekrast, also
 
 Larsh sloot zijn ogen en leunde tegen Megitas aan. "Ja, ja, dat zal wel. Wat doen we _nu_ aan het voedseltekort?"
 
-De Kleischepper bleef stil, starend naar Prebuha die tegen de muur leunde, nog bijkomend van de schrik.
+De Kleischepper staarde naar Prebuha.
+
+_In deze tijd, beste lezer, was de wereld nog niet zo verbonden. Agricultuur werd dus meerdere keren opnieuw uitgevonden, op andere plekken, op andere momenten, zonder dat ze het van elkaar wisten. Terwijl ze hier bij de Twee Rivieren al een hele beschaving hadden die leefde van graan, hadden ze op Origina het geheim nog niet eens ontdekt. Er waren maar twee manieren waarop informatie tussen beschavingen kon worden overgedragen: handelen ... of door een ander volk worden ingenomen._
 
 "We moeten razendsnel een succesvolle handel hebben. Zo niet, dan heeft die boodschap sowieso gelijk: we moeten hier weg."

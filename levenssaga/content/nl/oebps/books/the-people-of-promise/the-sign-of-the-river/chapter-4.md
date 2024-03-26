@@ -37,13 +37,19 @@ Ze hadden nooit goede banden gehad met die stad. Maar als het de laatste stad wa
 
 "En ieder die ons vertraagt," zei de stier heldhaftig, "blazen we omver."
 
+"En wie ben jij om de baas te spelen?" vroeg een schelle stem. "De recente gebeurtenissen zijn duidelijk," zei de kameel, spugend naar de stier. "Jij bent de voorkeur van de goden kwijt!"
+
+Het gezicht van de stier werd donker. "Wie _daagt mij uit_? Jij?"
+
+De kameel wilde opnieuw spugen, maar hield zich in. Hij stapte terug---en niemand anders wilde de stier bevechten om zijn rol als commandant in twijfel te trekken.
+
 Iedereen stond klaar om te vertrekken. Maar ze misten nog iemand.
 
 Hun zoon, Mamotas, had alles gehoord maar kon niks terugroepen. De golven trokken hem kopje onder. 
 
 Alle vloedstormen! Water drong zijn neusgaten in. Hij werd richting de zeebodem geduwd, gehuld in dansende luchtbellen. Zijn lucht raakte op. Hij---
 
-Meerdere armen grepen zijn ledematen en trokken hem naar het droge. Mamotas snakte naar lucht.
+Meerdere klauwen en poten grepen zijn ledematen en trokken hem naar het droge. Mamotas snakte naar lucht.
 
 "Altijd hetzelfde," mopperde Peritas. "Wat was het deze keer? Je zag een interessante steen op de zeebodem en je _moest_ hem van dichterbij bekijken?"
 
@@ -71,11 +77,11 @@ Eindelijk kwamen ze dichterbij. Het voorste punt van hun groep was de rivier al 
 
 "Zou je blij zijn als je dat de hele dag voelde? Die Akradi geloven dat ze meteen sterven als ze een dag geen oorlog voeren en geen veldslagen winnen. Allemaal _in Ardex' naam_."
 
-"Nou, dan ben ik blij dat wij vriendelijke Cosmo hebben. Misschien kunnen wij wel vliegen?" Mamatos wapperde zijn armen, daarna zijn staart, en uiteindelijk zijn voeten. Verrassend genoeg kwam hij niet van de grond.
+"Nou, dan ben ik blij dat wij vriendelijke Cosmo hebben. Misschien kunnen wij wel vliegen?" Mamotas wapperde zijn armen, daarna zijn staart, en uiteindelijk zijn voeten. Verrassend genoeg kwam hij niet van de grond.
 
 "We hebben niks," zei moeder. "We bidden tot ze. Nu stil zijn en doorlopen."
 
-De rest van de toch bleef hij stil. Elke keer als ze terug leken te komen bij de groep, liepen ze net weer een stukje door. Alsof Lagaso maar vijftig mensen tegelijkertijd wilde toelaten en daarna pauze nam.
+De rest van de tocht bleef hij stil. Elke keer als ze terug leken te komen bij de groep, liepen ze net weer een stukje door. Alsof Lagaso maar vijftig wezens tegelijkertijd wilde toelaten en daarna pauze nam.
 
 Totdat ze zagen dat er van toelating geen sprake was.
 
@@ -83,15 +89,19 @@ Hun vrienden en familie beklommen de muren. De poorten waren uit hun voegen geru
 
 Iedereen deed mee met het gevecht, zelfs de boer en zelfs de priester. De agressiviteit verraste Lagaso, wiens stadsgod lieve Bella was. Tegen de tijd dat hun leger overeind stond, was nog maar de helft over. 
 
-Zodra Mamatos voor de muur stond, was het gebied al uitgestorven. Lijken lagen overal, zowel van henzelf als het leger van Lagaso. Was dat niet precies wat Akradi wilde? Dat de grote legers van Sumeris _elkaar_ uit de weg ruimden?
+Zodra Mamotas voor de muur stond, was het gebied al uitgestorven. Lijken lagen overal, zowel van henzelf als het leger van Lagaso. Was dat niet precies wat Akradi wilde? Dat de grote legers van Sumiser _elkaar_ uit de weg ruimden?
+
+Meh, wie gaf nou iets om de Akradi's stiekeme wensen. Lagaso had erom gevraagd door zijn thuisstad tien jaar geleden aan te vallen. En twintig jaar geleden. En waarschijnlijk daarvoor ook. Dit was simpele wraak, zoals het een goede Gosti behoort.
 
 Onder luid gekraak en gepiep hoorden ze een andere poort opengaan---die aan de overkant van de stad. Alle overlevenden wilden meteen verder. Ze hadden de stad zodanig vernield dat het ook weinig zou beschermen tegen de Akradi.
 
 "Pak alle voedsel en wapens die je vindt," riep de stier tegen iedereen die hij zag. "De reis naar Meluhan is lang. Maar ga zo door en we zullen het halen!"
 
-De rest joelde en klapte als hij voorbij kwam. Mamatos' ouders deden mee. Plannen voor een nieuw standbeeld van hun grote commandant werden per direct uitgesproken. De weg naar de haven werd gevonden en de eerste boten gereedgemaakt voor vertrek.
+De rest joelde en klapte als hij voorbij kwam. Mamotas' ouders deden mee. Plannen voor een nieuw standbeeld van hun grote commandant werden per direct uitgesproken. De weg naar de haven werd gevonden, aangezien ze hun eigen gehele vloot---die best indrukwekkend was---waren kwijtgeraakt aan de recente overstromingen.
 
-Mamatos zelf was afgeleid door teksten die in de muur waren gekrast.
+De eerste boten werden gereedgemaakt voor vertrek.
+
+Mamotas zelf was afgeleid door teksten die in de muur waren gekrast.
 
 _Dankzij de nieuwe uitvinding genaamd "school", beste lezer, kon elke Sumiseri lezen. De Indus kon slechts voorwerpen uitbeelden op hun Bulla; de Sumiser kon hele verhalen vertellen._
 
@@ -101,15 +111,15 @@ Hij liep langs de muren aan de buitenkant van de stad en las het hardop voor.
 
 "_Als een man iemand vermoordt, moet die man zelf worden vermoord._"
 
-Het volgende stuk was deels verwoest tijdens het gevecht. Het stuk daarna las: "_Als een slaaf een niet-slaaf trouwt, moet diegene diens eerste zoon aan de ander afstaan._"
+Het volgende stuk was deels verwoest en dus onleesbaar. Het stuk daarna las: "_Als een slaaf een niet-slaaf trouwt, moet diegene diens eerste zoon aan de ander afstaan._"
 
-Dit waren regels. Regels voor de mensen in de stad? Geen wonder dat Lagaso zo makkelijk viel---wie ging zich nou aan regels houden die ze niet leuk vonden?
+Dit waren regels. Regels voor de wezens in de stad? Geen wonder dat Lagaso zo makkelijk viel---wie ging zich nou aan regels houden die ze niet leuk vonden?
 
 Hij sloeg de hoek om en stond voor een gebouw dat in brand stond. Een stuk van het dak stortte in. Daardoor stroomde een regen van kleitabletten naar buiten. Een ... verhaalgebouw? Wat het ook was, de informatie die erin lag was nu in ieder geval verwoest.
 
 Slechts die paar kleitabletten kon hij redden.
 
-Hij voelde weer twee armen die hem meetrokken. "Mamatos! Blijf _alsjeblieft_ een keer in de buurt! Ze zijn al bijna allemaal vertrokken op hun boten."
+Hij voelde weer twee armen die hem meetrokken. "Mamotas! Blijf _alsjeblieft_ een keer in de buurt! Ze zijn al bijna allemaal vertrokken op hun boten."
 
 Ze raceten naar de haven. 
 
@@ -117,6 +127,6 @@ Ze waren te laat.
 
 Samen met tientallen anderen stonden ze in een lege haven en konden de commandant alleen maar uitzwaaien. De twee Gostihandelaars hadden de boot ook gemist.
 
-Eén van hen hield een bijzonder voorwerp vast dat hij tegen zijn oog zette. Toen hij erdoorheen keek, schrok hij meteen en liet het voorwerp vallen.
+Eén van hen hield een bijzonder voorwerp vast dat hij tegen zijn oog zette. Mamotas had het nooit eerder gezien, maar het leek hem beter zicht te geven. Toen hij erdoorheen keek, schrok hij meteen en liet het voorwerp vallen.
 
-Het leger van Arkadi was niet ver weg meer.
+Het leger van Akradi was niet ver weg meer.

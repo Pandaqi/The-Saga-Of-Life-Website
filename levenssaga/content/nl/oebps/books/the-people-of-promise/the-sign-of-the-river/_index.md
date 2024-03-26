@@ -9,12 +9,12 @@ book: true
 timeperiod: 'Het Wolkengezag'
 cycle: 'De Beschavingen van Belofte'
 bundle: 'Rivieren & Koningsdieren'
-character: ["Prebuha (Luipaard)", "Mamatos (Gosti)", "Megitas (Gosti)", "Kleischepper (Echidna)", "Welpon (Echidna)"]
+character: ["Prebuha", "Mamotas", "Megitas", "Kleischepper", "Welpon", "Larsh"]
 prequel: []
-refers: ["Harap", "Indus", "Zwaarwater", "Sumiser", "Akradi", "Het Grote Badhuis"]
+refers: ["Harap", "Indus", "Zwaarwater", "Sumiser", "Akradi", "Het Grote Badhuis", "Tigres", "Tweelingsrivieren", "Wildernis", "Garda", "Schola"]
 happens: ["Ondergang Indus"]
 godlink: ["Ismaraldah", "Jacintah"]
-genre: []
+genre: ["Gesprekken", "Eng", "Maatschappij", "Groeien", "Educatief", "Geschiedenis", "Mysterie"]
 teaches: ["Harappa Beschaving", "Sumer Beschaving", "Clay Bullae"]
 
 blurb: "Bij een cruciale onderhandeling ontvangt Prebuha de voorspelling dat haar beschaving ten onder zal gaan. Maar het bericht is getekend door iemand die niet hoort te bestaan."
@@ -23,8 +23,8 @@ timeline:
   - yearstart: -9500
 
 readability:
-  - words: 14866
-    lines: 1647
+  - words: 15745
+    lines: 1707
     score: 6
 
 ---

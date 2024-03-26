@@ -13,7 +13,7 @@ prequel: []
 refers: ['Vensala', 'Treaty of Vensala', 'Council of Kame', 'Outer Rings of Alasti', 'Eruptions at Alasti', 'The Truth (Book)', 'The Floating Egg', 'Horus (Companion)', 'Serpentsuper', 'Gibra (Snake)', 'Pillars of Gibra', 'Wise Owl']
 happens: ['Ancient Turtle Resurfaces', 'Banishment Solomon', 'Turtles Split in Two']
 godlink: ['Vivienne (Fish)']
-genre: ['Mystery', 'Conversation', 'Myth', 'Technology', 'Creation', 'Invention', "History"]
+genre: ['Mystery', "Dialogue", 'Myth', 'Technology', 'Creation', 'Invention', "History"]
 
 timeline:
   - yearstart: 490

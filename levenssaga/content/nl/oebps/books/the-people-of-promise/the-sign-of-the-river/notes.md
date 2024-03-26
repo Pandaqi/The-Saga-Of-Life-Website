@@ -47,74 +47,22 @@ Dit is een kort overzicht van de relevante diersoorten.
 * Maar vooralsnog leeft hier van alles door elkaar, want alle beschavingen in dit gebied zitten ongelofelijk dicht op elkaar (en pikken elkaars land steeds in)
 
 
-
-
-
-
-
-
-
-
-# Revisies
-
-H3 (en daarvoor?): 
-* Prebuha is juist _voor_ dat ze andere landen gaan inpikken (zoals Sumiser), want dan krijgen ze al die dingen ZONDER dat ze iets ervoor terug hoeven te handelen!
-* Prebuha is de eerste persoon die de hyena Dief kan tegenhouden, maar ze doet het niet (want dat kost moeite, en waarom haarzelf in gevaar brengen?) => vervolgens helpt niemand haar als ze weg wordt gestuurd, en ook de andere Gebieden zijn zo van "we hebben niks te maken met jouw gebied, we zijn niet verplicht om je op te vangen, verdwijn"
-* Badhuis = noem het smeren van tar voor waterdicht zijn, de standaardgrootte van alle bakstenen.
-* MEGITAS noemt hoe vreemd het is dat de Gosti zo snel opgaven, en zelfs in wanhopigheid niet toegaven aan iets dat ze KONDEN leveren.
-* Meer _tijd_ hier overheen laten gaan.
-
-H4 (eventueel): 
-* De commandant wordt bijna opzij gezet eerst omdat hij niet meer de "favor of the gods" zou hebben na deze overstroming.
-* Ze zijn hun eigen boten kwijt door de overstromingen? Waarom gaan ze eerst naar Lagaso om vervolgens over de zee te gaan!? => JA, boten kwijt, die spoelen nou juist aan in Hoofdstuk 5
-
-@TODO: Hoe kunnen ze een "bericht van hun leider" hebben als ze zelf geen script hebben!? Moet dat dan gewoon wat symbolen zijn die ze maar interpreteren op een bepaalde manier???
-
-@TODO: Nog duidelijker dat de Kleischepper steeds zegt "Mijn berekeningen ..." en dat iedereen eroverheen praat/het negeert.
-
-@TODO: Duidelijker maken dat dit een gevolg is van verhaal 2 => De Akradi bestaan uit Jaguars die zinnen op "wraak"? => JA, DIT SOWIESO. 
-* Eerst duidelijk maken dat de Sumiser constant elkaars steden aanvallen _omdat die ander een tijd geleden hun stad had overgenomen_.
-* Dan duidelijk benadrukken dat de Akradi al langere tijd toewerken naar wraak nemen op de Asha voor wat zo lang geleden is gebeurd, maar ze weten gewoon niet waar ze heen zijn gegaan. (Totdat Prebuha hen weggeeft / ze zo door Sumiser kunnen lopen? Het moet niet te INGEWIKKELD worden.)
-
-@TODO: Witte/zwarte panda noemen aan begin, en aan het einde staan ze naast de stad en zijn zo van "Verdorie, we hadden het nog zo goed uitgedacht en gepland." En Jacintah die de schouders ophaalt en zegt: "Mwah, volgende keer beter."
-
+<!---
+## Sources
+* https://www.nytimes.com/2011/08/02/science/02warfare.html
+* https://historiek.net/harappa-beschaving-vreedzaam/92672/
+* Good video about the entire Harappan Civilization: https://www.youtube.com/watch?v=rlONwxT9Nlc
 
 => IDEA: Eenhoorns komen hier tevoorschijn? Als grappige verklaringen voor waarom die op de Indus seals staan?
 
-Dit stuk ergens nog eens noemen?
-
-_In deze tijd, beste lezer, was de wereld nog niet zo verbonden. Agricultuur werd dus meerdere keren opnieuw uitgevonden, op andere plekken, op andere momenten, zonder dat ze het van elkaar wisten. Terwijl ze hier bij de Twee Rivieren al een hele beschaving hadden, hadden ze op Origina het geheim nog niet eens ontdekt. Er waren maar twee manieren waarop informatie tussen beschavingen kon worden overgedragen: handelen ... of door een ander volk worden ingenomen._
-
-@IDEA: Dit is allemaal ontstaan door de Tijdreizigster? Die ging terug en probeerde haar "utopia" te maken
-    => Als Prebuha de migratie en diversiteit beschrijft, zegt ze ook zoiets als "We hebben zelfs een witte en zwarte panda hier. Wist niet dat die ook al binnen waren gekomen!"
-
-@IDEA: Stiekem plaatst Megitas (of die leider ofzo) al heel lang Welpon's wapens over de hele rand van het gebied, en dat is de enige reden dat ze nog niet zijn aangevallen? => Dit is nu GENOEMD, maar verder totaal niet UITGEWERKT.
-
-## Stukken om Indusbeschaving nog verder uit te leggen
-
-Outline soort van:
-* Meer over Harappan beschaving, hoe gebouwen eruitzien, etcetera
-  * Huizen waren gedraaid om wind te vangen als automatische air-conditioning.
-  * Ze hadden water-proofing.
-  * Roads were cleaned by winds, roofs collected rainwater.
-  * Ze groeiden vooral Barley en Wheat, maar waren geobsedeerd met allerlei spices.
-  * Wat Sumer wilde van Harappa: lapis lazuli, goud, silver, koper, hout, ebony, ivoor, schildpadschild, kip, buffalo, pauw, hond, kat, aap
-  * City Planning: grote paden die Noord-Zuid, Oost-West wijzen
-    * Opgedeeld in blokken, maar daarna was het vrije steegjes en losse paden (dus niet zo'n grid als Amerika), met ingang van huizen nooit aangesloten op de drukke hoofdweg.
-  * Waren vooral erg geïnteresseerd in hygiene / "sanitation" / plumbing.
-  * Bulla: altijd een dier + inscriptie. (Lijkt van rechts naar links geschreven, want op veel zegels raken ze in paniek als ze aan de linkerkant ineens geen ruimte meer hebben.)
-  * Standaardiseren van gewichten en metingen. (De seals, maar ook vaste afmetingen van bricks: 1:2:4)
-  * Bewerking metaal, manieren om water af te voeren of juist aan te voeren, handel brons tegen katoen. (Indus had zelf geen brons.)
-    * Steden veel verder uit elkaar dan in Mesapotamië, toch alles gestandardiseerd!
-  * De meeste steden liggen langs de Ghagger-Hakra, die was misschien nóg beter dan de Indus. (Mensen denken dat dit de "lost" Sarasvati rivier is uit Hindu mythologie.)
-  * Ze hadden keramiek speelgoed dat ze mee in bad namen, zoals ... een (rubber) eend.
-
-<!---
-## Sources
-
-https://www.nytimes.com/2011/08/02/science/02warfare.html
-
-https://historiek.net/harappa-beschaving-vreedzaam/92672/
-
-Good video about the entire Harappan Civilization: https://www.youtube.com/watch?v=rlONwxT9Nlc
+Meer over Harappan beschaving, hoe gebouwen eruitzien, etcetera
+* Roads were cleaned by winds, roofs collected rainwater.
+* Ze groeiden vooral Barley en Wheat, maar waren geobsedeerd met allerlei spices.
+* Wat Sumer wilde van Harappa: lapis lazuli, goud, silver, koper, hout, ebony, ivoor, schildpadschild, kip, buffalo, pauw, hond, kat, aap
+* Waren vooral erg geïnteresseerd in hygiene / "sanitation" / plumbing.
+* Bulla: altijd een dier + inscriptie. (Lijkt van rechts naar links geschreven, want op veel zegels raken ze in paniek als ze aan de linkerkant ineens geen ruimte meer hebben.)
+* Standaardiseren van gewichten.
+* Bewerking metaal, manieren om water af te voeren of juist aan te voeren, handel brons tegen katoen. (Indus had zelf geen brons.)
+* De meeste steden liggen langs de Ghagger-Hakra, die was misschien nóg beter dan de Indus. (Mensen denken dat dit de "lost" Sarasvati rivier is uit Hindu mythologie.)
+* Ze hadden keramiek speelgoed dat ze mee in bad namen, zoals ... een (rubber) eend.
 --->

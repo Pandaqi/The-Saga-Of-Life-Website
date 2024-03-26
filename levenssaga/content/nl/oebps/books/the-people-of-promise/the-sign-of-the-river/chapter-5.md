@@ -43,7 +43,7 @@ Moeder gaf haar een warme knuffel. "Totdat hij te ver ging. Hij stal een zak not
 
 Samen liepen ze de trap af en naar buiten. De andere inwoners wezen de weg naar het schip als een erehaag, maar bleven op flinke afstand.
 
-Ze huilden samen. "De menigte heeft hem ter plekke doodgeslagen."
+Moeder en dochter huilden samen. "De menigte heeft hem ter plekke doodgeslagen."
 
 Geen wonder dat Prebuha van jongs af aan al een hekel had aan dit Gebied. Ze had de herinnering weggedrukt, maar het gevoel van oneerlijkheid en vijandigheid bleef. Ze wilde niet werken voor deze wezens.
 
@@ -53,11 +53,13 @@ Maar nu stond ze bij een schip, alle ogen op haar, en moeder had met pijn en moe
 
 Moeder schudde haar hoofd en gaf haar een laatste zoen. "Dat hoef jij niet te weten. Dat is mijn bescherming voor jou."
 
-Het schip vertrok. Een samenraapsel van voorraden was overal en nergens neergezet. Ze had weer een paar wolven mee om alles te tillen en de boot te sturen. Larsh rende over het strand om de leider van een ander Gebied te ontmoeten voor een gesprek. Megitas en de Kleischepper stonden bij de voorraad waarin Welpons wapens werden opgeslagen. Overwogen ze om die in te zetten?
+Het schip vertrok. Een samenraapsel van voorraden was overal en nergens neergezet. Ze had weer een paar wolven mee om alles te tillen en de boot te sturen. Larsh rende over het strand om de leider van een ander Gebied te ontmoeten voor een gesprek. 
 
-Al die mensen werden al snel zwarte puntjes aan de horizon. Totdat haar stad helemaal uit zicht was en zij alleen over de golven gleed.
+Megitas en de Kleischepper stonden bij de voorraad waarin Welpons wapens werden opgeslagen. Overwogen ze om die in te zetten? Eindelijk een wijze keuze?
 
-Haar hoofd duizelde. Haar eigen mensen, het Gebied waarin ze haar hele leven was opgegroeid, hadden haar vader vermoord. Haar moeder gaf alles van haarzelf weg om te zorgen dat ze hun familie weer leuk vonden. En nu moest ze een stel Sumiseri, waarmee ze niet kon praten, overtuigen om iedereen te sparen? 
+Al die wezens werden al snel zwarte puntjes aan de horizon. Totdat haar stad helemaal uit zicht was en zij alleen over de golven gleed.
+
+Haar hoofd duizelde. Haar eigen volk, het Gebied waarin ze haar hele leven was opgegroeid, hadden haar vader vermoord. Haar moeder gaf alles van haarzelf weg om te zorgen dat ze hun familie weer leuk vonden. En nu moest ze een stel Sumiseri, waarmee ze niet kon praten, overtuigen om iedereen te sparen? 
 
 Ze had het grappig gevonden als ze nog de energie had om te lachen.
 
@@ -119,7 +121,7 @@ Ze wees eerst naar de boot met het kruis erdoorheen en daarna terug naar alle bo
 
 De stier lachte. Hij zei weer iets hardop. Prebuha maakte opnieuw duidelijk dat het niet---oh, het was niet aan haar gericht.
 
-Achter hem trokken alle wezens plots wapens tevoorschijn. Haar hart stopte. De wolven kwamen beschermend voor haar staan.
+Achter hem trokken alle wezens---voornamelijk jaguars---plots wapens tevoorschijn. Haar hart stopte. De wolven kwamen beschermend voor haar staan.
 
 Ze richtten de wapens _omhoog_. Even later vlogen pijlen en kogels door de lucht, om even later een boot op het water te doorboren. De meeste waren zo gammel gebouwd dat ze meteen uit elkaar spatten.
 
@@ -127,9 +129,15 @@ Tot de stier weer iets schreeuwde en alles ophield.
 
 "Ga door! Ga door!"
 
-Hij wees in de richting van de Indus. De eerste stad was net zichtbaar vanaf hier: ze stonden hoog op een heuvel en in de stad waren vele vuurtjes aangestoken.
+Hij wees richting de Indus. De eerste stad was net zichtbaar vanaf hier, want ze stonden op een hoge heuvel en in de stad waren vele vuurtjes aangestoken. Hoewel het vanaf hier meer leek op een klein vissersdorpje.
 
-Daarna pakte hij een Bulla uit haar mand. Degene met een zwaard.
+"Me ... lu ... han?" vroeg hij.
+
+Was dat niet hoe de Sumiseri hen noemden? Ze was niet zeker hoe te reageren, dus ze knikte voorzichtig.
+
+Zijn lichaamshouding werd agressiever. Ze stelde voor dat onder zijn masker zijn gezicht net zo boos werd.
+
+Daarna pakte hij een Bulla uit _haar_ mand. Degene met een zwaard.
 
 Wat was zijn vraag? Welk antwoord betekende dat hij doorging met de boten vernielen?
 

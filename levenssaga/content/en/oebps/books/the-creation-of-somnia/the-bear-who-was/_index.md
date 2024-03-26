@@ -13,7 +13,7 @@ prequel: ["The Banished Siblings"]
 refers: ['Howlnight', 'Midterra Sea', 'Throne of Tomorrow', 'Prototurtles', 'Destruction of Eastwood', 'Lifelogbook', 'Paraat', 'Darusstone', 'Elwoda', 'Equainforest', "Darus' Impossible Wall", 'Amor', 'High Hills', 'Green Path', 'Clansteads', 'Apra', 'Invention Fire', 'Gushersand', 'Equid', 'Taxis', 'Mare', 'Thon', 'Pricecats', "Barto's Blockade", 'Garda', 'Origina', "Blacktrail Explosion", "Nordic Iceplates", "Gathering Tree", "Disaster Caves", "Backdoor Trail"]
 happens: ['Fearvolcano', 'Abduction Bella', 'The Revealed Secret', 'Second Attack of Preza', 'Dwarfs', 'Delja (Army)']
 godlink: ['Bella']
-genre: ['Conversation', 'Sad', 'Family', 'Creation', 'Gods', 'Travel', 'Mystery', "History"]
+genre: ["Dialogue", 'Sad', 'Family', 'Creation', 'Gods', 'Travel', 'Mystery', "History"]
 
 timeline:
   - yearstart: -8000

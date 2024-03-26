@@ -7,7 +7,9 @@ Prebuha sjokte door de kaarsrechte winkelstraten op weg naar haar eerste verdach
 
 Een nieuwe groep migranten was de stad binnengekomen. Ze werden begeleid naar een leegstaand Gebied. De muren die het omringden lieten allemaal hetzelfde symbool zien. Zodra ze daar woonden, kregen ze een Bulla met datzelfde symbool, om hun identiteit te bewijzen. Daarna mochten ze zelf hun leider kiezen en helemaal hun eigen ding doen.
 
-Je zou hier kunnen leven zonder ooit je Gebied te verlaten. In de praktijk trouwde iedereen met iedereen, en handelden alle Gebieden elke dag in de winkelstraten.
+Kijk nou eens! De stad ontving vandaag zelfs haar eerste migrantenpanda's. Een leuk koppeltje van één witte en één zwarte.
+
+Je zou hier kunnen leven zonder ooit je Gebied te verlaten. In de praktijk trouwde iedereen met iedereen, en handelden alle Gebieden elke dag in de winkelstraten die de stad in vier kwadranten verdeelden. De ene ging van Noord naar Zuid, de ander van Oost naar West, en allemaal zo vervelend _kaarsrecht_.
 
 De architecten van deze stad hadden dit allemaal voorzien, duizenden jaren geleden. Nog steeds stonden sommige Gebieden leeg. Waar ze de tijd en materialen vandaan haalden om jaren lang niets anders te doen dan een _gigantische_ stad maken ... wist niemand. Wat ze gingen doen als het wél vol was, wisten ze ook niet.
 
@@ -49,7 +51,7 @@ Plots keek iedereen langs haar. Iemand schreeuwde in haar rug. Terwijl ze omdraa
 
 De omstanders kwamen meteen in actie om het beest tegen te houden. Ze grepen naar zijn poten, vormden een muur, gooiden het voorwerp dat ze toevallig vast hadden. Vaak was het succesvol---deze keer niet.
 
-De hyena was te sterk. Hij beet een stuk uit een wolf, glipte uit iemands grip, en sprong _over_ een standbeeld om te verdwijnen in donkere steegjes.
+De hyena was te sterk. Hij beet een stuk uit een wolf, glipte uit iemands grip, en sprong _over_ een waterput om te verdwijnen in donkere steegjes.
 
 "Prepre! Aan de kant!" riep een stem van boven. Ze had hem niet gezien! Welpon zat op het dak met zijn volgende wapen, terwijl een kat van zijn schoot rende. 
 
@@ -59,7 +61,7 @@ De hyena gromde en paar keer en viel toen neer met een plof. De verkoper greep b
 
 "Levensgevaarlijk!" riep Larsh. "Meekomen jij."
 
-Pardon? Hij had een dief tegengehouden! Hij had tenminste een manier om slechte mensen tegen te houden!
+Pardon? Hij had een dief tegengehouden! Hij had een veel effectievere manier om slechteriken tegen te houden!
 
 Maar ze mocht niks meer zeggen tegen Larsh. Ze liep door en herinnerde haarzelf aan alles dat ze zou missen als ze werd weggestuurd. Langs de straten stonden bankjes van klei om uit te rusten. Naast elke bank waren gaten gegraven. Soms plaatsten ze een vaas erin die als prullenbak werkte, soms plaatsten ze een boom, soms een waterput. De stad had bijna duizend waterputten en ze waren allemaal aangelegd door die eerste architecten, alsof ze de toekomst perfect hadden voorspeld.
 
@@ -67,7 +69,9 @@ Die gasten waren sowieso geobsedeerd met water. Alle huizen hadden een afvoer vo
 
 Maar het grootste bewijs was natuurlijk het Grote Badhuis.
 
-Een gigantisch zwembad dat steeds opnieuw vers water kreeg, verwarmd in de zon of gekoeld door slim gebruik te maken van koude winden. Een uitvinding van de Kleischepper had dat laatste mogelijk gemaakt. Iedereen was er bijna elke dag te vinden. Mocht de oorlog hiernaartoe komen, dan vonden ze in ieder geval een fris ruikende tegenstander.
+Een gigantisch zwembad dat steeds opnieuw vers water kreeg, verwarmd in de zon of gekoeld door slim gebruik te maken van koude winden. Net zoals elk huis was ontworpen en gedraaid om zichzelf af te koelen van bovenaf. 
+
+Het bad was volledig waterdicht door de stenen in te smeren met een goedje genaamd _teer_, en de stenen zelf waren allemaal precies dezelfde afmetingen van 4 bij 2 bij 1. Hoewel uitvindingen van de Kleischepper en zijn zoon de creaties van de eerste architecten later nog verbeterden.
 
 Daar vond ze Megitas, terwijl hij zijn baard fatsoeneerde en zich afdroogde met een ruwe lap katoen.
 
@@ -95,11 +99,11 @@ Megitas schudde zijn hoofd. "Het waaide. Hij was een ietwat arrogante hyena. Hij
 
 Hij pakte zijn wandelstok en liep met haar een rondje om het bad.
 
-"De Indusbeschaving is groot, mijn kind. Veel groter dan je denkt. We bezitten in ons eentje meer land dan _alle_ beschaving rondom de Tweelingrivieren bij elkaar."
+"De Indusbeschaving is groot, mijn kind. Veel groter dan je denkt. We bezitten in ons eentje meer land dan _alle_ beschaving rondom de Tweelingrivieren bij elkaar. Onze steden staan véél verder uit elkaar, en toch zijn ze identiek in ontwerp en vredige cultuur."
 
-"Dus er was sowieso een goede arts geweest!"
+"Dus er was sowieso ergens een goede arts geweest!"
 
-"Nee, zo'n gebied is te groot om te besturen. We zouden allang oorlog moeten hebben, of zijn gevallen door mensen die wél wapens hebben. Waarom gebeurt het niet?"
+"Nee, zo'n gebied is te groot om te besturen. We zouden allang oorlog moeten hebben, of zijn gevallen door wezens die wél wapens hebben. Waarom gebeurt het niet?"
 
 Prebuha schokschouderde. Vanaf het hoge Badhuis kon ze goed uitkijken over de rest van de Citadel. Alleen maar hokjes. Honderden kleine gebiedjes die grotendeels zichzelf bestuurden. "De Gebieden?"
 
@@ -116,6 +120,10 @@ Dat klonk onnodig dramatisch. Ze had een keer gezien dat de menigte de arm van e
 "Wat is Asha?"
 
 Megitas liep de lange trap af, terug naar de weilanden die nog steeds deels onder water stonden. "Een stam van lang geleden. De stam is uit elkaar---hun idee van vrede en gelijkheid leeft voort. In ons, en nergens anders ter wereld."
+
+Hij beefde. "Asha had de voorkeur van de godenkinderen. Ik zie deze beschaving als hun cadeau aan ons, omdat we vredig zijn. Omdat we dingen _juist_ doen. Maar Asha maakte een grote groep jaguars boos, en ik weet zeker dat ze nog hun wraak zoeken voor een daad die allang door tijd is vergeten."
+
+Zijn wandelstok tikte een ritme. "Ook al _is_ het raar dat de Gosti zo snel de onderhandeling met jou zouden opgeven ..."
 
 Ze zag het in zijn ogen. Hij geloofde heilig in deze beschaving, in de Gebieden, in het systeem. Hij had niks te winnen bij het vermoorden van hun Gebiedsleider.
 

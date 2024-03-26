@@ -13,7 +13,7 @@ prequel: ['The Black Sky']
 refers: ['Amor', 'Fourstone', 'Trevran', 'Bombbricks', "Mindy's Research", "Nibuwe System", "Rocketrace of Aprania", 'Babbling Brothers', 'Platsu (Planet)', 'Stone of Platsu', "Kurin (Rabbit)", "Wilplin (Chancekeeper)", "Cosmo"]
 happens: ['Death Mindy', 'Creation CAJARA', "Creation HERO", "Radio Silence of Platsu"]
 godlink: ["Jacintah"]
-genre: ["Conversation", "Scary", "Love", "Growth", "Survival", "Future", "Fight", "Biology"]
+genre: ["Dialogue", "Scary", "Love", "Growth", "Survival", "Future", "Fight", "Biology"]
 
 timeline:
   - yearstart: 2510

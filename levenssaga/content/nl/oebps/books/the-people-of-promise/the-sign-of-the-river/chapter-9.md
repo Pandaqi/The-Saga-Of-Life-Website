@@ -5,9 +5,9 @@ weight: 9
 
 Prebuha hing verdwaasd tegen haar moeder aan. Ze was een moordenaar. Ze had de Sumiseri bedrogen en teruggestuurd in de handen van de wrede Akradi. Hoe konden ze haar toejuichen? Waarom mocht ze nu weer terug? Waarom was dit _goed_? Tegelijkertijd stroomden de liefde en knuffels van haar groep door haar aderen als de heerlijkste honing. Ze was thuis, ze was veilig, het was goed.
 
-Larsh liep naar haar toe. "Vele wezens hebben gezien wat je deed, Prebuha. Je hebt het leger van Sumer de verkeerde kant op gestuurd en daarna hun commandant gedood. Megitas is nog wat geïrriteerd over dat laatste, maar wij laten zien je als heldin!"
+Larsh liep naar haar toe. "Vele wezens hebben gezien wat je deed, Prebuha. Je hebt het leger van Sumiser de verkeerde kant op gestuurd en daarna hun commandant gedood. Megitas is nog wat geïrriteerd over dat laatste, maar wij laten zien je als heldin!"
 
-"Ik ben geen heldin," mompelde ze.
+"Ik ben geen heldin," mompelde ze. Alleen al het idee van geweld maakte haar nu misselijk.
 
 Larsh fronste. Ze liep langs hem. "Ik weet van wie de boodschap komt. En daarom weet ik dat we er allang naar hadden moeten luisteren."
 
@@ -17,7 +17,7 @@ De Kleischepper stapte net zelf naar buiten. Een mand vol eten en gereedschappen
 
 "_Jij?_" zei Larsh.
 
-"Hij heeft die handelaren van Sumiser betaald met uitvindingen van hemzelf, zodat ze die boodschap zouden afleveren bij de volgende handel," zei Prebuha. Ze wees naar Mamatos, die het verhaal kon bevestigen zodra ze elkaars taal iets beter begrepen.
+"Hij heeft die handelaren van Sumiser betaald met uitvindingen van hemzelf, zodat ze die boodschap zouden afleveren bij de volgende handel," zei Prebuha. Ze wees naar Mamotas, die het verhaal kon bevestigen zodra ze elkaars taal iets beter begrepen.
 
 Zijn stekels vielen slap. "Dat is waar. Mijn berekeningen ..."
 
@@ -73,25 +73,23 @@ Een laag water streek uit over de graanvelden en kletste tegen hun enkels. Bij d
 
 De groep rende uit elkaar. Ze schreeuwden waarschuwingen en instructies in alle richtingen.
 
-Prebuha bleef achter met Mamatos, moeder, en de Kleischepper.
+Prebuha bleef achter met Mamotas, moeder, en de Kleischepper.
 
 "Ik zei het toch," zei moeder met een glimlach, ook al stortte de wereld om hen heen in. "Je hebt onze eer gered. Jouw daden zullen misschien onze stad niet redden, maar wel de Indus beschaving!"
 
 "Ik ben geen heldin," mompelde Prebuha opnieuw. "Alles wat ik heb gedaan is gewelddadig en zelfzuchtig."
 
-De Kleischepper keek haar indringend aan. "Nee. Wat je deed is juist heel sociaal."
-
-"Pardon?"
-
-"Jij zou alles doen om jouw groep te beschermen, om je sociale groep te helpen. Oorlog en geweld zijn hetzelfde. Het is alleen de meest agressieve uiting van opstaan voor jezelf en je soortgenoten."
+De Kleischepper keek haar indringend aan. "Nee. Wat je deed is juist heel sociaal. Jij zou alles doen om jouw groep te beschermen, om je sociale groep te helpen. Oorlog en geweld zijn hetzelfde. Het is alleen de meest agressieve uiting van opstaan voor jezelf en je soortgenoten."
 
 De Kleischepper knipoogde. "Megitas kan leuk praten over vrede en de ziel van Asha. Maar je denkt toch niet dat we zo dom zijn om geen wapens om onze steden te zetten?"
 
 Hij werd opgetild en meegenomen door golven, richting de Citadel. Prebuha en de rest werden ook weggedragen door het steeds hogere water, naar de buitenmuren die deels instortten. Ze peddelde en zette zich af tegen brokstukken om te sturen.
 
-Waarnaartoe? Het huisje waar ze al Welpons uitvindingen weggooiden. Die was leeg. Er was niet eens bewijs dat er ooit iets in had gezeten.
+Waarnaartoe? Het huisje waar ze al Welpons uitvindingen weggooiden. 
 
-Moeder trok haar verder. Ze schreeuwen naar alle andere Gebieden. De Kraaienzwervers aan hun linkerkant, de Boogbanieren aan de ander. Het water bleef nu nog onder het verhoogde stadsniveau, maar dat zou niet lang zo blijven.
+Die was leeg. Er was niet eens bewijs dat er ooit iets in had gezeten. Ze wilde blijven kijken, glimlachend bij het idee dat Welpons rare wapens een rol speelden in hoe ze altijd ietsje veiliger bleven, maar moeder trok haar verder.
+
+Ze schreeuwen naar alle andere Gebieden. De Kraaienzwervers aan hun linkerkant, de Boogbanieren aan de ander. Het water bleef nu nog onder het verhoogde stadsniveau, maar dat zou niet lang zo blijven.
 
 De muren tussen hun Gebieden toonden al diepe scheuren en zouden dadelijk neerstorten.
 
@@ -103,7 +101,7 @@ De trillingen werden nog heftiger. Prebuha vond het verdacht veel lijken op---op
 
 "Blijf helpen," riep ze, "ik moet iets anders doen."
 
-Met tegenzin gingen Mamatos en haar moeder verder zonder haar. Zelf stormde ze omhoog door gebruik te maken van klimop langs de muren die overeind stonden. Hoger en hoger, totdat ze in de verte kon kijken.
+Met tegenzin gingen Mamotas en haar moeder verder zonder haar. Zelf stormde ze omhoog door gebruik te maken van klimop langs de muren die overeind stonden. Hoger en hoger, totdat ze in de verte kon kijken.
 
 Het leger van Akradi kwam er inderdaad aan. Ook daar hadden de aardbevingen scheuren gemaakt en delen laten overstromen, maar dat hield hen niet tegen.
 
@@ -119,7 +117,15 @@ Op intuïtie liet ze op het hoogste punt los en maakte een zweefduik naar het da
 
 Onder haar zakte de prachtige stad langzaam weg. De scheuren van de aardbevingen---ook al waren ze niet diep---maakten honderden nieuwe riviertjes die het water met gemak in de huizen en de straten kreeg.
 
-Het enige voordeel was dat de storm de Akradi nu ook zwaar vertraagden.
+Gehele Gebieden probeerden te vluchten. Ze tilden hun kinderen of een bundel met eten en kleding, en stapten door de nieuwe gaten in de buitenmuren. Rechts van haar verlieten die witte en zwarte panda de stad ook. Ze leken verdacht kalm.
+
+"Alle vloeken en klokken," zei de witte panda. "Ons plan was _zo goed_ deze keer. Ze hadden nog niet eens de hele stad gevuld!"
+
+De zwarte panda schokschouderde. "Mwah. Hopelijk meer geluk bij jouw volgende poging tot een perfecte beschaving."
+
+Ze hielpen enkele families met ontsnappen, tot ze plotseling verdwenen. Prebuha hoopte sterk dat ze niet waren verdronken.
+
+Maar Mamotas had haar geleerd positief te blijven. Hun enige voordeel was dat de stormen de Akradi nu ook zwaar vertraagden, hopelijk lang genoeg.
 
 Een pijl zoemde langs haar oor en landde trillend onder het raam.
 

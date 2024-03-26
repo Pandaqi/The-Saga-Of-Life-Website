@@ -21,7 +21,7 @@ Een brandende vuurbal landde op het strand en duwde de menigte uiteen.
 
 Het gaf haar net genoeg ruimte om weg te glippen. Ze strompelde, struikelde, schoof door de modder langs de rivier totdat ze de boze stemmen nauwelijks meer kon horen. 
 
-Ze keek voorzichtig achterom. Niemand ging in de achtervolging. Ze was weg---dit stuk afval was weg uit hun prachtige beschaving. Dat was het enige dat telde voor hen. Een paar bestudeerden de brandende kogel en speurden het water af voor een schip die het had afgevuurd.
+Ze keek voorzichtig achterom. Niemand ging in de achtervolging. Ze was weg---dit stuk afval was weg uit hun prachtige beschaving. Dat was het enige dat telde voor hen. Slechts een paar wezens bestudeerden de brandende kogel en speurden het water af voor een schip die het had afgevuurd.
 
 Ze was alleen, dichtbij de stadsmuren, maar aan de verkeerde kant. Ze rilde---van angst, van kou, van honger. Het besef daalde in dat alles in één klap weg was gevallen.
 
@@ -37,11 +37,15 @@ Ze strompelde achter Welpon aan, maar toen ze het hutje wilde betreden werd ze t
 
 "Larsh is niet je baas. Je woont hier, buiten alle Gebieden!"
 
-Hij schudde zijn stekels. "Larsh is afgeleid. Iedereen zou moeten luisteren naar die boodschap van zijn vader---de boodschap die jij meenam uit je eerste onderhandeling. Ik wil niks doen dat mensen nog meer afleid. Misschien zijn we al te laat om te vluchten voor die rampen!"
+Hij schudde zijn stekels. "Larsh is afgeleid. Iedereen zou moeten luisteren naar die boodschap van zijn vader---de boodschap die jij meenam uit je eerste onderhandeling. Ik wil niks doen dat de inwoners nog meer afleidt. Misschien zijn we al te laat om te vluchten voor die aankomende rampen! Mijn berekeningen---"
 
 Prebuha fronste. "Jij gelooft de boodschap? Jij wil dat we allemaal onze prachtige stad verlaten?"
 
-"Mijn berekeningen kloppen al jarenlang niet meer. Het water wordt wilder. De aarde schever. Scheuren ontstaan op rare plekken. Ja, ik geloof dat er rampen aankomen. Als zelfs een grote leider als Larsham het geloofde ... waarom luistert dan _niemand_?"
+"Beschaving is een nobel idee, niet een volk of een plek."
+
+"Erg nobel," snauwde ze. "Een jonge meisjesluiaard verbannen en ten dode opschrijven."
+
+"_Mijn berekeningen_ kloppen al jarenlang niet meer. Het water wordt wilder. De aarde schever. Scheuren ontstaan op rare plekken. Ja, ik geloof dat er rampen aankomen. Als zelfs een grote leider als Larsham het geloofde ... waarom luistert dan _niemand_?"
 
 "Ze willen hier niet weg," zei ze, omdat ze diep van binnen voelde hoe waar dat was. "Ze willen zo hard niet weg ... dat ze Larsham vermoorden in de hoop zijn boodschap te laten vergeten!"
 
@@ -61,7 +65,7 @@ Hij schudde zijn hoofd. Hij haalde een paar kostbare Bulla uit de poten van zijn
 
 "Kom op. Je weet toch wel _iets_ om mij te helpen?"
 
-De Kleischepper stapte al naar binnen en gooide een lap voor de opening. "Ik weet niks, Prepre. Ik ken iedereen in ons Gebied als de stekels op mijn rug. Ik ken ze al sinds mijn geboorte. Geen van hen had een hekel aan Larsham, geen van hen heeft iets verdachts gedaan."
+De Kleischepper stapte al naar binnen en gooide een lap voor de opening. ""Ik ken iedereen in jouw Gebied als de stekels op mijn rug. Geen van hen heeft iets gedaan. Stop met je onderzoek."
 
 In haar ooghoek zag ze weer fakkels branden. Larsh leidde een groep die specifiek naar haar op zoek was. Ze waren nog ver weg, maar riepen dat ze weg moest. Weg van het héle Indusgebied. Anders zouden er straffen volgen.
 
@@ -99,9 +103,7 @@ Ze rende richting Sumiser, de enige richting waarvan ze _iets_ af wist. Wezens a
 
 Ze bekeek kort het scheepswrak. Maar nee, die ging haar nergens brengen.
 
-Voetafdrukken stonden in de aarde. Zware poten. Eén paar was sowieso van die stier.
-
-De afdrukken waren goed bewaard gebleven.
+Voetafdrukken stonden in de aarde. Zware poten. Eén paar was sowieso van die stier. De afdrukken waren goed bewaard gebleven.
 
 Ze wilden haar niet hebben? De Indus stootte haar af en joeg haar weg? Prima. Dan ging ze wel naar de andere kant. Naar de maskers die vast voorbereidingen troffen om haar beschaving aan te vallen, nu ze wisten dat er geen wapens weer.
 

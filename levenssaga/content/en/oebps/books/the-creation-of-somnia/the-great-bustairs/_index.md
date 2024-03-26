@@ -13,7 +13,7 @@ prequel: ['The Stone Dinosaurs']
 refers: ['Nightriver', 'Sunset River', 'Maybemountains', 'Wildplains of Wit', 'The Ghostbird', 'The Midterra Sea', 'Atheeni']
 happens: ['The Big Stairs', 'Stairsleep', 'Dracs (God Laws)', 'Clansteads']
 godlink: ['Bella', 'Eeris', 'Cosmo', 'Darus']
-genre: ['Conversation', 'Society', 'Discovery', 'Creation', 'Gods', 'Espionage', 'Crime', "Biology"]
+genre: ["Dialogue", 'Society', 'Discovery', 'Creation', 'Gods', 'Espionage', 'Crime', "Biology"]
 
 timeline:
   - yearstart: -48000

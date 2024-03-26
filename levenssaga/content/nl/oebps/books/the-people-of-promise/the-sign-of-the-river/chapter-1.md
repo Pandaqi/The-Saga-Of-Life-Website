@@ -11,7 +11,7 @@ Maar nee, ze wist het omdat de _Indus_ elk jaar twee keer overstroomde, en altij
 
 Nog belangrijker, het betekende _werk aan de winkel_. Dus Prebuha bleef lekker liggen en---
 
-"Opstaan luilak!" riep haar moeder. "Je moet vóór middenzon je taken uitvoeren."
+"Opstaan luilak!" riep haar moeder. "Je moet vóór Middenzon je taken uitvoeren."
 
 Ze gromde. "Ik ben ziek."
 
@@ -35,7 +35,7 @@ Het gebouw van kleistenen was drie verdiepingen hoog en, speciaal voor de luiaar
 
 _Alles ging met handel, beste lezer. Geld was nog niet uitgevonden. Als jij nieuwe kleding wilde, moest je zelf verzinnen wat je ervoor terug wilde geven. Maar dat soort alledaagse handel was niet waarvoor Prebuha was uitgekozen._
 
-Een jonge wolvenboodschapper beukte tegen haar schouder en rende paniekerig door. Hij werd pas afgeremd toen een oude Gostiman hem staande hield en indringend in zijn oor fluisterde. Ze kon niks verstaan van hun verdachte gesprek.
+Een jonge wolvenboodschapper beukte tegen haar schouder en rende paniekerig door. Hij werd pas afgeremd toen een oude Gostiman---een aapachtig wezen---hem staande hield en indringend in zijn oor fluisterde. Ze kon niks verstaan van hun verdachte gesprek.
 
 Moeder leidde haar door de binnenste stadsmuren. Daarna de middelste stadsmuren. Elk Gebied was omringd door haar eigen muren, en een grote stad als deze had al snel honderd Gebieden. Prebuha wilde niet nog meer omlopen voor stomme muren, dus ze besloot eroverheen te klimmen in plaats van de poort te zoeken. 
 
@@ -51,17 +51,17 @@ Maar moeder ging niet naar de voorraden. Ze stopten naast het hutje van de Kleis
 
 Moeder sloeg ruw een poot tegen haar mond. "Schat, heb je me wel gehoord? Je gaat handelen met Sumiser. _Zij spreken onze taal niet._"
 
-"Pff. Luilakken," zei ze chagrijnig. Maar haar hart sloeg op hol. Hoe ging ze dat ooit doen? 
+"Pff. Luilakken," zei ze chagrijnig. Maar haar hart sloeg op hol. Hoe ging ze dat ooit doen? Waarom kozen ze _haar_ en niet, weet je wel, iemand die het kon en gemotiveerd was?
 
 Ze waadde het hutje in. De Kleischepper had wijselijk alles op hoge schappen gestald. Daar pakte moeder de ene na de andere brok en wierp ze in een mand. Prebuha stapte dichterbij en zag dat deze brokken _Bulla_ waren: harde klei met symbolen erin getekend.
 
-De Kleischepper, een echidna van middelbare leeftijd die altijd dingen uitrekende, was op dit moment bezig met de volgende kleibrokken. Zodra de klei nog zacht was, drukte hij het symbool erin met een paar dunne takjes. Daarna legde hij ze op het dak om te drogen in de zon. Een paar uur later zouden ze hard zijn en de tekening voor altijd dragen.
+De Kleischepper, een echidna van middelbare leeftijd die altijd dingen uitrekende, was op dit moment bezig met de volgende kleibrokken. Zodra de klei nog zacht was, drukte hij het symbool erin met een paar dunne takjes. Daarna legde hij ze op het dak om te drogen in de zon. Ze zouden hun tekening voor altijd dragen; zo rond Eindzon
 
 Prebuha had het vaker gezien. Nu pas begreep ze dat de Kleischepper niet gewoon creatief wilde zijn.
 
 Alle symbolen werden aan haar uitgelegd. Een vogel stond voor vogelvlees. Een vis voor visvlees. Een zaadje stond voor plantenzaadjes. Nou, ja, het sprak dus eigenlijk voor zichzelf.
 
-Het was al bijna middenzon toen ze, met een mand vol zware stenen, uit het hutje stapte. Opnieuw hoorde ze gefluister om haar heen. Ze had sterk het idee dat de angstige wezens _haar_ aankeken terwijl ze het deden.
+Het was al bijna Middenzon toen ze, met een mand vol zware stenen, uit het hutje stapte. Opnieuw hoorde ze gefluister om haar heen. Ze had sterk het idee dat de angstige wezens _haar_ aankeken terwijl ze het deden.
 
 De laatste kleibrokken waren gehard in de zon.
 
@@ -75,7 +75,7 @@ Moeder keek streng. "Je hebt geen idee hoe hard ik moest handelen om jou deze ka
 
 Moeders glimlach was van korte duur. "Geen van ons heeft jouw geweldige ... vaardigheid om eigenwijs je zin door te drukken."
 
-"Nee. Ik zeg _nee_."
+"Nee. Ik zeg _nee_. Te veel werk."
 
 Moeder liet vier Bulla in het water vallen. Een andere vrouw sprong erachteraan om ze te pakken voordat ze voorgoed waren verloren aan de golven.
 
@@ -91,7 +91,7 @@ Daar zag ze het schamele bootje dat ze had gekregen, plus vier jonge wolven die 
 
 Ze vertrokken met haastige spoed, terwijl Larsh hen afwezig uitzwaaide.
 
-Ze had de neiging om eerst langs Omako te gaan. Veel dichterbij, en dan kon ze onderhandelen voor kamelen, die wilde ze altijd al hebben. Ze hadden toch alle tijd! Het zou nog---
+Ze had de neiging om eerst langs Omako te gaan. Veel dichterbij, en dan kon ze onderhandelen voor kamelen. Die wilde ze altijd al hebben en zouden betekenen dat ze niet meer hoefde te lopen. Ze hadden toch alle tijd! Het zou nog---
 
 "Schepen in zicht!" riep een wolf.
 
@@ -147,7 +147,9 @@ Ze wachtten niet. De kleinste van de twee rommelde in hun mand en vond een veel 
 
 Hij wierp het terug, bijna in haar gezicht. Daarna klommen ze in de touwen van hun schip, zoals ze behendig in bomen klommen, en voeren weg.
 
-Het was geen aanbod, geen Bulla. Het was een boodschap, geschreven in haar eigen taal. 
+Het was geen aanbod, geen Bulla. Het was een bericht geschreven van rechts naar links, opgesteld dankzij de paar symbolen die ze hadden, verbonden met pijlen en stippen. Geen echte taal, maar genoeg voor handel bijhouden.
+
+Daardoor had ze moeite het bericht in haar eigen taal te ontcijferen, totdat ze haar beste gok waagde.
 
 _Iedereen moet nu vertrekken! Grote rampen zijn aanstaande, dat weet ik met zekerheid. Ik ben zelf al gevlucht naar Sumiser. Maak haast!_
 
