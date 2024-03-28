@@ -5,6 +5,8 @@ weight: 5
 
 Gupra had niet eens het fatsoen om het Ashorra zelf te vertellen. Het moment dat hij en Marili terugkwamen in de hoofdstad, zij aan zij, leidde tijger Mero hen naar een andere plek. 
 
+_Hij was zwaar verliefd en volgde Mero blindelings, beste lezer. Marili lachte en gaf hem zoenen. Maar hij kon niet lezen of Marili echt hetzelfde voor hem voelde; een terugkerend probleem dat hij nooit genoeg aandacht zou geven._
+
 Eentje waar duizenden olifanten klaarstonden om te vertrekken, onder leiding van Alixader de Reus. De meesten hadden wel een geest, maar die was ver weg. Toch hoorde hij duizenden stemmen door zijn hoofd schreeuwen. Hij kneep zijn ogen samen en wachtte tot het stiller werd.
 
 "Wat is de betekenis hiervan?" vroeg hij aan Alixader.
@@ -13,11 +15,13 @@ De reus spuugde op de grond en marcheerde geïrriteerd verder. "Gupra heeft ons 
 
 Zijn bijnaam was razendsnel veranderd naar Ashorra de Liefdesgekke. Hij was veranderd van een jongen met een ziekte in zijn hoofd naar het schattige mikpunt van grappen.
 
-"Pardon? Is iedereen vergeten wie ik ben?"
+"Pardon? Is iedereen vergeten dat ik de prins ben en Gupra's opvolger?"
 
-"Rustig aan, liefje," zei Marili. ""
+"Rustig aan, liefje," zei Marili. "Zei je niet net dat je het paleis toch al nooit leuk vond?"
 
-Ze had gelijk. Dit was zijn kans om _weg_ te komen. Ergens anders leven met de vrouw van zijn dromen---want dat was ze nu, officieel, vastgelegd. Samen vechten op een plek waar de koning daadwerkelijk wilde vechten, in plaats van schuilen zoals zijn laffe grootvader. Hoeveel Gupramils waren wel niet gestorven? Hoeveel onderdanen waren een hongerdood gestorven door de acties van de Tamli?
+Ze had gelijk. Dit was zijn kans om _weg_ te komen. Ergens anders leven met de vrouw van zijn dromen---want dat was ze nu, officieel, vastgelegd. Samen vechten op een plek waar de koning daadwerkelijk wilde vechten, in plaats van schuilen zoals zijn laffe grootvader. 
+
+Hoeveel Gupramils waren wel niet gestorven? Hoeveel onderdanen waren een hongerdood gestorven door de acties van de Tamli?
 
 Ze draaiden om en liepen mee, samen met Alixaders leger terug naar Preza. Ze hoopten over de Himabergen te komen en Kina ook bij het Eerste Conflict te krijgen---aan de kant van de goden, natuurlijk. Als dat lukte, waren de Prijskatten volledig ingesloten, net zoals de vorige veldslag.
 
@@ -33,11 +37,11 @@ Ze trokken van stad naar stad in Schola.
 
 Ashorra realiseerde dat ze dat alleen konden omdat zijn familie het land had verenigd. Overal stonden poorten open, sprak men dezelfde taal, en werd geholpen waar het kon. Waar de Sumiseri steeds elkaars stad wilden belegeren en innemen, begreep iedereen in Schola dat ze aan dezelfde kant stonden.
 
-Als vader de Tamli koningen erbij kon voegen, zou Schola vast en zeker de gouden beschaving van de wereld worden.
+Als grootvader de Tamli koningen erbij kon voegen, zou Schola vast en zeker de gouden beschaving van de wereld worden.
 
 Maar dat ging hem nooit lukken zo.
 
-"Het is overduidelijk toch?" zei hij steeds opnieuw. "Gupra was stiekem naar Bhola geslopen. Hij verraadde de missie en daardoor was bijna Schola gevallen! Alleen maar omdat hij liever wilde dat de oorlog ophield, dan dat hij won."
+"Het is overduidelijk toch?" zei hij steeds opnieuw. "Gupra was stiekem naar Beeris geslopen. Hij verraadde de missie en daardoor was bijna Schola gevallen! Alleen maar omdat hij liever wilde dat de oorlog ophield, dan dat hij won."
 
 "Is dat zo overduidelijk?" vroeg Marili dan. "Zou hij echt zijn eigen leger en kleinzoon zo in gevaar brengen?"
 
@@ -67,7 +71,13 @@ Ardex blies een hete vlam richting Ashorra's gezicht. "Gupra heeft zich terugget
 
 Marili schuurde langszij. "Kom op, liefje. We moeten terug. Als Gupra sterft, dan ben jij koning."
 
-"Je gaat er al vanuit dat hij sterft? Je denkt al verder dan dat?" Hij schudde haar door elkaar. "Ik heb jou wel door. Je wil alleen maar die troon voor jezelf. Ja. Ja, dat is het."
+_Ze wil jouw troon. Geef haar niets. Wees niet zwak nu._
+
+"Dat zou je wel willen, hè? Jij smult al van het idee dat hij sterft?" Hij schudde haar door elkaar. "Ik heb jou wel door. Je wil alleen maar die troon voor jezelf. Ja. Ja, dat is het."
+
+"Oh verdrink toch in modder," reageerde Marili verbittered. "Nee, sorry, dat was gemeen. Ik beloof dat---"
+
+"Ik werk niet op beloftes."
 
 "Ashorra!" brulde Ardex. "Laat Marili erbuiten. Je bent oud genoeg om zelf een keuze te maken."
 
@@ -89,7 +99,7 @@ Voorzichtig liep ze weer terug. "We staan aan elkaars zijde," corrigeerde ze. "O
 
 De reis terug voelde nog langer. Ze waren moe en boos op elkaar, terwijl ze vreesden voor wat ze aantroffen bij het paleis.
 
-Ardex nam Marili vaak terzijde. Hij hoorde ze wel smiespelen. Over dat ze niet boos moest zijn, want Ardex wist dat zijn _aanwezigheid_ wezens in de buurt al boos en gefrustreerd maakte. Over dat het inderdaad zou kunnen dat zij dadelijk samen de baas waren van Schola. En dat werkte beter als je wél met elkaar praatte.
+Ardex nam Marili vaak terzijde. Hij hoorde die twee wel smiespelen. Over dat ze niet boos moest zijn, want Ardex wist dat zijn _aanwezigheid_ wezens in de buurt al boos en gefrustreerd maakte. Over dat het inderdaad zou kunnen dat zij dadelijk samen de baas waren van Schola. En dat werkte beter als je wél met elkaar praatte.
 
 Dus toen ze de poorten bereikten, verlicht door fakkels en het maanlicht, keken ze naar elkaar. Ze kropen tegen elkaar voor warmte, terwijl Ashorra bijna automatisch met zijn slurf haar wangen streelde.
 
@@ -97,7 +107,7 @@ Dus toen ze de poorten bereikten, verlicht door fakkels en het maanlicht, keken 
 
 "Het spijt me," fluisterde hij terug, die vlinders weer terug in zijn buik. "Ik zie overal geesten. Altijd stemmen in mijn hoofd. En dan die Tamli die het geluk van de goden lijken te hebben en mijn grootvader de dood in drijven ..."
 
-Marili kneep haar mond samen. Ze wilde iets zeggen, misschien haar eigen Tamli verdedigen, maar hield het in.
+Marili kneep haar mond samen. Ze wilde iets zeggen, haar eigen Tamli verdedigen, die niets anders deden dan wraak nemen voor eerdere aanvallen van de Gupramils, maar hield het in.
 
 Ze werden opgemerkt. De poort ging open. Commandant Mero kwam naar buiten. Zijn geest stond belachelijk dichtbij hem, bijna _in_ hem.
 
@@ -107,7 +117,13 @@ Zijn geest keek gelukkig; dus Mero had tranen in zijn ogen.
 
 Ashorra's wereld bevroor voor enkele hartslagen.
 
-"Aaaah!" Hij stormde op de tijger af, zo onverwacht dat de commandant zich niet verdedigde tegen zijn slagtanden. "Hoe kon je dat laten gebeuren?! Waarom deed niemand iets!?"
+"Gegeven jouw ... conditie en jonge leeftijd," zei Mero, dof in zijn oren. "Is door iedereen besloten dat _ik_ de koning zal opvolgen in plaats van jou."
+
+_Hij is een tijger, hongerig naar macht. Je zal als een zwakkeling opzij worden geworpen. Vermoord hem._
+
+"Aaaah!" Hij stormde op de tijger af. Het was zo onverwacht dat de commandant zich niet verdedigde tegen zijn slagtanden. Ashorra gaf hem meerdere diepe verwondingen voordat Mero terugvocht. Maar de slagen van de tijger waren al verzwakt en onzeker. 
+
+"Hoe kon je dat laten gebeuren?! Waarom deed niemand iets!?"
 
 Ardex trok hen uit elkaar. Mero krabbelde gewond terug door de poort.
 
@@ -115,7 +131,7 @@ Ardex trok hen uit elkaar. Mero krabbelde gewond terug door de poort.
 
 Alle inwoners van de stad waren de straten opgegaan. Ze droegen kaarsjes en liepen zingend naar Gupra's sterfplek, waar ze allemaal een bloem of kaarsje achterlieten.
 
-Ashorra huilde met diepe teugen. Zijn grootvader. Dood. En hun laatste moment samen was ruzie. Hij hield van die vent. Hij had alles te danken aan die vent.
+Ashorra huilde met diepe teugen. Zijn grootvader. Dood. En hun laatste moment samen was ruzie. Hij hield van die vent. Hij had alles te danken aan die vent. Zijn bescherming en geloof in hem, zelfs na de vroege dood van zijn ouders.
 
 De wezens draaiden om en keken naar hem. Wat dachten ze nu weer? Dat hij ook nog zwak en emotioneel was? De stemmen in zijn hoofd vertelden het hem allemaal. Hij schudde de tranen weg en maakte zich hard.
 
@@ -123,10 +139,20 @@ Hij sloeg om zich heen. Met zijn ogen dicht zwalkte hij heen en weer voor de poo
 
 "Ga weg! Donder op geesten! Wees _stil_!"
 
-Eén geest verdween. Die van Mero. Hij was overleden aan zijn verwondingen.
+Eén geest verdween. 
 
-Ah! Dus dat waren de geesten. _De dood._ En hoe dichterbij ze kwamen ...
+Het was Mero's geest. 
+
+Omstanders fluisterden dat de tijger was overleden aan zijn verwondingen.
+
+Dus ... dus ... 
+
+Dus dat waren de geesten! _De dood._ En hoe dichterbij ze kwamen ...
 
 Angstige buffalo's en neushoorns keken hem aan, hun geesten zelfverzekerde vrouwen die op hun schouders zaten en Ashorra uitdaagden.
 
 "Wat ..." zei één van hen zacht. "Wat nu, oh hooggeëerde koning?"
+
+Ze wilden hem niet als koning? Ze noemden hem gek? Alles dat hij ooit wenste was de liefde en acceptatie van zijn eigen volk. Hij zou _alles_ doen om te bewijzen dat hij het verdiende.
+
+_Maar zoals je waarschijnlijk weet, beste lezer, wezens die alles zouden doen zijn niet geneigd te luisteren naar iemand die "nee" zegt. Ze zouden nog liever hun dromen delen met geesten._

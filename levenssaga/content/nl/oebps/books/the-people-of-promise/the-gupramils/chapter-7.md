@@ -41,11 +41,13 @@ _De Tamli zijn duivels. Drijf ze weg, koste wat kost._
 
 Ardex gromde. "Hebben die stemmen in je hoofd dat gezegd?"
 
-"Misschien." Asherro zette nog wat pionnen in op het gebied van Bhola, de beste vechter. "Ik had gehoopt dat, als ik de geesten buitensloot, ik ook niet meer hun eindeloze stemmen hoefde te horen."
+"Misschien." Asherro zette nog wat pionnen in op het gebied van Beeris, de beste vechter. "Ik had gehoopt dat, als ik de geesten buitensloot, ik ook niet meer hun eindeloze stemmen hoefde te horen."
 
 "Nee," zei Ardex streng, alsof hij een eigen kind toesprak. "Dat zijn niet de stemmen van andermans Dood. Die stemmen zijn van _jouw_ Dood."
 
-Zijn dood? Waarom zou ... maar ... zijn dood was in alles het tegenovergestelde van hem ... dus die gedachten waren dan toch juist het omgekeerde van wat hij echt wilde?
+Zijn dood? 
+
+Waarom zou ... maar ... zijn dood was in alles het tegenovergestelde van hem ... dus die gedachten waren dan toch juist het omgekeerde van wat hij echt wilde?
 
 "Goede truc, Ardex. Werkt niet op mij. Bovendien kan ik echt niet ineens compleet omdraaien en stoppen met al mijn missies---dát zou pas zwakte en onzekerheid uitstralen. Een koning mag dat nooit doen. Geen enkele koning in de hele geschiedenis heeft het gedaan."
 
@@ -75,9 +77,9 @@ Hij sloeg het open en begon te lezen.
 
 _De Buha leefde een opgesloten leven, veilig in rijkdom en achter de muren van het paleis. Zijn ouders deden alsof iedereen in het land het zo goed had als hij. Alsof muntstukken vloeiden net als drinkwater. Totdat hij las over een luiaard, een simpele jonge luiaard die iets bijzonders beleefde, genaamd Prebuha._
 
-Luiaard. Bedoelden ze niet _luipaard_? Voor zover hij wist waren de meeste luiaards vertrokken toen natuurrampen het gebied bijna onleefbaar maakten voor hen.
+Luiaard. Bedoelden ze niet _luipaard_? Voor zover hij wist waren de meeste luiaards vertrokken toen natuurrampen en oorlogen het gebied onleefbaar maakten voor hen.
 
-Hij merkte dat hij helemaal voorovergebogen op het boek zat.
+Inmiddels zat hij helemaal voorovergebogen over het boek.
 
 Een deur ging open en weer dicht. Voetstappen in zijn rug. Maar hij ontspande meteen, want deze herkende hij uit duizenden.
 
@@ -95,11 +97,17 @@ _Armoede was overal. Dieren wensten voedsel, of liefde, of rijkdom. En al die di
 
 "Nee, want dan zou _ik_ iets willen. Laat dingen gebeuren en beweeg mee."
 
-Marili glimlachte alsof ze weer dat kleine meisje was. "Ik liet mij meenemen in jouw leven. Ik hield eerst niet van je---nu ben ik blij dat ik er voor je kan zijn."
+Marili glimlachte alsof ze weer dat kleine meisje was. "Ik liet mij meenemen in jouw leven. Ik hield eerst niet van je---nu ben ik blij dat ik hier ben en deze kant van het leven heb gezien."
+
+"Ik snap het niet. Hoe kan je nou niks willen?"
+
+ Marili schoof dichterbij, haar ogen liever dan ooit. "Toen ik dit lelijke litteken kreeg, was ik maandenlang verdrietig en boos. Ik deed bijna niks meer en wilde niemand zien. Totdat ik besefte ... dat ik dat _niet_ kon doen? Ik wenste eeuwige schoonheid en dat iedereen mij mooi vond. Toen ik stopte met dat wensen, kon ik weer mijn gezicht laten zien en doorgaan met leven."
 
 "Je ... weet hier veel vanaf."
 
-"De meeste Tamli zijn Buhast. Als je zou stoppen met vechten, denk ik dat ze hun schouders ophalen en je met rust laten." Marili tilde een mand omhoog met haar slurf, met daarin vers fruit en brood. "Dus laat je nu vooral _meebewegen_ met dit diner dat ik heb meegenomen voor ons twee."
+"De meeste Tamli zijn Buhast. Als je zou stoppen met vechten, zelfs als ze je uitlokken of nog eens wraak nemen, denk ik dat ze hun schouders ophalen en je met rust laten." 
+
+Marili tilde een mand omhoog met haar slurf, met daarin vers fruit en brood. "Dus laat je nu vooral _meebewegen_ met dit diner dat ik heb meegenomen voor ons twee."
 
 Iets ontwaakte in Ashorra. Een vuur dat weer begreep dat hij samen was met de liefde van zijn leven. Dat haar wilde knuffelen, zoenen, elke dag vertellen hoe mooi ze was. 
 
@@ -119,7 +127,7 @@ Ze reikte hem een voorwerp aan: een drinkfles. Hij had inderdaad dorst. Hij beda
 
 "Ik wilde eigenlijk iets vragen."
 
-Ashorra zakte door zijn voorpoten.
+Ashorra zakte omlaag.
 
 Zie je wel! Ze was hier alleen maar omdat ze iets van hem wilde. 
 
@@ -129,7 +137,7 @@ _Ze houdt niet echt van jou, dus jij ook niet van haar._
 
 "Je denkt dat ik ga luisteren naar je emotionele geratel omdat je me wat eten brengt?" Ashorra stond op. 
 
-"Ik kan je nooit op een andere manier bereiken!"
+"Oh stop met je kinderachtige gedoe!" riep Marili. "Nee, sorry, dat was gemeen. Maar ik kan je nooit op een andere manier bereiken!"
 
 Hij liep de kamer uit en liet Marili achter met het uitgestalde eten. 
 

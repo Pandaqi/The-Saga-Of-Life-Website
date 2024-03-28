@@ -9,6 +9,8 @@ Alixader de Reus had half Preza platgebrand om die Prijskatten terug te drijven.
 
 Maar Gupra had er een feestdag van gemaakt en ontving de groots commandant met een glimlach en giften.
 
+_Je grootvader is zacht en zwak geworden. Het zal hem vandaag vermoorden._
+
 De hele stad was erop afgekomen. Jong en oud juichte hun leider toe, maar niet voordat ze hun deel van het gratis feestmaal hadden gepakt. Gupra had een deel van de koninklijke schat moeten inzetten om zijn onderdanen zo te verwennen.
 
 Onderdanen, ja. Dat vergat grootvader nog wel eens.
@@ -67,7 +69,7 @@ Gupra sloeg zijn wijnbeker hard tegen de stenen tafel. "Ashorra, waarom doe je d
 
 "_Ik heb die buffalo neergeschoten met mijn pijl en boog._"
 
-Ja joh. Dat zei zijn grootvader alleen om hem weer gek te laten lijken.
+_Natuurlijk joh. Geloof hem niet. Hij wil je gewoon nog gekker laten lijken._
 
 Gupra duwde hem uit de kamer. "Je kunt een groot leider worden," fluisterde hij, "maar als je nog één keer over geesten of spoken praat ..."
 
@@ -92,13 +94,15 @@ ___
 
 Alixaders leger bestudeerde de hemel. Wat was dat?
 
-Ze stonden op de grens richting de eerste Tamli koning, hun paleis vaag zichtbaar aan de horizon. Gupra had ooit geprobeerd met een verrassingsaanval binnen te dringen en de koning te doden, nog voordat iemand een alarm kon laten afgaan. Gek genoeg ging het alarm toen al af op het moment dat hij voet op de grens zette.
+Ze stonden op de grens richting de eerste Tamli koning, hun paleis vaag zichtbaar aan de horizon. Gupra had ooit geprobeerd met een verrassingsaanval binnen te dringen en de koning te doden, nog voordat iemand een alarm kon laten afgaan. Gek genoeg ging het alarm toen al af op het moment dat hij een voet over de grens zette.
+
+_Gupra noemde het duistere magie, beste lezer. Maar het was simpelweg een group bewakers die toevallig de verkeerde route hadden gelopen die avond, en toen een scheur in de alarmbel die het willekeurig liet afgaan. Hij begon bijna te geloven in die geesten van Ashorra._
 
 Alixader had een andere strategie. Zijn gigantische leger stampte over de grens en verwoestte alles in hun pad, waardoor niets anders overbleef dan een rechte weg naar het paleis.
 
 Maar steeds meer soldaten bleven staan om naar de sterren te kijken. Sterren die steeds minder goed zichtbaar werden, want---
 
-"Sneeuw?" Alixaders stem was twee keer zo hoog. "_Sneeuw?_"
+"Sneeuw?" Alixaders stem klonk twee keer zo hoog als normaal. "_Sneeuw?_"
 
 Ashorra had het nog nooit gezien, zo zeldzaam was het.
 
@@ -112,7 +116,7 @@ Totdat hij de geest achter haar zag. Tamli hadden ze dus ook. Haar geest was een
 
 "Tja," zei ze lacherig. "_Niemand overwint de Tamli koningen._ Geniet van je sneeuwstorm, Ashorra de Gekke."
 
-Hij was zo verliefd dat hij de bijnaam niet eens hoorde.
+_Hij was te verliefd, beste lezer, om de bijnaam te horen of te beseffen dat ze de vijand was. Is dat niet prachtig? Ja, het antwoord is ja. Hij liet haar gaan._
 
 Ze hopte bij hem vandaan, zelfverzekerd in een rechte lijn naar een wolk lichtjes. Dan was daar waarschijnlijk het paleis. Dan---
 
@@ -128,6 +132,6 @@ Ardex zag het en gaf meteen op.
 
 Laffe god. Wil niet eens een paar huizen afbranden voor de overwinning! Wil niet eens---een lief meisje in de brand zetten. 
 
-Nee. Stop daarmee. Ze is de vijand, ze is een vuile Tamli, ze ... ze is een heks die sneeuwstormen kan oproepen!
+Nee. Stop daarmee. Ze is de vijand, ze is een _vuile_ Tamli. Gupra had hem alles verteld over de dingen die de Tamli hen honderd jaar geleden hadden aangedaan. Ze ... ze is een heks die sneeuwstormen kan oproepen!
 
 Alixader zuchtte luid. Hij had geen andere keus dan terugtrekken met de soldaten die nog over waren.

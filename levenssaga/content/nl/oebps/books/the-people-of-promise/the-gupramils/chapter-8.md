@@ -11,7 +11,11 @@ Zijn familieleden vochten voor hun leven op Origina. Alleen Feria was aan deze z
 
 De roodroze vos, Godin van de Dieren, keek met hem uit over het leger van de Gupramils.
 
-"Ik heb Bella gevraagd te komen, maar ze voelt zich niet goed. Eeris en ik kunnen niet ontdekken wat er mis is, maar ze lijkt ernstig ziek."
+"Ik heb Bella gevraagd te komen, maar ze voelt zich niet goed. Eeris en ik kunnen niet ontdekken wat er mis is, maar ze lijkt ernstig ziek. En Origina heeft nauwelijks vooruitgang geboekt als het gaat om geneeskunde en helen."
+
+"Het is gek, nietwaar? Hier bouwen ze al geavanceerde steden en gebouwen. Op Origina ontdekken ze pas net wat een huis is. Je hebt ... je hebt het idee dat alles beter was als de hele wereld met elkaar kon communiceren. Als de goden de nieuwste technologie aan _iedereen_ zouden geven."
+
+"Hmm," zei Feria, "er is ergens een rode panda die heel boos zou worden als ze dit hoorde. Jammer genoeg verwacht ik niet dat ons zusje komt opdagen om Bella te genezen."
 
 Ardex schraapte met zijn sabeltand een steen in twee stukken. "Ik moet naar huis. Ik ben al veel te lang weggeweest."
 
@@ -31,11 +35,11 @@ Ze lachte en kuste zijn wang. "Wij allemaal, lieverd. Ieder van ons heeft een pa
 
 Het leger wachtte op Ardex en zijn commando's. Hij keerde zijn rug zodat hij volledige aandacht had voor zijn zusje. "Ik ben de reden dat Bella geen echte magie heeft. Als een van jullie je iets minder voelt, maak ik me geen zorgen. Maar als Bella zegt dat ze ziek is ..."
 
-Feria maakte haarzelf lang en keerde naar de onrustige soldaten. Haar zangerige stem was toch luid genoeg om alle hoeken van het bos te bereiken. "Sorry, deze goden hebben even een levensbelangrijke discussie! Over magie enzo!"
+Feria maakte haarzelf lang en keerde naar de onrustige soldaten. Haar zangerige stem was toch luid genoeg om alle hoeken van het bos te bereiken. "Sorry, deze goden zijn verstrikt in een levensbelangrijke discussie! Over magie en dergelijke zaken!"
 
 "Jij bent altijd de beste geweest," mompelde Ardex. "Jullie zijn allemaal altijd beter geweest dan ik."
 
-De vos schudde haar vacht en glimlachte breed. "Had ik je niet verteld om te stoppen met luisteren naar de stemmen van de doden? Eén van mijn kinderen is halfgod van Geluk. Ik denk dat de Tamli die aan hun zijde hebben op een of andere manier."
+De vos schudde haar vacht en glimlachte breed. "Had ik je niet verteld om te stoppen met luisteren naar de stemmen van de doden? Er gaat een gerucht dat één van Eeris' kinderen de God van Geluk is. Ik denk dat de Tamli die aan hun zijde hebben op een of andere manier."
 
 Ardex zuchtte. "Wat betekent dat ik ze niet mag vermoorden natuurlijk."
 
@@ -47,7 +51,7 @@ Feria kromp ineen. "Eh, nee, liever niet. Haal ze naar onze kant, en je zal de T
 
 Onder verwonderde ogen van duizenden soldaten liep Feria sierlijk weg. "Ik ga naar huis om voor Bella te zorgen. Wacht niet te lang."
 
-Ardex zag op tegen een reis over water, maar het plan was het plan. Hij stapte met het hele leger op een gigantische vloot. Dat zagen de Tamli nooit aankomen. Al die tientallen jaren hadden de Gupramils nauwelijks geweten hoe je een schip bouwde en er zeker nooit mee gevochten.
+Ardex zag op tegen een reis over water, maar het plan was het plan. Hij stapte met het hele leger op een gigantische vloot, gebouwd in het geheim. Dat zagen de Tamli nooit aankomen. Al die tientallen jaren hadden de Gupramils nauwelijks geweten hoe je een schip bouwde en er zeker nooit mee gevochten.
 
 Het plan was twee vliegen in één klap. Eerst zouden ze alle handelaars en schepen van Tamli uitwissen onderweg. Zo zouden ze geen eindeloos goud en eten meer kunnen krijgen met hun handel.
 
@@ -61,11 +65,11 @@ Dit was het moment.
 
 De eerste schepen die ze tegenkwamen probeerden met hen te handelen. Toen ze dichterbij kwamen en Ardex zagen, gaven ze zich meteen over.
 
-Sommige schepen probeerden om te draaien of alarm te slaan. Ze werden allemaal opgeslokt door de vloot voordat ze ver kwamen.
+Sommige schepen probeerden om te draaien of alarm te slaan door vogels met boodschappen te versturen. Ze werden allemaal opgeslokt door de vloot.
 
 De reis duurde vele dagen langer dan ze allemaal wilden, maar uiteindelijk bereikten ze de punt, zeker dat alle handel stillag en niemand alarm had geslagen. Hoe wisten ze dat? Omdat de havens nog druk waren en de stranden druk bezet met toeristen of verkopers.
 
-De soldaten keken elkaar aan vol ongeloof. Ze grinnikten en porden in elkaars zij. _Ze waren aan land. Het plan ging een keer goed._
+De soldaten keken elkaar aan vol ongeloof. Ze grinnikten en porden in elkaars zij. Ze waren aan land. Het plan ging een keer goed.
 
 Was het laatste uur van de Tamli geslagen?
 
@@ -87,7 +91,7 @@ Origina was dit zeker niet. Dat kon je niet bereiken vanuit Schola in een paar d
 
 Dit waren niet de havens van Tamli. Dit was een heel ander continent ten zuiden van Garda!
 
-Dit moest zijn familie weten. Dit moest Bella weten. Jarenlang waren ze tegengehouden om verder naar het zuiden te gaan door een of andere onzichtbare muur. Hij wist niet wat er was veranderd, maar de muur leek gebroken. Dit moest zijn familie weten---het kon de sleutel zijn voor hun overwinning!
+Dit moest zijn familie weten. Jarenlang waren ze tegengehouden om verder naar het zuiden te gaan door een of andere onzichtbare muur. Hij wist niet wat er was veranderd, maar de muur leek gebroken. Dit moest Bella weten---het kon de sleutel zijn voor hun overwinning!
 
 Zijn schepen sneden in het zand. De eerste soldaten renden van de loopplank en maakten alle strandgangers bang. 
 
@@ -101,7 +105,7 @@ Een paar soldaten bleven verbaasd achter op het strand. De rest sprong snel teru
 
 "Dit is Tamli niet. We zijn verkeerd gevaren."
 
-Sommige soldaten hielden het niet meer. Hun poten trilden van spanning en woede, hun hoofd wilde alleen maar dat gevecht. Ze vuurden alsnog pijlen en kogels af op de haven of maakten weddenschappen over hoeveel ze konden vermoorden als ze wél de haven van Tamli bereikten.
+De soldaten hielden het niet meer. Hun poten trilden van spanning en woede, hun hoofd wilde alleen maar dat gevecht. Ze vuurden alsnog pijlen en kogels af op de haven of maakten weddenschappen over hoeveel ze konden vermoorden als ze wél de haven van Tamli bereikten.
 
 Gulvi bleef met krachten smijten om de dieren op het strand te redden, maar de schepen meteen volle vaart in de andere richting te geven.
 
@@ -111,11 +115,11 @@ Zodra ze land in zicht kregen, controleerden ze meteen voor de gebouwen en de na
 
 Dus ze wilden aan land, maar Ardex stelde het zo lang mogelijk uit, totdat de onrustige soldaten zijn bevelen echt niet meer opvolgden. De bloeddorstige dieren meerden aan rond de grens van het gebied van Candya
 
-Ardex rende zelf de korte afstand terug naar de hoofdstad. Hij wist zeker dat hij hier niet nodig was.
+Ardex verliet hen. Hij kon ze niet meer dwingen naar hem te luisteren, niet zonder geweld. Hij rende zelf de korte afstand terug naar de hoofdstad.
 
 Hij wist zeker dat een of andere toevallige sneeuwstorm, of vallende ster, of onbekende magie, of misverstand ervoor zou zorgen dat zijn leger _niks_ ging bereiken hier.
 
-Toen hij het paleis in rende, verliet Ashorra net de oorlogskamer met hangende schouders. Hadden de vogels hem het nieuws zo snel gebracht?
+Toen hij het paleis in rende, verliet Ashorra net de oorlogskamer. Hij gooide nonchalant de laatste houten pionnen weg, die samen zo'n 50,000 soldaten weergaven. Hadden de vogels hem het nieuws zo snel gebracht?
 
 De koning riep naar de slaapkamer boven.
 
@@ -125,9 +129,9 @@ Geen reactie. Meestal gaf Marili tenminste nog een _welterusten_ terug.
 
 "Nu is het genoeg geweest," brulde Ashorra. De koning rende naar boven, waar hij zijn harnas afstofte en zelf omdeed. Met een dubbelzwaard in zijn slurf, trapte hij de slaapkamerdeur open.
 
-Dat vond Ardex overdreven. 
+Dat vond Ardex overdreven, en hij stond op het punt rustig te vertellen wat er was gebeurd.
 
-Maar hij keek langs de koning en zag een compleet lege slaapkamer. Ze stampten er samen doorheen. Alles was netjes opgeruimd, afgestoft en afgesloten. 
+Maar hij keek langs de koning en zag een compleet lege slaapkamer. Alles was netjes opgeruimd, afgestoft en afgesloten. 
 
 Hij smeet de gordijnen open. Het zonlicht, dat hij al jaren niet meer had gezien, deed hem zichtbaar pijn.
 

@@ -17,13 +17,13 @@ Het viel weer stil.
 
 "Jij kan de toekomst zien, toch? Dus jij weet of ik de juiste keuze maak?"
 
-Zij en Didrik zuchtten tegelijk. Ze liepen nerveus rondjes om de klok, gehaast. Hoe kon _zij_ nou te weinig tijd hebben?
+Zij en Didrik zuchtten tegelijk. Ze liepen nerveus rondjes om de klok. Hoe kon _zij_ nou te weinig tijd hebben?
 
 "Dat is niet hoe het werkt. Elke keer als wij ergens naartoe reizen en _iets_ veranderen, verandert de hele tijdlijn om zich aan te passen. Ik heb inderdaad een toekomst meegemaakt waarin ik jouw wens had vervuld. Dat is de reden waarom we nu haast hebben."
 
 "Dus mijn wens is slecht?"
 
-"Nee. Deze keer kan ik hem niet vervullen, of kan het heel anders lopen. Daarom moeten we voorzichtig zijn met wat we veranderen. Haal het verkeerde steentje weg en ineens heeft Schola nooit bestaan!"
+"Nee. Zoals ik net zei: alles is steeds anders. Als ik je wens deze keer vervul, kan de tijdlijn op een héle andere manier eromheen veranderen. Daarom moeten we voorzichtig zijn met wat we veranderen. Haal het verkeerde steentje weg en ineens heeft Schola nooit bestaan!"
 
 "Maar, eh," zei Didrik, "het kan zomaar zijn dat de regels van tijdreizen binnenkort, eh, veranderen." 
 
@@ -31,7 +31,7 @@ Zij en Didrik zuchtten tegelijk. Ze liepen nerveus rondjes om de klok, gehaast. 
 
 "Geen tijd!" piepte Ismaraldah. Ze was ... was ze aan het gloeien? "Wil je dat ik het doe of niet?"
 
-Hij keek naar de sterrenhemel. Blijkbaar kon hij zijn zware taken uitvoeren _of_ de gevolgen herinneren. Maar niet allebei.
+Hij keek naar de sterrenhemel. Hij had iets over zichzelf geleerd de afgelopen jaren. Blijkbaar kon hij zijn zware taken als God van de Dood uitvoeren _of_ de gevolgen ervan herinneren---maar niet allebei.
 
 Naar buiten toe moest hij zijn andere reden vertellen. "Ja. Ik heb overal over nagedacht. Zodra ik deze macht heb, kan ik een einde maken aan _wij_ tegen _zij_. Zonder dieren het geluk te ontnemen van samenzijn of in een groep leven."
 
@@ -53,19 +53,23 @@ Toen hij verdween, hing de Dood van elk familielid ergens op een heuvel ver weg,
 
 Hij was Buhast geworden. Het was lastig, maar langzaam leerde hij loslaten en niet meer willen. Niet meer land, niet meer rijkdom, niet meer wraak. Hij _was_.
 
+Hij had publiekelijk zijn fouten toegegeven, hoe hij ernaast had gezeten, en hoe hij nu alles zou veranderen. Alle geloven waren toegestaan. Alle meningen. Handel voor henzelf en Tamli was volledig vrij, wat genoeg geld opleverde om Schola te helpen opbloeien.
+
+Sterker nog, Ashorra dacht erover om de regels van troonopvolging te vernietigen. Om naar een nieuwe koning te kijken _buiten_ zijn eigen koninklijke familie. Natuurlijk noemden velen hem _nu_ zwak en gek. Maar dat was prima. Hij wenste niet meer door iedereen te worden geliefd en geaccepteerd, en stond elke mening toe.
+
 Al ging Marili nooit meer uit zijn hoofd. Hij stond vaak 's avonds op het balkon met Ardex, die moest toegeven dat hij ook gesteld was geraakt op zijn gespreken met die lieve olifante.
 
 "Je Vlamvreter ziet er anders uit," merkte Ashorra op. Ardex reageerde niet. "Soms ... soms zou ik willen dat ik Marili kon vergeten. Dat ik het verleden kon vergeten. Als die stemmen en slechte herinneringen weg zouden gaan, zou het bijna _makkelijk_ zijn om een aardige koning te spelen."
 
 Ardex fronste naar hem. Ashorra knikte opnieuw naar zijn Vlamvreter.
 
-"Er zijn geruchten dat sommige goden, sommige Hemelvoorwerpen, die kracht hebben om herinneringen te doen ..."
+"Er zijn enkele geruchten ontstaan dat sommige goden, sommige Hemelvoorwerpen, die kracht hebben om uit te wissen ..."
 
 De sabeltandtijger stapte snel opzij, zijn Vlamvreter uit Ashorra's bereik. 
 
 "Nee, je wilt Marili niet vergeten. De herinnering aan haar is juist wat je op het goede pad houdt. Weten wat het is om iemand te verliezen, zorgt dat je meer van iemand kan houden. _Geen liefde zonder verlies._"
 
-Ashorra lachte. "Waar haal je al die uitspraken steeds vandaan? Is er een handleiding voor het spelen van een wijze god?"
+Ashorra lachte. Ardex klonk zo bijna als zijn grootvader. "Waar haal je al die uitspraken steeds vandaan? Is er een handleiding voor het spelen van een wijze god?"
 
 Ardex trok zijn wenkbrauw nog verder op. "Je vindt mij ... wijs?"
 
@@ -77,7 +81,7 @@ Ardex trok zijn wenkbrauw nog verder op. "Je vindt mij ... wijs?"
 
 "_Geen verbinding zonder kwetsbaarheid._ Die leerde ik van een of andere koppige olifant."
 
-"God oh god." Ashorra klom lachend de trap af. Hij kon vanavond nog wel een paar huizen afgaan om te vragen of ze iets nodig hadden. Het was een kwetsbare vrede, maar de Tamli leken inderdaad totaal niet geïnteresseerd in binnenvallen, zelfs nu ze praktisch geen leger meer hadden. Ze zwommen liever in hun goud.
+"God oh god." Ashorra klom de trap af. Hij kon vanavond nog wel een paar huizen afgaan om te vragen of ze iets nodig hadden. Het was een kwetsbare vrede, maar de Tamli leken inderdaad totaal niet geïnteresseerd in binnenvallen, zelfs nu ze praktisch geen leger meer hadden. Ze zwommen liever in hun goud.
 
 "_Geen vrijheid onder dwang,_ wat dacht je daarvan? Zo uit de losse pols hè."
 

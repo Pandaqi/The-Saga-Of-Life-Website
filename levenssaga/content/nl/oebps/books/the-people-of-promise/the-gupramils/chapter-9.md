@@ -3,7 +3,7 @@ title: "Ashorra de Enige"
 weight: 9
 ---
 
-Ashorra denderde zijn eigen slagveld op. Zoveel soldaten. Zoveel geesten. Zoveel bloed. Zoveel stemmen.
+Ashorra denderde zijn eigen slagveld op. Hij wist waar ze waren, hij wist wat ze zouden doen, want hij had de bevelen gegeven. Zoveel soldaten. Zoveel geesten. Zoveel bloed. Zoveel stemmen.
 
 Hij sloot zijn ogen, duizelig en wiebelend op zijn poten.
 
@@ -13,9 +13,11 @@ _Wat ben je hypocriet. Je soldaten jarenlang laten vechten, maar zelf misselijk 
 
 _Wees sterk en sla de vijanden neer. Voor een verenigd Schola! Voor je grootvader!_
 
-Nu zag hij wat één pion op zijn kaart voorstelde. Een eindeloze, eindeloze rij dieren aan beide kanten. Stuk voor stuk werden ze op de hielen gezeten door hun Dood, totdat ze werden gegrepen door hun metgezel---en dus niet levend uit de strijd kwamen.
+Nu zag hij wat één pion op zijn kaart voorstelde. Een eindeloze, eindeloze rij dieren aan beide kanten. Stuk voor stuk werden ze op de hielen gezeten door hun Dood, totdat ze werden gegrepen door hun metgezel---en dus niet thuiskwamen.
 
-"Wie heeft mijn vrouw ontvoerd?" bulderde hij. Zijn leger vormde automatisch rondom hem, een gigantische olifant als perfect middelpunt. De legers van de Tamli hoorden zijn gebrul, of de langdurige echo's ervan, en ze lachten. Ze _lachten_ hem uit.
+"Wie heeft mijn vrouw ontvoerd?" bulderde hij. 
+
+Zijn leger vormde automatisch rondom hem, een gigantische olifant als perfect middelpunt. De legers van de Tamli hoorden zijn gebrul, of de langdurige echo's ervan, en ze lachten. Ze _lachten_ hem uit.
 
 "Aaaah!"
 
@@ -23,13 +25,13 @@ Hij stormde recht op het gevaar af. Zijn dubbelzwaard, scherp aan twee kanten, d
 
 Het gaf zijn eigen leger moed. Ze brulden net zo hard als hij en doken op de tegenstander. Ze maakten vooruitgang---vooruitgang! Stuk voor stuk werd het gebied van Candya teruggewonnen.
 
-De Tamli koning zelf moest terugtrekken. In de verte, achter een veilige muur van schilden, overlegde hij paniekerig met de Are en Bhola.
+De Tamli koning zelf moest terugtrekken. In de verte, achter een veilige muur van schilden, overlegde hij paniekerig met de Are en Beeris.
 
 "Hier ben ik!"
 
 Marili's stem. Maar ze klonk niet in nood. Ze klonk ... uitdagend.
 
-Hij opende zijn ogen volledig om te kijken. Dat had hij niet moeten doen.
+Hij opende eindelijk zijn ogen. Dat had hij niet moeten doen.
 
 Om hem heen was zoveel dood en verderf. Zoveel soldaten. Zoveel onschuldigen die in de strijd betrokken waren geraakt. Hij viel bijna flauw---en dit was nog niet eens een ministukje van zo'n pion op zijn kaart. Voordat dit gevecht voorbij was, zouden de lijken opstapelen.
 
@@ -51,9 +53,13 @@ Ze vocht voor de tegenstander.
 
 "Marili!" riep hij, terwijl hij soldaten van beide legers aan de kant duwde met zijn slagtanden. Het voelde als lopen tegen een storm in, als waden door water dat tegen je in stroomde.
 
-Marili hield vier tegenstanders op afstand. Haar aanvallen waren precies, sierlijk, en dodelijk. 
+Marili hield vier tegenstanders op afstand. _Haar_ tegenstanders---_zijn_ soldaten. Haar aanvallen waren precies, sierlijk, en dodelijk. 
 
-"Marili! Stop die waanzin! Kom met---"
+"Marili! Stop die waanzin! Hoe _durf_ je tegen mij te vechten?"
+
+"Dat doe ik _niet_. Ik vluchtte naar Candya om vredig te leven. Nu moet ik mezelf _verdedigen_."
+
+"Onzin! Kom met mij---"
 
 "Ik ga nooit meer met je mee!" schreeuwde ze. Een volgende kogel uit haar slurf ontmantelde een katapult van de Gupramils.
 
@@ -65,7 +71,13 @@ Ze konden elkaar bijna aanraken. Alles viel stiel. De gevechten leken vertraagd,
 
 "Ik bleef bij je voor de liefde. Voor wat ik dacht dat we samen konden bereiken. Een verenigd, vredig Schola. Ik _wilde_ dat---ik wilde jou zo graag."
 
-Ashorra stak een poot uit. Marili stapte terug. "Er zit een lieve olifant in jou. Jammer genoeg is jouw lust naar macht en bewijs te groot om hem eruit te laten. _Al het leven is lijden, en al het lijden komt van dingen willen._"
+Ashorra stak een poot naar haar uit. "Hoe kan je me niet meer willen? Nu ik zo sterk ben geworden?"
+
+Marilli stapte terug en keek hem nauwelijks aan. "Nee. Diep van binnen ben je een zacht, emotioneel jongetje. Jij liet hele legers weglopen uit liefde, alleen om mij naast je te hebben. Je denkt dat het een zwakte is---het is juist je grootste kracht."
+
+"En ik wens je nog steeds naast me!"
+
+"_Al het leven is lijden, en al het lijden komt van dingen willen._"
 
 Ze huilde.
 
@@ -79,7 +91,7 @@ Een vlammende kogel raakte Marili en smeet haar over het slagveld als een vliege
 
 _Nou niet gaan janken kleine koning, jij---_
 
-Hij viel op zijn zij en huilde tot de tranen als rivieren bij hem vandaan stroomden. Marili. Lieve Marili. Hij hield zo van haar. Waarom had hij dat niet elke dag gezegd? Waarom was hij ooit boos geworden op haar? Het was een wonder dat ze al die jaren bij hem was gebleven. 
+Hij viel op zijn zij. En huilde tot de tranen als rivieren bij hem vandaan stroomden. Marili. Lieve Marili. Hij hield zo van haar. Waarom had hij dat niet elke dag gezegd? Waarom was hij ooit boos geworden op haar? Het was een wonder dat ze al die jaren bij hem was gebleven. 
 
 Ze had nog veel langer mogen blijven, net als zijn grootvader. Maar nu ...
 
@@ -89,7 +101,7 @@ Ze had nog veel langer mogen blijven, net als zijn grootvader. Maar nu ...
 
 "_Wat?_" De tijgercommandant keek even rond en lachte hem toen uit. "Negeer dat---"
 
-"Je hebt je _koning_ gehoord," zei Ardex, waarna hij met één slag vijf speren uit handen en monden sloeg. Zelfs de Tamli stonden bevroren op hun plek, al was hun leger bijna uitgeroeid.
+"Je hebt je _koning_ gehoord," zei Ardex, waarna hij met één slag een handvol wapens uit soldatenklauwen sloeg. Zelfs de Tamli stonden bevroren op hun plek, al was hun leger bijna uitgeroeid.
 
 Een geest zweefde voor hem langs. Zijn eigen Dood, een vrouw die gniffelde en in haar handen wreef. 
 
@@ -97,22 +109,24 @@ _Oh, ja, goed plan, zo ga je nóg sneller dood._
 
 Ze was zo overtuigend. Zo---
 
-Zijn Dood werd plots aangevallen door een andere Dood die verdacht veel leek op Marili. 
+Zijn Dood werd plots aangevallen door een andere Dood die bijna exact het omgekeerde was van Marili, in alles. 
 
 Focus. Helderheid. Ineens kon hij _zelf nadenken_.
 
 "Ik sta achter mijn commando. Wij vechten niet meer. De Tamli zijn welkom bij ons, jullie mogen je eigen gebied en rijkdom houden, het maakt me niet uit."
 
-Hij draaide om en liep weg, waarbij hij nog wat wapens uit handen sloeg.
+Hij draaide om en liep weg, waarbij hij nog wat wapens uit poten sloeg.
 
 Het leger van Tamli bleef achter vol onzekerheid. Sommige lieten hun wapen ook vallen. Sommige wilden deze kans juist grijpen.
 
-Bhola drong zich naar voren. 
+Beeris drong zich naar voren. 
 
-"Sommige zouden je keuze onwijs noemen, Ashorra," zei hij luid. "Naïef en dom genoeg om de Gupramils dynastie te laten uitsterven."
+"Sommige zouden je keuze _gek_ noemen, Ashorra," zei hij luid. "Naïef en dom genoeg om de Gupramils dynastie te laten uitsterven."
 
 Hij keek om zich heen en glimlacht naar alle soldaten.
 
 "Ik ben niet een van die wezens."
 
-Ze liepen naast elkaar van het slagveld om de voorwaarden van hun vrede te bespreken. Maar bovenal moest Bhola de huilende koning troosten met zijn verlies.
+Ze liepen naast elkaar van het slagveld om de voorwaarden van hun vrede te bespreken. Maar bovenal moest Beeris de huilende koning troosten met zijn verlies.
+
+Dat is wat familie deed.

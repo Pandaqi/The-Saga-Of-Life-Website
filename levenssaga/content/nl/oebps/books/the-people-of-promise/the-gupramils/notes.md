@@ -34,91 +34,11 @@ Daarbuiten heb ik natuurlijk veel dingen veranderd of erbij verzonnen, om het ve
 
 De drie Tamli koningen natuurlijk. Neushoorns die zwemmen in goudstukken, handelaars, hoeven niet meer grond, maar willen wel hun eigen volk verdedigen. Hebben een rare magische bescherming waardoor ze nooit worden overwonnen.
 
-* **Are** (Neushoorn): ietwat kinderacht en speels, maar kan het nog onderbouwen met gezond verstand en vaardigheid (vooral qua vechten) waar nodig.
-* **Bhola** (Neushoorn): oudste, slimste, meest serieuze, neemt de leiding wanneer dat nodig is. Grootste leger, meest diplomatisch en daadkrachtig.
+* **Are** (Neushoorn): ietwat kinderachtig en speels, maar kan het nog onderbouwen met gezond verstand en vaardigheid (vooral qua vechten) waar nodig.
+* **Beeris** (Neushoorn): oudste, slimste, meest serieuze, neemt de leiding wanneer dat nodig is. Grootste leger, meest diplomatisch en daadkrachtig.
 * **Candya** (Neushoorn): erg kinderachtig, neemt niks serieus, de jongste.
 
-
-
-
-## Revisie / Notes / @TODO
-
-Die cyclus van wraak en "bescherm je groep" moet echt meer terugkomen.
-* De Tamli weigeren aan te sluiten bij de Gupramils omdat zij hen vroeger hebben aangevallen.
-* De Gupramils weigeren hen met rust te laten om precies dezelfde reden.
-* Ashorra praat consistent alles goed door te zeggen dat hij _zijn_ wezens verdedigt tegen die _anderen_.
-* Marili kan dus nooit loskomen van dat de Tamli toch echt _haar_ wezens zijn.
-
-ZET DIT OOK NEER (vanuit Ashorra) als "Oh, ze wilden mij dood hebben, ze noemden me gek en wilden me niet als leider---nou ik ga bewijzen wat ik waard ben en de liefde van mijn mensen terugwinnen."
-
-@IDEA: Kan ik de "uitleg" voor het geluk van de Tamli verbinden met De Maan van Otto? Kan ik één neushoorn echt de Halfgod van Geluk maken, en precies die neushoorn komt vervolgens terug als beste vriend van Enra (enige vriend, omdat hij zich zo afsluit) in Otto? JA GOED PLAN.
-
-* Ashorra meer obsessief bezig laten zijn met een goede koning worden, zich bewijzen, het land redden, niet meer "gek" worden gevonden
-  * Vanaf het begin die schuingedrukte "gedachten" geven die erg destructief zijn en inderdaad van een duistere geest lijken te komen.
-  * In werkelijkheid doodde Ashorra zijn vader => kan ik dit omzetten naar Mero die hij doodt, omdat die anders "de troon tijdelijk zou overnemen totdat Ashorra ouder en wijzer was"? Moet ik sowieso iets zeggen over waarom hij geen vader heeft?
-  * Want Ashorra weigert zwak te zijn of zijn ware zelf te tonen, hoewel juist die momenten met Marili het meest lief zijn. Hij noemt zijn grootvader steeds "zwak" en hoe hij écht niet is zoals hij.
-* De schoonheid en slimheid en alles van Marili meer uiteenzetten.
-  * Sowieso de liefde van Ashorra voor Gupra/Marili iets meer tijd en details geven.
-* Meer de Gupta en Tamli cultuur benoemen met feitjes hier en daar.
-* Make the narrator really obvious in this one. They keep foreshadowing, referring back, making jokes about how the Tamli can't be conquered, they tell it like a fairy tale.
-  * Ja, meer "beste lezer stukjes"
-  * En meer een echt "geestverhaal"
-* De personages meer eigen praatstijl, persoonlijkheid, verschijning, etcetera geven.
-  * De cultuur, architectuur, specifieke diersoorten en hoe de wereld daarvoor is aangepast, en dergelijke van Tamil / Gupta neerzetten
-* **H6**: Noemen dat die gif specifiek komt van die plek uit De Hengel van Gif. Makkelijke referentie om te doen (De Rode Rivieren ofzo?)
-* **H8**: gesprek Ardex en Feria. "Het is gek, nietwaar? Hier bouwen ze al geavanceerde steden en gebouwen. Op Origina ontdekken ze pas net wat een huis is. Je hebt ... je hebt het idee dat alles beter was als de hele wereld met elkaar kon communiceren. Als de goden de nieuwste technologie aan _iedereen_ zouden geven." "Hmm, er is ergens een rode panda die heel boos zou worden als ze dit hoorde."
-* **H9**: Duidelijk maken dat zij vredig was gevlucht naar Candya, maar nu puur staat te vechten om zichzelf te _verdedigen_?
-* **H10**: Iets meer over dat gouden tijdperk. (Hij staat alle geloven toe, alle meningen. Hij zoekt buiten zijn eigen familie voor troonopvolging.)
-
-## Check out what to do with this
-
-Van de YouTube comments van Crash Course - Alexander the Great
-
-@SOURCE: https://www.youtube.com/watch?v=0LsrkWDCvxg&list=PL2QuSfnT0hGFzi_l1LTsYZajvjVgdfjsE&index=8
-
-
-It was said that Alexander would visit all of the soldiers that were wounded in battle and ask them the circumstances that caused them to be injured. He would then listen to every story and allow them to embellish as much as they wanted.....no real point to that I just think it's a cool story.
-
-
-
-The reason Alexander wasn't able to accomplish conquering India was because of a man named Chanakya. Chanakya unified the 16 kingdoms of India and approached Alexander's army. Alexander's army was not equipped to fight and his soldiers were not skilled enough to fight tamed animals such as the huge Asian elephants. If you want more details on this subject, the History channel has made a documentary about this very topic. You are free to look it up.
-
-
-Guys, there was another reason why alexander's troops didn't move on from the indus valley. At this time, the Magadha Empire was being ruled by Mahapadma Nanda, who had transformed magadha into one of the most powerful armies in the world. At that time, about 55% of India was under their control.The army was scared of the Magadha Army and were homesick, so they turned back. Just saying. Also, the Seleucids whose leader was Seleucus Nicator attacked Chandragupta Maurya of the Mauryan Empire and was defeated like a twig.
-
-
-
-Alexandar's last  fight was  with Indian king Porus at river Indus in present day  Indian kashmir 
-As  it was difficult for Alexander's army to cross Indus river and tributaries
-
-Alexander was amazed to see   for the first time war elephants of india with great armours  which can kill army with thier tusk and training
-
-Alexander was amazed by tactics of Indian warriors and King Porus  and he recommended to praise him.
-
-Due to defeat Alexanders general had  Celeulus Necater  give his daughter to Indian king Chandragupta Maurya father of Ashoka Maurya
-
-## Notes
-
-@TODO: 
-    => Assyrië, Babylon, of Perzië? (Ook voor volgend verhaal.)
-    => Alexander de Grote was van Macedonië, een Griekse stadstaat
-
-    => Bereid de migratie van Aryans + hun focus op taal (Vedas) + hoe dat Hindoeïsme werd alvast voor in dit verhaal of de volgende? 
-    => Caste and Dharma, check of ik al verhaal had over Hindoeïsme? => Hindoeïsme niet zo handig voor empires omdat het volledig focust op individualiteit en je eigen verlichting bereiken, terwijl Boeddhisme al meer focust op relaties en sociale banden. 
-    => JA in volgende verhaal, Caste en Karma enzo zijn een geweldige manier om sociale hiërarchie en rolverdeling binnen beschavingen te punctueren. 
-
-    Vier waarheden van Buddhisme.
-    * All life is suffering
-    * All suffering comes from desire
-    * To stop suffering, stop desiring
-    * And you can do so by following the eightfold path
-
-
-Alternatieve namen voor "Alexander de Grote":
-* Alarion the Grand
-* Alandros the Magnificent
-* Alixader the Giant => Alixader de Reus
-
+<!---
 Dieren rond dit gebied
 * Buffalo
 * Olifant
@@ -129,3 +49,4 @@ Dieren rond dit gebied
 * Rund (Zebu?)
 * Koe
 * Leeuw
+--->

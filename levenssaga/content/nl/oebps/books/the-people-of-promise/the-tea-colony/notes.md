@@ -76,5 +76,6 @@ Algemeen:
 * Die belangrijke zin van "no taxation without representation" toevoegen ergens?
 * **Perris:** moet andere diersoort zijn (Neushoorn), waarmee ook de "regels" voor wie slaaf zijn moeten veranderen (niks te maken met donkerheid vachtkleur) => ook moet het bestaan van deze Halfgod ergens in het begin genoemd
 	* Wees meer expliciet (vooral in H5) over dat Perris hierbij is en die gelukkige mist veroorzaakt.
+	* Geef expliciet de lichamelijke eigenschappen van Perris: litteken over zijn gehele gezicht, maar niks is kapot en geen zintuig verloren. Deel staart verbrandt, maar doet geen pijn, werkt hem niet tegen, en ziet er juist indrukwekkend uit.
 
 H9: Het feit dat ik meteen moet weggeven of Wasserbox de kanonnen heeft geplaatst of niet ... haalt het hele gewicht van dat dilemma wel een beetje weg eigenlijk. => Ja ik kan gewoon mysterieus zijn en zeggen dat ze allemaal naar buiten moesten komen, naar de heuvel terwijl de zon opkomt, en pas als die opkomt/de mist klaart wordt het duidelijk

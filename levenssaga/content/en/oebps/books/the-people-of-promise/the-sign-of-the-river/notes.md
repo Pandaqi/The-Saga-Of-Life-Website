@@ -1,5 +1,5 @@
 ---
-title: "Notities"
+title: Notes
 weight: 11
 ---
 

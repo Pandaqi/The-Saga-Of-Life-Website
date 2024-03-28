@@ -15,11 +15,15 @@ Gupra draaide razendsnel om, zijn koninklijke gewaden een wervelwind om hem heen
 
 Er was wel wat. Waarom zag niemand anders dat? Ashorra bleef wijzen en vergat te knipperen. De geest kwam écht recht op grootvader af, aangetrokken als een magneet.
 
+_Niemand zal naar je luisteren. Ze vertrouwen je niet---en terecht._
+
+De stem in zijn hoofd sliep nooit. Dus hij had geleerd om ertegenin te vechten.
+
 Hij verzamelde moed om zelf de moordenaar tegen te houden. Zijn dolk hadden ze al afgepakt nadat hij als zesjarige een van de prinsessen ermee had aangevallen. Dan maar met blote handen.
 
-Zo ver kwam het niet, want een bewaker tilde hem mee onder zijn oksel, naar de oorlogskamer. Een plek waar de geest vooralsnog niet in durfde.
+Zo ver kwam het niet, want een bewaker tilde hem op met zijn slurf en nam hem mee naar de oorlogskamer. Een plek waar de geest vooralsnog niet in durfde.
 
-"Dat is het laatste gebied," zei Gupra met een glimlach. Een gouden ring aan zijn vinger tikte tegen een gebied op de landkaart. "Alleen deze moet nog met ons verenigd."
+"Dat is het laatste gebied," zei Gupra met een glimlach. Een gouden ring rond zijn poot tikte tegen een gebied op de landkaart. "Alleen deze moet nog met ons verenigd."
 
 "En ... dan de Tamli," zei de commandant weifelend.
 
@@ -29,7 +33,7 @@ Ashorra stopte met spartelen. Nadat hij lang genoeg stil was gebleven, werd hij 
 
 Behalve de drie gebieden van de Tamli, die jammer genoeg samen een kwart van Schola waren.
 
-"Waarom kijk je zo raar als je de Tamli uitspreekt?" vroeg Ashorra onschuldig. "Ze zijn toch gewoon _de volgende plek om in te nemen_? Zoals jij altijd zegt?"
+"Waarom kijk je zo raar als je de Tamli uitspreekt?" vroeg Ashorra onschuldig. "Jij zei toch altijd dat ze gewoon _de volgende plek om te veroveren_ zijn?"
 
 Gupra glimlachte naar hem. "Nou, als je spreekt over geesten As, dan moet je de Tamli eens zien."
 
@@ -37,19 +41,29 @@ Gupra glimlachte naar hem. "Nou, als je spreekt over geesten As, dan moet je de 
 
 "De drie gebieden worden geleid door drie stinkend rijke handelaren," zei Gupra. "Als we hun eten afpakken, kopen ze meer. Als we hun wapens vernielen, kopen ze meer."
 
+"Waarom laten we ze dan niet met rust?"
+
+"Omdat ze _ons_ niet met rust laten! Niet al te lang geleden, een vredige en prachtige beschaving leefde hier, zo rond de Indus. Schola _was_ verenigd. En toen besloten alle andere volkeren te veroveren, vechten, vernietigen."
+
+"We moeten wraak nemen en alles in balans trekken," zei de tijger minachtend. "Elke andere handeling zou enorm zwak zijn. Iedereen met hersenen weet dit."
+
 De geest was terug.
 
 Ashorra piepte weer en wijste naar het zwarte wezen in de deuropening. Angstaanjagend. Het had alleen oog voor Gupra, maar leek bijna het omgekeerde van zijn grootvader. Die was lief en lachte vaak; deze geest keek altijd ernstig en boos. 
 
 "Geest! Ze komt je vermoorden! Ze---" 
 
-Ze keken niet eens meer om. Hij hoorde ze wel. Gekke As. As ziet weer spoken. As valt koeien aan zonder reden en kan niet worden vertrouwd met een dolk. Maar hij _zag_ een---oh, het waren meerdere geesten geworden. Ze dromden door de deuropening, bijna gretig om hun moord te plegen, en kozen elk een ander persoon in de kamer.
+Ze keken niet eens meer om. 
+
+_Je bent gek. Ze hadden je lang geleden moeten verbannen._
+
+Hij hoorde ze wel. Gekke As. As ziet weer spoken. As valt koeien aan zonder reden en kan niet worden vertrouwd met een dolk. Maar hij _zag_ een---oh, het waren meerdere geesten geworden. Ze dromden door de deuropening, bijna gretig om hun moord te plegen, en kozen elk een ander persoon in de kamer.
 
 De commandant schudde zijn hoofd. "Dit kan zo niet langer. Ik weet hoeveel je in je kleinzoon gelooft, Gupra, maar je moet je verlies toegeven met ... wat hij is geworden."
 
 Ashorra's schouders hingen omlaag. _Wat hij was geworden._ Hij moest zich bewijzen, maar hoe kon dat als hij de wereld anders zag dan de rest?
 
-Een hoorn schalmde door het paleis. Het sein dat ze onderweg moesten om het laatste niet-Tamli gebied te pakken.
+Een hoorn schalde door het paleis. Het sein dat ze onderweg moesten om het laatste niet-Tamli gebied te pakken.
 
 "Oh! Hak ze in de pan, Gupra! Sla ze de grond in!" riep Ashorra aanmoedigend.
 
@@ -61,7 +75,7 @@ Gupra duwde hem moeiteloos opzij met zijn slagtanden. "Mero, noem mijn kleinzoon
 
 De hoorn schalmde opnieuw. Ze moesten haast maken.
 
-"Je moet dit leren," zei Gupra tegen Ashorra. "Het plan is niet om alle dorpen in brand te steken tot het gebied één laag zwarte as is. We gaan recht op de hoofdstad af om de leider te dwingen zich over te geven. Nog één stapje dichterbij een verenigd Schola. En dat hebben we nodig, als we sterk willen staan in de rest van het Eerste Conflict."
+"Je moet dit leren," zei Gupra tegen Ashorra. "Het plan is niet om alle dorpen in brand te steken totdat we heersen over het Land van Niks. We gaan recht op de hoofdstad af om de leider te dwingen zich over te geven. Nog één stapje dichterbij een verenigd Schola. En dat hebben we nodig, als we sterk willen staan in de rest van het Eerste Conflict."
 
 Gupra stormde de kamer uit. De geesten gingen er weer achteraan, gretig om te volgen, maar blijkbaar niet gretig om daadwerkelijk toe te slaan. Inmiddels had ieder persoon, belangrijk of niet, eentje achter zich aan.
 
@@ -93,7 +107,7 @@ Hij was een tijd stil. Uren en uren liepen ze verder met korte pauzes, totdat As
 
 Ver onder hem klonk het geluid van golven die tegen een stenen strand kletsen. Totdat de buffalo het touw losliet om uit te hijgen, waardoor Ashorra de vrijheid had om zijn blinddoek te grijpen.
 
-"Elke dag werden duizenden vermoord door hun buren. Totdat Gupra kwam. Hij won de oorlogen en nam alle gebieden in om ze te _verenigen_. Want als iedereen bij hetzelfde land hoorde, zouden ze stoppen met vechten."
+"Elke dag," sprak de buffalo, "werden duizenden vermoord door hun buren. Totdat Gupra kwam. Hij won de oorlogen en nam alle gebieden in om ze te _verenigen_. Want als iedereen bij hetzelfde land hoorde, zouden ze stoppen met vechten."
 
 "Dat slaat nergens op," zei Ashorra meteen. "Ze zeggen dat de Sumiser oorlogen had tussen _steden_. Je krijgt vrede door iedereen die tegen je is te vermoorden, en zo is het, domme bewaker."
 
@@ -107,11 +121,11 @@ Alleen de voet van de buffalo weerhield hem van een dodelijke val omlaag.
 
 Hij zag weer geesten. Nee, één geest. Ze doemde op achter de buffalo, twee keer zo groot, met duivelse ogen.
 
-"Het spijt me," zei de buffalo. "Maar Schola moet verenigd in de toekomst, en dat moet zonder jou."
+"Het spijt me," zei de buffalo. "Maar Schola moet verenigd in de toekomst, en dat moet zonder jou als de opvolger van de koning."
 
 Zijn poot gleed weg. Ashorra rolde over de rand.
 
-De geest stak een puntig mes door de buffalo, die vol verbijstering hapte naar adem en voorover viel.
+De geest handelde snel. Ze stak een puntig mes door de buffalo, die vol verbijstering hapte naar adem en voorover viel.
 
 Ze vielen alle drie omlaag---ook de geest volgde.
 
@@ -122,3 +136,5 @@ In de verte kwam Gupra's leger met spoed terug naar het paleis.
 De geest was verdwenen als sneeuw voor de zon, alsof ze haar werk had gedaan. 
 
 Ah. Dus dát was hoe ze de Tamli koningen gingen verslaan.
+
+_Een geestverhaal voor de ene, beste lezer, kon een geestverhaal worden voor iedereen._
