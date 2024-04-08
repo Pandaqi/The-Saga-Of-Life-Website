@@ -27,7 +27,7 @@ Het grommen klonk nu zo luid dat Bella in elkaar dook. Angst. Voor het eerst in 
 
 Ze opende haar ogen en sloeg om haar heen. Met moeite kon ze de dikke laag om haar heen wegduwen, het water naar haar wil buigen, en ergens naartoe zwemmen. Het grommen was angstaanjagend---ook al dacht ze het nog steeds te herkennen---maar ook een hulplijn. Want nu wist ze waar de bovenkant was.
 
-Tegen de tijd dat ze alle Beweeglingen van haar af had gewapperd, brak ze door het wateroppervlak en zoog tevreden de schone buitenlucht binnen. Ze was maar een paar meter van de rand; in die mistige zee had het gevoeld als de bodem van de oceaan. Zij was naar het gevaar toe gekomen, maar het gevaar zelf was bij haar weggelopen.
+Tegen de tijd dat ze alle Beweeglingen van haar af had gewapperd, brak ze door het wateroppervlak en zoog tevreden de schone buitenlucht binnen. Ze was maar een steenworp van de kust; in die mistige zee had het gevoeld als de bodem van de oceaan. Zij was naar het gevaar toe gekomen, maar het gevaar zelf was bij haar weggelopen.
 
 Ze speurde de horizon af en vond alleen twee zwarte puntjes die achter elkaar aan renden. Was dat ... Ardex? En is dat ...
 
@@ -67,7 +67,7 @@ De Beweeglingen waren hier _nu_ goed te pas. Maar langzaam werd dit water dus al
 
 "Ja! Dat dacht ik ook!" Eeris huppelde en buppelde over het strand, haar nek zo lang mogelijk, om zo ver mogelijk te kijken. "Misschien zijn mijn Hemelse Bloemen er ook! En jouw---"
 
-Bella ontplofte bijna. Ze hield haar grotendeels versnipperde arm omhoog. "We hebben bijna geen tijd meer! We moeten door! Wat is je volgende levenskenmerk?"
+Bella ontplofte bijna. Ze hield haar grotendeels versnipperde arm omhoog. "We hebben geen tijd meer, idioten! We moeten door! Wat is je volgende levenskenmerk?"
 
 Haar geschreeuw verstijfde Darus en Eeris. Het duurde even voordat de giraffe zachtjes haar idee durfde te geven.
 

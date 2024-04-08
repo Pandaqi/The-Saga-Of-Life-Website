@@ -1,5 +1,5 @@
 ---
-title: "De Bijnabergen"
+title: Bijnabergen
 weight: 3
 ---
 
@@ -7,13 +7,11 @@ Darus had in een mum van tijd zijn nieuwe bergen gemaakt. Langs de Nachtrivier, 
 
 Maar de dieren die Feria als hun beschermengel zagen, kon ze niet achterlaten. Dus die nam ze mee op weg naar de Troon, samen met Darus, zelfs als het betekende dat ze véél langzamer liepen. Deze wezens hadden hun hele leven niets anders hoeven doen dan langzaam wat planten eten---dus ze konden niks anders. Het tempo werd aangepast aan de langzaamste van de groep: een Baarddraak met een infectie aan zijn been die nauwelijks een stap kon zetten.
 
-Zo waren ze nauwelijks vooruit gekomen toen de zon weer opkwam. Nu pas zag Feria het bewijs overal. Links en rechts lagen dode dieren, vaak verscholen in bosjes of weggedragen door het water. Want dáár zullen ze zitten, die Vleesvreters. Altijd op de loer, altijd verscholen, totdat een nietsvermoedend wezen in hun klauwen wandelt.
+Toen de zon weer opkwam zag Feria het bewijs overal. Links en rechts lagen dode dieren, vaak verscholen in bosjes of weggedragen door het water. Want dáár zullen ze zitten, die Vleesvreters. Altijd op de loer, altijd verscholen, totdat een nietsvermoedend wezen in hun klauwen wandelt.
 
-Elke keer als ze eraan dacht, werd ze kwader. "We moeten ze uitroeien, nu het nog kan," fluisterde ze tegen Darus, vooraan de groep. Hij keek verbaasd en zei niks.
+Elke keer als ze eraan dacht, werd ze kwader. "We moeten ze uitroeien, nu het nog kan," fluisterde ze tegen Darus, vooraan de groep. 
 
-"Wat?"
-
-"Ik dacht dat de Godin van de Dieren wel ietsje langer zou nadenken voordat ze dieren vermoordde."
+Hij keek verbaasd. "Ik dacht dat de Godin van de Dieren wel ietsje langer zou nadenken voordat ze dieren vermoordde."
 
 "Dit is anders. Als we het niet doen, worden alleen maar méér dieren vermoord. Totdat er geen leven meer over is!"
 
@@ -23,7 +21,7 @@ Feria kon zijn luchtigheid soms niet uitstaan en liep weg. "Ik bespreek het met 
 
 "En wat dan? Je weet niet wie het zijn of waar ze zitten. En wat als over honderd jaar wéér een beest toevallig scherpe tanden krijgt en dieren kan eten?"
 
-Feria liep stug door, sneller dan de dieren konden bijhouden. "Dit is geen toeval. Hier zit iemand achter. Waar komen anders zo snel ineens al die Vleesvreters vandaan? Tienduizend jaar geleden hoorde je niks over deze groep, en nu ineens---"
+Feria liep stug door en versnelde. "Dit is geen toeval. Hier zit iemand achter. Waar komen anders zo snel ineens al die Vleesvreters vandaan? Tienduizend jaar geleden hoorde je niks over deze groep, en nu ineens---"
 
 "Omdat dieren nauwelijks konden praten, Feria."
 
@@ -31,7 +29,9 @@ Feria liep stug door, sneller dan de dieren konden bijhouden. "Dit is geen toeva
 
 "Jij overdrijft altijd."
 
-Hun discussie ging eindeloos door, dagenlang, totdat ze eindelijk op hun slakkentempo de Troon in zicht hadden. De beesten hadden veel geklaagd over hoeveel honger ze hadden, en hoe graag ze wilden liggen, slapen en niks doen. Maar zelfs al had Feria het gewild, ze kon niks voor hen doen. Ook hier waren grote delen van de wereld kaalgeplukt. Hele bossen en velden weggegeten door bergen planteneters. 
+Hun discussie ging eindeloos door, dagenlang, totdat ze eindelijk op hun slakkentempo de Troon in zicht hadden. De beesten hadden veel geklaagd over hoeveel honger ze hadden, en hoe graag ze wilden liggen, slapen en niks doen. 
+
+Maar zelfs al had Feria het gewild, ze kon niks voor hen doen. Ook hier waren grote delen van de wereld kaalgeplukt, hele bossen en velden weggegeten door planteneters. 
 
 Ze hadden inderdaad naar de andere kant van de Nachtrivier moeten gaan. Waar alle andere dieren heengingen.
 
@@ -51,7 +51,7 @@ De Baarddraken zwaaiden nonchalant hun staart. "Iemand. Iemand met invloed, want
 
 "Cosmo en nog iemand. Ze hadden het over het CARN probleem en de CARN missie. Maar ze stelden andere dieren gerust dat er niks aan de hand was en dat was dat."
 
-_Je moet begrijpen, beste lezer, dat het leven erg langzaam was in deze tijd. Weinig gevaar. Dieren hadden oneindig leven. Het kon honderdduizenden jaren duren voordat een nieuwe diersoort ontwikkelde of iets anders veranderde. Als de Baarddraak zegt dat iets lang lang geleden was, moet je denken aan duizenden jaren, niet een paar maanden._
+_Je moet begrijpen, beste lezer, dat het leven erg langzaam was in deze tijd. Weinig gevaar. Dieren hadden oneindig leven. Het kon honderdduizenden jaren duren voordat een nieuwe diersoort ontwikkelde of iets anders veranderde. Als de Baarddraak zegt dat iets lang lang geleden was, moet je denken aan duizenden jaren, niet een paar jaar._
 
 "En toen?"
 
@@ -61,13 +61,13 @@ _Je moet begrijpen, beste lezer, dat het leven erg langzaam was in deze tijd. We
 
 De Baarddraak leunde vooruit en fluisterde, alsof Feria zijn kleine kind was. Soms vergat ze dat ze een god was en niet zoals deze dieren. Zij had ook scherpe tanden, ja, maar ze hoefde niet te eten. Ze zag eruit als een vos omdat Vader haar blijkbaar daarin veranderde toen ze werd verbannen. Ze kon onderwater zwemmen, al was ze geen vis. Ze kon een dier aanraken en precies voelen of ze ziek waren---en met een beetje geluk ook genezen.
 
-"Ik heb meerdere Baarddraken gesproken die allemaal hetzelfde zeggen," fluisterde het wezen. "Hun nest zit aan deze kant van de Nachtrivier, zo ver weg mogelijk van de goden die zich ermee kunnen bemoeien. Ze zijn met duizenden."
+"Ik heb meerdere Baarddraken gesproken die allemaal hetzelfde zeggen," fluisterde het wezen. "Het Vleesvreter nest zit aan deze kant van de Nachtrivier, zo ver weg mogelijk van de goden die zich ermee kunnen bemoeien. Ze zijn met duizenden."
 
 Feria wilde stoppen met luisteren, maar ze kon niet stoppen, bang en nieuwsgierig tegelijk. "Ze zijn overal, als je erop let. Je ziet hun schaduwen achter bomen. Je ziet hun scherpe tanden glimmend in het maanlicht. Je hoort het grommen als je slaapt. Want als je er niet op let ... krijgen ze je te pakken."
 
 Tijdens het praten was zijn baard opgezet. Een groot, zwartgestipt vel onder zijn kin blies op tot het groter was dan Feria's hoofd. Het had lichte stekels en zorgde dat de Baarddraak bijna net zo indrukwekkend eruitzag als zijn naam. Het enige landdier waarvan Feria dacht dat het _enigszins_ zichzelf kon verdedigen.
 
-Ze zag Ardex en Darus al aankomen, als twee dolle honden aan de horizon. Niet ver achter hen stuiterde Eeris, een lange giraffe die vrij boos keek. Ze ontmoetten elkaar langs het Groene Pad, vlakbij de plek waar het ophield en geen enkel wezen verder naar het Zuiden mocht. Toen ze hijgend naast haar stonden, verspilden ze geen seconde.
+Ze zag Ardex en Darus al aankomen, als twee dolle honden aan de horizon. Niet ver achter hen stuiterde Eeris, een lange giraffe die vrij boos keek. Ze ontmoetten elkaar langs het Groene Pad, vlakbij de plek waar het ophield en geen enkel wezen verder naar het Zuiden mocht. Toen ze hijgend naast haar stonden, verspilden ze geen tijd.
 
 "Bella en ik zijn het met je eens," zei Ardex serieus. "De Vleesvreters moeten weg. We hebben een plek waar ze naartoe zouden kunnen."
 

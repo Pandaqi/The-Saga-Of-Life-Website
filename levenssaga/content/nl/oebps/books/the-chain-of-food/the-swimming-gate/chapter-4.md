@@ -71,9 +71,11 @@ Bella glimlachte, al probeerde ze het te onderdrukken. Hoe kon Eeris zo vrolijk 
 
 Ze waren zó dichtbij het kraken van de code. De Beweeglingen konden bewegen, konden reageren, konden voor zichzelf zorgen. De meeste deden het alleen toevallig niet.
 
-Maar zelfs degene die het wél deden, konden geen wonderen verrichten. De ene na de andere Beweegling viel stil, zonder reden. Ze glinsterden nog steeds in het zonlicht, een halve meter onder het wateroppervlak. Ze waren niet afgebroken of door iets anders aangetrokken---toch wilden ze niets meer.
+Maar zelfs degene die het wél deden, konden geen wonderen verrichten. De ene na de andere Beweegling viel stil, zonder reden. Ze glinsterden nog steeds in het zonlicht, vlak onder het wateroppervlak. Ze waren niet afgebroken of door iets anders aangetrokken---toch wilden ze niets meer.
 
-Bella zwom snel terug, de rest op haar staart. Over de hele route vielen Beweeglingen stil. Veel versieringen waren losgeraakt en dreven nu om haar heen: zelfs de stenen bewogen meer dan deze puddingen. Maar het ergste moest nog komen.
+Bella zwom snel terug, de rest op haar staart. Over de hele route vielen Beweeglingen stil. Veel versieringen waren losgeraakt en dreven nu om haar heen: zelfs de stenen bewogen meer dan deze puddingen. 
+
+Maar het ergste moest nog komen.
 
 Toen ze weer naar de koplopers zochten, waren ze helemaal weg.
 

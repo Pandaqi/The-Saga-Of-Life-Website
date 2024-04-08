@@ -7,7 +7,7 @@ Ardex rende zij aan zij met Hanah, op zoek naar de plek waar de poort nu weer wa
 
 "Ik kan het doen," zei hij. "Ik kan de rest overtuigen dat ze ook terug willen. We laten deze planeet met rust, zoals je blijkbaar wilt."
 
-"Ik hou daar niet zo van," zei Hanah, terwijl ze de volgende heuvel oprende. "Andere mensen ompraten. Iets laten willen wat ze eigenlijk niet willen."
+"Ik hou daar niet zo van," zei Hanah, terwijl ze de volgende heuvel oprende. "Andere wezens ompraten. Iets laten willen wat ze eigenlijk niet willen."
 
 "Ze hebben er gewoon nog niet over nagedacht," zei Ardex snel. "Ze weten nog niet eens dat deze poort bestaat!"
 
@@ -19,9 +19,9 @@ Het moest nu tijd zijn voor Hanahs voorwerp. Die poort kon elk moment haar krach
 
 Precies wat ze nodig hadden om hun Beweeglingen te versterken. Maar Ardex wist niet meer of hij dat wilde. Hanah leek het ook niet te willen. Ze had een belachelijk sterke magische poort gemaakt, en kwam er toen achter dat ze het niet kon beheersen. Een connectie met Vader, de Oppergod? Wat als die poort ineens op Dalas verschijnt? Al die wezens zouden zo het Hemelpaleis kunnen binnenwandelen en ... 
 
-Dáárom rende ze zo hard op de poort af. Om hem te bewaken en af te sluiten. En om te voorkomen dat haar Zielscheurder in de verkeerde handen viel. 
+Dáárom rende ze zo hard op de poort af. Om hem te bewaken en af te sluiten. En om te voorkomen dat haar Zielscheurder in de verkeerde poten viel. 
 
-Ardex' handen die hem nu heel graag wilden hebben.
+Ardex' poten die hem nu heel graag wilden hebben.
 
 Toen zijn familie Hanah zag, maakten ze direct een bocht naar links en renden op haar af. Precies tegelijkertijd, alsof het was afgesproken. Bella duwde haar Beweeglingen in het water om Hanah een stevige, warme knuffel te geven. Hanah bleef kort knuffelen, maar wilde door, haar snuit alweer gericht op de poort. Haar ogen bestudeerden de lading Beweeglingen die over was, verdrietig en vol medelijden.
 
@@ -39,7 +39,7 @@ Ze stampte bij hen vandaan. Eeris legde haar nek neer als een slagboom. Hanah le
 
 Hanah schudde haar hoofd. "Niet precies," fluisterde ze. "Gelukkig niet."
 
-Ardex schuifelde naar de poort. _Elke seconde, elk moment,_ dacht hij. _Dan komt die Zielscheurder eruit._
+Ardex schuifelde naar de poort. _Elk moment, elk moment,_ dacht hij. _Dan komt die Zielscheurder eruit._
 
 "Maar ... maar ..." Bella keek om haar heen alsof ze ineens niet meer wist waar ze was. "We zijn zo dichtbij. We hoeven nog maar één levenskenmerk. Dit is de laatste plek, onze laatste groep Beweeglingen."
 
@@ -78,8 +78,6 @@ De poort schudde, alsof het een trommel was waarmee de lucht muziek maakte. Arde
 Ardex hief de Zielscheurder boven zijn hoofd. "We moeten terug! Het Hemelpaleis is waar we horen, niet deze achterlijke planeet! Het _Hemelpaleis_! Denk aan de tuinen, de wolken, de gebouwen, nooit meer gevaar---zijn jullie het allemaal vergeten?! Als jullie niet meegaan, vernietig ik _alle Beweeglingen_!"
 
 Steeds meer Beweeglingen stopten met leven en veranderden in piepkleine dode wezens die naar de bodem zakten. De goden versnipperden verder, Gulvi al bijna onherkenbaar.
-
-
 
 "Stop! Stop!" Eeris en Bella probeerden de Zielscheurder uit Ardex' klauwen te trekken, maar hij was te sterk. Darus stampte stenen uit de grond om Ardex uit evenwicht te halen, maar de God van Vuur verbrandde al het land onder zijn voeten tot zwarte as.
 

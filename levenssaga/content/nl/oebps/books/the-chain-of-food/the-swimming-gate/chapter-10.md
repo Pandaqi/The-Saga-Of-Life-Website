@@ -37,7 +37,9 @@ Bella en Darus fronsten. Moeder was altijd lief geweest. Als ze terug waren geke
 
 "We zijn niet gemaakt om in een huis te zitten en het leven te vertellen hoe het moet zijn." Hanah ging weg---Bella voelde dat ze niks eraan kon doen. "Zyme, zyme, zyme."
 
-_Onze Beweeglingen waren allang levend,_ dacht Bella. _Maar wij waren weer te gehaast en vonden dat het niet snel genoeg ging. Hoe konden wij dat weten? Leven kan er op zoveel manieren uitzien, toch? Volgens Darus leven zijn stenen misschien wel. Had ik maar---_ "Hanah, heb jij mijn Boek der Betekenis gezien?"
+_Onze Beweeglingen waren allang levend,_ dacht Bella. _Maar wij waren weer te gehaast en vonden dat het niet snel genoeg ging. Hoe konden wij dat weten? Leven kan er op zoveel manieren uitzien, toch? Volgens Darus leven zijn stenen misschien wel. Had ik maar---_ 
+
+"Hanah, heb jij mijn Boek der Betekenis gezien?"
 
 "Nee. Maar als ik hem tegenkom, verstop ik hem waar niemand hem kan vinden."
 
@@ -51,7 +53,9 @@ Hanah zwaaide plotseling naar boven. Cosmo stoof door de hemel, een reusachtige 
 
 "Voorzichtig? Ik ben blij dat mijn ribben niet zijn gebroken! En dat mijn Hespryhond zo slim was om zelf te lopen!" Feria gaf iedereen een knuffel, terwijl Cosmo verbaasd zijn vleugels naliep op scherpe stukken of randen.
 
-"Maar we moesten snel zijn," zei Feria. "Het is een gekkenhuis daar. _Elke_ oceaan raakt _bomvol_ met van alles en nog wat." Bomvol? Bella vond het wel meevallen, maar besefte dat het over een tijdje wél bomvol zou zijn. Het leven groeide snel. Eeris probeerde de planten mee te laten groeien, zodat er altijd te eten was. 
+"Maar we moesten snel zijn," zei Feria. "Het is een gekkenhuis daar. _Elke_ oceaan raakt _bomvol_ met van alles en nog wat." 
+
+Bomvol? Bella vond het wel meevallen, maar besefte dat het over een tijdje wél bomvol zou zijn. Het leven groeide snel. Eeris probeerde de planten mee te laten groeien, zodat er altijd te eten was. 
 
 Maar een planeet? Een oceaan? Die kan niet groeien. Bella wist zelfs zonder Boek der Betekenis waar dit heenging. Vandaag zou ze spelen en genieten. De komende maanden zou ze zich netjes houden aan Zyme. Ook omdat ze bang was dat Hanah achter elke steen schuilde om te controleren of haar gezin wel luisterde.
 

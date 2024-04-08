@@ -5,7 +5,7 @@ weight: 10
 
 Higgis sloop richting zijn doelwit. Niet omdat hij bang was te worden gezien, ook niet omdat hij zijn wazige blik niet vertrouwde, maar omdat hij onzeker was of hij dit wel moest doen. 
 
-Was het verboden om dit te vragen? Wat als het niet kon? Zou hij dit aan de rest vertellen en Higgis een doelwit voor iedereen maken?
+Was het verboden om dit te vragen? Wat als het niet kon? Zou dat beest het aan de rest vertellen en Higgis een doelwit voor iedereen maken?
 
 Maar natuurlijk, ondanks Higgis' beste pogingen, werd hij meteen opgemerkt door de Hespryhond. Hij sliep met zijn kin op de vloer, maar was meteen klaarwakker. Een echte waakhond. 
 
@@ -51,7 +51,7 @@ Hij had geen probleem met de goden. Hij vond hun keuze de juiste: het zou leven 
 
 Nu het mogelijk was om écht in gevaar te zijn en écht bijna te sterven, voelde het prachtig om door het bos te lopen, vrienden en groepsleden om hem heen, en zich _veilig_ voelen.
 
-Toch was de natuur had geraakt. Hele diersoorten, te zwak om zich te verdedigen, verdwenen. Plantensoorten stierven uit. De vleeseters brachten een nieuwe voedselketen.
+Toch was de natuur hard geraakt. Hele diersoorten, te zwak om zich te verdedigen, verdwenen. Plantensoorten stierven uit. De vleeseters brachten een nieuwe voedselketen.
 
 De goden zagen pas laat hoe ernstig dit was, want ze probeerden zich niet ermee te bemoeien. Ze noemden het de vierde "Reuzenuitsterving".
 

@@ -7,7 +7,7 @@ Ardex had al zeventien rondjes gelopen over het strand. Hij woog de woorden in z
 
 En dan de spullen van vroeger die soms mee kwamen. Was dat expres? Of was het een fout van de poort? Wat als het een leugen was, een valstrik waar Ardex---de domste god, dat moest wel---met open ogen inliep?
 
-Hij probeerde de Windvlaagvleugel mee te nemen voor Cosmo, maar kon het ding niet uit het water trekken van een afstand. Als hij het water eromheen liet verdampen, door een vuurbal, steeg de vleugel op en kwam pas tien minuten later weer naar beneden dwarrelen. Alsof het een licht veertje was, in plaats van een massieve magische vleugel.
+Hij probeerde de Windvlaagvleugel mee te nemen voor Cosmo, maar kon het ding niet uit het water trekken van een afstand. Als hij het water eromheen liet verdampen, door een vuurbal, steeg de vleugel op en dwarrelde pas even later weer naar beneden. Alsof het een licht veertje was, in plaats van een massieve magische vleugel.
 
 Maar daardoor ontdekte hij wel een tweede boodschap. "_Laat me met rust. Stop met mij volgen. Ik kan dit alleen doen als ik uit de schijnwerpers blijf._"
 
@@ -37,13 +37,13 @@ Hij had niet met de rest gesproken. Die wilden nooit hun experimenten stoppen. D
 
 Zou hij in z'n eentje mee kunnen? Nee. Leven zonder zijn familieleden, zonder veel te vrolijke Eeris of lieve slimme Bella, was geen leven.
 
-Tijdens het denken was hij al dichterbij geslopen, verscholen in de bosjes. Dat ging hem goed af, als katachtige. Hij was trots op zichzelf toen hij binnen vijftig meter van de poort kwam en de gedaantes kon uitmaken. Een misplaatste trots, zo bleek, toen het bijzondere wezen hem rechtstreeks boos aanstaarde, alsof ze dwars door bosjes kon kijken.
+Tijdens het denken was hij al dichterbij geslopen, verscholen achter stenen. Dat ging hem goed af, als katachtige. Hij was trots op zichzelf toen hij ongezien op het strand kwam en de gedaantes kon uitmaken. Een misplaatste trots, zo bleek, toen het bijzondere wezen hem plotseling _rechtstreeks boos aanstaarde_.
 
 De mooie ogen van Hanah staarden in de zijne. 
 
 De rode panda klauterde op haar poort en riep nog iets naar de zandmannetjes om haar heen. Die gingen meteen aan het werk om de poort weer te laten verdwijnen.
 
-Ardex wilde zijn jongste zusje knuffelen, vasthouden, meenemen en bij hen houden in de Troon. Maar als hij zo op haar af kwam stormen, liep dit al helemaal niet goed af. Hij duwde zichzelf door de bosjes als iemand die probeert een veel te strak kledingstuk alsnog om zich heen te trekken. 
+Ardex wilde zijn jongste zusje knuffelen, vasthouden, meenemen en bij hen houden in de Troon. Maar als hij zo op haar af kwam stormen, liep dit al helemaal niet goed af. Hij duwde zichzelf uit zijn schuilplek als iemand die probeert een veel te strak kledingstuk alsnog aan te trekken.
 
 "Hanah, luister, we willen op je voorstel ingaan. Kom terug. Blijf een paar dagen bij ons, en we gaan allemaal _samen_ terug naar het Hemelpaleis, alsjeblieft?"
 
@@ -55,25 +55,27 @@ Hanah ontblootte haar tanden. De poort beefde en sudderde, tollend op wilde golv
 
 "Die is ... groter geworden."
 
-De zandmannetjes braken de poort razendsnel af. Feria's zelfverzonnen wezen had hem nooit gemogen, en iets vertelde hem dat dit niet beter was geworden sinds hun verbanning. Ardex wilde achter Hanah aan, maar moest eerst vluchten voor een Hespryhond.
+De zandmannetjes braken de poort razendsnel af. Feria's zelfverzonnen wezen, de Hespryhond, had hem nooit gemogen. Iets vertelde hem dat dit niet beter was geworden sinds hun verbanning. Ardex wilde achter Hanah aan, maar moest eerst vluchten voor een Hespryhond.
 
 ___
 
 Darus bood de zoveelste steen aan, maar geen Beweegling leek geïnteresseerd. "Ze kunnen bewegen, maar ze _willen_ het niet. Ze kunnen eten, maar ze _willen_ het niet. Hebben wij nou net de planeet met de meest luie diersoorten?"
 
-"Misschien eten ze geen stenen, Darus." Bella begreep het idee. Op Dalas leefden ze van stenen---maar dat zei niks, want daar deden ze wel meer rare dingen. Bij elke missie die ze voor Vader deden, klaagde hij meer en meer over de Debielen van Dalas. Ze lachten erom en gingen graag nog eens langs om te kijken wat ze nu weer hadden verzonnen. Maar nu ze wist hoe moeilijk het was om leven te krijgen---en te houden---lachte ze niet meer. Die wezens van Dalas konden wel eens het eerste leven in het universum zijn geweest, en de godenkinderen lachten hun uit omdat ze stenen aten en daardoor binnen een jaar hun tanden vernielden.
+"Misschien eten ze geen stenen, Darus." Bella begreep het idee. Op Dalas leefden ze van stenen---maar dat zei niks, want daar deden ze wel meer rare dingen. Bij elke missie die ze voor Vader deden, klaagde hij meer en meer over de Debielen van Dalas. Ze lachten erom en gingen graag nog eens langs om te kijken wat ze nu weer hadden verzonnen. 
+
+Maar nu ze wist hoe moeilijk het was om leven te krijgen---en te houden---lachte ze niet meer. Die wezens van Dalas konden wel eens het eerste leven in het universum zijn geweest, en de godenkinderen lachten hun uit omdat ze stenen aten en daardoor binnen een jaar hun tanden vernielden.
 
 "Wat dan? We hebben niks anders! Zand, misschien. Zinloze bacteriën."
 
 _Je vraagt je misschien af, beste lezer, waarom de goden niet denken aan de overduidelijke oplossing: die bacteriën als voedsel geven. Maar dat zie je door een menselijke bril. Deze goden leven letterlijk van levenskracht en hebben nooit iets gekend dat andere levende wezens eet. Ze denken er niet eens aan. Het is geen mogelijkheid voor hen. Wezens eten stenen of andere niet-levende dingen, toch?_
 
-"We hebben wat we altijd hadden. Weet je nog hoe we in eerste instantie aan die bacteriën zijn gekomen?" zei Eeris. "Het water zit vol met allerlei stofjes, deeltjes, dingetjes die je zou kunnen eten."
+"We hebben wat we altijd hadden," zei Eeris. "Weet je nog hoe we in eerste instantie aan die bacteriën zijn gekomen? Het water zit _vol_ met allerlei stofjes, deeltjes, dingetjes die je zou kunnen eten."
 
 "Volgende experiment dan maar," verzuchtte Bella. Ze voelde zich nu echt ziek, klaar om elk moment neer te vallen. Het versnipperen ging maar door. De levenskracht vloeide weg, uit henzelf, uit alles om hen heen. En waar bleef Ardex?
 
 Eeris probeerde de stofjes bij elkaar te rapen. Feria, haar groene zusje, had er de beste controle over. Maar zij was er nooit als je haar nodig had!
 
-Eeris moest flink voelen en nadenken, waardoor ze tien minuten met de tong uit haar mond in het water roerde voordat er iets gebeurde. Ze probeerde stofjes te ontwijken die te maken hadden met stenen, en pakte alleen stofjes die ze ook kende uit planten. Die konden levende wezens het beste eten, toch?
+Eeris moest flink voelen en nadenken, waardoor ze lange tijd met de tong uit haar mond in het water roerde voordat er iets gebeurde. Ze probeerde stofjes te ontwijken die te maken hadden met stenen, en pakte alleen stofjes die ze ook kende uit planten. Die konden levende wezens het beste eten, toch?
 
 _Die stofjes waren grote kruimels voor de goden, beste lezer, terwijl jij ze niet eens zou kunnen zien met een microscoop. Als Eeris keek, zag ze lijnen door de lucht, magische stralen, die al het plantenleven met elkaar verbonden als een spinnenweb. Om haar magie uit te voeren, probeerde ze de juiste draden van dat spinnenweb aan te raken._
 
@@ -83,18 +85,18 @@ Zonder pardon werd de volgende groep Beweeglingen verzameld en richting het eten
 
 "Kom op, doe iets met deze stofjes. Eet ervan!" fluisterde ze de laatste groep Beweeglingen toe. Het voelde alsof ze zand tegen de muur gooide, keer op keer, in de hoop dat iets bleef plakken. In hun haast gooiden ze inmiddels ook echt met bijna alles.
 
-Weer wilden de meesten er niks van weten. De stofjes lagen op hen, dwarrelden om hen heen, en daar bleef het bij.
+Weer wilden de meesten er niks van weten.
 
-Maar hier en daar leek een pudding op te leven. Een paar stofjes gingen door hun doorzichtige huid, naar binnen, waar iets gebeurde. Eén Beweegling zoog plotseling een hele berg stofjes op, als iemand die een grote hap adem nam, en was de vijf minuten daarna niet meer te stoppen. Het tolde, danste, zwom, en racete in alle richtingen, als een prop papier meegesleurd door windvlagen die steeds draaien.
+Maar hier en daar leek een pudding op te leven. Een paar stofjes gingen door hun doorzichtige huid, naar binnen, waar iets gebeurde. Eén Beweegling zoog plotseling een hele berg stofjes op, als iemand die een grote hap adem nam, en bleef voor lange tijd bewegen. Het tolde, danste, zwom, en racete in alle richtingen.
 
 "Schrijf op!" riep Eeris. "_Eten, of stoffen opnemen, is het volgende levenskenmerk. Als je dat kan, krijg je dus nieuwe energie binnen die je kan gebruiken voor al die andere dingen._"
 
-"Oh en voeg toe," zei Darus, "_Ook al lijken deze wezens geen stenen te eten, Darus denkt toch dat zijn stenen het beste voedsel ter wereld zijn. Dat hij toevallig God van Steen en Aarde is, heeft hier NIETS mee te maken_"
+"Oh en voeg toe," zei Darus, "_Ook al lijken deze wezens geen stenen te eten, Darus denkt toch dat zijn stenen het beste voedsel ter wereld zijn. Dat hij toevallig God van Steen en Aarde is, heeft hier NIETS mee te maken._"
 
 De groep Beweeglingen kromp verder en verder. Ze moesten steeds verdere uithoeken van de oceaan afzoeken naar volgende Beweeglingen. Bella kende nog maar drie plekken waar ze konden kijken. Drie stukken oceaan waar ze nog Beweeglingen konden vinden die misschien iets deden: de Wijze Zee, de Somsgevuld, en de zeer brede Dagrivier die eruit stroomde.
 
 _Dit verhaal, beste lezer, speelt zo lang geleden af dat de wereld nog aan elkaar zit. Heel Somnia is één groot continent genaamd Volarde. Er zijn maar een paar plekken en ze liggen allemaal aan elkaar vast. Maar geef het nog wat miljoen jaar, en die tektonische platen van Darus zullen alles uit elkaar trekken tot meerdere continenten._
 
-Wat als Ardex gelijk had? Al het leven was al geëindigd voordat ze de antwoorden vonden? 
+Wat als Ardex gelijk had? Al het leven was al geëindigd voordat ze de antwoorden vonden? Bella weigerde het te overwegen, al wist ze hoe dom het was om ergens _niet_ over na te willen denken.
 
 Voor nu hadden ze één geweldige groep die kon ademhalen, waarnemen, bewegen en stoffen opnemen. Bella vertrok met haar medegoden naar de volgende van de laatste drie plekken.

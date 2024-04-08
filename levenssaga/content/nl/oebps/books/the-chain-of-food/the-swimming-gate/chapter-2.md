@@ -1,8 +1,7 @@
 ---
-title: "De levenskenmerken"
+title: De Levenskenmerken
 weight: 2
 ---
-
 Toen Ardex de volgende dag ontwaakte, en zonlicht alle gangen verlichtte, waren de afgebroken stenen weg. De gang was gerepareerd en bevatte geen enkele hint naar wat gisternacht was gebeurd. Samen met Eeris had hij nog urenlang op wacht gestaan, maar de inbreker kwam niet terug. Wakker blijven was gelukkig geen probleem, want Darus had de hele nacht teksten in Bella's "boek" gebeiteld. En alsof dat niet genoeg lawaai was, had hij luid erbij gezongen.
 
 Ardex was vooral teleurgesteld. Hij had gehoopt op nog meer voorwerpen van het Hemelpaleis. Zijn Vuurring was handig geweest, en Eeris was vast dolblij geweest met haar bloemenveld. Oh, en als Cosmo zijn Windvlaagvleugels had, zou hij nog verder kunnen vliegen. Maar nee, ze moesten het doen met hun favoriete speelbal. Een voorwerp dat hem bijna liet lachen én huilen als hij ernaar keek.
@@ -35,7 +34,7 @@ De linkergang was leeg en stil. De ingang was leeg en stil. Hij probeerde alle g
 
 Van de achterdeur tot de waterrand liep een spoor van voetstappen. Ze waren te klein en rond voor elke diersoort die hij kende, maar het waren zeker voetstappen: ze kwamen in paren van twee, diagonaal naast elkaar. Heel veel paren, dus dit dier moest hele kleine benen hebben. En ze eindigden in een ronde steen met een gat, gevuld met blauwe en paarse draaikolken, die soms lichtflitsen maakten alsof het onweerde.
 
-Ardex sprong van het dak. Hij landde netjes op zijn poten, maar de val van tientallen meters deed pijn. Zijn ogen gingen nooit van de poort in de verte---maar de poort zelf dacht daar anders over. Deze zonk in het water, zo langzaam dat Ardex dacht er op tijd te zijn, maar snel genoeg om hem ongelijk te geven.
+Ardex sprong van het dak. Hij landde netjes op zijn poten, maar de val van tien boomlengtes hoog deed pijn. Het volgende slechte teken. Zijn ogen gingen nooit van de poort in de verte---maar de poort zelf dacht daar anders over. Deze zonk in het water, zo langzaam dat Ardex dacht er op tijd te zijn, maar snel genoeg om hem ongelijk te geven.
 
 Tegen de tijd dat hij over het strand sprintte, was de poort volledig onderwater. En toen hij bij de plek kwam, lag daar alleen een bloedrode ring met een diamant in de vorm van een vlam.
 
@@ -51,9 +50,9 @@ Bella was minder in haar nopjes. Waarom was de speelbal terug? Hadden ze geen _n
 
 "Ja duh!" Darus sloeg een poot tegen zijn voorhoofd. "Natuurlijk kunnen die Beweeglingen niet ademhalen onder water. We moeten ze op het land trekken."
 
-"Nee," piepte Gulvi. "Ademhalen kan van alles zijn. Ik haal ook adem onder water."
+"Nee," piepte Gulvi. "Ademhalen betekent gewoon dat je ergens zuurstof vandaan haalt, en dan even later koolstofdioxide naar buiten duwt. Ik haal ook adem onder water."
 
-"Maar jij bent gewoon raar." Darus stak zijn tong uit. Het puntje versnipperde zodra het de buitenlucht raakte, wat de lach van zijn gezicht haalde.
+"Maar jij bent gewoon _raar_." Darus stak zijn tong uit. Het puntje versnipperde zodra het de buitenlucht raakte, wat de lach van zijn gezicht haalde.
 
 "Ik haal mijn zuurstof uit het water. De Beweeglingen kunnen dat ook."
 
@@ -75,7 +74,7 @@ _Jij, beste lezer, had waarschijnlijk gedacht dat het water leeg was. De magie v
 
 Het leek wel een bubbelbad door alle zuurstofbubbels die opstegen. Bella vond het genoeg zo en trok Eeris helemaal aan land.
 
-Gulvi veranderde in een blauw schijnende dolfijn, fel genoeg om de oceaan voor kilometers te verlichten. Dat was nodig, want de avond was gevallen. Voor de zekerheid blies Gulvi extra lucht op alle Beweeglingen.
+Gulvi veranderde in een blauw schijnende dolfijn, fel genoeg om de oceaan tot aan de horizon te verlichten. Dat was nodig, want de avond was gevallen. Voor de zekerheid blies Gulvi extra lucht op alle Beweeglingen.
 
 De godenkinderen leunden op elkaar en bogen over het water, alsof ze samen één dier waren. Langzaam werden de bubbels kleiner, tot ze verdwenen en het water weer helder was.
 

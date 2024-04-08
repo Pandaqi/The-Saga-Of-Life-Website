@@ -7,7 +7,7 @@ De paarse lichtflitsen bleven overeind, net als één stapel stenen, maar de res
 
 Ardex' stem was droog en schuurde vanwege de brandende vlam op zijn tong, klaar om de laatste Beweeglingen uit te wissen. "De poort verdwijnt alweer! Ik beslis: we gaan samen naar het Hemelpaleis. Jij ook, Hanah."
 
-Ze schudde haar hoofd. "Gaat niet, Ardex, en niks kan dat veranderen. De Beweeglingen sterven niet omdat ik iets doe, of jij, of Vader."
+Ze bleef zitten. "Gaat niet, Ardex, en niks kan dat veranderen. De Beweeglingen sterven niet omdat ik iets doe, of jij, of Vader."
 
 Bella dacht terug aan de levenskenmerken. _Ademhaling_? Hier was ook zuurstof in het water, want hier waren ook planten in het water. _Waarnemen en Bewegen_? De Beweeglingen vluchtten razendsnel weg voor hete Ardex aan de waterrand, dus dat zat ook goed. Sommige lieten een straaltje stofjes achter in het water, alsof ze van angst in hun broek plasten---_Stoffen Uitscheiden_ werkte ook nog. Ze hadden net nog aan _Voortplanting_ gedaan, en hun kinderen waren een stuk kleiner, dus _Groeien_ moesten ze ook kunnen. 
 
@@ -27,7 +27,7 @@ Bella keek naar Darus. Dat deden ze altijd als het woord _steen_, _aarde_, of _b
 
 Het besef daalde in. 
 
-Dáárom maakte Darus een bloem in de lucht. Dáárom begon hij zijn verhaal over hoe stenen voor hem leven. Dáárom keek de rest haar al tien seconden moeilijk aan.
+Dáárom maakte Darus een bloem in de lucht. Dáárom begon hij zijn verhaal over hoe stenen voor hem leven. Dáárom staarde de rest haar moeilijk aan.
 
 "Het is ongehoord," mompelde Ardex, zijn dreigementen en Zielscheurder vergeten. "Leven dat ander leven ... opeet ... "
 
@@ -59,9 +59,9 @@ Iedereen pakte de bladeren die Eeris had uitgestrooid. Ze brachten die snel naar
 
 Hanah klapte haar poten tegen elkaar. De Zielscheurder vloog van Ardex' klauwen in de hare, alsof ze een baby tegen de borst drukte. Het voorwerp gloeide en trilde terwijl Hanah langs het water liep. Toen pas zag Bella stuk voor stuk hapjes uit de bladeren gaan.
 
-_Voor jou piepkleine, onzichtbare hapjes van een blad. Iets dat je al miljoenen keren hebt gezien. Voor deze wereld een wonder---de eerste planteneters---en Bella zag de Beweeglingen glimmen in alle kleuren._
+_Voor jou, beste lezer, natuurlijk piepkleine onzichtbare hapjes van een blad. Iets dat je al miljoenen keren hebt gezien. Voor deze wereld een wonder---de eerste planteneters---en Bella zag de Beweeglingen glimmen in alle kleuren._
 
-Ardex _was_ sterk genoeg om de poort tegen te houden. Zijn staart werd uitgerekt als een elastiek, zijn slagtanden op elkaar van inspanning, maar hij hield de poort op z'n plek. 
+Ardex _was_ sterk genoeg om de poort tegen te houden. Zijn staart werd uitgerekt als een elastiek, zijn slagtand schrapend van inspanning, maar hij hield de poort op z'n plek. 
 
 Maar waarvoor? Zijn familie wilde duidelijk hier blijven. Zelfs _Bella_ wilde hier blijven. Alleen zijn eigen verlangen hield de poort hier. Ging hij alles weggooien voor één kans op wraak?
 

@@ -9,6 +9,8 @@ weight: 1
 
 _In general, those lightbulbs are used by kids for games and seen as wondrous, while our protagonist is annoyed by them and studies them too seriously. (Maybe even breaking one, causing the light to go out.)_
 
+_The secondary main character is the opposite. They help study the lightbulbs, but see it as a wondrous thing and prove that they'll soon be just as advanced. They desire a very advanced civilization, too much too quickly, which brings them at the same final destination as the main protagonist around chapter 6-7: feeling empty because of desiring so much and not seeing it fulfilled._
+
 * **Chapter 1:** explanation life and weird mysteries, protagonist feels unhappy and wonders what's the point, then lightbulb falls down.
 	* Perhaps the best mystery would be a _message_ scribbled into some cave wall. Something they don't understand. Something of which they don't know the author.
 	* The protagonist has a few stories in his head which he keeps telling his kids. They love to hear it, but they do wonder "how do you KNOW all that, dad?"

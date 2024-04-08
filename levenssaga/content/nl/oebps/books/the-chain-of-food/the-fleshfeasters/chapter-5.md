@@ -17,7 +17,7 @@ Toen ze hen veilig had afgezet bij de Troon, ging ze meteen op onderzoek. Ardex 
 
 En dat zat Feria niet lekker. Een probleem oplossen door alle dieren maar ergens in een hokje te stoppen. Het voelde nog erger dan ze zelf doden. Goden konden tenminste iemand op een zachte, magische, vredige manier laten sterven. Als ze alle Vleesvreters bij elkaar zetten, zou het allesbehalve vredig zijn. Maar Ardex was de baas, en hij was de God van de Dood, dus tja.
 
-De heenweg hadden ze vooral langs het Groene Pad gelopen. Het was een wijd, lang pad van de Troon tot de uithoeken, gemaakt en onderhouden door Eeris en Feria. Ze hoopten dat dieren het meer zouden gebruiken, maar zeker nu geruchten van de Vleesvreters over het continent reisden, wilde geen planteneter zich nog blootgeven op het pad. Geen Vleesvreter zou daar verschuilen.
+De heenweg hadden ze vooral langs het Groene Pad gelopen. Het was een wijd, lang pad van de Troon tot de uithoeken, gemaakt en onderhouden door Eeris en Feria. Ze hoopten dat dieren het meer zouden gebruiken, maar zeker nu geruchten van de Vleesvreters over het continent reisden, wilde geen planteneter zich nog blootgeven op het pad. 
 
 Dus nu liep ze langs de rivieren. Ze begon met de Langnek, de langste rivier die uitkwam in de Wijze Zee, waar haar eigen troon stond: de Levensboom. Maar die volgde het Groene Pad te veel, dus ze sloeg af naar minder bekende rivieren. Niet terug naar de Nachtrivier, maar juist de andere kant op, naar de Onmogelijke Muur van Darus. 
 
@@ -29,7 +29,7 @@ Balans. Vader zei altijd dat haar taak die van balans was. Iets dat ze als klein
 
 Het bos was uitgestorven. Feria werd er akelig van. Ze vond het altijd akelig om niet omringd te zijn door dieren en leven. Ja, er waren insecten, maar dat was nou niet de uitvinding waarop ze het meest trots was. Eeris was _dolblij_ met die beesten, want ze hielpen de bloemen met bestuiving. Feria had zelf meer met beesten zoals zij, die ze kon knuffelen, of waarmee ze kon praten.
 
-Haar poot deed pijn. Ergens in het zand, langs de rivier, stootte ze tegen iets hards. Ze wilde het van haar afschudden, maar stootte wéér tegen iets hards. Haar snuit schoot omlaag en ze groef in een mum van tijd meerdere diepe gaten, waarbij ze het zand door haar achterpoten weggooide. 
+Haar poot deed pijn. Ergens in het zand, langs de rivier, stootte ze tegen iets hards. Ze schudde het af en liep door, maar stootte wéér tegen iets hards. Haar snuit schoot omlaag en ze groef in een mum van tijd meerdere diepe gaten, waarbij ze het zand door haar achterpoten weggooide. 
 
 Botten. Skeletten van dieren, sommige van het land, de meeste uit de oceaan. Als een wilde vos begon ze de hele waterrand uit te graven. Skelet na skelet kwam tevoorschijn. Ze vond bijna geen stukje zand waar geen bewijs van Vleesvreters lag opgeslagen. 
 
@@ -39,11 +39,11 @@ _Nee,_ dacht ze. _We kunnen de Vleesvreters niet uitroeien, we kunnen ze niet la
 
 Ze haatte haarzelf dat ze nog steeds dacht aan Vader. Dat ze nog steeds zijn hulp wilde. Hij had hen verbannen, afgewezen, hier ten dode opgeschreven. Hij gaf duidelijk niks meer om haar; zij wilde het nog steeds goed doen in zijn ogen.
 
-Haar vossenpoten stonden diep in een meterslange geul die ze zelf had gegraven. Ze leunde naar voren en keek in het heldere water. Ze hoopte kleine visjes te zien zwemmen, maar verwachtte nog meer lichamen op de zeebodem. De Baarddraak had gelijk. Ze begonnen in het water. _Alles_ begon in het water. Of misschien zitten ze nog steeds---
+Haar vossenpoten stonden diep in een geul die ze zelf had gegraven. Ze leunde naar voren en keek in het heldere water. Ze hoopte kleine visjes te zien zwemmen, maar verwachtte nog meer lichamen op de zeebodem. De Baarddraak had gelijk. Ze begonnen in het water. _Alles_ begon in het water. Of misschien zitten ze nog steeds---
 
-Een metershoge golf kwam op uit het niets en trok Feria de zee in. Ze was snel genoeg om haar poten in het zand te graven, maar haar ogen gingen dicht door de klap water en ze wist niet meer wat boven of onder was. Steken gingen door haar voorpoot. Tanden, stekels, iets scherps beet erdoorheen en wilde haar niet meer loslaten. Het dier trok haar het water in, schuivend over het knarsende zand, maar Feria herinnerde op tijd een godin te zijn.
+Een golf, hoog als een boom, kwam op uit het niets en trok Feria de zee in. Ze was snel genoeg om haar poten in het zand te graven, maar haar ogen gingen dicht door de klap water en ze wist niet meer wat boven of onder was. Steken gingen door haar voorpoot. Tanden, stekels, iets scherps beet erdoorheen en wilde haar niet meer loslaten. Het dier trok haar het water in, schuivend over het knarsende zand, maar Feria herinnerde op tijd een godin te zijn.
 
-Ze sloeg haar staart in de rondte. Het wezen hield haar nog twee seconden vast, waarna de grip verslapte. Ze kon eindelijk weer zien: een reusachtige inktvis viel voor haar ogen in slaap. Nee, geen slaap, Feria had diens hart op hol laten slaan en nu was hij bewusteloos. Feria strompelde uit het water, terug naar veilige grond. Haar poot bloedde hevig, maar dat genas ze snel met haar magie, bijna onbewust. 
+Ze sloeg haar staart in de rondte. Het wezen hield haar nog even vast, waarna de grip verslapte. Ze kon eindelijk weer zien: een reusachtige inktvis viel voor haar ogen in slaap. Nee, geen slaap, Feria had diens hart op hol laten slaan en nu was hij bewusteloos. Feria strompelde uit het water, terug naar veilige grond. Haar poot bloedde hevig, maar dat genas ze snel met haar magie, bijna onbewust. 
 
 De inktvis spoelde aan, de helft van de tentakels op het strand, de andere helft als zeewier deinend vlak onder het wateroppervlak. Feria paste vijf keer in elke tentakel. "Hoe," zei ze hardop, "hebben we dit gemist?"
 
@@ -57,15 +57,15 @@ Feria moest dit eerder hebben gezien. Tenzij ... iemand het voor haar verborg. D
 
 Gehijg klonk in haar oren. Ze was niet bang, want dit gehijg herkende ze. Zonder goed te kijken, was ze al naar het dier toegerend om hem een knuffel te geven. Haar Hespryhond kwispelde en likte aan de wond op haar voorpoot, die al helemaal was genezen. 
 
-Feria was Hanah nog altijd dankbaar voor het brengen van de Hemelvoorwerpen. Ze moest er niet aan denken nog miljoenen jaren zonder haar lieve Hespryhond te zitten, al was zijn snuit groter dan heel haar lichaam.
+Feria was Hanah nog altijd dankbaar voor het brengen van de Hemelvoorwerpen. Ze moest er niet aan denken nog miljoenen jaren zonder haar lieve Hespryhond te leven.
 
 "Je moet echt in de buurt blijven, schatje," zei Feria. Maar als hij jarenlang was weggeweest, had hij misschien wel meer informatie. "Lieverd, wat weet jij van de Vleesvreters?"
 
-De hond keek haar bang aan. _Hij ook al? Krijgen ze zelfs dit gigantische dier te pakken?_ dacht Feria. Of misschien keek hij naar de inktvis achter haar.
+De hond keek bang. Hij ook al? Kregen ze zelfs dit gigantische dier te pakken?
 
 "Niks. Ze durven mij denk ik niet te pakken, maar ik hoor de roddels. Ik zie de gevolgen."
 
-Feria keek om haar heen, alsof ze toch bang was dat een van haar familieleden in dit uitgestorven bos hen afluisterde. Ze fluisterde: "Heb jij ooit gehoord dat een van ons ermee te maken heeft? Een van mijn broers of zussen gezien met een Vleesvreter?"
+Feria keek om haar heen, alsof ze toch bang was haar familieleden plotseling verschenen. Ze fluisterde: "Heb jij ooit gehoord dat een van ons ermee te maken heeft? Een van mijn broers of zussen gezien met een Vleesvreter?"
 
 Haar huisdier uit het Hemelpaleis dacht even na. "Is dit een strikvraag? Ben je me weer voor de gek aan het houden? Dat je zo'n stok weggooit, maar je gooit hem niet echt weg, en dan---"
 
@@ -73,6 +73,8 @@ Feria fronste. "Nee? Wat bedoel je, lieverd?"
 
 Hespry gebruikte zijn voorpoot om te wijzen naar Darus' hulpjes die in de verte een hele familie hagedissen meenamen. "En hoe denk je dat die wezens zo groot en sterk zijn geworden? Door planten te eten die bijna nergens meer zijn? Ik dacht ... ik ging ervan uit dat je dat wist. Dat je de voedselketen begreep en ... accepteerde."
 
-Ze wachtte geen seconde en sprintte op de beesten af. _Wat hebben we gedaan? Wat hebben we gedaan?_ 
+Ja, _nu_ begreep ze het.
+
+Ze wachtte niet langer en sprintte op de beesten af. _Wat hebben we gedaan? Wat hebben we gedaan?_ 
 
 Wat hadden ze gedaan? Alle planteneters gratis en voor niets in de handen van Vleesvreters gestopt.

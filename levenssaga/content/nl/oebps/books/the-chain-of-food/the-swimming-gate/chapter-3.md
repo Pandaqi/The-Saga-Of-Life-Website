@@ -19,13 +19,15 @@ Eeris struikelde en viel plat op de grond. Ardex wist niet of ze het expres deed
 
 "Hallo, Ardex, hoor je mij?" Bella wapperde haar handen voor zijn wazige ogen. "Kan je weer doen wat je deed?"
 
-"Wat? Oh, mist maken." Bella kon toch zo moeilijk praten soms. Cosmo had er ook een handje van. Die vonden zichzelf vast heel slim. Hij verstopte de Vuurring onder zijn feloranje rechterpoot en blies richting een stuk met veel Beweeglingen. Zodra de hitte het water verdampte, schoten ze uit elkaar. Alsof ze verstoppertje deden en ze hadden maar tien seconden om een nieuwe verstopplek te vinden.
+"Wat? Oh, mist maken." Bella kon toch zo moeilijk praten soms. Cosmo had er ook een handje van. Die vonden zichzelf vast heel slim. Hij verstopte de Vuurring onder zijn feloranje rechterpoot en blies richting een stuk met veel Beweeglingen. Zodra de hitte het water verdampte, schoten ze uit elkaar. Alsof ze verstoppertje deden en ze hadden maar tien hartslagen om een nieuwe verstopplek te vinden.
 
 "Het was dus geen toeval," zei Bella. Ze tikte in gedachten een steen tegen haar kin, waarna ze Darus opdroeg een nieuwe zin in het boek te schrijven. "_Beweeglingen lijken warmte te voelen en vluchten weg._"
 
 "Warmte?" zei Ardex. "Mijn vuuradem is zo heet dat het alles kan verbranden! Een beetje respect voor---"
 
-"Ja, vrij logisch. Leven wil overleven, anders stopt het meteen met leven." Zelfs met Vuurring vonden zijn familieleden zijn krachten blijkbaar niet zo spectaculair. Ardex was er inmiddels wel aan gewend, al hoopte hij dat de poort misschien ook zijn Vlamvreter zou brengen. Dan zou hij écht zo sterk zijn als vroeger.
+"Ja, vrij logisch," zei Bella. "Leven wil overleven, anders stopt het meteen met leven." 
+
+Zelfs met Vuurring vonden zijn familieleden zijn krachten blijkbaar niet zo spectaculair. Ardex was er inmiddels wel aan gewend, al hoopte hij dat de poort misschien ook zijn Vlamvreter zou brengen. Dan zou hij écht zo sterk zijn als vroeger.
 
 "Het helpt ons niks," zei Gulvi. "Want Ardex kan dit niet _in_ het water doen."
 
@@ -51,9 +53,9 @@ Bella moest echt eens ophouden met Ardex dom laten voelen. Hij had hier ook niks
 
 Daarom vertelde hij niet de waarheid, ja, dat was het. Zij begrepen het niet. Zij dachten dat ze hier gelukkig waren, maar kijk dan---het landschap was leeg, er was niks, dit was nog steeds een Hel. Maar als ze terug waren in het Hemelpaleis, weer onsterfelijke goden, dan zag Bella ook dat het daar véél beter was.
 
-Bella keek alleen maar serieus en ongelukkig de laatste tijd. Dat was vroeger echt niet zo. Het Hemelpaleis bevatte alle onderdelen---mooi en lelijk---van het universum. Als ze ergens iets moois vonden, namen ze het mee terug naar huis. Of was het andersom? Vader vond nieuwe magie uit, en bracht het daarna naar een planeet? 
+Bella keek alleen maar serieus en ongelukkig de laatste tijd. Dat was vroeger echt niet zo. Het Hemelpaleis bevatte alle onderdelen---mooi en lelijk---van het universum. Als ze ergens iets moois vonden, namen ze het mee terug naar huis. Of was het andersom? Moeder vond iets nieuws uit en bracht het daarna naar willekeurige planeten? 
 
-Het maakte niet uit. Het Hemelpaleis zweefde op wolken, gemaakt uit steen dat zowel stevig als zacht was, van het puurste wit dat je ooit zag. Het stond vol met kleurrijke tuinen, vooral op da daken en de vele bruggen tussen verschillende kamers. Bruggen die de goden zelf niet nodig hadden, want in hun eigen vorm konden ze zweven en dwars door muren heen, maar de dieren die ze onderhielden wel.
+Het maakte niet uit. Het Hemelpaleis zweefde op wolken, gemaakt uit steen dat zowel stevig als zacht was, van het puurste wit dat je ooit zag. Het stond vol met kleurrijke tuinen, vooral op de daken en de vele bruggen tussen verschillende gebieden. Bruggen die de goden zelf niet nodig hadden, want in hun eigen vorm konden ze zweven en dwars door muren heen, maar de dieren die ze onderhielden wel.
 
 Ardex kon niet wachten om terug te zijn. Ze waren nu al een miljoen jaar verbannen naar Somnia. Ja, hij had de dagen geteld. En luie puddingen waren het beste dat ze hadden bereikt.
 
@@ -61,7 +63,7 @@ Bella trok hem uit zijn dromen.
 
 "De Beweeglingen die overleven hebben dus de juiste voelsprieten! Toevallig doen zij wat nodig is om niet dood te gaan: vluchten van kou en hitte. Dus als we de experimenten blijven doen, houden we straks alleen de _beste_ Beweeglingen over! Die wél kunnen leven!"
 
-De zon kwam op en de eerste zonnestralen verlichtten delen van het water. Soms werden ze tegengehouden door de vele Vastelingen van Eeris, soms stierven ze snel een paar meter onderwater. Het gevolg was een wateroppervlak met vlekken van schaduw en van licht. Het bracht Eeris op een idee.
+De zon kwam op en de eerste zonnestralen verlichtten delen van het water. Soms werden ze tegengehouden door de vele Vastelingen van Eeris, soms stierven ze snel onderwater. Het gevolg was een wateroppervlak met vlekken van schaduw en van licht. Het bracht Eeris op een idee.
 
 "Gulvi, kan je een groep Beweeglingen in de diepste schaduw leggen die je kan vinden?"
 
@@ -93,7 +95,7 @@ Plotseling begon het water hevig te golven. Een verraste Gulvi werd uitgespuugd 
 
 Dus hij versnelde met hulp van zijn magie. Bij elke stap schoten vonken van de vloer en eens in de zoveel tijd maakte hij een reusachtige sprong, afgezet door vlammen onder zijn poten alsof hij een raket was. Niet al zijn poten deden even goed mee. Het versnipperen van de goden ging nog altijd door, maar samen waren zijn poten nog sterk genoeg.
 
-_Ik ga het halen. Het moet wel!_ Hij hoefde nog maar vijftig meter. De poort stak nog half uit het water. Hij nam een laatste reuzensprong---maar besefte halverwege zijn fout. 
+_Ik ga het halen. Het moet wel!_ Hij hoefde nog maar vijftig boomlengtes. De poort stak nog half uit het water. Hij nam een laatste reuzensprong---maar besefte halverwege zijn fout. 
 
 Hij landde met zijn hele lichaam middenin het water. Al het vuur doofde, terwijl hij juist voelde dat zijn lichaam overal in brand stond en overal pijn deed. Zijn oren vulden met gesis en gezoem alsof hij werd gekookt in een pan.
 

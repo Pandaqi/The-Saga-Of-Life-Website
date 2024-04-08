@@ -5,9 +5,13 @@ weight: 6
 
 Magim had deze dieren verkeerd ingeschat, en dat begon een gevaarlijke gewoonte te worden. De groep die op hen afrende was helemaal niet geïnteresseerd in Magim en Higgis. Ze waren groot en sterk, ja, maar hadden geen scherpe tanden of wilde blik.
 
-In plaats daarvan hadden ze scherpe stekels. Niet groot, niet indrukwekkend, maar meer stekels dan Magim ooit had. Hij kende stekels alleen van planten die niet wilden worden gegeten. Maar natuurlijk, nu hij dit zag, begreep hij dat dieren het ook konden gebruiken als ze niet wilden worden gegeten.
+In plaats daarvan hadden ze scherpe stekels. Niet indrukwekkend, maar meer stekels dan Magim ooit had. Hij kende stekels alleen van planten die niet wilden worden gegeten. Maar natuurlijk, nu hij dit zag, begreep hij dat dieren het ook konden gebruiken als ze niet wilden worden gegeten.
 
-"Mogen mee?" riep Higgis. De groep stopte, heel eventjes, maar ging toen weer door. _Zo overleef je vast langer,_ dacht Magim, _als je niet elke vreemdeling meteen vertrouwt_. Tot zijn verbazing maakte de groep een rondje om hen heen, en stopte toen alsnog.
+"Mogen mee?" riep Higgis. 
+
+De groep stopte, heel eventjes, maar ging toen weer door. _Zo overleef je vast langer,_ dacht Magim, _als je niet elke vreemdeling meteen vertrouwt_. 
+
+Even later stopte de groep alsnog.
 
 "Wie zijn jullie?" zei een Baarddraak, zijn baard volledig opgeblazen, waaraan óók ineens stekels zaten.
 
@@ -15,7 +19,9 @@ In plaats daarvan hadden ze scherpe stekels. Niet groot, niet indrukwekkend, maa
 
 Hij kneep zijn ogen samen en drukte zich plat tegen de vloer. "Ziet er niet zo uit."
 
-"Wel!" Magim kneep ook zijn ogen samen en drukte zich plat. Het leek alsof hij het juiste wachtwoord had genoemd. De dieren ontspanden, maar toen ze dichterbij stapten, liep de groep toch achteruit.
+"Wel!" 
+
+Magim kneep ook zijn ogen samen en drukte zich plat. Het leek alsof hij het juiste wachtwoord had genoemd. De dieren ontspanden, maar toen ze dichterbij stapten, liep de groep toch achteruit.
 
 "Toch kan je niet bij ons."
 
@@ -49,7 +55,9 @@ De groep keek hem nog steeds indringend aan. Hij wilde blijven praten, om de ged
 
 "Hij gaat niet mee." Ze wezen allemaal naar Higgis met priemende, trillende reptielenvingers. Die zag het niet, en dat was misschien maar goed ook.
 
-_Daar vinden we nog wel iets op,_ dacht Magim. Hij mocht dichterbij komen en was nog meer onder de indruk van deze groep. Iedereen had iets dat hen indrukwekkend maakte. Iets om zich mee te verdedigen. En allemaal waren ze sterk en snel. Hij keek zijn ogen uit. Met een groep als deze zou hij altijd veilig zijn, toch? _Veilig._ Het voelde als de nieuwe eerste stap in zijn leven. Nee, op dit moment was de eerste stap toch echt: zijn ziekte genezen. Hij kon bijna niet meer praten door zijn lamme mond en bijna niet meer lopen door zijn lamme poten.
+_Daar vinden we nog wel iets op,_ dacht Magim. Hij mocht dichterbij komen en was nog meer onder de indruk van deze groep. Iedereen had iets dat hen indrukwekkend maakte. Iets om zich mee te verdedigen. En allemaal waren ze sterk en snel. 
+
+Met een groep als deze zou hij altijd veilig zijn, toch? _Veilig._ Het voelde als de nieuwe eerste stap in zijn leven. Nee, op dit moment was de eerste stap toch echt: zijn ziekte genezen. Hij kon bijna niet meer praten door zijn lamme mond en bijna niet meer lopen door zijn lamme poten.
 
 "Ik meen het," zei de Baarddraak. "Wij hebben zo lang overleefd doordat we niemand vertrouwen. Wij rennen al duizenden jaren voor Vleesvreters in dit gebied. Alleen de sterkste en de snelste overleven. En jij ... "
 
@@ -65,15 +73,23 @@ Stap één: je ging ernaartoe. Zolang ze snel waren, konden ze uit handen van Vl
 
 Stap twee: je werd een vis. Nee, dat ging natuurlijk niet. Ze waren ook geen kikkers, die niet verdronken en grotere sprongen konden maken. Wat waren ze wel? De meeste hier waren hagedissen. Die konden goed over bomen of stenen klimmen.
 
-Ineens klikte het in Magims hoofd. Als ze genoeg stenen in het water konden gooien, konden ze daarover naar de andere kant lopen. Misschien konden ze zelfs een boom omver gooien en dáár overheen lopen. Niemand hoefde ook maar een druppel water aan te raken! Stap drie: ze kwamen aan de andere kant en leefden lang en gelukkig _zonder_ bang te zijn dat ze werden doodgebeten.
+Ineens klikte het in Magims hoofd. Als ze genoeg stenen in het water konden gooien, konden ze daarover naar de andere kant lopen. Misschien konden ze zelfs een boom omver gooien en dáár overheen lopen. Niemand hoefde ook maar een druppel water aan te raken! 
 
-De hele groep kwam, precies tegelijkertijd, in beweging. Magim zag het gevaar niet, maar twijfelde ook niet en rende mee. Higgis zag het gevaar zeker niet. Hij keek hulpeloos rond en riep pas "wacht op mij!" toen helemaal niemand meer op hem kon wachten. De Vleesvreters die achter hem opdoemden waren veel groter dan hij. Vergeleken met hen, leek zelfs Higgis maar een klein insect om plat te stampen.
+Stap drie: ze kwamen aan de andere kant en leefden lang en gelukkig _zonder_ bang te zijn dat ze werden doodgebeten.
+
+De groep kwam plotseling, maar precies tegelijkertijd, in beweging. 
+
+Magim zag het gevaar niet, maar twijfelde ook niet en rende mee. Higgis zag het gevaar zeker niet. Hij keek hulpeloos rond en riep pas "wacht op mij!" toen helemaal niemand meer op hem kon wachten. 
+
+De Vleesvreters die achter hem opdoemden waren veel groter dan hij. Vergeleken met hen, leek zelfs Higgis maar een klein insect om plat te stampen.
 
 Higgis platgestampt. Magim wilde er niks van weten. 
 
 Hij rende terug, maar zijn poten hielden het niet meer, en hij zakte op de grond. Zo uitgeput en vol pijn, dat zijn ogen sloten en hij niet meer kon bewegen, hoe hard hij ook wilde. Voor een buitenstaander zou Magim dood lijken---en Higgis begreep dat.
 
-"Blijf weg! Mijn hapje!" riep hij zo boos en ruw als hij kon. Magim wilde zijn ogen openen. Eén snelle blik. Weten wat voor monsters hem omringden en neerkeken. Hij werd gek van de duisternis, van niet weten wat er gebeurde. Alsof een spin over je heen kroop, maar je kon hem niet zien en mocht hem niet weghalen.
+"Blijf weg! Mijn hapje!" riep hij zo boos en ruw als hij kon. 
+
+Magim wilde zijn ogen openen. Eén snelle blik. Weten wat voor monsters hem omringden en neerkeken. Hij werd gek van de duisternis, van niet weten wat er gebeurde. Alsof een spin over je heen kroop, maar je kon hem niet zien en mocht hem niet weghalen.
 
 Maar ogen openen zou hem weggeven. Het zou het einde betekenen, van hem én Higgis. 
 
@@ -91,6 +107,6 @@ Magim liet van angst zijn plas lopen en kon het niet stoppen.
 
 Hij werd opgetild. Twee tanden hadden zijn staart gepakt en hengelden hem omhoog als een visje uit het water. Magim moest het laten gebeuren, zelfs al deed het veel pijn. Hij hield zich in, hield zich in, hield zich in, totdat hij weer op de grond werd gelegd.
 
-In een reflex schoten zijn ogen open. Ze waren alleen, honderd meter verderop, terwijl de Vleesvreters achter die andere groep aanrenden. Higgis stond over hem heen gebogen.
+In een reflex schoten zijn ogen open. Ze waren alleen, een aantal boomlengtes verderop, terwijl de Vleesvreters achter die andere groep aanrenden. Higgis stond over hem heen gebogen.
 
 Maar zijn lieve ogen leken verwisseld met de hebberige ogen van een Vleesvreter.

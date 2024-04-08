@@ -3,7 +3,7 @@ title: "Het misplaatste voorwerp"
 weight: 1
 ---
 
-Bella dook in het water en was teleurgesteld. Ze hadden inmiddels planten, al zagen die er vooralsnog uit als een misvormde pudding. De godenkinderen noemden het  _Vastelingen_. Want ze hadden ook puddingen die niet vastzaten in de grond: dieren---of _Beweeglingen_.
+Bella dook in het water en was teleurgesteld. Ze hadden inmiddels planten, al zagen die er vooralsnog uit als een misvormde pudding. De godenkinderen noemden het _Vastelingen_. Want ze hadden ook puddingen die niet vastzaten in de grond: dieren---of _Beweeglingen_.
 
 En nou juist die Beweeglingen baarden haar zorgen. Ze konden bewegen, maar ze deden het niet. Ze konden kinderen krijgen, maar ze deden het niet.
 
@@ -73,7 +73,7 @@ Eeris had de gewoonte om Darus uit de kamer te duwen voordat hij kon ruziën met
 
 Een klap galmde door de zaal.
 
-Alsof zware stenen op hun plafond en muren vielen. Alsof iemand probeerde in te breken.. _Onze luie Beweeglingen kunnen niet eens op het land, laat staan aankloppen,_ dacht Bella. _Het is vast een grapje van Darus. Of het weer. Of mijn andere familieleden._
+Alsof zware stenen op hun plafond en muren vielen. Alsof iemand probeerde in te breken. _Onze luie Beweeglingen kunnen niet eens op het land, laat staan aankloppen,_ dacht Bella. _Het is vast een grapje van Darus. Of het weer. Of mijn andere familieleden._
 
 "Darus?" zei ze voorzichtig. "Feria? Cosmo? Wie daar?"
 

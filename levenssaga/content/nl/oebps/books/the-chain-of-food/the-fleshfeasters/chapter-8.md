@@ -3,13 +3,19 @@ title: "Wie niet sterk is"
 weight: 8
 ---
 
-Stap één, nee twee, anderhalf, nul, volgende stap, vluchten, kan geen stap meer zetten---Magim kon niet meer nadenken. Niet met Higgis vlak boven zijn hoofd die zijn tanden van elkaar haalde. Die gekke driehoekige tanden die dagen geleden de eerste aanwijzing hadden moeten zijn voor Magim. Maar hij zag het niet, want hij wist niet wat een Vleesvreter was. Hij kon zich niet eens voorstellen dat een dier een ander zou eten.
+Stap één, nee twee, anderhalf, nul, volgende stap, vluchten, kan geen stap meer zetten---Magim kon niet meer nadenken. Niet met Higgis vlak boven zijn hoofd die zijn tanden van elkaar haalde. Die gekke driehoekige tanden die dagen geleden de eerste aanwijzing hadden moeten zijn voor Magim. Toen hij zich nog steeds niet kon voorstellen dat een dier een ander zou eten.
 
-Hij kon het nu zeker voorstellen, maar dat mocht niet zijn laatste gedachte zijn. _Laatste gedachte. Ik dacht dat we eeuwig leven hadden dankzij de goden, zolang je niks geks deed._ Hij wist niet eens wat zijn laatste gedachte zou moeten zijn. Bidden naar de godenkinderen? Bidden dat ze, op magische wijze, naast hem stonden om Higgis van hem af te halen? Ook al kwamen ze bijna nooit aan deze kant van de Nachtrivier? Hij had niemand anders in zijn leven, en ook niks anders te doen, dus wat moest dan je laatste gedachte zijn?
+Hij kon het nu zeker voorstellen, maar dat mocht niet zijn laatste gedachte zijn. _Laatste gedachte. Ik dacht dat we eeuwig leven hadden dankzij de goden, zolang je niks geks deed._ 
 
-Magim had zijn ogen al gesloten. Als Higgis hem niet opvrat, zou hij wel sterven door zijn ziekte. De hete, stinkende adem blies windvlaag na windvlaag over zijn gezicht. 
+Hij wist niet eens wat zijn laatste gedachte zou moeten zijn. Bidden naar de godenkinderen? Bidden dat ze, op magische wijze, naast hem stonden om Higgis van hem af te halen? Ook al kwamen ze bijna nooit aan deze kant van de Nachtrivier? Hij had niemand anders in zijn leven, en ook niks anders te doen, dus wat moest dan je laatste gedachte zijn?
 
-Maar de beet bleef uit. Zijn zieke voorpoten voelden alleen gesnuffel, een ruwe snuit die ertegenaan duwde en dan weer wegtrok. _Kan het waar zijn?_ dacht Magim hoopvol. _Ik ben te ziek om op te eten?_
+Magim had zijn ogen al gesloten. Als Higgis hem niet opvrat, zou hij wel sterven door zijn ziekte. 
+
+De hete, stinkende adem blies windvlaag na windvlaag over zijn gezicht. 
+
+Maar de beet bleef uit. 
+
+Zijn zieke voorpoten voelden alleen gesnuffel, een ruwe snuit die ertegenaan duwde en dan weer wegtrok. _Kan het waar zijn?_ dacht Magim hoopvol. _Ik ben te ziek om op te eten?_
 
 Higgis gromde en schopte de grond. "Waarom jij aardig tegen mij?"
 
@@ -23,13 +29,13 @@ Magim was zo verbaasd dat hij de zin vijf keer moest herhalen in zijn hoofd, voo
 
 Hij had geen keus. Hij moest vlees eten, anders ging hij dood. Anders had hij maandenlang honger en dat moest verschrikkelijk zijn. Magim kon er niet eens tegen om een _dag_ honger te hebben. Maakte dat het goed? Magim wist het niet. Het maakte zeker niet dat hij zich lekker zou laten opvreten.
 
-In Higgis' ogen durfde hij nog niet te kijken. De omgeving was akelig stil, donker en verlaten. Roepen om hulp zou ook wel geen zin hebben, vooral omdat niemand zou komen. Ze zouden kijken en zeggen "tja, dat is dan hun grote pech". Zo kon je je toch nooit veilig voelen?
+In Higgis' ogen durfde hij nog niet te kijken. De omgeving was akelig stil, donker en verlaten. Roepen om hulp zou ook wel geen zin hebben. Ze zouden kijken en zeggen "tja, dat is dan hun grote pech". Zo kon je je toch nooit veilig voelen?
 
 _Veilig._ Hij had het altijd gehad, gratis en voor niets. Nu zou hij alles geven om het terug te krijgen.
 
 "Samenwerken," zeiden hij en Higgis tegelijk.
 
-Higgis dacht tegen Magim te praten, maar keek meters naast hem. "Mijn ogen te slecht om te jagen op vlees. Daarom speel ik dom. Planteneters laten mij dichtbij, en dan ..."
+Higgis dacht tegen Magim te praten, maar keek ver langs hem. "Mijn ogen te slecht om te jagen op vlees. Daarom speel ik dom. Planteneters laten mij dichtbij, en dan ..."
 
 "Je wilt dat ik _help_ met andere planteneters voor de gek houden? Wat ben je voor---" Magim duwde zijn langwerpige bek de moerasgrond in om te voorkomen dat hij nog meer domme dingen zou zeggen.
 
@@ -45,7 +51,11 @@ Als iemand het een paar dagen geleden had gevraagd, zou Magim _alles_ hebben ged
 
 Higgis knikte. Magim bereidde zich voor op de domste beslissing van de eeuw. Eeris zou nog lang verhalen vertellen over de domme Baarddraak die zichzelf vrijwillig in Vleestanden gooide. Als waarschuwing voor de rest. En waarschuwingen hadden ze nodig, want veel te veel dieren zouden Higgis nog steeds nergens van verdenken.
 
-Een vlijmscherpe tand sneed door zijn huid. Het prikte, maar Higgis drukte niet door, hoe graag hij dat ook leek te willen. Met een draai van het hoofd scheurde hij de huid los. Magim slaakte een gilletje van pijn.
+Een vlijmscherpe tand sneed door zijn huid. Het prikte. Higgis gromde tevreden en duwde door, sneed dieper, likte zijn tanden.
+
+Maar hij stopte zichzelf.
+
+Met een draai van het hoofd scheurde hij de huid los. Magim slaakte een gilletje van pijn.
 
 Toen hij omlaag keek, was zijn poot er nog. Geschaafd, onder wondjes en bloed, maar levend en zonder ziekte. Hoewel hij zich nog steeds ziek voelde, zijn mond droog en zijn conditie slecht.
 
@@ -83,7 +93,7 @@ De meeste dieren verstonden nauwelijks wat hij zei, behalve de Baarddraken natuu
 
 Magim herkende de voorste Vleesvreter van die avond dat de Leider hen omtoverde met zijn aanraking. Zij leek wel tien keer omgetoverd, zo groot was ze! En nu kwamen ze akelig dichtbij.
 
-"Stap 3: RENNEN!" De hele groep slingerde als één hagedis over het land. Higgis beukte zich een weg erdoorheen. Hij pakte links en rechts andere dieren op met zijn tanden, om ze vervolgens op zijn rug te slingeren. Maar hij rende de verkeerde kant op---zoals altijd.
+"Stap drie: RENNEN!" De hele groep slingerde als één hagedis over het land. Higgis beukte zich een weg erdoorheen. Hij pakte links en rechts andere dieren op met zijn tanden, om ze vervolgens op zijn rug te slingeren. Maar hij rende de verkeerde kant op---zoals altijd.
 
 "Higgis! Hierheen!" Hij hoorde hem wel. Maar hij draaide niet om, want blijkbaar wist Higgis precies wat hij deed. Hij rende naar de achterkant van de groep. Naar de dieren die te langzaam waren, die op het punt stonden te worden opgevreten, die "grote pech" hadden. En hij nam ze mee op de rug.
 

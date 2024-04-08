@@ -7,9 +7,9 @@ Wat had hij die Hespryhond ooit aangedaan? Ardex dacht het honderd keer, maar vo
 
 Hij zoefde over de volgende heuvel, versneld door vuurmagie. De Hespryhond leek er allemaal niks om te geven. Toen Feria hem maakte, geboren uit magie en liefde, was het een schattige puppy die iedereen de hele dag knuffelde. Het was ook haar eerste verzet tegen Vader, want hij wilde het eigenlijk niet. Hij bleef maar die _Zyme_ noemen: goden horen niet zelf, voor de lol, dingen te maken. Ze moeten helpen waar nodig en verder de wereld hun gang laten gaan. 
 
-Toch had hij de Hespryhond laten leven. Zelfs laten groeien tot een monster dat nu bijna zijn staart eraf hapte met scherpe tanden zo groot als zwaarden.
+Toch had hij de Hespryhond laten leven. Zelfs laten groeien tot een monster dat nu bijna zijn staart eraf hapte met scherpe tanden als zwaarden.
 
-"Hanah," probeerde hij opnieuw, buiten adem. Ze was altijd een paar honderd meter voor hem. Ze spitste haar oren, maar draaide nooit om, reageerde niet. "Zeg tegen dat beest dat hij me lief vindt. Laten we praten."
+"Hanah," probeerde hij opnieuw, buiten adem. Ze hield altijd een voorsprong. Ze spitste haar oren, maar draaide nooit om, reageerde niet. "Zeg tegen dat beest dat hij me lief vindt. Laten we praten."
 
 Zo renden ze met z'n drieën, in één lange stoet, op de Onmogelijke Muur van Darus af. Vlak daarvoor nam Hanah een scherpe afslag, naar het stuk ernaast waar de oceaan begon. Ardex zag het nu ook: daar stond de poort alweer op haar te wachten.
 
@@ -17,15 +17,15 @@ Waarom deed ze dit? Waarom liet ze de poort niet op één plek, eentje die veel 
 
 "Je hebt geen controle over die poort, of wel?" riep hij naar Hanah. Als ze dadelijk bij het water waren, kon hij nergens meer heen. De Hespryhond ademde al in zijn nek. Waren er nou maar bomen, of desnoods hele sterke planten, om in te klimmen. Ardex was zéker dat hij een gevecht zou winnen, maar hij wilde Feria's huisdier liever niks aandoen. Dit moest _nu_ stoppen---en het liefst met zijn hele gezin die samen terugging naar Vader.
 
-Hanah sprong op de poort en keek hem eindelijk aan. "Niet zoveel als ik wil, nee. Net zoals ik geen idee heb waar die Hespryhond vandaan komt."
+Hanah sprong op de poort en keek hem eindelijk aan. "Ik heb niet zoveel controle als ik wil, nee. Net zoals ik geen idee heb waar die Hespryhond vandaan komt."
 
 Ardex keek teleurgesteld, zijn ogen dichtgeknepen. Hij zette zich al schrap voor een gevecht. "Je kunt het dus niet vragen om te stoppen?"
 
 "Oh, dat wel. Ik dacht dat jullie met elkaar speelden, zoals vroeger." Haar zandmannetjes verschenen en maakten precies een pad naar haar toe. De Hespryhond volgde het onbewust, en even later raakte Hanah voorzichtig het hondenhoofd aan. Het wezen kalmeerde, keek een stuk liever, en rolde speels tegen haar aan, ook al was het vele koppen groter dan die kleine rode panda.
 
-Ardex slaakte een zucht van verlichting en kwam op adem. "Jij dacht ... dat rennen voor mijn leven ... een spelletje was?"
+Ardex kwam op adem. "Jij dacht ... dat rennen voor mijn leven ... een spelletje was?"
 
-Hij wilde Hanah aankijken, maar zijn aandacht ging steeds terug naar de poort. Zó dichtbij. Als hij een flinke sprong waagde, kon zijn zusje hem niet op tijd tegenhouden. Wat zou het volgende voorwerp zijn? Het leek op volgorde te gaan, dus dan was nu Gulvi aan de beurt. Het duurde lang voordat hij iets herinnerde dat van zijn broertje was. Hij was nog jong toen ze werden verbannen. Hij had al weinig, en wilde nog minder, behalve de hele dag spelen met Hanah.
+Zijn aandacht ging steeds terug naar de poort. Zó dichtbij. Als hij een flinke sprong waagde, kon zijn zusje hem niet op tijd tegenhouden. Wat zou het volgende voorwerp zijn? Het leek op volgorde te gaan, dus dan was nu Gulvi aan de beurt. Het duurde lang voordat hij iets herinnerde dat van zijn broertje was. Hij was nog jong toen ze werden verbannen. Hij had al weinig, en wilde nog minder, behalve de hele dag spelen met Hanah.
 
 Hanah praatte scherp en luid. "Wanneer gaan jullie begrijpen dat ik niks kwaads in de zin heb? Ik geef om jullie, ik help jullie, maar luister dan ook naar mij: laat me met rust en zoek me niet op."
 
@@ -97,7 +97,7 @@ De Beweeglingen waren nog steeds klein en zwak ... maar jaren geleden waren ze n
 
 Iets dat zelfs goden konden vergeten.
 
-"Ze zijn al enorm gegroeid," zei Gulvi. "Maar het duurt lang. Het gebeurt niet in een paar seconden, en dat heeft niks te maken met hoeveel ruimte ze hebben."
+"Ze zijn al enorm gegroeid," zei Gulvi. "Maar het duurt lang. Het gebeurt niet in een paar hartslagen, en dat heeft niks te maken met hoeveel ruimte ze hebben."
 
 Bella zwom erlangs, haar hoofd vol grappige of verdrietige momenten van de afgelopen eeuwen. De eindeloze moppen van Darus en struikelpartijen van Eeris. Geen moment van de herinneringen was gevuld met een boze blik van haar of Ardex, want dat had nooit iets opgeleverd. De gefaalde probeersels en spelletjes, _die_ hadden hen verder gebracht. Ze had het allemaal voor geen goud willen missen. 
 
