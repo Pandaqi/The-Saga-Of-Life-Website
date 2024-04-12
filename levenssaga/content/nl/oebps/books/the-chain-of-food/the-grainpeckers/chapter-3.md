@@ -13,7 +13,9 @@ De volgende dag sprong ze meteen op haar poten en rende naar haar tuin. Nee, die
 
 Ze botste haar snuit tegen die van haar vriendin. Haar dag was nu al goed. Ze voelde zich niet compleet zonder haar vriendin. "Ik wist wel dat je terug zou komen."
 
-"Dat, dat, dat zei ik niet. Het blijft een gek idee. Wij gaan weer zoeken de hele dag." Epoh struinde alweer weg. Die Gossin met angst voor bloed liep door het kamp en praatte luid. Hij had blijkbaar geen angst voor wezens irriteren. 
+"Dat, dat, dat zei ik niet. Het blijft een gek idee. Wij gaan weer zoeken de hele dag." 
+
+Epoh struinde alweer weg. Die Gossin met angst voor bloed liep door het kamp en praatte luid. Hij had blijkbaar geen angst voor wezens irriteren. 
 
 "En die rare, gekke Equid daar denkt dat ze in een week een tuintje krijgt! Met planten die vlees zouden maken!" Het halve leger lachte haar uit. Gossin rende op Epoh af, maar rende door, naar waar het zaadje was geplant.
 
@@ -77,7 +79,7 @@ En dan had je nog Didrik die---
 
 Twee dieren liepen rustig het kamp in. Nou ja, de ene liep behendig en soepel op vier poten, de andere hupste. Didrik zwaaide met zijn klauw. Alleen de Gosti begrepen het en zwaaiden terug. Het was een soort groet, maar waarom bots je dan niet gewoon snuiten tegen elkaar?
 
-Het maakte niet uit, want hij had het konijn teruggebracht. Het verdwenen konijn was weer onverdwenen. Nu wist ze niet meer wat ze van Didrik moest denken, maar interessant was hij zeker.
+Hij had het konijn teruggebracht. Het verdwenen konijn was weer onverdwenen. Nu wist ze niet meer wat ze van Didrik moest denken, maar interessant was hij zeker.
 
 "Waar heb je haar gevonden?"
 

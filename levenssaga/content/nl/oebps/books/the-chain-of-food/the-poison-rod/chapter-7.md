@@ -11,7 +11,7 @@ _Krokodil?_ "Wat moet ik doen?"
 
 "Inbreken bij de goden en het Boek terug stelen. Toen het van ons werd afgepakt, oh zo lang geleden, konden we het niet lezen. Nu waarschijnlijk wel."
 
-Ze vond dit niet leuk klinken. Haar hele leven had ze---_Krokodil!_---gehoord dat alles niet mocht en dat ze binnen vijf meter afstand van haar moeder moest blijven. En nu werd ze weggestuurd om _in te breken bij de Troon van de Toekomst_?
+Ze vond dit niet leuk klinken. Haar hele leven had ze---_Krokodil!_---gehoord dat alles niet mocht en dat ze vastgeplakt aan haar moeder moest blijven. En nu werd ze weggestuurd om _in te breken bij de Troon van de Toekomst_?
 
 "En dan?"
 
@@ -105,7 +105,7 @@ Ze keek op. Bekende ogen keken haar aan, in een lichaam dat vaag leek op die van
 
 Ze voelde een boze wasbeer in haar rug. In een reflex trok ze het boek van tafel en verstopte het diep in de plooien van haar doek. Haar familielid wilde niet loslaten en zat nu ook half in haar tas.
 
-Twee Gosti vlogen door het raam, hand in hand, als een liaan. _Zo is die ander door het raam gekomen,_ dacht ze. _Met hulp van aapjes die wél klimmen._ 
+Twee Gosti klommen door het raam, hand in hand. Dat verklaarde hoe die andere inbreker was binnengekomen.
 
 "Is alles oké? Hebben we de inbreker te---"
 

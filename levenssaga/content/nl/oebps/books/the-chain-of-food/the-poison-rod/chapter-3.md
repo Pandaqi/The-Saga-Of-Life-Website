@@ -5,13 +5,17 @@ weight: 3
 
 Eonada wist precies wat haar familie ging zeggen, en ze haatte het, dus ze liep weg. Als Donat haar vader niet had gered van zo'n dom gevecht met een krokodil, was zij er niet geweest. En nu was Donat er niet meer. Ze had haar oom graag ontmoet, volgens haar vader was hij de liefste broer ooit. En duidelijk veel slimmer dan de rest hier.
 
-"Niet weglopen! Eonada! Dit is belangrijk!"
+"Niet weglopen!" riep haar moeder. "Eonada! Dit is belangrijk!"
 
-"Bla bla, de Connidoe die een krokodil verslaat brengt het gif terug, doe dit wel, doe dit niet. _Alles_ mag niet!" Ook al liep ze al jaren weg, ze kon niet voorkomen dat ze ook overal gevaar zag. Een schaduw werd al snel de neusgaten van een krokodil. Als de zon onderging, begon ze te rillen, nog voordat het daadwerkelijk koud werd.
+"Bla bla, de Connidoe die een krokodil verslaat brengt het gif terug, doe dit wel, doe dit niet. _Alles_ mag niet!" 
+
+Ook al liep ze al jaren weg, ze kon niet voorkomen dat ze ook overal gevaar zag. Een schaduw werd al snel de neusgaten van een krokodil. Als de zon onderging, begon ze te rillen, nog voordat het daadwerkelijk koud werd.
 
 Ook al was ze een van de grotere roofdieren op deze planeet---en nog nóóit in gevaar geweest. Haar familie kwam achter haar aan, maar liet haar met rust toen andere wezens plotseling om haar heen liepen.
 
-De godenkinderen hadden besloten om deze plek te bezoeken. Iedereen werd nóg zenuwachtiger dan normaal, alsof elke god er plotseling uitzag als een krokodil. Nee, tien krokodillen! Eonada niet. Ze mocht de goden wel. De rest van haar familie haatte hen, dus dan vond zij automatisch het omgekeerde.
+De godenkinderen hadden besloten om deze plek te bezoeken. 
+
+Haar familie groeide zenuwachtig alsof ze vijf krokodillen zagen. Nee, tien krokodillen! Eonada niet. Ze mocht de goden wel, precies omdat haar familie hen haatte.
 
 Een mooie wasbeer stond op twee poten en stak haar voorpoten uit. "Jullie hebben iets van ons."
 
@@ -51,9 +55,7 @@ Eonada slenterde naar de Boekgrot. Tot het moment dat ze precies de juiste stene
 
 "Darus, wij zijn dit waardevolle voorwerp een miljoen jaar kwijt geweest," zei Bella serieus. "Ik ben blij als we het terug hebben, maar ik vind het akelig dat dieren het voor ons verstopten."
 
-Bella wist al dat het boek er lag voordat ze de grot in stapte. Zeker nu het avond werd, was het felle licht niet te missen. Ze kreeg een brede glimlach en trappelde ongeduldig. 
-
-De goden maakten een cirkel eromheen. Darus wilde het steeds aanraken, maar Bella sloeg zijn poot er vanaf.
+Nu het avond werd, was het felle licht van het boek niet te missen. Bella kreeg een brede glimlach en trappelde ongeduldig. De goden maakten een cirkel eromheen. Darus wilde het steeds aanraken, maar Bella sloeg zijn poot er vanaf.
 
 "Welk onrecht?" vroeg Eonada voorzichtig. "Je zei dat ons onrecht was aangedaan? Vroeger?"
 
@@ -87,7 +89,9 @@ Bella negeerde het. "Als je antwoord had gewild op vragen, had je het gewoon aan
 
 "Helemaal naar jullie Troon lopen? Er zijn _minstens_ vijftig krokodillen op dat pad!"
 
-"Dat jij daarvoor bang bent, betekent niet dat iedereen daarvoor bang is." Bella keerde om en trok Darus mee, die nog steeds de stenen van de grot bestudeerde alsof het pasgeboren baby's waren. Eonada huppelde erachteraan, maar Bella stak meteen haar hand op en liep razendsnel door. Té snel voor Eonada om te volgen.
+"Dat jij daarvoor bang bent, betekent niet dat iedereen daarvoor bang is." 
+
+Bella keerde om en trok Darus mee, die nog steeds de stenen van de grot bestudeerde alsof het pasgeboren baby's waren. Eonada huppelde erachteraan, maar Bella stak meteen haar hand op en liep razendsnel door. Té snel voor Eonada om te volgen.
 
 _Je moet begrijpen, beste lezer, dat deze wezens koudbloedig waren. Ze hielden hun eigen lichaam niet warm, zoals mensen. De meeste dingen bij levende wezens gaan sneller of beter bij een hogere temperatuur. Nu het avond was, koud en donker, met weinig eten in de maag, was het alsof hun lichamen bevroren en tot stilstand kwamen. Alsof voor Eonada de wereld op halve snelheid afspeelde._
 

@@ -53,7 +53,7 @@ Quili wist één ding zeker: ze zocht haar lieve vriendin en rende _ver_ weg van
 
 Dus dat deden ze.
 
-Eén van de commandanten was achtergebleven in het kamp, net zoals een groepje schapen. Een leeuw genaamd Tibbowe stond onder een tent van ruwe doeken. Gosti-speren staken schuin uit de modder en hielden het omhoog. Het kamp kon niet meer dan honderd dieren houden, en de meeste hadden niet zo'n tent, want het was een nieuwe uitvinding.
+Eén van de commandanten was achtergebleven in het kamp, samen met een groepje schapen. Deze leeuw, genaamd Tibbowe, stond onder een tent van ruwe doeken, omhooggehouden door Gosti-speren die schuin uit de modder staken. Het was een nieuwe uitvinding. Het kamp kon niet meer dan honderd dieren houden met de paar tenten die het had.
 
 De goden hadden één regel: je jaagt niet op andere dieren binnen jouw kamp. 
 
@@ -101,7 +101,7 @@ Tibbowe duwde de Equids met zijn verraderlijk zachte klauwen het kamp uit.
 
 "Wacht," zei de koningin. 
 
-Tibbowe bleef nog een paar meter duwen, totdat ze op de grenslijn stonden, en draaide toen pas om. 
+Tibbowe bleef nog iets langer duwen, totdat ze op de grenslijn stonden. Toen pas draaide hij om. 
 
 "Ze zijn waardeloze vechters," zei ze. "Maar misschien kunnen ze hun waarde bewijzen door het voedselprobleem op te lossen."
 

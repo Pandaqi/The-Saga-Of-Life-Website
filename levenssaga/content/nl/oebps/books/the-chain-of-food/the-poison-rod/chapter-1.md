@@ -7,7 +7,7 @@ Cona had nooit verwacht dat ze kinderen zou krijgen, en wel om twee redenen. Ten
 
 Ten tweede had ze zulke slechte adem dat zeewier afstierf als ze twee tellen in de buurt bleef. Ze wist niet hoe het kon. Geen andere Connidoe had ergens last van, maar zij had al sinds geboorte een rare smaak tussen haar scherpe lange tanden. 
 
-Tja, geen mannetje van de Connidoe wilde daarbij in de buurt zijn. Helemaal _niemand_ wilde bij haar in de buurt zijn. De dieren die al konden praten noemden haar _stinnik_ en _giffik_. Na tien keer had ze ook wel door dat het niet positief was. 
+Tja, geen mannetje van de Connidoe wilde daarbij in de buurt zijn. Helemaal _niemand_ wilde bij haar in de buurt zijn. De dieren die al konden praten noemden haar _stinnik_ en _giffik_. Ze begreep de woorden niet, maar had snel geleerd dat het geen positieve termen waren.
 
 Althans, dat dacht ze.
 
@@ -21,9 +21,9 @@ Ze botste ertegenaan. Het voorwerp klapte een stukje omhoog en ze kroop eronder.
 
 _Het was natuurlijk geen stuk hout, beste lezer. Het was een boek. Maar deze dieren kenden nauwelijks taal, laat staan wat een boek is. Cona's ogen waren ook niet goed genoeg om het te lezen. Zij zag de wereld in tinten grijs, licht en donker, en meer niet. Maar gelukkig was dit niet zomaar een boek ..._
 
-Cona's schuilplek bewoog, alsof iemand het probeerde op te tillen. Ze drukte haar lange lijfje dichter tegen het hout, in de hoop dat ze bleef plakken. 
+Cona's schuilplek bewoog. Haar achtervolger probeerde het op te tillen. Ze drukte haar lange lijfje dichter tegen het hout, in de hoop dat ze bleef plakken. 
 
-Plotseling zweefde het boek omhoog en sloeg diens vleugels uit. Het bladerde en bladerde, totdat het stopte op een van de latere pagina's en weer neerviel, alsof het dak op Cona's huis werd geplaatst.
+Het boek viel op en spreidde diens vleugels, waarna het omhoog dwarrelde. Het bladerde diens eigen pagina's, keer op keer, totdat het stopte op een van de latere bladzijdes. Toen viel het weer omlaag, alsof het een dak bovenop Cona's hoofd plaatste.
 
 Ze keek op. Symbolen en tekeningen waren in de pagina gekrast. Een tekening van een Connidoe. Eentje die precies op haar leek, maar dat kon ze zelf niet weten, want deze dieren waren te primitief om zichzelf te herkennen. Bovendien waren er weinig spiegels in de prehistorische oceaan, tenzij Bella er eentje kwijtraakte. Cona herkende het als _een_ Connidoe.
 
@@ -39,7 +39,7 @@ Iets trok het boek ruw bij haar weg. Ze stond oog in oog met de voorloper van Kr
 
 Het groene geschubde monster dacht wel even erdoorheen te bijten, maar het boek brak niet. Er kwam niet eens een _puntje_ van de bladeren, ook al zette het beest al diens scherpe tanden erin.
 
-Cona twijfelde. Het wezen zat vast. Met elke seconde dat hij het boek niet uit zijn bek kreeg, groeiden zijn ogen en sloeg de paniek toe. Zijn staart zakte steeds verder richting de zeebodem, gehuld in een wervelwind van luchtbellen. Ze had een kans. Kon het waar zijn? Kon er iets magisch aan de hand zijn met Connidoe tanden? 
+Cona twijfelde. Het wezen zat vast. Met elke hartslag dat hij het boek niet uit zijn bek kreeg, groeiden zijn ogen en sloeg de paniek toe. Zijn staart zakte steeds verder richting de zeebodem, gehuld in een wervelwind van luchtbellen. Ze had een kans. Kon het waar zijn? Kon er iets magisch aan de hand zijn met Connidoe tanden? 
 
 Kon ze haarzelf voor altijd beschermen?
 
@@ -47,7 +47,7 @@ Ze zwom naar zijn achterpoot, sloot haar ogen, haalde haar tanden van elkaar---e
 
 De krokodil reageerde vooral geïrriteerd. Hij sloeg met zijn staart om Cona weg te halen, maar bleef bezig met het boek. 
 
-Toen Cona een paar meter verder was gezwommen, hield het zwaaien met de staart op. Toen ze van een afstandje toekeek, hield het zwaaien met de poten op. Eenmaal veilig tussen een ander stuk zeewier, hield de krokodil helemaal op.
+Toen Cona een stukje verder was gezwommen, hield het zwaaien met de staart op. Toen ze van een afstandje toekeek, hield het zwaaien met de poten op. Eenmaal veilig tussen een ander stuk zeewier, hield de krokodil helemaal op.
 
 Het enge wezen zakte als een standbeeld, met open ogen, tot de bodem van de oceaan. Het boek viel uit zijn tanden, onbeschadigd en nog even fel, op de steen waar het vandaan kwam. 
 
@@ -59,9 +59,9 @@ Voor het eerst in haar leven, kwam een andere Connidoe naar haar _toe_.
 
 "Eh, ja, ja, dat blijkbaar gedaan."
 
-Het mannetje merkte haar slechte adem niet. Nee, besefte Cona, het was _weg_. Voor heel even dan, daarna kwam het weer terug. Maar deze man was al overtuigd: hij wilde met Cona samen zijn en kinderen krijgen.
+Het mannetje merkte haar slechte adem niet. Nee, besefte Cona, het was _weg_. Voor heel even dan, daarna kwam het weer terug. Maar deze man was al overtuigd: hij wilde met Cona kinderen krijgen.
 
-_In deze tijd vér voor de dinosaurussen, beste lezer, was er weinig meer nodig. Hij zag een sterke vrouw die veel grotere dieren kon verslaan. Dat moest sterke kinderen betekenen die zich óók goed konden beschermen._
+_In deze tijd vér voor de dinosaurussen, beste lezer, was er weinig meer nodig. Liefde bestond nog niet eens. Hij zag een sterke vrouw die veel grotere dieren kon verslaan. Dat moest sterke kinderen betekenen die zich óók goed konden beschermen._
 
 Dus het duurde niet lang voordat Cona's kinderen om haar heen zwommen. Zij hadden ook de Giftige Beet.
 
@@ -75,7 +75,7 @@ Ze zwommen vaak met het hele gezin in die schuilplek, en dan wees Cona opnieuw e
 
 Haar kinderen riepen haar na.
 
-"Krokodil? Eerst tanden uitzetten. Dan bijten, wachten, eten!"
+"Krokodil? Eerst tanden hem uitzetten. Dan bijten, wachten, eten!"
 
 Haar kinderen riepen haar na, inclusief een enge stem bij het woord _krokodil_. 
 

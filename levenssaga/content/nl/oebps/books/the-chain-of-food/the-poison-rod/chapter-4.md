@@ -9,7 +9,7 @@ De grote asteroïde die insloeg---en de dinosaurussen uitvaagde---hielp ook niet
 
 Ze vochten nu niet alleen letterlijk met krokodillen, ze vochten ook om de kleine beetjes voedsel die over waren op de vernielde aarde.
 
-"Dichtbij blijven. Nooit naar donkere plekken. Nooit dieren bijten die groter zijn dan jij. Nooit het territorium verlaten zonder minstens een groep van vijf. En ... "
+"Dichtbij blijven," zei moeder. "Nooit naar donkere plekken. Nooit dieren bijten die groter zijn dan jij. Nooit het territorium verlaten zonder minstens een groep van vijf. En ... "
 
 Alle kleine kinderen in de familie zeiden het in koor: "Het wezen dat een krokodil verslaat, maakt de Giftige Beet paraat!"
 
@@ -31,7 +31,9 @@ Een gedachte kwam op. Een idee dat hij veel eerder had moeten zien. Hij stormde 
 
 "Kijk dan! Zij zijn nog groot en sterk! Zij durven felle kleuren te dragen, omdat ze niet bang zijn dat een beest hen ziet! Ik denk ... dat zij de Giftige Beet al terug hebben gevonden."
 
-"Welnee. Daarvoor zijn ze te laf en te dom." Het verbaasde hem als kind dat zijn ouders zo gemeen praatten over familie. Later kwam hij te weten wat ze vroeger hadden gedaan, over het Boek der Betekenis dat ze kwijt waren en het weigeren te vechten met krokodillen. Nu knikte hij mee en gromde.
+"Welnee. Daarvoor zijn ze te laf en te dom."
+
+Het verbaasde hem als kind dat zijn ouders zo gemeen praatten over familie. Later kwam hij te weten wat ze vroeger hadden gedaan, over het Boek der Betekenis dat ze kwijt waren en het weigeren te vechten met krokodillen. Nu knikte hij mee en gromde.
 
 "Ja, ja, maar misschien hebben de goden ..."
 
@@ -41,11 +43,11 @@ Een gedachte kwam op. Een idee dat hij veel eerder had moeten zien. Hij stormde 
 
 Zijn ouders keken elkaar aan. Het was een beslissing die werd genomen met véél moeite, maar zonder een woord te zeggen. "Zoon, je hebt onze toestemming om het territorium te verlaten. Volg die verraders en probeer te ontdekken of ze alweer gif hebben. Wees voor de avond nestwaarts."
 
-Hiervoor had hij al die jaren getraind. Hij voelde zich sterk, groot, oppermachtig. Hij _wist_ dat elk gevaar op zijn pad voor hem geen gevaar was. Nou ja, dat vertelde hij zichzelf, want hij verwachtte elke seconde gevaar op zijn pad.
+Hiervoor had hij al die jaren getraind. Hij voelde zich sterk, groot, oppermachtig. Hij _wist_ dat elk gevaar op zijn pad voor hem geen gevaar was. Nou ja, dat vertelde hij zichzelf, want hij verwachtte eindeloos gevaar op zijn pad.
 
 Hij verliet de veilige plek en volgde zijn andere familie langs de rivier. Ze lachten en speelden---hij _haatte_ het met zoveel vuur dat hij niet zag dat hij in een valstrik liep.
 
-Zijn voorpoot kwam vast te zitten in een dun draad. Twee meter lang liep hij scheef, met een lange stok die tegen zijn rug klapperde, voordat hij niet verder kon. Zijn hart sloeg weer op hol en hij kreeg geen adem meer. Gefrustreerd beet hij naar de draad en kreeg hem snel kapot. Vier lichte voetjes ploften om hem heen.
+Zijn voorpoot kwam vast te zitten in een dun draad. Voor even liep hij scheef, met een lange stok die tegen zijn rug klapperde, totdat hij niet verder kon. Zijn hart sloeg weer op hol en hij kreeg geen adem meer. Gefrustreerd beet hij naar de draad en kreeg hem snel kapot. Vier lichte voetjes ploften om hem heen.
 
 Hij wilde wegrennen, maar hoorde gefluister. "Heb je ooit _zo'n_ vis gezien?"
 
@@ -53,7 +55,9 @@ Hij wilde wegrennen, maar hoorde gefluister. "Heb je ooit _zo'n_ vis gezien?"
 
 Fonatas fronste en draaide om. "Hoe kan je denken dat ik een _vogel_ ben?"
 
-"Hoe kan je onze hengel kapotmaken?!" Twee Gosti probeerden de twee gebroken eindes van hun hengel weer aan elkaar te plakken met weinig meer dan speeksel en hoop. Het waren kleine aapachtigen in de kleur van takken, die meestal met vier poten tegen een tak drukten, en daardoor de bijnaam Spookdiertjes kregen. Eentje was lang en kreeg grijze haren, de andere korter. "We hebben hier _weken_ aan gewerkt!"
+"Hoe kan je onze hengel kapotmaken?!" 
+
+Twee Gosti probeerden de twee gebroken eindes van hun hengel weer aan elkaar te plakken met weinig meer dan speeksel en hoop. Het waren kleine aapachtigen in de kleur van takken, die meestal met vier poten tegen een tak drukten, en daardoor de bijnaam Spookdiertjes kregen. Eentje was lang en kreeg grijze haren, de andere korter. "We hebben hier _weken_ aan gewerkt!"
 
 "Gelukkig hebben we een tweede."
 
@@ -87,7 +91,7 @@ _Vissen was best normaal, beste lezer, want het was makkelijk. Een dier op het l
 
 Een herinnering drong zich op. Zijn ouders hadden altijd verteld dat ze bijna waren uitgestorven omdat grote groepen hun voorouders ineens uit de zee hadden gevist. Hij keek nog eens naar de schattige Gosti, die te dom leken om te overleven, maar met twee vingers in hun apenneus tientallen vissen vingen. _Het is een toneelstukje, dat is het!_
 
-Gillend rende hij weg, voordat hij honderd meter later zijn training herinnerde. Hij werd weer stil, scande zijn omgeving, en liep door met een lichaam vol stress en strakke spieren. Toen hij zeker was dat niemand keek, probeerde hij in een boom te klimmen. Natuurlijk lukte het niet. Maar het was goede training voor zijn spieren, dus hij besloot het vanaf nu elke dag te proberen.
+Gillend rende hij weg, totdat hij zijn training herinnerde. Hij werd weer stil, scande zijn omgeving, en liep door met een lichaam vol stress en strakke spieren. Toen hij zeker was dat niemand keek, probeerde hij in een boom te klimmen. Natuurlijk lukte het niet. Maar het was goede training voor zijn spieren, dus hij besloot het vanaf nu elke dag te proberen.
 
 Eerst krokodillen, nu die Gosti, _overal_ was gevaar. Dat bleek maar weer, toen hij rondom een grote steen liep en dieren hem stonden op te wachten. 
 

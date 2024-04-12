@@ -11,7 +11,7 @@ bundle: 'Planteaters & Fleshfeasters'
 character: ["Feria", "Ardex", "Darus", "Eeris", "Magim", "Higgi", "Hespryhound"]
 prequel: ["The Swimming Gate"]
 refers: ["First Carnivores", "CARN Conspiracy", "Firering", "Heavenmatter", "Soulsplitter", "Immortality", "Nightriver", "Aparant River", "Impossible Wall of Darus", "Mayfill", "Saursea", "Mouth of Din", "Origina"]
-happens: ["Allowance of Carnivores", "Creation of Maybemountains", "Vierde Giant Extinction", "Split of Volarde"]
+happens: ["Allowance of Carnivores", "Creation of Maybemountains", "Fourth Giant Extinction", "Split of Volarde"]
 teaches: ["Evolution", "Evolution of Carnivores", "Chain of Food"]
 godlink: ["Feria"]
 genre: ["Active", "Scary", "Society", "Educational", "Survival", "Gods", "Travel", "Biology"]

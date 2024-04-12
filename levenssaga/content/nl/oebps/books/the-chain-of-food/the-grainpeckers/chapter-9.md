@@ -29,7 +29,9 @@ De Gosti keken elkaar aan. "Maar dat is geweldig nieuws!"
 
 Quili trok de Gosti aan zijn staart van de grond en liet hem bungelen. "Wie van jullie is de snelste? Ga naar Tibbowe en probeer hem nog te waarschuwen."
 
-"Dat zal ik wel weer zijn," zei de grootste leeuw. "Tjonge jonge, gecommandeerd worden door een Equid, het moet niet gekker worden." Maar hij luisterde. Uit het niets vloog hij naar topsnelheid, wat levensgevaarlijk was, want hij was te moe om rechtdoor te rennen. Na twee bijnabotsingen met bomen besloot hij maar een nieuw renstijl: afzetten tegen bomen en zigzaggen vlak boven de grond.
+"Dat zal ik wel weer zijn," zei de grootste leeuw. "Tjonge jonge, gecommandeerd worden door een Equid, het moet niet gekker worden." 
+
+Maar hij luisterde. Uit het niets vloog hij naar topsnelheid, wat levensgevaarlijk was, want hij was te moe om rechtdoor te rennen. Na twee bijnabotsingen met bomen besloot hij maar een nieuw renstijl: afzetten tegen bomen en zigzaggen vlak boven de grond.
 
 "Weet een van jullie de weg naar Darus' Hemelvoorwerp? De missie die we eigenlijk zouden doen?"
 
@@ -45,15 +47,21 @@ Dit was rampzalig. "Is het nog ver?"
 
 "Ik dacht dat we er al waren?" zei een Gosti verbaasd. "Waarom zijn we anders aan het graven?"
 
-"Omdat ik mijn klauwen nauwelijks meer kan _optillen_." Hun magen rommelden zo onophoudelijk, dat Quili pas laat merkte dat de lucht écht rommelde. Onweer was op komst. De eerste regendruppels vielen al. Dat werd dadelijk een hevige regenstorm die een hele dag kon duren. De naam Regenwoud, die sommige dieren gebruikten, klonk haar steeds beter in de oren.
+"Omdat ik mijn klauwen nauwelijks meer kan _optillen_." 
+
+Hun magen rommelden zo onophoudelijk, dat Quili pas laat merkte dat de lucht écht rommelde. Onweer was op komst. De eerste regendruppels vielen al. Dat werd dadelijk een hevige regenstorm die een hele dag kon duren. De naam Regenwoud, die sommige dieren gebruikten, klonk haar steeds beter in de oren.
 
 "We zijn er bijna," brulde de leeuw over het lawaai van inslaande druppels. De brul werd beantwoord door iemand verderop. Ze moesten in de buurt zijn gekomen van het andere leger, maar in het regengordijn zagen ze niet verder dan één leeuwenlengte.
 
 De regen spoelde de grond weg die ze net hadden opgegraven.
 
-Het onthulde een paarsblauwe plaat. Alsof een grot ondergronds was gebouwd, en daarna bedekt met aarde. De ontdekking gaf haar weer energie. Ze rende over het stenen pad dat ontstond, op zoek naar een ingang. De andere dieren vonden ook nieuwe energie en spreidden zich uit om meer van de plaat te onthullen. Er moest een _gigantische_ grot zijn, vlak onder de aarde. Hoe ver ze ook renden, hoeveel modder ze ook wegspoelden, het bleef maar doorgaan. Ze had het idee dat ze in een grote boog liepen, terug naar het kamp.
+Het onthulde een paarsblauwe plaat. 
 
-Een bliksemflits sloeg in. De plaat nam het op. Nee, de plaat _zoog_ het op, alsof het de straal uit de lucht plukte. Het steen kreeg een geelrode ring, die groeide en groeide, totdat het zelfs zichtbaar was onder aarde die niet was weggespoeld. Ze hoorden opnieuw gebrul. 
+Alsof een grot ondergronds was gebouwd, en daarna bedekt met aarde. De ontdekking gaf haar weer energie. Ze rende over het stenen pad dat ontstond, op zoek naar een ingang. De andere dieren vonden ook nieuwe energie en spreidden zich uit om meer van de plaat te onthullen. Er moest een _gigantische_ grot zijn, vlak onder de aarde. Hoe ver ze ook renden, hoeveel modder ze ook wegspoelden, het bleef maar doorgaan. Ze had het idee dat ze in een grote boog liepen, terug naar het kamp.
+
+Een bliksemflits sloeg in. De plaat nam het op. Nee, de plaat _zoog_ het op, alsof het de straal uit de lucht plukte. Het steen kreeg een geelrode ring, die groeide en groeide, totdat het zelfs zichtbaar was onder aarde die niet was weggespoeld. 
+
+Niet veel later klonk opnieuw gebrul. 
 
 _Die ring heeft het andere leger bereikt,_ dacht ze. _Dan zijn ze dichtbij._
 
@@ -77,13 +85,15 @@ Ze sprong bovenop de rug van een leeuw. De groep die net nog halfdronken over de
 
 De grot was weinig meer dan drie grote stenen die dicht op elkaar stonden. Ze maakten samen een kleine doodlopende kamer. Van buitenaf leek het op een schuilplek voor de God van Steen, maar van binnen bleek dit meteen onjuist. De Prijskatten omsingelden Tibbowe in het midden, maar daarvoor moest één kat met zijn rug naar de opening staan. Die hoorde de formatie komen, keek achterom, en kon niet op tijd reageren.
 
-Quili's legertje stampte over de voorste twee Prijskatten heen. De andere twee soldaten waren al gestorven. Tibbowe sloeg wild in het rond en trapte achteruit. De omsingeling hield stand. De Prijskatten waren formidabele wezens, zelfverzekerd en vechtvaardig.
+Quili's legertje stampte over de voorste twee Prijskatten heen. Tibbowe's eigen bewakers waren al gestorven. De koning sloeg wild in het rond en trapte achteruit. De omsingeling hield stand. De Prijskatten waren formidabele wezens, zelfverzekerd en vechtvaardig.
 
 Nu hadden ze Quili óók omsingeld.
 
 "Ik waardeer het gebaar," zei Tibbowe door geklemde kaken, "maar red jezelf."
 
-"Dat doe ik. Door het wezen te redden dat mij veilig houdt." Ze klonk zeker. Ze was alleen maar zeker dat ze dadelijk werd opgevreten door een Prijskat. De kring om hen heen kromp en kromp. Tibbowe was het middelpunt van een hoopje soldaten die niet langer konden vluchten.
+"Dat doe ik. Door het wezen te redden dat mij veilig houdt." 
+
+Ze klonk zeker. Ze was alleen maar zeker dat ze dadelijk werd opgevreten door een Prijskat. De kring om hen heen kromp en kromp. Tibbowe was het middelpunt van een hoopje soldaten die niet langer konden vluchten.
 
 _Ik hoop dat de goden ook de hemel besturen waar dode dieren heengaan,_ dacht ze. _En dat ze zien dat ik aan hun kant stond._
 
@@ -157,6 +167,6 @@ Ze vielen aan. Konijnen, schapen, maar vooral Equids schransten van maïs en gra
 
 Toen ze even later voorzichtig het kamp van de vijand opzochten, vonden ze het spookachtig verlaten. Een houten cirkel wachtte daar op Didrik, die meteen verder moest. Hij vroeg Quili nog of zij niet bij de _Kameraden zonder Koning_ wilde. Ze hoefde niet lang na te denken. Ze had haar plek gevonden---haar koning.
 
-Tibbowe was teleurgesteld over de Steen van Zekerstof, maar beloonde Quili voor het redden van zijn leven. Hij beloofde het territorium rond zijn paleis uit te breiden, zodat alle prooidieren in de wijde omgeving veilig zouden zijn. Hij richtte een groep op die vanaf nu tuintjes moest bijhouden en voedselvoorraden regelen.
+Tibbowe was teleurgesteld over de Steen van Zekerstof, zoals Darus zijn eigen Hemelvoorwerp noemde, maar beloonde Quili voor het redden van zijn leven. Hij beloofde het territorium rond zijn paleis uit te breiden, zodat alle prooidieren in de wijde omgeving veilig zouden zijn. Hij richtte een groep op die vanaf nu tuintjes moest bijhouden en voedselvoorraden regelen.
 
 Nooit meer zou hij moeten toekijken hoe dieren vergingen van de honger. Quili en Epoh, als eerste Adviseurs van Agricultuur, zouden hem daarbij helpen.

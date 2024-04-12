@@ -3,7 +3,9 @@ title: "De Gifgordel"
 weight: 5
 ---
 
-Gonadisa wist precies wat haar vader ging zeggen, en ze stopte een stel bladeren in haar oren, want als ze dit nog een keer moest horen stierf ze direct van angst. Ze kon niet slapen zonder een nachtmerrie over krokodillen. Ze kon niet naar de hemel kijken zonder bang te zijn dat een van die nieuwe roofvogels omlaag kwam. Ze schatte in dat ze haar hele leven nooit meer dan vijftig meter van haar familie verwijderd was geweest. Haar _ene_ familie, in ieder geval. Die andere tak was al in geen tijden gezien en als het aan moeder lag---
+Gonadisa wist precies wat haar vader ging zeggen, en ze stopte een stel bladeren in haar oren, want als ze dit nog een keer moest horen stierf ze direct van angst. Ze kon niet slapen zonder een nachtmerrie over krokodillen. Ze kon niet naar de hemel kijken zonder bang te zijn dat een van die nieuwe roofvogels omlaag kwam.
+
+Ze schatte in dat ze haar hele leven nooit meer dan tien boomlengtes van haar familie verwijderd was geweest. Haar _ene_ familie, in ieder geval. Die andere tak was al in geen tijden gezien en als het aan moeder lag---
 
 "Die verraders bestaan niet meer voor ons. Ze weigeren te vechten met krokodillen en jatten steeds meer kinderen bij ons weg. We zijn nog maar met twintig!"
 
@@ -21,7 +23,9 @@ Haar ouders spoorden haar altijd aan om "vriendelijk te zijn" met de Gosti. Ze w
 
 "Mwah, we hadden wat discussie met de goden."
 
-"Discussie ... met ... goden?" Gonadisa was steeds opnieuw verbaasd over wat die dieren konden en mochten. Het leek wel of ze werden voorgetrokken. Alsof de goden hen, als beloning voor iets, betere hersenen hadden gegeven. Terwijl ze ook had gehoord dat de Gosti verantwoordelijk waren voor de ondergang van de dinosaurussen, en dat was niet iets dat je beloonde, toch?
+"Discussie ... met ... goden?" 
+
+Gonadisa was steeds opnieuw verbaasd over wat die dieren konden en mochten. Het leek wel of ze werden voorgetrokken. Alsof de goden hen, als beloning voor iets, betere hersenen hadden gegeven. Terwijl ze ook had gehoord dat de Gosti verantwoordelijk waren voor de ondergang van de dinosaurussen, en dat was niet iets dat je beloonde, toch?
 
 "Ze wilden dat we elke uitvinding eerst aan hen gaven. Ze zijn bang dat we slechte dingen maken, denk ik."
 
@@ -51,7 +55,7 @@ Nog geen week later keerden de Gosti terug, vlak na zonsopgang, met goed nieuws 
 
 "Ze _denken_ de plek te weten waar jouw voorouders voor het laatst gif hadden. De plek waar allerlei dieren hen plotseling uit de zee trokken. Het ligt niet binnen dit territorium."
 
-Gonadisa had haar ouders niks hierover verteld. Ze wist het antwoord al. Een preek, territoriumarrest, nooit meer met de Gosti praten. Dus ze hield het geheim. "... hoe ver weg?"
+Gonadisa had haar ouders niks hierover verteld. Ze wist het antwoord al. Een preek, territoriumarrest, nooit meer met de Gosti praten. "... hoe ver weg?"
 
 "Een eindje langs de rivier. Als we nu vertrekken, kunnen we misschien voor zonsondergang terug zijn." De Gosti keek ernstig. "Vergeef me, maar wat hoop je hiermee te bereiken?"
 

@@ -18,7 +18,7 @@ Queen? Soon? Ashorra was healthy and barely an adult. It would take centuries be
 
 She narrowed her eyes and whispered: "What ... are you suggesting?"
 
-Are opened the bag of money to reveal it didn't contain money at all. He gave her a glass vial containing an odorous liquid. "Oh dear, poison such as this could end someone's life quickly. It comes straight from the Red Rivers, source of the Poison Explosion. Let us hope it does not accidentally end up in someone's dinner."
+Are opened the bag of money to reveal it didn't contain money at all. He gave her a glass vial containing an odorous liquid. "Oh dear, poison such as this could end someone's life quickly. It comes straight from the Poison Belt, source of the Poison Explosion. Let us hope it does not accidentally end up in someone's dinner."
 
 Marili's shaking trunk accepted the vial. Did she really want this? It would solve a lot. But---
 

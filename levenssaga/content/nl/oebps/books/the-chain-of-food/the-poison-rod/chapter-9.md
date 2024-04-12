@@ -9,7 +9,9 @@ Geen krokodillenbeet kwam. De goden zwaaiden met hun armen en hielden het beest 
 
 Maar---KROKODIL! Ze durfde er nauwelijks naar te kijken. Als zij het niet redde, was er niks meer over van haar kant van de familie. En ze had toch net geleerd dat krokodillen hélemaal niks met hun gif te maken hadden?
 
-Een leven van waarschuwingen en voorspellingen, echter, kon je niet zomaar overwinnen door na te denken. Ze was al opgestaan en naar de krokodil toegelopen. Haar hoofd had allang besloten dat _zij_ de krokodil moest verslaan, en dat _zij_ dus de Giftige Beet terug zou brengen, en al die andere mooie woorden die ze haar hele leven elke dag had gehoord. Als ze het niet deed, voelde ze haarzelf de rest van haar leven een waardeloze mislukkeling.
+_Echter een leven van waarschuwingen en voorspellingen, beste lezer, kon je niet zomaar overwinnen door maar hard genoeg na te denken._
+
+Ze was al opgestaan en naar de krokodil toegelopen. Haar hoofd had allang besloten dat _zij_ de krokodil moest verslaan, en dat _zij_ dus de Giftige Beet terug zou brengen, en al die andere mooie woorden die ze haar hele leven elke dag had gehoord. Als ze het niet deed, voelde ze haarzelf de rest van haar leven een waardeloze mislukkeling.
 
 "Stop met toveren," riep ze tegen de goden, die direct hun poten lieten vallen. "Ik vecht dit wezen ... alleen."
 
@@ -27,7 +29,7 @@ Ze rolde verder naar de achterpoot en deed hetzelfde. Deze keer wist ze waar ze 
 
 Ze beet van haar af en haalde een stukje uit de staart. Ook hierop reageerde de krokodil niet eens, behalve dan door even de controle over zijn staart te verliezen. _Hoe veel happen moet ik nemen voordat het bang wordt?_ dacht ze in paniek.
 
-Steenformaties rondom de troon, aangelegd door Darus, vormden in haar ogen zo'n _trap_. Ze rende erop af, ontweek een zwiepende staart, en sprong van steen naar steen, hoger en hoger, totdat ze boven het hoofd van de krokodil uitkwam.
+Steenformaties rondom het troongebied, aangelegd door Darus, vormden in haar ogen zo'n _trap_. Ze rende erop af, ontweek een zwiepende staart, en sprong van steen naar steen, hoger en hoger, totdat ze boven het hoofd van de krokodil uitkwam.
 
 Het keek op. Zij sprong van bovenaf op zijn hoofd, maar haar tegenstander opende op het laatste moment zijn bek. Ze krijste. Ze viel hopeloos in zijn tanden, niks om vast te grijpen, nergens redding.
 
@@ -37,9 +39,9 @@ Hij viel bijna op zijn rug, maar draaide razendsnel om, waardoor hij meteen op d
 
 Ze bleef hangen in iets. Een draadje, gespannen in de lucht, vlakbij de rivier. _Een hengel!_
 
-Haar klauwen knepen het fijn en ze bedankte het draad duizend keer. Ze schommelde heen en weer, tientallen meters boven de grond, terwijl de krokodil inschatte of hij die sprong kon halen. Het waren geen springende beesten, het waren sluipende beesten, vlakbij de grond en in het water. Ze dacht veilig te zijn---ze dacht verkeerd.
+Haar klauwen knepen het fijn en ze bedankte het draad duizend keer. Ze schommelde heen en weer, hoog boven de grond, terwijl de krokodil inschatte of hij die sprong kon halen. Het waren geen springende beesten, het waren sluipende beesten, vlakbij de grond en in het water. Ze dacht veilig te zijn---ze dacht verkeerd.
 
-Het draadje knapte onder haar gewicht. Ze zette nog net af tegen een boomstam, zodat ze een laatste schommeling omhoog maakte en met flinke snelheid over de krokodil heen vloog. Hij hapte naar haar, maar ze was al vijf meter verder. De snelheid was niet genoeg, en dat maakte haar bang én verbaasd. Ze moest in een paar hartslagen tien boomlengtes hebben gevlogen, maar de krokodil zat op haar hielen, op precies dezelfde afstand.
+Het draadje knapte onder haar gewicht. Ze zette nog net af tegen een boomstam, zodat ze een laatste schommeling omhoog maakte en met flinke snelheid over de krokodil heen vloog. Hij hapte naar haar, maar ze was al verder. De snelheid was niet genoeg om te vluchten, en dat maakte haar bang én verbaasd. Ze moest in een paar hartslagen tien boomlengtes hebben gevlogen, maar de krokodil zat op haar hielen, op precies dezelfde afstand.
 
 _Ik kan dit niet. Dat wezen is oppermachtig!_ Ze landde hard op de vloer. Zo hard, dat ze haar poten daarna niet meer voelde. Plat op haar buik, probeerde ze toch terug te glibberen, als---als een slang. De krokodil hapte opnieuw, maar ze was al naar zijn andere poten geslingerd. Ze hapte en hapte, totdat hij daar ook doorheen zakte. Nu probeerde hij zijn poten op te tillen om op haar te _staan_, maar glibberend kon ze om zijn enkel wikkelen en veilig meegaan in de beweging.
 
@@ -73,7 +75,9 @@ En ze was écht veranderd.
 
 Een nare zure smaak ging door haar mond. Ze kon het niet stoppen en druppelde de stenen voor haar nat. Stenen die bij de aanraking meteen een stukje afbrokkelden. Haar familie bekeek haar alsof zij een godin was. Ze dromden om haar heen en wilden allemaal haar giftanden aanraken, wat haar dan niet verstandig leek, maar ze konden vast tegen hun eigen gifsoort.
 
-Maar niet alle foutjes hebben goede gevolgen. Ze voelde haar poten niet meer, en die ging ze ook nooit meer voelen. Zoals haar vermogen om gif te maken was aangezet, was haar vermogen om poten te ontwikkelen uitgezet. Want haar voorouders hadden geen poten en zwommen in de zee.
+Maar niet alle foutjes hebben goede gevolgen. 
+
+Ze voelde haar poten niet meer, en die ging ze ook nooit meer voelen. Zoals haar vermogen om gif te maken was aangezet, was haar vermogen om poten te ontwikkelen uitgezet. Want haar voorouders hadden geen poten en zwommen in de zee.
 
 Toch was Donat er als de kippen bij om Ionadanaris te vragen om zijn vrouw te worden. Hij zag een sterke vrouw die sterke kinderen kon krijgen, en meer was in deze tijd niet nodig.
 
@@ -82,6 +86,8 @@ Bij de geboorte van hun eerste kind waren beide kanten van de familie aanwezig. 
 De waarschuwingen over krokodillen stopten. De commando's, over alles dat je niet mocht doen, stopten. Op aanraden van Ionadanaris werd de slang in de gevangenis van de goden bevrijdt. Hij mocht geen last hebben van wat zijn verre voorouders hadden gedaan of meegemaakt.
 
 Angst en gevaar gingen natuurlijk nooit helemaal weg. Maar hun leven werd niet meer bestuurd door die angst en het gif dat ze daarmee verspreidden. 
+
+De nieuwe eigenschappen van Ionadanaris waren zó nuttig voor overleving, dat ze vele kinderen kreeg, die ook allemaal lang leefden en weer veel kinderen kregen. Al snel overtroffen ze de niet-giftige kinderen in aantallen, en versloegen hen in alles. En daarom veranderde de orde van Uitkambersia net zo snel in niets dan dieren zónder poten maar mét de Giftige Beet.
 
 Vanaf nu gingen ze door het leven als gifslangen. Een soort die---zoals de meeste giftige soorten---nauwelijks meer veranderde en bleef bestaan totdat de mensen kwamen.
 

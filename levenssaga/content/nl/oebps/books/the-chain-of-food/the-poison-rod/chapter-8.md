@@ -35,7 +35,7 @@ Donat glimlachte, alsof ze het juiste antwoord had gegeven op een toets. Bella a
 
 "En? En? Is hij terug?"
 
-Donat stopte met glimlachen en schudde zijn hoofd. "De goden zeiden dat het waarschijnlijk sneller gebeurde, want we hadden ooit de Giftige Beet. We konden het al, dus kunnen het waarschijnlijk nog steeds. We moeten het alleen weer _aanzetten_."
+Donat stopte met glimlachen. "De goden zeiden dat het waarschijnlijk sneller gebeurde, want we hadden ooit de Giftige Beet. We konden het al, dus kunnen het waarschijnlijk nog steeds. We moeten het alleen weer _aanzetten_."
 
 _Krokodil!_ "Stop daarmee," riep Ionadaris hardop. "Stom hoofd. Stop met overal krokodillen zien. Stop met bang zijn voor alles."
 

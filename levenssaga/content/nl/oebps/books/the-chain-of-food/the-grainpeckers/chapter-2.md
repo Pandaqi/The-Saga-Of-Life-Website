@@ -17,11 +17,13 @@ Had Eeris ook niet soms zo'n zaadje in haar mond? Zij blies de zaadjes dan weg, 
 
 Quili brieste. "Ik probeer ook maar wat. Misschien groeit hieruit wel een plant waaraan ook _vlees_ groeit!"
 
-Epoh was duidelijk niet onder de indruk. "Ga jij het tegen koning Tibbowe zeggen? Hij lacht ons uit en stuurt ons weg!"
+"Ga jij het tegen koning Tibbowe zeggen? Hij lacht ons uit en stuurt ons weg!"
 
 "Het is een idee dat we moeten proberen."
 
-"Het is een slecht idee. Een gek idee." Epoh had van Gossin een mand om haar nek gekregen. Daarin hadden ze al het eten verzameld dat ze konden vinden: bessen, noten, en één dode muis. Niet eens genoeg om één soldaat te voeden. 
+"Het is een slecht idee. Een gek idee." 
+
+Epoh had van Gossin een mand om haar nek gekregen. Daarin hadden ze al het eten verzameld dat ze konden vinden: bessen, noten, en één dode muis. Niet eens genoeg om één soldaat te voeden. 
 
 "Ja," zei Gossin, die zomaar uit het donker verscheen. "We gaan jagen en verzamelen. Dat is wat wij al héél lang doen, dus het werkt! Ik snap niet dat andere diersoorten het maar niet overnemen." 
 
@@ -33,11 +35,11 @@ Ze betraden het kamp. Tibbowe sprak met een groep adelaars.
 
 De adelaars schudden droef het hoofd. "Ze verstoppen zich geweldig. Ze lopen slim en lijken wel magisch onzichtbaar te worden soms. We doen echt ons best, maar we zien de tegenstander pas laat komen."
 
-Quili wist niet wat het woord _magisch_ betekende. Ze hoorde het misschien voor de derde keer in haar leven. Als ze het haar ouders vroeg, zeiden ze dat het woord helemaal niet bestond toen zij jong waren. In dit geval was het blijkbaar slecht. Iets dat zelfs Tibbowe bang maakte.
+Wat betekende _magisch_? Ze hoorde het misschien voor de derde keer in haar leven. Als ze het haar ouders vroeg, zeiden ze dat het woord helemaal niet bestond toen zij jong waren. In dit geval was het blijkbaar slecht. Iets dat zelfs Tibbowe bang maakte.
 
 "Als het _magie_ is ... wat voor hoop is er dan voor ons?"
 
-"De goden," zei een adelaar zelfverzekerd, nog voordat de koning klaar was met zijn zin. "Die zijn onze hoop."
+"De goden," zei een adelaar zelfverzekerd. "Die zijn onze hoop."
 
 Tibbowe zuchtte. "Dan trekken we door. Die Prijskatten en hun verraders mogen geen voet aan de grond krijgen hier. Het wemelt al van de wolven rondom mijn thuiskamp. En blijf zoeken naar de plek."
 

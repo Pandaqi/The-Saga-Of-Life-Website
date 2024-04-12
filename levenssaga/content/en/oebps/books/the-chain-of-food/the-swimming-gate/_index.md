@@ -10,7 +10,7 @@ cycle: 'The Chain of Food'
 bundle: 'Planteaters & Fleshfeasters'
 character: ['Ardex', 'Bella', 'Cosmo', 'Darus', 'Eeris', 'Feria', 'Gulvi', 'Hanah']
 prequel: ['The Banished Siblings']
-refers: ['Father's Revenge', 'Heavenly Palace', "Heavenmatter", 'Hanah's Heavenportal', 'Firering', 'Heavenly Flowers of Eeris', 'Windgustwing', "Throne of Tomorrow", "Zyme", "Dalas", "Flamefeaster", "Hespryhound", "Book of Meaning", "Fartherwater", "Soulsplitters", "Midterrasea", "Mayfill", "Dayriver"]
+refers: ["Father's Revenge", 'Heavenly Palace', "Heavenmatter", "Hanah's Heavenportal", 'Firering', 'Heavenly Flowers of Eeris', 'Windgustwing', "Throne of Tomorrow", "Zyme", "Dalas", "Flamefeaster", "Hespryhound", "Book of Meaning", "Fartherwater", "Soulsplitters", "Midterrasea", "Mayfill", "Dayriver"]
 happens: ['First Herbivores']
 teaches: ['Characteristics of Life']
 godlink: ['Ardex', 'Bella', 'Cosmo', 'Darus', 'Eeris', 'Feria', 'Gulvi', 'Hanah']

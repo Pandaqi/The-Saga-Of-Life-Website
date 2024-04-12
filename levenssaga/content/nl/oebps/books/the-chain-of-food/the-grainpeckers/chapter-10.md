@@ -3,11 +3,15 @@ title: "Epiloog"
 weight: 10
 ---
 
-Arlar wenste dat hij nooit de Windvlaagvleugel had aangeraakt. Ja, zijn ogen waren geweldig, goed genoeg om in Traferia toch de weg te vinden. Of de weg terug naar Garda, samen met de Prijskatten. Hij was sneller, groter, sterker dan andere vogels. Maar zijn poep kwam eruit als gigantische zaden. Zijn eieren waren zo groot dat hij er geen nest voor kon bouwen. En hij voelde steeds meer wat Cosmo bedoelde: het voorwerp was zo sterk dat het je brein brak. Met elke dag werd het moeilijker om nog na te denken, te praten, te leven. Alsof hij steeds minder begreep hoe zijn lichaam werkte.
+Arlar wenste dat hij nooit de Windvlaagvleugel had aangeraakt. Ja, zijn ogen waren geweldig, goed genoeg om in Traferia toch de weg te vinden. Of de weg terug naar Garda, samen met de Prijskatten. Hij was sneller, groter, sterker dan andere vogels. 
+
+Maar zijn poep kwam eruit als gigantische zaden. Zijn eieren waren zo groot dat hij er geen nest voor kon bouwen. En hij voelde steeds meer wat Cosmo bedoelde: het voorwerp was zo sterk dat het je brein brak. Met elke dag werd het moeilijker om nog na te denken, te praten, te leven. Alsof hij steeds minder begreep hoe zijn lichaam werkte.
 
 Maar hij had het geaccepteerd, want dankzij die krachten zouden ze sowieso de goden verslaan. 
 
-"Dus _waarom_ zijn we gevlucht? We konden winnen!" Arlar wist dat zijn toon te fel en te luid was. Zijn scherpe snavel in het gezicht van Kajar duwen zou zijn humeur ook niet helpen. Maar als het aankwam op een gevecht, had Arlar goede kans te winnen, en dat wist de leider van de Prijskatten ook.
+"Dus _waarom_ zijn we gevlucht? We konden winnen!" 
+
+Arlar wist dat zijn toon te fel en te luid was. Zijn scherpe snavel in het gezicht van Kajar duwen zou zijn humeur ook niet helpen. Maar als het aankwam op een gevecht, had Arlar goede kans te winnen, en dat wist de leider van de Prijskatten ook.
 
 "We hebben ook gewonnen." Kajar kraste met zijn nagel drie strepen in het steen. "We hebben nu drie Hemelvoorwerpen in ons bezit."
 
@@ -45,7 +49,7 @@ Arlar zuchtte. Sinds hij de Windvlaagvleugel had aangeraakt, werd een zucht al s
 
 "Dus we gaan terug om wraak te nemen op de Berenbouwers," zei Kajar meteen.
 
-Ze begrepen niet precies wat het Hemelvoorwerp deed. Tijdens het gevecht had het dingen veranderd _over de hele wereld_. Planten groeiden sneller. De grond kon meer aan. Zelfs niet-magische zaadjes bloeiden in een paar dagen, niet jaren.
+Ze begrepen niet precies wat het Hemelvoorwerp deed. Tijdens het gevecht had het dingen veranderd _over de hele wereld_. Planten groeiden sneller. De grond kon meer aan. Zelfs niet-magische zaadjes bloeiden in hoogstens een paar maanden, niet jaren of eeuwen.
 
 Laatst passeerde zelfs een handelaar die beweerde dat ze ergens _aardappelen_ onder controle kregen. Maar goed, die beweerde ook via Compana te komen, en daarvan had hij echt nóóit gehoord.
 

@@ -11,7 +11,7 @@ Epoh en Gossin liepen weer langs, deze keer met _drie_ lege manden.
 
 Epoh keek vol afschuw. De stem van haar vriendin klonk anders dan al die jaren daarvoor. "Terwijl _wij_ hard werken, liggen ze te slapen tegen andermans tent."
 
-"Puh." De Gossin maakte een gebaar met zijn vingers dat Quili niet kende, maar het was vast niet aardig. "Het wordt tijd dat iemand haar zinloze tuintje vernielt."
+"Puh." Gossin maakte een gebaar met zijn vingers dat Quili niet kende, maar het was vast niet aardig. "Het wordt tijd dat iemand haar zinloze tuintje vernielt."
 
 Iedereen in de omgeving keek tegelijkertijd naar dat tuintje. Alsof ze waren vergeten dat het bestond, of dachten dat Quili het allang had opgegeven.
 
@@ -39,7 +39,9 @@ De koninklijke leeuw nam het snel over. Gossin bloedde flink, maar hupste razend
 
 "Nou, nou, dan weet je dat ze moet worden verbannen."
 
-"Nee! Ik ... ik ..." Ze _had_ hem aangevallen. Hij had haar nooit iets aangedaan, alleen haar tuintje. Didrik was nog steeds niet wakker en kon haar niet helpen. Het was gedaan. Deze koning had haar nooit gemogen. Ze leefde, en mocht deze zaadjes verzamelen, alleen maar vanwege de liefdadigheid van zijn vrouw. En nu was haar leven voorbij.
+"Nee! Ik ... ik ..." 
+
+Ze _had_ hem aangevallen. Hij had haar nooit iets aangedaan, alleen haar tuintje. Didrik was nog steeds niet wakker en kon haar niet helpen. Het was gedaan. Deze koning had haar nooit gemogen. Ze leefde, en mocht deze zaadjes verzamelen, alleen maar vanwege de liefdadigheid van zijn vrouw. En nu was haar leven voorbij.
 
 "Diezelfde regels," vervolgde Tibbowe, "die het verbieden om andermans spullen te vernielen."
 
@@ -67,7 +69,9 @@ Tibbowe overwoog dat. "Dan zijn jullie een Gesplitste Soort. Het enige dier dat 
 
 Strenge leeuwenogen daalden neer op een schuldbewuste Quili. "Maak geen fout, Equid. Val nog iemand aan en je bent voorgoed verbannen."
 
-Het klonk nog vriendelijk, maar verbanning zou betekenen dat de rest haar opat. Want zodra ze niet meer bij het kamp hoorde, hoefden al die leeuwen en adelaars zich niet meer aan de ene regel te houden. En van die beesten won ze nooit. Ze _moest_ haar woede onder controle houden.
+_Het klonk misschien nog redelijk, beste lezer, maar verbanning betekende slechts dat de andere soldaten haar zouden opeten. Zodra ze geen onderdeel meer was van het kamp, hoefden al deze leeuwen en adelaars die ene regel niet te volgen. En ze kon nooit winnen van die beesten._
+
+Ze _moest_ haar woede onder controle houden.
 
 Tibbowe liep weg. 
 
@@ -79,7 +83,9 @@ Terwijl een rivier van aapachtigen de Koningstent instroomde, bekeek Quili haar 
 
 Epoh liep naar haar toe met een mand tussen haar tanden. "Ik ... eh ... kan ik met jou mee?"
 
-"Nee." Quili zocht haar konijnen en was van plan vandaag wel _tien_ zaadjes te vinden, om de tuin te herstellen. Dat Epoh nu te bang was om in haar eentje te gaan, nou, nou, dat mocht ze lekker zelf uitzoeken. Verraadster. Haar toneelstukje met het struikelen was lachwekkend slecht.
+"Nee."
+
+Quili zocht haar konijnen en was van plan vandaag wel _tien_ zaadjes te vinden, om de tuin te herstellen. Dat Epoh nu te bang was om in haar eentje te gaan, nou, nou, dat mocht ze lekker zelf uitzoeken. Verraadster. Haar toneelstukje met het struikelen was lachwekkend slecht.
 
 Epoh sjokte links het kamp uit, Quili rechts. Didrik was niet wakker te krijgen, dus ze moesten zonder hem. Iets dat de konijnen erg zenuwachtig maakte. Maar nu ze wist dat de zaadjes werden gebruikt om planteneters te _lokken_, hoopte ze iets slims te kunnen doen. 
 

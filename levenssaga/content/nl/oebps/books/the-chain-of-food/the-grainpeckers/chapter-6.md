@@ -13,7 +13,9 @@ Vijftig hongerige soldaten, met nauwelijks kracht in hun poten, moesten ook nog 
 
 "Mijn tuintje!"
 
-"Je ..." Cosmo landde middenin een omgewoelde moddervlakte. Ze wist alleen dat het haar tuintje was vanwege de takjes van haar hekje die nog overeind stonden. Door het graven en rennen waren de zaadjes uit de grond omhoog gekomen. Ze lagen nu verspreid als knikkers die waren gebotst en daarna bij elkaar weggerold.
+"Je ..." 
+
+Cosmo landde middenin een omgewoelde moddervlakte. Ze wist alleen dat het haar tuintje was vanwege de takjes van haar hekje die nog overeind stonden. Door het graven en rennen waren de zaadjes uit de grond omhoog gekomen. Ze lagen nu verspreid als knikkers die waren gebotst en daarna bij elkaar weggerold.
 
 Cosmo pakte er een en bestudeerde het. "Dit bevestigt het," zei hij tegen zichzelf.
 
@@ -29,9 +31,13 @@ Dit was waarom ze vochten _vóór_ de goden. Cosmo stond het toe, zonder enige t
 
 "Er is een _gevecht_ bezig, beste Equid."
 
-"Maakt niet uit!" Cosmo dook omlaag. Hij paste precies tussen een vechtende olifant en een hele groep adelaars aan de andere kant. Een slurf sloeg bijna Quili's hoofd van haar schouders. Cosmo draaide sierlijk, pakte precies de twee zaadjes, en zocht weer het luchtruim.
+"Maakt niet uit!"
 
-"En daar! En daar! Wat zijn hier een hoop zaadjes?" Cosmo zag ze zelf ook wel. Natuurlijk, hij had dezelfde scherpe ogen als adelaars. Quili was te enthousiast om te stoppen met roepen. Keer op keer doken ze omlaag alsof ze neerstortten, maar wist Cosmo hen precies op zo'n zaadje te sturen.
+Cosmo dook omlaag. Hij paste precies tussen een vechtende olifant en een hele groep adelaars aan de andere kant. Een slurf sloeg bijna Quili's hoofd van haar schouders. Cosmo draaide sierlijk, pakte precies de twee zaadjes, en zocht weer het luchtruim.
+
+"En daar! En daar! Wat zijn hier een hoop zaadjes?" 
+
+Cosmo zag ze zelf ook wel. Natuurlijk, hij had dezelfde scherpe ogen als adelaars. Quili was te enthousiast om te stoppen met roepen. Keer op keer doken ze omlaag alsof ze neerstortten, maar wist Cosmo hen precies op zo'n zaadje te sturen.
 
 Twee Gosti's gooiden speren naar andere Gosti's. Het was verwarrend. Ze wist niet meer welke aan hun kant stonden. Dat dacht Tibbowe ook, want hij had armbanden uitgedeeld. Sommige Gosti droegen nu een gekleurde bladerband om hun poot: die hoorden bij haar.
 
@@ -95,15 +101,17 @@ Tibbowe liep zijn tent in en kwam naar buiten met twee manden voedsel. Alles wat
 
 En er was niks over.
 
-Oh, er lag wel iets in de mand. Stukken vlees, wat bessen, erg veel dode muizen. Maar het lag er al een paar dagen, dus het was gaan rotten. Schimmel liep over de stukken fruit en Tibbowe kon het niet eens ruiken zonder weg te trekken en een mand te laten vallen. Enoh was er niet eens om vers voedsel terug te brengen, hoe weinig ook.
+Oh, er lag wel iets in de mand. Stukken vlees, wat bessen, erg veel dode muizen. Maar het lag er al een paar dagen, dus het was gaan rotten. Schimmel liep over de stukken fruit en Tibbowe kon het niet eens ruiken zonder weg te trekken en een mand te laten vallen. Epoh was er niet eens om vers voedsel terug te brengen, hoe weinig ook.
 
 Het leger zakte verslagen op de grond. Ze waren _doodmoe_. Hun magen rommelden alsof onweer op komst was. Inmiddels allemaal even leeg, zongen ze precies hetzelfde grommende lied.
 
-Quili keerde om en zocht een nieuwe plek voor haar tuin. Ergens halverwege de spiraal omhoog, afgeschermd tussen wat puntige rotsen, vond ze een stukje lege aarde. Ze begon samen met Didrik de zaadjes opnieuw te planten.
+Quili zocht een nieuwe plek voor haar tuin. Ergens halverwege de spiraal omhoog, afgeschermd tussen wat puntige rotsen, vond ze een stukje lege aarde. Ze begon samen met Didrik de zaadjes opnieuw te planten.
 
 De adelaars kwamen snel helpen. "Hoe heb je er _zoveel_ gevonden?" vroeg eentje.
 
-"Tijdens het gevecht lagen ze _overal_ op de grond." Misschien lieten ze de zaadjes toch per ongeluk achter. Alle soldaten van het andere leger waren onder de invloed van de Windvlaagvleugel. Ze konden niet anders dan regelmatig magische dingen achterlaten.
+"Tijdens het gevecht lagen ze _overal_ op de grond." 
+
+Misschien lieten ze de zaadjes toch per ongeluk achter. Alle soldaten van het andere leger waren onder de invloed van de Windvlaagvleugel. Ze konden niet anders dan regelmatig magische dingen achterlaten.
 
 "Misschien ... moet je morgen terug om nog meer te zoeken. Je hebt geen idee hoe onze magen rommelen."
 
@@ -115,7 +123,7 @@ De adelaars kwamen snel helpen. "Hoe heb je er _zoveel_ gevonden?" vroeg eentje.
 
 De zaadjes waren snel geplant toen ook de olifanten kwamen helpen. En de koningin. Toch keek Quili aan het einde van de dag verslagen uit over de compleet platte grond waaruit natuurlijk nog geen sprietje omhoog stak.
 
-Tibbowe liep met Cosmo terug naar de enige tent die overeind stond. "We houden dit niet langer. Ik ga niet toekijken hoe elk dier, tot de laatste soldaat, sterft van honger. Dan trekken we maar terug en laten de tegenstander het Hemelvoorwerp hebben."
+Tibbowe liep met Cosmo terug naar de enige tent die overeind stond. "We houden dit niet langer. Ik ga niet toekijken hoe elk dier, tot de laatste soldaat, sterft van honger. Dan trekken we maar terug en laten de tegenstander het Hemelvoorwerp van Darus hebben."
 
 Cosmo klapperde zijn bek. "Je weet nu hoe sterk die dingen zijn. Ze mogen Darus' voorwerp _niet_ hebben."
 

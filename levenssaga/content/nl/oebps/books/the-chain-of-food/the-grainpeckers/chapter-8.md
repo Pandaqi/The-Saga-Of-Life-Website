@@ -27,7 +27,7 @@ Voor nu duwde hij gefrustreerd alle schapen opzij. "Niemand zei dat het een _moo
 
 "Ik ben de Bovenste Berenbouwer. Ik maak geen lelijke dingen."
 
-Kajar duwde hem in een flits achterover, op zijn rug. Hij zichzelf niet redden met slechts drie poten, dus de schapen vingen hem op. "Je _was_ de Bovenste Berenbouwer. Nu ben je mijn slaaf."
+Kajar duwde hem in een flits achterover, op zijn rug. Hij kon zichzelf niet redden met slechts drie poten, dus de schapen vingen hem op. "Je _was_ de Bovenste Berenbouwer. Nu ben je mijn slaaf."
 
 Epoh had het zien gebeuren. In zijn haast had Bunjo zichzelf met de hamer op zijn klauw geslagen. Iets dat een beer---de Bovenste Berenbouwer nota bene---nóóit mocht gebeuren. Toch hoopte ze dat hij Kajar nog eventjes bezighield, terwijl zij zocht naar een manier om te ontsnappen.
 
@@ -75,7 +75,9 @@ Hij kon met zijn vingers de sleutel goed vasthouden en in het slot duwen. Na dri
 
 "Ik was bang dat ze me meteen zouden opvreten als ik met Bunjo praatte. Als ik probeerde te ontsnappen. Maar jij ..."
 
-"Geen tijd, geen tijd." Epoh rende snel uit het zicht, wat vrij makkelijk ging in het begroeide Traferia. Ze zocht een andere route uit het kamp. Weg van het leger, maar dichtbij genoeg om misschien Tibbowe te waarschuwen. 
+"Geen tijd, geen tijd." 
+
+Epoh rende snel uit het zicht, wat vrij makkelijk ging in het begroeide Traferia. Ze zocht een andere route uit het kamp. Weg van het leger, maar dichtbij genoeg om misschien Tibbowe te waarschuwen. 
 
 Ze kwam langs hun "tuintje" waar tien dieren achterbleven en druk werkten. Epoh duwde haarzelf in de struiken. Ze voelde naar de Gosti, maar die was weg. Hij slingerde tussen de bomen, precies de andere kant op. Weg van beide legers en waarschijnlijk weg uit Traferia. In plaats daarvan stonden die _schapen_ ineens achter haar. Hun vacht was dun en prikte, dus ze trok haar poot weg.
 

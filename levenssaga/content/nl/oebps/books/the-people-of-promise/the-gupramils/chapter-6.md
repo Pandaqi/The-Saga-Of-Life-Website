@@ -19,7 +19,7 @@ Snel koningin? Ashorra was gezond en pas net volwassen. Het zou nog eeuwen duren
 
 Ze kneep haar ogen samen en fluisterde: "Wat ... suggereren jullie daarmee?"
 
-Are opende zijn geldzak om te onthullen dat er helemaal geen geld in zat. Hij overhandigde haar een glas met een stinkende vloeistof. "Poeh, gif zoals dit kan snel een einde maken aan een leven. Laten we hopen dat het niet zomaar in iemands avondeten terechtkomt."
+Are opende zijn geldzak om te onthullen dat er helemaal geen geld in zat. Hij overhandigde haar een glas met een stinkende vloeistof. "Poeh, gif zoals dit kan snel een einde maken aan een leven. Het komt rechtstreeks van de Gifgordel. Laten we hopen dat het niet zomaar in iemands avondeten terechtkomt."
 
 Marili nam het goedje aan met een trillende slurf. Wilde ze dit echt? Het zou zoveel oplossen. Maar---
 

@@ -17,7 +17,7 @@ Heldin of niet, Gonadisa had één ding opgehelderd. Al het gif van hun vooroude
 
 _Krokodil!_ Nee, zijn moeder.
 
-Zijn soort was steeds kleiner geworden, met doffere kleuren en minder scherpe tanden. Moeder zag er niet meer uit als een roofdier, met bananen in haar oren en bladeren als schoenen onder haar poten. Vader zei om de vijf minuten een zelfverzonnen gedichtje en tekende kruizen in de lucht. Dat "hield de krokodillen op afstand". Nou, het hield ook alle vrouwtjes op afstand.
+Zijn soort was steeds kleiner geworden, met doffere kleuren en minder scherpe tanden. Moeder zag er niet meer uit als een roofdier, met bananen in haar oren en bladeren als schoenen onder haar poten. Vader prevelde regelmatig een zelfverzonnen gedichtje en tekende kruizen in de lucht. Dat "hield de krokodillen op afstand". Nou, het hield ook alle vrouwtjes op afstand.
 
 Ze waren geen roofdieren meer. Ze moesten niet alleen bang zijn voor krokodillen, maar voor bijna elke vleesetende diersoort in de buurt.
 
@@ -51,7 +51,7 @@ Hij vond een paar ogen. Die knipperden en kwamen toen omlaag. De Gosti werden gr
 
 "Je zegt het zelf opnieuw!"
 
-"Gosti!" zij Honatanan streng, alsof hij hun vader was. "Weten jullie waar mijn andere familie is?"
+"Gosti!" zei Honatanan streng, alsof hij hun vader was. "Weten jullie waar mijn andere familie is?"
 
 "Diegene die _niet_ bananen in hun oren doen?"
 
@@ -79,4 +79,4 @@ Allemaal vals alarm, maar het alarm bleef lekker afgaan. En als dat gebeurde, me
 
 Een felgroene waas explodeerde uit de Langnek en landde bovenop hem. Hij wist meteen dat hij verslagen was. Zijn lichaam bevroor van de kou en van de angst, terwijl zijn belager véél groter en sterker was. _We gaan gif nooit terugkrijgen,_ dacht hij droevig, _want niemand van ons, zelfs met alle geluk van de wereld, gaat een krokodil verslaan_. 
 
-Toen hij na tien seconden nog niet was opgegeten, wist hij dat er meer aan de hand was.
+Toen hij na lange tijd nog niet was opgegeten, wist hij dat er meer aan de hand was.

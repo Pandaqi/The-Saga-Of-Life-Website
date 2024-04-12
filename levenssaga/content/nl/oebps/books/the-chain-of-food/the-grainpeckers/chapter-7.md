@@ -31,7 +31,9 @@ Ze tikte Didrik aan. "We moeten morgen op zoek naar Epoh."
 
 "Nee, liever niet, het is moeilijk uit te---"
 
-"Wij begrijpen dat je soms moet vechten om meer pijn in de toekomst te voorkomen. Het probleem is alleen dat dit _precies_ is wat de Prijskatten willen." Ze gaf toe: haar brein was gebroken. Ze moesten vechten om de Prijskatten te verslaan, maar dat was weer precies wat ze wilden, dus ze moesten _niet_ vechten? Geen wonder dat de goden hoopten dat morgen de hele oorlog stopte.
+"Wij begrijpen dat je soms moet vechten om meer pijn in de toekomst te voorkomen. Het probleem is alleen dat dit _precies_ is wat de Prijskatten willen." 
+
+Ze gaf toe: haar brein was gebroken. Ze moesten vechten om de Prijskatten te verslaan, maar dat was weer precies wat ze wilden, dus ze moesten _niet_ vechten? Geen wonder dat de goden hoopten dat morgen de hele oorlog stopte.
 
 "Kan de oppergod zich niet ermee bemoeien? Het Juradom laat zien dat---"
 
@@ -71,7 +73,7 @@ De leeuw glimlachte. Alsof er niet een wild paard op hem afstormde die meer scha
 
 Quili dwong haar poten strak op de grond, haar borst vooruit, en verroerde geen vin.
 
-Een deel van het kamp kwam kijken wat de grom inhield. Zij zagen een groep leeuwen snel wegrennen van de plek. Ze probeerden hun hoofd te verbergen, maar genoeg dieren hadden gezien wie de daders precies waren.
+Het kamp kwam kijken wat het lawaai inhield. Zij zagen een groep leeuwen snel wegrennen van de plek. Ze probeerden hun hoofd te verbergen, maar genoeg dieren hadden gezien wie de daders precies waren.
 
 "Deze leeuwen hebben mijn tuin expres vernield en mij bedreigd," zei Quili. Ze probeerde haar stem rustig te houden, maar hij trilde en wiebelde tot het einde van de zin. Ze wist dat dit de juiste keuze was.
 

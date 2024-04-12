@@ -17,7 +17,7 @@ Epoh en Gossin liepen langs, maar bleven netjes buiten de tuin. Gossin stak zijn
 
 Ze keek naar haar vriendin. Die keek weg. Waar kwam dit vandaan? Had ze altijd al stiekem een hekel aan haar gehad? Tranen prikten achter haar ogen. Zelfs met de adelaar ertussen, had ze weer érg veel zin om in die Gosti z'n staart te bijten.
 
-Didrik moest haar woede weer temperen. Hij liep rustig over de tuin en keek of de andere zaadjes ook al uitkwamen. De adelaar had deze keer géén haast en bestudeerde het ene plantje met kiene ogen. 
+Didrik pakte Quili vast om haar woede weer te temperen. Hij liep rustig over de tuin en keek of de andere zaadjes ook al uitkwamen. De adelaar had deze keer géén haast en bestudeerde het ene plantje met kiene ogen. 
 
 De zonnedas gaf de jennende Gosti geen aandacht. "Kom, laat je niet opjutten door die wezens. We hebben dingen te doen."
 
@@ -29,17 +29,17 @@ Het plan was simpel. Didrik en Quili liepen vooruit en de konijnen expres een bo
 
 Het plan hing ook volledig af van hoe sterk Didrik was en of ze hem inderdaad kon vertrouwen.
 
-"Weet jij waarom we hier zijn?"
+"Weet jij waarom we hier zijn?" vroeg ze aan hem.
 
 "Ja. Maar dat mag ik niet zeggen."
 
-Ze werd zenuwachtig van al die mensen die meer wisten en niks zeiden. Wat moesten die soldaten wel niet denken? Vechten voor hun leven terwijl ze niet wisten waarvoor ze vochten? Haar woede kwam terug op volle kracht. "Hoezo weet jij het wel!? Jij hóórt niet eens bij ons. Het is een wonder dat je niet allang in Tibbowe's tent slaapt! Wat betekent Kameraden _zonder Koning_ nou eigenlijk?"
+Ze werd zenuwachtig van al die wezens die meer wisten en niks zeiden. Wat moesten die soldaten wel niet denken? Vechten voor hun leven terwijl ze niet wisten waarvoor ze vochten? Haar woede kwam terug op volle kracht. "Hoezo weet jij het wel!? Jij hóórt niet eens bij ons. Het is een wonder dat je niet allang in Tibbowe's tent slaapt! Wat betekent Kameraden _zonder Koning_ nou eigenlijk?"
 
 Didrik keek geamuseerd. "Het betekent dat, als Tibbowe iets doms of oneerlijks zou doen, ik daar iets van zeg. Want ik sta niet achter _hem_ als ... als een blinde fan."
 
 "Fan?"
 
-"Ah ja, sorry, dat is iets zoals een volgeling. Zoals die mensen die nu allemaal dezelfde godsdienst aanhangen. Het Juradom, geloof ik."
+"Ah ja, sorry, dat is iets zoals een volgeling. Zoals die dieren die nu allemaal dezelfde godsdienst aanhangen. Het Juradom, geloof ik."
 
 Hij kraste zijn klauwen tegen een boom om ze aan te scherpen. "Maar juist omdat de kameraden eerlijk zijn en nergens bij horen, heeft Tibbowe een reden om een _goede_ koning te zijn. Want als hij dat niet is, kan hij mij niet meer oproepen om vuurtjes te blussen."
 
@@ -81,9 +81,9 @@ Quili wachtte en wachtte, tot de zon onderging, en tot hij bijna weer opkwam.
 
 Niemand wist dat ze nog wakker was en steeds naar alle ingangen van het kamp keek. Dus ze ontdekte waarom haar tuintje zo stonk.
 
-Een leeuw sjokte ernaartoe, zocht een mooi plekje, en ... poepte op haar planten. Quili dacht een adelaar boven zich te horen. De tuinpoeper maakte dat hij weg kwam toen hij klaar was. 
+Een leeuw sjokte ernaartoe, zocht een mooi plekje, en ... poepte op haar planten. Quili hoorde een adelaar vlakbij, dus de tuinpoeper maakte dat hij weg kwam toen hij klaar was. 
 
-_Ze gebruiken mijn tuin als toilet!_ schreeuwde een stem in haar hoofd. _Vergeet dat leeuwen veel groter en sterker zijn. Vergeet dat ze haar zo doodbijten. Ik heb toch zóveel zin om dat beest in de staart te bijten._ 
+_Ze gebruiken mijn tuin als toilet!_ schreeuwde een stem in haar hoofd. Ze vergat even dat leeuwen veel groter en sterker waren. Vergat dat ze haar zo doodbijten. Ze had toch zóveel zin om dat beest in de staart te bijten.
 
 Zagen ze dan niet dat zij iedereen ging redden? Zelfs als Epoh geweldig werd in eten vinden, is het niet genoeg en niet betrouwbaar. Maar planten? Die waren betrouwbaar---als haar idee klopte. Als ze goed had begrepen hoe Eeris' tuintje werkte.
 
