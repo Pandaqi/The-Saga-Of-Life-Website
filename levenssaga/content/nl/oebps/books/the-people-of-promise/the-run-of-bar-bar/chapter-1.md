@@ -32,7 +32,7 @@ Barbaar? Verwarde hij hem met iemand anders?
 
 Een vrouwelijke Prima, tijdelijk op twee benen, smeet een bak ijskoud water over de schapen die haar voortuin opnieuw inrichtten.
 
-"Jeetje mina," mompelde ze. "Onbeschofd gespuis. Hoort hier niet thuis."
+"Jeetje mina," mompelde ze. "Onbeschoft gespuis. Hoort hier niet thuis."
 
 Himnib sloeg zijn wandelstok op de grond, hard genoeg om paarse vonken te maken. Zijn schapen vormden meteen een nette rij en volgden hem terug de stad in.
 
@@ -40,13 +40,13 @@ Hij passeerde twee Reuzenwolven. Ze droegen een wit gewaad dat losjes om hun lij
 
 "Ik zou wel willen, Rodrik," zei de een. "Maar de koning heeft vorige week nog verkondigd dat elke dag moet beginnen met een uur bidden ... tot hém! Ik houd geen tijd over om iets te doen!"
 
-"Zat eraan te komen," zei Rodrik terwijl zijn verachtende blik over Himnibs kudde gleed. "Weet je nog die straatartiest?Die tien jaar elke dag op het plein stond? Opgepakt en veroordeeld tot de dood, zonder reden."
+"Zat eraan te komen," zei Rodrik terwijl zijn verachtende blik over Himnibs kudde gleed. "Weet je nog die straatartiest? Die tien jaar elke dag op het plein stond? Opgepakt en veroordeeld tot de dood, zonder reden."
 
 Himnib schudde zijn hoofd---en struikelde over een hamster die hij daardoor niet zag.
 
-"Ja! Stop maar!" piepte het beest. Hij was twee koppen kleiner dan Himnib, ook al schatte hij hem in als een volwassene. "Dat is een overtreding van reglement 4.1.7 Kom maar mee, barbaar."
+"Ja! Stop maar!" piepte het beest. Hij was twee koppen kleiner dan Himnib, ook al schatte hij hem in als een volwassene. "Dat is een overtreding van reglement 4.1.7, barbaar. Kom maar mee."
 
-Weer dat woord. Hadden ze het wel tegen hem?
+Weer dat woord. _Barbaar_. Hadden ze het wel tegen hem?
 
 Hij negeerde het en liep door, maar de hamster blokkeerde opnieuw zijn pad met gevaar voor eigen leven.
 
@@ -62,7 +62,7 @@ Ginsea kuchte. "Jouw schapen hebben _meermaals_ andermans terrein bewandeld en a
 
 Eén van de wolven gniffelde. 
 
-"Je hebt gelijk," zei hij met een valse grijns. "Hun taaltje klinkt echt alsof ze _bar bar bar bar_ zeggen de hele tijd."
+"Je hebt gelijk," zei hij met een valse grijns. "Hun taaltje klinkt echt alsof ze de hele tijd _bar bar bar bar_ zeggen."
 
 Ze trokken hem door de straat. Hij had niks verkeerd gedaan! Het weerhield een paar Amori er niet van om wat rot fruit naar zijn hoofd te gooien.
 

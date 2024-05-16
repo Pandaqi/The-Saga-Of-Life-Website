@@ -54,14 +54,6 @@ Tot zover mijn gedachten over dit verhaal en de thema's. Ik weet eigenlijk nog s
 
 
 
-
-
-GREAT STORY IDEAS:
-
-"What if intelligence could be bought?" (What if _emotional/social_ intelligence could be bought?)
-
-"What if you could _fix_ your current state forever?" (So you'd have to see if your life was at its peak and then quickly fix it, so you will _always_ have that life.)
-
 # @TODO: Revisies
 Moet waarschijnlijk wat woorden kwijtraken hier en daar.
 

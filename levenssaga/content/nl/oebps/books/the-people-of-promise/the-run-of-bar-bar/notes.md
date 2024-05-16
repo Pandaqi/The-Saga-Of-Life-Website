@@ -93,7 +93,18 @@ _Sorteer dit op volgorde van hoofdstukken voordat ik de revisie doe.
 
 _Lees mijn "Revision for Run of Bar-Bar" article terug, die staat in Cyclus overzicht. Het hele verhaal moet op de schop_
 
-* **IDEE: Wolfar heeft goede intenties.** Hij denkt écht dat hij een betere koning is, dan zowel zijn vader als zijn broertjes. Hij geeft wél om rechtsspraak en daarom laat hij het allemaal doorgaan. Hij is niet de grote slechterik die hij nu is, want dat is eigenlijk niet interessant. 
+### Per Hoofdstuk
+* Vroege Hoofdstukken: 
+	* Het moet het idee van slaven of vee (onder jouw commando) aanstippen, die werkelijk overal zijn.
+	* Iemand zegt: "Wezens weten niet wat ze willen! Geweld. Dwang. Het is de _enige_ manier om zeker te zijn dat dieren doen wat _goed voor ze is_!"
+	* Als opzet voor hoe Bar-Bar zijn magie niet _wil_ gebruiken, maar het uiteindelijk de enige manier is om iets voor elkaar te krijgen.
+
+* **H2**: Rivier Tibber => zoek op wat mijn eigenlijke naam voor de Tiber in Rome was.
+* **H2**: "Maar Bar-Bar mocht als enige zo nonchalant zijn, want hij was niet te verslaan. Hij had de raarste soort magie in zijn schapenhoeven. Bla bla ..."
+	* "zodra hij een groep dieren helemaal omcirkelde met hekken en opsloot, werden ze meteen zijn vee"
+* **H4/H5**: Bar-Bars speciale magie nog eens laten zien of noemen?
+
+
 * De Romeinen drinken constant wijn. (In ieder geval de koningszonen.) 
 	* Dit wordt gezien als normaal en zelfs _goed_.
 	* Ook al zorgt dit uiteindelijk dat hij niet bij zinnen is als hij zijn broer doodt.
@@ -105,37 +116,14 @@ _Lees mijn "Revision for Run of Bar-Bar" article terug, die staat in Cyclus over
 * "De Vergeten Herder" kan nu plotseling meer gewicht krijgen, als Himnib écht dat deel van de herders enzo is vergeten dankzij een korte aanraking met de Vlam?
 	* Ja, moet sowieso suggereren dat hij delen van zijn verleden is vergeten enzo, want hij heeft de Vlam heel kort aangeraakt?
 	* En wanneer/hoe magie precies is gekomen moet ook kloppen
-* Eventueel is de Roddelrat al hoofdpersonage vanaf hoofdstuk 1? (In plaats van Bipi?)
-	* Moet sowieso eerder voorkomen en uitleg over hoe hij dus alleen rijk kon worden van roddels omdat het verboden is om die dingen hardop te zeggen.
-	* ENGELS = Rattlerat. (Of Tattlerat?)
-* H1: Noem een paar van zijn schapen (uit Vergeten Herder) bij naam.
-* H2: "Maar Bar-Bar mocht als enige zo nonchalant zijn, want hij was niet te verslaan. Hij had de raarste soort magie in zijn schapenhoeven. Bla bla ..."
-	* "zodra hij een groep dieren helemaal omcirkelde met hekken en opsloot, werden ze meteen zijn vee"
-	* Het PUNT is een beetje dat hij dit niet WIL gebruiken. Die Germanen staan voor vrijheid, individualisme, zelfstandigheid. Dus hij weigert zelfs slaven te nemen of zijn magie te gebruiken.
-	* **Het andere grootste probleem** is dat de Barbaren geen duidelijk persoonlijk doel hebben. Wat wil Bar-Bar? Wat wil Bipi? Wat wil de Roddelrat? Waarom doen ze dit?
-* H2/H4: Noem alvast dat vaak vreemdelingen aansluiten bij de stammen en dat niemand er ooit van opkijkt?
-* H4: Wolfar hééft al Wisira als vrouw. Seks enzo is natuurlijk compleet achter gesloten deuren.
-* H4/H5: Bar-Bars speciale magie nog eens laten zien of noemen?
-* H2: Geef Bipi een specifieke reden om uiteindelijk toch voor de missie te kiezen? => nah dit wordt verder uitgewerkt in H4. Misschien wel handig als we laten zien in H2 dat ze verliefd is op een meisjesbig en daarmee knuffelt/zoent?
-* Vroege Hoofdstukken: 
-	* Het moet het idee van slaven of vee (onder jouw commando) aanstippen, die werkelijk overal zijn.
-	* Iemand zegt: "Wezens weten niet wat ze willen! Geweld. Dwang. Het is de _enige_ manier om zeker te zijn dat dieren doen wat _goed voor ze is_!"
-	* Als opzet voor hoe Bar-Bar zijn magie niet _wil_ gebruiken, maar het uiteindelijk de enige manier is om iets voor elkaar te krijgen.
+
+
 * Ginsea nog meer alles laten beschrijven als formules en regels en logica.
 * Een meer specifiek/concreet moment waarop Ginsea direct soldaten zegt de koning te arresteren, en de koning direct zegt dat ze het niet moeten doen, en de soldaten _weten niet_ wat de bedoeling is? => Of is dit nu al gedaan als Bar-Bar de koning opzoekt in H9?
-* Ik leg een aantal dingen wat dubbelop uit. Dat kan ik schrappen om woorden te winnen.
-	* Ook is die dreiging van "de koning gaat iedereen commanderen om de Barbaren aan te vallen" een beetje vergeten richting het einde? Het is allemaal zo _vol_ met verhaallijnen enzo ...
-* H2: Rivier Tibber => zoek op wat mijn eigenlijke naam voor de Tiber in Rome was.
 * De Wijze Uil zegt dit tegen Wolfar ofzo: "Toen jullie beloofden dat jullie _samenwerkten_ met de Barbaren, was dit niet bepaald wat we voor ogen hadden." 
 	* (Over dat ze dus beweerden alleen maar vrede te hebben, zoals het Kompaanschap commandeert, maar alleen de Hennen gebruikten voor meer oorlog.)
-* Mogelijke manieren om meer tempo erin te zetten:
-	* De koning is slechts tijdelijk hier, daarna reist hij naar ergens anders.
-	* De Barbaren hebben al "soort van goede relaties" met Amor die ze zouden kwijtraken als ze de missie niet doen.
 
 
-@TODO: Geef aan het begin het reglement dat ...
-* "Alleen de getuigenis van een volwassen lid van de koninklijke familie geldt als bewijs." (nadat Wolzam niet serieus wordt genomen, want dat is nog maar een kind)
-* "Overspel---naar bed gaan met een andere partner dan die van jezelf---is te bestraffen met de doodstraf. Alleen als er reden is voor onschuld, of men te lang wacht met de beschuldiging, kan dit verminderd naar celstraf, castratie of publieke vernedering."
 
 @IDEA: Ze gebruiken steeds andere zinnen om "I rest my case" te zeggen => https://www.reddit.com/r/thenetherlands/comments/lg0giv/wat_is_de_nederlandse_versie_van_i_rest_my_case/
 * Dit was mijn spreekbeurt, zijn er nog vragen?
