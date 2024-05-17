@@ -18,7 +18,7 @@ De Amori hadden een groot aandeel in het uitwissen van de godenkinderen, maar al
 
 Met regelmaat werden stukken uit het vee van de Barbaren gehapt. Het was een dreiging die nooit eindigde, maar toch bleven ze op dezelfde manier leven en weigerden een eigen stad op te richten. Zelfs al hadden ze meer dan genoeg dieren en macht ervoor. 
 
-De Grapi bestonden al voordat de Amori kwamen, ze waren altijd al groter geweest, en ze zouden blijven bestaan lang nadat Amor was gevallen. Maar bijna niemand zou dat weten, want ze schreven niks op en lieten dus niks achter.
+_De Grapi bestonden al voordat de Amori kwamen, beste lezer, ze waren altijd al groter geweest, en ze zouden blijven bestaan lang nadat Amor was gevallen. Maar bijna niemand zou dat weten, want ze schreven niks op en lieten dus niks achter._
 
 Nieuwe vreemdelingen kwamen bij het vuur, zoals bijna elke avond. De armste dieren van Amor. Een paar verdwaalde lieden van een andere stam. Een schaap die een oog miste, een geit waarvan één hoorn was afgezaagd---waarschijnlijk door dieven die het voor veel geld wilden verkopen, een wolf met een gezicht vol littekens en een mank loopje. 
 

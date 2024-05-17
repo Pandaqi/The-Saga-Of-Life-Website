@@ -1,148 +1,145 @@
 ---
-title: De Wijze Uil
+title: The Wise Owl
 weight: 6
 ---
-Ginsea's hart wilde uit zijn lijf springen. Hij had elk deel van het paleis gezien in zijn vlucht voor Wolfar, totdat hij eindelijk geen snelle pootstappen meer hoorde. Geen gehijg van een hongerige wolf in zijn rug.
+Ginsea's heart wanted to jump out of his chest. He'd seen every part of the palace during his flight from Wolfar, until the rapid footfalls behind him finally ceased. No more panting from a hungry wolf.
 
-Nee, dat gehijg was vervangen door veel lichter gehijg. En een angstige knor.
+No, the panting had been replaced by a far lighter sound. A soft bleating.
 
-Hij remde af. Vier zwakke kaarsen verlichtten deze stenen gang hoog in het paleis, met zware deuren aan beide kanten. Niemand kwam hier ongehoord in of uit, maar ...
+He slowed down. This stone corridor, up high in the palace, was only lit by four dim candles and had heavy doors on both sides. Sure, the doors had latches on many different heights, to allow all sorts of animals to open and close it. But nobody would enter this corridor _unheard_, unless ...
 
-Zijn poten krabbelden een paar passen terug.
+He took a few steps backward and looked to the side. 
 
-Hij keek opzij. In een donkere nis wachtten drie figuren. Zes glazige ogen die hem smekend aankeken.
+Three figures waited in a dark alcove, six glassy eyes looked at him pleadingly.
 
-Zijn slimme hersenen verbonden de stipjes. Barbarenmissie. Koning doden. Hier zaten drie Barbaren verscholen in een donker hoekje.
+His clever brains connected the dots. Barbarian mission. Kill the king. And here, in a dark corner, he found three Barbarians.
 
-"Wees niet bang," zei Ginsea. "Ik ben niet bepaald een ... vriend van de koningsfamilie."
+"Do not fret," Ginsea said. "I am not exactly a ... friend of the royal family."
 
-"Je ziet er ook niet uit als een spion, harig hamstertje," zei een schaap.
+"You also don't look like a spy, hairy hamster," a sheep said, revealing himself and a rat.
 
-Een rat glibberde naar buiten. "Wacht, ben jij niet de Roddelrat?"
+"Wait, you're the Tattlerat, are you not?"
 
-"Nee. Geen idee waar je 't over hebt." Hij wikkelde zijn snorharen met die van Ginsea. "Tenzij je smeuïge roddels hebt natuurlijk ..."
+"No idea what you're talking about." He twisted his whiskers. "Unless you have some fun gossip for me ..."
 
-Een big kwam erachteraan. 
+A bear also revealed herself. "Quick. What is the fastest route to the king's bedroom?"
 
-"Snel," fluisterde ze, pijn in haar stem. "Wat is de snelste route naar de slaapkamer van de koning?"
+Ginsea pointed in the general direction, ready to explain the path towards it---then dropped his paw and his head.
 
-Ginsea wees in een algemene richting, klaar om de route uit te stippelen. Maar hij liet zijn hoofd zakken.
+"I won't help you," he spoke sadly. "Assassination? That is not the way. We must be _better_ than that. I've been fighting for a week to _lawfully_ throw the king of his throne. This was my speech."
 
-"Maar ik ga jullie ook niet helpen," zei hij droevig. "Sluipmoord? Dat is niet de manier. We moeten beter zijn dan dat. Ik vecht al een week om de koning _wetmatig_ van de troon---"
+"And how is that going so far?" bleated Bar-Bar.
 
-"En hoe gaat dat tot zover?" mekkerde Bar-Bar.
+"Just walk away," Tattlerat said. "Pretend you didn't see us."
 
-"Och, 't is maar een minuutje," zei de Roddelrat. "Loop weg. Doe alsof je ons niet hebt gezien."
+"And what then? The entire Amorin empire sees a bunch of Barbarians who _confirm_ they are criminals and unlawful! They'll pretend the king was amazing, just so they don't have to admit they like what you did."
 
-Ginsea schudde zijn kop. "En wat gebeurt er dan? Het enige dat het hele Amorinse Rijk ziet is een stel barbaren dat _bevestigt_ dat ze criminelen zijn! Ze zullen doen alsof die koning helemaal geweldig was, om maar niet toe te geven dat ze blij zijn met wat jullie deden!"
+Footsteps. A vague echo of panting. Wolfar had rediscovered his trail; cold sweat could apparently be smelled from far away.
 
-Voetstappen. De vage echo van gehijg door de gang. Wolfar had zijn spoor weer gevonden, want angstzweet kon je van ver ruiken.
+The hamster walked away; the trio of spies followed. They turned the corner, towards the dungeons. He was going there anyway to visit poor Himnib.
 
-De hamster liep snel door; het spionnentrio volgde. Ze sloegen de hoek om, richting de kerkers. Daar wilde hij toch al uitkomen om arme Himnib te bezoeken.
+"Those laws of yours are supposed to _help_," Bar-Bar said. "When they stop helping, they must change or go away. But you never manage that, do you?"
 
-"Die wetten van jullie zijn er om te _helpen_," bromde Bar-Bar. "Zodra ze niet meer helpen, moeten ze veranderd of weg. Maar dat lukt niet, of wel?"
+Ginsea's voice squeaked, still offended despite his fear and exhaustion. "Without laws and culture we'd all kill each other! Steal each other's wife! Steal each other's food! You would never be able to sleep, never be able to trust, never be able to work together and build big palaces or aquaducts! And so it is!"
 
-Ginsea's stem piepte, zijn gezicht lijkbleek en zijn poten trillend. "Zonder wetten en cultuur zouden we allemaal elkaar vermoorden! Elkaars vrouw stelen! Elkaars eten stelen! Je kon nooit slapen, je kon niemand vertrouwen, je kon nooit samenwerken om grote paleizen of aquaducten te bouwen."
+They were unable to get a lead on Wolfar, so they picked up the pace.
 
-Ze kregen maar geen voorsprong op Wolfar. Hij moest snel zijn.
+They stood before Himnib's cell. The bear hadn't eaten anything since he'd been locked up, and his sheep didn't fare much better. He responded eagerly to the visitors, even though he was sluggish and his eyes half-closed.
 
-Ze stonden voor Himnibs cel. De beer had niks meer gegeten sinds hij was opgesloten, en zijn schapen zagen er weinig beter uit. Hij reageerde gretig op de bezoekers, al hield vermoeidheid hem sloom en met halfdichte ogen.
+"If you kill the king, then, following law 1.2, Wolfar will become the new king. I have seen tonight ... that this might somehow be _worse_."
 
-"Als je de koning doodt, komt Wolfar aan de macht. Ik heb vanavond gezien ... op een of andere manier ... dat dat _nog_ erger is."
+Ginsea grabbed Himnib's paw through the bars. As a gesture of support, but nothing else, for he had no good news. Himnib was still sentenced to the Flame one of the coming days, and it was _his fault_.
 
-De Barbaren bleven stil bij het zien van Ginsea's doodsbange gezicht. Hij pakte Himnibs poot door het tralies. Als een teken van steun, maar niks anders, want hij had geen goed nieuws te vertellen. Himnib zou binnenkort de Vlam moeten voelen, en dat was _zijn schuld_.
+"Hmm. Sounds like I _am_ in the right place for gossip," the rat started.
 
-"Klinkt alsof ik toch op de juiste plek ben voor roddels," begon de rat.
+"We do this lawfully," Ginsea said fiercely. "We do it publicly, all eyes on us, in a courtroom. Otherwise we are just as bad. Otherwise ..."
 
-"We doen dit volgens de wet. We doen dit openlijk, met iedereen erbij, in een rechtszaal. Anders zijn we net zo slecht. Anders ..."
+Ginsea stared at the slanted, broken floor tiles. All followed this gaze, but saw nothing but proof that Himnib had not received a single visitor or slice of help. Just for breaking some minuscule rules in a list of ten thousand rules, their reason long forgotten.
 
-Ginsea staarde naar de scheve, afgebroken tegels op de vloer. Iedereen volgde zijn blik, maar er was niks anders te zien dan het bewijs dat Himnib geen enkele bezoeker of zorg meer had gehad. Voor het overtreden van een minuscuul regeltje in een lijst van duizenden regeltjes, de reden lang vergeten.
+"Otherwise our entire civilization is for nothing," the hamster mumbled.
 
-"Anders is die hele beschaving voor niks," mompelde de hamster.
+The three spies looked at each other. Solong almost pushed herself _through_ the bars to touch Himnib and tell him things would be alright, to study his wounds and caress his paws.
 
-De drie spionnen keken elkaar aan. De big kon nauwelijks meer op haar eigen poten staan.
+"I have summoned the Wise Owl," Ginsea said.
 
-Hij keerde naar Himnib. Hij had wél goed nieuws. De ogen van de Berenherder lichtten op en zijn schapen drongen bij de tralies in de cel ernaast.
+Himnib managed a faint smile. A smile they all needed. "Ah. Aria will come, surely for her favorite Companion."
 
-"Ik heb de Wijze Uil opgeroepen."
+Then Himnib fainted or fell asleep, they couldn't know.
 
-Himnib lachte. Een lach die ze allemaal nodig leken te hebben. "Ah. Aria zal komen, zeker voor haar favoriete Kompaan."
+Heavy paws stormed down the stairs into the dungeons. The Barbarians decided, without a word, to abort the mission and run for the exit on the other side.
 
-Op dat moment stormden zware pootstappen de helling naar de kerkers af. De Barbaren besloten zonder een woord om de missie af te blazen en renden naar de uitgang aan de andere kant.
-
-Ginsea volgde maar al te graag, maar verliet Amor niet. Hij bleef. Hij trok zelfs naar de rijkste buurten van Amor met een laatste plan in zijn hoofd.
+Ginsea followed gladly, but didn't leave Amor. He stayed. He even went to the richest neighborhoods in Amor with a final plan in his head.
 
 ___
 
-De volgende keer dat Ginsea de rechtszaal instapte, had hij twintig persoonlijke bewakers bij zich. Dat kwam vooral omdat er niet meer in de zaal pasten. Die overstroomde namelijk met alle inwoners van Amor die hij had opgetrommeld.
+The next time Ginsea entered a courtroom, he had twenty personal guards. He wanted fifty, but that didn't fit inside the room. It was already overflowing with the Amor inhabitants he invited.
 
-De Raad vond het vooral vermakelijk. Wolfar stond op uitbarsten.
+The Council found it amusing. Wolfar was about to explode.
 
-De inwoners hadden gehoord van zijn rechtszaak tegen de koning. Ze hadden gehoord van hem, maar vooral de Roddelrat, wat zich had afgespeeld in het paleis. Solong had verhalen verteld over lieve Himnib die vastzat.
+The Amori had heard of his court case against the king. They had heard of the events inside the palace from him, but especially from the Tattlerat. Solong had spread the stories about sweet Himnib who was locked up.
 
-Honderden dieren trokken nu de zaal in met houten planken vol boodschappen en de roep om Ginsea de nieuwe koning te maken. Hij wist nu dat de koning wegkrijgen maar de helft van het gevecht was. Een betere persoon in de plaats zetten was de andere helft.
+Hundreds of animals now crowded the room holding wooden planks filled with angry messages and a call to _make Ginsea the new king_. He now realized removing the king was only half the fight; putting a _better person_ in his place was the other half.
 
-Maar het _ging_ lukken. Volgens de wet, zoals het hoorde.
+But he _would_ succeed. Following the law, as one should.
 
-Hij struinde glimlachend en zelfverzekerd de zaal in, de steun van alle inwoners als een warme deken om hem heen.
+He walked into the room with a smile and confidence, the support of the inhabitants like a warm blanket around his shoulders.
 
-Totdat hij zag wie speciaal vandaag ook besloot aanwezig te zijn.
+Until he saw who decided to attend this meeting as well: _the king himself_.
 
-De koning zelve.
+"Objection!" yelled Ginsea. "The accused may not be judge at their own process!"
 
-"Bezwaar!" riep hij. "De aangeklaagde mag niet de rechter zijn bij zijn eigen proces!"
+"Who says so?" Wolfar grunted. "The law clearly states the king may decide to attend the court at any time and deliver his godly justice on any case."
 
-"Van wie niet?" bromde Wolfar. "De wet zegt duidelijk dat de koning op elk moment mag beslissen een rechtszaak bij te wonen en zijn goddelijke oordeel te vellen."
+He doubted this was the king's own idea. He mumbled nonsense words, spit dripping from his chin. His eyes twisted and twirled, as if he tried to follow a circus act before him. The stench of alcohol hit Ginsea, even at this distance.
 
-Hij betwijfelde ten zeerste dat dit van de koning zelf kwam. Die mompelde onzinwoorden, speeksel langs zijn kin. Zijn ogen draaiden en draaiden, alsof hij een circus voor zijn ogen probeerde te volgen. De stank van alcohol bedwelmde Ginsea zelfs op deze afstand.
+"Fine," said Ginsea. "It won't make a difference. My pile of evidence is too large to topple with vile tricks. That king won't sit on a throne for one day more."
 
-"Prima," riep Ginsea. "Het zal geen verschil maken. Mijn stapel bewijs is te groot om met vuile trucs omver te duwen. De koning zal geen dag langer op de troon zitten."
+"Nonsense!" the king screamed instantly, as if it had been rehearsed.
 
-"Onzin!" krijst de koning, alsof het was ingestudeerd.
+Wolfar kept calm. "Many creatures who agree with you is _no_ proof at all."
 
-Wolfar hield zich kalm. "Veel wezens die het met je eens zijn vormt geen bewijs."
+Ginsea raised a paw. A timid creature, making herself smaller than she was, walked to the center.
 
-Ginsea stak zijn poot uit. Een schuchter dier, die haarzelf kleiner probeerde te maken dan ze was, liep naar het midden.
+"That is true. Only _one_ creature---the right creature---needs to agree with him."
 
-"Dat is waar. Slechts één wezen---het juiste wezen---hoeft zich te melden."
+The wolf stood tall and looked at Wolfar with blood-shot eyes.
 
-Wodriks vrouw rechtte haar rug en keek Wolfar aan met bloeddoorlopen ogen.
+"I am Wenra, late Wodrik's wife, an _adult member_ of the royal family. So my testimony is proof."
 
-"Ik ben Wenra, Wodriks vrouw, lid van de koninklijke familie voor vijf jaar en volwassen. Mijn getuigenis is dus bewijs." Ze slikte. Wolfar sprong al overeind.
+She swallowed. Wolfar was already coming for her.
 
-"Onzin!" riep de koning opnieuw, voordat ze ook maar iets had gezegd. "Deze rechtszaak is een waar schandaal! Ik veroordeel jullie allemaal tot de Vlam, ook de hele Raad!"
+"Nonsense!" the king screamed again, before Wenra had even said anything. "This court case is a sham! I condemn you all to the Flame, including the Council!"
 
-Wolfar duwde de koning terug. "Mijn vader heeft niet goed geslapen."
+Wolfar pushed his father back. "My father, erm, hasn't slept well."
 
-"Onzin!"
+"Nonsense!"
 
-"Je hebt de koning niet eens gezien of gesproken de afgelopen jaren," zei Wolfar zelfverzekerd tegen Wenra. "Alles dat je over hem zegt is een leugen."
+"You haven't even seen the king or spoken to him the past years," Wolfar said to Wenra. "All you say about him is a _lie_."
 
-"Laat de getuige uitpraten," riep Ginsea overal doorheen.
+"Let the witness speak," yelled Ginsea through the chaos.
 
-"Over de koning zeg ik inderdaad niks," zei Wenra, haar gezicht strak. "Ik verklaar dat Wolfar schuldig is aan de moord op Wodrik."
+"I won't say anything about the king, indeed," said Wenra, her face neutral now. "I declare that Wolfar is _guilty_ of the _murder_ of my man, Wodrik."
 
-Lawaai explodeerde van alle kanten. De hele Raad stond overeind en klaar om het centrum van de kamer te bestormen, in de rug geduwd door alle dieren die achter Ginsea stonden.
+Both sides of the isle exploded. The entire Council stood up, ready to storm the center of the room, as the supporters of Ginsea pushed at their back.
 
-"Volgens reglement 3.7.2," piepte Ginsea erbovenuit, "krijgt Wolfar direct de doodstraf. En deze rechtszaak moet een nieuwe rechter krijgen, wat volgens de wet---en dit is zeker---niet de koning zelf mag zijn. En als de koning nu wordt afgezet, wordt zijn enige overgebleven zoon de nieuwe koning."
+"According to rule 3.7.2," Ginsea yelled, "Wolfar is immediately sentenced to death. This court case requires a new judge, which can't be the king himself. And if the king is removed from the throne, his only surviving son would be the new king. And so I have spoken!"
 
-Waar Wolzam dan ook mocht zijn. Of hij kwam terug, en ze hadden een betere koning. Of niet, en Ginsea vulde dat gat.
+Wherever Wolzam may be, as nobody had seen him in a while. Either he returned and they had a better king. Or not, and Ginsea would fill the hole.
 
-"Onzin!" riep de koning opnieuw, tong uit de mond als een klein kind. "Een vrouw mag geen aanklager zijn!"
+"Nonsense!" the king screamed once more, his tongue out of his mouth. "A woman can't be an accusor!"
 
-"_Ik_ ben de aanklager," zei Ginsea. "Zij is slechts getuige."
+"_I_ am the accusor," said Ginsea. "She is merely witness."
 
-Hij glimlachte. De Raad besefte het ook. Ze hadden hem te pakken. Alle dominostenen zouden vallen, wég van de koning.
+He smiled. The Council realized it too: they had him. All the domino pieces would fall, _away_ from the king.
 
-Wolfar spuugde langs Ginsea. "Ik had gehoopt, waarde vijand, dat ik dit niet hoefde doen."
+Wolfar spit past Ginsea. "I had hoped, my respected enemy, that I wouldn't have to do this."
 
-Het volledige leger, dat al een week verzamelde in het paleis, marcheerde de kamer in. De wolven en leeuwen grepen Ginsea en Wenra vast. Ieder raadslid dat protesteerde werd net zo hardhandig afgevoerd.
+The entire army, which had been gathered around the palace for a week now, marched into the room. The wolves and lions grabbed Ginsea and Wenra. Any Council member who protested was removed too.
 
-"Volgens reglement _niemand geeft erom_ veroordeel ik iedereen tot de Vlam, zo snel mogelijk. En zo is het."
+"According to rule _nobody cares_ and rule _I made it up_, I condemn everyone here to the Flame, as quickly as possible. Thus I concluded my judgment."
 
-Hij nam de hamer in zijn bek en sloeg hem oorverdovend hard tegen het hout.
+He took the hammer into his mouth and banged the gavel against his wooden table, like a war drum that signaled his victory over Ginsea.
 
-Wat ging een klein hamstertje doen tegen grote klauwen? Ginsea liet zijn hoofd hangen, zijn hoofd gebroken. Hoe had hij ooit gedacht als kleintje een verschil te kunnen maken tegen sterkere wezens?
+What was a little hamster going to do against large claws? Ginsea dropped his head, his mind broken. How had he _ever_ thought he could make a difference, following the law, against stronger creatures?
 
-Het laatste dat Ginsea zag was een grote grijze uil, door de ramen, die met haar flinke vleugelslagen al het zonlicht verborg.
-
+The last thing he saw as a giant gray owl, through the windows, blotting out the sunlight with every wingbeat.

@@ -102,9 +102,8 @@ _Lees mijn "Revision for Run of Bar-Bar" article terug, die staat in Cyclus over
 * **H2**: Rivier Tibber => zoek op wat mijn eigenlijke naam voor de Tiber in Rome was.
 * **H2**: "Maar Bar-Bar mocht als enige zo nonchalant zijn, want hij was niet te verslaan. Hij had de raarste soort magie in zijn schapenhoeven. Bla bla ..."
 	* "zodra hij een groep dieren helemaal omcirkelde met hekken en opsloot, werden ze meteen zijn vee"
-* **H4/H5**: Bar-Bars speciale magie nog eens laten zien of noemen?
 
-
+* Can't Wolfar now just say "but Wenra did adultery (with me), so she should be sentenced to death"?
 * De Romeinen drinken constant wijn. (In ieder geval de koningszonen.) 
 	* Dit wordt gezien als normaal en zelfs _goed_.
 	* Ook al zorgt dit uiteindelijk dat hij niet bij zinnen is als hij zijn broer doodt.
@@ -117,7 +116,7 @@ _Lees mijn "Revision for Run of Bar-Bar" article terug, die staat in Cyclus over
 	* Ja, moet sowieso suggereren dat hij delen van zijn verleden is vergeten enzo, want hij heeft de Vlam heel kort aangeraakt?
 	* En wanneer/hoe magie precies is gekomen moet ook kloppen
 
-
+* @TODO: Wodriks dood wordt een beetje vergeten, net zoals diens vrouw (en Wolfars vrouw???)
 * Ginsea nog meer alles laten beschrijven als formules en regels en logica.
 * Een meer specifiek/concreet moment waarop Ginsea direct soldaten zegt de koning te arresteren, en de koning direct zegt dat ze het niet moeten doen, en de soldaten _weten niet_ wat de bedoeling is? => Of is dit nu al gedaan als Bar-Bar de koning opzoekt in H9?
 * De Wijze Uil zegt dit tegen Wolfar ofzo: "Toen jullie beloofden dat jullie _samenwerkten_ met de Barbaren, was dit niet bepaald wat we voor ogen hadden." 
@@ -151,15 +150,4 @@ _Lees mijn "Revision for Run of Bar-Bar" article terug, die staat in Cyclus over
 * Ik laat de zaak rusten
 * Haha, ik zei het lekker toch
 
-@TODO: Noem eerder dat de bibliotheek open is voor iedereen (want natuurlijk moeten die edele Amori zich inlezen en intellectueel zijn), en de beste ingang biedt voor de missie van de barbaren.
-* Zo'n missie werkt allemaal een stuk beter als de lezer al van tevoren de plattegrond en obstakels _weet_.
-* **IDEE:** Laat Ginsea een boek lezen in de bibliotheek van Ardex' uitspraken. Ardex (samen met Bella) is het meest van "wetten" en "orde", en het geeft een reden waarom Ginsea zijn uitspraken overneemt. 
 
-
-@TODO: Uitleggen dat alle deuren in paleis kleine balken op alle hoogtes hadden, zodat elk dier ze met poot of bek kon openen en sluiten.
-
-@TODO: Wodriks dood wordt een beetje vergeten, net zoals diens vrouw (en Wolfars vrouw???)
-
-> (OPTIONEEL?) Om dit aan te sterken moeten er echt ONGELOFELIJK veel regeltjes zijn. In de eerste hoofdstukken proberen ze allerlei simpele dingen, maar alles is verboden of heeft een (kleine) straf
-
-@TODO: Dieren om meer te gebruiken zijn geiten, zeehonden, giraffes. (Die mekkeren ook.)

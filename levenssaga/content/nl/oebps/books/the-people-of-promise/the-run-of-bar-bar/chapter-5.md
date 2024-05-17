@@ -2,43 +2,28 @@
 title: Klauwen in de Nacht
 weight: 5
 ---
-Bipi gaf Pilotte een laatste zoen op haar snuit. Haar vriendin zou met smart wachten op haar terugkeer van de missie---en zo niet om haar huilen. Maar niet te lang, hadden ze afgesproken, want je moest vooral van het leven genieten en zeker geen modderbad laten schieten.
 
-De afgelopen dagen had ze flink geslapen en gegeten. Ze hoopte maar dat haar gewonde lichaam genoeg was hersteld voor de missie.
+Het duurde een tijd voordat de Roddelrat en Bar-Bar hun omhelzing eindigden. De tijd was gekomen. Het was nu of nooit voor de missie, en ze hadden geen andere barbaren gevonden die hun leven ervoor wilden riskeren. Alleen Solong deed mee.
 
-Haar moeder vergezelde haar op de tocht uit het gebied. "Je bent veel te gewond, schat."
+Ze liepen door het drukke kamp, terwijl ze onbewust het moment nog eventjes uitstelden.
 
-"We kunnen niet langer wachten. Niet voor onszelf, niet voor Wolzam."
+"Ik weet dat ik je niks kan opleggen," zei Bar-Bar. "Ik weet ook niet hoe ik door zou moeten als je niet terugkwam."
 
-"Ik weet dat ik je niks kan opleggen, schat," zei moeder met een knor. "Ik weet ook niet hoe ik door zou moeten als je niet terugkwam."
-
-Bipi wees naar twee geiten die bovenop elkaar sprongen en de liefde bedreven, onder het geluid van _bar bar bar bar_. Ze schaamden zich nergens voor en verscholen zich niet.
-
-Ze schokschouderde richting haar moeder. "Door nieuwe kinderen te krijgen, duh."
+De Roddelrat wees naar twee geiten, die bovenop elkaar sprongen en de liefde bedreven, onder het geluid van _bar bar bar bar_. Ze schaamden zich nergens voor en verscholen zich niet. Even verderop deden twee konijnen hetzelfde, terwijl anderen voorbij liepen en water of houtblokken tilden.
 
 _Je moet bedenken, beste lezer, dat ook jij uit een bepaalde cultuur komt. Waarschijnlijk een cultuur die vindt dat seks geheim moet blijven, achter gesloten deuren, alleen voor volwassenen. Maar dat is slechts een regeltje dat iemand ooit verzon, zoals de Amori met al hun reglementen en wat wel of niet hoort._
 
-Haar moeder kon nauwelijks erom lachen. "Er zijn geen godenkinderen meer om ons terug te roepen. Geen Ardex---die de anderen Odin noemen---om te zeggen dat we de ziel van Asha niet moeten vergeten."
+De roddelrat glimlachde. "Door nieuwe kinderen te krijgen, duh. Meer dan genoeg schapen die hier rondlopen, toch? Toch?"
 
-"Bla, bla, Asha, Asha." Bipi schuurde een laatste keer langs moeders warme vacht. "Ik denk dat we iets _goeds_ gaan doen. En dat is dat."
+Bar-Bar kon niet erom lachen. De Roddelrat was één van de weinige dieren in zijn leven die er _vrijwillig_ waren, niet omdat zijn magie hen had gedwongen. De eerste keer dat de rat naar Amor wilde reizen, had Bar-Bar het bijna verboden. De hele Grapi stam was nodig om hem te kalmeren en de rat zijn vrijheid te geven, zoals het barbaren betaamde. Op een of andere manier, over tijd, had de Roddelrat de perfecte balans gevonden tussen genieten van de stad en toch een rondreizende Grapi blijven.
 
-Ze voegde zich bij Bar-Bar en een rat. Ze had hem wel vaker rond zien snuffelen, maar wist niet bij welke stam hij nou hoorde.
+Hun relatie werkte. Moesten ze dit echt riskeren?
 
-"Zijn jullie daar eindelijk?" zei de rat ongeduldig. Zijn accent leek niet op die van de andere Barbaren, met veel invloeden van de bekakte woordjes van de Amori. Zijn uiterlijk zag er net zo goed veel te rijk uit, met gouden ringen om zijn staart en zo'n wit gewaad om zijn vacht. 
+"Er zijn geen godenkinderen meer om ons terug te roepen," zei de Roddelrat. "Geen Ardex, of Odin, om te zeggen dat we de ziel van Asha niet moeten vergeten. Om te zeggen wat goed of slecht is. Ik weet het ook niet, Bar-Bar, maar we _proberen_ het goed te doen. Een snelle, pijnloze dood voor een gekke koning die veel ergers heeft gedaan."
 
-"Sorry," zei Bipi tegen Bar-Bar, "maar wie is dit?"
+De Roddelrat had zijn bekakte Amori accent geoefend. Hij droeg nu ook witte gewaden, waardoor hij er rijk en wijn-drinkend uitzag, met gouden ringen rondom zijn staart en een kroon van bloemen. Bar-Bar vroeg zich soms af waarom hij nog terugkeerde, als roddels verspreiden hem zo rijk had gemaakt.
 
-"Ze noemen mij de Roddelrat," zei hij met een grijns. "Zij die weten dat ik besta."
-
-"Hij weet dingen over de koning en het paleis. Alleen met hem kunnen we zonder wapens binnenkomen, de koning vergiftigen, en verdwijnen zonder geweld."
-
-"Maar we _hebben_ wapens en---"
-
-Bar-Bar schudde zijn hoofd. "Ik kan je niet verbieden mee te gaan op deze missie. Maar je bent te zwak om een wapen te zwaaien, Bipi, of te rennen als we worden gepakt."
-
-Bipi knorde gefrustreerd. Pff. Ze zou eens laten zien dat zelfs een gewonde Grapi tien keer meer waard was dan die uitgedoste ganzen van Amor.
-
-Met z'n drieën begonnen ze aan de tocht richting Amor, met niets anders in hun bezit dan een zware taak in hun hart.
+Ze ontmoetten Solong bij de laatste tent, wier vacht de Roddelrat nog steeds overtrof in glimmende schoonheid. Het drietal begon aan de tocht richting Amor, met niets anders in hun bezit dan vergif en een zware taak in hun hart.
 
 ___
 
@@ -48,15 +33,27 @@ De bibliotheek was verlaten, de duistere nacht gevallen, en Ginsea had van dat a
 
 "Stilte!" siste een giraffe die de bibliotheek beheerde, het enige andere aanwezige dier.
 
-Zijn poten schoven vel na vel samen, zijn ogen glijdend over de vele regeltjes, maar het was zinloos. Hij kende het hele wetboek van Amor al uit zijn kop. Ook al werd het alleen maar _langer_: er werden alleen maar wetten toegevoegd, eigenlijk nooit weggehaald.
+Zijn poten schoven vel na vel samen, zijn ogen glijdend over de vele regeltjes, maar het was zinloos. 
 
-Ja, hij had het juiste gedaan door De Wijze Uil te bevelen te komen. Hij hoopte maar dat ze niet te laat kwam voor Himnib ... en alle anderen.
+"_Slechts de getuigenis van een VOLWASSEN lid van de KONINKLIJKE FAMILIE telt in alle gevallen als hard bewijs._"
+
+Hmpf. Alsof die wolvenbroers ooit zouden getuigen tegen hun eigen vader.
+
+"_Overspel---naar bed gaan met een ander dier dan je partner---heeft de doodstraf. Alleen als er genoeg reden is voor onschuld, of men wacht te lang met de beschuldiging, kan het verminderd naar celstraf of publieke vernedering._"
+
+Zoveel wetten. Hij kende het hele wetboek van Amor al uit zijn kop, en geen enkele hielp. En het werd alleen maar _langer_: er werden alleen maar wetten toegevoegd, eigenlijk nooit weggehaald.
+
+In onzekerheid, zoals altijd, keerde hij naar het boek van Ardex. Tijdens diens lange leven had de god eindeloze wijsheid en principes opgeschreven. Jammer genoeg, sinds de ondergang van de goden, was al zijn werk verbannen. Ginsea had zichzelf overtuigd dat hij nooit daadwerkelijk Ardex' werk _las_ en dus geen enkele regel brak. Nee, hij liet soms toevallig het boek vallen en zag toevallig de pagina waarop hij opensloeg.
+
+Maar zelfs de wijze God van de Dood had geen woorden voor deze zaak. Dus ja, hij had het juiste gedaan door De Wijze Uil te bevelen te komen. Hij hoopte maar dat ze niet te laat kwam voor Himnib en alle anderen.
 
 Hij smeet een boek tegen de muur.
 
 "STILTE!" krijste de giraffe.
 
-"Er is niemand---" Hij hield zich in. De giraffe had gelijk. De _regel_ was dat je stil was, zelfs al was het soms een onnodige regel. Regels waren regels. Dat had hij zelf vaker gezegd dan elk ander wezen op Somnia!
+"Er is niemand---" 
+
+Hij hield zich in. De giraffe had gelijk. De _regel_ was dat je stil was, zelfs al was het soms een onnodige regel. Regels waren regels. Dat had hij zelf vaker gezegd dan elk ander wezen op Somnia!
 
 Iedereen interpreteerde de wetten anders. De mensen die aan de macht waren kregen uitzonderingen, maar als je dan aanklaagde ... verscholen ze zich achter andere wetten!
 
@@ -84,7 +81,7 @@ Hij was plots toeschouwer van een raar moment.
 
 Onder hem gooide Wolfar zijn witte gewaad uit. Oh goden en halfgoden. Hij was naakt!
 
-De koningszoon keek gespannen, alsof dit het engste was dat hij ooit deed. Het veranderde in een lach terwijl hij naakt door de kamers struinde.
+De koningszoon keek gespannen, alsof dit het engste was dat hij ooit deed. Het veranderde in een lach terwijl hij naakt door de kamers struinde. Hij dronk wijn uit stenen kommen die netjes om hem heen waren uitgestald---Ginsea wist dat dit verplicht was volgens reglement 10.4.3---en bewonderde zichzelf in de reflectie.
 
 _Je moet bedenken, beste lezer, dat ze natuurlijk gewoon een vacht hadden. Deze wolf zag er precies uit zoals jij een wolf kent, niks vreemds aan. Maar als het de bedoeling was dat je altijd kleren aanhield, was dit stout gedrag en een behoorlijke schok voor Ginsea. Juist die stoutheid was voor Wolfar de reden van deze gewoonte._
 
@@ -112,9 +109,13 @@ Ginsea hapte naar adem tegen de muur, een vergeten toeschouwer vlak buiten de ka
 
 "Waarom zou _jij_ koning mogen zijn?" Wodrik greep in een donker hoekje van de kamer en kwam terug met een tweezijdige speer in zijn bek. "Je bent nog wettelozer dan onze vader!"
 
-"Oh, Wodrik, jij leugenaar. Doe nou niet alsof je nooit hebt gedacht aan _mijn_ vrouw een keertje bezoeken. Zei je laatste niet dat ze te mooi voor me was?"
+"Oh, Wodrik, je weet diep van binnen echt wel dat je jouw vrouw niet verdient en dat je te dom bent om---"
 
-"Argh!" Wodrik viel aan in een duizelingwekkende hagel van speerslagen. Wolfar werd verrast door de snelheid en moest de wolvin met tegenzin loslaten. Hij beet terug, maar Wodrik had wél een gewaad aan en ving de beet veilig op in de doeken.
+"AAAR!" 
+
+Wodrik viel aan in een duizelingwekkende hagel van speerslagen. 
+
+Wolfar werd verrast door de snelheid en liet de wolvin met tegenzin losl. Hij beet terug, maar Wodrik had wél een gewaad aan en ving de beet veilig op in de doeken.
 
 Een speerslag ontmoette Wolfars achterpoot. Hij stortte in elkaar, kreunend van pijn. Maar Wodrik kon het niet afmaken. 
 

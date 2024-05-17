@@ -152,6 +152,6 @@ Standing back on the walls, he'd lost a few of his best pigs, and gained a few n
 
 The rat casually waved at the other animals, then whispered to Bar-Bar. "You must make a decision. The king is leaving soon, and will be away for six months to visit Traferia."
 
-Looking out over Amor, Bar-Bar only saw wolves arresting poor animals for daring to . Turning around and looking the other way, he saw the first Hen soldiers appear on the horizon, closing in on them.
+Looking out over Amor, Bar-Bar only saw wolves arresting poor animals for daring to breathe. Turning around and looking the other way, he saw the first Hen soldiers appear on the horizon, closing in on them.
 
 "I've made my decision," Bar-Bar said, his expression dark. "Let's kill a king."

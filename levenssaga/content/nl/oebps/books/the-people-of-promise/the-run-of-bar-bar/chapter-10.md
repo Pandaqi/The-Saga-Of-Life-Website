@@ -2,6 +2,7 @@
 title: Epiloog
 weight: 10
 ---
+
 Himnib lag tegen een boom en keek versuft uit op het plein. Ginsea stond middenin een kring van dieren en deed zijn verhaal. De Wijze Uil had haar favoriete positie als rechter ingenomen.
 
 "De reglementen zijn helder," zei de hamster. "De oudste zoon wordt de nieuwe koning."
@@ -66,9 +67,11 @@ Solong zag het ook. Als halfgodin begreep ze misschien meer van wat er speelde. 
 
 ___
 
-Wolzam had vrijwel meteen de deuren opengezet voor de Grapi stam en andere Barbaren. Natuurlijk klaagden veel van de Amori. Maar Bar-Bar gebruikte de dieren die _hem_ nu volgden alsof hij hun leider was om meer positieve berichten door de stad te verspreiden.
+Wolzam had vrijwel meteen de deuren opengezet voor de Grapi stam en andere Barbaren. Natuurlijk klaagden veel van de Amori. Maar de Roddelrat veranderde langzaam de publieke opinie door precies de juiste roddels te verspreiden.
 
-Het verlies van al die kippen viel de Hennen zwaar. Ze hadden zich teruggetrokken, maar via een boodschapper laten weten dat ze dit "verraad van Amor" zouden bestraffen en "zouden terugkeren". Wolzam maakte zich geen zorgen, want nu stond hij met de volledige macht van Amori én die van Barbaren tegenover de Hennen die alles opvraten wat ze tegenkwamen.
+Bar-Bar was kwaad op zichzelf dat hij zijn magie weer had gebruikt. Nu had hij honderd Amori die naar hem luisterden en elk commando van hem zouden volgen. Diep van binnen wist hij dat hij geen keuze had en dat dit iets ergers had voorkomen---zoals vele doden onder de Amori tijdens de chaos. Voorzichtig verspreidde hij toch maar positieve gedachten over de barbaren door middel van deze nieuwe ... slaven. Totdat hij, ooit, een manier hoopte te vinden om dieren "los te maken" van zijn magie.
+
+Het verlies van al die kippen viel de Hennen zwaar. Ze hadden zich teruggetrokken, maar via een boodschapper laten weten dat ze "Amor zouden straffen" en "zouden terugkeren". Wolzam maakte zich geen zorgen, want nu stond hij met de volledige macht van Amori én die van Barbaren tegenover de Hennen die alles opvraten wat ze tegenkwamen.
 
 Hoewel de meeste Barbaren vriendelijk _nee_ zeiden tegen zijn aanbod en lekker verder liepen. Iets in hem wilde _meegaan_ en de troon aan iemand anders geven, zoals Ginsea. Maar die begeerlijke kroon was ineens een gehaat voorwerp. 
 
@@ -76,7 +79,9 @@ Ginsea zweerde dat hij nooit meer een rechtszaak wilde bijwonen. Onder Aria's wi
 
 Maar de wetten toepassen? Ze interpreteren zoals het hoorde? Zonder ooit grote fouten te maken en dieren onrechtvaardig op te sluiten? Hij besefte nu dat dit het echte werk was. Werk dat te zwaar lag voor zijn hart.
 
-Wolzam stond alle kritiek op de koning toe en wilde geen voordeeltjes of uitzonderingen voor zichzelf. De Roddelrat was daar minder blij mee. Zijn hele rijkdom kwam van het feit dat mensen hem stiekem roddels gaven, omdat ze zouden worden opgesloten als ze het hardop zeiden. Nu dat allemaal gewoon mocht ... tja, stierven roddels, geheimpjes en foute daden snel uit.
+Wolzam stond alle kritiek op de koning toe en wilde geen voordeeltjes of uitzonderingen voor zichzelf. 
+
+De Roddelrat was daar minder blij mee. Zijn hele rijkdom kwam van het feit dat dieren hem stiekem roddels gaven, omdat ze zouden worden opgesloten als ze het hardop zeiden. En dat hij die roddels net zo stiekem kon doorverkopen, omdat de dieren deze stoute dingen nergens anders zouden horen. Nu dat allemaal gewoon mocht ... tja, stierven roddels, geheimpjes en foute daden snel uit.
 
 Of volgens Ginsea: "Geen deugd zonder zonde. En daarmee is't klaar en gezegd."
 
@@ -84,7 +89,9 @@ Had hij de reglementen goed gevolgd? Of had hij alles vergooid waarvoor hij ston
 
 De waarheid, zag Ginsea nu, was dat je alleen dingen echt kon veranderen op twee manieren. Of je brak alle wetten om betere wetten te krijgen. Of je verzamelde de grootste groep wezens die achter je stond en sowieso deed wat je opdroeg. Alles daartussenin was een modderig pad dat uitliep op een modderig einde.
 
-_Bar-Bar en Bipi keerden terug naar hun stammen, beste lezer, maar niet terug naar hoe het altijd was. Zoveel dieren sloten zich aan dat ze te groot werden. Het werd steeds lastiger om hun levensstijl in kleine groepjes, zonder vaste plek, te behouden. Sterker nog, de meeste nieuwkomers wilden de Amorinse levensstijl nabootsen---in hun ogen waren die huizen, koningen, aquaducten, en meer het ideaal van beschaving._
+Toen Solong vertrok, ging Bar-Bar dan ook met haar mee, in de hoop ergens op Somnia een medicijn tegen zijn magie te vinden. Iets om al zijn slaven weer los te laten. De Roddelrat volgde, want waar ging hij anders heen?
+
+_Zij die niet in zijn macht waren, beste lezer, keerden terug naar de stammen, maar niet terug naar hoe het altijd was. Zoveel dieren sloten zich aan dat ze te groot werden. Het werd steeds lastiger om hun levensstijl in kleine groepjes, zonder vaste plek, te behouden. Sterker nog, de meeste nieuwkomers wilden de Amorinse levensstijl nabootsen---in hun ogen waren die huizen, koningen, aquaducten, en meer het ideaal van beschaving._
 
 Het was ook lastig om de Barbaren te kennen en hun "beschaving" als ideaal te zien. Want ze schreven niks op en ze lieten niks achter. Alles dat andere dieren leerden kwam via andere beschavingen, die meestal neerkeken op deze woestelingen.
 

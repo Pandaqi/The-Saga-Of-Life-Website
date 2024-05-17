@@ -1,48 +1,48 @@
 ---
-title: "De Ren van Bar-Bar"
+title: "The Run of Bar-Bar"
 weight: 5
 date: 2024-06-12
 uniqueID: "the-run-of-bar-bar"
 
 book: true
-timeperiod: 'Het Kompaanschap'
-cycle: 'De Beschavingen van Belofte'
-bundle: 'Barbaren & Hekshaarden'
-character: ["Wolfar (Wolf)", "Wodrik (Wolf)", "Wozam (Wolf)", "Ginsea (Hamster)", "Bar-Bar (Schaap)", "Bipi (Big)", "Roddelrat", "Aria (Uil)", "Himnib (Beer)", "Solong (Beer)"]
-prequel: ["De Vergeten Herder"]
-refers: ["Amor", "Raad van Kame", "Reuzenwolven", "Vlamvreter", "Grapi", "Tibber", "Zandkoning (Claes)"]
-happens: ["Dood Hersenloze Heerser", "Hennenverraad"]
-godlink: ["Solong (Beer)", "Bar-Bar (Schaap)"]
-genre: ["Actief", "Maatschappij", "Macht", "Groeien", "Geschiedenis", "Spionage", "Educatief"]
-teaches: ["Romeinen", "Barbaren", "Hunnen", "Rechtsspraak"]
+timeperiod: 'The Companionship'
+cycle: 'The People of Promise'
+bundle: 'Barbarians & Witchhunts'
+character: ["Wolfar", "Wodrik", "Wozam", "Ginsea", "Bar-Bar", "Tattlerat", "Aria", "Himnib", "Solong"]
+prequel: ["The Shepherd Solong"]
+refers: ["Amor", "Council of Kame", "Giant Wolves", "Flamefeaster", "Grapi", "Tibber", "Sand King"]
+happens: ["Death Mindless Monarch", "Betrayal of the Hens"]
+godlink: ["Solong", "Bar-Bar"]
+genre: ["Active", "Society", "Power", "Growth", "History", "Espionage", "Educational"]
+teaches: ["Romans", "Barbarians", "Huns", "Law"]
 
-blurb: "De koning van Amori is gek geworden. Zijn bevelen breken het rijk op. Natuurlijk wil geen enkele nette Amori diens poten vuil maken, dus schakelen ze de onvoorspelbare Barbaren in voor een duistere missie."
+blurb: "The Amor king has gone mad, his commands nonsensical and unfair. Of course, no proud Amori wants to dirty their paws to solve this issue, and so they turn to the unpredictable Barbarians for a dark mission."
 
 timeline:
   - yearstart: 50
     yearend: 50
 
 readability:
-  - words: 14399
-    lines: 1494
+  - words: 15516
+    lines: 1590
     score: 6
 
 ---
 
-De koning van Amori gaf bevelen
+The Amor king has gone mad
 
-Steeds vreemder en gemener
+Giving commands mean, terrible and bad
 
-Hij was gek geworden, riepen velen
+He's gone insane, so many moan
 
-Maar hoe nam zo'n machtig man de benen?
+But how to kick kings off of their own throne?
 
 &nbsp;
 
-Een Barbaarse missie start voor sluipmoord
+A Barbaric mission starts for the better
 
-Een advocaat gooit het wetboek ertegenaan
+A lawyer throws the book of law at the matter
 
-Maar doen ze wel het juiste
+But is this mission even just or right
 
-Of geven ze hun ondergang vrij baan?
+Or is this the downfall of civilization's might?

@@ -20,7 +20,7 @@ De soldaten zuchtten en sloten alles af.
 
 Himnib rammelde aan de poort. "Ik kan hier toch niet blijven? Mijn schapen hebben hier geen ruimte om---"
 
-Twee van zijn schapen waren al begonnen aan iemands voortuin. Een derde klom op een dak om luidkeels een nummer ten gehore te brengen.
+Twee van zijn schapen waren al begonnen aan iemands voortuin. Een derde klom op een dak om luidkeels een nummer ten gehore te brengen. Als hij had gehoopt daarmee vrouwtjesschapen aan te trekken, dan had hij het verkeerd. Barina, een van zijn oudste en trouwste schapen, bleef als enige aan zijn zijde.
 
 "Hé! Ik ben anders wel een Kompaan!"
 
@@ -36,11 +36,17 @@ Een vrouwelijke Prima, tijdelijk op twee benen, smeet een bak ijskoud water over
 
 Himnib sloeg zijn wandelstok op de grond, hard genoeg om paarse vonken te maken. Zijn schapen vormden meteen een nette rij en volgden hem terug de stad in.
 
-Hij passeerde twee Reuzenwolven. Ze droegen een wit gewaad dat losjes om hun lijf wikkelde en een kroon van gevlochten bloemen. Ze hadden een accent dat hij normaal alleen hoorde in de Raad van Kame als iemand héél graag wilde dat anderen hem slim vonden.
+Hij passeerde twee Reuzenwolven. Ze droegen een wit gewaad dat losjes om hun lijf wikkelde en een kroon van gevlochten bloemen. Ook hing een buidel rond hun nek met daarin vele liters wijn. Ze hadden een accent dat hij normaal alleen hoorde in de Raad van Kame als iemand héél graag wilde dat anderen hem slim vonden.
 
 "Ik zou wel willen, Rodrik," zei de een. "Maar de koning heeft vorige week nog verkondigd dat elke dag moet beginnen met een uur bidden ... tot hém! Ik houd geen tijd over om iets te doen!"
 
-"Zat eraan te komen," zei Rodrik terwijl zijn verachtende blik over Himnibs kudde gleed. "Weet je nog die straatartiest? Die tien jaar elke dag op het plein stond? Opgepakt en veroordeeld tot de dood, zonder reden."
+"Zat eraan te komen," zei Rodrik terwijl zijn verachtende blik over Himnibs kudde gleed. "Weet je nog die straatartiest? Die tien jaar elke dag op het plein stond? Opgepakt en veroordeeld tot de dood, zonder reden. Ze zeggen dat de koning wakker werd van een nachtmerrie, rond middernacht, en die artiest was twee uur later dood."
+
+"Hoe weet jij dit soort dingen altijd?" zei de ander licht jaloers. "Ik hoor nooit leuke roddels!"
+
+Leuke roddels? De dood van een onschuldige artiest? Himnib wilde Amor nog sneller verlaten dan eerst.
+
+Rodrik glimlachte, pulkte aan zijn witte gewaden, en nam slokjes wijn. "Niemand zoekt de Roddelrat. De Roddelrat komt naar jou toe---als je waardig bent."
 
 Himnib schudde zijn hoofd---en struikelde over een hamster die hij daardoor niet zag.
 
@@ -62,7 +68,7 @@ Ginsea kuchte. "Jouw schapen hebben _meermaals_ andermans terrein bewandeld en a
 
 Eén van de wolven gniffelde. 
 
-"Je hebt gelijk," zei hij met een valse grijns. "Hun taaltje klinkt echt alsof ze de hele tijd _bar bar bar bar_ zeggen."
+"Je hebt gelijk," zei hij met een valse grijns tegen de andere soldaat. "Hun taaltje klinkt echt alsof ze de hele tijd _bar bar bar bar_ zeggen."
 
 Ze trokken hem door de straat. Hij had niks verkeerd gedaan! Het weerhield een paar Amori er niet van om wat rot fruit naar zijn hoofd te gooien.
 
@@ -72,9 +78,9 @@ Hij ging nu zien hoe eerlijk die precies waren.
 
 Ginsea duwde hem een donkere zaal van marmer in. Achter een verhoogd houten tableau stond een rechter met hamer. 
 
-Himnib had veel van de wereld rondgelopen met zijn kudde. Hij had wel vaker dieren meegemaakt die te weinig te doen hadden en hem irriteerden.
+Himnib had veel van de wereld rondgelopen met zijn kudde. Hij had wel vaker dieren meegemaakt die te weinig te doen hadden en hem irriteerden, dus hij fluisterde in Ginsea's oor. 
 
-"Is dit nodig?" fluisterde hij in Ginsea's oor. "Zo'n klein vergrijp? Wat is de straf? Twee keer sorry zeggen?"
+"Is dit nodig? Zo'n klein vergrijp? Wat is de straf? Tweemaal _sorry_ zeggen?"
 
 "Zoiets," fluisterde hij terug. "Maar als we dit soort dingen niet bestraffen, gaan dieren straks nóg meer reglementen breken, en nog meer, totdat we _niks_ meer bestraffen! Het zou barbaars zijn! Chaos! Een beetje ... ja, zoals _jullie_."
 
@@ -86,7 +92,7 @@ Ginsea deed zijn verhaal over de zeven piepkleine reglementjes die Himnib _techn
 
 De kleine hamster maakte zich lang, wat op geen enkele manier intimiderend was. "Verbijsterd! Ik ben verbijsterd! Een rechter hoort---"
 
-De _koning_ wandelde de zaal in. De Reuzenwolf brabbelde over heksen, geesten en een vliegende kip. Hij keek even naar de rechter. Hij knikte, fluisterde iets in zijn oor, en liep net zo verdwaasd door de andere uitgang verder, zonder Himnib één keer aan te kijken.
+De _koning_ wandelde de zaal in. De Reuzenwolf brabbelde over heksen, geesten en een vliegende kip. Hij keek naar de rechter, fluisterde iets in zijn oor, en liep net zo verdwaasd door de andere uitgang, zonder Himnib één keer aan te kijken.
 
 "Ongelofelijk!" barstte de rechter uit. "En dat laten we toe in onze stad? Zulke barbaren? Dit eist de _hoogste_ straf!"
 
@@ -106,13 +112,13 @@ Ginsea werd lijkbleek. "De Vlam? Dat is wáánzin."
 
 "Dat ... dat," prevelde Ginsea, niet in staat Himnib aan te kijken. 
 
-Hij werd uit de zaal geduwd. Zijn poten wilden zijn schapen strelen en geruststellen, maar ze werden ruw uit elkaar getrokken. Hij in de ene koude, grijze cel---zijn schapen met alle honderd in een ander veel te klein hokje. 
+De bewakers duwden hem uit de zaal. Hij wilde zijn schapen strelen en geruststellen, maar ze werden ruw uit elkaar getrokken. Hij in de ene koude, grijze cel---zijn schapen met alle honderd in een ander veel te klein hokje. 
 
 "Dat is haast nog erger dan de doodstraf," fluisterde Ginsea. "Wie de Vlam ondervindt, vergeet en wordt vergeten."
 
 "_Vergeten_?"
 
-Ginsea zocht rechter Wolfar, maar die was al weggelopen om te beginnen aan het avondeten.
+Ginsea zocht rechter Wolfar, die was weggelopen richting een tafel vol voedsel en wijn.
 
 "Dit is een schande!" riep hij. "Dit was niet de bedoeling van onze wetten!"
 
@@ -122,7 +128,7 @@ Wolfar keerde om, een stuk vlees half uit zijn mond. "Himnib is geen Amori, of w
 
 "Onze wetten gaan alleen over hoe Amori rechtvaardig worden behandeld. Alles daarbuiten mag ik lekker zelf bepalen."
 
-Ginsea krabte zijn tempel. Hij haalde een boek tevoorschijn uit een buidel over zijn rug en las razendsnel alle reglementen. 
+Ginsea krabde zijn tempel. Hij haalde een boek tevoorschijn uit een buidel over zijn rug en las razendsnel alle reglementen. 
 
 "Hij heeft geen gelijk, toch?" zei Himnib hoopvol. De hamster die net nog een irritant beestje was veranderde plots in zijn enige schild.
 

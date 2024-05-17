@@ -22,9 +22,9 @@ Een rat glibberde naar buiten. "Wacht, ben jij niet de Roddelrat?"
 
 "Nee. Geen idee waar je 't over hebt." Hij wikkelde zijn snorharen met die van Ginsea. "Tenzij je smeuïge roddels hebt natuurlijk ..."
 
-Een big kwam erachteraan. 
+Een beer kwam erachteraan. 
 
-"Snel," fluisterde ze, pijn in haar stem. "Wat is de snelste route naar de slaapkamer van de koning?"
+"Snel," fluisterde ze. "Wat is de snelste route naar de slaapkamer van de koning?"
 
 Ginsea wees in een algemene richting, klaar om de route uit te stippelen. Maar hij liet zijn hoofd zakken.
 
@@ -34,7 +34,7 @@ Ginsea wees in een algemene richting, klaar om de route uit te stippelen. Maar h
 
 "Och, 't is maar een minuutje," zei de Roddelrat. "Loop weg. Doe alsof je ons niet hebt gezien."
 
-Ginsea schudde zijn kop. "En wat gebeurt er dan? Het enige dat het hele Amorinse Rijk ziet is een stel barbaren dat _bevestigt_ dat ze criminelen zijn! Ze zullen doen alsof die koning helemaal geweldig was, om maar niet toe te geven dat ze blij zijn met wat jullie deden!"
+Ginsea schudde zijn kop. "En wat gebeurt er dan? Het enige dat het hele Amorinse Rijk ziet is een stel barbaren dat _bevestigt_ dat ze criminelen zijn! Ze zullen doen alsof die koning helemaal geweldig was, om maar niet toe te geven dat ze blij zijn met wat jullie deden! En zo heb ik gesproken!"
 
 Voetstappen. De vage echo van gehijg door de gang. Wolfar had zijn spoor weer gevonden, want angstzweet kon je van ver ruiken.
 
@@ -42,7 +42,7 @@ De hamster liep snel door; het spionnentrio volgde. Ze sloegen de hoek om, richt
 
 "Die wetten van jullie zijn er om te _helpen_," bromde Bar-Bar. "Zodra ze niet meer helpen, moeten ze veranderd of weg. Maar dat lukt niet, of wel?"
 
-Ginsea's stem piepte, zijn gezicht lijkbleek en zijn poten trillend. "Zonder wetten en cultuur zouden we allemaal elkaar vermoorden! Elkaars vrouw stelen! Elkaars eten stelen! Je kon nooit slapen, je kon niemand vertrouwen, je kon nooit samenwerken om grote paleizen of aquaducten te bouwen."
+Ginsea's stem piepte, zijn gezicht lijkbleek en zijn poten trillend. "Zonder wetten en cultuur zouden we allemaal elkaar vermoorden! Elkaars vrouw stelen! Elkaars eten stelen! Je kon nooit slapen, je kon niemand vertrouwen, je kon nooit samenwerken om grote paleizen of aquaducten te bouwen. Mijn betoog is klaar."
 
 Ze kregen maar geen voorsprong op Wolfar. Hij moest snel zijn.
 
@@ -60,11 +60,9 @@ Ginsea staarde naar de scheve, afgebroken tegels op de vloer. Iedereen volgde zi
 
 "Anders is die hele beschaving voor niks," mompelde de hamster.
 
-De drie spionnen keken elkaar aan. De big kon nauwelijks meer op haar eigen poten staan.
+De drie spionnen keken elkaar aan. Solong streelde Himnib, probeerde bijna _door_ de tralies bij hem te komen, terwijl ze hem lief toesprak dat het allemaal goed zou komen.
 
-Hij keerde naar Himnib. Hij had wél goed nieuws. De ogen van de Berenherder lichtten op en zijn schapen drongen bij de tralies in de cel ernaast.
-
-"Ik heb de Wijze Uil opgeroepen."
+"Ik heb de Wijze Uil opgeroepen," zei Ginsea.
 
 Himnib lachte. Een lach die ze allemaal nodig leken te hebben. "Ah. Aria zal komen, zeker voor haar favoriete Kompaan."
 
@@ -138,7 +136,7 @@ Wolfar spuugde langs Ginsea. "Ik had gehoopt, waarde vijand, dat ik dit niet hoe
 
 Het volledige leger, dat al een week verzamelde in het paleis, marcheerde de kamer in. De wolven en leeuwen grepen Ginsea en Wenra vast. Ieder raadslid dat protesteerde werd net zo hardhandig afgevoerd.
 
-"Volgens reglement _niemand geeft erom_ veroordeel ik iedereen tot de Vlam, zo snel mogelijk. En zo is het."
+"Volgens reglement _niemand geeft erom_ en _ik verzin dit terplekke_ veroordeel ik iedereen tot de Vlam, zo snel mogelijk. En zo is het."
 
 Hij nam de hamer in zijn bek en sloeg hem oorverdovend hard tegen het hout.
 

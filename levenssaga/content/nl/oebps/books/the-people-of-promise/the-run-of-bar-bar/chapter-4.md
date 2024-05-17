@@ -2,31 +2,36 @@
 title: Horende Oren, Ongelovige Ogen
 weight: 4
 ---
-In het holst van de nacht plaatste Bar-Bar een scheve ladder tegen de buitenmuren van Amor. De Grapi gebruikten deze normaal om langs natuurlijke obstakels te komen tijdens het rondreizen. Maar vanavond had het een duisterder doel.
+
+Bar-Bar plaatste een scheve ladder tegen de buitenmuren van Amor. De muren herinnerden hem aan de keer dat hij zijn magie misbruikte en een heel grasveld omringde. Hij kon alleen maar lachen om het feit dat de Amori vrijwillig zichzelf hadden opgesloten en het beschaving noemden. 
+
+De Grapi gebruikten deze normaal om langs natuurlijke obstakels te komen tijdens het rondreizen. Een van de weinige voorwerpen die ze altijd bij hielden, terwijl de rest werd achtergelaten of afgebroken. Vanavond, echter, had het een duisterder doel.
 
 _Geen ladder zoals jij die kent, beste lezer, maar eentje voor andere diersoorten. Meer een dikke plank met ongelijke gaten erin voor poten. Op dezelfde manier droegen ze geen wapens zoals jij ze kent, maar helmen met stekels of hoorns, en misschien een tweezijdige speer die ze in hun bek konden houden._
 
-Bipi rende over de ladder en landde samen met vier andere Barbaren aan de overzijde. Sinds de koning alle soldaten had teruggeroepen was het makkelijk binnenkomen in de hoofdstad.
+De Roddelrat rende over de ladder en landde aan de overzijde, samen met Bar-Bar en zijn twee sterkste biggen, die bijna volwassen waren. Sinds de koning alle soldaten had teruggeroepen was het makkelijk binnenkomen in de hoofdstad. Makkelijk voor barbaren; net zo makkelijk voor de dodelijke Hennen.
 
 "Onthoud, lieve spionnetjes," zei Bar-Bar, "dat we hier alleen zijn voor verkenning. Deze missie ruikt naar een grote fout---en stinkende Amori natuurlijk. Ik zoek vooral redenen om het _niet_ te doen."
 
-Bipi knikte. Ze wist nog steeds niet of ze dit risico wel wilde nemen voor Amor. Wat als het een valstrik was? Als de koning weg was, kwam Wolfar aan de macht, en wie zei dat hij de Barbaren niet net zo goed zou lastigvallen? 
-
-Moeder had gelijk. Die Asha, zo lang geleden, hadden gelijk. Leven in grote groepen, leven in grote steden, het zorgde alleen maar voor _problemen_.
-
-Maar ze was te geïnteresseerd om deze kans af te wijzen.
-
 Ze bleven in de schaduwen. Dankzij de ladders konden ze over daken blijven klimmen en hoefden ze nauwelijks naar de grond, waar her en der wezens rondliepen of zelfs al hun kraampje opzetten voor morgenochtend.
+
+"Sommige Amori zullen ons over de muren hebben zien komen," zei de Roddelrat. "Het is beter als ik wat valse roddels erover verspreid, dan dat ze hun eigen conclusies gaan trekken."
+
+"Denk je _echt_ dat dieren hun warme bedje gaan verlaten, rond middernacht, om dit te rapporteren aan---"
+
+Steeds meer wolvensoldaten vulden de straten. Ze keken specifiek naar de daken, waardoor de Barbaren zich plat tegen de dakpannen drukten.
+
+De Roddelrat glimlachte. "Jep. Die goede, nobele, wettelijke Amori zouden dat doen."
 
 Niet dat ze echt bang waren te worden gepakt. Die wezens konden hen toch niet te pakken krijgen bij een achtervolging, struikelend over hun witte gewaden!
 
-Zo kwamen ze ongezien vlakbij een uiterste toren van het paleis. Bar-Bar klom op de schoorsteen om door het raam naar binnen te kijken. Bipi schuifelde dichterbij om te luisteren.
+Zo kwamen ze ongezien vlakbij een uiterste toren van het paleis. Bar-Bar klom op de schoorsteen om door het raam naar binnen te kijken; de Roddelrat schuifelde dichterbij om te luisteren.
 
 In de kamer brandde slechts één kaars. Het licht werd regelmatig even onzichtbaar omdat iemand voorlangs liep.
 
 "... dat zal je leren," zei Wolfar met een grom. "Je grote mond opentrekken. Tegen je eigen vader getuigen!"
 
-Een klap. Iemand jammerde van de pijn. Bipi wilde dichterbij, maar Bar-Bar trok haar terug voordat ze van het dak tuimelde.
+Een klap. Iemand jammerde van de pijn. De Roddelrat wilde dichterbij, maar Bar-Bar trok haar terug voordat ze van het dak tuimelde.
 
 "Je brengt ons allemaal in een verschrikkelijke situatie. Voortaan houd je je bek."
 
@@ -40,11 +45,11 @@ Een derde wolf kwam de kamer in. "Onze spionnen berichtten dat enkele Barbaren r
 
 "Wat zei ik nou over je bek houden?" Wolfar schopte hem nog een keer en liep plots naar het raam om naar buiten te kijken.
 
-Bar-Bar drukte zich plat tegen het dak, gehuld in schaduwen. Bipi en de rest probeerden hetzelfde te doen.
+Bar-Bar drukte zich plat tegen het dak, gehuld in schaduwen, en moest de twee biggen stevig vasthouden achter de schoorsteen. Wolfar keek over hun hoofden, onwetend.
 
-Hij keek zo over hen heen, naar de sterrenhemel.
+"Dat is waar je thuishoort," bromde hij tegen zijn jongste broertje. "Bij de Barbaren. Ze vreten je op! Het zijn kannibalen! Ze hebben géén regels, géén baas, géén schone huizen. Ze dragen niet eens kleding en drinken geen wijn. Het is precies de modderpoel waar jij vandaan komt."
 
-"Dat is waar je thuishoort," bromde hij tegen zijn jongste broertje. "Bij de Barbaren. Ze vreten je op! Het zijn kannibalen! Ze hebben géén regels, géén baas, géén schone huizen. Het is precies de modderpoel waar jij vandaan komt."
+Wodrik en Wolfar dronken een heel glas wijn in één keer op. Wolzam weigerde een druppel wijn te drinken.
 
 Wodrik knorde. "Teveel modder in zijn brein. Dat is vast waar het misging bij hem."
 
@@ -64,37 +69,37 @@ Wodrik keek opzij. De gouden sieraden om zijn hele lichaam schitterden maanlicht
 
 Wolfar grijnsde. "Ik heb mijn bruid gevonden. Wisira. Beeldschoon. Lief. De perfecte koningin."
 
-Wodrik keek nors. "Ik ... ik heb anders ook mijn bruid gevonden. Mooier dan die van jou. Liever. Een veel betere koningin."
+Wodrik keek nors. "Ik ... ik heb anders ook mijn bruid gevonden. Mooier dan die van jou. Liever dan lieverst! Een veel betere koningin."
 
-"Jammer dan dat ze dat nooit gaat zijn," zei Wolfar luchtig. 
+"Jammer dan dat ze dat nooit gaat zijn," zei Wolfar luchtig. "Wisira is al mijn vrouw, ik heb het juiste papierwerk ingevuld. Ik moet het alleen nog aan haar vertellen."
 
-Zijn broer beet gefrustreerd een stuk klimop van de muur.
+"Wat als ze alsnog _nee_ zegt tegen jouw lelijke gezicht?" zei zijn broer, maar half plagerig.
 
-"Ik vraag Wisira volgende week om mijn vrouw te zijn. Ze moet wel ja zeggen. Het zou _ongehoord_ zijn om het niet te doen. "
+"We ..."
 
-"Wat als ze toch _nee_ zegt tegen jouw lelijke hoofd?" zei Wodrik maar half plagerig.
+Wolfar werd plots ongemakkelijk, kleiner en jonger. Hij gebaarde naar zijn broer, niet in staat om wat simpele woordjes te zeggen. _We hebben gepaard._ Zelfs niet: _We hebben een bed gedeeld._ 
 
-"Dan dwing ik haar. Ze is veel te knap om me nog langer ... in te houden. Binnenkort krijgen we een kind. En dan zal de koninklijke lijn altijd door mijn aderen stromen."
+Toen zijn broer hem begreep, knikte hij en keek weg, en zoals nobele Amori besloten ze niks meer te zeggen over het onbeschaafde onderwerp van reproductie.
+
+"Binnenkort krijgen we een kind. En dan zal de koninklijke lijn altijd door mijn aderen stromen, de enige hier met een werkend brein. En zo heb ik gesproken."
 
 Ze keken allebei achterom. 
 
-"Bij jou niet, hè?" zei Wolfar tegen Wolzam, die nog krioelde op de grond van de pijn. "Ik snap je zorgen, Wodrik. Ik weet niet of we die duivel ooit uit ons broertje kunnen slaan. Het is absoluut ondenkbaar dat ooit naar buiten komt dat hij ... dat hij iets voelde voor een jongenswolf. Een schande! We zouden net zo goed door de grond kunnen zakken!"
+"Maar jij zal nooit de koninklijke lijn doorzetten, hè?" zei Wolfar tegen Wolzam, die nog krioelde op de grond van de pijn. "Ik snap je zorgen, Wodrik. Ik weet niet of we die duivel ooit uit ons broertje kunnen slaan. Het is absoluut ondenkbaar dat ooit naar buiten komt dat hij iets voelde voor ... Een schande!"
 
 "Voelt," kraakte Wolzam met een pijnlijke adem.
 
-Zijn broers draaiden om en verkochten hem nog een klap.
+Zijn broers draaiden om en verkochten hem nog een klap. 
 
-Bipi hield het niet meer. Verblind door de schitteringen in haar ogen, keilde ze met veel lawaai van het dak, rollend als een boomstam totdat ze slechts lege lucht voelde.
+De Roddelrat liet de anderen los om deze roddels meteen op te schrijven. Daardoor hield Bar-Bar de balans niet meer, waardoor de biggen van het dak rolde als boomstammen, totdat ze slechts door lege lucht rolden.
 
-Bar-Bar snelde omlaag om haar op te vangen, maar kwam te laat.
+Bar-Bar snelde omlaag om hen op te vangen, maar kwam te laat.
 
-Gelukkig viel ze rechtstreeks richting een kar met graan, als een zacht kussen om---
+Gelukkig vielen ze rechtstreeks richting een kar met graan, als een zacht kussen om---
 
-Totdat de eigenaar de kar uit alle macht wegtrok en haar op de harde grond liet vallen.
+Totdat de eigenaar de kar uit alle macht wegtrok en de biggen op de harde grond liet vallen.
 
 "Ieuw! Ga weg, beest!"
-
-De lucht klapte uit Bipi's longen. Haar dikke biggenlijf ving de klap goed op, maar ze wist zeker dat al haar ledematen waren gekneusd. Ze had te veel pijn om te bewegen of haar ogen te openen.
 
 "Wat doe je nou?" schreeuwde Bar-Bar naar de graanboer.
 
@@ -102,17 +107,17 @@ De lucht klapte uit Bipi's longen. Haar dikke biggenlijf ving de klap goed op, m
 
 "Graan _groeit_ in modder!"
 
-De eigenaar duwde de kar snel naar de volgende straat. 
+De eigenaar duwde de kar snel naar de volgende straat. De wolven, die al naar hen op zoek waren, bereikten nu deze straat en omcirkelden de barbaren.
 
-Bipi voelde dat iemand haar voorzichtig oppakte en haar verwondingen bekeek. Maar toen ze haar ogen opende, keek ze niet in het gezicht van Bar-Bar, maar dat van een beer.
+De biggen leefden, maar hadden nog steeds niet bewogen of hun ogen geopend. Bar-Bar kon er slechts één tillen, en was verbaasd toen een beer de andere optilde.
 
-Een vrouwelijke Berenherder met glanzende vacht en lieve ogen. Bipi voelde een bijzonder aura om de berin dat ze herkende als iemand met magie. Vast een halfgod, afstammeling van de godenkinderen die ze nog graag om haar heen had willen hebben.
+Een berin met glanzende vacht en lieve ogen. Bar-Bar voelde een speciale aur om haar heen die hij associeerde met magie. Een halfgod dus, kind van de originele geden.
 
 "Ik ben Solong, Berenherder en Kompaan. Weet een van jullie waar Himnib is? Ik had hem al dagen geleden moeten ontmoeten vlak buiten Amor."
 
-Bar-Bar schudde zijn schapenhoofd terwijl hij Bipi overpakte. Een konijn sprong uit de schaduwen om ook te helpen.
+Bar-Bar wist het niet, maar hij kon het wel raden.
 
-"Bereid je voor op het ergste," zei hij droevig tegen de beer. "De koning laat nu al jaren dieren mysterieus verdwijnen. Je ziet ze nooit meer terug."
+Een konijn sprong uit de schaduwen om ook te helpen. "Bereid je voor op het ergste," vertelde hij de beer. "De gestoorde koning laat nu al jaren dieren mysterieus verdwijnen. Je ziet ze nooit meer terug."
 
 De konijnen bleken een familie zonder huis. "Himnib? De Kompaan?" zei de vrouw. "Ja, die is opgepakt en veroordeeld tot de Vlam."
 
@@ -120,20 +125,46 @@ De konijnen bleken een familie zonder huis. "Himnib? De Kompaan?" zei de vrouw. 
 
 "Voor niks natuurlijk."
 
-"En dat is wat ze met ons Barbaren doen," gromde Bar-Bar, "als we niet snel verdwijnen."
+De wolvensoldaten hadden hen eindelijk bereikt. Bar-Bar keek om zich heen, maar zag geen uitweg. Niet terwijl ze twee zware biggen tilden.
+
+De magie brandde in hem. Slechts een kleine uitbarsting van energie, een loopje magie, en hij zou de hele situatie oplossen.
+
+Maar _nee!_ Hij zou nooit meer een ander dier tot zijn slaaf maken.
+
+"En verdwijnen is wat ze met ons Barbaren doen," gromde Bar-Bar, "als we niet snel vluchten."
 
 Normaal gesproken deinsden dieren terug bij dat woord. Sterker nog, de meeste konden van afstand zien of iemand bij de Grapi hoorde en meteen doen alsof ze moesten kotsen.
 
 Dus waarom bleven deze staan en helpen?
 
-Bar-Bar bedankte hen voor de zorg, maar wilde zo snel mogelijk met de gewonde Bipi de stad uit. De andere Barbaren hadden kort het paleis bestudeerd op mogelijke ingangen en gevaren. 
+"Jullie staan onder arrest!" riepen de wolven. "Poten omhoog, wapens weg---"
 
-Ze hadden gehoord wat ze moesten horen, en wisten wat ze moesten weten.
+"Waarvoor?" probeerde Bar-Bar in een neutrale stem, zijn laatste poging.
 
-Maar toen Bipi de ogen opende, zag ze hoe de konijnen en de beer _meeliepen_. Ze keken vragend, bijna smekend, voor de kans om, tja, te mogen meelopen met een stel Barbaren naar een groep tenten in de wildernis.
+"Jullie hebben wetten 4.3.2, 6.7, 9.1.2 gebroken. En natuurlijk---"
+
+"En die zeggen? We hebben niks verkeerd gedaan. We lopen slechts rond en helpen gewonde dieren!"
+
+"Het is verboden in Amor te lopen zonder kleding. Kinderen mogen niet buitenshuis zijn gedurende de nacht. Je hebt hier geen macht, _barbaar_."
+
+"Nog belangrijker," zei een grotere wolf. "De koning heeft het bevel gegeven om alle biggen per direct te doden. We volgen slechts commando's, hè, dat begrijp je toch wel?"
+
+De wolven bewogen razendsnel en grepen de biggen, die zichzelf nu niet konden verdedigen. Voordat iemand kon protesteren, werden ze bruut vermoord met een grove beet.
+
+Bar-Bar's spieren trokken strak, maar hij zuchtte diep en liet het gaan. De Asha, van zo lang geleden, hadden nog steeds gelijk. Leven in grote groepen en steden met één leider---het zorgde alleen maar voor meer _problemen_ en _ongelijkheid_.
+
+Dit gevecht was verloren. Maar hij zou de oorlog winnen.
+
+Terwijl hij vluchtte, echter, gingen de konijnen en beer _met hem mee_. Hun ogen stonden vragend, bijna smekend, voor de kans om met Bar-Bar terug naar de wildernis te lopen.
 
 _Ze zochten wat van die Amori beschaving onder de Barbaren, beste lezer, omdat ze de barbaarse behandeling van de Amori niet meer konden verdragen._
 
-"Ik doe de missie," fluisterde ze, alsof ze niet te gewond was om ook maar te praten. "Maar niet om Wolfar te helpen. Om Wolzam te redden, en Himnib, en wie dan ook lijdt onder een hersenloze heerser."
+Eenmaal terug op de muren, had hij zijn beste biggen verloren, maar een paar nieuwe vreemdelingen gewonnen. De Roddelrat kwam weer terug, buiten adem.
 
-Bar-Bar keek duister. "Ik doe ook mee."
+"Ik heb plattegronden van de belangrijkste delen," zei hij. "Verruild voor wat roddels over de koninklijke familie in Traferia. En ik heb ontdekt dat de bibliotheek altijd open en toegankelijk is voor iedereen, maar 's nachts zo goed als verlaten."
+
+De rat zwaaide nonchalant naar de andere dieren. Hij fluisterde richting Bar-Bar: "Je moet een keuze maken. De koning vertrekt snel en zal zes maanden weg zijn op bezoek aan Traferia."
+
+Terwijl hij uitkeek over Amor, zag Bar-Bar de wolven nog meer dieren arresteren voor het lef om te bestaan of adem te halen. Als hij omdraaide, en de andere kant bekeek, zag hij de eerst soldaten van de Hennen aan de horizon.
+
+"Ik heb mijn besluit genomen," zei Bar-Bar, zijn blik duister. "Laten we een koning doden."

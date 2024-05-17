@@ -1,93 +1,89 @@
 ---
-title: Barbaar tegen Barbaar
+title: Barbarian against Barbarian
 weight: 7
 ---
-Verbazing trok door de Grapi stammen toen de spionnen terugkwamen ... en _niks_ hadden gedaan. Waren ze wel in het paleis gekomen? Ja, dat waren ze. Hadden ze de kans de koning te doden? Jazeker.
+Surprise traveled through the Grapi tribes when the spies returned ... and had done _nothing_. Had they even arrived at the palace? Yes. Had they had the chance to kill the king? For sure.
 
-Het maakte de situatie nog onbegrijpelijker voor degene die achter de missie stonden. De andere dieren knikten tevreden hun hoofd, alsof ze wisten dat de vredelievende ziel van Asha zou zegevieren.
+It made even less sense for those who stood behind the mission. The other animals nodded with satisfaction, as if they knew the peaceful soul of Asha would win out eventually.
 
-"Zie je wel," zei Bipi's moeder, blij dat haar dochter weer bij haar was. "Uiteindelijk maakte jullie hart de juiste keuze."
+"See-o," the leader of another tribe said. "In the end-o, you made the right choice-o."
 
-"Ons hart maakte de keuze, ja," zei Bar-Bar. "Maar of het de juiste was ..."
+"Our hearts made the choice, yes," said Bar-Bar. "But if it was the right one ..."
 
-De Roddelrat was meteen teruggegaan om de situatie in Amor weer bij te houden. De rest van de dieren hoorde de verdere uitleg, over een hamster die zeker was dat hij met regels ging winnen, en een opgesloten Kompaan.
+The Tattlerat had stayed in Amor to keep an eye on the situation. Bar-Bar and Solong explained about the hamster, certain he'd win by following rules, and a locked-up Companion.
 
-Ze zaten of lagen rondom een kampvuur, onder de open lucht. De paar tenten die ze hadden waren vooral om praktische reden, zoals het beschermen van waardevolle voorwerpen tegen regen. Het was een ware Wildernis vergeleken met de glimmende gebouwen en dikke muren van Amor.
+They sat or lay around a campfire, beneath the open sky. Their handful of tents were mostly made out of practical concern, such as protecting valuable goods against heavy rain. It was a true Wilderness compared to the shiny buildings and thick walls of Amor.
 
-De Amori hadden een groot aandeel in het uitwissen van de godenkinderen, maar als er iets is dat ze maar graag overnamen, dan was dat het idee van de Wildernis. Binnen stadsmuren was elk dier beschermd, prooi of niet. Buiten de stadsmuren---in de Wildernis---was het ieder voor zich en mocht je nog jagen voor je eigen vlees.
+The Amori played a huge role in the demise of the gods, but if there was something they were eager to copy from them, it was the idee of Wilderness. Inside the city walls, each animal was protected, prey or predator. Outside city walls---in the Wilderness---everyone was on their own and predators could still hunt for their own meat.
 
-Met regelmaat werden stukken uit het vee van de Barbaren gehapt. Het was een dreiging die nooit eindigde, maar toch bleven ze op dezelfde manier leven en weigerden een eigen stad op te richten. Zelfs al hadden ze meer dan genoeg dieren en macht ervoor. 
+Regularly, animals from Bar-Bar's herd were eaten or attacked. It was a never-ending threat, but still the Barbarians kept living in their own way and refused to found cities. Even if they had the numbers and the power to do so.
 
-De Grapi bestonden al voordat de Amori kwamen, ze waren altijd al groter geweest, en ze zouden blijven bestaan lang nadat Amor was gevallen. Maar bijna niemand zou dat weten, want ze schreven niks op en lieten dus niks achter.
+_The Grapi existed before the Amori, dear reader, had always been larger in number, and would keep existing long after Amor had fallen. But almost nobody would now, for they didn't write anything down and didn't build anything that lasted._
 
-Nieuwe vreemdelingen kwamen bij het vuur, zoals bijna elke avond. De armste dieren van Amor. Een paar verdwaalde lieden van een andere stam. Een schaap die een oog miste, een geit waarvan één hoorn was afgezaagd---waarschijnlijk door dieven die het voor veel geld wilden verkopen, een wolf met een gezicht vol littekens en een mank loopje. 
+New strangers came to their warm fire, like most evenings. The poorest creatures from Amor. A few lost souls from different tribes. A sheep who missed an eye, a goat with one horn sawed off---probably by thieves who wanted to sell that material. And even a wolf with a scarred face and a limp, who still looked attractive in the eyes of many and received a lot of physical attention.
 
-Ze kwamen vaak gehuld in zwarte kleding, alsof ze bang waren te bestaan. Maar Bipi wist dat ze na één avond bij het warme vuur hun schaamte afdeden en bij de stam wilden horen. Deels omdat ze altijd even nieuwsgierig kwam snuffelen of er nog een vreemdeling bij zat die ze wel leuk vond. Deze keer dook ze bovenop die wolf en gaf hem een kusje. Hij leek te schrikken en om te willen draaien, maar bleef toch.
+They often came dressed in black clothes, as if they were afraid to _exist_. But Bar-Bar knew one night at the fire would remove their shame, convincing them of the Barbarian ways in no time. Every time it happened, it still felt like magic, stronger than his actual magic that he still refused to use.
 
-Allemaal mochten ze erbij zitten. Want het Grapi gebied was één gebied en het was van iedereen. Elke stam had een oudste, die een soort leider was, maar verder werd vrijheid en zelfstandigheid altijd aangemoedigd. 
+Everyone was welcome. The Grapi territory was one large area and it belonged to everyone inside. Each tribe had an eldest member, who was the closest thing to a leader, but otherwise encouraged freedom and invididuality.
 
-Sterker nog, Bar-Bar had de regel dat je niet langer dan een maand op hetzelfde stukje land mocht blijven. Iedereen moest steeds verhuizen, om te voorkomen dat ze te comfortabel werden en een stad begonnen te vormen.
+In fact, Bar-Bar had the rule that you weren't allowed to stay on the same plot of land for more than a month. Everyone had to constantly move around, to prevent becoming too comfortable and, oh no, accidentally start a city.
 
-Maar vanavond kwam een wel erg bijzondere vreemdeling. Een Hen in een halve soldatenuitrusting. De enige echte vijand die alle dieren op dit continent leken te hebben.
+Tonight, however, a very strange stranger arrived. A _Hen_ partially dressed like a soldier. The only real enemy of _all_ animals on this continent.
 
-Iedereen stond meteen op hun poten.
+Everyone immediately scrambled to their feet.
 
-De vrouwelijke kip gooide haar vleugels omhoog. Ze hijgde nog na van de sprint. "Ik ben een deserteur. Ik hoor niet meer bij de Hennen."
+The female chicken raised her wings, still panting from her sprint. "I am a deserter! I don't belong to the Hens anymore."
 
-Ze deed haar helm en vleugelharnas af om het te bewijzen. "Ik breng alleen waarschuwing. Ze komen eraan. De hele stam, allemaal soldaten, komt recht op jullie af. Ze zijn vlakbij."
+She took off her helmet and wing harness to prove it. "I bring warning. _They are coming._ The entire tribe, all soldiers, are coming straight for you. And they are close."
 
-"Waar halen ze al die wapens vandaan?" bromde Bar-Bar. "En het geld?"
+"Where do they get the _weapons_?" Bar-Bar grunted. "And the _money_!?"
 
-Zelf hadden ze al hun bezittingen binnen een minuut verzameld. Het kampvuur werd gedoofd door konijnen die een bak water brachten. Tegen de Hennen konden ze niks beginnen, dat hadden ze de vorige dertig ontmoetingen wel geleerd.
+All their own possessions were gathered in less than a minute. The campfire was extinguished by rabbits bringing buckets of water. They couldn't win against the Hens, no, their many previous meetings had proven that. Their first meeting, which had forced Bar-Bar to use his awful magic to save thousands of animals and turn them into his slaves, had proven that.
 
-Bipi schuurde tegen de wolf, maar kreeg geen enkele reactie. Hmm. Hij was duidelijk niet geïnteresseerd, en zelfs een beetje bang voor haar, dus dan ging ze wel terug naar Bilotte om---
+Several animals nudged the scarred wolf, some even kissing him without shame or hesitation, but received no reaction. He didn't seem interested in them, or _anything_ happening around---
 
-"Ik weet waar ze het geld vandaan krijgen," mompelde hij. "De Amori."
+"I know where the Hens get the money," he mumbled. "The Amori."
 
-Bipi fronste. "Huh? Die twee zijn de grootste vijanden."
+Solong frowned. "Those two are the biggest possible enemies."
 
-De wolf schudde zijn mantel af. Door de littekens hadden ze hem niet eerder gekend. Maar daar in het donker, omringd door de vluchtende Grapi, stond Wolzam de jongste prins.
+The wolf shook off his robes. They hadn't recognized him due to the scars. But in the dark, surrounded by fleeing Grapi, stood Wolzam---the youngest prince.
 
-"Al sinds de Hennen bestaan, worden ze ingehuurd door de Amori om hun vuile zaakjes te regelen. De dingen waarvoor zij zichzelf te goed vinden. Zoals het langzaam uitroeien van al die _andere_ vervelende Barbaren."
+"Ever since the Hens existed, the Amori hire them to do their dirty jobs. The things for which they find themselves too _good_ and _noble_. Such as slowly exterminating the _other_ annoying Barbarians."
 
-"Zoals ... wij?"
+"Like ... us?"
 
-Wolzam zag er angstaanjagend uit in het maanlicht. Zijn diepste litteken ging als een bliksemschicht over zijn gezicht. "De Amori kunnen zichzelf vertellen dat ze aardig zijn en jullie nooit iets aan hebben gedaan. De meeste inwoners van Amor geloven het ook nog. Och, wat zijn ze goed. Och, wat zijn we _beschaafd_ en die andere _barbaars_. Maar in werkelijkheid zijn al jullie doden door de Hennen ... doden door hen."
+Wolzam looked terrifying in the moonlight. His deepest scar traveled across his face like a lightning bolt. 
 
-Ze konden niet langer blijven praten. Het gekakel van de Hennen klonk al door de avondlucht. Bipi zweerde hun kleine silhouetten al te zien aan de horizon, bovenop de heuvel.
+"The Amori can tell themselves they're nice and never did anything to you. Most inhabitants of Amor really believe that, too. Oh, how good they are. Oh, how _civilized_ and the others _barbaric_. But in truth, all deaths because of the Hens ... are really deaths because of them."
 
-Hun kracht zat niet in grote klauwen of vuurspuwende adem. Hun kracht zat, net als alle andere rondtrekkende Barbaren, in _aantallen_. Hun macht werd gemeten in hoeveel vee ze hadden en hoeveel poten ze op een stuk land konden zetten.
+They couldn't talk any longer. The cackling of the Hens hung in the night air. Bar-Bar swore he could already see their tiny silhouettes on the horizon, atop a hill.
 
-En, blijkbaar, zakken met geld van de hersenloze heerser.
+Their power was not in large claws or fire-spewing breath. Their power was, just like the Grapi tribes, in their _numbers_. Their power was measured in how much livestock they had and how many paws they could place on your territory.
 
-De Grapi, en iedereen die in de buurt was, zetten het op een rennen. Waarnaartoe? Amor hoorde bij de Hennen! Maar het was de dichtstbijzijnde muur om achter te schuilen.
+And, apparently, bags full of gold from the Mindless Monarch himself.
 
-En als de Hennen echt bij Amor hoorden ... dan zouden ze niet aanvallen, toch?
+Everyone started running. But whereto? Amor belonged to the Hens! But it was the closest wall they could hide behind.
 
-Bipi hoopte maar dat de krankzinnige koning nog steeds al zijn soldaten had weggeroepen van de muren. Met het element van verrassing, zou het grootste deel van Grapi binnen kunnen stormen voordat alarm wordt geslagen.
+And if the Hens were truly on Amor's payroll ... they wouldn't actually attack Amor, right?
 
-Ze hoopte ook dat iemand haar kon dragen, want ze zakte door haar gewonde poten.
+Bar-Bar hoped the element of surprise would allow most of them to enter the city before any alarm was raised. Then they'd have to somehow prevent being arrested or killed on sight due to their idiotic laws.
 
-Een paar koeien sleepten een kar achter zich aan met daarop de paar voedselresten die ze hadden bewaard. Bipi werd bovenop de kar gelegd, ondanks luide protesten van de koeien die nu nog harder moesten trekken om iedereen bij te houden.
+The flight seemed endless, the seven high hills of Amor a distant goal. The Hens won terrain; chickens were _fast_.
 
-Hobbelend en stuiterend trokken ze over het heuvelachtige gebied dat leidde naar de zeven échte, hoge heuvels van Amor.
+The slowest and weakest among them were placed on a _cart_, pulled by increasingly agitated cows. At some point, Wolzam was placed on it, and all the other animals shamelessly pushed into him for his warmth. He stiffened, as if not understanding what happened, mumbling this was _not normal_ and he was already _in love with someone else_.
 
-De vlucht leek eindeloos. Ook al hadden ze deze afstand nu al vaak afgelegd, onder druk van kakelende kippen in je rug leek het onoverbrugbaar. De Hennen wonnen terrein. Kippen waren _snel_.
+When two tired rabbits were also placed on his stomach, he realized this was normal _here_. His body relaxed and he started to enjoy the simple warmth of animals sleeping against him.
 
-Op een gegeven moment werd Wolzam ook op de kar gelegd. De koeien bleken erg veel scheldwoorden te kennen. De wolf verstijfde opnieuw toen Bipi zonder schaamte tegen hem aan schuurde, alsof hij echt niet begreep wat er gebeurde. Hij mompelde iets over dat het niet hoorde en dat hij al verliefd was op een ander. 
+They reached the walls. Tattlerat waited for them.
 
-Twee vermoeide konijnen lagen even later ook plotseling op zijn buik. Uiteindelijk ontspande hij en accepteerde dat dit blijkbaar normaal was hier.
+"I have, erm, good news and bad news. Ginsea has revealed the truth and now all of Amor rebels against the king and Wolfar. The hamster is also inside a cell, waiting for his death. Together with, erm," the rat tried to count on his thin paws, "more than a hundred other Amori."
 
-Ze bereikten de muren. Daar wachtte een Roddelrat hen op.
+When all the animals jumped out of the cart, Wolzam barked softly and reached for them, his eyes half-closed and wanting to hug for a little longer.
 
-"Ik heb, eh, goed nieuws en slecht nieuws. Ginsea heeft de waarheid naar buiten gebracht en heel Amor in opstand gebracht tegen de koning en Wolfar. Hij zit ook op dit moment in een cel te wachten op zijn dood. Samen met, eh," de rat probeerde met zijn dunne pootjes te tellen, "bijna honderd anderen."
+When the news was repeated, he did wake up and jump out of the cart.
 
-Bipi klom direct uit de kar. Ze moest glimlachen toen Wolzam zacht gromde dat hij nog even wilde knuffelen, zijn ogen flauw en halfdicht, alsof hij net wakker werd.
+Bar-Bar's face was dark again. Sparks appeared around his paws, changing colors and frightening anyone who stood nearby. "My little wolf prince, how much do you like your father and brother?"
 
-Hij was zeker wakker toen hij het nieuws nogmaals hoorde en Bipi hem ook uit de kar trok.
+Wolzam looked away. "Not as much as I should, I guess."
 
-Bar-Bar keek duister. "Wollig wolvenprinsje, hoe zeer ben je gehecht aan je vader en broer?"
-
-Wolzam keek opzij. "Niet zoveel als zou moeten, denk ik."
-
-"Mooi."
+"Good."

@@ -1,143 +1,141 @@
 ---
-title: Koningsmoord
+title: Regicide
 weight: 9
 ---
-De kamer van de koning was makkelijk te vinden. Zijn gestoorde geratel galmde door de gangen. Bar-Bar hoopte het te verstaan als hij dichterbij kwam. Maar toen hij bijna _in_ de kamer stond, bleek dat het niet bestaande onzinwoorden waren.
+The king's chambers were easy to find. His insane babbling was audible from far out. Bar-Bar hoped to make sense of it, hear intelligent words that convinced him to abort the mission, but even when he was almost _inside_ the room, it remained nonsense.
 
-Hij en de Roddelrat pletten zich opnieuw tegen een meubelstuk. Een nieuwe roedel wolvensoldaten kwam langs.
+Him and Tattlerat flattened themselves again, this time against furniture. A new pack of wolf soldiers passed by.
 
-"Het is een chaos op het plein. Heel Amor probeert de Vlamstraf te voorkomen," zei de ene.
+"It's chaos on the plaza. All of Amor tries to prevent the Flame Ceremony," one said to Wolfar.
 
-"In ander slecht nieuws," zei de ander met ogen richting de vloer, "hebben de Hennen besloten om toch de stad in te trekken. Duizenden kippen stromen naar het paleis."
+"And, erm, more bad news," said the other with downcast eyes. "The Hens have decided to attack the city anyway. A thousand chickens stream towards the palace as we speak."
 
-"Verraders!" schreeuwde Wolfar. "We betalen ze goud tot het hun oren uitkomt, en nu keren ze tegen ons?"
+"Traitors!" yelled Wolfar. "We pay them coin until it comes out of their ears, and now they turn on us?"
 
-"Om eerlijk te zijn, oh edele prins, we hebben geen idee wat hun doel is." De wolf keek achterom. Het geschreeuw vanaf het plein was zelfs hier hoorbaar. "Maar we hebben alle soldaten nodig."
+"To be honest, oh fair prince, we have no idea what their goal is." The wolf looked over his shoulder. The screams from the plaza reached all the way to the upper floor. "But we need all soldiers."
 
-Wolfar stemde toe om de meeste bewakers mee te sturen. Slechts één andere wolf bleef over die de dichte slaapkamerdeur bewaakte.
+Wolfar agreed to send more guards. Only _one_ wolf stayed behind to guard the closed bedroom door.
 
-Bar-Bar kon niet langer wachten. Hij kwam uit de schaduw en smeet zijn speer.
+Bar-Bar could not wait any longer. He stepped from the shadows and, with a jerk of his head, threw his spear.
 
-De wachter ontweek ternauwernood en ving de speer zelfs met zijn staart.
+"Well, well, be wise now," said Tattlerat softly to the guard. "Every noise you make might be your last."
 
-"Nou, nou, wees verstandig," zei de Roddelrat zacht. "Elk geluid dat je maakt kan wel eens je laatste zijn."
+"Listen, young wolf boy. You know the king is insane and his son ignores the law," Bar-Bar whispered. "Why do you work for them? Why haven't soldiers seized power long ago?"
 
-"Luister, jong wolfje. Je weet dat de koning gek is en zijn zoon de wet negeert," fluisterde Bar-Bar. "Waarom werk je nog voor hen? Waarom hebben de soldaten niet allang de macht genomen?"
+The wolf hit the door with the dull end of his spear. He shrugged. "Because the king pays me and feeds me well."
 
-De wolf bracht het stompe uiteinde van de speer tegen de deur. Hij haalde zijn schouders op. "Omdat de koning mij betaalt en te eten geeft."
+"You're as bad as the tyrant you serve!"
 
-"Je bent net zo erg als de tiran die je verdedigt!"
+"Says the barbarian trying to _conquer our city_!"
 
-"Zegt de barbaar die onze stad probeert in te nemen."
+"You think we want your precious Amor!? We actively try _not_ to get a city or homes! That's where all the trouble starts!"
 
-"Jullie denken dat we jullie stad willen!? We doen juist ons uiterste best om géén stad te krijgen en géén huizen! Dat is waar alle ellende begint!"
+The soldier was surprised, just for a moment. The Tattlerat jumped at the opportunity, but was too late. The spear pushed open the doors; the guard yelled about intruders.
 
-De soldaat was een paar tellen verbaasd. De Roddelrat sprong in de opening, maar was te laat. De soldaat beukte de deuren open en schreeuwde dat er indringers waren.
+Before Bar-Bar could grab him, Wolfar jumped in front of him. The soldier bit into a long rope and hung from it with his entire weight, which sounded the palace bells.
 
-Voordat Bar-Bar hem kon grijpen, sprong Wolfar voor hun neus. De soldaat hing met zijn tanden aan een stevig touw en luidde daarmee de noodklokken.
+Wolfar licked his lips. "Always nice if food just walks up to you."
 
-Wolfar likte zijn lippen. "Altijd fijn als voedsel zelf naar je toe loopt."
+The king was already bored and drank another bucket of wine in a single gulp. Wolfar looked unsteady on his feet, but sharp enough to be dangerous.
 
-De koning stak zijn hoofd omlaag en dronk een hele emmer wijn in één teug leeg. Wolfar keek ook wat scheel uit de ogen, maar moest niet worden onderschat.
+His first attack was a fast claw towards Bar-Bar's left side. The sheep rolled away, over a sofa turned upside-down, and landed close to the soldier hanging from the rope. He gave the guard a headbutt, which sent the soldier flying through the room, as if swinging from a vine in the jungle.
 
-Zijn eerste aanval was een pijlsnelle klauw richting Bar-Bars linkerzijde. Het schaap rolde ervandaan, over een ondersteboven gekeerde bank, en landde vlakbij de soldaat aan het touw. Met een flinke kopstoot stuurde hij de soldaat door de kamer, alsof hij slingerde aan een liaan.
+The heavy wolf body bumped the king and the prince against the other wall. They stayed down, dazed. 
 
-Het zware wolvenlichaam smeet de koning en de prins tegen de andere muur. Versuft bleven ze liggen. Bar-Bar beet in het midden van de speer en rende op de koning af. 
+Bar-Bar grabbed the middle of the spear in his mouth and ran for the king. All he pierced was a wall, merely grazing the king's snout and front paw.
 
-Maar het enige dat hij doorboorde was de muur. De koning had slechts een schaafwond in zijn snuit en voorpoot.
+Wolfar grinned, then laughed. "Barbarians are hopeless."
 
-"Hopeloos die barbaren," zei Wolfar met een grijns.
+Bar-Bar answered confidently: "But alas, that spear was poisoned."
 
-"Die speer was vergiftigd," kaatste Bar-Bar zelfverzekerd terug.
+Wolfar sniffed the point of the spear. Then he pulled his father out of the room, onto the hallway.
 
-Wolfar snuffelde aan de punt. Daarna sleepte hij zijn vader achter zich aan de gang op.
+"Don't die yet, you old drunk fool," he roared. "Do it when we have enough witnesses!"
 
-"Nog niet sterven, oude dronkenlap," gromde hij. "Doe dat maar als er genoeg getuigen zijn."
+They ran down the stairs, to the chaos on the plaza below. Bar-Bar and Tattlerat merely looked down through the window.
 
-Ze maakten haast over de trappen, naar de chaos op het plein beneden. Bar-Bar en Roddelrat keken door het raam omlaag.
+It was madness. Utter chaos. Amori, soldiers, Hens, all of them ran into each other and attacked each other---most without weapons, and an increasing number of them without clothes. And all of that on a raised platform that now contained four animals pushed towards a Flame. _Four_ animals?
 
-Het was waanzin. Amori, soldaten, Hennen, allemaal renden ze door elkaar en vielen elkaar aan---de meeste zonder wapens, en ook steeds meer zonder kleding. En dat allemaal rondom een verhoging waarop vier dieren naar de Vlam werden geduwd. Vier dieren?
+Odin's revenge! They had captured Wolzam too! And where was Solong?
 
-Odins wraak! Ze hadden Wolzam ook te pakken! Waar was Bipi?
+"How quickly their nice civilization collapses," the Tattlerat spoke softly. "I don't even want to write gossip about this. They'd say it was too _unbelievable_ to be true."
 
-"Hoe snel hun leuke beschaving in elkaar stort," mompelde de Roddelrat voor zich uit.
+"However much I like to see this," Bar-Bar said, "this is the wrong time."
 
-"Hoe graag ik het ook zie," zei Bar-Bar, "dit is het verkeerde moment."
+They chased the king, sliding and jumping over stairs, racing through corridors. Beautiful carpets were ripped in two, candles extinguished as they passed, and decorated oak doors suddenly contained a hole in the form of a large sheep and a small rat.
 
-Ze joegen de koning op, glijdend en springend over de trappen, scheurend door gangen. Prachtige tapijten scheurden in twee, kaarsen doofden door hun windvlaag, en nette eikenhouten deuren hadden plots een gat in de vorm van een groot schaap en een kleine rat.
+Until they reached the ground floor and ran outside.
 
-Totdat ze op de begane grond naar buiten stormden.
+The chaotic sounds that sounded dull and soft in the hallways, now reached Bar-Bar's eyes at full volume and aggression. The noise blew him away. Tattlerat pushed his paws against his ears and used his tail to climb to a higher position.
 
-De chaotische geluiden die eerste verstomd door de gangen ketsten, kwamen nu in vol volume in Bar-Bars oren. Alleen al de herrie blies hem omver. De Roddelrat deed zijn pootjes tegen de oren en probeerde met zijn staart hogerop te komen.
+Wolfar dragged the king with him, straight into the chaos. And halfway ... he just _dropped_ his drunk, mumbling dad like a piece of garbage.
 
-Wolfar sleepte de koning achter zich aan, recht de chaos in.
+"Stop!" Bar-Bar screamed. "We are not enemies!"
 
-En halverwege liet hij zijn dronken, mompelende vader doodgewoon ... vallen.
+"Stop the king! And Wolfar!" Tattlerat tried. 
 
-"Stop!" schreeuwde Bar-Bar. "Jullie zijn niet elkaars vijanden!"
+Nobody listened. They fought anyone they met, like ants crawling a messy ant hill. Wolves were suddenly arrested with their own handcuffs. Hens stole white robes, which where stolen again by a giraffe. They didn't listen to reason, nor threats, nor their crying kids. And the Hens, in their lage numbers, cackled through it all.
 
-"Houd de koning tegen! En Wolfar!" viel de Roddelrat hem bij. Niemand luisterde. Ze vochten met iedereen die ze tegenkwamen, als mieren op een hoop. Ze luisterden niet naar rede, niet naar dreigementen, niet naar hun kinderen die huilden. En de Hennen, met hun grote aantallen, kakelden er nog eens overheen. 
+In that crowd, he couldn't even find the king anymore. Had he been taken? Was he still alive? Bar-Bar tried to bump and squeeze his way to the Flame, but he made no progress. How would he _ever_ get to the center?
 
-In die massa kon hij de koning niet eens meer vinden. Was hij meegenomen? Leefde hij nog? Bar-Bar probeerde zichzelf richting de Vlam te beuken, maar hij kwam er als zacht schaap niet doorheen. Hoe kwam hij _ooit_ naar het midden?
+"Stop fighting!" said a high-pitched voice from up high. "Get everyone away from the Flame!"
 
-"Stop met vechten!" zei een hoge stem van boven. "Haal iedereen weg van de Vlam!"
+Solong stood on the roof of the largest tower. Together with the wolf soldier who had chased her all the way there---and now kicked her off the roof.
 
-Bipi! Ze stond op het dak van de hoogste toren. Samen met een soldaat die haar had achtervolgd---en nu van het dak schopte.
+Bar-Bar's breath caught.
 
-Bar-Bars adem stokte.
+He saw only one solution.
 
-Hij zag maar één mogelijkheid.
+He started running, faster than ever, around the plaza. His fur glowed and send out magical waves, similar to those of the Flame, even clashing with those of the Flame in mid-air.
 
-Hij begon te rennen, harder dan ooit, rondom het plein. Zijn vacht gloeide en zond vloedgolven uit, die leken te botsen met die van de Vlam.
+Each time he raised his hind legs, a wooden _fence_ grew from the dirt.
 
-Elke keer als hij zijn achterpoten optilde, groeide een houten _hek_ uit de grond.
+They were slanted, yes. They were broken, sliced, discolored, different every time. But he casted them all into existence as he made his circle, creating a longer and longer chain of fences around the entire plaza.
 
-Ze stonden scheef. Ze waren kapot, afgebrokkeld, telkens anders. Maar hij perste ze allemaal uit de grond terwijl hij zijn ronde maakte. De eerste dieren werden door de hekken tegengehouden, en de klap haalde hen uit hun woedende waas.
+Himnib and Ginsea touched the Flame. Their eyes opened wide, turning all colors of the rainbow, and their paws lit up as if burning in cold fire.
 
-Maar Himnib en Ginsea raakten de Vlam aan. Hun ogen sloegen allerlei kleuren uit en hun poten lichtten op alsof ze verbrandden in koud vuur.
+Bar-Bar bleated in frustration, shrinking his circle. He cut straight through the plaza to reach the raised platform sooner.
 
-Bar-Bar maakte zijn cirkel kleiner, luid mekkerend. _Bar bar bar bar_. Totdat hij dwars door het plein sneed en de verhoging bereikte.
+At full speed, he _bumped_ the bear and the hamster away from the Flame. The object itself tumbled the other way and disappeared in the pulsating mass of fighting animals.
 
-Op volle snelheid _beukte_ hij de beer en de hamster los van de Vlam. Het voorwerp zelf klapte de andere kant op en verdween in de pulserende massa vechtende dieren.
+He looked up. Falling, screaming Solong had almost reached the ground.
 
-Hij keek omhoog. De vallende Bipi had bijna de grond bereikt. 
+In his old bones, he found more power and more speed. The fences behind him left larger and larger gaps. One was so misshapen that it immediately fell down. Would it be enough? He hadn't used his magic in so long, hadn't ever tested it _this much_.
 
-In zijn oude botten vond hij de kracht om nog harder te rennen. De hekken achter hem lieten steeds meer gaten. Eentje was zo mislukt dat hij omviel. Zou het nog genoeg zijn? Hij had zijn magie nooit _zo enorm_ op de proef gesteld.
+Solong screamed at the incoming stone floor, deafeningly loud, eyes wide.
 
-Bipi krijste en knorde oorverdovend hard, haar ogen wijd.
+She landed precisely on Bar-Bar's thick wool---which bounced her back into the sky.
 
-Ze landde precies op Bar-Bars dikke vacht---en stuiterde daardoor weer de lucht in.
+Bar-Bar couldn't wait. He continued his run. Just a little more until he'd circled all the way back to the start of his fence. Twenty steps. Ten.
 
-Bar-Bar kon niet wachten. Hij rende door. Nog maar een stukje tot het begin van zijn hek. Twintig stappen. Tien.
+Soldiers chased him, grabbing at his fur. Out of the corner of his eye, he saw the king stumble away from the chaos, while Wolfar tried to free himself from angry teeth, tails and wings on the other side.
 
-Soldaten grepen naar hem. In zijn ooghoek zag hij de koning weg strompelen uit de chaos, terwijl Wolfar zichzelf aan de andere kant probeerde te bevrijden van grijpende poten, tanden en vleugels.
+Bar-Bar's fur caught something. He felt a bite in his side.
 
-Zijn vacht werd gegrepen. Hij voelde een beet in zijn zij.
+Must. Continue. Close. Circle.
 
-Moest. Door. Cirkel. Moest. Af.
+He built the last fence, as his heart skipped frighteningly many beats at once. But the entire plaza had been circled---he had built a fence around _everyone_.
 
-Hij bouwde het laatste hek. Zijn hart begaf het bijna. Maar het plein was omcirkeld---hij had een ren gebouwd om _iedereen_.
+All the animals fell to the ground. As if the Sand King had covered them all in piles of sleep dust.
 
-Alle dieren vielen naar de grond, alsof de Zandkoning ze allemaal tegelijk had bestrooid met zijn slaapkorrels.
+Solong was back on her downwards trajectory.
 
-Bipi viel weer omlaag.
+"Catch her! Catch her!"
 
-"Vang haar! Vang haar!"
+The animals closest to him, who were trying to kill each other just now, immediately listened. They formed a huge pillow below Solong, with complete disregard for their own safety, and caught her safely.
 
-De dichtstbijzijnde dieren, die net nog bijna elkaars ogen uitstaken, gaven meteen gehoor. Gezamenlijk vormden ze een kussen onder Bipi en vingen haar veilig op.
+"And now ... help me now," said Bar-Bar, his voice failing. He sunk through his paws and saw, laying on his back, how _all_ animals stood up and followed his commands.
 
-"En nu ... help nu mij," zei Bar-Bar met falende stem. Hij zakte door zijn poten en zag, liggend op zijn rug, hoe alle dieren opstonden en naar hem luisterden.
+His magic had worked. All inside the circle were now ... his. Some were too surprised to listen immediately. The king was on the ground, snoring. His sons lay against each other a short distance away. But they'd stopped fighting and the Flame was gone.
 
-Zijn magie had gewerkt. Iedereen in de cirkel was nu zijn ... vee. Sommige waren te verbaasd om te luisteren. De koning lag ergens te snurken op de grond. Zijn zonen lagen even verderop tegen elkaar aan. Maar ze waren gestopt met vechten en de Vlam was weg.
+A bear with a friendly face kneeled next to him. Shepherd Solong healed the wound at his side, as much as she could manage with her powers.
 
-Een beer met een vriendelijk gezicht knielde naast hem. Herder Solong genas de wond in zijn zij. Ze probeerde het te doen _zonder_ weg te geven dat ze een halfgodin was met sterke magische krachten.
+A massive grey owl landed on one of the wooden fence poles.
 
-Een grijze uil landde op één van de paaltjes in het hek die wél recht overeind stonden.
+"Thanks a lot for the help, lazy owl," Bar-Bar said with a sour face. Stupid. Don't talk like that to the _highest Companion_ from he Council of Kame.
 
-"Bedankt voor de hulp, lui uiltje," zei Bar-Bar met een zuur gezicht. Dom. Zo moest je niet praten tegen de _hoogste Kompaan_ van de Raad van Kame.
+But Aria smiled. "I can invent very wise laws. But there are moments ... when laws can't make any difference."
 
-Maar Aria gaf hem een glimlach. "Ik kan heel goed wijze wetten bedenken. Maar er zijn momenten ... dat wetten niks uitmaken."
+Her beak pointed at the king. He had stopped moving; he'd never move again.
 
-Ze knikte haar snavel naar de koning. Hij bewoog niet meer. Hij zou nooit meer bewegen.
-
-"Er staan hier honderd dieren die luisteren naar jou en jou alleen. En er is een lege troon. Je hebt mijn wijsheid nu pas nodig."
+"Now, this plaza contains a hundred animals who will listen to anything you say. You and you alone. There is an empty throne. _This_ is the moment you need my wisdom."

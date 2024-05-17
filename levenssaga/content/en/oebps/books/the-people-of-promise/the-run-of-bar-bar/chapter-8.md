@@ -1,109 +1,101 @@
 ---
-title: De Vlam van Wraak
+title: The Flame of Revenge
 weight: 8
 ---
-Zo rond middernacht, onder een koor van kakelende kippen, slopen vier spionnen het paleis in. De eerste bestemming was de kerkers. Met al die dieren bevrijd, en deel van de missie, stonden ze al sterker. 
+Around midnight, led by a chorus of cackling chickens, four spies crept into the palace. Their first destination was the dungeons. If they freed all the animals, and made them part of the mission, they'd have a much better chance.
 
-Ze hadden gehoopt zo binnen te kunnen lopen, maar dat bleek naïef.
+They'd hoped to walk in easily like last time, but that was naïve.
 
-Bipi had gevechten meegemaakt. Iedere Barbaar was van jongs af aan altijd in gevaar, dus dan leerde je jezelf verdedigen. Ze wist wat ze moest doen en zou niet twijfelen als ze de koning zag.
+All barbarians, and shepherds, had experienced fights before. They were always in danger, from the day they were born, so you learned to defend yourself. Solong knew what she had to do and would not hesitate upon seeing the king.
 
-Het enige dat haar tegenhield was moeders stem, dat gezeur over Asha en altijd vredelievend zijn. Toch zorgde het dat ze net iets minder snel liep. Dat ze net wat minder makkelijk meeging in het plan om de zes bewakers te doden.
+Still she walked just a little more slowly. She had actually experienced the original Asha tribes, had believed in their idea of peacefulness and freedom, which made it hard to join in killing the six dungeon guards.
 
-"Stop," fluisterde ze. "Is er geen andere manier?"
+"Stop," she whispered. "Is there no other way?"
 
-"Wat wil je doen?" gromde Bar-Bar. "Een liedje zingen? Netjes vragen? Een afleiding creëren ergens anders? We hebben geen tijd voor pietlutterige plannetjes."
+"Like what?" Bar-Bar grunted. "Sing a sung? Ask nicely? Create a diversion? We have no time for cute plans."
 
-Ze liet hen de kerkers bestormen. Zelf bleef ze staan.
+She let _them_ storm the dungeons and take care of it. She remained outside.
 
-Maar hoe was dat beter? Dan was ze net als de Amori. Anderen het vuile werk laten opknappen zodat ze kon doen alsof ze schone poten had. Praten over haar geweldige wijsheid en morale macht, die ze alleen kon behouden omdat ze omringd was door Barbaren die daar minder om gaven.
+But how was that better? Then she'd just be like the Amori. Letting others do the dirty jobs, so she could _say_ she had clean paws. Talk about her great wisdom and moral might, which she could only keep because she was surrounded by Barbarians who did the actual work.
 
-Geen beschaving zonder gebrek aan beschaving.
+It was as Ardex said: _No civilization without lack of civilization._
 
-Ze knorde en dook ook op de bewakers af.
+She yelled and joined the attack.
 
-Opnieuw was hun kleding in hun nadeel. Ze hadden stevige metalen platen ter bescherming, maar daardoor bewogen ze ook met de snelheid van een schildpad. Eentje weigerde zelfs te vechten tegen "naakte tegenstanders", dat was blijkbaar niet "eervol".
+Their clothes were their disadvantage, again. They wore solid metal plates as protection, like a turtle harness, but this also made them _move_ like a turtle. One even refused to fight "naked enemies", as that was apparently "not honorable".
 
-Tja, zijn fout. 
+Well, their mistake.
 
-De vier geitenbewakers lagen snel op de grond. De twee wolven waren een groter probleem. Blijkbaar was het ook niet "eervol" om met vier wezens twee anderen aan te vallen, waardoor je iemand dus in de rug kon springen als ze bezig waren met hun andere vijand.
+The four goat guards were down in an instant. The two wolves were a bigger problem. Apparently it also wasn't "honorable" to attack two wolves with four spies, which allowed you to attack them at their _back_ while they were busy with someone else.
 
-Het was wel effectief.
+It was effective, though.
 
-"Waar is jullie eer?" krijste de laatste wolf.
+"Where is your honor!?" the final wolf cried.
 
-"Op dezelfde plek als die van jullie," gromde Bar-Bar. Hij ving een aanval van de bewaker op in zijn reusachtige berg wol. Terwijl de wolf even vast zat, sloeg Bipi hem bewusteloos met het ronde hout van zijn eigen speer.
+"As deep under the ground as yours," Bar-Bar replied. He caught a wolf attack in his gigantic ball of wool. As the wolf was briefly stuck, the Tattlerat knocked him unconscious with the end of his own spear.
 
-Ze rende meteen door naar het tralies. Samen met Bar-Bar ramde ze het wapen keer op keer tegen het slot, totdat het verboog, en draaide, en kreunde, en uiteindelijk van de tralies viel.
+They ran to the cells. Bar-Bar used his strength to ram the weapon against the lock, until it bent, turned, groaned, and eventually fell before his paws.
 
-Een berg schapen overstroomde de gangen. Ze vernielden meteen alle andere sloten en gaven de opgesloten Raadsleden, en een paar arme Amori, hun vrijheid terug.
+A hundred sheep flooded the hallways. They destroyed all the other locks with coordinated ease and gave the locked-up Council members, and some poor Amori, their freedom.
 
-"Waar zijn Ginsea? En Himnib?" vroeg Bipi.
+"Where is Ginsea? Where is Himnib?" Solong asked, panicked.
 
-Een oud vrouwtjesschaap hobbelde naar haar toe. "Die zijn al meegenomen voor de Vlam!"
+An old female sheep, who Solong recognized as Barina, hobbled to them. "They were already taken to the Flame!"
 
-De spionnen renden meteen de kerkers uit, over de wenteltrap naar boven, waar ze in een lege paleisgang kwamen. Slechts één kaars deed haar uiterste best om iets van licht te brengen.
+The spies ran from the dungeons, over the spiral staircase, and entered an empty hallway where only a single candle burned. Tattlerat tried to remember the palace layout. They were now on the _other_ side of the library ... and he was clueless. Go up. That would surely be the right direction.
 
-Bipi probeerde de plattegrond te herinneren. Ze kwamen nu van de _andere_ kant dan de bibliotheek ... en ze had geen idee wat dat betekende. Naar boven. Dat moest sowieso.
+All freed animals followed them and filled the palace with a cacophony of bleating, cries for help, and _bar bar bar bar_. This drew the attention of all soldiers nearby.
 
-Alle bevrijdde dieren kwamen achter hen aan en vulden het paleis met een kakofonie van gemekker, hulpgeroep, en _bar bar bar bar_. Dat trok de aandacht van soldaten in de buurt.
+The spies took the next staircase to a higher floor. Not every animal could walk the stairs, so the walls also contained holes and wooden blocks for the better climbers, as well as a smooth slope for a quicker path downward.
 
-Met pootstappen in hun rug trokken de spionnen snel over de volgende trap naar de eerste verdieping. Niet elk dier kon even makkelijk traplopen, dus de muren hadden ook gaten en houten blokken voor klimmers, en een gladde helling draaide met de treden mee.
+This floor contained more soldiers than the previous, but they hadn't been spotted yet. The spies pressed themselves against the cold wall, in the shadow of barrels and baskets.
 
-Op deze verdieping ging de hoeveelheid soldaten al snel omhoog. Maar ze hadden hen nog niet gezien. De spionnen drukten zich plat tegen een koude muur, in de schaduw van een stapel tonnen en manden.
+Three wolves ran past.
 
-Drie wolven renden voorbij.
+"The Hens are too good," one said. "They brought all Barbarians to Amor _too soon_!"
 
-"De Hennen zijn te goed," riep de een gefrustreerd. "Ze hebben alle Barbaren té snel naar Amor gedreven."
+"But they stick to the agreement and aren't attacking the city itself. Thank the gods for that."
 
-"Maar ze houden zich netjes aan de afspraak en vallen de stad niet binnen. Dank de goden daarvoor."
+"So far, so far."
 
-"Nog wel."
+Were they going to the king? Or would the king be present at the Flame Ceremony?
 
-Gingen zij naar de koning? Was de koning aanwezig bij de Vlamceremonie? Bipi wist het niet.
+Tattlerat pointed the other way, and they trusted him the most. Stomachs dropped to the floor, they crawled through the shadows.
 
-De Roddelrat wees juist de andere kant op. Ze volgden hem maar. Met hun buik dicht bij de grond, schoven ze door de schaduwen van de gang. 
+Two more wolves appeared out of nowhere.
 
-Nog twee wolven doken op als uit het niets.
+They froze where they were. No noise. Eyes closed.
 
-Ze bleven plat op de vloer liggen. Geen geluid. Ogen dicht.
+One paw landed right next to Bar-Bar's ear, but the wolves continued their path unknowingly.
 
-Eén poot landde op het tapijt vlak naast Bipi's oor. 
+"Ask Regiment C to come," a low voice said. "Wolfar has demanded all possible protection for the king."
 
-Maar de wolven liepen verder, onwetend van de vijanden waar ze net tussendoor stapten.
+"Impossible," said the other. "Regiment C guards the Flame. Barely. All of Amor protests and tries to stop Ginsea and Himnib from getting punished."
 
-"Vraag regiment C ook om te komen," bromde een lage stem. "Wolfar heeft alle mogelijke bewaking gevraagd voor de koning."
+So, king and Flame are not in the same place. 
 
-"Onmogelijk," zei de ander. "Regiment C regelt de Vlam. Nauwelijks. Heel Amor protesteert en probeert de straf te stoppen."
+The spies pulled themselves from the floor, as if they were born out of the carpet. They split up: Bar-Bar and Tattlerat after the wolf going to guard the king, Solong and Wolzam after the one going to the Flame.
 
-Niet dezelfde plek dus. Twee verschillende plekken.
+Solong immediately knew it was a mistake. Wolzam was too injured for this, and she was too hesitant to fight and didn't trust herself to win one at all costs. Her mother seemed right about a lot of things, basically everything. It was hard to be kind, it was even harder to know when to kill or hurt another being because of self-protection.
 
-De spionnen trokken zichzelf van de vloer, alsof ze werden geboren uit het tapijt. Bar-Bar en Roddelrat liepen direct achter de wolf aan die de koning ging beschermen; Bipi en Wolzam wilden mee met de andere.
+And thus she steered them to a deserted hallway. There, watching through a window, they saw the Flame Ceremony. The Flame itself seemed frozen, larger and brighter than any fire she'd seen before. It sent magical waves through the air at the rhythm of a beating heart. They'd even built a nice plaza _around_ it, with nice seats for _spectators_.
 
-Na een kort botsen van snuiten, splitsten ze de groep.
+They punished their prisoners in the worst way imaginable. But of course, the Amori should be able to sit on a nice chair and wear nice clothes.
 
-Bipi wist meteen dat het een fout was. Zij en Wolzam waren allebei te gewond om goed te lopen. Ze durfde nauwelijks meer een stap te zetten, bang dat achter elke hoek een soldaat wachtte, en zij was niet meer snel genoeg om uit diens klauwen te glippen.
+The anger made Solong less uncertain. She found the quickest path to the plaza and explained it to Wolzam.
 
-Ze zochten een rustige gang. Daar zagen ze, door het raam, waar de Vlamstraf plaatsvond. De vlam leek bevroren, groter en feller dan elk vuur dat ze eerder zag. Het zond magische vloedgolven uit als een hart dat klopte. Ze hadden zelfs een heel plein eromheen gebouwd, inclusief mooie plekken voor _toeschouwers_. 
+And maybe this would have been enough to run there, perform some magic, and stop Himnib and Ginsea before they touched the Flame. Maybe this was the moment Solong discovered more of her demigod powers and used them.
 
-Ze deden hun gevangenen het ergste aan dat je kon bedenken. Maar ze moesten wel lekker kunnen zitten en mooie kleding dragen, natuurlijk.
+They'd never know, for she and Wolzam were ruthlessly taken away by wolf guards that appeared behind them.
 
-Die boosheid wakkerde extra energie aan bij Bipi. Genoeg om te zien hoe ze zo snel mogelijk op dat plein kwamen en het uit te leggen aan Wolzam.
+They quickly decided to take Wolzam outside and have him touch the flame too. Better to remove him, with all his knowledge of the royal family and their crimes. Wolfar would find, or bend, some law that said this punishment was fair.
 
-Misschien was het ook genoeg om ernaartoe te rennen, iets wonderbaarlijks uit te richten, en Himnib en Ginsea tegen te houden voordat ze de Vlam aanraakten. Misschien was dit het moment dat Bipi ontdekte dat ze ook een halfgodin was en van die krachten had.
+Solong wished for Ginsea to appear, as he did before, with a law on his own---something that commanded the guards to let them go immediately. The first time in her life she would have been incredibly happy with laws and rules.
 
-Ze zouden het nooit weten, want zij en Wolzam werden gegrepen door sterke wolvenbewakers. 
+But of course he didn't come, for he stood on the plaza below. And he had learned that, when it truly mattered, that precious civilization with its laws could crumble as easily as a house of cards.
 
-Na een snelle discussie namen ze Wolzam mee naar buiten, om ook de Vlam aan te raken. Beter dat hij al zijn kennis over wat zijn familie hem had aangedaan zou vergeten. Wolfar vond wel een reglement die zei dat dit een straf was die _hoorde_. 
+What were a wounded wolf and a semi-magical bear going to do against these big beasts? No matter how smart animals became, no matter how much civilization they built, you simply couldn't win against someone physically stronger than you.
 
-Bipi hoopte ineens vurig dat Ginsea ergens uit de muur zou komen met een ander reglement---een of ander regeltje dat commandeerde dat de bewakers hen direct loslieten. De eerste keer in haar leven dat ze blij zou zijn met een wet.
+Himnib was already pushed against the Flame.
 
-Maar natuurlijk kwam hij niet, want hij stond beneden op het plein. En had geleerd dat, als het er echt op aan kwam, die hele beschaving met wetten plots als een kaartenhuis in elkaar stortte.
-
-Het varken schreeuwde dat de bewakers haar dan ook mee moesten nemen, waarop ze hun schouders ophaalden en het deden. Niet de beste zet.
-
-Maar wat konden een kleine gewonde big en een kleine gewonde wolf nou beginnen tegen grote beesten? Hoe slim de dieren ook werden, hoeveel beschaving ze ook bouwden, tegen fysieke onmacht kon je nooit iets beginnen.
-
-Himnib werd al tegen de Vlam geduwd. 
-
-De klokken van het paleis begonnen te luiden.
+The palace bells rang.

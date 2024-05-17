@@ -58,7 +58,7 @@ Ze maakten haast over de trappen, naar de chaos op het plein beneden. Bar-Bar en
 
 Het was waanzin. Amori, soldaten, Hennen, allemaal renden ze door elkaar en vielen elkaar aan---de meeste zonder wapens, en ook steeds meer zonder kleding. En dat allemaal rondom een verhoging waarop vier dieren naar de Vlam werden geduwd. Vier dieren?
 
-Odins wraak! Ze hadden Wolzam ook te pakken! Waar was Bipi?
+Odins wraak! Ze hadden Wolzam ook te pakken! Waar was Solong?
 
 "Hoe snel hun leuke beschaving in elkaar stort," mompelde de Roddelrat voor zich uit.
 
@@ -82,7 +82,7 @@ In die massa kon hij de koning niet eens meer vinden. Was hij meegenomen? Leefde
 
 "Stop met vechten!" zei een hoge stem van boven. "Haal iedereen weg van de Vlam!"
 
-Bipi! Ze stond op het dak van de hoogste toren. Samen met een soldaat die haar had achtervolgd---en nu van het dak schopte.
+Solong! Ze stond op het dak van de hoogste toren. Samen met een soldaat die haar had achtervolgd---en nu van het dak schopte.
 
 Bar-Bars adem stokte.
 
@@ -100,11 +100,11 @@ Bar-Bar maakte zijn cirkel kleiner, luid mekkerend. _Bar bar bar bar_. Totdat hi
 
 Op volle snelheid _beukte_ hij de beer en de hamster los van de Vlam. Het voorwerp zelf klapte de andere kant op en verdween in de pulserende massa vechtende dieren.
 
-Hij keek omhoog. De vallende Bipi had bijna de grond bereikt. 
+Hij keek omhoog. De vallende Solong had bijna de grond bereikt. 
 
 In zijn oude botten vond hij de kracht om nog harder te rennen. De hekken achter hem lieten steeds meer gaten. Eentje was zo mislukt dat hij omviel. Zou het nog genoeg zijn? Hij had zijn magie nooit _zo enorm_ op de proef gesteld.
 
-Bipi krijste en knorde oorverdovend hard, haar ogen wijd.
+Solong krijste oorverdovend hard, haar ogen wijd.
 
 Ze landde precies op Bar-Bars dikke vacht---en stuiterde daardoor weer de lucht in.
 
@@ -118,13 +118,13 @@ Moest. Door. Cirkel. Moest. Af.
 
 Hij bouwde het laatste hek. Zijn hart begaf het bijna. Maar het plein was omcirkeld---hij had een ren gebouwd om _iedereen_.
 
-Alle dieren vielen naar de grond, alsof de Zandkoning ze allemaal tegelijk had bestrooid met zijn slaapkorrels.
+Alle dieren vielen naar de grond, alsof de Zandkoning hen allemaal tegelijk had bestrooid met zijn slaapkorrels.
 
-Bipi viel weer omlaag.
+Solong viel weer omlaag.
 
 "Vang haar! Vang haar!"
 
-De dichtstbijzijnde dieren, die net nog bijna elkaars ogen uitstaken, gaven meteen gehoor. Gezamenlijk vormden ze een kussen onder Bipi en vingen haar veilig op.
+De dichtstbijzijnde dieren, die net nog bijna elkaars ogen uitstaken, gaven meteen gehoor. Gezamenlijk vormden ze een kussen onder Solong en vingen haar veilig op.
 
 "En nu ... help nu mij," zei Bar-Bar met falende stem. Hij zakte door zijn poten en zag, liggend op zijn rug, hoe alle dieren opstonden en naar hem luisterden.
 
