@@ -6,7 +6,9 @@ The king's chambers were easy to find. His insane babbling was audible from far 
 
 Him and Tattlerat flattened themselves again, this time against furniture. A new pack of wolf soldiers passed by.
 
-"It's chaos on the plaza. All of Amor tries to prevent the Flame Ceremony," one said to Wolfar.
+"It's chaos on the plaza. All of Amor tries to prevent the Flame Ceremony," one said to Wolfar. "But if _this many_ animals are against our punishments, oh royal prince, should we not---"
+
+"Animals don't know what they want!" yelled Wolfar. "Violence. Force. It's the _only_ way to be sure that animals do _what is good for them_!"
 
 "And, erm, more bad news," said the other with downcast eyes. "The Hens have decided to attack the city anyway. A thousand chickens stream towards the palace as we speak."
 

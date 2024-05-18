@@ -91,7 +91,7 @@ Ze keken allebei achterom.
 
 Zijn broers draaiden om en verkochten hem nog een klap. 
 
-De Roddelrat liet de anderen los om deze roddels meteen op te schrijven. Daardoor hield Bar-Bar de balans niet meer, waardoor de biggen van het dak rolde als boomstammen, totdat ze slechts door lege lucht rolden.
+De Roddelrat liet de anderen los om deze roddels meteen op te schrijven. Daardoor hield Bar-Bar de balans niet meer, waardoor de biggen van het dak rolden als boomstammen, totdat ze slechts door lege lucht rolden.
 
 Bar-Bar snelde omlaag om hen op te vangen, maar kwam te laat.
 

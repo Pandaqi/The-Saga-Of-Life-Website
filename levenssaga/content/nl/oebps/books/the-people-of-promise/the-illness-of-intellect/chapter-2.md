@@ -2,6 +2,7 @@
 title: Dodelijke Leugens
 weight: 2
 ---
+
 Felicia stond klaar om het vlees uit de kraam te stelen. Het was eindelijk eten, het was eindelijk warmte, het was alles. De zwarte poes leek verschrompeld, een bedorven stuk fruit dat was weggegooid aan de zijkant van de weg.
 
 Eerst liepen de andere dieren nog met een grote boog om haar heen. Als ze durfde naar iemand toe te stappen, werd ze meteen weg geschreeuwd. Nu deed iedereen alsof ze er geheel niet was.

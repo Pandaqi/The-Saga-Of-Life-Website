@@ -82,46 +82,13 @@ Zij geloofden dat ze het hoogtepunt van beschaving waren. En dat waren ze ook, o
 
 Of weten we wel beter?
 
+<!---
 
-
-
-
-
-
-# Revisie
-_Sorteer dit op volgorde van hoofdstukken voordat ik de revisie doe.
-
-_Lees mijn "Revision for Run of Bar-Bar" article terug, die staat in Cyclus overzicht. Het hele verhaal moet op de schop_
-
-### Per Hoofdstuk
-* Vroege Hoofdstukken: 
-	* Het moet het idee van slaven of vee (onder jouw commando) aanstippen, die werkelijk overal zijn.
-	* Iemand zegt: "Wezens weten niet wat ze willen! Geweld. Dwang. Het is de _enige_ manier om zeker te zijn dat dieren doen wat _goed voor ze is_!"
-	* Als opzet voor hoe Bar-Bar zijn magie niet _wil_ gebruiken, maar het uiteindelijk de enige manier is om iets voor elkaar te krijgen.
-
-* **H2**: Rivier Tibber => zoek op wat mijn eigenlijke naam voor de Tiber in Rome was.
-* **H2**: "Maar Bar-Bar mocht als enige zo nonchalant zijn, want hij was niet te verslaan. Hij had de raarste soort magie in zijn schapenhoeven. Bla bla ..."
-	* "zodra hij een groep dieren helemaal omcirkelde met hekken en opsloot, werden ze meteen zijn vee"
-
+Leftover notes:
 * Can't Wolfar now just say "but Wenra did adultery (with me), so she should be sentenced to death"?
-* De Romeinen drinken constant wijn. (In ieder geval de koningszonen.) 
-	* Dit wordt gezien als normaal en zelfs _goed_.
-	* Ook al zorgt dit uiteindelijk dat hij niet bij zinnen is als hij zijn broer doodt.
-	* Én dit blijkt de reden dat de koning compleet zijn verstand is verloren.
-	*  -> De Sumptuary Laws (Leges) die werden ingevoerd om juist dit soort excessieve feesten en drinken en dergelijke in te dammen?
-	*  -> Sowieso _iets_ meer van Romeinse cultuur en steden vertellen?
-* De Romeinen zijn allemaal gekleed (grotendeels in die witte gewaden). De Barbaren enzo zien zij dus als "naakt" en compleet ongehoord, ook als ze later vechten.
-* De Germanen (Bipi, Bar-Bar) gebruiken "Odins wraak!" of iets als vloek of uitroep.
-* "De Vergeten Herder" kan nu plotseling meer gewicht krijgen, als Himnib écht dat deel van de herders enzo is vergeten dankzij een korte aanraking met de Vlam?
-	* Ja, moet sowieso suggereren dat hij delen van zijn verleden is vergeten enzo, want hij heeft de Vlam heel kort aangeraakt?
-	* En wanneer/hoe magie precies is gekomen moet ook kloppen
-
-* @TODO: Wodriks dood wordt een beetje vergeten, net zoals diens vrouw (en Wolfars vrouw???)
-* Ginsea nog meer alles laten beschrijven als formules en regels en logica.
+* Have the Tattlerat actually spread and receive rumors, _show_ it
+* Wodriks dood wordt een beetje vergeten, net zoals diens vrouw (en Wolfars vrouw???)
 * Een meer specifiek/concreet moment waarop Ginsea direct soldaten zegt de koning te arresteren, en de koning direct zegt dat ze het niet moeten doen, en de soldaten _weten niet_ wat de bedoeling is? => Of is dit nu al gedaan als Bar-Bar de koning opzoekt in H9?
-* De Wijze Uil zegt dit tegen Wolfar ofzo: "Toen jullie beloofden dat jullie _samenwerkten_ met de Barbaren, was dit niet bepaald wat we voor ogen hadden." 
-	* (Over dat ze dus beweerden alleen maar vrede te hebben, zoals het Kompaanschap commandeert, maar alleen de Hennen gebruikten voor meer oorlog.)
-
 
 
 @IDEA: Ze gebruiken steeds andere zinnen om "I rest my case" te zeggen => https://www.reddit.com/r/thenetherlands/comments/lg0giv/wat_is_de_nederlandse_versie_van_i_rest_my_case/
@@ -151,3 +118,4 @@ _Lees mijn "Revision for Run of Bar-Bar" article terug, die staat in Cyclus over
 * Haha, ik zei het lekker toch
 
 
+--->

@@ -1,0 +1,4 @@
+---
+type: "print"
+title: "Printer"
+---

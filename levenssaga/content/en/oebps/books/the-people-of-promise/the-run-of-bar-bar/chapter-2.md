@@ -38,7 +38,7 @@ Wolfar and Wodrik exchanged glances.
 
 "Then you might like to know," Wodrik said, "that the king has just issued a new insane command. _All barbarians have to be exterminated immediately._ He's gathering soldiers as we speak."
 
-All jaws dropped. It was true: they had slowly given up their traveling ways, loving closer to Amor than ever, hoping it would be a safe haven against the Hens. But if the king wanted ...
+All jaws dropped. It was true: they had slowly given up their traveling ways, living closer to Amor than ever, hoping it would be a safe haven against the Hens. But if the king wanted ...
 
 "_The Cuckoo King_," Bar-Bar mumbled. "_The Mindless Monarch_. That's what they call him. Everyone knows it, but you let it happen."
 

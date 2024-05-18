@@ -6,7 +6,9 @@ De kamer van de koning was makkelijk te vinden. Zijn gestoorde geratel galmde do
 
 Hij en de Roddelrat pletten zich opnieuw tegen een meubelstuk. Een nieuwe roedel wolvensoldaten kwam langs.
 
-"Het is een chaos op het plein. Heel Amor probeert de Vlamstraf te voorkomen," zei de ene.
+"Het is een chaos op het plein. Heel Amor probeert de Vlamstraf te voorkomen," zei de ene. "Als _zoveel_ dieren tegen onze straffen zijn, oh edele prins, moeten we dan niet---"
+
+"Wezens weten niet wat ze willen!" riep Wolfar. "Geweld. Dwang. Het is de _enige_ manier om zeker te zijn dat dieren doen wat _goed voor ze is_!"
 
 "In ander slecht nieuws," zei de ander met ogen richting de vloer, "hebben de Hennen besloten om toch de stad in te trekken. Duizenden kippen stromen naar het paleis."
 

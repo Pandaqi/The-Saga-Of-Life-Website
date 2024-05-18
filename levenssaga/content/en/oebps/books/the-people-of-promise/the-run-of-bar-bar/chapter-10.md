@@ -10,7 +10,7 @@ Himnib rested against a tree and looked over the plaza in a daze. A crowd of ani
 
 Cheers and applause. Wolfar, chained to a tree, roared and grunted, though he must have seen this coming.
 
-All eyes fell on Wolzam, who'd only be an adult in a few years. "So the throne falls to u, oh noble king."
+All eyes fell on Wolzam, who'd only be an adult in a few years. "When the Amori promised they were _cooperating_ with the barbarians, this wasn't exactly what I had in mind. So the throne falls to you, oh noble king Wolzam."
 
 Silence fell. Most inhabitants didn't really know him. Or they only knew him through the gossip from the Tattlerat, from his supposed love for boy wolves which was _unthinkable_, from how he'd switched sides and joined the _barbarians_, all of which were ... true.
 
@@ -70,7 +70,7 @@ Solong saw it too. The demigod cried even more, as she convinced most of the she
 
 ___
 
-Wolzam had immediately opened the gates to the Grapi tribes and other Barbarians. Of course, many Amori complained. But the Tattlerat spread just the right rumors to slowly turn the consensus around.
+Wolzam had immediately opened the gates to the Grapi tribes and other Barbarians. Ginsea had also helped him introduce the _Leges_: laws against the excessive consumption of alcohol. Of course, many Amori complained. But the Tattlerat spread just the right rumors to slowly turn the consensus around.
 
 Bar-Bar was furious with himself for using his magic again. Now he had a hundred Amori who listened to him, followed his every command. But deep inside, he knew it had to be done, and that it prevented something even worse---such as the death of all those Amori during the chaos. Hesitantly, he tried to spread positive news about the Barbarians through his new ... slaves. Until, one day, he might find a way to "release" them from his magic.
 

@@ -13,7 +13,7 @@ Hij keek naar de grond en zijn stem werd onhoorbaar zacht. "Wolfar zou de nieuwe
 
 Gejuich steeg op. Wolfar, met ketenen vastgebonden aan Himnibs boom, rommelde en gromde wat, maar had zijn lot vast al zien aankomen.
 
-Ieders ogen vielen op Wolzam, pas over enkele jaren volwassen. "Dus de troon valt naar u, oh edele koning."
+Ieders ogen vielen op Wolzam, pas over enkele jaren volwassen. "Toen de Amori aan mij beloofden dat ze _samenwerkten_ met de Barbaren, was dit niet bepaald wat ik voor ogen had. Dus de troon valt naar u, oh edele koning Wolzam."
 
 Het viel stil. De meeste inwoners kenden hem eigenlijk niet. Of ze kenden hem alleen van de roddels van de rat, over zijn liefde voor jongens die niet hoorde, over dat hij was overgelopen naar de barbaren, allemaal ... waar.
 
@@ -67,7 +67,7 @@ Solong zag het ook. Als halfgodin begreep ze misschien meer van wat er speelde. 
 
 ___
 
-Wolzam had vrijwel meteen de deuren opengezet voor de Grapi stam en andere Barbaren. Natuurlijk klaagden veel van de Amori. Maar de Roddelrat veranderde langzaam de publieke opinie door precies de juiste roddels te verspreiden.
+Wolzam had vrijwel meteen de deuren opengezet voor de Grapi stam en andere Barbaren. Ook hielp Ginsea hem om de _Leges_ te introduceren: wetten tegen het overmatig drinken van alcohol. Natuurlijk klaagden veel van de Amori. Maar de Roddelrat veranderde langzaam de publieke opinie door precies de juiste roddels te verspreiden.
 
 Bar-Bar was kwaad op zichzelf dat hij zijn magie weer had gebruikt. Nu had hij honderd Amori die naar hem luisterden en elk commando van hem zouden volgen. Diep van binnen wist hij dat hij geen keuze had en dat dit iets ergers had voorkomen---zoals vele doden onder de Amori tijdens de chaos. Voorzichtig verspreidde hij toch maar positieve gedachten over de barbaren door middel van deze nieuwe ... slaven. Totdat hij, ooit, een manier hoopte te vinden om dieren "los te maken" van zijn magie.
 
