@@ -4,7 +4,7 @@ weight: 9
 ---
 Catia was meteen klaarwakker, net als ze dat niet meer wilde zijn. De vlammen likten bijna aan haar trillende poten. Zelfs over het lawaai kon ze precies de stem van haar ouders horen. 
 
-Owuit deed niks meer. Alle hoop was uit hem gedruppeld en zijn vacht leek wel alle kleuren verloren.
+Aria deed niks meer. Alle hoop was uit haar gedruppeld en haar vacht leek wel alle kleuren verloren.
 
 Felicia lag er hetzelfde bij.
 
@@ -34,7 +34,7 @@ Hun lichamen raakten nu al oververhit. Hun kelen vulden met smerige rook, waardo
 
 Felicia schudde haar lichaam totdat haar buidel niet meer op haar rug zat, maar rond haar buik. 
 
-"De Vuurvlecht. Het middeltje dat ik maakte op weg om Owuit te bevrijden! Als het in aanraking komt met vuur ... "
+"De Vuurvlecht. Het middeltje dat ik maakte op weg om Aria te bevrijden! Als het in aanraking komt met vuur ... "
 
 Catia reikte naar voren, trok de paal zoveel mogelijk mee, maar kwam niet bij de ingrediënten.
 
@@ -42,21 +42,21 @@ Catia reikte naar voren, trok de paal zoveel mogelijk mee, maar kwam niet bij de
 
 Felicia kon hem zelf ook niet pakken.
 
-Ze keken allebei naar Owuit.
+Ze keken allebei naar Aria.
 
 "Het zal bestaan, beste uil," zei Catia. "En als je dit doet, kan je misschien nog daarmee helpen."
 
-Hij zuchtte en stak zijn snavel in de buidel. De lading Vuurvlecht zat in een kom, afgedekt met een houten deksel die erop klemde.
+Ze zuchtte en stak haar snavel in de buidel. De lading Vuurvlecht zat in een kom, afgedekt met een houten deksel die erop klemde.
 
-Terwijl het drietal de paal nog steviger knuffelde, deed Owuit uiterst zorgvuldig de deksel open. 
+Terwijl het drietal de paal nog steviger knuffelde, deed Aria uiterst zorgvuldig de deksel open. 
 
 Catia krulde haar staart helemaal om haarzelf om te voorkomen dat het uiteinde verbrandde. Felicia moest haar tranende ogen sluiten tegen de rook.
 
-Owuit tilde de kom op met zijn snavel, nog altijd langzaam en zorgvuldig.
+Aria tilde de kom op met haar snavel, nog altijd langzaam en zorgvuldig.
 
-En daarna gooide hij een flinke plens over Felicia heen.
+En daarna gooide ze een flinke plens over Felicia heen.
 
-De volgende plens ging over Catia, en de laatste over hemzelf. Hij wierp de kom in de vlammen om het bewijsmateriaal te vernietigen.
+De volgende plens ging over Catia, en de laatste over haarzelf. Ze wierp de kom in de vlammen om het bewijsmateriaal te vernietigen.
 
 De vuurzee bereikte hen. De roodoranje vlammen grepen naar alle delen van hun lichaam, happig naar stukjes om te verbranden, en ze brachten de hitte van duizend zonnen.
 
@@ -80,54 +80,72 @@ Ze konden proberen te vluchten---maar ze waren omringd aan alle kanten.
 
 "Voor heksen geldt directe doodstraf!" riep Fonza. "Pak ze!"
 
+De helft van de menigte volgde het commando graag. De andere helft deed niets, behalve fluisteren naar elkaar en wijzen naar Aria.
+
 Catia's ouders stormden naar de brandstapel en sprongen op het zwarte stro, schuivend door de laag as. 
 
 "Stop!" riep haar moeder. "Wij zijn de familie Cartin, edelen van de hoogste orde. Ja, je kent ons. Wij beheren je land en wij geven je te eten. Wie ook maar een háár van onze dochter aanraakt, zal dat betreuren!"
 
-Haar vader nam haar en Felicia meteen beschermend in zijn poten. Owuit was nog altijd niet in staat om iets erom te geven. Meerdere Kraaien landden op de paal, maar vielen niet aan.
+Haar vader nam haar en Felicia meteen beschermend in zijn poten. Aria was nog altijd niet in staat om iets erom te geven. Meerdere Kraaien landden op de paal, maar vielen nog niet aan.
 
 Felicia keek bedrogen. "Catia. Je had niet _even_ kunnen vertellen dat je haast uit een koninklijke familie komt?"
 
-De menigte schuifelde onrustig. Sommige liepen weg. De meeste bleven herhalen dat het _bewezen heksen_ waren en kropen toch dichterbij, Fonza als hun aanjager.
+De menigte schuifelde onrustig. Sommige liepen weg. Sommige herhaalden dat het wel Aria was, de Wijze Uil, die zoveel voor hen had gedaan en zoveel patiënten had geholpen. Felicia en Catia waren enigszins populair geworden in het Rivierdistrict, met hun grapjes en behulpzame instelling.
+
+De meeste dieren, echter, bleven herhalen dat het _bewezen heksen_ waren en kropen toch dichterbij, Fonza als hun aanjager.
 
 "Dit is nou _precies_ wat heksen zouden doen. Machtig worden en dan die macht misbruiken!"
 
-"Oh volgens jou doen heksen alles," bromde Felicia. 
+"Oh volgens jou doen heksen _alles_," bromde Felicia. 
 
-Fonza's vacht kleurde van oranje naar rood. Stoom kwam bijna uit haar oren. 
-
-Links van het plein, in de verte, verscheen een volgende stoet bewakers. Deels om te kijken wat hier allemaal aan de hand was, deels om de landheer in zijn koets te vervoeren.
+Links van het plein, in de verte, verscheen een volgende stoet bewakers. Om te kijken wat hier allemaal aan de hand was én de landheer in zijn koets te vervoeren.
 
 Vanaf de andere kant kwam ook een koets. Maar deze reed uit zichzelf? En was meer een soort huisje van hout?
 
-"We zullen je dochter niet aanraken, oh beste familie Cartin," krijste Fonza. "Maar die andere twee ..."
+Fonza's vacht kleurde van oranje naar rood. She nam de commando's van de Kraaien over.
 
-"Staan onder onze bescherming. Ja, dat kunnen we doen. Vraag maar aan de landheer."
+"Pak ze! Dood ze!"
 
-De landheer stapte uit zijn koets aan de rand van het plein. Hij had zeker niet gehoord waarover het ging, maar koos per direct om zijn elite families te beschermen.
+Weer bewoog de helft om aan te vallen. De andere helft deed niet niks deze keer, maar _blokkeerde_ actief Fonza's pad. En het was precies de groep dieren die werkten of leefden onder de familie Cartin.
+
+"Prima," krijste Fonza. "We zullen je dochter niet aanraken, oh beste familie Cartin, maar die andere twee ..."
+
+"Wat hebben ze nou eigenlijk gedaan?" vroegen enkele dieren. "Geprobeerd medicijnen te maken voor een ander ziek dier? Is dat genoeg om de Wijze Uil te doden?"
+
+"Aan de kant!" Fonza beet om haar hen en maakte een pad vrij om Felicia te grijpen.
+
+De landheer arriveerde. Hij stapte uit zijn koets aan de rand van het plein. Hij had niet gehoord waarover het ging, en de Kraaien en de Cartin familie gaven beide een _compleet andere_ uitleg van wat er was gebeurd, dus hij durfde niks te besluiten.
+
+"De regels rondom Heksentesten zijn duidelijk," sprak hij langzaam. "Dus---"
+
+"Als de landheer het niet verbiedt, gaat de doodstraf dus door!" besloten de Kraaien voor hem.
+
+Geschreeuw van "Nee!" en "Laat ze gaan!" steeg op uit de menigte. De landheer stapte terug, veilig in een cirkel van bewakers, zijn ogen angstig op zoek naar iets van zekerheid in de chaos.
+
+Uiteindelijk, nog altijd verward, koos hij de veilige kant. "Ik bedoel, natuurlijk, dat ik achter de elite familie Cartin sta! Zij hebben gelijk. Al deze _zogenaamde_ heksen staan onder hun bescherming."
 
 Steeds meer dieren liepen weg. Een gevecht tegen de elite ging je niet winnen. Die konden inderdaad vrijheden of bescherming krijgen waar alle arme burgers slechts van konden dromen.
 
 Uiteindelijk bleef alleen de harde kern over. En die accepteerden even helemaal niks.
 
-Fonza opende haar bek en sprong naar voren. Felicia paste er helemaal in; Owuit reageerde nergens meer op. Een drietal wolven sprongen gretig met haar mee.
+Fonza opende haar bek en sprong naar voren. Felicia paste er helemaal in; Aria reageerde nergens meer op. Een drietal wolven sprongen gretig met haar mee.
 
 Hun schaduwen vielen over de doodsbange poes. Een wolvenklauw sloeg een diepe wond in Felicia's gezicht.
 
 En toen werden ze ondersteboven gereden door de andere koets.
 
-De wolven landden tegen een boom. Fonza landde in de rivier en zwom voor haar leven. De koets werkte als een muur tussen de brandstapel en alle anderen, wat het laatste gevaar wegnam.
+De wolven landden tegen een boom. Fonza landde in de rivier en zwom voor haar leven. De koets werkte als een muur tussen de brandstapel en alle anderen.
 
-Een kleine chimpanzee, met stompjes en niet geheel volgroeide ledematen, rolde uit de koets.
+Een kleine chimpanzee, met stompjes in plaats van volgroeide ledematen, rolde uit de koets.
 
-"Ach, dat is nou onhandig van mij," zei ze.
+"Ach, dat is nou onhandig van mij," zei Chef.
 
-De landheer keek furieus. De Kraaien wachtten op zijn oordeel. Als hij toch zei om aan te vallen ... 
+De landheer keek furieus. De Kraaien wachtten op zijn oordeel. Dit was overduidelijk een poging tot moord! De situatie liep uit de hand en moest worden bestraft!
 
-De chimpanzee hield een zegel omhoog: die van de leeuwenkoning in Traferia, de oerwouden verder richting het zuiden.
+Maar de menigte, die met honderd maal zoveel waren en daadwerkelijk de wensen van de stad weergaven, hielden van de Goede Chef en wilden complete vrijheid voor deze heksen.
 
-"Deze hier staan _allemaal_ onder mijn bescherming. U kunt gaan."
+_En zo zien we, beste lezer, dat groepsdruk wreed en verschrikkelijk kan zijn, maar ook soms de enige manier om iets goeds te bereiken tegen alle verwachting in. Om onrecht recht te buigen, om anderen te dwingen zich op een minder egoïstische manier te gedragen._
 
-De landheer bekeek het zegel lang en aandachtig. Daarna schudde hij zijn hoofd en keerde om. "Ik heb niks gezien en dit is niet gebeurd. Ga je gang, Chef."
+De landheer stapte snel terug in zijn koets en vertrok. "Ik zag niets en er is niets gebeurd. Los het op, Chef."
 
-Felicia, Catia en Owuit vielen tegelijkertijd flauw van de opluchting.
+Felicia, Catia en Aria vielen tegelijkertijd flauw van de opluchting.

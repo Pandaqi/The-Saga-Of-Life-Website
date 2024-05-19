@@ -21,7 +21,7 @@ Dus ze wachtte tot ze terugzwaaide en opnieuw---
 
 Ze viel meteen plat op haar buik, onder de kraam. De verkoper greep naar haar. Maar ze had geen vel meer over om vast te grijpen en glipte makkelijk weg.
 
-De verkoper ging in de achtervolging totdat ze de boze massa bereikten. De vele poten en snavels duwden Felicia heen en weer geduw, waardoor ze bijna onder de wielen van de koets kwam.
+De verkoper ging in de achtervolging totdat ze de boze massa bereikten. De vele poten en snavels duwden Felicia heen en weer, waardoor ze bijna onder de wielen van de koets kwam.
 
 Toen de koets vluchtte, krabbelde ze overeind. Nu was ze slechts één dierenkop tussen velen; de verkoper was haar kwijt. 
 
@@ -61,7 +61,7 @@ Dus Felicia deed het.
 
 "Sorry, Dora, ik wilde het niet geloven. Maar ik heb je gisteravond gezien, toen je een toverdrank maakte en een kikker ... veranderde in een aap! En toen betoverde je de hele bakkerij om al het brood te vergiftigen!"
 
-Dieren sloegen poten en vleugels voor hun verbaasde monden. De kraaien accepteerden het verhaal nog niet helemaal, maar stelden ook geen kritische vragen. Alsof ze zochten naar elk willekeurig excuus om Dora weg te slepen.
+Dieren sloegen poten en vleugels voor hun verbaasde monden. De kraaien accepteerden het verhaal nog niet helemaal, maar stelden ook geen kritische vragen.
 
 "Ik---" begon Dora.
 
@@ -101,11 +101,13 @@ Kon ze Dora nog redden? Ze moest meteen teruggaan. De kade afgaan. Maar dat zou 
 
 Kon ze niet iets uitvinden? Iets om langer adem te kunnen vasthouden onder water? Ze had laatst nog een mengseltje uitgevonden dat je een geweldige conditie gaf als je het regelmatig dronk.
 
-Maar die gedachte dreef weg toen de hond haar mee naar binnen nam en bij een warm vuurtje plaatste. Ze kreeg extra hooibalen als bed en lauwe soep die ze opslurpte alsof het mals vlees was. De andere volwassen dieren slurpten vooral drankjes met alcohol. Wisten ze niet hoe slecht dat was? Felicia durfde nu echt niet uit te leggen hoe die stofjes werkten, dan werd ze meteen ook beschuldigd van hekserij.
+Maar die gedachte dreef weg toen de hond haar mee naar binnen nam en bij een warm vuurtje plaatste. Ze kreeg extra hooibalen als bed en lauwe soep. Toch slurpte ze het op alsof het mals vlees was, omdat het ook kleine stukjes heerlijke vis bevatte. En terwijl ze ervan genoot, vertelde ze haarzelf dat ze dit niet waard was. Niet meer.
+
+De andere volwassen dieren slurpten vooral drankjes met alcohol. Wisten ze niet hoe slecht dat was? Felicia durfde nu echt niet uit te leggen hoe die stofjes werkten, dan werd ze meteen ook beschuldigd van hekserij.
 
 "Wat dapper dat jij je uitsprak," zei de hond. "Ik ben Dormas. Welkom in mijn warme woning."
 
-Haar ogen ontmoetten die van Dormas, die steeds alle kanten op draaiden. Was iedereen het eens met de leugen? Waarom zeiden ze anders dat ze herinnerden dat ze de assistente was van de bakker? Of dachten ze echt dat Felicia de waarheid sprak?
+Was iedereen het eens met de leugen? Waarom zeiden ze anders dat ze herinnerden dat ze de assistente was van de bakker? Of dachten ze echt dat Felicia de waarheid sprak?
 
 Ze wist niet meer wat ze moest doen. Toen ze begon te huilen, werd ze getroost omdat ze dachten dat Dora "als een moeder voor haar was" en het "heftig is om zo'n Heksenproces te zien". Dat liet haar alleen maar harder huilen.
 

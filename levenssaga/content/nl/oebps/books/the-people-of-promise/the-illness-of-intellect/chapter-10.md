@@ -30,27 +30,35 @@ Felicia stond zuchtend op. Het zoveelste dier dat een illusie voor zichzelf in s
 
 "Mag ik gaan?"
 
-"Ja, ja, ja." De landheer leek meer geïnteresseerd in het lekkere eten dat voor hem klaarstond en zijn kont op een zachte troon.
+"Ik _moet_ je veroordelen tot de dood," zei de wolf plots serieus. "Maar alle inwoners hebben me gevraagd om je te laten gaan."
+
+Haar stem trilde. "Dat, eh, nou, dat is aardig."
+
+"Ze hebben geen gelijk," zei de landheer. "Maar ze zijn met veel. _Ga._"
+ 
+ De landheer leek meer geïnteresseerd in het lekkere eten dat voor hem klaarstond en zijn kont op een zachte troon.
 
 Ze haalde opgelucht adem en liep terug naar huis---Catia's huis. Villa. Nee, landgoed. Ze was gewoon een dochter van _Cartin_! Zij beheerden het halve platteland rondom de stad en stuurden duizenden knechten aan. Ze moest glimlachen bij het idee dat zij, op een of andere manier, bij Felicia was uitgekomen.
 
 En dat zij daarom nu mocht wonen op die mooie plek, met veel lievere ouders.
 
-Maar toen ze binnenkwam, vond ze als eerste Chef en Owuit verwikkeld in een ruzie.
+Maar toen ze binnenkwam, vond ze als eerste Chef en Aria verwikkeld in een ruzie.
 
 "Je hebt het Boek ten schande gemaakt," zei Chef. "Je verdient het niet. Het was als eerste van mij gestolen en ik neem het weer terug."
 
-"En hoe ben jij eraan gekomen?" vroeg Owuit uitdagend. "Het is Bella's boek, niet de jouwe."
+"En hoe ben jij eraan gekomen?" vroeg Aria uitdagend. "Het is Bella's boek, niet de jouwe."
 
 Chef keek geïrriteerd. "Je hebt gelijk. Zal ik het teruggeven aan de dode godin die de Uilen _niet konden redden_?"
 
-Owuit sprong woedend van zijn plek en schreeuwde: "Waag het niet daarover te beginnen!"
+Aria sprong woedend van haar plek en schreeuwde: "Waag het niet daarover te beginnen!"
 
 Chef glimlachte stout. "Ah. Ik wilde alleen weten of er nog wel ergens vuur in je zat. Misschien wordt het nog wat met jou."
 
 Haar armen namen het Boek der Betekenis liefkozend terug. "Misschien is kennis een vloek. Misschien zijn er ziektes die niet kunnen worden opgelost."
 
 Ze keek naar Catia, die opgerold sliep op het zachte tapijt, soms zachtjes miauwend van de pijn. "Maar de enige manier om dat op te lossen, is door elke dag op te zoek te gaan naar _meer kennis_."
+
+_Of zoals de wijze Ardex ooit opschreef, beste lezer: geen groei zonder verlies. Geen vooruitgang zonder tegenslagen, geen successen zonder falen. Hoewel ik natuurlijk nog altijd wens, elke dag, met mijn hele hart, dat de godenkinderen nooit waren verslagen en verwijderd van Somnia._
 
 Ze tikte Felicia aan. "Had je al het Dondermedicijn geprobeerd?"
 
@@ -68,11 +76,11 @@ De chimpanzee waggelde terug naar haar houten huisje op wielen en rommelde erin.
 
 Chef ging door met haar verhaal alsof ze het niet had gehoord.
 
-Owuit stond op en wapperde zijn vleugels. "Misschien ... misschien kan mijn perfecte hemel nu nog niet bestaan. We hebben nog niet de kennis, de technologie, de grondstoffen. Ik dacht dat de Kompanen het antwoord waren. Alle diersoorten één stem geven over alles. Maar misschien _kon_ het gewoon nog niet."
+Aria stond op en wapperde haar vleugels. "Misschien ... misschien kan mijn perfecte hemel nu nog niet bestaan. We hebben nog niet de kennis, de technologie, de grondstoffen. Ik dacht dat de Kompanen het antwoord waren. Alle diersoorten één stem geven over alles. Maar misschien _kon_ het gewoon nog niet."
 
-Zijn snavel trok scheef en hij zette alle drie zijn brillen weer op. "Misschien kan ik daar nog iets in betekenen."
+Haar snavel trok scheef en ze zette alle drie haar brillen weer op. "Misschien kan ik daar nog iets in betekenen."
 
-Hij zei een vluchtig vaarwel en vloog richting de blauwe hemel.
+Ze sprak een vluchtig vaarwel en vloog richting de blauwe hemel.
 
 Catia opende één oog. "Oh ach en wee, wat horen mijn oren, moet ik nog meer medicijnen slikken, die mij niet gaan bekoren?"
 

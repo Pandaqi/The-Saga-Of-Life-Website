@@ -10,9 +10,9 @@ cycle: "The People of Promise"
 bundle: "Barbarians & Witchhunts"
 character: ["Catia", "Felicia", "Chef", "Dormas", "Fonza", "The Wise Owl"]
 prequel: []
-refers: ["Amor", "El Bjib", "Heavenmatter", "Firebraid", "Thunder Medicine", "Simmersauce", "Cricket Treatment", "Slumberland", "Traferia", "Companions"]
-happens: [] # ??
-godlink: ["The Wise Owl"] # ??
+refers: ["Amor", "El Bjib", "Heavenmatter", "Firebraid", "Fishfool", "Thunder Medicine", "Simmersauce", "Cricket Treatment", "Slumberland", "Traferia", "Companions"]
+happens: []
+godlink: ["The Wise Owl"]
 genre: ["Dialogue", "Sad", "Society", "Growth", "History", "Crime"]
 teaches: ["Witch Hunts", "Medieval Medicine"] 
 

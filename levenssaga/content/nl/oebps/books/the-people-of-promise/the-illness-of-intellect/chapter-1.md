@@ -56,23 +56,23 @@ Moeder zuchtte. Ze was een mooie zwarte poes, altijd gestoken in de meest hippe 
 
 "Ik moet toegeven dat hij minder goed was dan ik had verwacht. Zeker voor al dat geld dat hij vraagt."
 
-"We moeten de beste heler hebben," zei Catia zelfverzekerd. "Owuit de Heldenheler."
+"We moeten de beste heler hebben," zei Catia zelfverzekerd. "Aria, de Wijze Uil, de Heldenheler."
 
-"Maar lief, je weet toch dat hij ..."
+"Maar lief, je weet toch dat zij ..."
 
-"Ik zal alles doen wat hij vraagt! Hij is al dat geld waard."
+"Ik zal alles doen wat ze vraagt! Zij is al dat geld waard."
 
 Haar moeder keek weg. Vanuit hun villa op de heuvel konden ze de prachtige natuur in de omgeving zien---en alle arme, vieze sloppenwijken van een nette afstand. 
 
-"Het is ook bijna _al_ ons geld dat we nog hebben. Owuit accepteert niet alle patiënten, alleen degene waarvan hij zeker weet dat hij ze kan genezen."
+"Het is ook bijna _al_ ons geld dat we nog hebben. Aria accepteert niet alle patiënten, alleen degene waarvan zij zeker weet dat zij hen kan genezen."
 
-"Maar daarom is hij legendarisch: _alle_ patiënten in zijn kliniek zijn altijd genezen! Hij zal mij opnemen. Ik weet het zeker!" 
+"Maar daarom is ze legendarisch: _alle_ patiënten in haar kliniek zijn altijd genezen! Ze zal mij opnemen. Ik weet het zeker!" 
 
 Catia vertelde het vooral tegen haarzelf. Haar moeder zou al dat geld zonder problemen uitgeven om haar dochter te redden. Catia wilde gewoon de hoop houden dat de pijn weer een keer verdween.
 
 Dus moeder overlegde met vader. Een kluis werd geopend, helemaal leeggehaald, en daarna omringd door bewakers in hun koets geplaatst. Even later tilden ze Catia naar de achterbank, maar ze wilde perse zelf lopen. Dat korte stukje lukte tenminste nog. Een kleine overwinning.
 
-Diezelfde avond nog reden ze naar het enorme landgoed van Owuit.
+Diezelfde avond nog reden ze naar het enorme landgoed van Aria, de Wijze Uil.
 
 De comfortabele koets, met nog zachtere banken, gleed geruisloos over de vlakke paden. Catia dommelde vrijwel meteen in slaap.
 
@@ -86,38 +86,48 @@ Ze wist precies door welke wijk ze reden. En de dieren hier, in gerafelde kledin
 
 Catia's hart bonkte in haar keel. De paarden maakten extra vaart. Haar ouders schoven hun warme lichaam tegen haar aan totdat het moment voorbij was. De ruiten moesten gewassen, maar ze leefden tenminste nog.
 
-En zo kwamen ze bij Owuits landgoed. Zelfs de poort was gemaakt van goud en zilver, hoog en breed genoeg om een olifant toegang te bieden. De hele plek straalde iets magisch uit. Een plek van kennis, en wetenschap, en geneeskunde.
+En zo kwamen ze bij Aria's landgoed. Zelfs de poort was gemaakt van goud en zilver, hoog en breed genoeg om een olifant toegang te bieden. De hele plek straalde iets magisch uit. Een plek van kennis, en wetenschap, en geneeskunde.
 
 Ja. Hier zou Catia worden opgenomen en genezen. Het ging lukken. De pijn zou---
 
 Haar ouders gebruikten hun zak geld en aanzienlijke macht om meteen de poort open te krijgen. Catia wist niet precies wat haar ouders zo belangrijk maakte, maar ze was blij dat het zo werkte. Ze hadden een hoop land. Maar waarom? Waarom waren stukjes land het eigendom van dieren? Haar vader en moeder leken nooit _aan het werk_?
 
-Owuit kwam zelf naar buiten vliegen. Een goed teken? Zijn vleugels waren zo lang dat ze soms de grond schraapten bij het lopen. Zijn ogen waren bijna te groot voor zijn hoofd en hij droeg drie brillen over elkaar.
+Aria kwam zelf naar buiten vliegen. Een goed teken? Haar vleugels waren zo lang dat ze soms de grond schraapten bij het lopen. Haar ogen waren bijna te groot voor haar hoofd en ze droeg drie brillen over elkaar. Ze was ooit veel groter, een Reuzenuil, maar iets had haar grootte over de jaren verminderd. Misschien was het simpelweg haar leeftijd.
 
 De deur vloog open. Koude wind blies over Catia's lichaam om de rillingen tweemaal heftiger te maken. Ze werd naar buiten gedragen en gepresenteerd als een pasgeboren lammetje---hopelijk niet voor de slacht.
 
-"Wat zijn de klachten?" vroeg Owuit, terwijl hij van bril wisselde. Catia wilde het zelf vertellen---het was potjandorie haar lichaam---maar ze had de kracht niet meer.
+"Wat zijn de klachten?" vroeg Aria, terwijl ze van bril wisselde. Catia wilde het zelf vertellen---het was potjandorie haar lichaam---maar ze had de kracht niet meer.
 
-"Het begon maanden geleden met zwakke poten, hoofdpijn, altijd koud. Nu kan ze bijna niet meer zelf staan of lopen, en wil alleen maar slapen tegen de pijn en de harde geluiden." Moeders stem brak bijna in tranen uit. "Alsjeblieft. Help haar. We hebben alles gegeven dat we nog hadden."
+"Het begon maanden geleden met zwakke poten, hoofdpijn, altijd koud. Nu kan ze bijna niet meer zelf staan of lopen, en wil alleen maar slapen tegen de pijn en de harde geluiden." Moeders stem brak bijna in tranen uit. "Alsjeblieft. Help haar. We hebben alles gegeven, _alles geprobeerd_."
 
-Owuit wisselde opnieuw van bril. Hij boog zich over Catia. Moesten ze dit _buiten_ doen? Wat was de haast? Ze dacht terug aan alle andere legendes over patiënten met gekke ziektes die Owuit had genezen. En ja, in al die legendes werd de beslissing ook _buiten_ gemaakt. Je mocht pas naar binnen als hij je definitief opnam.
+"Heb je heksen geprobeerd?"
 
-Zijn pufferige vleugels draaiden als een warme deken om haar lichaam. Hij tilde elke poot één voor één op, tilde haar oogleden pijnlijk ver omhoog, en stak een dun apparaatje in haar oren. Hij was nu al langer bezig met fatsoenlijk onderzoek dan al die andere helers.
+"Pardon? Nee, nee, natuurlijk niet! Wat een vreselijke suggestie, ik weet niet wat ik hoor."
 
-Daarna keek hij haar erg zorgelijk en verdrietig aan.
+"De laatste heks die ze verbrandden was een halfgod die gebroken botten kon helen met één aanraking. Heksen zouden het _eerste_ zijn dat je probeert, als de dieren in deze stad nog hersens hadden."
+
+Haar moeder was geschokt over deze opmerkingen. Ze vroeg zich nu af hoe Aria, de wonderdokter, nooit eerder was beschuldigd van zelf een heks te zijn.
+
+Aria wisselde opnieuw van bril. Ze boog zich over Catia. Moesten ze dit _buiten_ doen? Wat was de haast? Ze dacht terug aan alle andere legendes over patiënten met gekke ziektes die Aria had genezen. En ja, in al die legendes werd de beslissing ook _buiten_ gemaakt. Je mocht pas naar binnen als ze je definitief opnam.
+
+Haar pufferige vleugels draaiden als een warme deken om haar lichaam. Ze tilde elke poot één voor één op, tilde haar oogleden pijnlijk ver omhoog, en stak een dun apparaatje in haar oren. Ze was nu al langer bezig met fatsoenlijk onderzoek dan al die andere helers.
+
+Daarna keek de Wijze Uil naar Catia, zorgelijk en verdrietig.
 
 "Nee toch ..." snikte haar moeder.
 
 "Alsjeblieft," kraakte Catia. "Zo erg is het niet. Ik heb andere klachten---"
 
-Haar zin werd onderbroken door een hoest die bijna een minuut lang aanhield. Die wijze uilenogen keken lang recht in die van Catia.
+Haar zin werd onderbroken door een hoest die bijna een minuut lang aanhield. 
 
-"Oh! Dat heb ik gemist," zei Owuit ineens. Hij toverde een bladzijde tevoorschijn met allerlei schematische tekeningen en gekrabbel in een handschrift dat echt niemand kon lezen. Hij trok het puntje van zijn vleugel eroverheen, alsof hij iets natekende, en knikte tegen zichzelf. Blijkbaar deden alle helers dat.
+De reactie van Aria bleef lang uit. Zo lang dat haar ouders hun dochter alweer oppakten en zich klaarmaakten om te vertrekken.
 
-Daarna glimlachte hij en nam Catia mee.
+"Oh! Dat heb ik gemist," zei Aria ineens. Ze toverde een bladzijde tevoorschijn met allerlei schematische tekeningen en gekrabbel in een handschrift dat echt niemand kon lezen. Ze trok het puntje van zijn vleugel eroverheen, alsof ze iets natekende, en knikte tegen haarzelf. Blijkbaar deden alle helers dat.
+
+Daarna glimlachte ze en nam Catia mee.
 
 "Welkom op mijn landgoed. Kom binnen."
 
-Haar hart maakte een sprong en van opluchting dommelde ze weer weg in zijn grote vleugels.
+Haar hart maakte een sprong en van opluchting dommelde ze weer weg in haar grote vleugels.
 
 "Het eerste dat we gaan proberen is ondersteboven van het plafond hangen."

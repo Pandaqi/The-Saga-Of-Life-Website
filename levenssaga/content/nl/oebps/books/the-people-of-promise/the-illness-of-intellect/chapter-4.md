@@ -86,7 +86,7 @@ Totdat ze iemand anders vonden die nóg liever meespeelde met hun spel. Ze moest
 
 "Wat heb je allemaal al geprobeerd?" vroeg ze.
 
-"Alles. Alle helers. Zelfs Owuit. Maar er zit een limiet aan hoeveel dieren ik over mijn huid kan wrijven of hoeveel drankjes met modder ik kan drinken. En hoeveel ik ondersteboven of zijwaarts kan hangen."
+"Alles. Alle helers. Zelfs Aria. Maar er zit een limiet aan hoeveel dieren ik over mijn huid kan wrijven of hoeveel drankjes met modder ik kan drinken. En hoeveel ik ondersteboven of zijwaarts kan hangen."
 
 Felicia lachte. "Ik ben bang dat ik je nog een drankje ga laten drinken. Maar deze heeft geen modder, alleen wat planten en een geperste noot als ik die kan vinden. Het is een pijnstiller die ik lang geleden leerde van mama."
 
@@ -100,7 +100,9 @@ Catia draaide op haar zij en vernauwde haar ogen. "Dus ... je bent een heks?"
 
 "Nee, nee, ik ... ik probeer het gewoon te begrijpen denk ik." 
 
-Felicia miauwde enthousiast toen ze een kastdeur opensloeg en precies de laatste ingrediënten vond die ze zocht. Mama noemde het altijd al de "armelui pijnstiller", want _iedereen_ moest dit kunnen maken met wat ze in huis hebben.
+Felicia opende een kast en vond schilderingen van Dormas en, waarschijnlijk, zijn vrouw en kinderen. Hij zag er zoveel gezonder uit toen. Heldere ogen, in plaats van de dwalende pupillen die ze nu kende. Hij was een lieve hond---hij had zijn huis en eten gegeven aan haar, een vreemde zwarte poes. Geen God, als die bestond, zou hem laten sterven, toch?
+
+Ze miauwde enthousiast toen ze een volgende kastdeur opensloeg en precies de laatste ingrediënten vond die ze zocht. Mama noemde het altijd al de "armelui pijnstiller", want _iedereen_ moest dit kunnen maken met wat ze in huis hebben.
 
 Even later gaf ze Catia een soepkom met het medicijn. Ze dronk er gretig van, al moest het _verschrikkelijk_ smaken. Niet veel later leek ze tot rust te komen, haar lichaam niet meer zo stijf van de pijn.
 
@@ -110,13 +112,17 @@ Even later gaf ze Catia een soepkom met het medicijn. Ze dronk er gretig van, al
 
 "Je bent een zéér geheimzinnige niet-heks-heler."
 
-"Verbaast me wel dat Owuit dit soort recepten niet kent. Ze zeggen dat hij _alles_ weet, zelfs over hele andere vakgebieden."
+"Verbaast me wel dat Aria dit soort recepten niet kent. Ze zeggen dat de Wijze Uil _alles_ weet, zelfs over hele andere vakgebieden."
 
-"Hij is vreemd." Catia gaapte langdurig en ging anders liggen, waardoor ze Felicia plots aanstaarde. "Werken je ouders nu ook ergens stiekem in een donker huis?"
+"Ze is vreemd." Catia gaapte langdurig en ging anders liggen, waardoor ze Felicia plots aanstaarde. "Werken je ouders nu ook ergens stiekem in een donker huis?"
 
 Felicia klom op de andere kant van het bed met terneergeslagen ogen. "Mijn ouders zijn verdwenen, van de ene op de andere dag. Ik kom inderdaad van een familie van helers. We waren rijk, machtig, en werkten vooral in Amor. Vader pronkte zelfs dat hij bevriend was met Chef de Goede!"
 
-De toonhoogte van haar stem verlaagde. "Maar toen waren ze plots _weg_, en ons huis werd ingepikt, en onze rijkdom, en mij schopten ze naar buiten alsof ik een besmettelijk virus was."
+"De _wie_?"
+
+"Oh, je weet wel, die chimpanzee die geweldig goed is in het maken van recepten? En rondrijdt in een houten huisje op wielen? Ze had dit _Boek der Betekenis_ of zoiets dat haar daarbij hielp, totdat ze het kwijtraakte."
+
+De toonhoogte van haar stem verlaagde. "Maar toen waren mijn ouders plots _weg_, en ons huis werd ingepikt, en onze rijkdom, en mij schopten ze naar buiten alsof ik een besmettelijk virus was."
 
 "Een _wat_?"
 
@@ -135,5 +141,9 @@ Felicia zuchtte. "Slaap lekker. Morgen ga ik je testen en proberen of ik een med
 Catia opende één oog, al bijna in slaap. "En als dat niet werkt?"
 
 "Overmorgen hetzelfde. En de dag daarna. En de dag daarna."
+
+"Maar wat als _alles_ faalt?"
+
+"Dat zien we dan wel. Het enige dat telt is vandaag en het volgende dat je probeert."
 
 Gerustgesteld viel de zieke poes in slaap. Felicia glipte naar buiten om ingrediënten te plukken.

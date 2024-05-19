@@ -58,37 +58,13 @@ Maar is dat een reden om te stoppen met elke dag _proberen_?
 
 <!--- 
 HEKSENDIEREN: Zwarte kat, kraai, hond, uil, paard/eenhoorn, giraffe, vleermuis, olifant, griffioen?
---->
-
-# Todo/Revisie
-### Algemeen
-**Algemeen: Ja, het einde met Chef + Ouders en vrijspraak enzo komt nogal uit het niets nu.** De veranderingen hieronder maken het al iets beter, maar niet helemaal. Bedenk iets dat meer bevredigend is.
-* Felicia's familie mag echt wel wat meer opzet/hints/details krijgen
-
-**Algemeen**: We hebben nog geen Verteller-moment!
-
-**Algemeen:** De les van het verhaal komt nog nergens voor! (_Geen groei zonder falen_ of _leren gaat met vallen en opstaan?_)
-
-**Algemeen:** dat contrast tussen rijk en arm wordt nu eigenlijk niet uitgewerkt. Ook is het daardoor "raar" dat ze de macht van de elite zo snel accepteren of inzien, want het grootste deel van die heksenjagers zullen toch arme dieren zijn geweest?
 
 **Algemeen (???)**: Ergens nog onthullen dat Fonza en iedereen _wisten_ dat dit het geval was. Misschien wist ze zelfs dat Felicia medicijnen maakte, want ze was zelf gered door iets soortgelijks toen ze jong was? Ik heb het idee dat het verhaal wel moet eindigen met dat ze, nu eindelijk de remmen eraf zijn, héél makkelijk op het medicijn of nieuwe kennis stuiten?
 
-**Algemeen: Verander Owuit in De Wijze Uil.** Dit brengt een bekend personage terug, het is logischer dat ze aan het einde "drie heksen" worden genoemd, en dit voelt als een goed vervolg/einde voor Aria.
+**Zou leuk zijn:** échte heksen laten voorkomen. Dus ergens een of ander bizar ritueel laten voorbijkomen, en dat dit dan _halfgoden_ zijn die echte _toverdrankjes_ maken => Dit kan eventueel een vervolg zijn op dit. Dat Catia/Felicia uiteindelijk doorreizen en ergens anders bekend staan als de Heksen, op een goede/grappige manier.
 
-**Algemeen:** ook laten zien dat groepsdruk dus goede dingen kan veroorzaken, zoals iemand overtuigen om zich te gedragen. Hoe laten we dit zien?
-* Als Owuit in H9 op de brandstapel staat, roept een groot deel dat ze hem ( -> De Wijze Uil) moeten sparen. (Waardoor Felicia dus echt de enige is die in gevaar is uiteindelijk?)
-* Als Felicia in H10 met de landheer praat, zegt hij dat hij haar "eigenlijk zou moeten opsluiten", maar dat een hoop dieren hebben gevraagd voor volledige vrijspraak én om die heksenwetten af te schaffen. Hij zegt iets van "ze hebben geen gelijk, maar ze zijn met veel"
-
-### Per Hoofdstuk
-**H1+H2:** Een overduidelijk contrast in uiterlijk/persoonlijkheid/spreekstijl tussen Catia en Felicia krijgen.
+Een overduidelijk contrast in uiterlijk/persoonlijkheid/spreekstijl tussen Catia en Felicia krijgen.
 * **Catia**: vindt haarzelf heel zielig, heeft geen enkele hoop, is oprecht verbaasd als ergens geen eten is of Felicia geen geld heeft voor iets, praat steeds met allerlei "beledigingen" over de mensen uit Rivierdistrict (zonder dat ze het door heeft)
 * **Felicia**: praat heel veel, heel zelfverzekerd, aggressieve/sterke uitspraken, zegt altijd "we moeten door" en "we proberen iets" en "alles komt goed". Heel logisch, down-to-earth, maar wel ongelofelijk opschepperig over die geweldige familie van haar.
 
-**H7**: Als Felicia in eerste instantie naar Owuit gaat, maakt ze ook een paar andere dingetjes, of neemt wat andere dingen mee? Waaronder een goedje dat "je beschermt tegen vuur, want de Kraaien vinden het veel te leuk om je aan te vallen met fakkels" 
-* Opnieuw die uitspraak van: "Dat zien we dan wel. Het enige dat telt is vandaag en het volgende dat we gaan proberen."
-* De Zeezot explodeerde in contact met water en slurpte een groot deel op. Diens zusje, de Vuurvlecht, deed het omgekeerde en doofde vuur. 
-* Waarschijnlijk sterker als je het _in actie ziet_. Misschien gebruikt ze dit al eventjes om te beschermen tegen die vallende fakkel met de wolven eerder (H8)?
-* **Dit hele einde met dat middeltje enzo komt echt uit het niets. Verander het of zet het duidelijker op.**
-
-**Zou leuk zijn:** échte heksen laten voorkomen. Dus ergens een of ander bizar ritueel laten voorbijkomen, en dat dit dan _halfgoden_ zijn die echte _toverdrankjes_ maken => Dit kan eventueel een vervolg zijn op dit. Dat Catia/Felicia uiteindelijk doorreizen en ergens anders bekend staan als de Heksen, op een goede/grappige manier.
-* **Ja, echt die halfgoden moeten terugkomen. Hoe ze worden opgejaagd omdat ze raar zijn en anders, want dat is het hele idee dat uiteindelijk leidt tot het Tweede Conflict.**
+--->

@@ -1,89 +1,99 @@
 ---
-title: "Epiloog"
+title: Epilogue
 weight: 10
 ---
-Ze hadden allemaal Felicia geadviseerd---_gesmeekt_---om het niet te doen. Ze deed het toch. Ze ging op audiëntie bij de landheer om haar eerlijke verhaal te doen. Want dat is wat ze moest zijn. Eerlijk en open, een voorbeeld voor anderen om zo de heksenjachten te stoppen. En niet zoals haar ouders, waar ze ook waren.
+They had all advised Felicia---_begged her_---not to do it. She did it anyway. She went to visit the landlord, to tell the truth and come clean. That is what she had to be, even if her parents weren't---especially because her parents weren't, wherever they may be. Honest and open, an example to others.
 
-"Een maand geleden," zei ze plechtig, "is een vrouwtjeshond genaamd Dora op het plein ter plekke getest en berecht voor het zijn van een heks. Dit werd gedaan doordat ik beweerde ooggetuige te zijn geweest van heksenpraktijken."
+"A month ago," she said formally, "a female dog named Dora was tested and convicted of being a witch. This was done purely because I claimed to witness her practicing witchcraft."
 
-De landheer kreeg wat documenten voor zijn neus van zijn knechten. Hij las het snel door en knikte.
+The landlord received some documents from his assistants. He quickly read it and nodded.
 
-"Dat was een leugen." Ze keerde haar ogen naar de vloer. "Ik had haar nooit eerder gezien of van haar gehoord."
+"That was a lie." She cast her eyes downward. "I had never seen her before in my life."
 
-Hij fronste en leunde voorover. "De Kraaien zeiden dat vijf andere ooggetuigen direct volgden. Ze zweerden het op ons heilige boek, de Bjib. Jij wilt beweren ... dat _iedereen_ toen heeft gelogen? Liegen op het heilige boek is een ernstig vergrijp."
+He frowned and leaned forward. "The Crows state that five more eyewitnesses followed immediately. They swore it on the holy book, the Bjib. You claim that _everyone_ lied? That is a severe misdeed."
 
-"Ik geef toe dat ik fouten heb gemaakt," zei ze zacht. "Ik denk dat dat de eerste stap is tot de fouten in de toekomst niet meer maken."
+"I admit mistakes," she said softly. "I think that's the first step to not making the mistakes again in the future."
 
-De wolf stapte naar Felicia toe. Hij gromde en mompelde in zichzelf. Zijn grote voorpoten klemden de hare tegen de grond, zijn gezicht dreigend boven haar.
+The wolf walked up to her. He barked and mumbled to himself. His large front paws pushed hers into the floor, his face right up to hers.
 
-"Als ik het vraag," zei hij, "zou je die andere leugenaars kunnen aanwijzen?"
+"If I ask," he said, "would you point out those other liars?"
 
-Felicia's adem versnelde. Ze hadden haar wel onderdak en eten gegeven, ook Fonza die ze onlangs levend uit de Rivier hadden gevist. "Met een zwaar hart, ja."
+Her breathing quickened. They had given her food and a roof over her head, even Fonza who had been fished from the River---alive and well. 
 
-Hij fronste nog dieper. "Jij zou degenen beschermen die jou hebben opgejaagd en op een brandstapel gezet?"
+"With a heavy heart, yes."
 
-"Misschien," zei Felicia heel voorzichtig, "is het grotere probleem dat de wezens die het _kunnen_ stoppen het laten gebeuren."
+His frown deepened. "You would protect those who hunted you and put you on a burning pyre?"
 
-De wolf gromde. Hij draaide terug naar zijn niet al te indrukwekkende troon. "Vertel mij wat. Die Kompanen hebben echt nooit iets voor mijn stad gedaan, en Chef was bijna te laat gekomen!"
+"Maybe," Felicia said cautiously, "the bigger problem is that animals who _could_ stop it still let it happen."
 
-Felicia stond zuchtend op. Het zoveelste dier dat een illusie voor zichzelf in stand hield. Dit ging ze later wel oplossen.
+The wolf grunted. He turned back to his throne, which tried to be impressive but failed spectacularly. "Oh don't even start with me. Those Companions have _never_ done anything for our city, and Chef always comes too late!"
 
-"Mag ik gaan?"
+Felicia stood up with a sigh. The landlord was just the next animal keeping an illusion alive for himself. She'd solve that some other time.
 
-"Ja, ja, ja." De landheer leek meer geïnteresseerd in het lekkere eten dat voor hem klaarstond en zijn kont op een zachte troon.
+"May I go?"
 
-Ze haalde opgelucht adem en liep terug naar huis---Catia's huis. Villa. Nee, landgoed. Ze was gewoon een dochter van _Cartin_! Zij beheerden het halve platteland rondom de stad en stuurden duizenden knechten aan. Ze moest glimlachen bij het idee dat zij, op een of andere manier, bij Felicia was uitgekomen.
+"I _should_ sentence you to death," the wolf said, suddenly serious. "But they've all asked me to let you go."
 
-En dat zij daarom nu mocht wonen op die mooie plek, met veel lievere ouders.
+"That, well, that is nice," she said with a wavering voice.
 
-Maar toen ze binnenkwam, vond ze als eerste Chef en Owuit verwikkeld in een ruzie.
+"They are wrong," the landlord said. "But they are numerous. Go."
 
-"Je hebt het Boek ten schande gemaakt," zei Chef. "Je verdient het niet. Het was als eerste van mij gestolen en ik neem het weer terug."
+The landlord seemed more interested in the tasty food in front of him and his butt on a soft throne.
 
-"En hoe ben jij eraan gekomen?" vroeg Owuit uitdagend. "Het is Bella's boek, niet de jouwe."
+She breathed a sigh of relief and walked home---Catia's home. Villa. No, estate. She was a daughter of _Cartin_! They owned half the lands surrounding the city and commanded thousands of workers. She smiled at the idea that, somehow, the two cats had crossed paths.
 
-Chef keek geïrriteerd. "Je hebt gelijk. Zal ik het teruggeven aan de dode godin die de Uilen _niet konden redden_?"
+And she was now allowed to live in that beautiful place, with much nicer parents. 
 
-Owuit sprong woedend van zijn plek en schreeuwde: "Waag het niet daarover te beginnen!"
+When she entered, she first found Chef and Aria having an argument.
 
-Chef glimlachte stout. "Ah. Ik wilde alleen weten of er nog wel ergens vuur in je zat. Misschien wordt het nog wat met jou."
+"You've brought the Book to _shame_," Chef said. "You don't deserve it. It was stolen from me first, so I take it back."
 
-Haar armen namen het Boek der Betekenis liefkozend terug. "Misschien is kennis een vloek. Misschien zijn er ziektes die niet kunnen worden opgelost."
+"And how did _you_ get it?" Aria asked. "It's Bella's book, not yours."
 
-Ze keek naar Catia, die opgerold sliep op het zachte tapijt, soms zachtjes miauwend van de pijn. "Maar de enige manier om dat op te lossen, is door elke dag op te zoek te gaan naar _meer kennis_."
+"You're right. Shall I return it to the _dead goddess_ who could not save the owls?"
 
-Ze tikte Felicia aan. "Had je al het Dondermedicijn geprobeerd?"
+Aria jumped from her place and yelled: "Don't you dare start about that!"
 
-"Ja, als eerste."
+Chef grinned mischievously. "Ah. Just wanted to see if you still _had_ some fire in you. Perhaps you'll be fine after all."
 
-"En de Simmersaus? Misschien een Krekelbehandeling?"
+The Book of Meaning had returned to the chimpanzee's loving arms. "Maybe knowledge is a curse. Maybe there are illnesses that cannot be cured."
 
-Felicia knikte en voelde de moed weer in haar zolen zakken. "Allemaal gedaan, ja."
+She looked at Catia, who slept on the carpet, curled up and softly meowing. "But the only way to solve it, is to keep looking every day for _more knowledge_."
 
-Maar Chef glimlachte opgewekt. "Mooi! Dan hoeven we dat dus niet meer te proberen. Nu we weten wat niet werkt, vinden we sneller wat wel werkt." 
+_Or as the wise Ardex once wrote down, dear reader: no growth without defeat. No progress without setbacks, no successes without failures. Though I obviously still wish, every day, with all my heart, that the godchildren had never been defeated and removed from Somnia._
 
-De chimpanzee waggelde terug naar haar houten huisje op wielen en rommelde erin. "Ik heb nog wel wat bijzondere planten over van een avontuur met de Leeuwenkoning. Oh, ja, deze moet je horen! We waren dus bij het koninkrijk van de Luiaards en toen ..."
+She nudged Felicia. "Have you already tried the Thunder Medicine?"
 
-"Chef, heel leuk verhaal," zei Felicia. "Maar hoe wist je eigenlijk dat je moest komen?"
+"Yes, first thing."
 
-Chef ging door met haar verhaal alsof ze het niet had gehoord.
+"And Simmersauce? Maybe a Cricket Treatment?"
 
-Owuit stond op en wapperde zijn vleugels. "Misschien ... misschien kan mijn perfecte hemel nu nog niet bestaan. We hebben nog niet de kennis, de technologie, de grondstoffen. Ik dacht dat de Kompanen het antwoord waren. Alle diersoorten één stem geven over alles. Maar misschien _kon_ het gewoon nog niet."
+Felicia nodded, losing her last sliver of hope again. "Did all of that, yes."
 
-Zijn snavel trok scheef en hij zette alle drie zijn brillen weer op. "Misschien kan ik daar nog iets in betekenen."
+But Chef smiled. "Great! Then we don't have to try that anymore. Now that we know what doesn't work, we'll find the correct treatment for Catia much sooner."
 
-Hij zei een vluchtig vaarwel en vloog richting de blauwe hemel.
+She waggled back to her wooden home on wheels and rummaged through it. "I have some odd plants left from my adventure with the Lionking. Oh, yes, you _have_ to hear this story! So we were in Slumberland, the empire of the sloths, and then ..."
 
-Catia opende één oog. "Oh ach en wee, wat horen mijn oren, moet ik nog meer medicijnen slikken, die mij niet gaan bekoren?"
+"Chef, great story," Felicia said. "But how did you know to come here?"
 
-Felicia glimlachte en schoof naast haar op het warme tapijt. "Alleen als je wilt."
+Chef just continued her anecdote as if she hadn't been interrupted.
 
-"Kom maar op. Over een week ren ik harder dan jou over de daken."
+Aria stood up and tested her wings. "Maybe ... maybe my perfect heaven can still exist. We just don't have the knowledge, technology, or resources yet. I thought the Companions would be the solution to everything. Giving all animals _one_ vote over _every decision_. But maybe it was just too soon."
 
-Chef kwam terug met een hele boodschappenlijst aan ingrediënten die ze nodig hadden, klaar om Catia te redden voordat het te laat was. 
+She put on all three glasses at once. "Maybe I can still do something to help there."
 
-"Laten we dan maar snel beginnen."
+She said a quick goodbye and flew into the clear blue sky.
+
+Catia cracked open one eye. "Oh woe is me, what hear my ears, must I swallow more medicine, that brings me to filthy tears?"
+
+Felicia smiled and lay down next to her on the warm carpet. "Only if you want."
+
+"Bring it on. In a week I'll run faster across the rooftops than you ever did."
+
+Chef returned with a grocery list of ingredients that they needed, ready to save Catia before it was too late.
+
+"Let's start."
 
 &nbsp;
 
-_En zo ging het leven door ..._
+_And so it was that life continued ..._

@@ -1,142 +1,143 @@
 ---
-title: "Terug Naar Schaduwen"
+title: Back To Shadows
 weight: 8
 ---
+Fonza had indeed awoken the entire neighborhood. Everyone would love to catch some witches and be rewarded for it. Aria considered taking the two cats into the skies, but that territory was ruled by the Crows. And so they ran through dark alles and unpredictable pathways through the River District.
 
-Fonza kreeg de hele wijk uit hun bed. Iedereen wilde wel wat heksen vangen, of minstens verdrijven. Owuit dacht eraan om met de twee poezen het luchtruim te kiezen, maar die was geïnfesteerd met Kraaien. Dus ze renden door donkere steegjes en renden een onvoorspelbaar pad door het Rivierdistrict.
+The beating drum of their pursuer's steps was never far away. Torches were lit up and distributed. The Crows had a hard time flying through the narrow alleys for an attack, but they could easily _follow_ where the trio went.
 
-De stampende poten van dieren waren nooit ver weg. Fakkels werden aangestoken en verspreid. De Kraaien konden moeilijk door de nauwe steegjes vliegen en een aanval inzetten, maar ze konden makkelijk volgen waar het drietal heen ging.
+"We must go inside," Aria said out of breath. "Out of sight of the Crows."
 
-"We moeten naar binnen," zei Owuit buiten adem. "Uit het zicht van de Kraaien."
+"I can't," Catia croaked. Her meow turned into a roar. "The ill can't do _anything_! It's hope---"
 
-"Ik kan niet meer," piepte Catia. Haar miauw werd snel een grom. "Je kan _niks_ als je ziek bent! Je kan---"
+"Hold on," Felicia said. "You will ..."
 
-"Houd vol," zei Felicia snel. "Je zal beter ..." 
+She couldn't finish it. Not in the knowledge that Catia was _incurable_.
 
-Ze kon het niet zeggen. Niet nu ze wist dat Catia ongeneeslijk ziek was.
+Aria also lost her certainty. They'd lost their way in the maze of slanted buildings and odorous alleys, far from the River. All around them, torches made the night buzz and glow, as if the sun rose much earlier. Their screaming grew in volume.
 
-Owuit verloor ook zijn zekerheid. Ze waren verstrikt geraakt in het doolhof van scheve huizen en stinkende steegjes, ver van de Rivier. Overal om hen heen begon de avond te gloeien door fakkels van achtervolgers, alsof de zon veel eerder opkwam. Hun geschreeuw groeide in volume.
+Even over all those voices, Fonza's voice was easily heard. "Show yourself! Or go back to the shadows from which you monsters came!"
 
-Maar zelfs boven al die stemmen, was Fonza nog het beste te horen. "Toon jezelf! Of ga terug naar de schaduwen waarvandaan jullie monsters komen!"
+Catia stopped moving forward. She lay on the ground, shaking, eyes shut against her body's aches. Aria looked concerned and decide to knock on the closest door---
 
-Catia kwam niet meer vooruit. Ze lag trillend op de grond, haar ogen gesloten van de pijn in haar lichaam. Owuit keek grimmig en stond op het punt aan te kloppen bij---
+It flew open already. Three wolves came out, one carrying a torch: a horizontal piece of wood between his jaws that burned on _both_ ends.
 
-De deur vloog uit zichzelf open. Drie wolven kwamen eruit. De voorste droeg een fakkel: een horizontaal stuk hout in diens bek dat brandde aan beide kanten.
+Aria pushed herself against the wall and pulled the cats with her. Catia had to keep her painful meows inside.
 
-Owuit drukte zich plat tegen de muur en nam de poezen mee. Catia moest haar gemiauw van pijn inhouden.
+"_Five_ witches, yes!" the youngest wolf said enthusiastically. "Caught red-pawed as they ritually slaughtered a goat! That's what I've heard!"
 
-"_Vijf_ heksen, ja!" zei de jongste wolf enthousiast. "Betrapt op heterdaad bij het ritueel slachten van een geit! Dat heb ik gehoord!"
+"It were three witches, idiot," the torch wolf spoke, though holding the object made him slur his words. "Two black cats---of course---and a crazy owl with three pairs of glasses."
 
-"Het waren drie heksen, sukkel," zei de wolf met de fakkel, en daardoor moeilijk te verstaan. "Twee zwarte katten---natuurlijk---en die gekke uil met drie brillen."
+"We must find them first," said the third. "The landlord's reward is ours."
 
-"Wij moeten ze eerst vinden," zei de derde. "De beloning van de landheer is van ons."
+Aria's wings slid off. Felicia's head weathered a hail of pebbles, while Catia lost control of her body. Only a wooden door separated them from the wolves.
 
-Owuits vleugels gleden weg. Felicia kreeg een regen van kleine steentjes op haar hoofd, terwijl Catia de controle over haar lichaam kwijtraakte. Slechts een houten deur scheidde hen van de wolven.
+They walked away---then froze. "Do you _smell_ that too?"
 
-De wolven liepen weg---totdat ze plots bleven staan. "Ruiken jullie dat ook?"
+"That is burnt wood from your torch, idiot."
 
-"Dat is verbrand hout van jouw fakkel, sukkel."
+"No, no, a different smell ..."
 
-"Nee, nee, een andere geur ..."
+A flock of Crows came this way. Even in shadows, Aria's bright eyes were hard to miss. They had to get inside, indeed, and quickly.
 
-Een groep Kraaien kwam deze kant op. Zelfs in de schaduwen waren de felle ogen van Owuit niet te missen. Ze moesten inderdaad naar binnen, en snel.
+The wolves sniffed in all directions, their snout awfully close to the floor. The one with the torch went to look behind the door.
 
-De wolven snuffelden in alle richtingen, hun snuit vlakbij de vloer. Degene met de fakkel ging achter de deur kijken.
+Aria came alive and _smashed_ her wing onto his head, knocking him unconscious. The falling torch set ablaze all plants and wooden objects in their surroundings.
 
-Owuit kwam tot leven en _mepte_ zijn vleugel op het wolvenhoofd---meteen bewusteloos. De vallende fakkel zette alle dorre planten in de omgeving in brand.
+"Run!"
 
-"Rennen!"
+But in a reflex, Felicia tried to stop the fire first, using the Firebraid she collected before. It worked only partially. So it wasn't completely the right recipe or balance yet.
 
-"_Ik kan niet meer_," schreeuwde Catia. Ze moest gedragen door Owuit, die daardoor vele malen langzamer werd. De wolven gingen meteen in de achtervolging en duwden het drietal nog dieper in het doolhof van steegjes.
+"_I can't_," Catia yelled. She had to be carried by Aria, slowing their pace. The wolves started the chase and pressed the trio even deeper into the maze of alleys.
 
-Catia zag alleen flitsen. Een waas van maanlicht, duister, muren, en soms plotseling een fakkel. Totdat ze merkte dat het doolhof ophield en de straten breder werden, de huizen netter en minder afbrokkelend.
+Catia saw only flashes. A blur of moonlight, dark, walls, then suddenly a torch, until the maze was at its end. The streets grew wider, the houses neater and less broken.
 
-Owuit en Felicia vielen uitgeput tussen een paar bosjes in de schaduw. Catia werd neergelegd.
+Aria and Felicia fell into a few shrubs covered by shadow. Catia was placed on the cold floor.
 
-"We zijn de wolven kwijt," mompelde Owuit, verslagen in de modder. "Maar het maakt niks uit. Het maakt allemaal niet uit. Inmiddels zoekt de hele stad naar ons. En het zal snel weer ochtend worden ..."
+"We've lost the wolves," Aria said. She sat in the mud, defeated. "It doesn't matter. Nothing matters anymore. The entire city will be looking for us, and morninglight will come soon."
 
-"Eerst naar binnen," zei Felicia, "dan zien we verder."
+"Inside first," Felicia said. "Then we'll see."
 
-Zodra ze zeker wisten dat niemand toekeek, liepen ze rondom een chique villa en vonden een raam aan de achterkant die half openstond. Binnenin het huis was het donker en uitgestorven. Een betere plek gingen ze niet vinden.
+When they were sure nobody watched them, they walked around a chique villa and found a half-open window at the back. The inside of the home was dark and deserted. They would not find a better hiding place than this.
 
-Ze doken door het raam en vielen op een tapijt. Catia miauwde luid, waardoor ze pas laat de Kraaien hoorden die overvlogen. In doodse stilte bleven ze liggen, zelfs hun ademhaling gestopt, totdat ze zeker waren dat niemand hen achterna kwam.
+They climbed through the window and fell on a carpet. Catia meowed loudly, which covered the sounds of Crows flying by. In dead silence they lay, even pausing their breathing, until they were sure nobody had heard.
 
-"Ik ga niet verder," zei Owuit definitief. "Volgens het Boek zijn in de hele geschiedenis maar twee dieren ontkomen aan een heksenjacht. De ene moest daarvoor een been kwijtraken, de ander is daardoor later knettergek geworden. Ik blijf zitten tot ze me vinden."
+"I'm not going any further," Aria said definitively. "According to the Book, in the entire history only two animals have evaded the witch hunt. One had to lose their leg, the other had to lose their sanity. I stay here until they find me."
 
-Felicia bolde haar rug en krulde haar staart. "Jij verdient dat Boek niet!"
+Felicia bent her back and twisted her tail. "Then you don't _deserve_ the Book!"
 
-"Jouw ouders verdienden hem zeker niet!"
+"Your parents _surely_ didn't deserve it!"
 
-"Praat niet over mijn ouders! De familie Felix zijn _helers_ en _helpers_ en hun verdwijning is vast een groot misverstand en---"
+"Don't talk about my parents! The Felix family are _healers_ and _helpers_ and their disappearance is surely a great misunderstanding and---"
 
-Herinneringen wilden zich opdringen. Felicia raakte erdoor verward en duwde ze weg. Onrustig cirkelde ze door het huis, steeds beter verlicht door de eerste stralen zonlicht.
+Memories imposed themselves on her. Felicia grew confused, light-headed, and pushed them away. Impatiently, she circled the home, which was increasingly well-lit by the first sunrays.
 
-Owuit wees naar een kast. "Weet je echt niet waar we zijn?"
+Aria pointed at a cupboard. "Do you really not know where we are?"
 
-Felicia fronste en bestudeerde de kast. Ze trok de deuren open---houten deuren gegraveerd met prachtige schilderingen---en zag ... een tekening van haarzelf als kitten. Met haar glimlachende ouders achter haar. Ze had zelfs haar eigen pootafdruk ernaast gezet en geprobeerd haar naam in het perkament te drukken: Felicia Felix.
+Felicia frowned and studied the cupboard. She pulled open doors and drawers, wooden pieces decorated with beautiful engravings, and saw ... a picture of _herself_ as a kitten. Her smiling parents behind her. She'd even placed her own paw print next to it and tried to press her name into the parchment: Felicia Felix.
 
-Haar hoofd tolde. Ze wilde de tekening verscheuren; ze wilde hem voor altijd bij haar dragen.
+Her head spun. She wanted to rip the drawing apart; she wanted to carry it with her forever.
 
-"Wat is dit? Is dit een grap? Heb je ons expres hierheen geleid om mij ... om mij ..."
+"What is this? A joke? Did you lead us her on purpose to make me ... me ..."
 
-Nog meer herinneringen kwamen terug. Haar ouders droegen geen nette kleding meer, maar vieze vodden. Haar moeder hing niet meer boven een ketel in om een medicijn te maken in Amor, maar ze klom op een dak in een ander stad om ... in te breken?
+More memories intruded. Her parents didn't wear fancy clothes anymore, no, but filthy rags. Her mother wasn't stirring a cauldron to make a medicine in Amor, but she climbed on top of a roof in another city to ... break in?
 
-"Dit is waar je bent geboren, Felicia. "
+"This is where you were born, Felicia."
 
-"Nietes."
+"No. No way."
 
-"Je ouders waren dieven."
+"Your parents were thieves."
 
-"Mijn ouders waren---"
+"My parents were---"
 
-"Het Boek der Betekenis was in handen van de Wijze Uil. Zij hebben het _gejat_. Al hun rijkdom, al hun kennis, alles hadden ze eraan te danken. Voor die tijd waren ze _niemand_."
+"The Book of Meaning used to be in Chef's hands. Then it was stolen, and then your parents _stole it again_. All their riches, wisdom, reputation, was all thanks to that book. Before that moment they were _nobody_."
 
-"Houd je snavel!" Felicia sloeg haar scherpe nagels naar Owuit, zonder hem echt te raken.
+"Shut your beak!" Felicia's sharp nails lunged for Aria without ever coming close to touching her.
 
-Catia kermde en probeerde iets te zeggen, maar het was onverstaanbaar.
+Catia moaned and tried to speak without success.
 
-"Je bent slim, Felicia. Je hebt een goed hart. Maar _zelfs jij_ liegt tegen jezelf over je familie en je afkomst, alleen maar om je goed te voelen."
+"You are smart, Felicia. You have a good heart. But _even you_ lie to yourself about your family and heritages, only to feel good about it."
 
-De volledige herinneringen kwamen nu naar boven, geholpen door de vele voorwerpen in de kamer. Vage beelden kwamen voorbij van spelen in de tuin, meubels omgooien als kleine kitten, en, ja, dat magische boek dat zwaar beveiligd in één van de kamers stond.
+The entire set of memories returned now, aided by the objects in the room. Vague visions of playing outside in the garden, throwing furniture upside-down as a little kitten, and, yes, that magical book that was heavily guarded in one of the rooms.
 
-"Dus," zei Owuit met hangende snavel, "waarin zou ik nog moeten geloven?"
+"So," Aria said, beak down, "what am I supposed to believe in?"
 
-Catia had haarzelf dankzij de muur op de poten gekregen. "Stemmen! Voetstappen!"
+Catia had used the wall to scramble to her feet. "Voices! Paw steps!"
 
-Felicia liep verder het huis in. Elke voorwerp dat ze aanraakte bracht haar nieuwe informatie. Het bracht haar de waarheid over haar ouders, en ze begreep niet hoe ze dat al die tijd compleet had omgedraaid in haar hoofd.
+Felicia walked further into the home. Each object she touched gave her new information. It brought her the truth about her parents, and she could _not_ understand how she had completely twisted the truth upside-down in her head all this time.
 
-"We moeten weg," piepte Catia. "Kom!"
+"We have to go!" Catia said. "Come!"
 
-Felicia liep nog verder het huis in. Owuit weigerde inderdaad om op te staan.
+Felicia just walked on. Aria refused to get up, eyes closed.
 
-Catia kon haar wazige ogen niet geloven. "We kunnen vluchten. We kunnen levend uit deze stad komen. Felicia! Jij leerde me om _hoop_ te houden! Dus waarom _doen jullie niks_?"
+Catia could not believe her blurry eyes. "We can flee. We can leave this city alive. Felicia! You taught me to keep _hope_. All that matters is now and the next thing you'll try. So why aren't you _doing something_!?"
 
-Felicia slikte en bevroor middenin de woonkamer. Ze richtte zich tot Owuit. "Jij hebt mijn ouders verraden. Dankzij jou ben ik hen kwijt!"
+Felicia swallowed and froze in the middle of the living room. She looked at Aria. "You betrayed my parents. Thanks to _you_ I've lost them!"
 
-"Onzin! Ik heb lang geleden, met toestemming van de Kompanen die nog over zijn, dat Boek van je ouders terug gestolen. Ik heb je ouders op het hart gedrukt om te verhuizen en op een ander continent verder te leven. Maar nee, ze gebruikten hun kennis van het Boek om nog rijker te worden en nog meer macht te hebben."
+"Nonsense! Long ago, with full agreement of the Companions left, I stole _back_ the Book from your parents. I told your parents to move to a different continent and build a better life---for _you_, their daughter! But no, they used their knowledge from the Book to become rich, powerful criminals."
 
-"Wie zegt dat de Kompanen mogen bepalen wie het Boek heeft!? Zou die kennis niet voor iedereen moeten zijn!?"
+"Why should the Companions determine who gets the Book!? Shouldn't that knowledge be for everyone?"
 
-Owuit schudde zijn hoofd, nog meer teleurgesteld in Felicia.
+Aria just kept shaking her head, disappointed beyond disappointed in Felicia.
 
-Catia _trok_ aan Owuits vleugels, ze _sleurde_ Felicia's poten van het veel te zachte tapijt, maar geen van hen wilde bewegen. "De Kraaien komen! Ik hoor ze overal! En de---"
+Catia _pulled_ on Aria's wings, she _dragged_ Felicia's paws away from the soft carpet, but both of them refused to move. 
 
-De voordeur werd kapot getrapt. Alle kaarsen in de gang werden razendsnel aangestoken. Door het andere raam fladderden allerlei wezens naar binnen, te snel om te herkennen.
+"The Crows come! I hear them everywhere. And the---"
 
-Een massa dieren dromde het huis in, vertrapte alle jeugdherinneringen van Felicia. Ze grepen Owuit als eerste---die stribbelde niet tegen. Het schudde Felicia eindelijk uit haar waas, maar te laat om nog de dans te ontspringen.
+The front door was kicked in. All hallway candles were lit instantly by torches. More creatures flew into the home through the open window, moving too fast to recognize.
 
-Catia lag doodziek en hulpeloos op de vloer en werd bijna _vergeten_. Ze was blijkbaar zo klein als ze haarzelf voelde op dit moment.
+A crowd of animals entered the home and trampled all childhood memories of Felicia. They grabbed Aria first---she didn't resist. It shook Felicia out of her daze, but that was clearly too late.
 
-Het drietal werd vastgebonden en meegenomen naar het plein. 
+Catia lay on the floor, ill and helpless, and was almost _forgotten_. She was as small as she felt in the moment.
 
-De Kraaien kondigden een eerlijk Proces der Heksen aan. Och, wat waren ze eerlijk en rechtvaardig. Hun lange uitleg eindigde in het vonnis van de brandstapel.
+The trio was tied up and taken to the public square.
 
-"Als zij het vuur overleven of doven, weten wij wel zeker dat ze heksen zijn!" kraaiden ze. "Zo niet, geven we onze fout toe en gaan ze vrijuit!"
+The Crows announced a fair Trial of Witches. Oh, how fair and just. Their long explanation ended in the judgment of _burning at the stake_.
 
-En ook hartstikke dood, dacht iedereen stilletjes.
+"If they survive or extinguish the fire, we will know for sure they are witches!" they crowed. "If not, we admit our mistake and they go free."
 
-De twee poezen en de uil werden op het stro gezet, vastgebonden met hun rug tegen een hoge houten paal. Meerdere fakkels staken de droge strohalmen tegelijkertijd aan.
+And very much _dead_.
 
-Catia gaf de dierenmassa een laatste blik---en zag haar ouders paniekerig zich erdoorheen wringen en de naam van hun dochter roepen.
+The owl and the two cats were put on a pile of straw, their backs tied to a high wooden pole. Multiple torches set the dry blades of straw on fire.
 
-
+Catia gave the animal crowd a final look---and saw her parents move through it, panicked, screaming their daughter's name.

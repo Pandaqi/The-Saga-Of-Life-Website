@@ -1,133 +1,145 @@
 ---
-title: Brandstapel
+title: Pyre
 weight: 9
 ---
-Catia was meteen klaarwakker, net als ze dat niet meer wilde zijn. De vlammen likten bijna aan haar trillende poten. Zelfs over het lawaai kon ze precies de stem van haar ouders horen. 
+Catia was wide awake now, precisely when she didn't want to be anymore. The flames almost licked her shaking paws. Over the din, she could clearly pick out her parent's voices.
 
-Owuit deed niks meer. Alle hoop was uit hem gedruppeld en zijn vacht leek wel alle kleuren verloren.
+Aria did nothing. Drained of all hope, her skin seemingly drained of all color.
 
-Felicia lag er hetzelfde bij.
+Felicia was in the same state.
 
-"Doe iets!" schreeuwde Catia. "Alle Kompanen nog aan toe! Ik zit hier met de twee slimste scheikundigen van het continent, en jullie doen _niks_?"
+"Do something!" Catia yelled. "_All the Companions!_ I am in the presence of the two best chemists on the continent, and you do _nothing_?"
 
-"Wat wil je dat we doen?" riep Felicia. Ze kwam eindelijk in beweging, maar alleen om de hitte die op haar afkroop nog iets langer te ontwijken.
+"What do you want us to do?" yelled Felicia. She finally moved, but only to evade the fire coming for her.
 
-"Doof het vuur! Bescherm ons!"
+"Extinguish the fire! Protect us!"
 
-"Ben je _achterlijk_?" riep Felicia bitter. "Als we overleven, dan doden ze ons alsnog, want we zijn bewezen _heksen_!"
+"Are you _stupid_?" Felicia said bitterly. "If we survive, they'll kill us anyway, for we have proven to be _witches_!"
 
-"Dat zien we dan wel," zei Catia zachtjes. "Het enige dat telt is vandaag en het volgende dat we gaan proberen."
+"We'll see then," Catia said softly. "All that matters is today and the next thing we'll try. Right?"
 
-Felicia viel stil. 
+Felicia fell silent.
 
-Het vuur was nu ver genoeg opgelaaid om het zicht op de menigte grotendeels weg te halen. Het geknetter overstemde de waas van schreeuwende omstanders. Toch dacht Catia nog steeds haar ouders te horen, alsof ze bij haar _op_ de brandstapel waren geklommen.
+The fire was high enough now to take away their view of the spectators. The crackling drowned out the screaming audience. Still Catia thought she heard her parents, as if they stood on the pyre with her.
 
-"Het heeft voor jou geen zin," mompelde Felicia met tranen in haar ogen. "Catia ... jouw ziekte is _ongeneeslijk_."
+"It's still hopeless for you," Felicia mumbled, tears in her eyes. "Catia ... you are _incurable_. There is no known medicine for it!"
 
-Nietes. Dat was Catia's eerste gedachte. Nee, gewoon nee, het was niet waar, het was een grap, ze weigerde.
+Not true. That was Catia's first thought. No, not true, nonsense, a joke, she refused, nature was lying.
 
-Maar dat zou een leugen zijn tegen haarzelf. Een illusie die niks zou opleveren. De enige goede reactie was een simpele vraag.
+But no, she would just be lying to herself. An illusion that would yield nothing. The only proper response was a simple question.
 
-"Dus?"
+"So?"
 
-Hun lichamen raakten nu al oververhit. Hun kelen vulden met smerige rook, waardoor ze moesten kuchen en met steeds meer moeite praatten.
+Their bodies seemed close to boiling. Filthy fog filled their sore throats, creating endless chains of coughs.
 
-Felicia schudde haar lichaam totdat haar buidel niet meer op haar rug zat, maar rond haar buik. 
+Felicia shook her body until her pouch wasn't on her back anymore, but around her middle.
 
-"De Vuurvlecht. Het middeltje dat ik maakte op weg om Owuit te bevrijden! Als het in aanraking komt met vuur ... "
+"The Firebraid. The thing I made on my way to free Aria! If it touches fire, and maybe if I combine it with that other plant, it should ..."
 
-Catia reikte naar voren, trok de paal zoveel mogelijk mee, maar kwam niet bij de ingrediënten.
+Catia reached forwards, bending the pole as much as it allowed, but couldn't touch it.
 
-"Auw!" Een deel van haar staart raakte de vlammen. Ze kromp ineen, plat tegen de paal, om zoveel mogelijk afstand te krijgen.
+"Ai!" The flames licked part of her tail. She shrunk, flat against the pole, to get a bit more distance.
 
-Felicia kon hem zelf ook niet pakken.
+Felicia couldn't grab the ingredients herself.
 
-Ze keken allebei naar Owuit.
+They both looked at Aria.
 
-"Het zal bestaan, beste uil," zei Catia. "En als je dit doet, kan je misschien nog daarmee helpen."
+"It will exist, dear owl," Catia said. "And if you do this, you might be able to help still."
 
-Hij zuchtte en stak zijn snavel in de buidel. De lading Vuurvlecht zat in een kom, afgedekt met een houten deksel die erop klemde.
+She sighed and put her beak into the pouch. The Firebraid was in a bowl, shut tight by a wooden lid. As the trio hugged the pole even closer, Aria slowly and carefully undid the lid.
 
-Terwijl het drietal de paal nog steviger knuffelde, deed Owuit uiterst zorgvuldig de deksel open. 
+Catia twisted her tail around herself to prevent burning. Felicia shut her dry eyes against the smoke.
 
-Catia krulde haar staart helemaal om haarzelf om te voorkomen dat het uiteinde verbrandde. Felicia moest haar tranende ogen sluiten tegen de rook.
+Aria lifted the bowl with her beak, still painfully slow and methodical. The steady hands of a chemist.
 
-Owuit tilde de kom op met zijn snavel, nog altijd langzaam en zorgvuldig.
+Then she threw a large splash of the substance over Felicia. The next one showered Catia, and the last one herself. The bowl was thrown to the flames and consumed immediately.
 
-En daarna gooide hij een flinke plens over Felicia heen.
+The sea of fire reached them. Red-orange flames aimed for all parts of their body, nipping at them, looking for parts to burn, as it brought the heat of a thousand suns.
 
-De volgende plens ging over Catia, en de laatste over hemzelf. Hij wierp de kom in de vlammen om het bewijsmateriaal te vernietigen.
+All three closed their eyes. All three shrank and cleared their minds. And all three waited.
 
-De vuurzee bereikte hen. De roodoranje vlammen grepen naar alle delen van hun lichaam, happig naar stukjes om te verbranden, en ze brachten de hitte van duizend zonnen.
+Until all the straw had burned, the fire ceased, and they _lived_.
 
-Alle drie sloten hun ogen. Alle drie krompen in elkaar. En alle drie wachtten.
+Catia opened her eyes to see a silenced crowd, mouths open wide in astonishment.
 
-Totdat alle stro was opgebrand, het vuur uitgeraasd en gedoofd, en ze nog leefden.
+"Well that is a first," Fonza mumbled.
 
-Het goedje had hen beschermd tegen het vuur. Ze voelden zich allemaal ziek door de rook en de hitte, sommige stukjes van hun lichaam alsnog verbrand, maar ze _leefden_.
+Catia's parents screamed in relief and fought through the crowds, even fiercer than before. They'd almost reached the stake.
 
-Catia opende haar ogen en keek naar een stilgevallen menigte met wijd open monden van verbazing.
+"Thus they are witches!" the Crows yelled. "It is proven! The evidence is there!"
 
-"Dat is ook de eerste keer," mompelde Fonza.
+The three witches were mostly wounded around their paws. The ropes that had bound them to the pile, had burned away in the fire, and so also scorched their skin.
 
-Catia's ouders krijsten van opluchting en beukten verder. Ze hadden bijna de voorste rij bereikt.
+They could _try_ to flee---but they were surrounded on all sides.
 
-"Heksen dus!" riepen de Kraaien. "Het is bewezen! Het bewijs is onomstotelijk!"
+"Witches always get the death penalty!" Fonza yelled. "Grab them!"
 
-De meeste wonden hadden ze rond hun poten. De touwen waarmee ze waren vastgebonden, waren wél door het vuur weggebrand.
+Half the crowd followed this command eagerly. The other half didn't do anything, whispering to each other and pointing to Aria.
 
-Ze konden proberen te vluchten---maar ze waren omringd aan alle kanten.
+Catia's parents jumped on top of the pyre with them. They kicked aside the black straw and slid over the thick layer of ash.
 
-"Voor heksen geldt directe doodstraf!" riep Fonza. "Pak ze!"
+"Stop!" her mother yelled. "We are the family Cartin, nobles of the highest rank. Yes, you know us. We control your land and we give you food. Whoever touches a _hair_ on our daughter's head will regret it."
 
-Catia's ouders stormden naar de brandstapel en sprongen op het zwarte stro, schuivend door de laag as. 
+Her father protectively took her and Falicia into his paws. Aria still didn't move and didn't care. Multiple Crows landed on the pole but didn't attack yet.
 
-"Stop!" riep haar moeder. "Wij zijn de familie Cartin, edelen van de hoogste orde. Ja, je kent ons. Wij beheren je land en wij geven je te eten. Wie ook maar een háár van onze dochter aanraakt, zal dat betreuren!"
+Felicia looked betrayed. "Catia. You couldn't have _told_ me you are almost royalty?"
 
-Haar vader nam haar en Felicia meteen beschermend in zijn poten. Owuit was nog altijd niet in staat om iets erom te geven. Meerdere Kraaien landden op de paal, maar vielen niet aan.
+The crowd was undecided. Some walked away. Some repeated it was Aria, the Wise Owl, who had done so much for them and helped so many patients. Felicia and Catia had grown somewhat popular in the River District, with their funny jokes and helpful attitude.
 
-Felicia keek bedrogen. "Catia. Je had niet _even_ kunnen vertellen dat je haast uit een koninklijke familie komt?"
+Others repeated they were _proven witches_ and crept closer, Fonza as their leader.
 
-De menigte schuifelde onrustig. Sommige liepen weg. De meeste bleven herhalen dat het _bewezen heksen_ waren en kropen toch dichterbij, Fonza als hun aanjager.
+"Ah yes, that is _exactly_ what witches would do! Become powerful and then abuse it!"
 
-"Dit is nou _precies_ wat heksen zouden doen. Machtig worden en dan die macht misbruiken!"
+"Oh you believe witches do _everything_," said Felicia.
 
-"Oh volgens jou doen heksen alles," bromde Felicia. 
+To the left, in the distance, a large column of guards appeared. to check out the disturbance and to accompany the landlord in his golden wagon.
 
-Fonza's vacht kleurde van oranje naar rood. Stoom kwam bijna uit haar oren. 
+A different wagon appeared on the other side. But this one seemed to travel of its own accord, and was more like a _home_ on wheels.
 
-Links van het plein, in de verte, verscheen een volgende stoet bewakers. Deels om te kijken wat hier allemaal aan de hand was, deels om de landheer in zijn koets te vervoeren.
+Fonza's fur changed color to red in anger. She copied the shouts of the Crows.
 
-Vanaf de andere kant kwam ook een koets. Maar deze reed uit zichzelf? En was meer een soort huisje van hout?
+"Grab them! Kill them!"
 
-"We zullen je dochter niet aanraken, oh beste familie Cartin," krijste Fonza. "Maar die andere twee ..."
+Half the crowd moved to attack. The other half didn't just stay out of it, they actively _blocked_ Fonza's path. Exactly the animals that were all under the employment or protection of the family Cartin.
 
-"Staan onder onze bescherming. Ja, dat kunnen we doen. Vraag maar aan de landheer."
+"Fine," Fonza said. "We won't touch your daughter, oh dear Cartin family, but the other two are still---"
 
-De landheer stapte uit zijn koets aan de rand van het plein. Hij had zeker niet gehoord waarover het ging, maar koos per direct om zijn elite families te beschermen.
+"What did they do?" asked several animals in the crowd. "Try and make medicine for another animal? Enough to kill The Wise Owl, of all creatures?"
 
-Steeds meer dieren liepen weg. Een gevecht tegen de elite ging je niet winnen. Die konden inderdaad vrijheden of bescherming krijgen waar alle arme burgers slechts van konden dromen.
+"Out of my way!" Fonza bit some of the crowd members blocking her and created a path for herself to grab Felicia.
 
-Uiteindelijk bleef alleen de harde kern over. En die accepteerden even helemaal niks.
+The landlord arrived. The wolf stepped from his wagon and found chaos. Having heard none of what preceded, and the Crows and Cartin family both giving _different_ accounts of what had happened, he didn't dare decide _anything_. 
 
-Fonza opende haar bek en sprong naar voren. Felicia paste er helemaal in; Owuit reageerde nergens meer op. Een drietal wolven sprongen gretig met haar mee.
+"The rules around Trials of Witches are clear," he spoke slowly. "So---"
 
-Hun schaduwen vielen over de doodsbange poes. Een wolvenklauw sloeg een diepe wond in Felicia's gezicht.
+"If you don't forbid it, then the execution continues!" the Crows decided for him.
 
-En toen werden ze ondersteboven gereden door de andere koets.
+Screams of "No!" and "Let them go!" erupted from the crowd. The landlord stepped back, safe behind a circle of guards, his eyes wild and anxious.
 
-De wolven landden tegen een boom. Fonza landde in de rivier en zwom voor haar leven. De koets werkte als een muur tussen de brandstapel en alle anderen, wat het laatste gevaar wegnam.
+In the end, still confused, he quickly choose the safe side. "I mean, I stand by the family Cartin! They are right. All these _assumed_ witches are under their protection."
 
-Een kleine chimpanzee, met stompjes en niet geheel volgroeide ledematen, rolde uit de koets.
+More and more animals walked away. You would never win a fight against the elite. They had freedoms and protections that the poor inhabitants could only dream of.
 
-"Ach, dat is nou onhandig van mij," zei ze.
+Only the fiercest of them remained. And they accepted none of this.
 
-De landheer keek furieus. De Kraaien wachtten op zijn oordeel. Als hij toch zei om aan te vallen ... 
+Fonza opened her mouth and lurched forward. Felicia would fit inside it entirely; Aria reacted to nothing anymore. A trio of wolves jumped with her to grab Felicia from the back.
 
-De chimpanzee hield een zegel omhoog: die van de leeuwenkoning in Traferia, de oerwouden verder richting het zuiden.
+Their shadows fell over the terrified puss. A wolf claw scratched a deep wound into her face.
 
-"Deze hier staan _allemaal_ onder mijn bescherming. U kunt gaan."
+And then they were all blown away by a wooden home on wheels that drove straight into them.
 
-De landheer bekeek het zegel lang en aandachtig. Daarna schudde hij zijn hoofd en keerde om. "Ik heb niks gezien en dit is niet gebeurd. Ga je gang, Chef."
+The wolves landed against a tree. Fonza landed in the river and swam for her life. The wagon acted like a wall between the pyre and the others.
 
-Felicia, Catia en Owuit vielen tegelijkertijd flauw van de opluchting.
+A small chimpanzee, with stubs instead of fully grown limbs, rolled from the wagon.
+
+"Oh, how _clumsy_ of me," she said.
+
+The landlord was furious and the Crows awaited his commands. This was clearly an attempt at murder from the chimpanzee! Things were getting worse and worse!
+
+But the crowd, which outnumbered them easily and represented the actual wishes of the city, loved The Good Chef and wanted complete freedom for these witches.
+
+_And so we see, dear reader, that peer pressure can be terrible and mean, but also the only way to achieve good against all odds. To sway injustice to justice, to force others to behave in a way that is less selfish._
+
+The landlord went back into his golden coach and left. "I saw nothing and none of this happened. Take care of them, Chef."
+
+Felicia, Catia and Aria all fainted from relief at the same time.

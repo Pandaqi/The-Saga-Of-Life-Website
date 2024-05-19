@@ -1,146 +1,145 @@
 ---
-title: Middernachtmerrie
+title: Midnightmare
 weight: 7
 ---
+Catia had to stay behind. She was too ill to join in their flight to the hospital. Felicia had to carry her all the way back to Dormas' house, almost breaking her back, and then ran back the other way. She'd eaten far too little for this and---
 
-Catia moest achterblijven. Ze was te ziek om in alle haast mee te rennen naar het ziekenhuis. Felicia tilde haar de hele weg terug naar het huis, een inspanning die bijna haar rug brak, en rende daarna weer terug. Ze had veel te weinig gegeten hiervoor en---
+When she entered the hospital tent with a fearful heart, she already knew it was too late.
 
-Toen ze met bonkend hart de ziekenhuistent instapte, wist ze al dat het misschien te laat was.
+Dormas was unseeing and unmoving. His healer slowly stepped back and put away her instruments. With a withering stare, she grabbed the half-full bowl of beer from the cupboard and smashed it into the dirt.
 
-Dormas' ogen waren gesloten en hij bewoog niet meer. Zijn heler nam langzaam afstand en legde haar apparaten weg. Met een vernietigende blik pakte ze de halfvolle kom met bier van het kastje en gooide het weg in de modder.
+"Get out," she said. "This bed has to be freed up for the next---"
 
-"Wegwezen," zei ze. "Dit bed moet vrijgemaakt voor de volgende---"
+"No," Felicia whispered. "Maybe I can make a medicine---let me---"
 
-"Nee," fluisterde Felicia. "Misschien kan ik nog een medicijn---laat me---"
+She fought her way through the group to end up against Dormas' straw bed. Her paws felt his chest. No heartbeat. She stroked his soft fur, but the body was already turning stiff and cold.
 
-Ze beukte een weg door de groep en kwam tot stilstand tegen Dormas' bed van stro. Haar poten voelden aan zijn borst. Geen hartslag. Ze streelde zijn zachte vacht, maar het lichaam werd al stijf en koud.
+Fonza _hauled_ her back. Had she betrayed herself? No, the anger of the fox was aimed at the healer. "Hacks! You're useless! Even a _witch_ would have done a better job! Don't think we'll pay for this treatment!"
 
-Fonza trok haar achteruit. Had ze haarzelf verraden? Nee, de woede van de vos was gericht op de heler. "Prutsers! Jullie kunnen niks! Zelfs een _heks_ had het nog beter gedaan! Denk maar niet dat we hiervoor gaan betalen!"
+The healer ignored it, used to such treatment. She waited impatiently until the group took Dormas away, carried on their backs and shoulders.
 
-De heler negeerde het. Ze was het vast gewend. Ze wachtte ongeduldig totdat de groep Dormas meenam op hun schouders.
+"What ... what will happen to him?"
 
-"Wat ... wat gebeurt er met hem?"
+"We bury him somewhere in the forest," said Fonza.
 
-"We begraven hem zelf ergens in het bos," zei Fonza.
+"But he was a devout member of the church. We should find a nice spot on the graveyard to---"
 
-"Maar hij was lid van de kerk. Hij moet toch een mooi plekje op de begraafplaats---"
+"We can't pay for that, kid." Fonza looked devastated. "God is expensive."
 
-"Dat kunnen we niet betalen, kind." Fonza keek vernietigend. "God is duur."
+Felicia was too shocked to move. This was unnecessary. Completely unnecessary. Dormas could have survived easily. And now ... and now ...
 
-Felicia was te geschokt om te bewegen. Dit was onnodig. Compleet onnodig. Dormas had kunnen leven. En nu ... en nu ...
+Would she even be allowed to stay? Her guardian angel was gone. The only reason she wasn't dying somewhere in an alley, as ill and broken as Catia.
 
-Mocht ze wel in zijn huis blijven? Haar beschermengel was weg. De enige reden dat ze niet doodziek met Catia ergens in de goot lag.
+No, even Catia had people: her parents looking for her. Felicia had _nobody_. How could the proud Felix family have come to this? How could they do this to her loving parents? If they were still alive, they would surely have come back to Felicia by now ...
 
-Hoewel, Catia had gewoon ouders die haar nu zochten. Zij had _niemand_.
+The church bells announced midnight. A few more hours and Aria would also receive the death penalty. The Wise Owl would give Felicia a safe home, right? Without having to lie and betray under group pressure?
 
-De kerkklok vlakbij sloeg middernacht. Nog een paar uur en ook Owuit zou de doodstraf krijgen.
+She ran towards the landlord's castle. The dungeons were somewhere below ground, was all she knew. The fear of coming too late, failing another being, pushed away the tears for now. 
 
-Hij zou haar toch een veilig huis bieden? Zonder dat ze daarvoor hoefde te liegen en bedriegen? 
+All that mattered was today and what you were going to try next. She came from the Felix family--- a family of _helpers_.
 
-Ze rende richting het kasteel van de landheer. Ze wist alleen dat ergens onderin de kerkers zaten, meer niet. De angst om te laat te komen, om nog iemand te falen, drukte voor nu haar tranen weg. Ze kwam uit de familie Felix---een familie van _helpers_. 
+Along the way, she plucked flowers left and right. Many shops threw away perfectly usable goods into their waste bins, at least when you were interested in _flammable_ material. She hadn't exactly practiced this often, but these ingredients would combine into something like a bomb.
 
-Onderweg rukte ze links en rechts bloemen uit de grond. Uit de afvalbakken van winkels kon ze veel brandbaar materiaal halen. Ze had het niet bepaald veel geoefend, maar deze ingrediënten zouden samen iets moeten maken dat leek op een bom. 
+Of course, she also grabbed the right ingredients for the antidote, something to protect you against fire. She'd read enough accounts from The Good Chef, received because her parents were good friends with the chimpanzee, to know this. The Fishfool exploded in contact with water and would consume most of it. Its sister plant, the Firebraid, did the opposite and extinguished fire.
 
-Ze bereikte de uiterste muren rondom het paleis.
+In case it went wrong. In case the Crows attacked her with fire, as they often did. She was a good scientist, yes, like her parents, always preparing for all outcomes.
 
-Haar lichaam was opgebrand. Zoveel rennen en zoveel problemen. Ze leunde lange tijd tegen de muur, onder de volle maan, voordat ze in een paal klom. Bovenin hing een glazen lantaarn met daarin een vlam. Het enige flauwe licht in de nacht, zelfs in deze drukke stad. 
+She reached the outer walls of the castle.
 
-Ze bracht haar bom richting de vlam. 
+Her body had burned up. So much running, so much trouble. She leaned against the wall for a while, under the full mean, before climbing a pole. At the top was a glass lantern containing a flame.
 
-"Dat zou ik niet doen als ik jou was," zei een stem boven haar. Kraaien!
+She brought her bomb near the flame.
 
-De volgende leugen stond klaar. Het smoesje vormde in haar hoofd, terwijl ze heel langzaam opkeek. Door angst, maar ook door haar bevroren nek die niet meer wilde meewerken.
+"I wouldn't do that if I were you," said a voice overhead. Crows!
 
-Maar bovenop de lantaarn stond Owuit---vogelvrij.
+The next lie was ready. The excuse formed in her head as she slowly looked up. 
 
-"Ik kan mezelf bevrijden, dankjewel," zei de uil, nu met enkele gaten en verwondingen tussen zijn veren. Hij wisselde naar een grotere bril. "Het Boek der Betekenis heeft mij geleerd hoe alle sloten werken."
+But it was Aria on top of the lantern---free as a bird.
 
-"Wat kan je niet?"
+"I can free myself, thank you," the owl said. Her body held many gaps and wounds between the remaining feathers. She switched to larger glasses. "The Book of Meaning also taught me how all locks work."
 
-"Gelukkig zijn," reageerde Owuit met schokkende eerlijkheid. 
+"What can you _not_ do?"
 
-Hij nam Felicia vaderlijk in zijn vleugels. "Je verliest je ouders op vreselijke wijze, en toch klim je hier in een paal om _mij_ te redden? Je hebt genoeg gedaan Felicia. Het is tijd dat iemand jou hielp."
+"Be happy," Aria answered with brutal honesty.
 
-"Ik heb _niks_ goeds gedaan. Door mij is een onschuldige hond in de Rivier gegooid! Door mij---"
+She took Felicia motherly into her wings. "You lose your parents in a terrible way, and still you come here to save _me_? You've done enough Felicia. It's time somebody helps _you_."
 
-"En al die anderen die medeplichtig zijn verliezen er geen slaap over. Hoe kan ik nou leven in een wereld waarin dat soort dingen gebeuren ... en nog gelukkig zijn?"
+"I have done _nothing_ right! I made them throw an innocent dog into the River! I have---"
 
-Felicia wist het antwoord ook niet. Ze viel bijna in slaap, terwijl hij haar meenam door de koude avondlucht, terug naar het huis van Dormas.
+"And all your other accomplices do not lose any sleep over it. How can I live in a world like that ... and be happy?"
 
-Ze had maar één vraag. "Waarom loog je over---"
+Felicia didn't know. She almost fell asleep herself, as Aria took her into the cold night sky, back to Dormas' home.
 
-"Ik krijg tenminste een rechtszaak en heb kans te winnen. Jou, Felicia, hadden ze meteen een dodelijk Heksenproces gegeven. Nee, denk niet dat de waarheid je iets gaat brengen in deze tijden."
+She had just one question. "Why did you lie about---"
 
-"Deze tijden?"
+"At least I get a court case and a chance to win it. You, Felicia, would have instantly been given a deadly Trial of Witches. No, don't think the truth will ever matter in these times."
 
-Owuit stopte kort op een scheef dak. Ze dacht dat hij even wilde uitrusten, maar hij drukte zich plat tegen een schoorsteen om te schuilen voor een zwerm Kraaien.
+"These times?"
 
-"Het was niet altijd zo. Vroeger lagen de meeste steden hier er véél beter bij, met meer kennis, meer gelijkheid, meer alles."
+Aria briefly paused on a slanted roof. Not to rest, but to hide from a flock of Crows passing by.
 
-"Hoe kan dat nou
+"It wasn't always like this. Years ago, most cities around here looked much cleaner, with more wisdom, equality, everything."
 
-"Iedereen denkt maar dat kennis voor eeuwig is," zei Owuit. "Zodra iets is uitgevonden, nou, dan zal iedereen voorgoed van die uitvinding kunnen smullen! 
+"How?"
 
-Hij zette zijn vlucht voort, terwijl de kerkklokken twee uur sloegen. "De waarheid is precies andersom. Oude beschavingen wisten medicijnen die wij niet meer kennen. Oude beschavingen hadden riolering, wij niet meer. Kennis _verdwijnt_ als het niet wordt gebruikt en behouden, elke dag opnieuw."
+"Everyone thinks knowledge is forever," Aria said. "Once something is invented, well, we will be able to enjoy it for eternity!"
 
-"Wist ik maar hoe ik Catia kon genezen," mompelde ze tegen zijn warme veren. "Hadden we maar meer kennis daarover. Nu."
+She continued her flight as the church bells rang 2 o'clock. "The truth is the other way around. Old civilizations knew medicine that we've forgotten. Old civilizations had sewage systems, we don't. Knowledge _disappears_ if it's not used and maintained, every single day."
 
-"Je wilt niet meer kennis," zei Owuit bitter. "Het is een vloek. Als je meer kennis had gehad ... dan had je weken geleden al geweten dat Catia ongeneesbaar is. En toen direct alle hoop verloren."
+"If only I knew how to heal Catia," she mumbled against the warm feathers. "We need knowledge about that. Now."
 
-"_Wat?_" 
+"You don't want more knowledge," Aria said bitterly. "It is a curse. If you had more knowledge ... you'd have known weeks ago that Catia is _incurable_. And lost all hope then."
 
-Owuit landde op het dak van het huis. Ze zochten de omgeving af. Geen verdachte figuren, geen Kraaien op de wacht. Het was doodstil. Waarschijnlijk was Fonza nog altijd bezig met Dormas een laatste rustplek geven.
+"_What?_"
 
-Ze klommen omlaag---en hun ongelijk werd bewezen.
+Aria landed on another roof and scoured the surroundings. No suspicious figures, no Crows flying in wait. Dead silence. Probably because Fonza was still busy bringing Dormas to his final resting place.
 
-De deur stond open op een kiertje, het zwakke slot versplinterd dankzij een flinke beet. De planken voor de gaten in de muur waren eraf gerukt. Rook kwam erdoorheen. Vuur? Stond de slaapkamer in brand? 
+They climbed down---and were proven wrong.
 
-Felicia had haar volgende medicijn op het vuur laten staan, in de grote ketel!
+The door was ajar, the weak lock splintered thanks to a fierce bite. The planks, covering holes in the stone wall, had been pulled off. Steam escaped through the holes. Fire? Bedroom on fire?
 
-Ze begon een miauw voor Catia en wilde naar binnen rennen. Owuit drukte zijn vleugel tegen haar mond en drong als eerste naar binnen.
+Felicia had left her next medicine on the fire, inside her big cauldron!
 
-De hal was donker. Alle kaarsen waren uit en aan ramen had dit huis sowieso tekort. Het huis was muisstil, de deur naar de slaapkamer wagenwijd open. Er kwam nauwelijks licht vandaan, niet meer dan haar kookvuurtje zou werpen.
+She meowed _Catia!_ and wanted to run inside. Aria kept her away and wanted to enter first.
 
-Owuit ontweek net op tijd een ingestort deel van het plafond. Zo bereikten ze geruisloos de deuropening naar de slaapkamer.
+The hallway was dark. All candles had gone out and this house had never had enough windows to start with. The home was silent, the door to the bedroom open wide. It gave no more light than the dim flickering her cooking fire would create.
 
-Felicia keek razendsnel naar binnen. Er was ... niemand. Zelfs Catia was weg. Grijze rook vulde de kamer, gevormd door het flink aangebrande goedje.
+Aria dodged a part of the ceiling that had come down, until they reached the bedroom. Felicia looked inside. There was ... nobody. Even Catia was gone. Grey smoke filled the room, created by the burnt potion.
 
-Maar Owuit hield haar nog steeds tegen. Zijn geweldige uilenogen---of misschien de bril---zagen de pootafdrukken op de grond. Modderig, vol stukjes gras en takjes.
+But Aria still held her back. Her great owl eyes---or maybe triple glasses---saw paw prints on the floor. Dirty, muddy, full of grass and twigs.
 
-Ze gingen _in_ de kamer---ze gingen er niet meer _uit_.
+They went _into_ the room---they never got _out_.
 
-Owuit wapperde eenmaal zijn vleugels, om de kamer van iets hoger te zien, en gaf daarmee zichzelf weg.
+Aria beat her wings once, to see the room from up high, and gave them away.
 
-Een vos dook uit de donkere hoek en trok hem richting de andere. Een tweetal wilde jonge honden beukten Felicia van haar poten totdat ze tegen het strobed rolde.
+A fox dove out of the other corner and snatched Aria in her jaws. A pair of young dogs bumped Felicia until she rolled against the straw bed.
 
-Fonza's lichaam bleef onzichtbaar; alleen haar gezicht lichtte op van onderen door het vuurtje.
+Fonza's body remained invisible; the fire only lit up her face from below.
 
-"Ik _wist_ het," krijste ze. "Je bent een _heks_! En waar ben je nu, hè, zonder de bescherming van de oude hond?"
+"I _knew_ it," she screamed. "You are a _witch_! And where are you now, ay, without the old dog's protection?"
 
-"Ik maak Catia's lievelingssoep!"
+"I make Catia's favorite soup!"
 
-Felicia werd vastgehouden door stevige hondenbeten. Owuit wapperde nog steeds rond en maakte zijn achtervolger gek.
+Felicia was held back by painful dog bites. Aria still flew around, turning her pursuer insane.
 
-"Ja, dat is _precies_ wat een heks zou zeggen!" Fonza wees met haar staart naar de muur.
+"Yes, that is _exactly_ what a witch would say!"
 
-Zelfs in het flauwe licht, zag ze de symbolen die erin waren gekrast. Sterren met de lijnen doorgetrokken, symbolen alsof ze uit een antieke taal kwamen. Die had Felicia écht niet zelf erop gekrast.
+Fonza pointed her tail to the wall. The faint light revealed _symbols_ scratched into them. Stars with solid lines, figures as if they came from an ancient language. Felicia had _not_ made those herself.
 
-En Catia. Vastgebonden en doodsbang. Ze was niet eens meer sterk genoeg om tegen de touwen te vechten.
+And Catia. Chained up and terrified. She lacked even the strength to fight her ropes.
 
-"De Kraaien komen eraan. Geef toe dat je een heks bent, of je ziet je zusje niet meer terug." Fonza fronste. "Of _is_ ze wel je zusje?"
+"The Crows are coming. Admit you're a witch, or you'll never see your sister again." Fonza frowned. "Or _is_ she even your sister?"
 
-"Waarom ben je _zo_ bang voor heksen?" riep Felicia. "Wat hebben ze jou ooit aangedaan?"
+"Why do you fear witches _so much_?" yelled Felicia. "What did they ever do to you?"
 
-"Ze zijn een bedreiging voor onze cultuur. Onze normen en waarden. Onze _beschaafdheid!_"
+"They threaten our culture. Our norms and values. Our _civilization_!"
 
-Felicia spuugde in haar gezicht. "Als jij jezelf beschaafd noemt ... dan ben ik liever onbeschaafd."
+Felicia spit in her face. "If you call yourself civilized ... then I'd rather be an uncivilized witch."
 
-"Lekker bezig, zus," 
+Aria dove down and cut through Catia's ropes with her beak. Felicia bit anything that came near, yielding just enough freedom to move.
 
-Owuit dook omlaag en sneed met zijn navel Catia's touwen los. Felicia beet om haar heen, een kat in het nauw die rare---en pijnlijke---sprongen maakte, wat haar net genoeg vrijheid verschafte.
+Covered by smoke, the trio jumped out of the window.
 
-Verborgen door de rook, sprong het drietal door het raam naar buiten.
+Fonza screamed the entire River District awake. Multiple Crows had already gathered on their broken roof, made of alternating straw and roof tiles, the best Dormas could ever pay.
 
-Fonza schreeuwde de hele buurt wakker. Meerdere Kraaien hadden zich al verzameld op hun scheve dak, gemaakt van afwisselend riet en dakpannen, het beste dat Dormas kon betalen.
-
-"Drie heksen! Drie heksen op de vlucht! Laat ze niet ontsnappen!"
+"Three witches! Three witches flee! Don't let them escape!"
