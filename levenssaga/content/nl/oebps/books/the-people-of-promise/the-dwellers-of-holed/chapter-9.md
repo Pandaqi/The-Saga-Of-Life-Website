@@ -2,7 +2,7 @@
 title: Hol Eindigt Opnieuw
 weight: 9
 ---
-Onderweg naar de streepjesgrot kwamen ze de wolf tegen. Hij leek te schrikken, hoewel ze zijn lichaamstaal slecht konden lezen. De indringer leek nog altijd verward en niet helemaal helder na het neerstorten.
+Onderweg naar de streepjesgrot kwamen ze de wolf tegen. Hij leek te schrikken, hoewel ze zijn lichaamstaal slecht konden lezen. De indringer leek nog altijd verward, zwaargewond en niet helemaal helder na het neerstorten.
 
 De wolf blafte dat ze moesten opschieten met alle gloeilampen. Ook keek hij boos en gromde naar Jassia's beer, die nog altijd de gloeilamp vasthield die niet uit wilde gaan. Daarna liep de wolf verder, een zak eten tussen zijn tanden, in de richting van hun grotten.
 
