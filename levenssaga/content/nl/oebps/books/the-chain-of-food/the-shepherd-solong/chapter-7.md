@@ -7,7 +7,7 @@ Zelfs als Behdo de kudde niet kon zien, wist hij nog waar ze waren. Het getik va
 
 Hij gooide de Kompanenketting op de grond. Zonder ketting konden de luipaarden niet stemmen. Was dat genoeg? Als Himnib niet op tijd kwam, zou dan één van de andere drie Berenherders op tijd komen?
 
-Hij had alle verhalen gehoord. Hij luisterde altijd als Himnib vertelde, en zijn eigen voorouders waren erbij toen Jorib en Bellib vertrokken om nooit meer terug te komen. Misschien, als hij _slim_ was, kon hij nog iets betekenen voor de kudde.
+Hij had alle verhalen gehoord. Hij luisterde altijd als Himnib vertelde, en zijn eigen voorouders waren erbij toen Jorib, Bellib en Solong vertrokken om nooit meer terug te komen. Misschien, als hij _slim_ was, kon hij nog iets betekenen voor de kudde.
 
 Maar wat was slim? Rennen naar de Raad? Die ketting werd vast meteen afgepakt en aan de luipaarden gegeven. En Behdo was een crimineel en werd opgesloten. _Niemand steelt een Kompanenketting zonder straf!_ Zelfs het vervalsen ervan had meerdere Jakhalzen voorgoed in de gevangenis gekregen. Waaruit ze keer op keer met gemak ontsnapten, dus toen stapte de Raad over naar dieren _verbannen_.
 
@@ -17,9 +17,15 @@ Dat had hij natuurlijk deels te danken aan zijn wandelstok. Hij gebruikte hem al
 
 Himnib liep in de verte langs het hek om Foenix. Hij mopperde en porde regelmatig in de muur, op zoek naar een zwakke plek. Behdo liep van afstand mee. Hij miste de kudde nu al. Ze leken hem totáál niet te missen.
 
-Ze hadden hun plek gevonden. De eerste schapen sprongen over het hek, maar een hertenbewaker rende al schreeuwend ernaartoe. Hij _voelde_ zich nog steeds deel van de kudde. Als zij werden gepakt, was het alsof hij zelf werd gepakt. Zijn ogen gleden over zijn omgeving. Zachte plantjes? Zinloos. Boom? Die kon hij toch nooit uit de grond halen.
+Ze hadden hun plek gevonden. De eerste schapen sprongen over het hek, maar een hertenbewaker rende al schreeuwend ernaartoe. 
 
-Steen? Ja. Hij pakte een grote steen tussen zijn tanden. Het hert stond naast Himnib en probeerde hem tegen het hek te klemmen met zijn gewei. _Gebruik dan je wandelstok, dombo!_ Hij deed het niet. Dus Behdo leunde achterover, verzamelde kracht, en schoot toen naar voren als een elastiek dat weer straktrok. De steen vloog uit de bosjes, over de vlakte.
+Hij _voelde_ zich nog steeds deel van de kudde. Als zij werden gepakt, was het alsof hij zelf werd gepakt. Dus zijn ogen gleden over zijn omgeving. Zachte plantjes? Zinloos. Boom? Die kon hij toch nooit uit de grond halen.
+
+Steen? Ja. Hij pakte een grote steen tussen zijn tanden. 
+
+Het hert stond naast Himnib en probeerde hem tegen het hek te klemmen met zijn gewei. _Gebruik dan je wandelstok, dombo!_ Hij deed het niet. 
+
+Dus Behdo leunde achterover, verzamelde kracht, en schoot toen naar voren als een elastiek dat weer straktrok. De steen vloog uit de bosjes, over de vlakte.
 
 Zelfs richten kon hij niet. Maar Himnib was snel en verwisselde van plek met het hert, waardoor die een steenharde tik tegen het hoofd kreeg. De ogen van het hert draaiden rond en hij probeerde niet om te vallen. Het was genoeg om de kudde te laten ontsnappen.
 
@@ -29,15 +35,15 @@ Hij moest zorgen dat die luipaarden hun ketting niet kregen, en dat die panda he
 
 ___
 
-Himnib maakte tempo. Natuurlijk---hij wilde de stemming ook halen. Maar het had Behdo veel tijd gekost om een weg over het hek te vinden, en nu liep hij flink achter. Dat hij kleine pootjes had hielp ook niet mee. Het getik van de wandelstok was de helft van de tijd niet hoorbaar, en anders alleen een fluistering op de wind. 
+Himnib maakte tempo. Het had Behdo veel tijd gekost om een weg over het hek te vinden, en nu liep hij flink achter. Dat hij kleine pootjes had hielp ook niet mee. Het getik van de wandelstok was de helft van de tijd niet hoorbaar, en anders alleen een fluistering op de wind. 
 
 Er waren ook andere fluisteringen op de wind. Fluisteringen die Behdo niet kon plaatsen, die steeds luider werden, die gromden en kletsten, totdat twee graanstengels uit elkaar werden geduwd en een _sneeuwluipaard_ voor hem stond.
 
 "Kiekeboe."
 
-Behdo blaatte alle boeren doof. Eentje wilde haar wegduwen met zijn hark, maar draaide het gereedschap als wapen naar de luipaard toen die in zicht kwam. Behdo trok de hark uit de opgetrokken flamingopoot en zwaaide het vooruit.
+Behdo blaatte alle boeren doof. Eentje wilde hem wegduwen met zijn hark, maar draaide het gereedschap als wapen naar de luipaard toen die in zicht kwam. Behdo trok de hark uit de opgetrokken flamingopoot en zwaaide het vooruit.
 
-De luipaard kreeg twee lelijke krassen op zijn buik. Dat maakte hem slechts kwader.
+De luipaard kreeg twee lelijke krassen op zijn buik.
 
 "Jij hebt iets van ons. Ik zal het terugkrijgen, al moet ik het van een dood schapenlichaam trekken."
 
@@ -47,7 +53,9 @@ Behdo sprintte honderden graanstengels splinterplat en bereikte de brede weg. _I
 
 De luipaard was twee luipaarden geworden, die al te graag volgden. Zijn korte pootjes draaiden overuren en wisten zelfs een _voorsprong_ op te bouwen.
 
-Waarheen? Waarom? Wie? Hoe? Onbewust ging hij weer af op de tikkende wandelstok van Himnib. Hij kon de luipaarden niet eeuwig voorblijven. En nu leidde hij hen juist naar de kudde! Hij moest de andere kant op!
+Waarheen? Waarom? Wie? Hoe? 
+
+Onbewust ging hij weer af op de tikkende wandelstok van Himnib. Hij kon de luipaarden niet eeuwig voorblijven. En nu leidde hij hen juist naar de kudde! Hij moest de andere kant op!
 
 Aan de "andere kant" stonden inmiddels vier luipaarden. De boeren die over de velden liepen, hielden zich er graag buiten, ook al werden grote repen graan platgestampt tijdens de achtervolging. Behdo mekkerde en mekkerde, tot hij besloot alle energie te stoppen in de ene poot voor de andere plaatsen.
 
@@ -57,9 +65,13 @@ Zelfs van afstand beschermde de kudde hem.
 
 Behdo twijfelde weer. Hij kon nu doorlopen zonder te worden achtervolgd. Maar wat was het nut van doorlopen naar de Raad, als hij de kudde nu in de steek liet?
 
-Hij vrat snel al het graan om hem heen, hoopte dat het energie gaf, en rende achter de luipaarden aan. In de verte zag hij een houten wagen. Twee luipaarden gooiden hem ondersteboven. Een leger wasbeerhonden spatte weg van de plek alsof ze regendruppels waren. Een stuk of vijf waren minder gelukkig en werden vastgebonden.
+Hij vrat snel al het graan om hem heen, hoopte dat het energie gaf, en rende achter de luipaarden aan. 
 
-Himnib lag op de grond. _Dood? Nee, nee, nee._ Hij ademde nog, toch? Behdo kroop door de bosjes.
+In de verte zag hij een houten wagen. Twee luipaarden gooiden hem ondersteboven. Een leger wasbeerhonden spatte weg van de plek alsof ze regendruppels waren. Een stuk of vijf waren minder gelukkig en werden vastgebonden.
+
+Himnib lag op de grond. _Dood? Nee, nee, nee._ Hij ademde nog, toch? 
+
+Behdo kroop door de bosjes.
 
 "Eindig het hier, lafaard," schreeuwde een luipaard.
 
@@ -69,7 +81,9 @@ Lazpard slenterde terug naar Himnib, die zelfs buiten bewustzijn de wandelstok k
 
 "En zijn Kompaanketting stelen. Als we zeggen dat zijn schaap de mijne had gestolen, hebben we een excuus."
 
-_Als die stok doet wat ik denk dat hij doet ..._. Behdo zette een stap. De luipaarden hoorden het. Hij kwam in actie.
+_Als die stok doet wat ik denk dat hij doet ..._
+
+Behdo zette een stap. De luipaarden hoorden het. Hij kwam in actie.
 
 Gillend rende hij over de plek, twee luipaarden meteen op zijn hielen, net zoals een spoor van losgetrokken bladeren. Hij sprong bovenop Himnib en greep de stok.
 

@@ -13,11 +13,11 @@ Hij stapte snel naar binnen, glimlachend.
 
 De geur van warme groentesoep en vers gebakken brood kwam hem tegemoet. Normaal gesproken leefde hij van zijn eigen kudde, maar dat ging steeds moeilijker. Zijn dieren gaven steeds minder melk en vlees, omdat ze zelf nauwelijks konden eten. Het Eerste Conflict had op veel plekken een zwart gat achtergelaten waar planten hadden moeten zijn. Net zoals het een zwart gat achterliet waar Himnibs diersoort jarenlang hun koninkrijk had gehad: de Berenbouwers.
 
-Na dagenlang rondtrekken had hij eindelijk de Himabergen overwonnen en, hopelijk, een vullende maaltijd. De volgende woorden wilde hij dus niet horen.
+Na dagenlang rondtrekken had hij eindelijk de Himabergen overwonnen. En, hopelijk, een vullende maaltijd. De volgende woorden wilde hij dus niet horen.
 
 "We zijn gesloten," zei een sneeuwluipaard. 
 
-Hij lag tegenover de eigenaar van de herberg---een Yak met zwarte vacht op zijn rug als een afrokapsel---rondom een toonbank. Eentje die _zijn berenbouwers_ ongetwijfeld hadden gebouwd. 
+Hij lag voor een toonbank. Een Himnibs _berenbouwers_ ongetwijfeld hadden gebouwd. Achter die toonbank stond de eigenaar van de herberg: een Yak met zwarte vacht op zijn rug en een explosie van zwarte krullen op zijn hoofd.
 
 Himnib keek naar de Yak voor steun. Het enige geluid in de herberg was zijn wandelstok die tegen de planken tikte, terwijl hij verder naar binnen liep. Vier van zijn schapen huppelden al achter hem aan. Hij duwde ze zonder te kijken buiten de deur. 
 
@@ -27,7 +27,7 @@ Himnib keek naar de Yak voor steun. Het enige geluid in de herberg was zijn wand
 
 De eigenaar trok een stuk perkament van het bureau en frommelde het in een ton. Hij wilde ook een tweede voorwerp pakken, maar Himnib had het al gezien. Een bal van metaal en hout, geslepen in een luipaardvorm door een kundige artiest. Het touw dat eraan vast zat was geknapt, maar hing nog half rond de luipaardnek. 
 
-Himnib stapte dichterbij, zijn wandelstok tikkend tegen tafelpoten. Op de achterkant stond een naam: Lazpard.
+Himnib stapte dichterbij, zijn wandelstok tikkend tegen tafelpoten. Op de achterkant van de bal stond een naam: Lazpard.
 
 "Maar u bent een Kompaan!" zei hij opgewekt. "Kompanen staan _bekend_ om hun gastvrijheid en dat ze elke diersoort helpen! Je wil toch niet dat ik tegen mijn beste vriendin, de Wijze Uil, zeg dat je mij hebt---"
 
@@ -47,9 +47,9 @@ Ondanks Lazpards chagrijnige blik, bleef hij een Kompaan. Dus Himnib vertrouwde 
 
 Hij werd oud. De zwarte beer leunde op zijn wandelstok en wilde niet teruglopen om de schapen het hutje in te duwen. 
 
-Een paar sneeuwluipaarden keken hongerig naar zijn kudde. Ze mopperden over een "idiote hoeveelheid schapen" en "dat past niet", voordat ze door het raam sprongen en de herberg verlieten.
+Een paar sneeuwluipaarden keken hongerig naar zijn kudde. Ze mopperden over een "idiote hoeveelheid schapen" en "dat past niet", waarna ze door het raam sprongen en de herberg verlieten.
 
-De Yak keek zuchtend toe hoe steeds meer en meer schapen binnenstroomden. Ze duwden de tafels naar de hoeken van de kamer om plek te maken, en het was nog niet genoeg. Witte wol na witte wol druppelde binnen. 
+De Yak keek zuchtend toe hoe steeds meer en meer schapen binnenstroomden. Ze duwden de tafels naar de hoeken van de kamer om plek te maken, en het was nog niet genoeg.
 
 Lazpards gezicht sprak boekdelen: _zie je wel, dit was een stom idee_. Himnib zag het probleem niet. Lekker zacht, toch? En warm? En gezellig. 
 
@@ -65,7 +65,7 @@ Lazpard bleef nors, maar Yak lachte om de woordgrap, terwijl hij vuurtjes aansta
 
 "Waar heb je dat geleerd?" vroeg Himnib. "Ben jij zo'n nieuw persoon die _magie_ kan?"
 
-"Nee, gewoon een uitvinding van de Gosti. Jak, ze noemen zichzelf de Primas sinds ze naar de Aparantrivier zijn verhuisd. Vinden zichzelf heel wat." 
+"Neek neek, gewoon een uitvinding van de Gosti. Jak, ze noemen zichzelf de Primas sinds ze naar de Aparantrivier zijn verhuisd. Vinden zichzelf heel wat." 
 
 Yaks ogen knepen samen. "Maar toen _ik_ een huis per ongeluk in brand stak, jak, werd ik door de Raad flink gestraft! Twintig jaar in de gevangenis, mag nooit meer terugkomen en---"
 
@@ -73,7 +73,7 @@ Lazpard gromde. "Kijk uit met kritiek op de Raad."
 
 Himnib wilde doorvragen, maar Yak viel angstig stil.
 
-"Geef je stok maar hier," zei hij uiteindelijk, "en je andere spullen. Jak, als je er toch bent, kan je overnachten. Zolang je maar betaalt."
+"Geef je stok maar hier," zei de gastheer uiteindelijk, "en je andere spullen. Jak, als je er toch bent, kan je overnachten. Zolang je maar betaalt."
 
 Himnib gaf zijn tas weg. Het bevatte spullen gemaakt van schapenwol en de laatste drinkflesjes die hij moeizaam had gemolken. Kleding maken leek wel een beetje op huizen bouwen, had hij zichzelf verteld. Het was kleiner, en je moest voorzichtiger zijn, maar hij noemde zichzelf nog steeds vol trots een Berenbouwer. 
 
@@ -81,7 +81,9 @@ Iemand moest het doen.
 
 Maar zijn wandelstok ging nergens heen. Waarom trok de eigenaar snel de spullen van tafel? Waarom was hij zo zenuwachtig? Waarom fluisterden ze? Wat stond er op dat perkament? 
 
-De hongerige schapen begonnen al aan de houten planken in de muur. Lazpard pulkte etensrestjes tussen zijn scherpe voortanden uit.
+De hongerige schapen begonnen al aan de houten planken in de muur. 
+
+Lazpard pulkte etensrestjes tussen zijn scherpe voortanden uit.
 
 "En wat brengt een Berenkompaan helemaal naar hier?"
 
@@ -119,7 +121,9 @@ Himnibs schapen probeerden Lazpard te overweldigen met hun aantal, maar een Luip
 
 "Laat hem met rust," zei Himnib luid. 
 
-Lazpard keek even achterom, heel eventjes, of de schapen zouden luisteren. Himnib sloeg met zijn wandelstok de grijsgestipte voorpoot van het perkament. Zijn andere klauw wilde het papier pakken, maar een luipaardstaart sloeg het weg. Lazpard gebruikte zijn voorpoten als bokshandschoenen, terwijl Himnibs wandelstok zo snel ronddraaide dat het een ondoordringbaar schild werd.
+Lazpard keek even achterom, heel eventjes, of de schapen zouden luisteren. 
+
+Himnib sloeg met zijn wandelstok de grijsgestipte voorpoot van het perkament. Zijn andere klauw wilde het papier pakken, maar een luipaardstaart sloeg het weg. Lazpard gebruikte zijn voorpoten als bokshandschoenen, terwijl Himnibs wandelstok zo snel ronddraaide dat het een ondoordringbaar schild werd.
 
 Hij was niet meer de sterkste beer, maar hij bleef een beer. Hij kon de kracht van Lazpard tegenwerken en even hard aan het papier trekken.
 

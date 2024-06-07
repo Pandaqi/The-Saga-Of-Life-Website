@@ -9,9 +9,9 @@ Het was een schrale hoop. Al tientallen jaren was Himnib de _enige_ die verschee
 
 Het viel allemaal op _zijn_ schouders, waardoor hij nooit ver van de Raad kon reizen. Altijd maar nieuwe regels, nieuwe stemmingen. Dit uitstapje naar de Himabergen was al véél verder dan hij ooit had gedaan.
 
-Nee, hij was vooral bang voor alle andere herders, en zijn schapen. Die mochten officieel nergens naartoe. En als ze zijn schapen afpakten, wist hij niet wat hij nog met zijn leven moest.
+Nee, hij was vooral bang voor alle andere herders, en zijn schapen. Die mochten officieel nergens naartoe. En als ze zijn schapen afpakten, wist hij niet wat hij nog met zijn leven moest. Hij kon nauwelijks herinneren hoe zijn leven eruit zag voordat hij zijn eerste schap had. Hij kon van de meeste zelfs niet herinneren hoe ze ooit de zijne werden, ze ... verschenen gewoon en bleven hem volgen.
 
-Hij kende ze allemaal. Bij naam, bij persoonlijkheid, bij die zwarte stip op Barina's kont en die halve hoorn op het hoofd van Behdo---die hij ervan verdacht stiekem uit een geitenfamilie te komen en dat voor hem te verzwijgen. Behdo zelf dacht dat zijn voorouders eenhoorns waren.
+Maar nu kende hij hun allemaal. Bij naam, bij persoonlijkheid, bij die zwarte stip op Barina's kont en die halve hoorn op het hoofd van Behdo---die hij ervan verdacht stiekem uit een geitenfamilie te komen en dat voor hem te verzwijgen. Behdo zelf dacht dat zijn voorouders eenhoorns waren.
 
 En daarom wist hij zeker dat een paar schapen misten. 
 
@@ -19,13 +19,13 @@ _Als de Kompanen dit horen,_ dacht hij, _dan worden die sneeuwluipaarden eruit g
 
 Hij twijfelde. Twijfel was slecht. Twijfel betekende vertraging. Ging hij ooit op tijd in de Raad van Kame aankomen? 
 
-Zijn hart wilde achter zijn gestolen schapen aan. Misschien leefden ze nog. Ze zouden niet durven om de regels écht te breken, toch? Dit deden ze alleen om Himnib te vertragen.
+Zijn hart wilde achter zijn gestolen schapen aan. Misschien leefden ze nog. De luipaarden zouden niet durven om de regels écht te breken, toch? Dit deden ze alleen om Himnib te vertragen.
 
 Niet twijfelen. Twijfel maakte langzaam.
 
 Hij keerde naar Foenix. Hij moest dat hele land doorkruizen tot Sommer, en dan was je al snel in de Raad van Kame. Hij kon de route langs de Dolfijnenpas nemen. Ook al was Gulvi er niet meer om die te bewaken, het bleef een drukbezocht en veilig gebied.
 
-Zijn wandelstok zakte steeds verder weg in de sneeuw. Met zijn kudde probeerde hij razendsnel het laatste stukje berg af te rennen: een steile helling omlaag.
+Zijn wandelstok zakte steeds verder weg in de sneeuw. Zijn kudde rende van het laatste stukje berg, wat een steile helling omlaag betekende.
 
 "Behdo mist!" riep Behdiël naast hem. Het sterkste en wolligste schaap dat hij na al die jaren had weten te maken.
 
@@ -35,21 +35,25 @@ Was hij wel tegen? De goden hadden ook strikte regels en dat had het land veilig
 
 De andere Kompanen zouden ook tegen zijn, toch? Hij wist het niet meer. Die wetten; het leek wel of ze allemaal een _hekel_ hadden aan herders. 
 
-Ze bereikten de voet van de berg. Himnib was blij met rechte grond onder zijn poten, die nu al vermoeid waren. Ze zouden zorgen dat ze Foenix binnenkwamen en dan rusten. Heel eventjes dan.
+Ze bereikten de voet van de berg. Himnib was blij met rechte grond onder zijn poten, die nu al vermoeid waren. Ze zouden zorgen dat ze Foenix binnenkwamen en dan rusten--- 
 
-Ze hadden een hek gebouwd.
+Foenix had een hek gebouwd op diens grens.
 
-Hij keek naar links, hij keek naar rechts, maar aan het hek kwam geen einde. Hij zag alleen een poort, inclusief twee bewakers. Een hele _smalle_ poort, verlicht met gecontroleerd vuur. Dat was zeker Bunjo's werk: een prachtige poort die niet praktisch was. Zodra de grond niet meer onder de sneeuw lag, tikte zijn wandelstok een ritme van vier noten.
+Hij keek naar links, hij keek naar rechts, maar aan het hek kwam geen einde. Hij zag alleen een poort, inclusief twee bewakers. Een hele _smalle_ poort, verlicht met gecontroleerd vuur. Dat was zeker Bunjo's werk: een prachtige poort die niet praktisch was. 
 
-De schapen vormden een nette rij, achter elkaar, van één schaap breed. Himnib haalde zijn Kompanenketting uit zijn tas.
+Zodra de grond niet meer onder de sneeuw lag, tikte zijn wandelstok een ritme van vier noten.
 
-"Berenkompaan! Ik vraag onmiddellijke toegang, voor mij en mijn kudde!"
+De schapen vormden een nette rij, achter elkaar, van één schaap breed. 
+
+Himnib haalde zijn Kompanenketting uit zijn tas. "Berenkompaan! Ik vraag onmiddellijke toegang, voor mij en mijn kudde!"
 
 De bewakers, twee mannetjesherten, duwden hun flinke gewei richting de grond alsof het speren waren. "Jou moeten we doorlaten. Die kudde niet."
 
 "Dat duurt echt een _jáár_ voordat al die schapen erdoorheen zijn," vulde de andere aan.
 
-"Kom op, schapen zijn lief en véél slimmer dan je denkt!" Himnib keek achterom. Zes schapen renden weg voor een vervelende bij, zo in paniek dat ze met de kop tegen elkaar botsten en bewusteloos in de modder vielen.
+"Kom op, schapen zijn lief en véél slimmer dan je denkt!" 
+
+Himnib keek achterom. Zes schapen renden weg voor een vervelende bij, zo in paniek dat ze met de kop tegen elkaar botsten en bewusteloos in de modder vielen.
 
 Het hert was niet onder de indruk. "We hebben er geen plek voor."
 
@@ -63,7 +67,9 @@ De herten keken naar elkaar. "Kunnen ze dat doen?"
 
 "Je durft wel zeg, mij beledigen in het _bijzijn_ van een Kompaan."
 
-"Misschien is die ketting wel vervalst. Hij ziet er niet uit als een Kompaan." Eén hert betrad de onderkant van een uitkijktoren, gebouwd bovenop het hek. Zeker niet door Bunjo, want het ding was _lelijk_, met uitstekende takken en pilaren alsof het een houten stekelvarken was.
+"Misschien is die ketting wel vervalst. Hij ziet er niet uit als een Kompaan." 
+
+Een hert betrad de onderkant van een uitkijktoren, gebouwd bovenop het hek. Zeker niet door Bunjo, want het ding was _lelijk_, met uitstekende takken en pilaren alsof het een houten stekelvarken was.
 
 "Wat had je dan verwacht?" riep Himnib gefrustreerd. "Een beest met vier ogen en drakenvleugels? Een kroon op mijn hoofd? Deftig taalgebruik met moeilijke woorden?"
 
@@ -85,13 +91,19 @@ Maar niet deze keer. _Ik moet laten zien dat de Herders geen plaag zijn,_ dacht 
 
 "Maak een keuze. Meer dieren willen naar binnen."
 
-Het was geen keuze. Hij liet zijn schapen niet achter, zeker niet hier. Hij draaide om en liep weg.
+Het was geen keuze. Hij liet zijn schapen niet achter, zeker niet hier. 
+
+Hij draaide om en liep weg.
 
 De herten riepen hem tegelijkertijd na. "Nog een fijne avond!"
 
-"Ik wens jullie een hele _vervelende_ avond!" schreeuwde Himnib. Terug in het duister, sloeg hij meteen linksaf en liep langs het hek. Hij liep en liep, totdat de zon alweer opkwam, en het hek kende geen einde. Het leek wel de Kinarische muur---ook al zo'n onnodige afscheiding die hem tegenhield aan de andere kant van Kina.
+"Ik wens jullie een hele _vervelende_ avond!" schreeuwde Himnib. 
 
-Het hek werd wel steeds minder stevig en afgewerkt. Alsof hier de grondstoffen opraakten, of de bouwers geen zin meer hadden. Daarmee moest hij maar genoegen nemen. Zijn wandelstok tikte een ritme van zeven noten. De schapen renden meteen naar het laagste stuk in het hek en sprongen eroverheen.
+Terug in het duister, sloeg hij meteen linksaf en liep langs het hek. Hij liep en liep, totdat de zon alweer opkwam, en het hek kende geen einde. Het leek wel de Kinarische muur---ook al zo'n onnodige afscheiding die hem tegenhield aan de andere kant van Kina.
+
+Het hek werd wel steeds minder stevig en afgewerkt. Alsof hier de grondstoffen opraakten, of de bouwers geen zin meer hadden. Daarmee moest hij maar genoegen nemen. 
+
+Zijn wandelstok tikte een ritme van zeven noten. De schapen renden meteen naar het laagste stuk in het hek en sprongen eroverheen.
 
 Niet iedereen was even succesvol. Barina kwam niet hoog genoeg en gleed schaamtevol langs het hek omlaag, tot haar kont weer in de modder zat. Himnib kon zelf natuurlijk ook niet springen. 
 
@@ -99,7 +111,9 @@ Hij bleef achter met de kleinste en zwakste schapen. Steeds vaker werd zijn kudd
 
 Misschien hadden ze gelijk: herders zijn een slechte invloed op de wereld en ongezond. _Nooit,_ dacht hij. _We verbruiken bijna niks, we vragen niks, en we regelen ons eigen eten. De meeste dieren zijn vergeten dat herders bestaan, zó weinig vallen we hen lastig._
 
-Behdiël stond bovenop het hek. Himnib gooide de kleinere schapen omhoog. Ze stuiterden door op een andere vacht en kwamen veilig aan de overkant. Barina kon niet gegooid. Ze was oud---nog ouder dan Himnib---en zag niet goed meer. Zij moest omhoog geduwd alsof ze het hek _beklom_.
+Behdiël stond bovenop het hek. Himnib gooide de kleinere schapen omoog. Ze zouden stuiteren op sterke wol en veilig de overkant bereiken.
+
+Maar Barina kon niet gegooid. Ze was oud---nog ouder dan Himnib---en zag slecht. Ze moest omhoog geduwd alsof ze het hek _beklom_.
 
 Klimmen. Dat moest Himnib nu ook gaan doen. Hij vond een zwak stuk hek en perste zijn wandelstok erin. Zoals hij spijkers in muren hamerde toen hij nog ...
 
@@ -113,7 +127,9 @@ _Waarom zijn herten zo snel?!_ Zijn achterpoten schraapten langs het hek en prob
 
 Nog één slag. Nog één keer draaien. Himnib zette zich schrap om los te laten en de laatste vlucht over het hek te maken.
 
-Een scherp gewei prikte in zijn rug. Hij gromde van de pijn en liet in reflex de wandelstok los. Zijn zware lijf vloog nog een klein stukje omhoog, maar begon daarna de onvermijdelijke val. Behdiël sprong van het hek.
+Een scherp gewei prikte in zijn rug. Hij gromde van de pijn en liet in reflex de wandelstok los. Zijn zware lijf vloog nog een klein stukje omhoog, maar begon daarna de onvermijdelijke val. 
+
+Behdiël sprong van het hek.
 
 Het hert probeerde Himnib aan zijn gewei te prikken, alsof het een zwaard was.
 

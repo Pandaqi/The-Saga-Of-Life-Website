@@ -15,13 +15,15 @@ Zo had hij ook niet door dat een rode panda al lange tijd achter hem stond en to
 
 De panda kuchte. "Mag ik vragen wat je aan het doen bent?"
 
-Himnib schrok niet. Hij keek niet eens om. Als herder moest je vast ogen in je achterhoofd hebben. "Kijken."
+Himnib schrok niet. Hij keek niet eens om. Als herder moest je vast ogen in je achterhoofd hebben. 
+
+"Kijken."
 
 "Ja, dat zie ik, maar waarom?"
 
 "Een herder moet observeren wat normaal is, om te weten wat _niet_ normaal is."
 
-De panda overwoog dat even en gromde zachtjes. Ze schuurde langs zijn berenpoten. "En? Is alles normaal?"
+De panda overwoog dat even. Ze schuurde langs zijn berenpoten. "En? Is alles normaal?"
 
 Himnib schudde zijn hoofd. "De schapen worden niet meer zo groot als vroeger. Ze lopen langzamer. Ik denk dat het komt door weinig voedsel, maar misschien is het een ziekte."
 
@@ -45,15 +47,19 @@ Een tros lege flesjes kwam klinkend uit zijn tas. Hij dook onder het schaap, zoc
 
 "Waarom ga je niet naar de steden? De beren zijn geliefd, zeker in Origina. Je zou niet in de sneeuw, op je knieën, de hele dag moeten werken. Niet op jouw leeftijd."
 
-"Werken is goed. Het houdt je fit en gezond. Nee, herder zijn is niet voor iedereen. Je moet soms dagen lopen zonder slaap, schapen tillen terwijl je armen trillen van spierpijn, en leven met de constante angst dat je iets hebt gemist en je kudde sterft." Himnib draaide de dop op de flesjes en stuurde het schaap weer terug naar de rest. "Maar als je dat doet, kan je de hele wereld zien."
+"Werken is goed. Het houdt je fit en gezond. Nee, herder zijn is niet voor iedereen. Je moet soms dagen lopen zonder slaap, schapen tillen terwijl je armen trillen van spierpijn, en leven met de constante angst dat je iets hebt gemist en je kudde sterft." 
 
-De panda sprong op zijn wandelstok en greep die stevig vast. Behdo kwam mekkerend in beweging, al wist hij niet waarom hij nog met de kudde meeliep. Himnib stapte eindelijk door. 
+Himnib draaide de dop op de flesjes en stuurde het schaap weer terug naar de rest. "Maar als je dat doet, kan je de hele wereld zien."
 
-"En je ziet nieuw leven dat wordt geboren. Dit begon natuurlijk ooit met een paar schapen. Bunjo nam ze mee naar huis tijdens het Conflict, toen slechts makke dieren met een klein beetje wol. We hielpen elkaar, vluchtten samen van de Prijskatten. Sindsdien heb ik vele schapen moeten begraven ... maar ook geboren mogen zien worden. Het meest enge moment van elk schapenleven. Zo kwetsbaar."
+De panda sprong op zijn wandelstok. Behdo kwam mekkerend in beweging, al wist hij niet waarom hij nog met de kudde meeliep. Himnib stapte eindelijk door. 
+
+"En je ziet nieuw leven dat wordt geboren. Dit begon natuurlijk ooit met een paar schapen. Ze waren bij mij, ik herinner niet waarom, en volgden al mijn commando's op. Bunjo nam ze mee naar huis tijdens het Conflict, toen slechts makke dieren met een klein beetje wol. We hielpen elkaar, vluchtten samen van de Prijskatten. Sindsdien heb ik vele schapen moeten begraven ... maar ook geboren mogen zien worden. Het meest enge moment van elk schapenleven. Zo kwetsbaar."
 
 Jahoor, Himnib _stopte_ weer. Deze keer wel bij Behdo: om hem te bestuderen. 
 
-Hij duwde delen van zijn vacht opzij en voelde rond zijn kaak, poten, en kont. Hij keek zorgelijk---niet een blik die Behdo wilde zien. Hij mompelde iets over ziekzijn en niet genoeg lammetjes het afgelopen jaar. _Dat is dat,_ dacht hij. _Ik moet me voorbereiden op dat ik wordt achtergelaten._
+Hij duwde delen van zijn vacht opzij en voelde rond zijn kaak, poten, en kont. Hij keek zorgelijk---niet een blik die Behdo wilde zien. Hij mompelde iets over ziekzijn en niet genoeg lammetjes het afgelopen jaar.
+
+_Dat is dat,_ dacht hij. _Ik moet me voorbereiden op dat ik word achtergelaten._
 
 De panda begon ook de vacht van schapen te bekijken en onderzoeken. Hier en daar pulkte ze een insect ertussenuit, om die vervolgens op te eten.
 
@@ -75,7 +81,9 @@ De panda hield hem tegen. "Vind je het fijn in de kudde?" vroeg ze fluisterend.
 
 "Zijn jullie niet bang dat hij je opeet? Hij is een grote vleesetende beer."
 
-"Hij eet ons ook op. Als we zijn gestorven." _Maar ik lever zelfs dan niet genoeg vlees,_ dacht kleine Behdo met zijn halve hoorn op het hoofd. _Dus ik ga weg._
+"Hij eet ons ook op. Als we zijn gestorven." 
+
+_Maar ik lever zelfs dan niet genoeg vlees,_ dacht kleine Behdo met zijn halve hoorn op het hoofd. _Dus ik ga weg._
 
 "En dat hij de baas over jullie speelt? Dat jullie Himnibs ... _bezit_ zijn?"
 

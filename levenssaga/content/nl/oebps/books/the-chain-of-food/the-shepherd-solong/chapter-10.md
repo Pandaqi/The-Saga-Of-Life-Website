@@ -7,7 +7,9 @@ Voor het vinden van Gallo had Himnib zijn geweldige richtingsgevoel niet nodig. 
 
 Hij nam plaats op een steen om zijn gebroken been rust te geven. Hij genas snel, wat geen zekerheid was op zijn leeftijd, maar was nog niet de oude. Vanaf hier kon hij genieten van de verkoelende schaduw onder Gallo, maar ook kijken naar de Saurzee en een ingang naar de Tunnelstelsels van de Wolven.
 
-Behdo huppelde weer naar hem toe. Dat deed hij al de hele reis. Hij bood constant zijn hulp aan en leek nauwelijks meer te slapen. "Ik heb de omgeving onderzocht. Er is geen ba-gevaar. En ik heb alvast geleerd hoe we met Gallo kunnen praten. En---"
+Behdo huppelde weer naar hem toe. Dat deed hij al de hele reis. Hij bood constant zijn hulp aan en leek nauwelijks meer te slapen. 
+
+"Ik heb de omgeving onderzocht. Er is geen ba-gevaar. En ik heb alvast geleerd hoe we met Gallo kunnen praten. En---"
 
 "Waarom doe je dit, wollige vriend?"
 
@@ -43,9 +45,11 @@ Het vrouwtje mekkerde luid. Solong legde haar poten zo voorzichtig mogelijk rond
 
 Langzaam gleed een rood, klein, levend wezen naar buiten. Himnib landde naast haar en hielp het vrouwtje te kalmeren, terwijl hij haar hartslag in de gaten hield. Behdiël stond erbij, afwisselend als trotse en als bezorgde vader.
 
-Voordat Behdo met de ogen kon knipperen, hield Solong een klein lammetje vast. Iedereen hield de adem in. Geen gemekker klonk, geen vogel tetterde, de Herdershonden zaten als standbeelden op hun kont. Dit waren de cruciale uren. Himnib zorgde met dekens dat het lammetje warm en veilig was, terwijl Solong de moeder verzorgde.
+Voordat Behdo met de ogen kon knipperen, hield Solong een klein lammetje vast. 
 
-Zelfs tot diep in de nacht, wilden ze die twee niet verlaten. Himnib controleerde bijna elke minuut of het lammetje nog leefde, ademhaalde, niet ziek was, geen afwijkingen had. Toen zowel hij als Solong toch uitgeput in slaap waren gevallen, stond het lammetje op.
+Iedereen hield de adem in. Geen gemekker klonk, geen vogel tetterde, de Herdershonden zaten als standbeelden op hun kont. Dit waren de cruciale uren. Himnib zorgde met dekens dat het lammetje warm en veilig was, terwijl Solong de moeder verzorgde.
+
+Zelfs tot diep in de nacht, wilden die twee haar niet verlaten. Himnib controleerde bijna elke minuut of het lammetje nog leefde, ademhaalde, niet ziek was, geen afwijkingen had. Toen zowel hij als Solong toch uitgeput in slaap waren gevallen, stond het lammetje op.
 
 Ze waggelde, met vallen en opstaan, naar de uiers van haar moeder.
 

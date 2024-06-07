@@ -33,13 +33,15 @@ Behdo wist niet welke voorstander van de wet het schreeuwde.
 
 "Pardon?" krijste een paard. "U verandert steeds de regels! Sinds wanneer kan een _schaap_ voor de _beren_ stemmen? En hij heeft overduidelijk de ketting van de luipaarden gejat! Jatten van een Kompaan betekent een straf van---"
 
-De Wijze Uil wreef haar vleugels tegen haar voorhoofd. "Welk dom dier," zei ze luid, "jat iets van de Kompanen en brengt het vervolgens netjes terug op de plek waar alle Kompanen zijn?"
+De Wijze Uil wreef haar vleugels tegen haar voorhoofd. 
+
+"Welk dom dier," zei ze luid, "jat iets van de Kompanen en brengt het vervolgens netjes terug op de plek waar alle Kompanen zijn?"
 
 "Dit is vals spel," voegde een Prima toe. "Waar zijn alle andere Kompanen? Die ... die herders hebben iedereen bedreigd en gezegd dat ze niet moesten komen!"
 
 De giraffe rolde haar ogen en sloeg haar nek tegen een boom om aandacht te krijgen. "Voordat deze rode panda het mij vertelde, was ik vergeten dat herders bestaan!"
 
-Behdo keek om zich heen. De aanwezig dieren waren allemaal soorten die hij wel eens tegenkwam op reis. Soorten die wisten wat een herder was en er wel eens eentje zagen.
+Behdo keek om zich heen. De aanwezige dieren waren allemaal soorten die hij wel eens tegenkwam op reis. Soorten die wisten wat een herder was en er wel eens eentje zagen.
 
 De rest was hun bestaan vergeten. Want de herders hadden geen huizen of steden, geen wagens of bezittingen, geen vaste plek of handelsroutes. Dus alle andere dieren wisten misschien niet eens wat een herder was en kwamen niet.
 
@@ -63,11 +65,33 @@ Solong stormde de Raad binnen, een sneeuwluipaard op haar hielen. Beide waren be
 
 "Behdo! Mijn wollige vriend!" Himnib strompelde op hem af en tilde hem op voor een dikke knuffel. Niet verstandig, want nu lagen ze allebei op de grond, tussen de verzameling planten van over de hele wereld. "Je hebt ons gered! Ik mag mijn kudde houden en nog herder zijn!"
 
-Lazpard liep om hen heen, naar de Wijze Uil. In het voorbijgaan viste hij zijn eigen kletsnatte ketting van de grond. 
+Hij stopte pas met rollen toen hij Solong zag. Haar gezicht klaarde op, hoopvol ondanks wat Behdo haar had verteld.
 
-"Zoals het hoort, Aria, zal ik de uitslag accepteren. Maar weet dat veel dieren hier niet blij mee zullen zijn. Als wij niet ten onder willen gaan als de goden, zullen we niet dezelfde fouten moeten maken. Ik verwacht dat volgende wetsvoorstellen serieuzer worden behandeld." Hij keerde tot Himnib die samen met Behdo door de Raad rolde, en daarna tot een stralende Solong die alle plantjes van dichtbij bekeek. "Een andere diersoort kan _niet_ voor jou stemmen. En de beren mogen nog maar één Kompaan hebben."
+"Je ... herinnert mij?" vroeg ze, alsof ze nog steeds een verlegen klein meisje was.
 
-"Prima," zeiden Solong en Himnib tegelijk. Ze keken elkaar aan.
+"Ik ... herinner jou?"
+
+Himnib tikte tegen zijn tempel, alsof hij bang was dat een ander hoofd op zijn lichaam was geplaatst. De magische klap van de wandelstok, veroorzaakt door Behdo, had iets in zijn hoofd bewogen dat voorheen onbeweeglijk was. Of het had him simpelweg een hersenschudding gegeven.
+
+"Jij bent de derde herder," mompelde hij. "Hoe kon ik jou ooit vergeten? So ... Sonja? Soria?"
+
+Solong schreeuwde van plezier en rende in Himnib's warme armen. "Goed genoeg. Goed genoeg."
+
+Hij hield haar stevig vast. Iets _was_ ontwaakt in hem, iets dat hij lang geleden had onderdrukt. "Hoe ..."
+
+"Het is een lang verhaal."
+
+"En mijn kudde? Oh halfgoden, heb ik al die schapen van jou gesto---"
+
+"Ze waren altijd al van jou, dat was je nou eenmaal vergeten. Nog een lang verhaal. Maar ik vertel het graag tijdens de reizen die we vanaf nu samen gaan maken."
+
+"Ja. Ja, dat zou ik fijn vinden."
+
+Een chagrijnige Lazpard liep om hen heen, naar de Wijze Uil. In het voorbijgaan viste hij zijn eigen kletsnatte ketting van de grond. 
+
+"Zoals het hoort, Aria," zei Lazpard, "zal ik de uitslag accepteren. Maar weet dat veel dieren hier niet blij mee zullen zijn. Als wij niet ten onder willen gaan als de goden, zullen we niet dezelfde fouten moeten maken. Ik verwacht dat volgende wetsvoorstellen serieuzer worden behandeld." Hij keerde tot Himnib die samen met Behdo door de Raad rolde, en daarna tot een stralende Solong die alle plantjes van dichtbij bekeek. "Een andere diersoort kan _niet_ voor jou stemmen. En de beren mogen nog maar één Kompaan hebben."
+
+"Prima," zeiden Solong en Himnib tegelijk.
 
 "Ik hoef het niet meer," zeiden ze weer tegelijk.
 
@@ -93,7 +117,9 @@ Lazpard grinnikte. "Nul Berenkompanen vind ik hartstikke _prima_."
 
 Aria gaf beide een zoen op het voorhoofd en nam de kettingen aan. "Eentje blijft, de rest moet worden vernietigd."
 
-Hirdi en zijn Herdershonden renden door de raad en plasten over elk paaltje dat ze tegenkwamen. Himnib streelde Behdo eindeloos over zijn vacht. "Wie weet," zei hij. "Komt er over tien jaar weer een vergeten herder. Misschien leeft Jorib nog, of Bellib. Dan heeft u uw nieuwe kompaan."
+Hirdi en zijn Herdershonden renden door de raad en plasten over elk paaltje dat ze tegenkwamen. 
+
+Himnib streelde Behdo eindeloos over zijn vacht. "Wie weet," zei hij. "Komt er over tien jaar weer een vergeten herder. Misschien leeft Jorib nog, of Bellib. Dan heeft u uw nieuwe kompaan."
 
 "Geen _u_," zei Aria zacht. "Niet voor jullie, mijn beste Berenbouwers. Ik vergeet niet wat jullie voor de wereld hebben betekend. Ik vergeet niet dat jullie deze raad hebben gebouwd, met berenhanden en berenhout. Het ga jullie goed."
 

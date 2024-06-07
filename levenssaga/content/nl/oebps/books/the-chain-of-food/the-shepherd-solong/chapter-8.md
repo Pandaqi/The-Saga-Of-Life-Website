@@ -3,7 +3,7 @@ title: "De Lopende Bloemen"
 weight: 8
 ---
 
-Toen Behdo wakker werd, stond een diepe afdruk van de wandelstok in zijn buik. Hij had hem al die tijd tegen zijn vacht geklemd. Hij rilde van de kou en was gespannen. Onveilig. Hij lag daar in een open veld, als klein schaapje, een lekker hapje voor een luipaard. Hoe lang was hij bewusteloos geweest? Er was geen tijd te verliezen, geen tijd te---
+Toen Behdo wakker werd, stond een diepe afdruk van de wandelstok in zijn buik. Hij rilde van de kou en was gespannen. Onveilig. Hij lag daar in een open veld, als klein schaapje, een lekker hapje voor een luipaard. Hoe lang was hij bewusteloos geweest? Er was geen tijd te verliezen, geen tijd te---
 
 Hij hoorde een ander schaap. Hij kende alle roepen van zijn kudde, van Barina's krakende gekerm tot Behdiëls luide alarm. Dit gemekker kende hij niet.
 
@@ -13,11 +13,15 @@ Hij wilde dolgraag weer langs een andere schapenvacht schuren. Hij wilde middeni
 
 Hij wilde ook op tijd bij de Raad aankomen, waarvan hij de ingang al kon zien. Het was een prachtig landschap waar alle natuur van over heel Somnia was verzameld. Dat was nodig, want als alle Kompanen kwamen, waren ook alle _diersoorten_ van Somnia aanwezig. Een dun riviertje kabbelde nu nog zacht naast Behdo, maar werd steeds breder en breder, totdat het door de hele Raad slingerde om de zeedieren toegang te geven. Een giraffe stak diens nek al naast de hoogste boom. Vogels kwamen tetterend aan. 
 
-Verder kon hij geen dieren horen of zien. Het zonlicht schitterde op de Dolfijnenpas _achter_ de Raad van Kame en verblindde hem bijna. Als je daar overstak, het liefst bij de Heilige Stenen, kwam je in Origina. Behdo hoorde weer Himnibs stem: hoe graag hij daarnaartoe wilde, hoe graag hij Gigant Gallo wilde zien, of de zonsondergang meemaken aan de andere kant van de wereld.
+Verder kon hij geen dieren horen of zien. Het zonlicht schitterde op de Dolfijnenpas _achter_ de Raad van Kame en verblindde hem bijna. Als je daar overstak, het liefst bij de Heilige Stenen, kwam je in Origina. 
 
-Ze _moesten_ daar komen. En daarvoor moest Himnib overleven en die wetten worden gestopt. Behdo krabbelde overeind, leunend op de wandelstok. Wat _was_ dit voor een stok? En kon hij de truc herhalen, als hij werd aangevallen?
+Behdo hoorde weer Himnibs stem in zijn hoofd: hoe graag hij daarnaartoe wilde, hoe graag hij Gigant Gallo wilde zien, of de zonsondergang meemaken aan de andere kant van de wereld.
 
-"Nou word ik wat vergeetachtig," zei een hoge stem vlakbij, "maar jij hoort niet bij mijn kudde, of wel?"
+Ze _moesten_ daar komen. En daarvoor moest Himnib overleven en die wetten worden gestopt. 
+
+Behdo krabbelde overeind, leunend op de wandelstok. Wat _was_ dit voor een stok? En kon hij de truc herhalen, als hij werd aangevallen?
+
+"Nou geef ik toe dat ik bijna net zo vergeetachtig wordt als vervloekte Himnib," zei een hoge stem vlakbij. "Maar jij hoort niet bij mijn kudde, of wel?"
 
 "Nee. Ik ben Himnibs schaap. Ik _was_ Himnibs schaap."
 
@@ -25,19 +29,27 @@ Ze _moesten_ daar komen. En daarvoor moest Himnib overleven en die wetten worden
 
 "Ik hoop het."
 
-Ze droeg een armband---nee---een Kompanenketting voor Beren! Het touw was ingekort, waardoor het voorwerp om haar voorpoot kon gewikkeld. "Je moet opschieten! Ze gaan een verschrikkelijke wet invoeren! En ... en ... wie ben jij?"
+Ze droeg een armband---nee---een Kompanenketting voor Beren! Het touw was ingekort, waardoor het voorwerp om haar voorpoot kon gewikkeld. 
 
-Ze schudde glimlachend haar kop vol haar. "Iedereen vergeet mij altijd. Geen zorgen, soms vergeet ik _zelf_ hoe ik heet!"
+"Je moet opschieten! Ze gaan een verschrikkelijke wet invoeren! En ... en ... wie ben jij?"
 
-Je had drie andere Berenkompanen. Jorib, Bellib, en---
+Er waren drie Berenkompanen: Jorib, Bellib, en---Solong! Himnib praatte _nooit_ over haar, dus hij was haar bijna vergeten.
 
-Zij was de derde Berenkompaan. Behdo wist dat ze bestond, maar was haar helemaal vergeten. "Jij bent Solong. Waar heb je al die tijd gezeten?"
+Ze schudde glimlachend haar kop vol haar. "Himnib's hoofd heeft me misschien opzij geduwd. Geen zorgen, soms vergeet ik _zelf_ hoe ik heet! Maar ik zou hem nooit vergeten."
 
-Ze glimlachte. "Himnib dacht misschien dat alles op zijn schouders lag, dat hij er alleen voor stond. Maar hij vergat de kracht van de kudde." Solong floot een paar schapen terug. "De goden hadden mij een laatste missie meegegeven. Het spijt me, ik had eerder moeten terugkomen. Ik weet dat Himnib hetzelfde voor mij had gedaan."
+"Waar heb je al die tijd gezeten? Waarom heeft Himnib het nooit over jou?"
 
-"Is ... is het gelukt? Was je goede vrienden met de goden?"
+Haar glimlach wankelde. "Sommige dieren houden van de magie die door onze landen trekt sinds de goden zijn vertrokken. Sommige dieren _haten_ die magie omdat ze er bang voor zijn. En ik moet, jammer genoeg, toegeven dat hun angst misschien gerechtvaardigd is. Hij ... hij heeft me _nooit_ genoemd?"
 
-Ze glimlachte weer. Dat deed ze vaak, had hij inmiddels geleerd. "Zulke goede vrienden ... dat je ze bijna familie kon noemen."
+Behdo schudde zijn hoofd, hoewel hij net zeker was, want hoe had hij anders in de eerste plaats haar naam leren kennen?
+
+Ze noemde Himnib _vervloekt_. Dat zou veel verklaren.
+
+Ze glimlachte weer. "Himnib dacht misschien dat alles op zijn schouders lag, dat hij er alleen voor stond. Maar hij vergat de kracht van de kudde." Solong floot een paar schapen terug. "De goden hadden mij een laatste missie meegegeven. Het spijt me, ik had eerder moeten terugkomen. Ik dacht gewoon dat ... als ik Himnib genoeg tijd zou geven ..."
+
+"Is het gelukt? Was je goede vrienden met de goden?"
+
+Ze glimlachte nog breder. Dat deed ze vaak, had hij inmiddels geleerd. "Zulke goede vrienden ... dat je ze bijna familie kon noemen."
 
 Behdo's mond viel open. De geruchten over halfgoden waren juist. Maar van wie kon zij het kind zijn? Geen van de zes godenkinderen was een beer? "Ik heb veel vragen, maar we moeten---"
 
@@ -89,7 +101,9 @@ Behdo was klein. Heel klein.
 
 Dat kon ook nuttig zijn.
 
-Hij sloop weg van het slagveld. Pootje voor pootje, stukje bij beetje, maakte hij een grote boog om de uiterste luipaard. Solong zag het allang. Zij hield al haar schapen in de gaten en nadat er meerdere waren gestorven, floot ze dat het gevecht moest stoppen, en wilde weer in gesprek met Lazpard.
+Hij sloop weg van het slagveld. Pootje voor pootje, stukje bij beetje, maakte hij een grote boog om de uiterste luipaard. 
+
+Solong zag het allang. Zij hield al haar schapen nauwlettend in de gaten en nadat meerdere waren gestorven, floot ze dat het gevecht moest stoppen, en wilde weer in gesprek met Lazpard.
 
 Het was net genoeg afleiding. Behdo stond al een flink stuk achter de luipaarden voordat het hen opviel.
 
@@ -101,6 +115,8 @@ Op dit moment, was hij het allerbelangrijkste schaap in de wereld.
 
 De grond dreunde onder zijn poten, terwijl hij de rijkelijk versierde poort van Kame betrad. Klimop krulde door het houten skelet van de koepel, afgewisseld met edelstenen van het Diamantenpad op de Onmogelijke Muur. Niet veel later hoorde hij geknetter en weerspiegelden paarse lichtflitsen in de poort.
 
-Een bel luidde van binnenin de Raad. Het geluid kwam vanuit de troon van de Wijze Uil. Die stond in het midden, maar bereikte makkelijk alle verschillende natuurgebieden eromheen. Behdo haastte naar binnen.
+Een bel luidde van binnenin de Raad. Het geluid kwam vanuit de troon van de Wijze Uil. Die stond in het midden, maar bereikte makkelijk alle verschillende natuurgebieden eromheen. 
+
+Behdo haastte naar binnen.
 
 "Wacht! Ba-wacht! Er is nog een stem!"
