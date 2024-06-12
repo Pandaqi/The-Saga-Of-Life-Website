@@ -53,7 +53,7 @@ Ze werd razendsnel weggetrokken van de kar, richting de afgrond die leidde tot d
 
 Chef sprong op haar rug en trok aan de stengels. Haar nagels sneden ze doormidden, maar voor elke die knapte, leken twee nieuwe te komen. 
 
-Minneka beet om haar heen en wist de grootste stengels bij haar mond weg te houden. Ze schoten langs andere varens die tot leven kwamen en mee trokken.
+Minneka beet om haar heen en wist de grootste stengels bij haar mond weg te houden.
 
 Een volgende varen veranderde in een roofvogel en cirkelde boven haar hoofd. Een andere varen werd een gebouw, misschien een paleis of piramide. De laatste varen voor de afgrond werd een standbeeld van één van de godenkinderen. Chef zag de duizelingwekkende diepte naderen en had geen tijd om te ontcijferen welk godenkind het was.
 

@@ -67,7 +67,7 @@ Minneka stond buiten de kar en keek uitdagend naar binnen. "Laat me raden, je wi
 
 "Natuurlijk! Wacht maar, mijn lieve Karrie gaat sneller dan je denkt." 
 
-Minneka zuchtte en sprong sierlijk terug door de vensterbank. Haar poten raakten kort het receptenboek aan, die daardoor openklapte, precies op de pagina over Bultbarachten. Minneka keek verwonderd en trok terug alsof ze een elektrische schok had gekregen. 
+Minneka zuchtte en sprong sierlijk terug over de vensterbank. Haar poten raakten kort het receptenboek aan, die daardoor openklapte, precies op de pagina over Bultbarachten. Minneka keek verwonderd en trok terug alsof ze een elektrische schok had gekregen. 
 
 Chef was gewend aan de rare streken van haar boek en schokschouderde.
 
