@@ -8,17 +8,17 @@ Dat betekende dat een groot gebied bestond waarvan ze _allebei_ dachten die te h
 
 Officieel stond hij bekend als een speciale boodschapper, geen soldaat. Maar stiekem had de koning ingefluisterd dat hij moest spioneren en, als mogelijk, het fort meteen innemen. En daar was Wasserbox het wel mee eens.
 
-Dus met een licht battalion---weinig soldaten, niet eens allemaal bewapend---sloop hij door de duisternis naar Fort Le Boef.
+Dus met een licht peloton---weinig soldaten, niet eens allemaal bewapend---sloop hij door de duisternis naar Fort Le Boef.
 
 En nam een andere route dan afgesproken.
 
 Onder groeiend gemompel van zijn soldaten, volgde hij de Ohoi Rivier een tijdje de andere kant op. Totdat een kleine cirkel van fakkels een open plek belichtte met prachtige geschilderde tipi's---de puntige hutten van de originele inwoners van Elwar. Olombos had ze Scholianen genoemd omdat hij dacht in Schola te zijn geland, maar inmiddels was wel duidelijk dat hij er flink naast had gezeten. Men noemde hen nu de inboorlingen van Elwar, of Elwarianen.
 
-De soldaten van Wasserbox werden meteen omsingeld door inboorlingen die uit het niets de schaduwen opvulden. Hun bogen stonden strak op hen gericht. 
+Inboorlingen sprongen uit het niets uit de schaduw en omringden Wasserbox' soldaten. Hun bogen stonden strak op hen gericht. 
 
 Toen de leider van de Elwarianen de generaal zag, kreeg hij een grote glimlach en spreidde zijn armen. Wasserbox deed hetzelfde. Het was een gebaar; ze gaven elkaar nooit echt een knuffel, want de een dacht nog altijd dat de ander besmettelijk was. De bogen gingen omlaag.
 
-Wasserbox hield een stapel gouden munten in zijn hand. Hij kon dat, want hij was een aap, net als zijn hele battalion. "Nog nieuws over de Frambozi?"
+Wasserbox hield een stapel gouden munten in zijn hand. Hij kon dat, want hij was een aap, net als zijn hele peloton. "Nog nieuws over de Frambozi?"
 
 "Fort Le Boef is zwaarbewaakt en heeft een van de hoogste generaals van Frambozi. Als je daarheen gaat, moet je volledig spelen dat je boodschapper bent," zei de leider. De imposante buffalo had witte strepen op zijn gezicht en een verentooi op zijn hoofd. "Maar we zien al dagenlang kleine plukjes Frambozi soldaten die zonder licht door de nacht sluipen. Ze zijn met weinig en slecht beveiligd, want ze proberen _ongezien_ iets te doen. Jouw soldaten kunnen ze makkelijk verrassen en uitroeien."
 
@@ -34,19 +34,21 @@ Wasserbox dacht hier even over na. In de verte dacht hij voetstappen te horen, e
 
 Zijn soldaten beken de buffalo's met argwaan. Die zagen al de toekomst waarin ze gewoon hun wapens hadden gejat en waren vertrokken. Vuile Elwari, niet te vertrouwen. Maar Wasserbox was de baas, en zijn familie had een lange historie van vriendschap met de Elwari, dus ze deden het. 
 
-Zonder al te veel bescherming, liepen ze verder het duister in. En inderdaad, nog geen half uur later werden ze onderschept door een Frambozi patrouille. Een grote groep otters met een paar marmotten. Zij waren duidelijk beter gekleed tegen het ijskoude winterweer hier bovenin Elwar. Wasserbox hoopte vaak dat hij een keer een missie kreeg in het zuiden, bij de tropische eilanden.
+Ze liepen verder het duister in. En inderdaad, nog geen half uur later werden ze onderschept door een Frambozi patrouille. Een grote groep otters met een paar marmotten. Zij waren duidelijk beter gekleed tegen het ijskoude winterweer hier bovenin Elwar. Wasserbox hoopte vaak dat hij een keer een missie kreeg in het zuiden, bij de tropische eilanden.
 
-Zonder een woord werden ze opgenomen in de groep en geleid richting Fort Le Boef. De Frambozi waren niet vriendelijk, maar ook niet vijandig. Dit was simpelweg hoe het hoorde. Niet-strijdende leden van de vijand---zoals boodschappers---behandelde je goed. Wasserbox had erop gerekend en zou het ook andersom hebben gedaan.
+De patrouille leidde hen in stilte richting Fort Le Boef. De Frambozi waren niet vriendelijk, maar ook niet vijandig. Dit was simpelweg hoe het hoorde. Niet-strijdende leden van de vijand---zoals boodschappers---behandelde je goed. Wasserbox had erop gerekend en zou het ook andersom hebben gedaan.
 
-Ze betraden het fort. Binnen was het behaaglijk warm en liepen drukke otters van links naar rechts om taken te volbrengen. De hal waar zij binnenkwamen lag bomvol met musketgeweren, alsof ze er per ongeluk een paar duizend over hadden. Daar mochten ze natuurlijk niet blijven.
+Ze betraden het fort. Binnen was het behaaglijk warm en liepen drukke otters van links naar rechts om taken te volbrengen. De hal waar zij binnenkwamen lag bomvol met bayonets: musketgeweren met een scherp stuk aan de voorkant waardoor je ieder te dichtbij kwam ook kon neersteken. Daar mochten ze natuurlijk niet blijven.
 
-Het battalion eindigde in een ontvangstkamer vol tapijten en schilderijen van Frambozi koningen, en vrijwel niks anders. Daar stond de hoogste generaal klaar om de boodschap aan te horen.
+Het peloton eindigde in een ontvangstkamer vol tapijten en schilderijen van Frambozi koningen, en vrijwel niks anders. Daar stond de hoogste generaal klaar om de boodschap aan te horen.
 
 "De koning van Casbrita," zei Wasserbox plechtig, "vraagt u met klem om alle Frambozi troepen terug te trekken van Elwar. Wij bezitten het waardevolle gebied langs de kust, waar daadwerkelijk steden staan en wezens wonen. Jullie hebben de grote leegte daarachter. En al is die héél groot, toegegeven, het brengt jullie niks. Wij waren hier eerst. Dus trek je terug en geef de overwinning aan Casbrita, om nog meer schade te voorkomen."
 
 De generaal, een lynx, stak zijn poot uit en kreeg snel papier en inkt. Hij schreef ter plekke, in niet mis te verstane termen, dat Casbrita mocht oprotten en dat Frambozi al hun gebied zou innemen. Als de Casbrita écht gaven om wie het land eerst had, zouden ze alles terug moeten geven aan de inboorlingen.
 
-Wasserbox kreeg eten en warme kleding voor zijn soldaten, en werd met die boodschap teruggestuurd. Ondanks de goede behandeling, siste Wasserbox even later: "De tijd voor vriendelijke boodschapjes is voorbij. Nu vallen we actief aan."
+Wasserbox kreeg eten en warme kleding voor zijn soldaten, en werd met die boodschap teruggestuurd. 
+
+Ondanks de goede behandeling siste Wasserbox bij vertrek: "De tijd voor vriendelijke boodschapjes is voorbij. We vallen aan."
 
 Natuurlijk reisden ze eerst naar de inboorlingen. Die waren nauwelijks verplaatst in de tussentijd. Toen alle wapens stuk voor stuk werden teruggegeven, ging een zucht van verlichting door de groep. 
 
@@ -72,11 +74,11 @@ Iemand schoot.
 
 Wasserbox wist niet wie. Maar in reactie schoten alle andere dieren ook. Het gevecht duurde maar een paar tellen, nauwelijks lang genoeg om meerdere keren te vuren. En toen de rook klaarde, was het grootste deel van de Frambozi dood, en een stuk of tien soldaten aan zijn kant. 
 
-Het belangrijkste was de gevallen Jumbodor. Uit een binnenzak van zijn uniform stak een brief. Toen Wasserbox dichterbij kwam, zag hij dat het gericht was aan Casbrita. Het bevatte hetzelfde verzoek als hij eerder deed: dat de vijand terugtrok om meer bloedvergieten te voorkomen.
+Het belangrijkste was de gevallen Jumbodor. Uit een binnenzak van zijn uniform stak een brief. Wasserbox kwam dichterbij en zag dat de brief aan Casbrita was gericht, met hetzelfde verzoek: dat de vijand terugtrok om meer bloedvergieten te voorkomen.
 
 Zijn ogen gleden nogmaals over Jumbodor. Hij moest een héle hoge generaal zijn geweest.
 
-"We moeten weg! Nu!" schreeuwde hij. Wat over was van zijn battalion rende achter hem aan langs de Ohoi rivier. Sommige renden het water in, bang dat Frambozi nu vanachter elke boom zouden beginnen met schieten.
+"We moeten weg! Nu!" schreeuwde hij. Wat over was van zijn peloton rende achter hem aan langs de Ohoi rivier. Sommige renden het water in, bang dat Frambozi nu vanachter elke boom zouden beginnen met schieten.
 
 Rennen. Rennen tot ze terug waren in Casbrita gebied. En dan? Dit zou---
 
@@ -94,7 +96,7 @@ Hij stak zijn handen op, zo'n kilometer verwijderd van Fort Noodzaak. Zijn solda
 
 Wasserbox kreeg een formulier voor zijn ogen. Een formulier in de Frambozi taal, niet zijn eigen. Een vertaler werd opgeroepen en vertelde hem dat het een standaard verliezersdocument was. Eentje die zei dat je je opgaf en al je soldaten gevangenen van de tegenstander werden. Wasserbox zelf mocht terug, zo vereiste de eer van de Frambozi.
 
-Hij zette zijn handtekening eronder.
+Nog steeds versuft door zijn falen, zette hij zijn handtekening eronder.
 
 _Wat hij niet wist, beste lezer, was dat het document ook zei dat hij volledige verantwoordelijkheid nam voor de brute moord op hooggeplaatste generaal Jumbodor. Dat de Casbrita deze moord bewust hadden gepleegd omdat ze de Frambozi minderwaardig achtten. En dat dit een oorlogsmisdaad was, zeker nadat zij Wasserbox zó goed hadden behandeld op Fort Le Boef._
 

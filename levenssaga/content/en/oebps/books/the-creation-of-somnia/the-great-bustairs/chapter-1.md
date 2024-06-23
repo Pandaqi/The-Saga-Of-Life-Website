@@ -3,7 +3,7 @@ title: "Prologue"
 weight: 1
 ---
 
-Usually Eeris, goddess of nature, swung by with good news and a friendly smile. But not this time. Wooden blocks filled with symbols hung from her giraffe neck, thanks to necklace of leaves. She waited in the expansive flower field near the Nightriver until she had everyone's attention.
+Usually Eeris, goddess of nature, swung by with good news and a friendly smile. But not this time. Wooden blocks filled with symbols hung from her giraffe neck, thanks to a necklace of leaves. She waited in the expansive flower field near the Nightriver until she had everyone's attention.
 
 Her voice sounded like a song that was probably still audible in other lands.
 

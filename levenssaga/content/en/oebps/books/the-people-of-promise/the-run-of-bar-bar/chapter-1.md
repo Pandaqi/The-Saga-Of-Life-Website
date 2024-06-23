@@ -6,11 +6,11 @@ Himnib the Bear-Shepherd was about to leave the city of Amor, when the gate fell
 
 A message from the king.
 
-The gatekeeper, a wolf, quickly read it and frowned. "_All soldiers are commanded to leave the gate immediately and come to the palace. Leave behind one of you to ... shoot anyone within a hundred steps of the wall."
+The gatekeeper, a wolf, quickly read it and frowned. "_All soldiers are commanded to leave the gate immediately and come to the palace. Leave behind one of you to ... shoot anyone within a hundred steps of the wall._"
 
 He dropped the parchment in disbelief. The messenger pointed at a forgotten sentence near the bottom.
 
-"_Oh, and all creatures with red fur must be attacked and spit on."
+"_Oh, and all creatures with red fur must be attacked and spit on._"
 
 A long row of animals crowded the gate with the intent to enter or exit Amor. Upon hearing the king's commands, they cautiously stepped back, away from the wall. The quadrupeds among them didn't even know what _a hundred steps_ was supposed to mean, so they ran away as far as possible.
 
@@ -126,7 +126,7 @@ Wolfar turned around, a slab of meat hanging partially out of his mouth. "Himnib
 
 "Our laws only dictate how _Amori_ should be treated, fairly. Everyone else? I do what I want. Thus have I decided."
 
-Ginsea scratched his temple. He grabbed a book from the pouch on his book and rapidly scanned through it.
+Ginsea scratched his temple. He grabbed a book from the pouch on his back and rapidly scanned through it.
 
 "He can't be right, can he?" Himnib said hopefully. The hamster who was an annoying creature before had suddenly turned into his only shield.
 
@@ -144,6 +144,6 @@ The piece of meat fell on the floor, which now also had a growing puddle of wine
 
 The soldiers already moved to arrest Ginsea too, but Wolfar raised a paw. "We have laws for a reason and we will respect them. Sue the king if you want. But you will regret it."
 
-Himnibs head swam as they forced him into his cell.
+Himnib's head swam as they forced him into his cell.
 
 Ginsea made apologetic gestures. Then he dove into his lawbook, searching for every single rule he could use to sue the king.

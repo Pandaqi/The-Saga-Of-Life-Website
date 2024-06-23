@@ -8,11 +8,11 @@ book: true
 timeperiod: 'Het Tweede Conflict'
 cycle: 'De Beschavingen van Belofte'
 bundle: 'Maanplukken & Wonderdrukken'
-character: ["Generaal Wasserbox", "Ajay", "Bardams", "Fracclin", "Fuja", "Perris", "Jefizon", "Generaal Jumbodor", "Generaal Howl"]
+character: ["Generaal Wasserbox", "Ajay", "Bardams", "Fracclin", "Fuja", "Beeris", "Jefizon", "Generaal Jumbodor", "Generaal Howl"]
 prequel: []
 refers: ["Frambozi", "Casbrita", "Elwar", "Laaglanden", "Fort Le Boef", "Fort Noodzaak", "Ohoi Rivier", "Bosnot", "Philadinna", "Nieuw Bork", "Fort Tondoga", "Ottojon", "Amoreense Rijk", "Schola"]
 happens: ["Elwar-Casbrita Oorlog", "Frambozi-Casbrita Oorlog"]
-godlink: ["Perris"]
+godlink: ["Beeris"]
 genre: ["Gesprekken", "Maatschappij", "Educatief", "Geschiedenis", "Gevecht", "Ontstaan"]
 teaches: ["Amerikaanse Onafhankelijkheidsoorlog", "Verklaring van Onafhankelijkheid", "Continentale Congres"]
 

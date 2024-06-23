@@ -8,11 +8,13 @@ Na de val van Amor aan de Barbaren, ging dat rijk eigenlijk naadloos over in het
 
 Traferia had echt wel een vloot. Ze hadden vast ook kanonskogels, maar ze kregen niet eens de kans om die te gebruiken. Iedereen wist dat deze wateren van Ottojon waren. Als het stormde, waren hun boten de enige die veilig erdoorheen vaarden. Maar als Traferia dan probeerde op klaarlichte dag de kust van Ottojon te plunderen, ontstond er ineens een draaikolk die alle schepen opslokte.
 
-Dus de stad haalde de schouders op en liet Ottojon en zijn leger binnenstromen. Inmiddels hadden ze geleerd de meeste huizen overeind te laten staan, anders moesten ze steeds alles opnieuw opbouwen. Enra vond dat ze dit ook wel van tevoren hadden kunnen bedenken---maar hij was niet onder de indruk van de intelligentie van veroveraars.
+Dus de stad haalde de schouders op en liet Ottojon en zijn leger binnenstromen. Inmiddels hadden ze geleerd de meeste huizen overeind te laten staan, anders moesten ze steeds alles opnieuw opbouwen. Enra vond dat ze dit ook wel van tevoren hadden kunnen bedenken en hij was niet onder de indruk van de intelligentie van veroveraars.
 
 Alle jongensdieren werden bij elkaar gezet. Otto cirkelde om hen heen, alsof hij de lekkerste appel uitkoos om te plukken. Enra's vader, een grote beer genaamd Himnib, keek vernietigend toe en greep zijn magische wandelstok steviger vast.
 
-"En ze zijn allemaal Kristijnen?" Otto's soldaten knikten. Dat stemde de slang tevreden.
+"En ze zijn allemaal Kristijnen?" 
+
+Otto's soldaten knikten.
 
 "Is het niet genoeg dat je onze landen inneemt?" schreeuwde Himnib. "Moet je ook nog onze kinderen pakken? Je raakt arrogant. Overmoedig! Dat zal je ondergang worden!"
 
@@ -22,7 +24,7 @@ Enra was bang dat dit géén overmoedige uitspraak was. Die heerschappij over al
 
 "Genoeg geklets," siste Otto. "Die, die, die, die, en, ja die ook. De rest is te zwak of te koppig---dood ze maar."
 
-Alle ouders renden naar hun kinderen toe, probeerden ze nog weg te trekken. Maar Otto was onverbiddelijk. Als hij mannen niet kon meenemen in zijn plan, waren ze waardeloos voor hem.
+Alle ouders renden naar hun kinderen toe, probeerden ze nog weg te trekken. Maar Otto was onverbiddelijk. Als hij mannen niet kon meenemen in zijn plan, waren ze waardeloos of zelfs _gevaarlijk_ voor hem.
 
 Enra had pas laat door dat hij ook was uitgekozen.
 
@@ -32,9 +34,11 @@ Het was ... het was also hij de _toekomst_ kon zien?
 
 Himnib stond ook versteld en wachtte te lang met een volgende aanval. Enra werd weggesleept. Zijn vader moest hopen dat hij nog kon vluchten, samen met zijn moeder. Zijn lieve ouders. Hij ging ze nooit meer zien---dat voelde hij aan alles.
 
-Hij keerde zijn ogen naar de modderige grond, platgestampt door de vele gevangen jongens vóór hem. Totdat hij plots klaarwakker was, omdat zijn ogen iets zagen dat niet klopte. Een beeldschone beer, ietsje ouder dan hij, die veel te lief leek om bij de Ottojon te horen.
+Hij keerde zijn ogen naar de modderige grond, platgestampt door de vele gevangen jongens vóór hem. Als hij nog langer naar zijn ouders zou kijken, zou hij hen te veel missen en iets doms en onlogisch doen, zoals _huilen_ of _terugvechten_.
 
-Zij leek ook klaarwakker toen ze Enra zag. Of, nee, alle verslagen jongens. Ze keek bezorgd toe hoe ze werden weggesleept en had zelfs het lef om een bewaker te vertellen om _voorzichtiger_ te doen. Een meisje! Dat een grote mannenslang boos toespreekt!
+Totdat zijn gedachten werden onderbroken, want zijn ogen zagen iets dat niet klopte. Een beeldschone beer, ietsje ouder dan hij, die veel te lief leek om bij de Ottojon te horen.
+
+Zij leek Enra ook op te merken. Of, nee, alle verslagen jongens. Ze keek bezorgd toe hoe ze werden weggesleept en had zelfs het lef om een bewaker te vertellen om _voorzichtiger_ te doen. Een meisje! Dat een grote mannenslang boos toespreekt!
 
 Otto glibberde op haar af. Maar hij gaf haar geen preek; integendeel, hij was dolblij met haar. "Je had weer gelijk! Zonder jouw advies was ik gedood door een gekke magische beer. Wat moest ik toch zonder jou? Hoe kan ik je ooit bedanken, Chonib?"
 
@@ -60,9 +64,15 @@ Hij werd naar andere kamers gesleept. Eentje vol tapijten, doeken, en stukken ge
 
 De jongens mompelden. Alleen Enra vond de kracht om trots _ja_ te zeggen.
 
-De leraar gaf hem slagen met de stok. Hij spuugde op Enra's gezicht tijdens het schreeuwen, en hij hoopte maar dat dat niet giftig zou zijn. "Vergeet het! Vergeet je verleden! Het Krysnadom is een complot, een toneelstuk, een verraad. Er is maar één waar geloof, dat van de Mira."
+De leraar gaf hem slagen met de stok. Hij spuugde op Enra's gezicht tijdens het schreeuwen, en hij hoopte maar dat dat niet giftig zou zijn. 
 
-"Ja, meester," zeiden alle jongens braaf. Enra hield zijn mond. Dat kwam hem op nog meer slagen te staan.
+"Vergeet het! Vergeet je verleden! Het Krysnadom is een complot, een toneelstuk, een verraad. Er is maar één waar geloof, dat van de Mira."
+
+"Ja, meester," zeiden alle jongens braaf. 
+
+Enra hield zijn mond. Instemmen voelde als zijn ouders verraden, zijn thuis verraden. Dit paleis zou _nooit_ voelen als zijn thuis.
+
+Dat kwam hem op nog meer slagen te staan.
 
 Ze moesten hun heilige boek lezen. Ze moesten het allemaal onthouden en op de juiste manier leven. Enra realiseerde dat hij het niet _echt_ hoefde te geloven. Hij deed aan de buitenkant mee om aan de straf te ontkomen---van binnen bleef hij een Kristijn die alleen maar dacht aan thuis en zijn ouders.
 
@@ -70,13 +80,15 @@ Elke ochtend werd hij wakker gemaakt in complete duisternis om alle bevelen op t
 
 Totdat Otto persoonlijk langskwam en vertelde dat ze naar nieuwe vertrekken mochten. Blijkbaar hadden ze iets bereikt. Hun loyaliteit bewezen, genoeg verzen uit een heilig boek in hun kop gestampt, wat het ook was. De nieuwe vertrekken waren veel ruimer en netter.
 
-Dus Otto vond het ook tijd om meer uitleg te geven. "Jullie, beste jongens, zijn onderdeel van mijn nieuwe systeem genaamd de Devirma. Dat is iets om trots op te zijn. Jullie vechten nu voor Ottojon en als nodig zullen jullie sterven voor Ottojon, begrepen?"
+Dus Otto vond het ook tijd om meer uitleg te geven. 
+
+"Jullie, beste jongens, zijn onderdeel van mijn nieuwe systeem genaamd de Devirma. Dat is iets om trots op te zijn. Jullie vechten nu voor Ottojon en als nodig zullen jullie sterven voor Ottojon, begrepen?"
 
 De jongens knikten. Enra vroeg: "Vechten? U bedoelt ..."
 
-Otto knikte. "Het leger is het belangrijkste deel van een rijk. Zij zorgen voor veiligheid van buitenaf ... maar zijn het grootste gevaar van binnenuit. Elke avond staan mijn soldaten voor mijn slaapkamer om mij in leven te houden tegen spionnen en sluipmoordenaars. Wat als iemand ze omkoopt? Wat als mijn eigen verraderlijke _zoons_ het leger omkopen? Dan nemen ze zo het rijk in, want zij _zijn het leger_. Niemand houdt ze tegen."
+"Het leger is het belangrijkste deel van een rijk. Zij zorgen voor veiligheid van buitenaf ... maar zijn het grootste gevaar van binnenuit. Elke avond staan mijn soldaten voor mijn slaapkamer om mij in leven te houden tegen spionnen en sluipmoordenaars. Wat als iemand ze omkoopt? Wat als mijn eigen verraderlijke _zoons_ het leger omkopen? Dan nemen ze zo het rijk in, want zij _zijn het leger_. Niemand houdt ze tegen."
 
-Enra was verbaasd over de eerlijkheid van Otto. Over de kwetsbaarheid die zo'n grote slang durfde te tonen. 
+Enra was verbaasd over de eerlijkheid van Otto. Over de kwetsbaarheid die zo'n grote slang durfde te tonen tegen deze jongens. Een beer, een neushoorn, een paar geiten, allemaal nauwelijks oud genoeg om zijn woorden te begrijpen.
 
 "Dus ik heb het leger afgeschaft. In plaats daarvan worden jullie mijn nieuwe soldaten."
 

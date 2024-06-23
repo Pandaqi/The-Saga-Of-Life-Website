@@ -27,15 +27,15 @@ His own back was replaced with an orange fur decorated with black stripes. His b
 
 He felt his head. Soft curved ears stood sideways and from his mouth protruded two gigantic saber teeth. 
 
-He studied his hands. Four black dots ran across the bottom, one for each toe. These soles allowed him to leap back and forth between the few solid lumps of ground.
+He studied his hands. Four black dots ran across the bottom, one for each toe. These soles allowed him to leap back and forth between the rare solid lumps of ground.
 
 A second roar escaped him. He slowly gained control over his body---and his powers. When his front paw stomped, steaming lava bubbles sprang from the holes in the ground, floating through the air without his touch.
 
 He didn't understand. Had Father only banished him? No, he was angry with everyone, they went along in the whirlpool. Was he the only one transformed into an animal? Was this really a prank by Father?
 
-The lava bubble burst apart. As it flowed back into the cracks, Pebbles danced like grains of sand across the floor. 
+The lava bubble burst apart. As it flowed back into the cracks, pebbles danced like grains of sand across the floor. 
 
-The planet rumbled, as if it was hungry. All the pebbles rolled away and the sun suddenly stood much lower on the horizon.
+The planet rumbled, as if she were hungry. The pebbles rolled away and the sun suddenly stood much lower on the horizon.
 
 Ardex' new body lost all its strength. He felt nauseous. Weak, dizzy, vulnerable. This must be how living beings felt when they were sick---and he no longer understood why his parents had invented diseases. 
 
@@ -45,7 +45,7 @@ No, not all his powers. No matter how hard he tried, no flames burst from his mo
 
 They had to return to the Heavenly Palace. He would take revenge on Father! But for that he needed his family members. For that, the planet---
 
-His world rumbled and quaked again, streams of lava scraping past his paws, interspersed with streams of pebbles.
+His world rumbled and quaked again. Streams of lava scraped past his paws, interspersed with streams of pebbles.
 
 "_Darus!_" he called out.
 
@@ -57,7 +57,7 @@ No response. Or wait ...
 
 A paw stuck up behind a tall black rock, followed by a soft playful voice. "Shush shush, keep it down. Some beings are trying to sleep over here."
 
-"You're always so darn lazy," said Ardex with a smile. 
+"Kept your power of laziness, I say," said Ardex with a smile. 
 
 "Love you too."
 
@@ -71,7 +71,9 @@ Ardex shuffled towards the rock, curious what form Darus had taken. For a moment
 
 Their snouts bumped each other. "If this continues, we'll be sucked into the sun soon."
 
-He looked at Ardex for the first time. His voice sounded like a little kid who received a magnificent present: "Super cool!"
+He looked at Ardex for the first time. His voice sounded like a little kid who received a magnificent present.
+
+"Super cool!"
 
 "That's not cool at all!" Ardex grumbled. "I already feel awful. Hot. Sticky. That'll be much worse in the sun."
 
@@ -81,19 +83,21 @@ Darus examined himself as if a terrifying spider crawled on his belly. Ardex sur
 
 A grayish-white fur covered Darus' muscular body. Two pointed ears stood straight up. His nose jutted far forward and he dragged a broad tail far behind.  
 
-"A labrador wolf," Ardex concluded. "Father's lessons were at least good for something. But you wouldn't know that, since you never showed up."
+"A labrador wolf," Ardex concluded. "Father's lessons will prove their worth now. But you wouldn't know that, of course."
 
-"Shush shush, don't like that tone mister. This is fun, isn't it? I'm so _soft_. Come see what animals the rest have become!"
+"Shush shush, don't like that tone mister. This is fun, isn't it? I'm so _soft_. Let's see what animals the others have become!"
 
 Ardex hooked his tusk around Darus' paw and prevented him from leaving. 
 
-A rock from space struck his back. He felt the blow but had no pain. Yet the fact that he _felt_ it at all was frightening enough. "Not important. The planet must calm down now! I was trying to pull pebbles from the ground---"
+A rock from space struck his back. He felt the blow but had no pain. Yet the fact that he _felt_ it at all was frightening enough. 
 
-"Yes, stop that! They need to stay in the ground." 
+"Not important. Make the planet calm down! I tried to pull pebbles from the ground---"
 
-"Darus! Show some respect for the eldest son of God." 
+"Stop that! They need to stay in the ground." 
 
-Ardex showed who was tallest. His tusks pressed lightly on the head of his little brother, who didn't even look back. He studied the ground, examined all the rocks carefully, squeezed them together, and threw them back down the hole.
+"_Darus!_ Show some respect for the eldest son of God." 
+
+Ardex showed who was tallest. His tusks pressed lightly on the head of his little brother, who didn't even notice. He studied the ground, examined all the rocks carefully, squeezed them together, and threw them back down the hole.
 
 "Lots of iron and nickel. If we just wait, gravity will pull them down. With such a large magnet in the core, the planet should become stable."
 
@@ -107,25 +111,27 @@ Ardex showed who was tallest. His tusks pressed lightly on the head of his littl
 
 "In the palace, yes. Not on this dead planet, I'm afraid." 
 
-"Oh no, you as well? You also believe that vague story from Bella about _life force_ and thingies?"
+"Ugh, you too? You also believe Bella's vague story about _life force_ and thingies?"
 
-"How else have our powers grown? Father only gave us a tiny pebble of his full might. Now you are altering entire planets. Do you have a better theory? Come on, you know what you must do."
+"How else have our powers grown? Father only gave us a tiny pebble of his full might. Now you alter entire planets. Do you have a better theory? Come on, you know what you must do."
 
 The sun suddenly changed position, again, and now set definitively.
 
-The holes in the ground were barely distinguishable from the rock. Darus sighed. His front paw made a graceful arc, pulling rocks up with it---so he could lean against them comfortably. He staggered on his paws and looked at Ardex with tired eyes.
+The holes in the ground were barely distinguishable from the rock. Darus sighed. His front paw made a graceful arc, which magically pulled the rocks upward---so he could lean against them comfortably. He staggered on his paws and studied Ardex with tired eyes.
 
 "Could you shine some light here?"
 
 "I can't do that anymore."
 
-"That's a bit disappointing, _eldest son of God_."
+"A bit disappointing, _eldest son of God_."
 
 Darus tapped as if knocking on the planet's door. Again and again he shifted his paw to a different spot and laid his ear against the rocks. 
 
-The rumbling grew louder. Everything inside the planet was changing. The rocks shook more and more violently, as if they were cold---until the sun inexplicably came up again.
+The rumbling grew louder. Everything inside the planet was changing. The rocks shook more and more violently, as if they were cold. 
 
-"The planet no longer spins randomly," Darus said with satisfcation. "You'll have to fix those lava and explosion thingies yourself. Too bad the night is so short. Sleep well, Ardex."
+Until the sun inexplicably rose again.
+
+"The planet no longer spins randomly," Darus said with satisfaction. "You'll have to fix those lava and explosion thingies yourself. Too bad the night's this short. Sleep well, Ardex."
 
 He hadn't even closed his eyes before his big brother pulled him upright. 
 
@@ -133,19 +139,19 @@ He hadn't even closed his eyes before his big brother pulled him upright.
 
 "No idea. Maybe he was grumpy. Maybe he was disappointed in us. Maybe this is his idea of a prank. We all know he doesn't understand humor." 
 
-"Ah, so you got your humor from _him_."
+"Ah, so you got your sense of humor from _him_."
 
 "Love you too." 
 
-Darus turned around and immediately fell asleep.
+Darus turned around and fell asleep.
 
-Specks drifted through Ardex' vision. He looked down. His front paws slowly transformed into tiny red shreds that orbited around him like stars. 
+Specks drifted through Ardex' vision. His front paws slowly transformed into tiny red shreds that orbited around him like stars. 
 
 _This isn't right,_ he thought calmly, until he could no longer restrain himself. _I'm dying. I'm dying. I have to find the others, quick, quick, quick._
 
 With each footstep, lava shot up like a fountain. For hours he ran, tirelessly, all that time finding _nothing_. Absolutely nothing. No hill, no river, no plants, no insects. 
 
-The sun was already setting when he saw something in the distance: a round swelling in the rock. 
+The sun already set when something appeared in the distance: a round swelling in the rock. 
 
-He was afraid he had accidentally looped around and was back at his brother---until the swelling grew into something on two legs.
+He feared he'd accidentally looped around and was back at his brother---until the swelling grew into something on two legs.
 

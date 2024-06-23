@@ -8,7 +8,7 @@ Vanaf dat dek zagen ze de rookpluimen van wat ooit de grootste steden van Ottojo
 
 En in Floria kregen ze bescherming van de aardige jakhalzen. Ze hadden inderdaad praktisch geen leger. En de eenzame Florianen gingen ervan uit dat de hele wereld zou geloven dat Chonib en Enra waren gestorven tijdens de aanval.
 
-Ze kregen een tweede kans op het leven.
+Nogmaals had geluk aan hun zijde, zoals zijn neushoornvriend zou hebben gezegd. Ze kregen een tweede kans op het leven.
 
 En de Florianen kregen gelijk. Even later kwam het nieuws dat Ottojon was gevallen met diens hoofdstad en leiders. In het nieuws beeldden ze hun vlag zelfs op die manier uit: een halve maan met een ster in diens midden. Het kleinste beetje respect of nagedachtenis aan hun tegenstander. Hoewel Enra later leerde dat zelfs de Sumiseri dit symbool al gebruikten, wat betekende dat er een lange stamboom aan halfgoden van Maan en Zon was in de geschiedenis.
 
@@ -16,19 +16,27 @@ Dat betekende ook dat het hele rijk nu plotseling geen eigenaar had.
 
 Toen de eerste gevechten van het Tweede Conflict staakten, kwamen de winnaars samen om dit land te verdelen. Het werd in stukjes gehakt, zoals je eten aan de eettafel opdeelt onder je kinderen, of een moestuintje in verschillende gebieden voor verschillende groenten. 
 
+Of, zoals Enra dacht terwijl hij naar de scherf van de vaas keek, nog altijd in het binnenzakje van zijn uniform, als een vaas die kapotspringt. Waarna de scherven één voor één worden uitgedeeld.
+
 Casbrita, de Frambozi, allemaal kregen ze een hap land waarmee ze niks deden, maar waarover ze wel belasting wilden innen. 
 
 _En dat, beste lezer, is natuurlijk een recept voor nog veel meer conflicten voor nog honderden jaren. Iets dat de overwinnaars jammer genoeg bijna nooit leerden. Over een eeuw zouden er nog steeds oorlogen zijn omdat sommige zeggen dat het land van hen is, andere zeggen dat ze nu de baas zijn, en weer andere misbruik maken van de situatie om rijk te worden met wapenverkoop._
 
-"Waarom konden ze het land niet heel laten?" verzuchtte Chonib herhaaldelijk. "Vrede sluiten en met rust laten?" Dan schudde ze haar hoofd, kroop tegen Enra aan, en schilderde even later weer de maan.
+"Waarom konden ze het land niet heel laten?" verzuchtte Chonib herhaaldelijk. "Vrede sluiten en met rust laten?" 
+
+Dan schudde ze haar hoofd, kroop tegen Enra aan, en schilderde even later weer de maan.
 
 Jaco, de soort-van-koning van Floria, kocht op aanraden van een energieke gazelle de schilderijen steeds over. Om op te hangen in een piramide of zoiets. 
 
-Hij barstte nog steeds soms in lachen uit over het feit dat Enra zo lang geheim had gehouden, voor zichzelf en anderen, dat hij halfgod van de Zon was. "Je naam betekent letterlijk niet-Ra, of niet-zon. Je ouders deden de allerslechtste poging om het te verbergen!" zei hij dan met een lach.
+Hij barstte nog steeds soms in lachen uit over het feit dat Enra zo lang geheim had gehouden, voor zichzelf en anderen, dat hij halfgod van de Zon was. 
 
-Deze keer was hij serieuzer. "Tja, _geen rijk zonder ondergang._"
+"Je naam betekent letterlijk niet-Ra, of niet-zon. Je ouders deden de allerslechtste poging om het te verbergen!"
 
-Chonib glimlachte. "Ah, ik heb nog een liefhebber gevonden voor de boeken van Ardex en Bella?"
+Vandaag was Jaco iets serieuzer terwijl ze Ottojons ondergang bespraken. 
+
+"Tja, zoals ze zeggen: _geen rijk zonder ondergang._ En Enra, elke keer als je terugdenkt aan wat je hebt meegemaakt, herinner dan: _geen macht zonder machtelozen_."
+
+Chonib glimlachte. "Ah! Heb ik nog een liefhebber gevonden voor de boeken van Ardex en Bella?"
 
 Jaco schokschouderde. "Gidi probeert me te leren lezen. Leren tellen heeft ze al enigszins opgegeven."
 

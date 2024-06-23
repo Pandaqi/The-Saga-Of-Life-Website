@@ -24,11 +24,11 @@ He threw two raw eggs into a glass of milk, then used some dirt and leaves to gi
 
 Catia felt lightheaded. It surely didn't help her headache. Her body had grown more ill for months now and she felt tired enough to sleep an entire _week_.
 
-"Catia! Behave yourself!" mother said. Then she whispered in her ear: "We are paying through our _whiskers_ for this expensive healer! He's one of the beast. Do as Owin says and I'm sure you will heal."
+"Catia! Behave yourself!" mother said. Then she whispered in her ear: "We are paying through our _whiskers_ for this expensive healer! He's one of the best. Do as Owin says and I'm sure you will heal."
 
 They finally helped her down. When they let her go, Catia fell, her vision black and unable to use her own paws. Her anxious parents carried her back to the soft bed in the corner.
 
-"Maybe," Catia said with a soar throat, "Owin can explain _why_ this would work?"
+"Maybe," Catia said with a sore throat, "Owin can explain _why_ this would work?"
 
 "Oh, yes, of course," he said, as the owl packed up his pouch and attached it to his wings. "There is an illness in your head, which gives you a headache. So, hanging upside down will slowly make the illness _leak_ from your head, like a dripping faucet."
 
@@ -38,7 +38,7 @@ They finally helped her down. When they let her go, Catia fell, her vision black
 
 "Ah. Yeah. Sure."
 
-Her parents helped Owin to the door. The villa was a large maze to anyone who didn't live there. The previous five healers got lost every time.
+Her parents helped Owin to the door. The villa was a large maze to anyone who didn't live there; the previous five healers had gotten lost.
 
 Catia clenched her teeth again. Pain shot through her body for weeks now, growing more harsh and more frequent each day. She rolled from her bed, turned to her side, then her other, but nothing eased the pain. As if her body was eaten alive from the inside by the illness.
 
@@ -50,9 +50,9 @@ Mother sat beside her. Their butler arrived to bring food and change Catia's bed
 
 "You'll never heal if you don't take this seriously, dear," said mother.
 
-"I take it seriously. I do the exercise. I swallow those filthy potions. But _nothing works_."
+"I take it seriously. I do the exercises. I swallow those filthy potions. But _nothing works_."
 
-Mother sighed. She was a beautiful black cat, always wearing the most fashionable clothes and keeping her fur squeaky clean. But Catia's illness had even removed some of the shimmer and shine from her parents, adding deep wrinkles to her face. Somewhere deep down, they all felt this wasn't a cold that would blow over soon.
+Mother sighed. She was a beautiful black cat, always wearing the most fashionable clothes and keeping her fur squeaky clean. But Catia's illness had even removed some of her shimmer and shine, adding deep wrinkles to her face. Somewhere deep down, they all felt this wasn't a cold that would blow over soon.
 
 "I must admit Owin wasn't as good as I'd expected. Especially at that price."
 
@@ -66,19 +66,21 @@ Mother looked away. From their villa atop the hill, they could see the beautiful
 
 "It would be almost _all_ the money we have left. Aria doesn't accept all patients, only those of whom she's sure she can heal them."
 
-"But that's why she is legendary: _all_ patients in er clinic have always healed! She'll accept me. I am certain."
+"But that's why she is legendary: _all_ patients in her clinic have always healed! She'll accept me. I am certain."
 
 Catia mostly told this to herself. Her mother would have spent all her money for her daughter without hesitation. But Catia needed a sliver of hope that the pain would disappear one day.
 
-Mother conferred with father. A safe was opened, emptied, and then placed on their golden coach under the watchful eyes of many guards. Some time later, Catia was carried to the back seat, but she insisted she could walk on her own. That tiny distance would be fine. A small victory.
+Mother conferred with father. A safe was opened, emptied, and then placed on their golden coach under the watchful eyes of many guards. Some time later, Catia was carried to the back seat, but insisted she could walk on her own. That tiny distance would be fine. A small victory.
 
-That same evening they rode for the enormous estate of Aria. The comfortable coach, soft and warm on the inside, silently raced over the smooth paths. Catia instantly fell asleep.
+That same evening they rode for the enormous estate of Aria. The comfortable coach, soft and warm on the inside, silently raced over the smooth paths. 
+
+Catia instantly fell asleep.
 
 But the road grew more hilly and rough as they got closer to the inner city. Even this late, it was still busy and noisy. Beggars and merchants yelled for money, food, help, or all three.
 
 A severe _bang_ shook Catia awake.
 
-Her window was covered a red substance. Tomato? Yes, tomato again.
+Her window was covered in a red substance. Tomato? Yes, tomato again.
 
 She knew exactly which neighborhood they'd entered. And the animals here, in ragged clothes and starving bodies, knew exactly who'd sit inside such golden coaches. 
 
@@ -94,7 +96,7 @@ Yes. Catia would be admitted and healed here. It would succeed. The pain would--
 
 Her parents used their bag of money and considerable influence to have the gates opened. Catia wasn't sure _why_ her parents were this influential, but she was _glad_ they were. They owned lots of land. But why? Why were pieces of land the property of one animal? Her father and mother never actually seemed to _be working_?
 
-Aria herself flew out to meet them. A good sin? Her wings were so long they often scraped the floor while walking. Her eyes were almost too large for her head, and she wore three glasses on top of each other. She used to be much larger, a Giant Owl, but something had shrunk her size over the years. Perhaps it was simply her old age.
+Aria herself flew out to meet them. A good sign? Her wings were so long they often scraped the floor while walking. Her eyes were almost too large for her head, and she wore three pairs of glasses on top of each other. She used to be much larger, a Giant Owl, but something had shrunk her size over the years. Perhaps it was simply her old age.
 
 The coach door was opened. Cold wind blew over Catia's body and made the tingling more severe. She was carried outside and presented like a newborn lamb---hopefully not for slaughter.
 
@@ -116,13 +118,13 @@ Her puffy wings curled around her body like warm blankets. She inspected each pa
 
 Then she looked at her, with concern and sadness.
 
-"Oh ... oh no ... " her mother cried.
+"Oh ... oh no ..." her mother cried.
 
 "Please," said Catia. "It's not that bad. I have other symptoms you might---"
 
 She cut off her own sentence by coughing for a minute straight. The wise owl just studied Catia in silence, her expression changing all the time. It took so long that her parents were already about to scoop Catia into their arms and leave again.
 
-"Oh! I missed that," she suddenly said. She took out a piece of paper filled with technical drawings and handwriting nobody would be able to read. She traced some lines with the tip of her wing and nodded to herself. All healers did that, apparently.
+"Oh! I missed that," she said suddenly. She took out a piece of paper filled with technical drawings and handwriting nobody would be able to read. She traced some lines with the tip of her wing and nodded to herself. All healers did that, apparently.
 
 Then she smiled and took Catia with her.
 

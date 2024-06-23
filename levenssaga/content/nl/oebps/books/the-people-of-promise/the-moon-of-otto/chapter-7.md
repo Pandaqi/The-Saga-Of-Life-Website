@@ -26,9 +26,11 @@ In het donkerblauwe, troebele water zochten twee lichtjes elkaar op.
 
 Enra's adem raakte op. Hij zwom met alles dat hij had, omringd door stromen van luchtbellen. Het andere lichtje bewoog eerst nog, maar nu niet meer.
 
-Zwemmen. Zwemmen. Zwemmen. Zijn adem raakte op. Zijn poten voelden twee andere poten.
+Zwemmen. Zwemmen. Zwemmen. Zijn lichaam sloot af en weigerde werk door gebrek aan zuurstof. 
 
-In elkaars armen trok een sterke waterstroming hen terug naar de oppervlakte.
+Zijn poten voelden twee andere poten.
+
+Een sterke waterstroming trok de twee beren, in elkaars armen, terug naar de oppervlakte.
 
 ___
 
@@ -36,7 +38,7 @@ Enra en Chonib hadden niet verwacht zo lang te overleven. Maar toen ze jarenlang
 
 De koning van Esprante was die nacht gestorven, net als hun Maanlezer. Ook hadden ze een flink deel van de vloot vernield in het geweld. Olombos had het overleefd en alle middelen gekregen voor die ontdekkingsreis, dus Chonib probeerde vanuit de cel zijn schip de verkeerde kant op te sturen.
 
-Want de opvolger van de koning was diens zoon, Carlos de Tweede, die pas drie jaar oud was. Zelfs toen het arme jochie volwassen werd, waren zijn bevelen inconsistent en meestal genegeerd. Want hij was niet goed bij zijn hoofd.
+De opvolger van de koning was diens zoon, Carlos de Tweede, die pas drie jaar oud was. Zelfs toen het arme jochie volwassen werd, waren zijn bevelen inconsistent en meestal genegeerd. Want hij was niet goed bij zijn hoofd.
 
 Zelfs de _vorm_ van zijn hoofd was niet goed. De koningsfamilie van Esprante had al jarenlang de regel dat ze alleen kinderen kregen _met elkaar_. Ze zeiden dat ze het bloed "puur" en "koninklijk" wilden houden. Het gevolg was een kind met defecten over het hele lichaam en niet het vermogen om kinderen te krijgen.
 
@@ -54,7 +56,7 @@ _Chonib doelde natuurlijk op handgeweren, beste lezer. Een uitvinding die Kina l
 
 De enige reden dat Otto toch de stad innam, was simpelweg dankzij de _hoeveelheid_ soldaten. Allemaal jongens die de afgelopen vijfhonderd jaar via Devirma waren gehersenspoeld.
 
-Chonib gaf Enra een zoen op de wang. Zelfs al die jaren in gevangenschap had hij nooit gezegd van haar te houden. Nooit haar liefde beantwoord met meer dan een knuffel.
+Chonib gaf Enra een zoen op de wang. Zelfs al die jaren in gevangenschap had hij nooit gezegd van haar te houden. Nooit haar liefde beantwoord met meer dan een knuffel. Alle ogen op wraak jegens Otto.
 
 En toch gaf ze niet op. "We kunnen samen in vrijheid leven. Samen weglopen, als je wilt."
 
@@ -80,11 +82,19 @@ Enra en Chonib waren in oorlog met zichzelf. Was Ottojon nu hun thuis of niet? S
 
 Toen ze even alleen waren, aarzelde Enra geen seconde. "Ik moet sowieso de macht overnemen. Dan kan ik nog beslissen of we Ottojon verdedigen of uiteen laten vallen. Vannacht ga ik in gevecht met Otto. Want de slang die mij alles afpakte en als slaaf behandelde ga ik nooit verdedigen."
 
-Chonib barstte in tranen uit. Tranen die ze droogde tegen zijn borstkas. "Ik kan dit niet meer. Ik wil gewoon _leven_, met jou, ergens in vrijheid. Maar jij ... jij ..."
+Chonib barstte in tranen uit. Tranen die ze droogde tegen zijn borstkas. "Ik kan dit niet meer. Ik wil gewoon _leven_, met jou, ergens in vrijheid. Dat is wat ik hoor te doen, dat is altijd het doel van mijn leven geweest! Maar jij ... jij ..."
 
-Scherp maanlicht drong door tot alle hoeken van de kamer. "Ga niet alleen. Je hebt anderen nodig. Je hebt _mij_ nodig. Een rijk valt al uiteen als de hoofdstad valt---hoe lang denk je Ottojon te leiden als niemand je leuk vindt of steunt?"
+Scherp maanlicht drong door tot alle hoeken van de kamer.
 
-"Ja?" zei Enra terwijl hij omdraaide. "Zodat ik weer allerlei dieren voor me kan laten sterven? Zodat ik jou weer in gevaar breng?"
+"Een rijk valt al uiteen als de hoofdstad valt," zei ze. "Hoe lang denk je Ottojon te leiden als niemand je leuk vindt of steunt? Of denk je dat wéér alle wetten kan verwijderen en helemaal opnieuw schrijven?"
+
+"Nee, dat was Otto's eerste fout," zei hij. "Je kan het verleden niet negeren, het zou onlogisch zijn. Alles dat eerder is gebeurd heeft gevolgen in het nu."
+
+Chonib maakte een gezicht dat haar onenigheid toonde met deze uitspraak. Toch bleef ze aan hem kleven.
+
+"Ga niet alleen. Je hebt anderen nodig. Je hebt _mij_ nodig."
+
+"Ik heb anderen nodig?" zei Enra terwijl hij omdraaide om te vertrekken. "Zodat ik weer allerlei dieren voor me kan laten sterven? Zodat ik _jou_ weer in gevaar breng!?"
 
 Chonib gaf hem een laatste zoen. "Dat je zo bang bent om mij in gevaar te brengen," fluisterde ze, "is dat niet het grootste teken dat je van me houdt?"
 
@@ -94,11 +104,17 @@ Ze glimlachte flauwtjes. "Zoals een halfgod van de zon ooit zei: _Het is niet lo
 
 Hij glimlachte terug en liet het wapen vallen om haar poten te pakken. Maar de woorden kwamen niet over zijn lippen, vroeger niet, nu niet, en misschien nooit niet.
 
-Chonib keerde om en verborg de tranen. "Zolang mijn licht brandt, mag je komen en ben ik van jou. Als het licht uit is, hoef ik mijn zon nooit meer te zien."
+Alle ogen op wraak, zelfs nu, vooral nu.
+
+Chonib keerde om en verborg de tranen. 
+
+"Zolang mijn licht brandt, mag je komen en ben ik van jou. Als het licht uit is, hoef ik mijn zon nooit meer te zien."
 
 Enra had duizend dingen daarop te zeggen, te veel om er eentje te kiezen. Ze hield niet echt van hem, alleen van zijn magie. Hij zou haar teleurstellen. Hij zou haar kwijtraken, want hij bracht iedereen in gevaar. Het was niet logisch. Op liefde zonder reden kon hij geen plannen bouwen.
 
-En het grootste deel dat hij altijd geheim had gehouden: hij kon haar geen kinderen geven. Dat hadden ze hem afgepakt bij die operatie toen hij nog een jochie was. Want geen kinderen betekende geen opvolgers die problemen veroorzaakten, zo luidde de filosofie van Devirma.
+En het grootste deel dat hij altijd geheim had gehouden: hij kon haar geen kinderen geven. 
+
+Dat hadden ze hem afgepakt bij die operatie toen hij nog een jochie was. Want geen kinderen betekende geen opvolgers die problemen veroorzaakten, zo luidde de filosofie van Devirma.
 
 Dus hij zei niks.
 

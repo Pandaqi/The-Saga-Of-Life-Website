@@ -8,13 +8,13 @@ De eerste wet verbood hen om nieuwe steden te stichten buiten de kolonies. De ko
 
 De tweede wet zei, met veel nette woorden, dat Casbrita mocht doen met de kolonies waar ze zin in hadden. Hun wetten waren belangrijker dan koloniale wetten. Als zij zeiden dat iets moest, dan moest dat.
 
-Waarschijnlijk deden ze dat om de laatste wet te steunen: een heel pakket aan belastingen op bijna _alles_ wat ze uit Casbrita moesten importeren: papier, glas, olie, en natuurlijk vooral _thee_.
+Ze deden dit waarschijnlijk om hun laatste wet te steunen. Een heel pakket aan belastingen op bijna _alles_ wat ze uit Casbrita moesten importeren: papier, glas, olie, en natuurlijk vooral _thee_.
 
 Wasserbox gromde. "Een invasie van onze rechten en privileges!"
 
-"Zeg dat wel, zeg dat wel," zei Jefizon, afgeleid door een boek.
+"Zeg dat wel, mijn goede man, zeg dat wel," zei Jefizon. Hij was afgeleid door een boek en dronk thee.
 
-"We moeten _niet_ toegeven aan zulke acties van een tiran!" zei Wasserbox met een rood hoofd. "Of we worden net zo tam en afkeurenswaardig als slaven! De donkergekleurden over wie we heersen met nonchalance."
+"We moeten _niet_ toegeven aan zulke acties van een tiran!" zei Wasserbox met een rood hoofd, waarna hij zijn theekop omgooide. "Of we worden net zo tam en afkeurenswaardig als slaven! De andersgekleurden over wie we heersen met nonchalance."
 
 Jefizon fronste. "Moet jij niet voortaan onze speeches schrijven?"
 
@@ -28,11 +28,19 @@ Jefizon keek naar Fuja, die probeerde een simpele melodie op de piano te spelen.
 
 Ze keek geschrokken opzij, alsof ze zich schaamde voor haar punterige pianospel. "Wat denk je? Dat ik een uitklaptipi ergens heb staan?"
 
-"Nou, nee, ik weet niet. Je komt toch ergens vandaan?"
+"Nou, ja, mijn goede vrouw, ik weet niet. Je komt toch ergens vandaan?"
 
-"Ja," zei ze, haar ogen rood. "Een hele arme groep inboorlingen die door de kolonisten is verdrukt en uitgeroeid."
+"Ja," zei ze, haar ogen rood. "Een hele arme groep inboorlingen die door de kolonisten is uitgeroeid. Ze stalen onze vrijheid."
 
-Jefizon klapte het boek dicht. "Het spijt me om dat te horen. Ik snap waarom je met ons meevecht."
+Jefizon klapte het boek dicht en sipte van zijn thee. "Het spijt me om dat te horen. Maar, tja, logisch gezien, hadden zij dan ook de _vrijheid_ om jullie uit te roeien, of niet?"
+
+Fuja keek verwoestend. "Meen je dit serieus?"
+
+"Wat is vrijheid volgens jou dan? Dat _jij_ mag doen waar je zin in hebt, maar anderen niet? Je had de vrijheid om jezelf beter te verdedigen!"
+
+"Oh vlieg op. Wij hadden speren! Zij hadden geweren!"
+
+"Het is onnodig om zo boos te worden, mijn goede vrouw," zei hij. "Ik begrijp nu tenminste waarom je met ons vecht."
 
 "We doen veel te _weinig_! Jullie ... jullie zitten de hele dag te zitten, door het raam te kijken, kaartspelletjes te spelen!"
 
@@ -40,7 +48,9 @@ Jefizon klapte het boek dicht. "Het spijt me om dat te horen. Ik snap waarom je 
 
 Fuja schudde haar hoofd. "Jullie zijn allemaal rijke stinkerds. En dat heeft jullie losgesneden van de werkelijkheid."
 
-Jefizon werd vaak geplaagd omdat hij het minste geld had van iedereen. Maar dat kwam vooral doordat hij verslaafd was aan dingen kopen---en zelfs dan had hij nog steeds flink geld. "Wat ... probeer je te zeggen?"
+Jefizon werd vaak geplaagd omdat hij het minste geld had van iedereen. Maar dat kwam vooral doordat hij verslaafd was aan dingen kopen---en zelfs dan had hij nog steeds flink geld. 
+
+"Wat ... probeer je te zeggen?"
 
 "De dieren op de straat, ze willen _nu_ actie. Ze willen _nu_ betaalbaar eten. Niet wanneer een stel rijke jochies het besluit." Fuja stond op van de piano en kwam akelig vlakbij Jefizon. Hij werd er nerveus van, zeker toen ze zijn hand pakte. "Jullie hebben de ruimte en luxe om een gevecht te beginnen met Casbrita. Dus doe het."
 
@@ -50,7 +60,7 @@ Jefizon werd vaak geplaagd omdat hij het minste geld had van iedereen. Maar dat 
 
 "Jullie inboorlingen hebben wel problemen met een hiërarchie, of niet?"
 
-Fuja sloeg hem in het gezicht en liep weg.
+Fuja gooide zijn theebeker omver, sloeg hem in het gezicht en liep weg.
 
 "Sorry! Ik ..." Jefizon struikelde achter haar aan en liet haar pauzeren in de deuropening. "Ik ... heeft iemand je ooit verteld dat je mooie ogen hebt?"
 
@@ -64,9 +74,13 @@ Hij kreeg snel hulp van andere soldaten. Maar de rebellen kregen ook hulp. Sneeu
 
 De versterkingen voor de soldaten hielden snel op. Er waren blijkbaar maar tien Casbrita soldaten in deze hele wijk. Precies zoals Jefizon dacht: eigenlijk had Casbrita helemaal geen controle.
 
-De menigte groeide verder en verder, bozer en bozer. Fuja stond ergens in het midden. Misschien was ze het niet begonnen, maar ze deed mee. Jefizon probeerde zich een weg naar voren te dringen. De soldaten hielden zich netjes in, geweer omlaag, en hoorden het allemaal met lede ogen aan.
+De menigte groeide verder en verder, bozer en bozer. Fuja stond ergens in het midden. Misschien was ze het niet begonnen, maar ze deed mee. 
 
-"Fuja! Stop!" Jefizon kon haar hoofdtooi bijna aanraken, maar twee buffalo's beukten hem opzij. 
+Jefizon probeerde zich een weg naar voren te dringen. De soldaten hielden zich netjes in, geweer omlaag, en hoorden het allemaal met lede ogen aan.
+
+"Fuja! Stop!" 
+
+Jefizon kon haar hoofdtooi bijna aanraken, maar twee buffalo's beukten hem opzij. 
 
 Zij gooiden scherpe glasscherven en riepen dat Casbrita dood moest. De eerste paar scherven botsten tegen de helmen van soldaten; daarna doorboorde eentje iemands uniform, als een mes in de rug.
 
@@ -94,15 +108,19 @@ Maar het volgende plan was nog veel beter. Jefizon en Fuja hadden de informatie 
 
 Middernacht. Verkleed als inboorlingen, dankzij Fuja. Enerzijds om hun gezicht te verbergen, anderzijds om de Casbrita het idee te geven dat ook zij nog steeds boos waren.
 
-Iedereen wilde dat Wasserbox leidde. Maar Ajay vond dat hij als leider van de _Kinderen van Vrijheid_ ook alle missies moest leiden, dus dat was dat. Bardams weigerde dan weer mee te doen met missies, dus zijn plek werd opgevuld door de slaaf die hij had geïntroduceerd: Pirkan. Het werd al snel duidelijk dat Pirkan het sterkste en het snelste was van iedereen.
+Iedereen wilde dat Wasserbox leidde. Maar Ajay vond dat hij als leider van de _Kinderen van Vrijheid_ ook alle missies moest leiden, dus dat was dat. 
+
+Bardams deed nooit mee met het vechten, wat nog meer gedoe opleverde onder hen. Uiteindelijk werden zijn taken overgenomen door de neushoornslaaf: Pikan.
+
+Wat niet zijn echte naam kon zijn, wist Jefizon, want neushoornnamen bevatten altijd een "r". Maar hij zei er niks van, want Pikan was duidelijk de sterkste van hen allemaal.
 
 "Klim in de hoogste mast," commandeerde Ajay. "En laat ons weten als soldaten komen. Als je durft."
 
-Pirkan rolde zijn ogen en kroop over het schip. De rest volgde op een langzamer tempo. Eenmaal op het dek, verspreidden ze zich in alle richtingen. 
+Pikan rolde zijn ogen en kroop over het schip. De rest volgde op een langzamer tempo. Eenmaal op het dek, verspreidden ze zich in alle richtingen. 
 
 Het schip, uit de vloot van Casbrita, was gigantisch. Het zou uren duren om alle hoeken te doorzoeken. Gelukkig wisten ze exact waarvoor ze kwamen: de duizenden kisten aan goederen die in het ruim moesten staan.
 
-Wasserbox was als eerste beneden. Hij moest een harde lach onderdrukken toen hij de buit zag. Met een grijns bestudeerde hij de ladingen _thee_ die vanuit Casbrita hiernaartoe waren gekomen. Hun nieuwe wetten hadden veel belastingen teruggedraaid ... behalve die van thee. Blijkbaar hadden ze dat goedje gekozen als hun heuvel om op te sterven.
+Wasserbox was als eerste beneden. Hij moest een harde lach onderdrukken toen hij de buit zag. Met een grijns bestudeerde hij de ladingen _thee_ die vanuit Casbrita hiernaartoe waren gekomen. Hun nieuwe wetten hadden veel belastingen teruggedraaid na het Bosnot bloedbad ... behalve die van thee. Blijkbaar hadden ze dat goedje gekozen als hun heuvel om op te sterven.
 
 Ajay plofte naast hem. "Eén kist per keer. Zo min mogelijk lawaai. NU!"
 
@@ -112,17 +130,23 @@ Het team tilde kist na kist omhoog om even later alle thee _weg te gooien_ in de
 
 "Als we alles moeten tillen dan---"
 
-Pirkan tikte tegen de mast. "Eh, Ajay, iedereen. Dit moet je even zien."
+Pikan tikte tegen de mast. "Eh, Ajay, iedereen. Dit moet je even zien."
 
 "Soldaten?" vroeg Ajay bang. Hij nam de ladder omhoog en zag de werkelijkheid: honderden inwoners van Bosnot waren hun huis uitgekomen. Een deel moedigde hen aan. De rest rende ook het schip op om mee te helpen.
 
 Tientallen kisten werden nu elke minuut uit het ruim getrokken. Tientallen kilogram thee die met plezier in het water werd weggegooid. Miljoenen aan verlies voor Casbrita. Hoe langer het doorging, hoe meer enthousiasme er zat in hun vernietiging.
 
-Totdat het ruim bijna leeg was. Tonnen thee weggegooid. Zoveel verlies dat Casbrita geen belasting kon bedénken om het goed te maken. Het hele schip uitgehold en uitgehongerd.
+"Ik vertrouw het niet," zei Ajay plotseling. "Val terug! Stop! Dit is genoeg!"
 
-De eerste Casbrita soldaten kwamen eindelijk door de menigte heen. Ajay commandeerde het team om de laatste kisten te laten zitten. Meteen vertrekken, niet gepakt worden.
+"_Wat?_" riep Wasserbox. Maar hij erkende Ajay als de aangewezen leider in deze missie, dus ze trokken allemaal van het schip en stuurden de menigte naar huis.
 
-Ze sprongen zelf ook in het water, dat nu een raar smaakje had. Jefizon ging ervan uit dat de menigte hen tijd zou geven om te vluchten. Toen hij weer boven water kwam, gaf Fuja hem een zoen.
+Ja, ze hadden veel thee weggegooid. Maar ze hadden zoveel meer kunnen bereiken, meerdere schepen kunnen leeghalen, als Ajay---
+
+Terwijl ze vluchtten, braken de eerste Casbrita soldaten eindelijk door de menigte. Ajay commandeerde iedereen, opnieuw, om meteen te vertrekken en de rest te laten zitten.
+
+Ze sprongen zelf ook in het water, dat nu een raar smaakje had. Jefizon ging ervan uit dat de menigte hen tijd zou geven om te vluchten. 
+
+Toen hij weer boven water kwam, gaf Fuja hem een zoen.
 
 "Dit," fluisterde ze, "is wat we meer moeten doen."
 

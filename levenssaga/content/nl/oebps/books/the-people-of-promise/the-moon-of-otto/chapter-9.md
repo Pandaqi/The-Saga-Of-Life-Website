@@ -18,39 +18,39 @@ Het enige moment waarop Chonib hem nog had opgezocht en met hem gepraat ... was 
 
 Chonibs licht brandde nog steeds, van 's ochtends vroeg tot 's avonds laat.
 
-Miljoenen kaarsen verspild aan een onlogische hoop.
+Miljoenen kaarsen verspild aan een onlogische hoop. Of miljoenen van iets dat ze _elektriciteit_ noemden, nog zo'n uitvinding die Chonib had meegenomen en nu mee experimenteerde.
 
 Enra boog zich voor de zoveelste keer over de kaart. "Haal die legers bij Tamli maar weg. Die gaan we nooit veroveren, en ze zijn ook niet geïnteresseerd in ons aanvallen."
 
-"Beste commandant," zei de olifant, "de legers daar zijn al honderd jaar weg. We hadden ze nodig tegen het oprukkende Kina met, je weet wel, _draken_."
+"Beste commandant," zei zijn neushoornvriend, "de legers daar zijn al honderd jaar weg. We hadden ze nodig tegen het oprukkende Kina met, je weet wel, _draken_."
 
 "Prima," zei Enra uitgeput. "Haal dan legers van de kusten richting Floria. Die zijn alleen met zichzelf bezig en weten volgens mij niet eens dat wij bestaan. Hebben die jakhalzen eigenlijk wel een leger?"
 
-"We denken van niet, anders hadden we allang een verbond gesloten om samen te vechten," zei de olifant die over de jaren absoluut zijn beste vriend was geworden. "Het zal gebeuren, commandant. Maar we moeten praten over de andere optie."
+"We denken van niet, anders hadden we allang een verbond gesloten om samen te vechten," zei zijn vriend. "Ik doe natuurlijk wat u vraagt, commandant. Maar we moeten praten over de andere optie."
 
 "De ... andere optie?"
 
-De olifant verlaagde zijn stem. "We zijn aan het verliezen, Enra, en je weet het. Alle belangrijke dieren moeten een plan hebben om meteen te vluchten in het geval ... in het geval dat ..."
+De neushoorn verlaagde zijn stem. "We zijn aan het verliezen, Enra, en je weet het. Alle belangrijke dieren moeten een plan hebben om meteen te vluchten in het geval ... in het geval dat ..."
 
 Enra bleef stil. De herinneringen aan hoe prachtig Ottojon ooit was speelden in zijn hoofd. Mooie plaatjes, volle pleinen, spelende kinderen---iets om aan vast te houden en te weten waarvoor je streed. Ooit hadden ze heel het continent Compana én grote happen uit Garda en Origina. Toen Floria plots uit de zee kwam, wilde Otto zelfs daar een legertje naartoe sturen.
 
 Maar de enige logische conclusie was inderdaad dat het hele rijk binnenkort zou verdwijnen.
 
-"Ik moet hier over nadenken," zei hij uiteindelijk. De olifant knikte en liep weg.
+"Ik moet hier over nadenken," zei hij uiteindelijk. De neushoorn knikte, gaf hem een vriendelijke schouderklop, en liep weg.
 
-Nadenken deed hij, maar hij wist ook dat hij na al die jaren niet meer op andere conclusies zou uitkomen. Hij moest vooral leren ... navoelen.
+Nadenken deed hij, maar hij wist ook dat hij na al die jaren niet meer op andere conclusies zou uitkomen. Hij moest vooral leren ... _navoelen_.
 
 Die avond liep hij weer zijn oude route. Toen hij nog een jochie was en elke avond Chonib opzocht. De route die hem onverbiddelijk leidde naar haar halfopen kamerdeur waarachter licht brandde.
 
-Hij dacht dat hij in zijn eentje moest vluchten en zijn moeder terugvinden. Hij dacht dat hij zich beter zou voelen als hij wraak had genomen op Otto. Hij dacht dat het de bedoeling was dat je logische keuzes maakte en dan ... automatisch gelukkig zou zijn?
+Hij dacht dat hij in zijn eentje moest vluchten en zijn moeder terugvinden. Hij dacht dat hij zich beter zou voelen, of dat _iets_ van gevoel zou terugkeren, zodra hij wraak had genomen op Otto. Hij dacht dat het de bedoeling was dat je logische keuzes maakte en dan ... automatisch gelukkig zou zijn?
 
-Hij wist nu dat er iemand was die met hem de wereld zou afreizen op zoek naar zijn moeder en hun honderden schapen. Ook al was het niet logisch en had ze er zelf niks aan. Er was een licht in haar dat nooit uit zou gaan---en hij accepteerde eindelijk dat hetzelfde licht in hem brandde. Het levenslicht.
+Hij wist nu dat wraak nemen helemaal niets voor hem had gedaan. Hij wist nu dat er iemand was die met hem de wereld zou afreizen op zoek naar zijn moeder en hun honderden schapen. Ook al was het niet logisch en had ze er zelf niks aan. Er was een licht in haar dat nooit uit zou gaan---en hij accepteerde eindelijk dat hetzelfde licht in hem brandde. Het levenslicht.
 
 Hij sloot zijn ogen, haalde diep adem, en liep naar de deur.
 
 Het licht ging uit.
 
-_Het licht was uit._
+_Het licht was uit!_
 
 Voor het eerst in al die honderden jaren.
 
@@ -58,9 +58,9 @@ In het stikdonker struikelde Enra richting haar kamer, waarbij hij meerdere vaze
 
 "Chonib! Chonib! Ik ben er! Ik was er al! Ik was op tijd!"
 
-Hij voelde juist dat hij te laat was. Had hij maar minder getwijfeld. Had hij maar harder gelopen. Had hij haar liefde maar meteen beantwoord en Otto gelaten voor wat hij was.
+Hij voelde juist dat hij te laat was. Een wervelwind aan emoties overweldigde hem en maakten hem ziek, en hij kon het niet langer tegenhouden, terwijl zijn maag samenkrampte en zijn zicht vervaagde. Had hij maar minder getwijfeld. Had hij maar harder gelopen. Had hij haar liefde maar meteen beantwoord en Otto gelaten voor wat hij was.
 
-Had hij maar ... had hij maar ... een heel leven van een licht expres uitzetten dat aan wilde staan.
+Had hij maar ... had hij maar ... _niet_ een heel leven van een licht expres uitzetten dat aan wilde staan.
 
 "CHONIB!"
 
@@ -74,13 +74,17 @@ Een maansverduistering. Chonibs licht was volledig uitgegaan.
 
 Enra viel op de vloer, schuddend van de tranen. "Chonib ... ik ben er nu. Ik ben er. Ik ben toch niet te laat? Geef me nog een kans."
 
-Hij wist zelf wel hoe het klonk. Hij had honderden jaren elke dag een kans gekregen. Chonib had gelijk. Ze was vertrokken, ze had hem opgegeven, en ze had helemaal gelijk---
+Hij wist zelf wel hoe het klonk. Hij had honderden jaren elke dag een kans gekregen. Ze waren bijna bejaarde beren nu, zelfs in een tijd dat de Legende van Langleven nog bestond, en halfgoden sowieso langzamer oud werden dan reguliere wezens.
+
+Chonib had gelijk. Ze was vertrokken, ze had hem opgegeven, en ze had helemaal gelijk---
 
 "Enra," zei haar zachte stem. Maar ze klonk in paniek, zelfs meer dan toen ze op een zinkend schip stonden tussen de bliksemflitsen. "_De maan is weg._"
 
 "Dat heb jij niet gedaan?" Enra draaide meteen om en zocht naar de lichtpuntjes van haar ogen in de diepzwarte kamer.
 
-"Nee," zei ze zachtjes. Ook zij moest blind door de kamer kruipen. Hij hoorde de krakende planken en het kastje dat werd omgestoten. Hij voelde haar trekken aan het tapijt, haar warme adem, maar kon niks zien.
+"Nee," zei ze. 
+
+Ook zij moest blind door de kamer kruipen. Hij hoorde de krakende planken en het kastje dat werd omgestoten. Hij voelde haar trekken aan het tapijt, haar warme adem, maar kon niks zien.
 
 Totdat hun poten elkaar vonden.
 

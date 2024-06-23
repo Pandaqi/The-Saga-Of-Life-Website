@@ -8,13 +8,13 @@ Chonib dacht dat ze tijd hadden. Dat er nog vele steden tussen hen en het Rijk v
 
 En opgeslokt was het juiste woord.
 
-Zijn leger raasde door haar dorp. Huizen vielen om, versplinterd of fijn gewurgd, en niet alle inwoners kwamen op tijd weg. Stapels hout werden in brand gestoken. De vlammen mengden met het flauwe maanlicht en toonden de angstaanjagende gezichten van hun aanvallers. De mannelijke dieren grepen wapens en probeerden de dodelijke vloedgolf te stoppen. Maar een groepje bange koeien, geiten en kamelen was niets anders dan rijp voor de slacht.
+Zijn leger raasde nu door haar dorp. Huizen vielen om, versplinterd of fijn gewurgd, en niet alle inwoners kwamen op tijd weg. Stapels hout werden in brand gestoken. De vlammen mengden met het flauwe maanlicht en toonden de angstaanjagende gezichten van hun aanvallers. De mannelijke dieren grepen wapens en probeerden de dodelijke vloedgolf te stoppen. Maar een groepje bange koeien, geiten en kamelen was niets anders dan rijp voor de slacht.
 
 Als Otto zelfs hier kon aanvallen ... dan was zijn rijk over een paar jaar de halve wereld!
 
 Chonib, een bruine beer, zag het allemaal gebeuren vanaf haar balkon. Ze zat op haar zachte kont en schilderde, doof voor de schreeuwen en de vernieling. Haar hele dorp werd weggevaagd nog voordat de maan haar plek in de hemel had veranderd. De overlevenden stonden trillend in het duister, dicht tegen elkaar aan voor warmte en steun.
 
-Otto keek omhoog. Hij had alleen oog voor de maan. Vannacht was ze halfvol, glinsterend maar niet spierwit. Hij volgde dit puntje aan de hemel voor lange tijd. Uiteindelijk glimlachte hij tevreden, alsof hij een vraag had gesteld aan de maan en antwoord had gekregen.
+Otto keek omhoog en had alleen oog voor de maan. Vannacht was ze halfvol, glinsterend maar niet spierwit. Hij volgde dit puntje aan de hemel voor lange tijd. Uiteindelijk glimlachte hij tevreden, alsof hij een vraag had gesteld aan de maan en antwoord had gekregen.
 
 "Jullie hebben geluk," siste de reusachtige adder. "De maan vraagt vannacht om vergeving. Jullie horen vanaf nu bij het Rijk van Otto. Herbouw je stad en betaal mij elke maand belasting, en je zal genieten van---"
 
@@ -50,15 +50,15 @@ Chonib schudde haar hoofd. Met de andere kant van haar kwast wees ze op vijf ver
 
 Ze stond en maakte haarzelf nóg sterker voor wat ze nu moest zeggen. "Ik _wil_ niet voor je werken, Otto. Je hebt zojuist mijn dorp platgebrand. Maar de Maan zegt dat het moet."
 
-Het was een gok. De Maan zei helemaal niks van dit alles. Ze zei _wel_ dat Otto gaf om kracht en oorlog, maar ook om eer en plicht. Door te doen alsof ze tegen haar zin inging, hoopte ze juist dat hij accepteerde.
+Het was een gok. De Maan zei helemaal niks van dit alles. Ze zei _wel_ dat Otto gaf om kracht en oorlog, maar ook om eer en plicht. Door te doen alsof ze tegen haar zin inging, hoopte ze juist dat hij accepteerde. Maar het was allemaal volgens plan, zodat ze---
 
-En de gok betaalde uit. Otto knikte en glimlachte terug. 
+Otto knikte en glimlachte terug. 
 
 "Vanaf nu is Chonib mijn adviseuse en hoogste Maanlezer," verklaarde hij luidkeels. "Ze heeft mijn bescherming en behoort nu tot het koninklijke huishouden."
 
 Ze werd weggeleid van haar dorp. Slangenbewakers duwden haar in een woestijnslee getrokken door kamelen. Otto reisde zelf in een veel luxere slee, samen met zijn drie zonen. Waarschijnlijk bespraken ze hoe ze de volgende paar steden gingen terroriseren.
 
-Had ze wel de juiste keuze gemaakt? Ze schudde haar vacht. Het was nu te laat voor terugkrabbelen. Over een paar uur werd het paleis van Otto haar nieuwe thuis. Het eerste dat ze ging doen was een eindeloze voorraad kwasten en verf vragen om---
+Had ze wel de juiste keuze gemaakt? Ze schudde haar vacht. Het was nu te laat voor terugkrabbelen. Over een paar uur werd het paleis van Otto haar nieuwe thuis---kon het ooit voelen als thuis? Nu voelde het alsof ze op weg was naar een gevangenis, en ze verlangde alweer terug naar haar schattige balkon. Het eerste dat ze ging doen was een eindeloze voorraad kwasten en verf vragen om---
 
 Een explosie.
 
@@ -84,8 +84,8 @@ Hij zigzagde naar binnen. Zijn taaie slangenhuid toonde grote wonden en hij zag 
 
 "Geen zorgen," zei hij met krakende stem. "Ik heb van betrouwbare bronnen dat onze vorige leider niet meer is. Dat betekent dat ik, Aratto, de nieuwe leider ben. Het Rijk van Otto blijft sterk als altijd!"
 
-Maar toen kwamen de volgende bezoekers: de andere twee prinsen. Net zo gewond en uitgeput, maar veel _bozer_. De drie prinsen scheelden bijna niks qua leeftijd, grootte of kracht, want ze waren een drieling.
-
+Maar toen kwamen de volgende bezoekers: de andere twee prinsen. Net zo gewond en uitgeput, maar veel _bozer_. De drie prinsen scheelden bijna niks qua leeftijd, grootte of kracht, want ze waren een drieling. Ze droegen dezelfde kleding als alle sultans: een lange, witte doek die om hun hoofd wond alsof er een gigantische ui groeide.
+ 
 "Onzin!" schreeuwde Bitto. "We zijn allemaal even oud!"
 
 Aratto had zich al gepositioneerd op de troon. Omdat dit rijk werd geregeerd door slangen, was dat geen stoel maar een nest vol bladeren en takken. "Ik kwam er als eerste uit. Ik ben de oudste. Vraag maar aan de vele getuigen."
@@ -116,9 +116,9 @@ Toen het Aratto opviel, wees hij naar haar met een lange tong. "Geef haar maar a
 
 Otto had beloofd haar te beschermen. Maar Otto was niet meer. 
 
-Terwijl tranen over haar gezicht druppelden, sloten slangenlichamen als handboeien om haar ledematen. Ze had niet eens de kracht om tegen te stribbelen. De bewakers sleepten haar de zaal uit. 
+Terwijl tranen over haar gezicht druppelden, sloten slangenlichamen als handboeien om haar ledematen. De bewakers sleepten haar de zaal uit. Ze had niet eens de kracht om tegen te stribbelen. Nee, ze had de verkeerde keuze gemaakt, deze plek zou _nooit_ als haar thuis voel---
 
-Waar ze botsten op een grote slang die heel, heel kwaad was. Hij rukte Chonib meteen uit de klauwen van zijn bewakers en duwde haar veilig achter zich.
+Ze botsten op een hele grote slang die heel kwaad was. Hij rukte Chonib meteen uit de klauwen van zijn bewakers en duwde haar veilig achter zich.
 
 "_Ik vermoord de verrader die het gerucht verspreidde dat ik dood was,_" schreeuwde Otto. 
 

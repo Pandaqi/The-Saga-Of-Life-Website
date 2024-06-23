@@ -4,7 +4,11 @@ weight: 4
 ---
 Casbrita had een nieuwe lading soldaten gestuurd om Bosnot in het gareel te houden. Ook hadden ze in alle kolonies het recht weggehaald om zichzelf te besturen. In de praktijk waren de kolonies nu direct bestuurd door het parlement van Casbrita---aan de andere kant van de wereld.
 
-Door de verhoogde hoeveelheid soldaten moesten de _Kinderen van Vrijheid_ weg uit hun café. Gelukkig hadden die rijke oprichters allemaal wel een landgoed, dus ze trokken naar die van Ajay. Jefizon en Fuja kozen meteen samen een slaapkamer uit.
+Door de verhoogde hoeveelheid soldaten moesten de _Kinderen van Vrijheid_ weg uit hun café. Gelukkig hadden die rijke oprichters allemaal wel een landgoed. Ajay vertrouwde niemands huis behalve zijn eigen, dus gingen ze daarheen. 
+
+Jefizon realiseerde hoe _gelukkig_ ze waren geweest tot nog toe, en hoeveel meer geluk ze nodig zouden hebben om te winnen tegen de overmacht van Casbrita. Hun wapens waren zo primitief dat ze niet eens een bayonet eraan konden vastmaken. Hun ammunitie was bijna op. De Casbrita soldaten overtroffen hen 100 tegen 1. Hij had ooit gelezen over de Halfgod van Geluk en hij hoopte ten zeerste om die goede man ooit te treffen.
+
+Hij en Fuja kozen meteen samen een slaapkamer uit.
 
 Totdat Ajay ertussen kwam. Hij leunde in de deuropening, zijn strenge ogen op het koppel.
 
@@ -22,7 +26,7 @@ Totdat Ajay ertussen kwam. Hij leunde in de deuropening, zijn strenge ogen op he
 
 "ERUIT!"
 
-Jefizon en Fuja lieten elkaars warme handen los. Ze keken elkaar lang in de ogen, totdat Fuja als eerste sprak.
+Jefizon en Fuja lieten elkaars warme handen los. Na een lange stilte sprak Fuja als eerste.
 
 "Ik ben bang ... dat we elkaar niet meer moeten zien," zei ze, waarna ze huilend de kamer uit rende.
 
@@ -60,7 +64,7 @@ Ajay was even stil. "Nou, dan, mijn eindbeslissing is dat Fracclin moet stoppen 
 
 Als het een stemming was geweest, had niemand Ajay als leider gekozen. Maar Ajay had deze rebellen _opgericht_, alles ervoor geregeld, en het meeste geld en connecties om het een succes te maken.
 
-Dus met terneergeslagen ogen en een bedrukte stemming, nam iedereen plaats in een ring rondom Ajay.
+Dus in een bedrukte stemming nam iedereen plaats rondom Ajay.
 
 "Wat belangrijke nieuws?" vroeg Bardams. Zoals altijd waren de meesten al vergeten dat hij er was.
 
@@ -76,7 +80,7 @@ Ajay fronste. "Ja. Volgens mij was ik duidelijk."
 
 "En wat als ik zeg dat _ik_ met dit hele idee ben gekomen en dat hele potdomme congres heb geregeld? Dan nog steeds, Ajay?"
 
-Hij viel stil, zijn gezicht grauw. Uiteindelijk draaide hij om en liep boos weg. 
+Hij viel stil, zijn gezicht grauw, waarna hij omdraaide en boos wegliep. 
 
 ___
 
@@ -88,7 +92,7 @@ Uiteindelijk zat de zaal vol met dieren die alles wisten van de wet en hoe je ee
 
 Maar de rebellen werden verrast door wat er werd gezegd. Al die andere kolonies wilden vooral de relatie met Casbrita herstellen. Een voordelige vrede afspreken, handel weer mogelijk maken, en zo de kolonies weer sterk krijgen.
 
-Hun enige geluk was dat Bardams en Jefizon werden herkend als de belangrijkste personen. Hun prestaties, diploma's en genie maakten hen bijna de baas van het congres. Dus zij konden als enige een tegengeluid geven.
+Hun enige geluk was dat Bardams en Jefizon werden herkend als de belangrijkste wezens. Hun prestaties, diploma's en genie maakten hen bijna de baas van het congres. Dus zij konden als enige een tegengeluid geven.
 
 "En wat als Casbrita nooit vrede wil?" zei Bardams. "Dan verzwakken we onszelf terwijl zij toeslaan."
 
@@ -98,11 +102,13 @@ Hun enige geluk was dat Bardams en Jefizon werden herkend als de belangrijkste p
 
 "Denk dan aan het _principe_," zei Bardams. "Geen dier zou gebukt moeten gaan onder de controle van een ander. De kolonies zijn van de inwoners, niet van de Casbrita die er niet eens zelf wonen. We moeten onszelf uit principe bevrijden. Wij kunnen het _eerste land_ ter wereld worden die dictators en koningen afschaft! Zoals wij slavernij al lang geleden hadden moeten afschaffen."
 
-Dat gaf een sterkere reactie. Zeker in de zuidelijke kolonies leefde men bijna volledig van slavernij. Het hele gebied stond vol met kwekerijen waar luxe goederen als katoen en suiker werden verbouwd. Verbouwd door slaven. Zij vonden Bardams' woorden walgelijke praat.
+Dat gaf een sterkere reactie. Zeker in de zuidelijke kolonies leefde men bijna volledig van slavernij. Het hele gebied stond vol met kwekerijen waar luxe goederen als katoen en suiker werden verbouwd. Verbouwd door slaven.
 
 Uiteindelijk ging het congres maar liefst zes weken lang door. Dat was de keerzijde van iedereen laten spreken en alles uithoren.
 
-Wasserbox was er ook, maar zei niks. Ajay had hem in eerste instantie verboden om binnen te komen en mee te luisteren tijdens het congres, maar toen hadden andere leiders hem alsnog uitgenodigd omdat ze hem herkenden. Ajay vroeg zich af of iedereen gek was geworden en Wasserbox' verleden bij Casbrita was vergeten.
+Wasserbox was er ook, maar zei niks. Ajay had hem in eerste instantie verboden om binnen te komen en mee te luisteren tijdens het congres, maar toen hadden andere leiders hem alsnog uitgenodigd omdat ze hem herkenden. Toen had Wasserbox Pikan weer uitgenodigd, de neushoorn die Bardams' slaaf was, omdat hij onder de indruk was van zijn militaire kennis. Dus nu mochten zelfs slaven deze geheime discussies horen!
+
+Ajay vroeg zich af of iedereen gek was geworden en Wasserbox' verleden bij Casbrita was vergeten. Hij zeker niet.
 
 Uiteindelijk konden ze maar over twee dingen eens worden. Alle soldaten moesten paraat staan om te vechten. En ze zouden snel een volgend congres houden, als dit vredesvoorstel werd afgewezen door Casbrita.
 

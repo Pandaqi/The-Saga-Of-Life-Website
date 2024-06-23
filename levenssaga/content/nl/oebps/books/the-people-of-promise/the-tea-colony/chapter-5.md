@@ -14,15 +14,19 @@ Toen Jefizon dacht dat Ajay hem niet kon vinden, zocht hij Fuja op. Verscholen i
 
 "Nee, dat kan hij niet. Dat weet je ook wel."
 
-"Dan stappen we allebei uit de rebellen."
+"Weet je nog wat ik zei? De wereld heeft totale, absolute vrijheid nodig. Ajay heeft de vrijheid ons te controleren, en ik heb de vrijheid om terug te vechten ... maar ik voel me te zwak om het te doen. Er is maar één optie: we verlaten allebei de rebellen."
 
-Fuja keek vol medelijden. "Ik moet wraak nemen voor mijn volk. En ik voel aan alles dat _jouw_ genie nodig is om dit nieuwe land op te bouwen. Gaan we dat weggooien?"
+"Als het je zo ongelukkig maakt," vroeg Fuja verbaasd, "waarom sta je dan nog steeds achter absolute vrijheid? Waarom bezit jij nog steeds slaven?"
+
+"Het gaat niet over wat mij nu gelukkig maakt, mijn goede vrouw. Het gaat over wat goed is voor de wereld!"
+
+Fuja keek vol medelijden. "Ik moet wraak nemen voor mijn volk. Jouw genie is nodig om dit nieuwe land op te bouwen. Gaan we dat weggooien?"
 
 Hij wilde Fuja nog veel langer vasthouden, maar knisperende voetstappen duwde hen uit elkaar. Het was inderdaad Ajay die met een lantaarn de bossen afspeurde. Alsof hij expres hiernaar op zoek was. Hij vond slechts Fuja, alleen.
 
-"Waar is Perkin?" vroeg ze, onschuldig. "Mocht hij ook niet mee van jou?"
+"Waar is Pikan?" vroeg ze, onschuldig.
 
-"Hij is een slaaf."
+"Opgesloten in de kar. Hij is een slaaf."
 
 "_Was_ een slaaf."
 
@@ -42,7 +46,9 @@ En Wasserbox verloor.
 
 Zijn troepen waren ongetraind, nog slaperig, schoten eerder zichzelf dan de tegenstander. Ze waren met veel te weinig; Casbrita had alles uit de kast getrokken.
 
-Hij moest terugtrekken, verder en verder verwijderd van zijn vrienden. Voor zijn ogen vielen soldaten die hij pas net uit hun bed had getrokken. Zijn troepen werden met hun rug tegen de rivier gedrukt. Als ze ooit wilden oversteken, zouden ze zich moeten omdraaien en Casbrita hen in de rug schieten. 
+Hij moest terugtrekken, verder en verder verwijderd van zijn vrienden. Voor zijn ogen vielen soldaten die hij pas net uit hun bed had getrokken. Pikan vocht heldhaftig, maar hij dwong de neushoorn veilig aan zijn rechterhand, bang nog meer goede soldaten te verliezen.
+
+Zijn troepen werden met hun rug tegen de rivier gedrukt. Als ze ooit wilden oversteken, zouden ze zich moeten omdraaien en Casbrita hen in de rug schieten. 
 
 Dit was niet hoe het hoorde te zijn. Waren zij niet de _goede_ kant? Waren zij geen helden die hun kolonies gingen bevrijden? 
 
@@ -52,7 +58,9 @@ Totdat het geluk ook deze keer bij hem kwam, geen seconde te laat.
 
 Een dikke mist hing over het land vandaag. Dik genoeg dat Wasserbox de rivier alsnog in het geheim kon oversteken. Eenmaal aan de andere kant, hadden ze juist veruit de beste positie. Ze stonden hoger en het stromende water was een soort schild. 
 
-Ze schoten de soldaten van Casbrita terug. En terwijl ze terugtrokken, door de heuvelige kolonie, ontdekte Casbrita wat het betekende als een heel continent wil dat je vertrekt. Achter elke hoek, in elk dorp, stonden dan mensen klaar om je weg te schieten. Hoe hard Casbrita ook terug rende, altijd kwamen ze wel nieuwe soldaten tegen, vaak opgetrommeld door Fracclin. Bardams probeerde het wel, maar was een stuk minder overtuigend dan zijn vriend. Bovendien leek het altijd alsof Fracclin vrienden en familie had op elke centimeter aarde.
+Ze schoten de soldaten van Casbrita terug. En terwijl ze terugtrokken, door de heuvelige kolonie, ontdekte Casbrita wat het betekende als een heel continent wil dat je vertrekt. Achter elke hoek, in elk dorp, stonden dan wezens klaar om je weg te schieten. 
+
+Hoe hard Casbrita ook terug rende, altijd kwamen ze wel nieuwe soldaten tegen, vaak opgetrommeld door Fracclin. Bardams probeerde het wel, maar was een stuk minder overtuigend dan zijn vriend. Bovendien leek het altijd alsof Fracclin vrienden en familie had op elke centimeter aarde.
 
 Totdat Casbrita geen andere keus had dan hélemaal terugtrekken tot Bosnot, waar het zichzelf ingroef en niemand meer binnenliet.
 
@@ -72,7 +80,7 @@ De aanwezigen keken naar elkaar. Niemand protesteerde al te hevig. Jefizon stak 
 
 Wasserbox keek gespannen toe. Zelfs Ajay wist niet of hij het daarmee eens was. Maar toen zelfs hij ermee instemde, ging het grootste deel van de zaal mee. Ze hadden net genoeg om het voorstel aan te nemen. Even later zetten tientallen dieren een officiële handtekening onder een officieel papiertje.
 
-En toen Wasserbox die zaal uitliep, was hij commandant van het hele Continentale Leger.
+Toen Wasserbox die zaal uitliep, was hij commandant van het hele Continentale Leger. En hij voelde alsof hij het niet verdiende, want hij had blunder na blunder gemaakt, te veel doden veroorzaakt. De anderen mochten hem vertrouwen; hij vertrouwde zichzelf niet.
 
 ___
 
@@ -80,7 +88,9 @@ Fuja schuilde in de bosjes. Jefizon nam het risico om vlak naast haar te verstop
 
 Als ze dit konden innemen, maakten ze weer en grote sprong vooruit.
 
-Bardams was niet mee, zoals altijd. Fracclin was op een andere missie gestuurd waarover hij niks mocht zeggen. Dus Ajay moest met tegenzin de ex-slaaf Perkin toevoegen aan deze gevoelige missie.
+Bardams was niet mee, zoals altijd. Fracclin was op een andere missie gestuurd waarover hij niks mocht zeggen. Dus Ajay moest met tegenzin de ex-slaaf Pikan toevoegen aan deze gevoelige missie.
+
+Ze deden hun gewoonlijke ritueel voor een groot gevecht: ze dronken allemaal warme thee. Ajay had het deze keer zowat _verplicht_, om hun zenuwen te bedwingen en _verdachte fouten_ te voorkomen. Jefizon had zijn beker net leeg, en Fuja gooide haar glas weg, want de tijd was daar.
 
 "Nu!" fluisterde hij.
 
@@ -121,6 +131,8 @@ Ajay grinnikte. "Jij laat je soldaten zo tegen je praten? Dan ben jij _zeker_ ni
 "We leiden _samen_. Hop, beweging, en snel."
 
 Met de veiligheid van honderd soldaten in hun rug, trok het team verder Fort Tondoga in. Ze vonden geen bewakers in de ontvangsthal. Ajays informatie over hoe slecht het was beveiligd leek correct. Binnen de kortste keren vonden ze tientallen moderne kanonnen en de kogels om ze te gebruiken. 
+
+Fuja voelde zich licht in haar hoofd, krampen in haar maag. Jefizon en Pikan voelden dezelfde pijntjes, maar de neushoorn fluisterde dat het vast kwam door hun blijdschap over de aanstaande overwinning.
 
 Fuja werd misschien overmoedig. Ze rende met Jefizon een stukje vooruit, op zoek naar nog meer wapens, toen ze een harde klap op haar achterhoofd voelde. 
 

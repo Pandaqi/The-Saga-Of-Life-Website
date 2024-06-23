@@ -6,7 +6,7 @@ De zak werd van Jefizons hoofd getrokken. De ruimte was grijs en verlicht door s
 
 "Wat is je naam?" zei een persoon die in het duister bleef.
 
-"Jefizon." Zijn stem trilde. Hij had geaccepteerd dat rebel zijn hem elk moment in één klap kon doden. Maar gevangen door de vijand leek hem vele malen erger. "Ik vertel je niks. Dood me maar."
+"Jefizon." Zijn stem trilde. Hij had geaccepteerd dat rebel zijn hem elk moment in één klap kon doden. Maar gevangen door de vijand leek hem vele malen erger. "Ik vertel je niks. Dood me dan maar, mijn slecht man."
 
 Hij hoopte dat het heldhaftig klonk. Zijn verhoorder lachte hardop en stapte dichterbij.
 
@@ -34,7 +34,7 @@ Samenwerken zou het hoogste verraad zijn. Hij zou Ajay kunnen verklappen, maar a
 
 Het beste was als ze allemaal zouden ontkennen. Ze zouden geldboetes en lichte straffen krijgen, maar vrijuit gaan. Maar hadden ze allemaal die kracht van geest? Er hoefde maar één van hen zijn mond voorbij te praten en alle anderen hingen morgen aan de galg.
 
-En Perkin? Hoe goed kenden ze hem nou eigenlijk?
+En Pikan? Hoe goed kenden ze hem nou eigenlijk? Konden ze een ex-slaaf vertrouwen? Jefizon zag langzaam de redenen voor Ajay's eindeloze wantrouwen. Een reden tegen absolute vrijheid.
 
 Toen de kaars uitging, al het kaarsvet verbrand, moest Jefizon zijn antwoord geven.
 
@@ -48,7 +48,7 @@ Zolang ze nog haar geboortegrond onder haar voeten had, voelde ze nog kracht en 
 
 Totdat de verhoorder haar een dilemma voorschotelde. Tegenwerken en ze zouden haar verbannen van de kolonies, teruggezet naar "haar volk" achter de bergen. Ook al was dat een hele andere stam inboorlingen die ze niet kende en haar waarschijnlijk niet wilden. In de ogen van Casbrita waren ze allemaal hetzelfde ras.
 
-Samenwerken en ze ging vrijuit. Ze zou zelfs officieel burger van Casbrita kunnen worden. Maar haar vrienden die tegenwerkten zouden sterven.
+Samenwerken en haar vrienden verraden, en ze ging vrijuit. Ze zou zelfs officieel burger van Casbrita kunnen worden. Maar haar vrienden die tegenwerkten zouden sterven.
 
 Ajay zou ze niet missen. Alle andere wel. De gedachte dat Jefizon hetzelfde dilemma kreeg en nu moest afwegen hoeveel ze van elkaar hielden ...
 
@@ -58,7 +58,9 @@ Ze kreeg bedenktijd totdat de kaars op was. Maar zodra haar huilbui voorbij was,
 
 ___
 
-Perkin had vaak genoeg mishandeling meegemaakt van wildvreemden. Hij keek verdoofd en vooral geïrriteerd naar zijn nieuwe ontvoerders. Hij vocht niet tegen de touwen, maar wist toevallig welke knoop ze hadden gebruikt en dat hij die wel ongezien los kon maken. Hij moest het gesprek rekken.
+Pikan had vaak genoeg mishandeling meegemaakt van wildvreemden. Hij keek verdoofd en vooral geïrriteerd naar zijn nieuwe ontvoerders. Hij zat niet op een stoel, natuurlijk, maar stond op eigen poten en was vastgemaakt aan de muur.
+
+Hij vocht niet tegen de touwen, maar wist toevallig welke knoop ze hadden gebruikt en dat hij die wel ongezien kon losmaken. Hij moest het gesprek rekken.
 
 Hij kreeg een dilemma. Tegenwerken en hij werd weer slaaf. Samenwerken en hij zou vrijuit gaan.
 
@@ -66,25 +68,29 @@ Maar hij kreeg er nog een stukje bij, speciaal voor hem.
 
 "We hebben gehoord hoe het Continentale Leger met slaven omgaat," zei de verhoorder. "Ze willen jullie wel om te vechten. Maar als het vechten voorbij is, moeten jullie vooral weer terug naar het landgoed om slaaf te zijn."
 
-Hij leunde voorover, waardoor Perkin zijn neus kon zien, maar niet zijn gezicht. Herkende hij die neus?
+Hij leunde voorover, waardoor Pikan zijn neus kon zien, maar niet zijn gezicht. Herkende hij die neus?
 
-"De kolonies gaan jullie nooit als volwaardige dieren zien, Perkin. Hoe hard je ook voor hen vecht, hoeveel missies je ook voor hen doet."
+"De kolonies gaan jullie nooit als volwaardige dieren zien, Pikan. Hoe hard je ook voor hen vecht, hoeveel missies je ook voor hen doet."
 
 "Dus ik moet overstappen naar de onderdrukkers?"
 
 "Je hebt een keuze. Als je met ons samenwerkt, maken we jou een hoge generaal in ons leger. Jij mag je eigen leger vormen van slaven, die, zodra de oorlog voorbij is, allemaal hun vrijheid zullen krijgen. Casbrita geeft wél om jullie, Elwar niet."
 
-Perkins mond werd een streep. Hij keek weg, naar de grijze muur met afgebrokkeld steen. Op meerdere plekken in het fort klonken voetstappen en werden zware voorwerpen verschoven. Dankzij Benni Arrold hadden ze toch uiteindelijk met flink veel soldaten aangevallen? Hoe hadden ze zo hard kunnen verliezen?
+Pikans mond werd een streep. Hij keek weg, naar de grijze muur met afgebrokkeld steen. Op meerdere plekken in het fort klonken voetstappen en werden zware voorwerpen verschoven. Dankzij Benni Arrold hadden ze toch uiteindelijk met flink veel soldaten aangevallen? Hoe hadden ze zo hard kunnen verliezen?
 
 Tenzij ...
 
-Hij leunde plots voorwaarts en _trok_ zijn verhoorder in het kaarslicht. Arrold zelf. Hij worstelde zich los en bond Perkin extra stevig vast.
+Hij leunde plots voorwaarts en _trok_ zijn verhoorder in het kaarslicht. 
+
+Arrold zelf. 
+
+Hij worstelde zich los en bond Pikan extra stevig vast.
 
 "Dus wat is je antwoord?" vroeg Arrold. 
 
-Perkin wist dat er geen beste oplossing was. Hij kon voor zichzelf kiezen, of voor de groep, dát was de echte keuze. Als hij samenwerkte, koos hij zichzelf maar verdoemde iedereen die tegen had gewerkt. Als hij tegenwerkte, koos hij de groep maar verpestte de rest van zijn leven.
+Pikan wist dat er geen beste oplossing was. Hij kon voor zichzelf kiezen, of voor de groep, dát was de echte keuze. Als hij samenwerkte, koos hij zichzelf maar verdoemde iedereen die tegen had gewerkt. Als hij tegenwerkte, koos hij de groep maar verpestte de rest van zijn leven.
 
-Ajay had hem altijd bekeken en behandeld als minderwaardige slaaf. Fuja was aardig, maar Jefizon wilde hem ook niet graag in de buurt. Zelfs Wasserbox, de moraalridder van een generaal, had zelf nog slaven en zou graag zien dat Perkin zijn aanplant ging verbouwen. Voor zo min mogelijk geld, natuurlijk.
+Ajay had hem altijd bekeken en behandeld als minderwaardige slaaf. Fuja was aardig, maar Jefizon wilde hem ook niet graag in de buurt. Zelfs Wasserbox, de moraalridder van een generaal, had zelf nog slaven en zou graag zien dat Pikan zijn aanplant ging verbouwen. Voor zo min mogelijk geld, natuurlijk.
 
 Maar dan had je Bardams en Fracclin. Goede vrienden van de rest. Ze vertrouwden elkaar en hadden samen al heel wat stappen gezet richting vrijheid. Zonder de _Kinderen van Vrijheid_ waren de kolonies misschien nog steeds verdeeld.
 
@@ -92,17 +98,17 @@ Was het mogelijk dat iemand zowel grote dingen deed als grote fouten maakte? Was
 
 "Kan ik officiële bevestiging krijgen dat Casbrita slaven goed zal verzorgen en vrij zal laten? Een brief van de koning, door hem ondertekend?"
 
-Arrold grinnikte en vond het papier in een rommelige stapel. Perkin had nooit leren lezen, maar het zag er koninklijk uit. Met stempel en alles.
+Arrold grinnikte en vond het papier in een rommelige stapel. Pikan had nooit hun taal leren lezen, maar het zag er koninklijk uit. Met stempel en alles.
 
-Hij hield het papier trillend in zijn poten, zijn ogen waterig, alsof ze het extra moeilijk wilden maken om de tekst te begrijpen. 
+Hij bekeek het formulier lange tijd. Zijn ogen werden waterig, alsof ze het extra moeilijk wilden maken om de tekst te begrijpen. 
 
-De kaars flakkerde, bijna opgebrand. De deur van zijn kamer ging al open, alsof ze zo snel mogelijk wilden inspelen op wat Perkin te zeggen had.
+De kaars flakkerde, bijna opgebrand. De deur van zijn kamer ging al open, alsof ze zo snel mogelijk wilden inspelen op wat Pikan te zeggen had.
 
 Maar wat hij te zeggen had bleek toch een verrassing.
 
-"Mijn echte naam is Perris en ik ben de Halfgod van Geluk. Ik zal met jullie samenwerken als jullie je belofte nakomen om beter te zorgen voor slaven en armen, om alleen te beschermen en niet te vernielen, om de _goede_ kant te zijn in deze oorlog."
+"Mijn echte naam is Beeris en ik ben de Halfgod van Geluk. Ik zal met jullie samenwerken als jullie je belofte nakomen om beter te zorgen voor slaven en armen, om alleen te beschermen en niet te vernielen, om de _goede_ kant te zijn in deze oorlog."
 
-Hij had zichzelf bevrijd en stond op. Arrold struikelde achterover en rende angstig de kamer uit.
+Hij had zichzelf bevrijd. Arrold struikelde achterover en rende angstig de kamer uit.
 
 Was dat te veel? Het zal wel. Met zijn _geluksmagie_ kon hij nu de anderen bevrijden voordat hen iets werd aangedaan. En dan---
 
@@ -110,4 +116,4 @@ Arrolds soldaten kwamen in groten getale op hem af. Ze overmeesterden hem en goo
 
 "Laat me los! Ik zei toch samen te werken! Jullie hadden het---"
 
-Hij voelde lege lucht onder hem. Even later landde hij hard op een nieuwe ondergrond.
+Hij voelde lege lucht onder hem. Even later landde hij hard op een nieuwe ondergrond, en had het geluk dat geen enkel bot brak.

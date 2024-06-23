@@ -22,17 +22,21 @@ Chonib trok haar wenkbrauw op. "Wat deed je al die andere keren voor mijn deur? 
 
 Enra werd rood. Zijn vingers wriemelden met de houten vechtstok die hij meedroeg van training. Hij wilde achteruit stappen en snel de kamer uitrennen---hij wilde ook heel graag blijven.
 
-Was het altijd al zo warm in deze kamer? Hij leek wel te _gloeien_. Chonib moest opnieuw lachen en stapte dichterbij.
+Was het altijd al zo warm in deze kamer? Hij leek wel te _gloeien_. 
 
-"Tja, als dat nodig is om jou in de kamer te krijgen," zei Chonib glimlachend. "Dan zet ik elke avond wel een nieuwe vaas op een onhandige plek."
+Chonib stapte dichterbij.
+
+"Tja, als dat nodig is om jou in de kamer te krijgen," zei ze. "Dan zet ik elke avond wel een nieuwe vaas op een onhandige plek."
 
 Enra fronste. "Waarom---oh, heb je iets tegen vazen?"
 
 Chonib keerde terug naar haar zitkussen om het schilderij definitief af te maken. "De Maan fluistert vanavond dat ik een groots persoon zou ontmoeten. Iemand die geweldige dingen zal verrichten. Heb ik mij vergist? Heb ik de Maan verkeerd gelezen?"
 
-Ze was ... raar. Mooi, lief, en _raar_. Hij wapperde zijn poten en even later een stapel papieren, maar zijn gloeiende lichaam koelde niet af. "Met alle respect, uwe niet-hoogheid, ik denk niet dat de Maan iets kan zeggen. En als het fluistert, kan je het van zo ver weg toch niet horen."
+Ze was ... raar. Mooi, lief, en _raar_. Hij wapperde zijn poten voor zijn gezicht, en even later zelfs een stapel papieren, maar zijn gloeiende lichaam koelde niet af. 
 
-Chonib schudde haar hoofd en mompelde tegen haarzelf. Ze had één verkeerde penceelstreek gezet. "Oh. Ah. Je bent meer zo iemand die van de Zon houdt, zeker?"
+"Met alle respect, uwe niet-hoogheid, ik denk niet dat de Maan iets kan zeggen. En als het fluistert, kan je het van zo ver weg toch niet horen. Het is onlogisch."
+
+Chonib schudde haar hele lichaam. Ze had één verkeerde penceelstreek gezet. "Oh. Ah. Je bent meer zo iemand die van de Zon houdt, zeker?"
 
 "Niet echt," zei Enra. "Heb het al warm zat van mezelf." 
 
@@ -90,11 +94,21 @@ Ze begon de Maan af te lezen. Otto stond naast haar, opgerold zoals alleen een s
 
 "Wie van een heel bos zijn achtertuin maakt," zei ze, "maakt zich de hele dag zorgen over indringers langs de gigantische grens."
 
-Otto stond versteld. Hij keek plotseling naar de deuropening en glibberde ernaartoe. Enra stopte met ademhalen en perste zijn lichaam nog dieper in het steen.
+Otto stond versteld. Hij keek plotseling naar de deuropening en glibberde ernaartoe. 
+
+Enra stopte met ademhalen en perste zijn lichaam nog dieper in het steen.
 
 Otto sloot de deur met een klap. De stemmen werden doffer, slechter te verstaan. "Er is iets niet goed in je hoofd. Daarom vergeef ik deze uitspraken. Iedereen pakt meer als ze meer kunnen krijgen, jij ook als je ... normaal was."
 
-Chonib zuchtte. "Er is één ding dat je kunt doen. Maak kunst belangrijk. Betaal je onderdanen goed voor het maken van mooie gebouwen, inspirerende gedichten, kleurrijke schilderijen. Zoals die handelaars jou fors betalen voor mijn schilderijen. Als de andere grote rijken de waarde van kunst en creativiteit inzien ..."
+Chonib zuchtte. "Er is één ding dat je kunt doen, terwijl je nog nieuwe wetten bedenkt en uitzoekt wat het rijk moet worden."
+
+"Je doet alsof het makkelijk is," siste de slang. "Al mijn adviseurs, mijn zonen, _iedereen_ vertelt me dat ik gek ben en dat we dingen moeten blijven doen zoals we altijd deden. Dat het oneerlijk is voor hen die volgens de oude regels leefden. Zij hadden lage belasting, en nu zijn ze hoog! Of andersom."
+
+"Het is oneerlijk," antwoordde ze. "Maakt dat het slecht?"
+
+Otto keerde terug naar zijn opgerolde houding.
+
+"Maak kunst en cultuur belangrijk. Betaal je onderdanen goed voor het maken van mooie gebouwen, inspirerende gedichten, kleurrijke schilderijen. Zoals die handelaars jou fors betalen voor mijn schilderijen. Als de andere grote rijken de waarde van kunst en creativiteit inzien ..."
 
 "Dat is alles?" Otto klonk alsof hij zijn geluk niet op kon. "Voor je hele leven trouw advies?"
 
@@ -118,8 +132,12 @@ Enra kon niet langer verstopt blijven. De muur liet hem los en hij viel met pijn
 
 Zodra het paleis ontwaakte, gaf Otto nog meer bevelen. "Bouw ook een paar prachtige moskeeën en huur koninklijke dichters in."
 
-Chonib stapte even uit haar kamer en glimlachte naar Enra. Op dat moment wilde hij niets liever dan bij haar zijn en tegen haar warme berenvacht aanhangen, maar Chonib vond het niet verstandig en fluisterde dat hij weg moest. Ze had gelijk. Ze waren een gevaar voor elkaar.
+Chonib stapte even uit haar kamer en glimlachte naar Enra. Op dat moment wilde hij niets liever dan bij haar zijn en tegen haar warme berenvacht aanhangen, maar Chonib vond het niet verstandig en fluisterde dat hij weg moest. 
 
-Een maand later kregen ze te horen dat Kristinapel was gevallen en hernoemd naar Isanmoel. Een verzonnen woord gebaseerd op het Duifs voor "ter ere van mijn maan". En met het verlies van de hoofdstad was heel Traferia in stukken gebarsten. Het volgende rijk verdwenen, opgeslokt door het groeiende Ottojon.
+Ze had gelijk. Ze waren een gevaar voor elkaar---en een _afleiding_. Alle ogen op wraak jegens Otto.
 
-Enra besloot op dat moment dat het genoeg was geweest. Hij maakte de andere jongens wakker en vertelde zijn plan.
+Een maand later kregen ze te horen dat Kristinapel was gevallen en hernoemd naar Isanmoel. Een verzonnen woord gebaseerd op het Duifs voor "ter ere van mijn maan". En met het verlies van de hoofdstad was heel Traferia in stukken gebarsten, zoals die vaas die Enra had vernield en waarvan hij nog altijd één scherf bij zich droeg. 
+
+Het volgende rijk verdwenen, opgeslokt door het groeiende Ottojon.
+
+Op dat moment, terwijl Enra de vernieling van zijn thuisland inbeeldde, besloot hij dat het genoeg was geweest. Hij maakte de andere jongens wakker en vertelde zijn plan.

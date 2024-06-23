@@ -2,7 +2,9 @@
 title: Er Is Een Licht
 weight: 8
 ---
-Het Devirma programma had inmiddels een eigen gebouw gekregen. Hoe langer een jongen bij het leger hoorde, hoe hoger de afdeling waarop ze sliepen. Enra stond nu bij de ingang op de begane grond zijn eigen twijfels weg te jagen.
+Het Devirma programma had inmiddels een eigen gebouw gekregen. Hoe langer een jongen bij het leger hoorde, hoe hoger de afdeling waarop ze sliepen. 
+
+Enra stond nu bij de ingang op de begane grond zijn eigen twijfels te verjagen.
 
 Hij was de _baas_ van Devirma geworden. Hij hoefde niemand over te halen, hij kon al die jongens dwingen om samen met hem vannacht de macht over te nemen. Het leger was van hem, en zoals hem nu kristalhelder was, daarmee ook praktisch de macht over Ottojon. Hij en Chonib. Alleen Otto en zijn prinsen moesten nog voor de vorm van die positie gehaald.
 
@@ -26,15 +28,15 @@ Toen hij bij Otto's slaapkamer kwam, stonden de deuren wagenwijd open en waren g
 
 Hij keek door het raam. Otto lag in de tuin, alleen, alsof hij iemand verwachtte.
 
-Enra zag tot zijn genoegen dat steeds meer Devirma toch bij hem aansloten. Samen liepen ze naar beneden en ontmoetten Otto in de prachtige tuinen.
+Enra zag tot zijn genoegen dat steeds meer Devirma toch bij hem aansloten. Samen liepen ze naar beneden en ontmoetten Otto in de prachtige tuinen, die hij de laatste jaren toch echt zijn thuis was gaan noemen.
 
-Hij keek op met luie ogen, alsof ze hem hadden wakker gemaakt.
+De slang keek op met luie ogen, alsof ze hem hadden wakker gemaakt.
 
 "Chonib zei dat de Maan een belangrijke ontmoeting voorspelde," zei Otto. "Eentje die ik naakt in de tuinen moest ontvangen. Dat ik moest luisteren naar de wijze woorden die zouden worden gesproken, om dood en verderf te voorkomen." Hij spuugde op de grond. "Normaal gesproken zou ik zulk advies uitlachen en in de wind slaan. Maar als mijn maantje het zegt ..."
 
-Enra gaf met handgebaren aan dat ze Otto aan alle kanten moesten omringen. Hij voelde de brandende ogen van Devirma jongens die vanuit hun raampje meekeken, op veilige afstand.
+Enra gaf met handgebaren aan dat ze Otto aan alle kanten moesten omringen. Hij voelde de brandende ogen van Devirma jongens die vanuit hun raampje meekeken, op veilige afstand. Zijn beste vriend, de neushoorn met het littekengezicht, stond naast hem en gaf hem vernieuwde kracht.
 
-"Beste sultan," begon Enra met gespeelde kalmte. "Toen ik nog een jochie was pakte je mijn leven en mijn lichaam af. Ik ben bang dat ik vannacht moet reageren met dezelfde---"
+"Beste sultan," zei Enra met gespeelde kalmte. "Toen ik nog een jochie was pakte je mijn leven en mijn lichaam af. Ik ben bang dat ik vannacht moet reageren met dezelfde---"
 
 Een _pijl_ zoefde door de nachtlucht. Otto draaide maar net op tijd opzij. Uit automatisme speurde het leger de ramen af naar de boosdoener, en Enra had zelfs de neiging om beschermend voor Otto te staan. Dit was niet een van zijn jongens. Maar wie---
 
@@ -76,7 +78,7 @@ Hij spuugde naar Enra en Chonib. "Jullie hebben me altijd aan het lijntje gehoud
 
 Hij keek de soldaten één voor één aan. "Zien jullie wat hier vannacht gebeurt? Willen jullie zo'n laffe verrader aan de macht hebben?"
 
-"Om eerlijk te zijn," zei de olifant, een van de hoogste legerofficieren onder Enra. "Willen we gewoon naar huis."
+"Om eerlijk te zijn," zei de neushoorn. "Willen we gewoon naar huis."
 
 "Ottojon _is_ jullie thuis!"
 
@@ -90,9 +92,11 @@ Nu riepen ze allemaal om genade in precies de juiste woorden. Alsof het was inge
 
 Maar datzelfde kon hij zeggen van de andere twee zoons.
 
-Totdat hij de waarheid realiseerde. Hij keek de drie slangen woedend aan. "Jullie hebben _allemaal_ het gerucht verspreid dat Otto dood was. Jullie azen _allemaal_ evenveel op zijn plekje."
+Totdat hij de waarheid realiseerde. Hij keek de drie slangen woedend aan. 
 
-Voordat ze een weerwoord konden geven waren de prinsen ook tegen de grond gedrukt door de macht van het halve leger.
+"Jullie hebben _allemaal_ het gerucht verspreid dat Otto dood was! Jullie azen _allemaal_ evenveel op zijn plekje. De enige reden dat het nooit gebeurde, was omdat Otto de wet afkapte dat een van jullie automatisch zijn troon zou erven als hij stierf!"
+
+Voordat ze een weerwoord konden geven waren de niet-meer-prinsen ook tegen de grond gedrukt door de macht van het halve leger.
 
 "Sluit ze allemaal op," zei Enra. "En ik meen het. Wie naar huis wil, gaat naar huis. Wie overblijft bespreekt morgen met mij hoe het verder moet met Ottojon. Voor nu is mijn enige bevel dat het Devirma programma direct is afgeschaft."
 
@@ -104,7 +108,7 @@ Daarop reageerden de meeste soldaten met een glimlach of een kreet. De gehele ko
 
 "_Waarom wil je dit?_" fluisterde Enra met kaken geklemd. "Ik kan je niks geven. Ik ben een halfgod die zijn eigen krachten niet eens kent. Ik ..." 
 
-Hij stopte met fluisteren en duwde zijn neus tegen de hare. "Ik kan je geen kinderen geven! De enige reden van de natuur om samen te zijn! Dus laat me gaan!"
+Hij stopte met fluisteren en duwde zijn neus tegen de hare. "Ik kan je geen kinderen geven! De enige logische reden van de natuur om samen te zijn! Dus laat me gaan!"
 
 "_Maakt me niks uit!_"
 
@@ -114,4 +118,6 @@ Hij stopte met fluisteren en duwde zijn neus tegen de hare. "Ik kan je geen kind
 
 "Het is niet logisch," mompelde hij. Hij wist ook heel zeker dat het alles was dat hij ooit wilde.
 
-Chonib slenterde weg. "Er is een licht ..."
+Chonib slenterde weg. 
+
+"Er is een licht ..."

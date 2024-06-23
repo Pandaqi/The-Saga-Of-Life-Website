@@ -74,9 +74,9 @@ Chef's shortened right paw, with a stump at the end, closed the recipe book. Dus
 
 An odd list. But Chef's mind, filled with cooking experience, immediately felt the recipe was _right_. Bumpbarachts were often used to give something a nicer smell or taste. The Dinodear soothed pain and helped heal wounds. The Turnbacktulip turned back viruses and the Fishfool strengthened bodily fluids, such as blood.
 
-It sounded like a good medicine. Unfortunately, all those ingredients were very hard to ged.
+It sounded like a good medicine. Unfortunately, all those ingredients were very hard to get.
 
-Minneka stood next to her wagon and defiantly looked inside. "Let me guess, you _have_ to travel by wagon?"
+Minneka stood next to her wagon and looked inside defiantly. "Let me guess, you _have_ to travel by wagon?"
 
 "Of course! Just wait, my sweet Wagoney is much faster than you think!"
 

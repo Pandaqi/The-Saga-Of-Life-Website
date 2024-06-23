@@ -2,7 +2,7 @@
 title: Kinderen van Vrijheid
 weight: 2
 ---
-Toen Jefizon de prijs van zijn bestelde boeken hoorde, krijste hij alles bij elkaar. "Ach man, van die prijs per boek kon je vroeger zowat een heel huis kopen!"
+Toen Jefizon de prijs van zijn bestelde boeken hoorde, krijste hij alles bij elkaar. "Ach goede man, van die prijs per boek kon je vroeger zowat een heel huis kopen!"
 
 "Niet mijn keuze," zei de winkelier. "Volgende nieuwe wet van Casbrita."
 
@@ -10,11 +10,13 @@ Jefizon fronste. "Waarom zouden ze boeken extreem duur maken? Wat winnen ze erme
 
 "Niet boeken. Alles op papier moet nu een koninklijke stempel krijgen, en daar betaal je dan voor."
 
-"Nou, dat betaal ik dus _niet_." Hij kon het wel betalen. Maar hij deed het niet uit principe. Geen cent voor die kolonisten van Casbrita.
+"Nou, mijn goede man, dat betaal ik dus _niet_." 
+
+Hij kon het wel betalen. Maar hij deed het niet uit principe. Geen cent voor die kolonisten van Casbrita.
 
 Sinds Casbrita de oorlog met Frambozi had gewonnen---na zeven jaar vechten---was het blut. Ze hadden vrijwel heel Elwar in bezit, maar niet het geld om nog iets anders te doen. Dus meer en meer belastingen werden op het continent losgelaten om de schatkist weer op te vullen.
 
-Maar aan het ergste werd Jefizon herinnerd toen hij naar buiten stapte. Casbrita besteedde wél miljoenen per jaar aan de soldaten die zinloos door hun steden liepen. Hij kon geen stap zetten of iemand met een musketgeweer liep hem bijna omver. Je kon geen evenement bijwonen of Casbrita vond dat het duizend soldaten aanwezig moest hebben.
+Toen Jefizon naar buiten stapte, werd hij herinnerd aan iets dat nog erger was. Casbrita besteedde wél miljoenen per jaar aan de soldaten die zinloos door hun steden liepen. Hij kon geen stap zetten of iemand met een musketgeweer liep hem bijna omver. Hij kon geen evenement bijwonen zonder te worden omsingeld door duizend Casbrita soldaten "voor hun eigen veiligheid".
 
 En waarvoor? Niemand ging ze nog aanvallen. Iedereen was weg uit Elwar; alleen Casbrita was over.
 
@@ -28,7 +30,9 @@ Jefizon dook door de halfopen voordeur van een nietszeggend gebouw. Daar stapte 
 
 "Ze hebben ons verdedigd tegen de Frambozi."
 
-Ajay leunde voorover; er gebeurde weer wat op het plein. "De hele kust is van Casbrita. Geen enkel ander land kan hier nog kolonies stichten. Dus tegen wie verdedigen ze ons nu? Hè? Niemand. Al die soldaten die hier rondlopen zijn om _ons_ neer te slaan als we durven een revolutie te starten."
+Ajay leunde voorover; er gebeurde weer wat op het plein. 
+
+"De hele kust is van Casbrita. Geen enkel ander land kan hier nog kolonies stichten. Dus tegen wie verdedigen ze ons nu? Hè? Niemand. Al die soldaten die hier rondlopen zijn om _ons_ neer te slaan als we durven een revolutie te starten."
 
 Jefizon keek niet op van zijn boek. "De hoeveelheid soldaten is helemaal niet zo hoog. Ze zouden honderd keer zoveel soldaten moeten hebben als ze ons echt wilden onderdrukken."
 
@@ -36,9 +40,11 @@ Ajay stond op en leunde tegen het raam. "En daarom moeten we _nu_ toeslaan."
 
 Een worstelende eekhoorn werd het plein op gesleurd door een grote vrouwelijke aap. Ze riep naar iedereen die het wilde horen.
 
-"Deze hier wilde mijn belasting komen innen," schreeuwde ze. Zonder te kijken, alsof de eekhoorn niks woog, duwde ze hem alle kanten op. "Deze hier koopt al maandenlang goederen van de Britten! Wat zeggen wij daartegen?"
+"Deze hier wilde mijn belasting komen innen," schreeuwde ze. Zonder te kijken, alsof de eekhoorn niks woog, duwde ze hem alle kanten op. "Deze hier koopt al maandenlang goederen van de Casbrita! Wat zeggen wij daartegen?"
 
-Als geen soldaten in de buurt waren, durfde men het wel te zeggen. "Nee! Wij zeggen _nee_!"
+Als geen soldaten in de buurt waren, durfde men het wel te zeggen. 
+
+"Nee! Wij zeggen _nee_!"
 
 De eekhoorn werd vastgebonden aan een paal. Een aantal omstanders haalden tonnen tevoorschijn en gooiden een deel van de inhoud op hem. De ene ton hield pek---een zwart kleverig goedje---en de andere ton veren. Toen de eekhoorn van het plein werd gehaald, was hij zo vastgeplakt dat hij niet meer kon bewegen.
 
@@ -46,17 +52,19 @@ Ajay glimlachte. "Geloof mij, niemand zal ooit die papierbelasting betalen."
 
 "We hebben papier nog steeds nodig," zei Jefizon teleurgesteld. "_Ik_ heb boeken nodig."
 
-Ajay draaide om en keek hem serieus aan. Zonder twijfel zei hij: "dan zal jij ook een keer onder de veren komen te zitten, denk je niet?"
+Ajay draaide om en keek hem serieus aan. "Dan zal jij ook een keer onder de veren komen te zitten, denk je niet?"
 
-"Dat is bizar. Ik ben de kern van onze opstand! Na alles wat ik heb gedaan? Eén keer belasting betalen aan de Britten en je gooit me weg?"
+"Dat is bizar. Ik ben de kern van onze opstand! Na alles wat ik heb gedaan? Eén keer belasting betalen aan de Casbrita en je gooit me weg?"
 
-Ajay knikte, zijn gezicht hard. "We gaan niet winnen van onze onderdrukkers zonder harde beslissingen."
+Ajay knikte, zijn gezicht hard. "Overwinningen eisen harde beslissingen."
 
 Jefizon schudde zijn hoofd. "Dat is slechts de beste manier om alle rebellen weg te jagen."
 
-Steeds meer dieren kwamen binnen. Dit was de ontmoetingsplek van de _Kinderen van Vrijheid_, maar inmiddels hoorde de hele wijk daarbij en was het meer een café. Een boycot werkte alleen als _iedereen_ meedeed. Als ze allemaal weigerden om thee van Casbrita te drinken, zouden ze er geen cent aan verdienen en moesten ze wel hun domme belastingen weghalen. Vooralsnog was dit allemaal haalbaar omdat ze tonnen vol Laaglandse thee de kolonies in smokkelden.
+Steeds meer dieren kwamen binnen. Dit was de ontmoetingsplek van de _Kinderen van Vrijheid_, maar inmiddels hoorde de hele wijk daarbij en was het meer een café. Een boycot werkte alleen als _iedereen_ meedeed. Als ze allemaal weigerden om thee van Casbrita te drinken, zouden ze er geen cent aan verdienen en moesten ze wel hun domme belastingen weghalen. 
 
-Dus de tafel in het midden werd vrijgemaakt en opgevuld met eindeloze rijen papieren. Papieren die vertelden welke goederen ze nu allemaal moesten boycotten, en welke inwoners zich daar wel of niet aan hielden. Het grootste deel waren vinkjes. De niet-vinkjes zouden vanavond nog ... bezoek krijgen.
+Maar ze gingen niet leven zonder thee, natuurlijk! Dat zou waanzin zijn! Vooralsnog vulden ze dit gat door tonnen vol Laaglandse thee de kolonies in te smokkelen. 
+
+De tafel in het midden werd vrijgemaakt en opgevuld met eindeloze rijen papieren. Papieren die vertelden welke goederen ze nu allemaal moesten boycotten, en welke inwoners zich daar wel of niet aan hielden. Het grootste deel waren vinkjes. De niet-vinkjes zouden vanavond nog ... bezoek krijgen.
 
 Wie niet al te lang keek, zou denken dat deze wijk zijn eigen kleine regering en politie had.
 
@@ -78,7 +86,7 @@ Ajay liep langs hem en greep hardhandig de inboorling. De meisjesaap trilde en v
 
 "Onderschat Fuja niet. De beste spion die ik ken. Ik heb jullie gevonden dankzij haar." Hij leunde voorover en greep Ajays pols ruw vast. Hij sprak zacht maar duidelijk. "Dus als je haar nu niet loslaat, smijt ik je door het raam."
 
-Ajay bevroor. Hij liet haar los en stampte terug naar zijn plek bij het raam. "Heeft iemand je gevolgd? Zo'n inboorling valt op. Je hebt vast niet gelet op---"
+Ajay bevroor. Hij liet haar los en stampte terug naar zijn plek bij het raam. "Heeft iemand je gevolgd? Dat stank van zo'n inboorling valt op. Je hebt vast niet gelet op---"
 
 "Ik heb erop gelet. Ik ben ook bekend met het Casbrita Parlement. Jullie denken misschien te winnen, maar zij zullen nooit opgeven. Hoe meer je boycot, hoe meer controle zij zullen pakken. Jullie leven nu zal _hemelse vrijheid_ lijken bij hoe de kolonies er over een jaar bijstaan."
 
@@ -98,13 +106,17 @@ Bardams' groet aan de rest was een kort opgestoken hand. Toen hij Wasserbox zag,
 
 "Prima!? Ben ik de enige hier die---"
 
-Ook Bardams had iemand meegenomen. Een ... slaaf.
+Ook Bardams had iemand meegenomen. Een _slaaf_.
 
 Een schok ging door de ruimte. Ineens was Wasserbox de persoon waarbij iedereen wilde zijn, en anders hadden ze wel iets te doen op de bovenverdieping. Enkele kaarsen gingen uit door de kreten van verbazing.
 
 Deze aap had een vachtkleur zo donker dat hij bijna wegviel in de schaduwen. De andere apen, verspreid over de wereld, verloren langzaam hun vacht en kleurden steeds lichter. Daarom zagen zij zichzelf als verder ontwikkeld. Jefizon had genoeg boeken gelezen om te weten dat het juist achteruitgang was. Ze waren slecht beschut en hadden geen natuurlijke vacht om zichzelf warm te houden.
 
-Maar dieren vertelden zichzelf wat ze wilden, en deze donkere aap met ruige vacht werd gezien als niets meer dan een machine om voor je te laten werken.
+Deze neushoorn had littekens en brandwonden overal, waardoor hij de indruk gaf van een monster dat klaarstond om aan te vallen. Maar hij was gespierd en hield zichzelf sterk, als een wezen dat aangeeft dat je niet met hen moet spotten. Een litteken liep over zijn gezicht en ontweek rakelings zijn ogen, die iedereen in de kamer scherp aankeken.
+
+En hij had geen ketens om! Zijn poten en hoorn waren compleet vrij! Het enige dat hem als slaaf markeerde was zijn grijze huid en gebrek aan vacht, een overduidelijk signaal dat ze minder ver ontwikkeld waren en mindere intelligentie hadden.
+
+Jefizon wist dat dit niet waar was. Hun huid was juist taaier en vacht kwijtraken als je het niet nodig had maakte je meer efficiënt. Maar dieren vertelden zichzelf wat ze wilden, en dus werd de neushoorn gezien als niets meer dan een machine om voor je te laten werken.
 
 "Vertel me je alsjeblieft dat dit een grap is," krijste Ajay.
 
@@ -114,7 +126,7 @@ Maar dieren vertelden zichzelf wat ze wilden, en deze donkere aap met ruige vach
 
 "Je zou goede vechters afslaan op basis van vooroordeel?" zei Bardams scherp.
 
-"Bardams heeft gelijk," zei Wasserbox, nu al op zijn gemak in het café. Misschien iets té veel op zijn gemak, vonden Ajay en Jefizon. "Vertel slaven dat ze voor _ons_ kunnen vechten. Je zou gratis duizenden soldaten krijgen, die al bekend zijn met commando's opvolgen."
+"Bardams heeft gelijk," zei Wasserbox, nu al op zijn gemak in het café. Misschien iets té veel op zijn gemak, vonden zelfs Jefizon. "Vertel slaven dat ze voor _ons_ kunnen vechten. Je zou gratis duizenden soldaten krijgen, die al bekend zijn met commando's opvolgen."
 
 Ajay sloot de deur en deed hem in het slot, alsof hij bang was dat er anders nog vijf apen binnenkwamen met "verrassingen".
 
