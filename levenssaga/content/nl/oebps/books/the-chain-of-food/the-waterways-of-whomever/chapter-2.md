@@ -27,7 +27,7 @@ Paunet sloop dichterbij. Niet omdat hij bang was voor de president---hij was pra
 
 De president schudde zijn hoofd, waarbij zijn oren flapperden als haren in de wind. "Waarom doe je dit? Je hebt een veilig leven hier op Barbala. Geld, status, vrouw, kinderen. Heb je überhaupt ooit op een schip gestaan?"
 
-"Nee! En dát maakt het zo spannend! Ik, eh, ga ook een bemanning nodig hebben. Mensen die weten hoe je een zwaard aanzet."
+"Nee! En dát maakt het zo spannend! Ik, eh, ga ook een bemanning nodig hebben. Dieren die weten hoe je een zwaard aanzet."
 
 "Hoe je een zwaard _aanzet_?" 
 

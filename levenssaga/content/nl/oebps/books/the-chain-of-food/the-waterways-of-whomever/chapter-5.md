@@ -117,7 +117,7 @@ Hij landde vlak naast Doorngoud, die grijnsde. Totdat hij, samen met zijn gelief
 
 Maar er kwam ook iets _uit_ die oceaan. 
 
-Een zwarte poot, netjes gewassen en gekamd, hield hem tegen en slingerde hem weer op het dek. Het duurde lang voordat Widero wist waarvan hij het kende. 
+Een zwarte poot, netjes gewassen en gekamd, hield hem tegen en slingerde hem weer op het dek. Het duurde lang voordat Widagai wist waarvan hij het kende. 
 
 "Karlos! Karlos!"
 

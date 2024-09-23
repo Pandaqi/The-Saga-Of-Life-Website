@@ -21,7 +21,7 @@ En het begon hier, in Kleintocht.
 
 "Ik telde honderdvijf huizen," zei Widagai, "tijdens mijn vlucht."
 
-"Aye! Waarschuwingskogels!" riep een neushoorn achter hen, verborgen door de schaduw achter de mast. ]
+"Aye! Waarschuwingskogels!" riep een neushoorn achter hen, verborgen door de schaduw achter de mast.
 
 Doorngoud had ongelofelijk veel geluk gehad. Pi had zijn schip gespaard en hem gratie verleend, in naam van eer en de goede koning. Sindsdien hoefden ze nooit meer te vrezen dat ze een _grotere boot_ zouden tegenkomen dan _de Avonturengalei_.
 

@@ -187,7 +187,7 @@ _De oorlog is al maandenlang voorbij._
 
 Door alle gebeurtenissen had het bericht hem nooit kunnen bereiken. Hij had doorgevochten, terwijl al die plekken---Kleintocht, Matenhaven, Liefdeslelie---al vrede hadden.
 
-Al die tijd had hij onschuldige mensen in vredige dorpjes aangevallen. Omdat hij dacht dat ze ermee in oorlog waren, omdat hij het bevel had gekregen van zijn leider. Dáárom noemden ze hem een wrede zeerover.
+Al die tijd had hij onschuldige dieren in vredige dorpjes aangevallen. Omdat hij dacht dat ze ermee in oorlog waren, omdat hij het bevel had gekregen van zijn leider. Dáárom noemden ze hem een wrede zeerover.
 
 _Maar zelfs als we nog in oorlog waren,_ dacht hij. _Maakt dat het ineens minder vernielzuchtig?_
 

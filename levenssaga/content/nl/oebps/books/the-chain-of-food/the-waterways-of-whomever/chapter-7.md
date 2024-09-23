@@ -88,7 +88,7 @@ Een bever kwam op hen af, stukken hout met letters tussen zijn tanden. "Welkom i
 
 "Eh, nou," Pi keek verbaasd om zich heen. De hele bemanning haalde de schouders op. "Nee dank u, we zijn hier bekend."
 
-Dat leek een logisch antwoord. Doen alsof je hier al je hele leven woonde. Ze liepen door naar het eerste gebouw dat ze tegenkwamen: een herberg waaruit vrolijke muziek en lachende mensen klonken.
+Dat leek een logisch antwoord. Doen alsof je hier al je hele leven woonde. Ze liepen door naar het eerste gebouw dat ze tegenkwamen: een herberg waaruit vrolijke muziek en lachende dieren klonken.
 
 Deze haven was gebouwd aan het einde van de Liefdesmuur, toen die nog bestond, en had de vorm van een lelie. Hij stond helemaal _op_ het water, als een gigantische houten cirkel op poten. 
 
