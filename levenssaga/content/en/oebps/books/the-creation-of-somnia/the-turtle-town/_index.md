@@ -8,11 +8,11 @@ book: true
 timeperiod: 'The Companionship'
 cycle: 'The Creation of Somnia'
 bundle: 'Turtles & Shadowshifters'
-character: ['Slupper (Turtle)', 'Socipi (Turtle)', 'Solomon (Companion)', 'Akez (Companion)', 'Vivienne (Fish)', 'Ancient Turtle', 'Anniwe (Companion)']
+character: ['Slupper', 'Socipi', 'Solomon', 'Akez', 'Vivienne', 'Ancient Turtle', 'Anniwe']
 prequel: []
-refers: ['Vensala', 'Treaty of Vensala', 'Council of Kame', 'Outer Rings of Alasti', 'Eruptions at Alasti', 'The Truth (Book)', 'The Floating Egg', 'Horus (Companion)', 'Serpentsuper', 'Gibra (Snake)', 'Pillars of Gibra', 'Wise Owl']
+refers: ['Vensala', 'Treaty of Vensala', 'Council of Kame', 'Outer Rings of Alasti', 'Eruptions at Alasti', 'The Book of Truth', 'The Floating Egg', 'Horus', 'Serpentsuper', 'Gibra', 'Pillars of Gibra', 'Wise Owl']
 happens: ['Ancient Turtle Resurfaces', 'Banishment Solomon', 'Turtles Split in Two']
-godlink: ['Vivienne (Fish)']
+godlink: ['Vivienne']
 genre: ['Mystery', "Dialogue", 'Myth', 'Technology', 'Creation', 'Invention', "History"]
 
 timeline:

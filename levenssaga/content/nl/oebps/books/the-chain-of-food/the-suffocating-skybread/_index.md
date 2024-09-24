@@ -9,11 +9,11 @@ book: true
 timeperiod: 'Het Tweede Conflict'
 cycle: 'De Keten van Voedsel'
 bundle: 'Piraten & Grasgranaten'
-character: ["Dannis (Antelope)", "Pin (Pinguïn)", "Bitz (Bever)", "Bilara (Bever)", "Apenheer", "Didrik (KzK)", "Widaro (Papagaai)"]
+character: ["Dannis", "Pin", "Bitz", "Bilara", "Apenheer", "Didrik", "Widagai"]
 prequel: []
 refers: ["Godelieven", "Vrijdieven", "Zuidelijke IJsplaten", "Elwar", "Cariboon", "Casbrita", "Origina", "Spooklanden", "Hemelvoorwerpen", "Steen van Zekerstof", "Frambozenbos", "Duivenland", "Juradom", "Zeepaardstrand", "Berenbouwers", "Windvlaagvleugel", "Pi", "Liefdesmuur", "Balkze", "Midterrazee", "Hongerbij", "Afspraak van Haggel", "Magie van Langleven", "Knobbelprijs", "Hemelse Bloemen van Eeris", "Sikkel-B"]
 happens: ["Ontdekking Kunstmest", "Gebruik Mosterdgas", "Knobbelprijs voor Bitz", "Escalatie Tweede Conflict"]
-godlink: ["Didrik (KzK)"]
+godlink: ["Didrik"]
 genre: ["Actief", "Breinbreker", "Verdrietig", "Vriendschap", "Educatief", "Belangrijk", "Geschiedenis", "Wetenschap", "Gevecht"]
 
 blurb: "Wereldwijd duiken steenharde eilanden op waar eerst niks was, alsof ze uit de lucht zijn gevallen. Twee legers zoeken allebei naar het geheim, denkende dat ze de oorlog ermee winnen, maar vinden iets dat ze liever nooit hadden ontdekt."

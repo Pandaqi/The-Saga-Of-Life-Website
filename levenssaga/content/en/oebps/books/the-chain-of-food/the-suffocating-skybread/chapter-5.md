@@ -1,120 +1,133 @@
 ---
-title: "Nooit meer honger"
+title: Never Hungry No More
 weight: 5
 ---
+The next Guayn Islands also lacked any defense. Dannis and Pin could plant their flag without trouble, wait a few days, even start breaking down the island themselves. They'd never caught _this much guayn_ in such a short time.
 
-De volgende eilanden hadden ook geen enkele tegenstander in de buurt. Dannis en Pin konden zonder problemen een vlag planten, een paar dagen wachten, en zelfs alvast beginnen met het afbreken. Zoveel _guaan_ hadden ze nog nooit in korte tijd gevangen.
+Their ship was far removed from the safe harbors of the Godesweets. They now anchored near the shore of Doveland, halfway the Midterra Sea. The country that, hand in hand with the republic of Hungerbee, started this war. This was the destination of the eagles, and only the eagles made those islands.
 
-Hun schip was nu ver verwijderd van de veilige havens van de Godelieven. Halverwege de Midterrazee, lagen ze nu langs de kust van Duivenland. Het land dat, samen met de republiek van Hongerbij, deze oorlog was begonnen. Dit is waar de adelaars heen vlogen, en alleen de adelaars maakten die eilanden.
+"I told you," Dannis started, as his antlers nudged Pin's sides. "I was kind to the enemy, they understood, and now they leave us alone."
 
-"Ik zei het toch," begon Dannis, terwijl hij zijn gewei in Pins zij porde. "Ik was aardig tegen de vijand, zij begrijpen dat, en nu laten ze ons met rust."
+"It's dangerous."
 
-"Het is gevaarlijk."
+"Yes, yes, I'd prefer to be at home too and---"
 
-"Ja, ja, ik zou ook liever thuis zitten en---"
+"A soldier who makes such wild assumptions will quickly burn his behind." _Hmm. I could eat some roasted behinds about now._
 
-"Een soldaat die zomaar conclusies trekt, brandt snel de billen." _Hmm ik heb wel trek in wat geroosterde visbilletjes._
+It had been a while since they received a message from the Ape Lord---and thus a while since they received food. The Ape Lord did not like their foray into enemy territory. They were too far away now and couldn't be helped in case of danger.
 
-Het was alweer een hele tijd geleden dat ze bericht hadden gehad van de Apenheer---en dus ook een tijd geleden dat ze eten hadden gekregen. De Apenheer was het er niet mee eens dat ze het gebied van de vijand in waren gegaan. Ze waren nu te ver weg en konden niet meer worden geholpen.
+"Might be a coincidence. The enemy might be busy elsewhere. Or maybe they're building an extra large squad of Islandseekers to try and win against our---"
 
-"Het kan toeval zijn. De vijand kan even druk zijn. Misschien bouwen ze nu juist een extra groot leger Eilandzoekers, nu ze weten dat wij hen wegjagen!" 
+Pin paced the deck. "You never think like a soldier, deerfriend. You grab whatever assumption suits you and pretend it's the truth! Well, feathers and fables, feathers and fables."
 
-Pin ijsbeerde zenuwachtig over het dek. "Je denkt ook nooit als een soldaat, makker. Je pakt de reden die je uitkomt en doet alsof het de waarheid is! Nou, snavels en fabels, snavels en fabels."
+"I've never seen someone this angry about _being wildly successful_!"
 
-Dannis schudde zijn hoofd. "Ik heb nog nooit iemand zo boos gezien over het feit dat we _succes na succes boeken_."
+Their parrot returned to underline Dannis' point. "Good news! The Ape Lord has officially named you First Islandseeker!"
 
-Om Dannis' punt te onderstrepen, kwam hun papagaai eindelijk terug. "Goed nieuws! De Apenheer benoemt je officieel tot Eerste Eilandzoeker!"
+Dannis did a victory dance, which made him briefly lose control of the ship. He recovered quickly, smiling from fluffy ear to fluffy ear. "That means I can make some demands, right?"
 
-Dannis deed een vreugdesprongetje, waardoor hij het stuur losliet en het schip plotseling opzij draaide. Hij herstelde zich snel, nog altijd met een glimlach van oor tot oor. "Dat betekent dat ik dingen mag vragen, toch?"
+"Yes. If it's nothing insane."
 
-"Ja. Als het niet te gek is."
+"We're deep into enemy territory. I request the Ape Lord send me ten---"
 
-"We gaan steeds dieper het gebied van de vijand in. Ik wil dat de Apenheer mij tien---"
+"No, twenty!" yelled Pin.
 
-"Nee, twintig!" riep Pin.
+"_Fifty_ soldiers to help us conquer the final islands. That should give us enough _guayn_ to feed the world for a century!" Dannis kept smiling and nudging Pin until the penguin also couldn't help but giggle. "Never hungry! _Never hungry!_"
 
-"_Vijftig_ soldaten stuurt om te helpen de laatste eilanden in te nemen. Dan hebben we genoeg guaan om de hele wereld een eeuw te voeden!" Dannis keek naar Pin, en bleef hem porren totdat de pinguïn toch weer moest glimlachen. "Nooit meer honger! _Nooit meer honger!_"
+"The enemy will never get _guayn_ again," said Pin, who rubbed his oily wings against each other as if he was devising evil plans. "They'll die of hunger. We've practically won the war."
 
-"De vijand komt nooit meer aan guaan," zei Pin, die zijn vinnen langs elkaar wreef alsof hij snode plannetjes bedacht. "Ze sterven van de honger. We hebben de oorlog praktisch al gewonnen."
+"That, erm, yes, that too."
 
-"Dat, eh, ja, dat ook."
+The parrot sighed. He seemed to have aged fifty years ever since joining this mission.
 
-De papagaai zuchtte diep. Hij leek vijftig jaar ouder te zijn geworden sinds hij meeging met deze missie. "Moet ik weer hélemaal terugvliegen. En al die tijd de boodschap juist onthouden! Hè, je moet mij niet raar aankijken als hij dadelijk _vijfhonderd_ soldaten stuurt ofzo. En dan moet ik jullie weer opzoeken god weet waar. En dan---"
+"Now I have to fly aaaaall the way back! And remember the message the whole way! Don't look at me funny when the Ape Lord sends you _five hundred_ soldiers or something. And then I have to find you demigod knows where. And then---"
 
-"We kunnen aan land gaan en proberen zo'n Telefoon te gebruiken," zei Dannis.
+"We could go ashore and used a Telephone," said Dannis.
 
-Pin pakte snel de papagaai en gooide hem de lucht in, zodat hij wel moest vliegen. "We gaan _niet_ aan land in Duivenland! We wachten, hier, op zee."
+Pin quickly grabbed the parrot and threw him in the air, forcing him to fly. "We will _not_ go ashore in dreadful Doveland. We wait here, at sea."
 
 ___
 
-Wachten was verschrikkelijk. Pin had na een week spijt van keuze. Nog liever aan land gaan, en levensgevaarlijke gevechten hebben met die Duiven, dan met een rommelende maag _niks doen_ op een schip. _Hmm, mijn maag zou een stukje duif ook niet erg vinden denk ik._
+Waiting was horrible. Pin regretted his choice after only a week. He'd rather set foot on land and have a fatal fight with the Doves than _do nothing_ on a ship with a rumbling belly. _Hmm. My belly wouldn't mind a piece of dove too, I think._
 
-Dannis dacht er hetzelfde over. Terwijl Pin over de rand hing, op zoek naar vissen in het water, trok Dannis met zijn mond zeewier omhoog. Beide waren niet zo succesvol.
+As Pin hung over the railing, looking for fish, Dannis pulled seaweeds from the water. Both were not successful.
 
-Toen de papagaai eindelijk terugkwam, had hij _vijfhonderd_ soldaten meegenomen. 
+When the parrot finally arrived, he had returned with _five hundred soldiers_.
 
-Ze waren verspreid over meerdere schepen. Pin knikte en bromde instemmend. "Ze hebben allemaal moderne wapens. Die apen daar hebben dat nieuwe geweer waarover ik vertelde, weet je nog makker? Oh! Oh! Die vossen hebben zo'n net dat ze aan hun staart kunnen doen, waarmee ze kogels kunnen _slingeren_. De Apenheer heeft ons goede soldaten gestuurd."
+They were spread across multiple ships. Pin grunted in agreement.
 
-"Laten we hopen dat ze niet nodig zijn," zei Dannis. Hij zocht weer naar het spoor van de adelaars, terwijl Pin de nieuwe soldaten ontving. Allemaal hadden ze dezelfde vraag.
+"They all carry modern weapons. Those apes have that new gun I told you about, remember deerfriend? Oh! Oh! Those foxes have a rope they can attach to their tail, so they can _swing_ a cannonball. The Ape Lord sent us good soldiers."
 
-"Waarvoor hebben jullie _zoveel_ soldaten nodig?" vroeg een geïrriteerde aap. 
+"Let's hope they're not needed," said Dannis. He searched for the eagle trail as Pin received the new soldiers. They all had the same question.
 
-Pas toen de papagaai op Dannis' schouder landde, herinnerde de aap dat hij nu sprak met de Eerste Eilandzoeker. "Ik bedoel, met alle respect, u heeft nu al vele levens gered met de eilandvondsten. Maar de Apenheer zei dat de laatste tien eilanden compleet _verlaten_ waren. Dus wat is het plan?"
+"Why did you need _so many_ soldiers?" asked a confused ape.
 
-"Als ik gelijk heb, zijn er onlangs een paar grote eilanden ontstaan vlakbij de kust."
+Only when the parrot landed on Dannis' shoulder, did the ape remember he spoke to the First Islandseeker now.
 
-Pin nam het over. Hij had zijn helm weer op en zijn vinnen achter de rug. Als hij met andere soldaten sprak, klonk er altijd meer overtuiging uit zijn stem. 
+"I mean, with all due respect, honorable seeker, you have already saved many lives with your findings. But the Ape Lord said that the last ten islands you visited where completely _abandoned_. So what's the plan?"
 
-"Een eiland ver op zee, die kan je missen. Maar deze glanzende bergen _guaan_ langs het strand zijn niet te missen. Ik denk---nee, ik weet _zeker_---dat zij al een legertje erop hebben staan. Maar doordat wij zoveel eilanden hebben afgepakt, verwacht ik dat ze geen munitie meer hebben."
+"If I am right, several enormous islands have recently been created along the share."
 
-Dat was genoeg. De soldaten staken hun wapens omhoog en schreeuwden iets opruiends, zoals "we pakken ze!" of "alle eilanden van ons!". Maar ze riepen allemaal iets anders, dus Dannis had het niet verstaan.
+Pin took over. He'd put on his helmet again and kept his fins behind his back. When talking to the other soldiers, his voice always carried more conviction.
 
-Die avond had hij het spoor teruggevonden. Rond middernacht verlichtte de maan een glimmende witte berg. 
+"An island far out on the ocean, sure, you can miss that. But these shiny piles of _guayn_ are so close to the shore that the Freethieves surely didn't miss them! I think---no, I am _certain_---they'll have an army there. But because we stole their islands so far, I am also certain they have no firepower."
 
-Een verlaten witte berg.
+The soldiers all raised their weapons and yelled something incendiary, like "let's get them!" or "all islands ours!" But they all yelled something else, so Dannis did not hear.
 
-Pin maakte gebaren die Dannis lachwekkend vond, maar blijkbaar iets betekenden voor de soldaten. De schepen spreidden zich uit, als een waaier, en onderzochten het eiland vanuit alle hoeken.
+That night he discovered the trail again. Around midnight, a full moon lit a white mountain close to a beach.
 
-Dannis vond het onnodig. Hij leunde op de voorsteven en stond klaar om op het nieuwe eiland te springen. "Nooit meer honger," mompelde hij. "Terug naar huis."
+A deserted white mountain.
 
-"VIJAND!" schreeuwde hun derde schip, dat een cirkel naar de achterkant van het eiland had gemaakt. 
+Pin made signs that Dannis found laughable, but they apparently meant something to the soldiers. The ships spread out, like a fan, and explored the island from all angles.
 
-Als een kolonie mieren die uit hun nest werd gejaagd, zwermde de vijand over het hele eiland heen. Het maanlicht wierp rare schaduwen en verborg het gevaar. Voor Pins ogen leek het _eiland_ tot leven te komen, de dieren slechts een tapijt dat er overheen waaide.
+So unnecessary. Dannis already leaned on the bow, ready to leap onto the new island.
 
-Een tapijt met scherpe tanden en granaten.
+"Never hungry," he mumbled. "Back home."
 
-Honderd soldaten schreeuwden en renden het eiland op. Er was geen plek voor meer. De rest probeerde van afstand te schieten, zonder hun bondgenoten te raken. Pin slingerde rondom de mast, vloog tientallen meters door de lucht, en plofte in het midden van de strijd. 
+"ENEMY!" yelled the third ship, which had sailed in a circle to check the backside.
 
-Een kogel werd meteen afgevuurd. Hij dook omlaag en schoof vooruit op zijn buik. Van tientallen tegenstanders schopte hij de benen onder hun lijf vandaan.
+Like an ant colony chased from their home, the enemy swarmed the island within seconds. The moonlight cast odd shadows and had hidden the danger. To Pin's eyes, the entire _island_ seemed to come alive, the animals merely a carpet blowing over it.
 
-Dannis trok zijn poot terug en liep achteruit. Hij was van plan op het schip te blijven, veilig en op afstand, maar de vijand was met te veel. Een lading fretten kaapte zijn schip alsof het piraten waren.
+A carpet with sharp teeth and exploding grenades.
 
-Hij had een strategie nodig. Uiteindelijk maakte hij een snelle berekening en besloot dat ze genoeg schepen hadden. 
+A hundred soldiers screamed and ran for the island. It was already out of space. The others aimed to shoot from distance without hitting their allies. Pin swung around the mast, arced through the air, and landed right amidst the turmoil.
 
-Nadat zeker twintig fretten het schip hadden bestormd, rende hij tegen het roer aan, waardoor het schip plotseling draaide. De fretten vielen om, maar wisten zich vast te grijpen aan touwen, tonnen en de hoofdmast.
+A shot fired. He duck down and slid forward on his belly. With his wing, he slapped away the legs out from underneath a dozen enemies.
 
-Toen kwam het tweede deel van de truc. Dannis draaide door---en dat werd het schip teveel. 
+Dannis retreated. He intended to stay on the ship, safe and distant, but the enemy was too numerous. A group of ferrets hijacked his ship like a band of pirates.
 
-Het kapseisde, de mast plotseling niet meer richting de maan, maar richting de bodem van de zee. Dannis maakte een reusachtige sprong naar het eiland. Het schip ging onder, de vijanden nog eraan vast.
+He needed a strategy. After a rough calculation, he decided they had enough ships for it.
 
-Pin rende langs hem. "Ah! Zo mag ik het zien! Dát is wat een soldaat doet!"
+After at least twenty ferrets had boarded his ship, he ran into the steering wheel, causing the ship to jerk around and turn suddenly. The ferrets fell to the side, but managed to grab ropes, barrels and the main mast.
 
-"Ons schip ... ik heb een heel schip vernield ... en al die fretten ..." 
+Now the second part of the trick. Dannis kept turning the wheel---and the ship could not handle it.
 
-Dannis draaide om, verdwaasd, alsof hij nog half sliep. Pin volgde zijn blik. De wereld leek vijf keer zo snel af te spelen. Hij kon het gevecht niet volgen. 
+It keeled over. The mast didn't point at the moon anymore; it pointed at the bottom of the ocean. 
 
-"Waar hebben ze plotseling al die munitie vandaan?"
+Dannis lept to the islands. The ship went down, with all the enemies still attached.
 
-Ze waren aan het verliezen.
+Pin ran past him. "Ah! That's what I like to see, deerfriend! A real soldier's move!"
 
-Twee prijskatten renden langs de rand van het eiland en probeerden alle vijanden eraf te duwen. De val was slechts enkele meters, maar in de nacht was het water ijskoud en gitzwart. 
+"Our ship ... I destroyed an entire ship ... and all those ferrets ..."
 
-Dannis zette het ook op een lopen. Hij wilde Pin op zijn rug zetten en _vluchten_, maar Pin was alweer heldhaftig teruggesprongen in de strijd. Met zijn vuurpijltjes---die speelgoed leken tegenover de geweren van de rest---liet hij één van de prijskatten slapen.
+Dannis turned around, dazed, as if half asleep. Pin followed his gaze. The world seemed to play at five times the normal pace; it was impossible to follow the fight before them.
 
-De ander brak door de verdediging, recht op Dannis af.
+"Where did they get all this ammunition!?"
 
-Het leek geen toeval. Het leek wel of de prijskat expres voor _hem_ was gekomen.
+They were losing.
 
-Dannis verlaagde zijn hoofd, zodat zijn gewei als schild voor hem uitstak. De prijskat pauzeerde. Dannis wachtte, maar er kwam geen aanval. Toen hij opkeek, grijnsde de katachtige en leek zijn beslissing te hebben gemaakt.
+Two Pricecats ran along the edge of the island, kicking enemies off the cliff. The drop was only a few meters, but in the night the water was ice cold and blinding.
 
-Hij ontweek Dannis' zwakke poging tot een schild, bond zijn gewei vast met touw, en slingerde hem het water in.
+Dannis ran away. He reached to place Pin on his back and _flee_, but Pin had already bravely jumped back into the fight. With his fire arrows---which seemed children's toys compared to the enemy's guns---he put one of the Pricecats to sleep.
+
+The other broke through the defenses and made straight for Dannis.
+
+Not a coincidence. The Pricecat had a purpose; its target had always been the First Islandseeker.
+
+Dannis lowered his head to point his antlers ahead of him like a shield. 
+
+The Pricecat paused. 
+
+Dannis waited, but no attack came. When he looked up, the cat grinned and made his decision.
+
+He dodged Dannis' weak attempt at a shield, bound the antlers with rope, and slung the antilope into the ocean.

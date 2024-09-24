@@ -66,7 +66,7 @@ Dus ik heb een paar dagen lang stukjes van de wereldkaart opnieuw ingedeeld.
 
 * **Bitz** (Bever): een scheikundige/alchemist voor de Vrijdieven. Slim en neemt zijn werk serieus, maar gaat op in de wetenschap en vergeet daardoor de rest (gevolgen, empathie, zijn eigen familie). Zoekt naar eer en roem via wetenschap, en een manier om zich te bewijzen tegen zijn vaderland. (Want hij ziet de groeiende haat jegens de joden.)
 * **Belara** (Bever): vrouw van Bitz, ook scheikundige, zeer oneens met zijn werk. Pacifist, tegen elke vorm van oorlog.
-* **Dannis** (Antelope): een kleine eilandzoeker voor de Godelieven. Vrienden met Pin, duidelijk meer een tuinier dan een soldaat.
+* **Dannis** (Antilope): een kleine eilandzoeker voor de Godelieven. Vrienden met Pin, duidelijk meer een tuinier dan een soldaat.
 * **Pin** (Stormbandpinguïn): een soldaat voor de Godelieven. Goede vechter, denkt ook in termen van oorlog. Daarnaast gaan zijn gedachten constant naar dat hij honger heeft en alles wil opeten.
 
 De zonnedas die verschijnt is natuurlijk Didrik (die eerder bij naam wordt genoemd). Die komt regelmatig in verhalen voor, want ja, die kan tijdreizen.

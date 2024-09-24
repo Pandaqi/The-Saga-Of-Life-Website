@@ -1,112 +1,119 @@
 ---
-title: "Bilara's Brief"
+title: Bilara's Letter
 weight: 8
 ---
+As the soldiers knocked on his door, around midnight, Bitz already felt the grave news they'd bring in his heart. 
 
-Toen de soldaten aanklopten bij zijn huis, midden in de nacht, wist Bitz al wat ze zouden vertellen. Hij was gevlucht in dezelfde auto als de commandant. Iets dat alleen was weggelegd voor de écht belangrijke dieren. 
+He had fled in the same car as the commander. Something only the _real_ important animals were allowed to do. He lived close enough to the front line that he could see the campfires of the Godesweets through his window. Sometimes he heard them laugh or even play music.
 
-Hij was zo dichtbij het front dat hij de vuurtjes van de Godelieven kon zien vanuit het raam. Hij hoorde ze soms lachen, zelfs even muziek maken.
+He'd never hated the enemy as much as he did now.
 
-Hij had de vijand nog nooit zo gehaat als nu.
+How dare they have fun? How dare they pretend they were friends? Friends did not exist, not when you were a Jurad. He'd finally reached this place at the top of the ladder, and then Bilara ... and then she ...
 
-Hoe durfden ze plezier te hebben? Hoe durfden ze te doen alsof ze vrienden waren? Er waren geen vrienden, niet als je een Juraad was. Hij had eindelijk zijn plek bemachtigd aan de top, en dan deed Bilara ... dan deed ze ...
+Sitting in his living room, the commander rapidly drew up new battle plans. Bitz had repurposed the rest of his home as his new laboratory, which worked tirelessly to produce as much gas as possible. The first _machines_ they'd made helped tremendously. They produced the work of a hundred chemists, in less time. Fortunately, the rest of the process still had to be done manually.
 
-In de woonkamer maakte de commandant razendsnel nieuwe plannen. Bitz had de rest van het huis als zijn nieuwe laboratorium, dat overuren draaide om zoveel mogelijk gas te produceren. De eerste paar _machines_ die ze hadden gemaakt hielpen enorm. Ze deden het werk van honderd scheikundigen, in minder tijd. Jammer genoeg moest de rest nog met de hand. 
+The soldiers took off their helmets, but kept to the doorway. Their shadows crept over Bitz' workspace, making it hard to see which flask he was holding.
 
-De soldaten deden hun helm af, maar bleven in de deuropening staan. Hun schaduwen kropen over Bitz' stellages, waardoor hij niet meer kon zien welke beker hij vast had. 
+"Your wife ... Bilara ... she is ..."
 
-"Uw vrouw ... Bilara ... ze is ..."
+"You're in my light."
 
-"Je staat in mijn licht."
+The soldiers---a mix of ferrets, beavers, and animals he hadn't seen before---looked to each other for assurance. "Sir? Did you not hear us? Your---"
 
-De soldaten---een mengeling van fretten, bevers, en dieren die hij voor het eerst zag---keken elkaar onzeker aan. "Meneer, heeft u ons gehoord? Uw---"
+"Disappear!"
 
-"Verdwijn!"
+The only other light came from flashing yellow light bulbs and flasks containing some fluorescent material. Bitz seemed a monster in that light, a shriveled dwarf hiding deeper and deeper in his hole, afraid of the light. Only his eyes and teeth, and perhaps his glasses, sometimes flashed.
 
-Het enige andere licht kwam van knipperende gele gloeilampen en bekers met een fluorescerend stofje. Bitz leek een monster, een ineengekrompen dwerg die dieper en dieper in zijn hol kroop, en bang was voor het licht. Alleen zijn ogen en tanden, en misschien zijn bril, flitsten soms fel.
+The soldiers disappeared, except one. He still held his helmet in front of his belly. He cried and could barely speak Bilara's name.
 
-De soldaten verdwenen, behalve één. Hij hield zijn helm nog altijd voor zijn buik. Hij huilde en kon de naam Bilara niet eens uitspreken. 
+"The commander would understand if you want to take time off. To grieve your wife. Time to take her back home. The plan can be delayed."
 
-"De commandant zou het begrijpen als u even weg wilt. Tijd om te rouwen om uw vrouw. Tijd om haar mee naar huis te nemen. Het plan kan worden uitgesteld."
+"The plan will be executed! Tell the commander that. Tomorrow we gas our enemies, stealing their breath from the first to the last."
 
-"Het plan gaat door! Zeg dat maar tegen de commandant. Morgen vergassen we de vijand, van de eerste tot de laatste."
+"Your ... prisoners have escaped. They have plundered the laboratory. Perhaps the secret of the gas is already in the hands of the enemy."
 
-"Uw ... gevangenen zijn ontsnapt. Ze hebben uw laboratorium geplunderd. Misschien ligt het geheim van het gas nu al in handen van de tegenstander."
+Bitz smashed a flask to pieces on the ceramic floor. "What do you want!?" 
 
-"Wat wil je!?" Bitz smeet een glas kapot op de vloer.
+"If you use the gas ... there is no way back. They'll do the same to you. You _know_ how cruel the gas is---would you wish another the same fate? Another soldier? Your children? A friend?"
 
-"Als u het gas gebruikt ... dan is er geen weg meer terug. Ze zullen hetzelfde terugdoen. U _weet_ hoe wreed het gas is---wenst u dat een ander toe? Een medesoldaat? Uw kinderen? Een vriend?"
+Bitz unfurled his paws. He held crumpled paper, Bilara's elegant handwriting still visible here and there. _A friend._
 
-Bitz opende zijn andere hand. Hij hield een prop papier vast, Bilara's sierlijke handschrift nog zichtbaar op sommige plekken. _Een vriend._ 
+What friend?
 
-Welke vriend?
+Tears formed. The feeling was unfamiliar to him. He was supposed to grow old with Bilara, his childhood love. Her letter confirmed she really _hated_ him those final days. Hated him like he hated the enemy now, but somehow even worse.
 
-Voor het eerst vormden tranen in zijn ogen. Hij zou oud worden met Bilara, zijn jeugdliefde. Haar brief toonde aan dat ze hem echt _haatte_ die laatste dagen. Haatte zoals hij de vijand nu haatte, en dan nog erger.
+She never wanted war. She wanted a return to academics, to invent with him. Her letter talked about winning the Knobbel Prize---no higher aim for a scientist than that. The prize rewarded the best invention each year, with fame, money, everything.
 
-Ze wilde niet eens oorlog. Ze wilde terug naar de universiteit, samen met hem scheikundige doorbraken vinden. Haar brief sprak over het winnen van de Knobbelprijs---hoger dan dat kon je niet mikken als wetenschapper. Die prijs beloonde de allerbeste uitvinding elk jaar, met roem, geld, alles. 
+Now his invention stood on the precipice of escalating this war. His wife was no more.
 
-Nu stonden zijn uitvindingen op het punt de oorlog honderd keer zo erg te maken. Zijn vrouw was er niet meer.
+Which wife?
 
-Welke vrouw?
+He stood and stepped in the light. He met the soldier's gaze.
 
-Hij stond op en stapte voor het eerst in het licht. Zijn ogen vonden die van de soldaat.
+He was no ferret. And no beaver. His face didn't even look familiar. _Was_ he even a Freethieves soldier? And that uniform, wasn't that used in that Nine Years War before pirates appeared?
 
-Hij was helemaal geen fret. En geen bever. Zijn gezicht kwam niet bekend voor. _Was_ hij wel een soldaat? En dat uniform, was dat niet van die oorlog vijftig jaar geleden?
+"Who _are_ you?"
 
-"Wie _ben_ jij?"
+"Just a friendly sun badger asking you to please reconsider."
 
-"Slechts een vriendelijke zonnedas die je vraagt om alsjeblieft nog eens na te denken."
+He sounded like his wife. He didn't want to be reminded of his wife.
 
-Hij klonk als zijn vrouw. Hij wilde niet denken aan zijn vrouw.
+Bitz grabbed an iron poke of which the tip was searing hot and lay on a heater. He swung it forward like a sword, as he yelled towards the other room.
 
-Bitz greep een gloeiend heet ijzer waarvan de punt op zijn verhitter lag. Hij zwaaide het vooruit als een zwaard, terwijl hij naar de andere kamer schreeuwde. "Spion! Indringer! Help!"
+"Spy! Burglar! Help!"
 
-De zonnedas deed zijn helm op en sjokte weg. Niet bang, niet gehaast, niet teleurgesteld, maar diep verdrietig.
+The sun badger put on his helmet and trudged away. Not afraid, not hurried, not disappointed, just deeply sorrowful.
 
-"Waarom mag ik hem niet vermoorden, Ismaraldah?" zei hij tegen ... niemand. Bitz dacht dat hij tegen de donkere avondlucht praatte. "Dat zou toch alles oplossen? Jeetje mineetje, alles is zo moeilijk met jou." 
+"Why can't I just kill him, Ismaraldah?" he asked ... nobody. Bitz thought he might be talking to the dark night sky. "That would solve everything, right? Gosheliegosh, everything is so _difficult_ with you."
 
-Hij hoorde een zoemend geluid. De commandant stormde zijn laboratorium in, samen met zijn hoogste generaals. Ze renden naar buiten, waar ze net op tijd een groot, rond houten voorwerp zagen verschijnen uit het niets. 
+A buzzing sound. The commander stormed the laboratory, joined by his highest generals. They ran outside to see a large, circular wooden object appear out of nowhere.
 
-De zonnedas stapte erin. "Zou ik hem wel mogen ontvoeren? Een simpele tijdkidnapping? Ik stuur hem terug naar de tijd van de dino's ofzo, en dan kan hij niks meer uitrichten."
+The sun badger stepped inside.
 
-"Nee," zei een vrouwelijke stem, waarna de deur dichtsloeg en Bitz de rest niet meer kon verstaan. Het voorwerp verdween.
+"Or maybe I could kidnap him? A simple _time abduction_? I'll send him back to the time of the dinosaurs or something, and he won't be able to do any harm."
 
-"Ik wil ook zo'n ding," zei de commandant. "Kan je dat ook uitvinden?"
+"No," said a female voice. The door closed and Bitz could not eavesdrop on the conversation any longer. The object vanished as quickly as it came.
 
-"Ik ben een scheikundige, geen tovenaar." 
+"I want something like that," the commander said. "Think you can invent that?"
 
-Opeens was het allemaal zo helder. Bitz had zijn hele leven opgegeven voor de kans op roem. De rest zag de oorlog als een spelletje, hun hoge positie als _gegeven_. Hij had _kunstmest_ uitgevonden en een wereldwijde hongersnood voorkomen, en het was _nog niet genoeg_.
+"I am a chemist, not a wizard."
 
-Zijn leven kreeg hij niet meer terug. Hij had zijn pad gekozen en hij zou het bewandelen tot het eind.
+Suddenly it was all so clear. Bitz had sacrificed his life at a chance for glory. It was a serious task, every day, not to be taken lightly. 
 
-Hij rechtte zijn brilletje, rende naar zijn laboratorium, en vroeg om nóg meer gaskokers.
+But everyone else? They saw war as a _game_. Their high rank as a _given_. Tanks and weapons and countless deaths were just a toy to entertain them. 
 
-Een paar uur later begonnen de eerste vogels te zingen. Bitz was gekalmeerd en ging op in zijn werk. Dit gas ging de oorlog bepalen, het ging werken, en straks was hij de redder van het vaderland. In zijn hoofd waren er al standbeelden van hem en stond die Knobbelprijs in zijn kast.
+He'd invented fertilizer and prevented a Great Starvation, and it _still wasn't enough_.
 
-Een toeter schalmde door het kamp.
+He would never get back his old life. He'd chosen his path and he would walk it until the end.
 
-Wat? Op dit uur? Een onhandige fout?
+He straightened his glasses, ran to his laboratory, and asked for even more gas cylinders.
 
-De toeter blies opnieuw, luider deze keer. De eerste deuren sloegen open, terwijl slaperige koppen vroegen wat er gaande was.
+A few hours later the early birds started their songs. Bitz had calmed down and was completely immersed in the work. This gas would change the war, it was going to work, and he'd be the savior of his homeland. In his mind's eye, status of him and his Knobbel Prize had already been erected.
 
-Dat kon maar één ding betekenen: de Godelieven vielen aan.
+A trumpet woke up the camp.
 
-De soldaten vormden razendsnel rijen. Bitz rende naar buiten met een simpele vlag in zijn handen.
+What? At this hour? An unhelpful mistake?
 
-De wind stond de goede kant op. Hij waaide weg van de Vrijdieven, náár de Godelieven. Ze hoefden niet bang te zijn dat het gas in hun eigen gezicht terugblies. 
+The trumpet sounded again, louder this time. The first doors opened as sleepy faces asked what was going on.
 
-Bitz lachte, harder en harder. De Godelieven liepen met open ogen hun eigen valstrik in! 
+Only one possible answer: the Godesweets _attacked_.
 
-God wilde dat het zo was, dat kon niet anders. God stond achter hem.
+The soldiers rapidly formed lines. Bitz ran outside holding a simple flag in his hands.
 
-De gaskokers werden uitgedeeld. De soldaten werd verteld, meerdere keren, om onder _geen_ omstandigheid zelf het slagveld op te gaan. Ze moesten doen alsof ze gingen vechten, maar netjes op hun plek blijven.
+The wind was blowing the right way. _Away_ from the Freethieves, _to_ the Godesweets. They didn't need to fear the gas blowing back in their own faces.
 
-De kokers werden geplaatst, in een rij van bijna een kilometer lang, met ruimtes ertussen. 
+Bitz laughed, louder and louder. The Godesweets were walking into their own trap! With open eyes!
 
-De Godelieven waren dichtbij genoeg om gezichten te onderscheiden. Ze schreeuwden en versnelden, zeker dat ze deze slag snel gingen winnen.
+God wanted it to be this way, this was a sure sign. God supported his cause.
 
-Bitz gaf het signaal.
+The gas cylinders were distributed. The soldiers were told, several times, to _not_ enter the battle field themselves under _any_ circumstance. They had to pretend to fight, but safely stay behind the gas.
 
-De kokers gingen open. Een groengelige mist trok over het slagveld, meegenomen door de wind, terwijl gasmaskers werden uitgedeeld onder de Vrijdieven.
+The cylinders were placed. A row almost a kilometer in length, with consistent gaps in-between.
 
-De Godelieven hadden ze niet.
+The Godesweets were close enough to recognize their faces. They yelled and accelerated, probably certain of victory.
+
+Bitz gave the signal.
+
+The cylinders opened. A green-yellow fog crawled over the battle field, carried by the wind, as gas masks were distributed among the Freethieves.
+
+The Godesweets did not have those.

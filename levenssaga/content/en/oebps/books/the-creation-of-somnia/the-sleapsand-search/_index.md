@@ -8,10 +8,10 @@ book: true
 timeperiod: 'The Seafarship'
 cycle: 'The Creation of Somnia'
 bundle: 'Sleepsorcerers & Timefolders'
-character: ['Sand King (Claes)', 'Meogg (Bullfrog)', 'Parog (Bullfrog)', 'Holog (Bullfrog)', 'Olombos']
+character: ['Sand King', 'Meogg', 'Parog', 'Holog', 'Olombos']
 refers: ["Cosmo's Final Flight", "Olombos' First Journey", 'Invention of Sleep', 'Protobirds', 'Dodo', 'Apra', 'Apire', 'Gosti', 'Egg Cave', "Soul of Cosmo", 'Law of First Landing', 'Arrival of Seafarers', 'Faraway Islands', 'Sigriplant', 'Cristaltirans']
 happens: ["Olobmos' Second Journey", 'Porto Volo', 'Egg of Olombos', 'Soulprotectors']
-godlink: ['Sand King (Claes)']
+godlink: ['Sand King']
 genre: ["Active", "Fight", "Discovery", "Gods", "Travel", "Creativity", "Sad", "Growth", "Biology", "History"]
 prequel: ['The Great Bustairs']
 

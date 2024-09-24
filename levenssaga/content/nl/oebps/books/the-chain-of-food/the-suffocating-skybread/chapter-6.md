@@ -13,7 +13,7 @@ Hij wist precies wie het had gedaan.
 
 "Ik sta het niet toe. Ik sta het gewoon _niet toe_."
 
-"Als ik het niet uitvind, dan ontdekt iemand anders het wel. Geef hier." Hij stapte vooruit, zij achteruit. Haar staart botste tegen een kooi. Hij was haastig in elkaar gezet, van stukken metaal uit oude wapens, en bevatte een antelope die bang keek.
+"Als ik het niet uitvind, dan ontdekt iemand anders het wel. Geef hier." Hij stapte vooruit, zij achteruit. Haar staart botste tegen een kooi. Hij was haastig in elkaar gezet, van stukken metaal uit oude wapens, en bevatte een antilope die bang keek.
 
 "Het is verboden. De Afspraak van Haggel verbiedt het gebruik van chemische wapens in een oorlog. Ha! Nu moet je wel---"
 
@@ -25,11 +25,11 @@ Hij wist precies wie het had gedaan.
 
 Bilara's mond bleef hangen, open en bloot. De koker giftig gas viel uit haar handen. Bitz had geen oog meer voor zijn vrouw, alleen voor zijn uitvinding die hij moest redden en trots presenteren aan de commandant.
 
-"En jullie vragen je af waarom iedereen de Vrijdieven haat," mompelde de antelope. 
+"En jullie vragen je af waarom iedereen de Vrijdieven haat," mompelde de antilope. 
 
 Bilara barstte in tranen uit. Ze rende langs de kooi en haalde zich open aan de scherpe punten. Terwijl ze wegrende van de open plek, liet ze een spoor van druppels bloed achter. Het maakte haar niks meer uit.
 
-"Je hebt wel een grote mond, hè?" snauwde Bitz de antelope toe. "_Eerste Eilandzoeker_, puh. Waardeloze vechter, dat zal je bedoelen!" 
+"Je hebt wel een grote mond, hè?" snauwde Bitz de antilope toe. "_Eerste Eilandzoeker_, puh. Waardeloze vechter, dat zal je bedoelen!" 
 
 Hij leunde voorover, zijn neus tegen die van Dannis, met een dun tralies ertussen. "Dankzij _mijn_ geniale brein, hebben wij die eilanden allang niet meer nodig."
 
@@ -55,7 +55,7 @@ Dannis schraapte weer langs het metaal. "Je kan er wél mee leven om anderen te 
 
 Dannis' gezicht trok strak en hij liep weg, naar de achterste muur van de kooi. Hij wilde iets zeggen, maar er kwam alleen onzin uit.
 
-"Breng hem naar een lege, goed afgesloten kamer," zei Bitz. "Ik dien een klein beetje gas toe, en dan zien we of deze antelope dat leuk vindt." 
+"Breng hem naar een lege, goed afgesloten kamer," zei Bitz. "Ik dien een klein beetje gas toe, en dan zien we of deze antilope dat leuk vindt." 
 
 Omstanders hielpen om de kooi naar binnen te tillen, naar een ongebruikte kamer achterin het gebouw van de commandant. Dannis sloeg en schopte om zich heen, maar zijn gewei was vastgebonden en de kooi was te klein om ook maar in te _staan_.
 

@@ -117,7 +117,7 @@ Hun papagaai landde op Pins schouder, die meteen een pijnkreet maakte.
 
 "Nog slechter nieuws! De Godelieven hebben de explosie gezien en denken dat de Vrijdieven zijn verzwakt. Ze zijn van plan vannacht nog een verrassingsaanval te doen."
 
-Dannis en Pin keken elkaar aan. "Tja, dan zal het lot van de oorlog wel weer in handen liggen van een geniale antelope en een humeurige pinguïn."
+Dannis en Pin keken elkaar aan. "Tja, dan zal het lot van de oorlog wel weer in handen liggen van een geniale antilope en een humeurige pinguïn."
 
 "Een _heldhaftige, sterke_ pinguïn. Die honger heeft."
 

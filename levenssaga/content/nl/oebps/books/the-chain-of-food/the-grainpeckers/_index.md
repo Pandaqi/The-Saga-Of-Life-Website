@@ -9,7 +9,7 @@ book: true
 timeperiod: 'Het Eerste Conflict'
 cycle: 'De Keten van Voedsel'
 bundle: 'Gifdieven & Graanvliegen'
-character: ["Cosmo", "Quili (Equid)", "Epoh (Equid)", "Tibbowe (Leeuw)", "Didrik (KzK)", "Gossin (Gosti)", "Kajar (Prijskat)", "Arlar (Adelaar)"]
+character: ["Cosmo", "Quili", "Epoh", "Tibbowe", "Didrik", "Gossin", "Kajar", "Arlar"]
 prequel: ["De Beer die Was"]
 refers: ["Origina", "Garda", "Compana", "Traferia", "Hemelvoorwerpen", "Windvlaagvleugel", "Steen van Zekerstof", "Liefdesmuur", "Tegenspoedtulpen", "Violen van Voorspoed", "Liefdesrozen", "Amor", "Paraat", "Wolken met Uitzinnige Regen"]
 happens: ["Ontdekking Agricultuur", "Diefstal Steen van Zekerstof", "Versnelde Plantengroei"]

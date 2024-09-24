@@ -1,90 +1,89 @@
 ---
-title: "Stikstof"
+title: Suffogen
 weight: 9
 ---
+Dannis, Pin and the parrot without name arrived too late. Along the way, they reunited with the five hundred soldiers that the Ape Lord had given them. Upon seeing the reinforcements, the Godesweets only felt _more_ eager to launch a surprise attack.
 
-Dannis, Pin en de papagaai zonder naam waren te laat. Onderweg ontmoetten ze weer de vijfhonderd soldaten die ze van de Apenheer hadden gekregen. Bij het zien van deze versterkingen, kregen de Godelieven juist _meer_ zin om aan te vallen.
+The mist that blew their way was explained as smoke from yesterday's explosion, or maybe innocent morning dew.
 
-De mist die hun kant op kwam, zagen ze als rook van de explosie van gisteren, of misschien onschuldige ochtenddauw.
+Dannis was faster than the others and sprinted onto the battle field.
 
-Dannis was sneller dan de rest en sprintte het slagveld op. 
+"Stop! Turn back! Do not touch the gas!"
 
-"Stop! Draai terug! Raak het gas niet aan!"
+Nobody listened. It had to be those blasted helmets; they blocked their hearing. 
 
-Niemand luisterde. Het moesten die verdraaide helmen zijn, die blokkeerden hun gehoor. Hij keek achterom. De mist leek te versnellen. Hij had tien seconden om iedereen te overtuigen, dan moest hij zelf ook weg zijn.
+He looked back. The fog seemed to accelerate. He had ten seconds to convince them all, then he'd need to leave too.
 
-Als hij nog weg kon.
+If he could leave at all.
 
-"Luister! Dat is geen mist, dat is---"
+"Listen! It is not a mist, it is---"
 
-Pin vond al dat praten overbodig. Hij vuurde zijn pijlen af op de soldaten, zodat ze zouden stoppen met naar hun ondergang rennen. Hij raakte er een stuk of tien, voordat men het doorhad en hem probeerde te grijpen terwijl ze "verrader!" schreeuwden.
+Pin was never one for talking. He fired arrows at their own soldiers, to force them to stop and check their surroundings. He hit a dozen allies before they turned on him with cries of "betrayal!"
 
-Een schreeuw die niets bleek toen het gas de eerste soldaten raakte.
+A cry that seemed childish and weak compared to the screams of the first soldiers to touch the gas.
 
-Dannis had niet gezien dat sommige dieren al vooruit waren geslopen. Twee zelfverzekerde apen hadden een flinke voorsprong. Toen het gas hen raakte, grepen ze naar hun hoofd, hun huid, hun staart, overal, terwijl ze schreeuwden om hun moeder.
+Dannis hadn't noticed that several animals ran further ahead. Two confident apes had a large lead. As the gas enveloped them, they grabbed their head, their skin, their tail, every part of their body, as they cried for their mother.
 
-Andere soldaten dachten dat de apen een angstaanval kregen, een nachtmerrie op klaarlichte dag. Een olifant verliet zijn formatie om de apen met de slurf op te tillen en terug te brengen. 
+The other soldiers thought it a panic attack. A nightmare in bright daylight. An elephant broke formation to lift the apes with his trunk and carry them back to a safe location. A friendly soldier that went mad and wildly swung around him was more a liability than an asset.
 
-Een soldaat die wild om zich heen sloeg en gek leek te worden, kon je er niet bij hebben.
+A gigantic elephant that did the same thing was fatal.
 
-Een meterslange olifant die hetzelfde deed, was nog ongelukkiger.
+As the gas touched the gray beast, he thrashed and screamed. His trunk squashed his fellow soldiers and his tusk cut straight through the metal of a tank. His low grunt shook the entire battle field.
 
-Zodra het gas hem raakte, sloegen zijn slagtanden in de rondte en plette zijn slurf medesoldaten. Zijn lage brom liet het hele slagveld trillen. 
+"My eyes! My eyes!"
 
-"Mijn ogen! Mijn ogen!" 
+The elephant seemed blinded. His flailing body caused gusts of wind that accelerated the gas even more. They didn't have an even bigger soldier to carry the elephant to safety.
 
-De olifant leek verblind. Zijn reuzenlijf maakte windvlagen die het gas nog sneller door het leger bliezen. Ze hadden geen nóg grotere diersoort om de olifant veilig naar het kamp te leiden.
+Soldiers stopped walking. Some frozen, as if the gas was ice cold and turned you to stone. Some turned around. They saw what happened to their friends and fled the battle with wild eyes.
 
-Soldaten stopten met lopen. Sommige bevroren, alsof het gas ijskoud was en je veranderde in een standbeeld. Andere keerden al om. Ze zagen wat er met hun vrienden gebeurde en renden gillend weg van de slag.
+As soon as the first soldiers dropped their guns and fled entirely, all hell broke loose.
 
-Zodra de eerste soldaten hun geweer neergooiden en vluchtten, brak de hel los.
+Everyone yelled, touched or not. The gas twirled and swirled through all the ranks, like hurricanes always looking for their next victim, worsened by the many apes, lions, wolves and elephants that flailed around and lost control.
 
-Iedereen gilde, aangeraakt of niet. Het gas draaide en dwarrelde door het leger, als orkanen die steeds een nieuw doelwit zochten, aangevuurd door apen, leeuwen, wolven, olifanten die hun poten om zich heen sloegen alsof ze alle controle kwijtwaren.
+_Not only accelerated by ourselves though,_ thought Pin as he looked ahead.
 
-_Niet alleen aangewakkerd door onszelf,_ dacht Pin verschrikt. 
+The eagles had come down. Their Windgustwing gave them precise control over air and wind. Possessing the Heavenmatter, they could steer the gas precisely at their enemies.
 
-De adelaars waren naar beneden gekomen. Hun Windvlaagvleugel gaf controle over lucht en wind. Met het Hemelvoorwerp in hun bezit, konden ze de luchten precies naar de vijand toesturen. 
+The gas moved too quickly.
 
-Het gas ging te snel.
+Dannis ran as fast as he could, but never escaped. The gas followed everywhere, filled every space, like ghosts nipping at tails. He bumped into a soldier, and another one, and stumbled over one that lay in the grass. Soldier after soldier fell down, groaning in pain, as they proclaimed they were blind, deaf, or choking. 
 
-Dannis rende zo hard hij kon, maar het kwam alsmaar dichterbij, als een spook dat naar zijn staart hapte. Hij botste tegen een soldaat, en nog een, en struikelde over eentje op de grond. Soldaat na soldaat viel neer, kermend van de pijn, terwijl ze riepen dat ze niks meer zagen, of dat ze stikten, en dat waren nog de gelukkigen, want de rest hoorde je niet meer.
+And those were the fortunate ones, for you never heard the others again.
 
-Die waren al gestikt.
+Pin's world was green, yellow, and gray mixed on a devilish canvas. You couldn't cut gas in two. If you tried to dodge, it suddenly blew at your back. His body burned again. He pressed his beak together against the pain.
 
-Pins wereld zag groen, geel, grijs. Het gas was overal om hem heen. Als je het probeerde te ontwijken, blies het weer in je rug. Zijn lichaam brandde opnieuw, en hij perste zijn snavel op elkaar tegen de pijn.
+The parrot flapped his wings in a weak effort to blow back the gas. He was no match for an army of magic eagles.
 
-De papagaai probeerde het gas terug te blazen, maar zijn vleugelslagen waren veel te zwak. Zeker tegenover de machtige adelaars met hun magie.
+Dannis asked for Pin, yelled for his friend, begged for mercy. His tail felt cut off. He didn't dare look or breath, afraid to inhale the gas, afraid to let it blind him.
 
-Dannis riep naar Pin, riep om zijn vriend, riep om genade. Het voelde alsof zijn staart werd afgehakt. Hij durfde niet om te kijken, bang het gas in te ademen, bang het in zijn ogen te krijgen. 
+Nobody heard him, drowned out by the screams of an army.
 
-Niemand hoorde hem, niet over het schreeuwen van de andere soldaten.
-
-Iedereen die nog kon lopen, rende dezelfde kant op: _weg_. Zo ver weg mogelijk van deze hel.
+Anybody who could still walk went the same direction: _away_. Leave this place.
 
 "Pin!"
 
 "Dannis!"
 
-Ze moesten bij elkaar in de buurt zijn, maar konden elkaar niet zien. Dannis werd omver gelopen door een groep vossen die hun ogen stijf dicht hielden. 
+They had to be in close range, but couldn't see each other. Dannis was nearly trampled by a skulk of foxes running with eyes closed.
 
-Hij viel op zijn rug. In paniek verstijfde zijn lichaam. Alsof hij was vergeten hoe zijn benen werkten of hoe hij weer overeind moest rollen.
+He fell on his back. Panic stiffened his body. He'd forgotten how legs worked, how anything worked.
 
-Pins lichaam kon niet meer. Zijn _stem_ kon niet meer. Zijn longen leken gekrompen en toen hij zijn vriend wilde roepen, kwam er alleen een krakend gefluister.
+Pin's body was exhausted. His _voice_ was broken. His longs seemed to shrivel and when he called for his friend, only a crackling whisper came out.
 
-Hij voelde iets onder zijn poot. Dannis' staart. Hij greep het vast met alle kracht die zijn verbrande vinnen nog hadden.
+His left wing felt something. He recognized it instantly, just by touch. Dannis' tail. He held onto it with all the strength his burned fins still had.
 
-"Ik ben hier."
+"I am here."
 
-"Ik ben hier, makker."
+"I am here, deerfriend."
 
-De twee vrienden lagen samen op de grond, wachtend op de dood.
+The two friends lay together, waiting for death to claim them.
 
-Het gas klaarde op. 
+The gas cleared.
 
-De kokers van de Vrijdieven moesten zijn opgebruikt. De laatste mist spreidde zich zo dun dat het zijn effect verloor.
+The Freethieves' supply had run out. The final fog spread so thin it lost most of its effect.
 
-Rondom het slagveld stonden rode bloemen met een zwarte kern. Ze zongen. De Zingende Bloemen van Eeris lieten een klaagzang horen die zelfs de Vrijdieven zou laten huilen, totdat ze het niet meer konden, omdat ook hun bladeren geen schone lucht meer vonden.
+Around the battle field erupted red flowers with a black core. They sang. The Singing Flowers of Eeris sounded a lament that would even make the Freethieves cry. Until they were also silenced, their leaves lacking for fresh air.
 
-Dannis en Pin hadden het overleefd. De meeste soldaten hadden het overleefd, maar lagen zwaargewond in de modder.
+Dannis and Pin had survived. Most soldiers had survived. They lay in the dirt, badly injured and unmoving.
 
-Ze leefden, maar zouden nooit meer genezen.
+They lived, but would never heal.

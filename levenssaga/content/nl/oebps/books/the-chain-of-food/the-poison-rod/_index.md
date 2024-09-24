@@ -11,7 +11,7 @@ book: true
 timeperiod: 'Het Wolkengezag'
 cycle: 'De Keten van Voedsel'
 bundle: 'Gifdieven & Graanvliegen'
-character: ["Bella", "Darus", "Ardex", "Eeris", "Donat (Connidoe)", "Eonada (Connidoe)", "Fonatos (Connidoe)", "Gonadisa (Connidoe)", "Honatanan (Connidoe)", "Ionadanaris (Connidoe)", "Jasmine Juist (Mens)", "Thomas Juist (Mens)"]
+character: ["Bella", "Darus", "Ardex", "Eeris", "Donat", "Eonada", "Fonatos", "Gonadisa", "Honatanan", "Ionadanaris", "Jasmine Juist", "Thomas Juist"]
 prequel: ["De Vleesvreters"]
 refers: ["Boek der Betekenis", "Gifgordel", "Troon van de Toekomst"]
 happens: ["Gifdiefstal van Connidoe", "Explosie Gifbom", "Ontstaan Gifgordel", "Eerste Gifslang"]

@@ -1,142 +1,151 @@
 ---
-title: "De Eilanden van Vogelpoep"
+title: The Islands of Birdpoop
 weight: 1
 ---
+Pin was tasked with planting an entire new garden before the day was over. He couldn't wait any longer, for it would mean thousands of animals were cursed to go without food for weeks. Food was _already_ lacking.
 
-Pin moest vandaag nog een hele nieuwe tuin hebben aangelegd. Hij kon niet langer wachten, anders zaten duizenden dieren over een paar weken zonder eten. Ze zaten _nu_ al zonder eten. 
+The penguin repeatedly wondered why they'd chosen him as gardener. He didn't even eat plants and was far better at fighting.
 
-De pinguïn vroeg zich elke minuut af waarom ze _hem_ hadden gekozen---hij at niet eens planten en was véél beter in _vechten_!
+_If I don't find food soon,_ thought Pin, _I might just start eating plants anyway out of desperation._
 
-_Als ik nog langer niks te eten krijg,_ dacht Pin, _ga ik straks uit wanhoop alsnog planten eten._
+All around him the brown earth was dry and hard as stone. He had to force his spade into the dirt with all his power just to get a tiny hole for a tiny plant. He'd been doing so for a week, and anything he'd planted had _died_. Plants had to eat and drink too, and this patch of land had nothing to offer.
 
-Overal waar hij keek was de grond droog en hard. Hij moest flink zijn schep in de aarde rammen om ruimte te maken voor één plantje. Dat deed hij nu al een week, en al die plantjes waren alweer gestorven. Planten moesten ook eten en drinken, en deze grond had hen niks te bieden.
+But hope shimmered on the horizon. Hope in the shape of a ship laden with a curious material they called _guayn_.
 
-Maar aan de horizon gloorde hoop. Hoop in de vorm van een schip volgeladen met iets dat ze _guaan_ noemden.
+"Thank the godchildren!" Pin yelled. "The Islandseekers are back!"
 
-"De godenkinderen zij dank!" riep Pin. "De Eilandzoekers zijn terug!"
+The ship was received as if it indeed contained the legendary godchildren. But those were long gone, of course, with many not even believing they ever existed. Pin had joined the side of this war called the _Godesweets_ which still fought for the same ideals as the original gods.
 
-Het schip werd onthaald alsof inderdaad de godenkinderen terug waren. Maar die waren er allang niet meer. De groep waarbij Pin was aangesloten waren de _Godelieven_: zij vochten voor hetzelfde als de originele goden.
+Not because he enjoyed fighting a dangerous war. No, because the Southern Icesheets didn't contain enough food to sustain him. His parents had to send him away because they couldn't "feed another beak" on their tiny iceberg.
 
-Niet omdat hij zo graag mee wilde doen met een oorlog. Nee, omdat er op de Zuidelijke IJsplaten te weinig eten was voor hem. Zijn ouders hadden hem moeten wegsturen, want ze konden "nog een snavel om te voeden" niet gebruiken op hun kleine ijsschots.
+_Hmm. An iceberg would be tasty too now,_ he thought.
 
-_Een ijsschots zou nu ook heerlijk smaken,_ dacht hij.
+A row of animals disembarked. They carried chests that were immediately plundered by the gardeners. Hundreds of soldiers had been commanded to grow the extra food---and they were all standing closer to the ship than Pin. They opened the chests, took out white clumps hard as diamonds, and ran back to their own little garden.
 
-Een rij dieren verliet het schip. Ze droegen kisten die meteen werden geplunderd. Honderden soldaten hadden de opdracht om extra eten te regelen, en die stonden allemaal dichterbij dan Pin. Ze openden de kisten, haalden steenharde witte brokken eruit, en renden naar hun eigen stukje harde grond.
+By the time Pin touched the ship, all _guayn_ had been handed out.
 
-Tegen de tijd dat Pin het schip aanraakte, was alles al vergeven.
+Fortunately he could always count on his best friend.
 
-Gelukkig kon hij altijd rekenen op zijn beste vriend.
+Dannis, an orange-black antelope, left the ship after a delay, holding the final chest with his antlers. He did so on purpose, even if the entire army called him the Delayed Deer by now.
 
-Dannis, een oranje-zwarte antelope, verliet pas minuten later het schip, met de laatste kist in zijn gewei. Dat deed hij altijd expres, hoewel de rest van het leger hem inmiddels de Langzame Lope noemde. 
+Pin tugged at Dannis' legs until he followed back to his "garden". They threw the entire contents of the chest upside-down, onto the dirt.
 
-Hij trok Dannis mee aan zijn poten, naar zijn eigen "tuin". Daar gooiden ze de kist ondersteboven op de grond.
+Pin stirred up the earth with his spade; Dannis did the same using his strong antlers. Soon they'd put all pieces of _guayn_ safely into the ground. To finish it off, they filled the chest with water several times. The gray sludge that appeared was _also_ spread over the garden.
 
-Pin schepte de grond aan gort; Dannis gebruikte daarvoor zijn gewei. Even later hadden ze het _guaan_ in vele kleine stukjes in de grond gestopt.
+"You arrived just in time", said Pin. "Remember how many animals lived here when we arrived all those years ago?"
 
-Om het af te maken, vulden ze de kist meerdere keren met water. Een grijze drab ontstond die ze óók over de hele tuin uitsmeerden.
+"Erm, a few thousand, right?" Dannis flattened the dirt further with his hooves. He had to smile. "We hesitated, unsure if we were even on the right island. We sought the major continent of Elwar, but thought we'd found a small island somewhere in the Caribean!"
 
-"Je kwam net op tijd," zei Pin. "Weet je nog hoeveel dieren hier woonden toen we jaren geleden aankwamen?"
+"The commander just said this island holds _ten thousand_ animals now! Where in godchildren's names are we supposed to get all that food!?"
 
-"Eh, een paar duizend, toch?" Dannis stampte de grond extra plat met zijn voorste hoeven. Hij moest glimlachen. "We twijfelden of we wel op de juiste plek waren. We zochten het continent Elwar, maar dachten dat we een klein eilandje in de Cariboon hadden gevonden!"
+Dannis' mouth became a line. "Don't know. We could _barely_ snatch this island of _guayn_ before the Freethieves got it. It might take a while before we conquer the next one."
 
-"Ja, nou, ik hoorde de commandant zeggen dat er inmiddels meer dan _tienduizend_ wonen! Waar moeten we al dat eten vandaan halen!?"
+"Don't talk like that, deerfriend. You're the _best_ Islandseeker I know."
 
-Dannis' mond werd een streep. "Ik weet het ook niet. We konden dit eiland met _guaan_ maar nét winnen van de Vrijdieven. Kan wel eens lang duren voordat we de volgende vinden."
+"I am the _only_ Islandseeker you know."
 
-"Zo moet je niet praten, makker. Jij bent de _beste_ Eilandzoeker die ik ken."
+"Feathers and fables, feathers and fables."
 
-"Ik ben de _enige_ Eilandzoeker die je kent."
+Pin waggled back to a sliver of shadow looking out over the ocean. He hit the water several times, aiming for a tasty fish. His only response was his own reflection, rippling in bright blue waves.
 
-"Snavels en fabels, snavels en fabels." Pin waggelde terug naar een stukje schaduw naast de oceaan. Hij sloeg een paar keer in het water, hopend op een lekker visje. Hij zag alleen zijn rimpelende weerspiegeling in het felle blauw.
+_Mmm. I could eat MYSELF by now,_ his rumbling stomach thought.
 
-_Ik zou mezelf wel kunnen opvreten,_ dacht zijn rommelende maag.
+Dannis leaned against a palm tree, exhausted. "Do you think _guayn_ also works its magic on Casbrita?"
 
-Dannis leunde uitgeput tegen een palmboom. "Denk je dat _guaan_ ook werkt op Casbrita?"
+Pin raised his wings. "You're the expert, deerfriend. I'm just a soldier. I guess it works, because Casbrita can feed enough soldiers to keep stealing half our ships."
 
-Pin trok zijn vleugels op. "Jij bent hier de expert, makker. Ik ben maar een soldaat. Het zal vast werken, want we moeten elke keer de helft van onze schepen afstaan aan Casbrita."
+"True yes, true yes. I just thought ... maybe we could go home again."
 
-"Da's waar, da's waar. Ik dacht ... misschien kan ik dan weer naar huis."
+"Go home? But---"
 
-"Naar huis? Maar---"
+"If I have a way to grow enough food, maybe my family would let me ..."
 
-"Als ik een manier heb om genoeg eten te regelen, laat mijn familie mij misschien weer ..."
+Pin's beak opened wide. He leaned forward and whispered. "You're planning on _stealing_ our supply of _guayn_? We were already cast out of our homes. You want us to be cast out of the army too!?"
 
-Pins snavel viel open. Hij leunde voorover en fluisterde. "Je bent van plan om dat spul te _stelen_? We zijn al weggestuurd van huis, wil je dat we hier ook worden weggestuurd?!"
+"No! But if I ... if I become the best Islandseeker ever, and find numerous islands like that ..."
 
-"Nee! Maar als ik ... als ik de beste Eilandzoeker ooit word, en superveel van die eilanden vind ..."
+Pin shivered. "They'll never let you have it. It's too valuable. Besides, we have no idea why the Guayn Islands appear, or where."
 
-Pin schudde zijn hoofd. "Ze zullen het nooit afstaan. Het is té waardevol. Daarnaast hebben we geen idee waar die eilanden verschijnen, of waarom."
+Pin spoke the truth about every single thing.
 
-Pin sprak over alles de waarheid. 
+When they woke up the next day, Pin's garden had already started growing. That _guayn_, that white material, almost seemed a magical medicine. As if Eeris, goddess of nature, had designed this and spread it all over the world to help the Godesweets. As if the Heavenmatter of Darus, the Stone of Destinydust, had decided to put its full magical power to use on Pin's garden.
 
-Toen ze de volgende ochtend wakker werden, was Pins tuintje al gaan groeien. Dat _guaan_, dat witte spul, leek wel een magisch wondermiddel. Alsof Eeris, godin van de natuur, dit had ontworpen om de Godelieven te helpen. Alsof het Hemelvoorwerp van Darus, de Steen van Zekerstof, plotseling diens magie op deze planten uitoefende.
+The soil had become fertile once more. In a while, this would create a pile of food for the pile of hungry soldiers.
 
-De grond was weer vruchtbaar. Over een tijdje zou dit een berg voedsel opleveren voor de berg soldaten in het leger.
+_Mmm. I wouldn't mind a bite out of a pile of soldiers,_ he thought.
 
-_Een lekker bergje zou nu ook wel smaken,_ dacht hij.
+Pin was also right about how clueless they were. The white islands just ... appeared. One day there was nothing but ocean, the next day a shining white island was visible from the beach. Both armies---the Godesweets as well as the Freethieves---employed large groups of Islandseekers for that reason. They had to discover new islands first and then deliver the message swiftly.
 
-Pin had ook gelijk dat ze géén idee hadden wat de eilanden voorstelden. Soms waren ze er ineens. De ene dag zag je alleen maar oceaan, de volgende stond er zo'n glanzend wit eiland naast het strand. Beide legers---zowel de Godelieven als de Vrijdieven---hadden grote groepen Eilandzoekers. Die moesten nieuwe eilanden als eerste ontdekken en deze boodschap dan razendsnel doorgeven. 
+Fortunately, the Apes had invented the Telephone by now. But, well, there were Apes on _both_ sides of the conflict, so their enemy could do long distance calls too. 
 
-Gelukkig hadden de Apen inmiddels de Telefoon uitgevonden, maar ja, de tegenstander had ook zo'n apparaat. Pin wist niet wat hij moest denken van de apen: de reden dat ze thuis geen eten meer hadden, was omdat _zij_ alles rond de IJsplaten leeg hadden gevist. Maar dat deden ze juist om dit leger te voeden.
+What to think of the Apes? They were the reason his home was destroyed; they took all the fish around the Southern Icesheets. But they did it to feed this army and fight for peace around the world.
 
-Dannis liet zich niet tegenhouden. Nog voor het middaguur trok hij Pin overeind en liep naar de commandant, een forse grijze aap die sommige wezens de Apenheer noemden.
+No matter how much truth Pin would speak, though, Dannis was undeterred. Before noon he pulled Pin upright and stalked to the commander, a large gray ape that some called the Ape Lord.
 
-"Ik vraag toestemming voor een nieuwe expeditie om eilanden te zoeken."
+"I ask permission to start a new expedition to seek islands."
 
-"Je gaat mee met de rest, zoals altijd Dannis. Het schip is over een week klaar om te vertrekken. Didrik denkt een eiland te hebben gezien bij de Cariboon."
+"You'll join the others, Dannis, like always. The ship will be ready to depart in a week. Didrik thinks he saw a new one near the Caribean."
 
-"Dit is te langzaam! We verliezen negen van de tien eilanden aan de Vrijdieven. We moeten leren _voorspellen_ waar ze verschijnen!"
+"It's too slow! We lose nine out of ten islands to the Freethieves! We must learn to _predict_ where they'll appear."
 
-De Apenheer schuddebuikte van het lachen. "Alsof we dat niet al decennia proberen. En? Heb je het geheim ontdekt?"
+The Ape Lord shook from laughter. "As if we haven't tried that for decennia. And? Discovered the secret?"
 
-"Nog niet, maar ik _zal_ het ontdekken als je mij een groep geeft en een stel wapens om---"
+"Not yet, but I _will_ discover it when you give me a squad and weapons to---"
 
-"Ga vooral op expeditie. Maar die wapens blijven hier."
+"Explore all you want. But my weapons stay here."
 
-Dannis stampte de aarde rondom de tent onnodig plat. "Prima!" riep hij terug. "Ik ga op onderzoek!"
+Dannis flattened the dirt around the tent, even though it was already hard as stone. 
 
-Hij draaide naar Pin om hem te overtuigen, maar dat hoefde natuurlijk niet. Pin sprong al op zijn rug. 
+"Fine!" he yelled back. "I am going to do research!"
 
-Dannis sprintte zo hard hij kon weg van het legerkamp. Hij voelde zich veilig en vrij om het hele eiland te verkennen, zelfs zonder wapens.
+He turned to Pin to start a convincing speech, but that was obviously unnecessary. Pin had already jumped on his back and made a face to the Ape Lord.
 
-De oorlog woedde namelijk vooral op Origina, niet hier. De Vrijdieven---voornamelijk Duivenland en Hongerbij---voelden zich jaren geleden aan alle kanten ingesloten. Dus wat deed je dan? Extra landjes inpikken bij de slecht verdedige Spooklanden. Uit wraak hadden de Godelieven iemand van hen vermoord, en zo begon al deze ellende.
+Dannis sprinted away from the army camp as fast as he could. He felt safe and free to explore the entire island, even without weapons.
 
-"Eh, wat nu?" fluisterde Pin in Dannis' oor.
+Because the war happened mostly on Origina, not here. The Freethieves---made up of Doveland and Hungerbee---felt locked in by enemies a few years ago. So what did they do? They violently took more countries around the poorly defended Ghostlands. Out of revenge, the Godesweets had killed an important member of them, and that's how the misery started.
 
-"Weet je nog hoe Didrik vertelde dat een aantal van de Hemelvoorwerpen kwijt zijn?" fluisterde Dannis terug, ook al waren ze helemaal alleen. 
+"Erm, what now?" Pin whispered in Dannis' ear.
 
-Hij sjokte door een bos verderop het eiland, richting een strand dat ze bijna nooit bezochten. Door de bomen kon hij al zien dat het strand leeg was. Geen eiland, geen schip, zelfs geen vis. "Ik, eh, hoop héél hard dat de Steen van Zekerstof hier ergens ligt."
+"Remember how Didrik told us that several Heavenly Objects are still lost?" Dannis whispered back, even though they were alone.
 
-Pin sloeg een vleugel tegen zijn voorhoofd. "Dannis, hoe groot is nou de kans dat het allerkrachtigste Hemelvoorwerp _toevallig_ op---"
+He trudged through a forest at the heart of the island, aiming for a beach on the other side they rarely visited. Through the trees he could already spot an empty shoreline. No island, no ship, not even fish.
 
-Een zwerm vogels zoefde boven hen langs. Pin gooide razendsnel een helm op zijn hoofd---en net op tijd. Flinke spetters vogelpoep ketsten ervan af. Dannis was minder gelukkig en kreeg een paar in zijn vacht.
+"I, erm, am praying real hard that the Stone of Destinydust is somewhere around here."
 
-"Makker! _Altijd_ je helm meenemen. En je wapen!" _Hmm ik vraag me af of zo'n helm lekker zou smaken._
+Pin hit his forehead with his wing. "Dannis, what do you think are the chances of the most powerful Heavenmatter just _happening_ to---"
 
-Dannis hoorde het niet. Ze braken door de boslijn, het strand op, waar plotseling een _eiland_ glom.
+A flock of birds whizzed overhead. Pin rapidly put on his helmet---and just in time. Large droplets of bird poop went splat on the metal. Dannis was less fortunate and received some white spots in his fur.
 
-"Alle godenkinderen nog aan toe," mompelde Pin.
+"Deerfriend! _Always_ take your helmet with you. And your weapon!" _Hmm. At this point, I wonder what a helmet would taste like._
 
-"Word ik gek, Pin? Ben ik gek geworden?" mompelde Dannis terug.
+Dannis didn't hear. The broke through the tree line and ran onto the beach.
 
-"Nou, ja, makker, als je het echt wilt weten---"
+Where a small island made of _guayn_ shone in the sunlight.
 
-"Of was dat eiland er net nog niet?"
+"All the godchildren," Pin mumbled.
 
-Pin trok zijn helm nog strakker en zocht zijn wapen. Alle dieren in het leger hadden wapens gekregen die speciaal voor hen waren ontworpen. Zijn wapen was een koker die hij in zijn snavel kon stoppen, zodat hij kon _blazen_ om pijlen af te vuren. "Nee, dat eiland was er net nog niet."
+"Am I going insane, Pin? Am I mad?" Dannis whispered.
 
-"De vogels," zei Dannis met piepende stem. "Zij maken de eilanden. Ik weet niet hoe, maar zij doen het."
+"Well, yes, deerfriend, if you really want to know---"
 
-"Je bedoelt ... dat guaan ... dat spul dat we allemaal de hele dag aanraken ... _vogelpoep_ is?"
+"Or wasn't that island there just a few moments ago?"
 
-Dannis en Pin werden tegelijkertijd muisstil. Wat zij niet wisten, was dat de vijand stiekem hier aan land was gekomen met een groepje Eilandzoekers. 
+Pin pulled the strap of his helmet even more taut and grappled for his weapon. 
 
-Zij hadden het eiland nu ook gezien.
+All animals in the army had received weapons especially designed for their species. His gun was a wooden tube he could fill with arrows and place in his beak. By _blowing_ into it, he could shoot anyone in a large range.
 
-"Halt! Blijf weg! Dit eiland is van ons!" riep Dannis.
+"No. That island wasn't there last time we looked."
 
-Pin plaatste zijn wapen tegen de snavel en blies een paar waarschuwingsschoten. Ze prikten vooral enkele kokosnoten open.
+"The birds," Dannis squeaked. "They make the islands. I don't know how, but they do."
 
-Hij wenste dat hij een tweede helm had meegenomen voor Dannis. Daarnaast wenste hij om een lekker stuk vlees. Maar als derde wenste hij dat ze meer dieren hadden meegenomen.
+"You mean ... that _guayn_ ... the material I'm touching all day ... is _bird poop_?"
 
-Zij hadden één antelope en één pinguïn naar het gevecht gebracht. De tegenstander bracht tien bevers.
+Dannis and Pin fell silent. What they hadn't spotted was the arrival of the enemy; a handful of Islandseekers that wanted to claim this island first.
+
+"Halt! Stay away! That island is ours!" Dannis yelled.
+
+Pin placed his weapon in his beak and send a few warning shots. They mostly split coconuts in half.
+
+If only he had brought a second helmet for Dannis. And he wished for a tasty piece of meat for energy and strength. Oh, but maybe he should really wish for reinforcements right about now.
+
+They had brought one antelope and one penguin to the fight. The enemy had brought ten beavers.

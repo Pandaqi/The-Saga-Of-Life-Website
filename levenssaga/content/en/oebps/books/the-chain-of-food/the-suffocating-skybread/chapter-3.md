@@ -1,136 +1,147 @@
 ---
-title: "Eerste Eilandzoeker"
+title: First Islandseeker
 weight: 3
 ---
+Dannis and Pin could not win the island. They were glad to escape with their fur still on their back. Once the beavers realized the Godesweets had only sent _two_ animals, they didn't just defend the island, they actively tried to kill Dannis.
 
-Dannis en Pin konden het eiland niet winnen. Ze waren al blij dat ze konden ontsnappen. Toen de bevers doorhadden dat de Godelieven maar _twee_ dieren hadden gestuurd, probeerden ze niet alleen het eiland te pakken, maar ook Dannis te vermoorden.
+Fortunately an antilope, despite what the name suggested, was quite good at loping. Panting heavily, he stormed back into the Godesweets camp, where Pin immediately jumped off his back to find the Ape Lord.
 
-Gelukkig was een antelope, ondanks wat de naam suggereerde, best wel goed in lopen. Zwaar hijgend stormde hij het kamp van de Godelieven in, waar Pin meteen van zijn rug sprong en de Apenheer opzocht.
+"The Freethieves have arrived! They took an island along the shore of Seahorse Beach!"
 
-"De Vrijdieven zijn aan land gekomen! Ze hebben een eiland op het Zeepaardstrand gepakt!"
+"Nice try," the Ape Lord said smiling. "You want more weapons, eh? More animals?"
 
-"Goed geprobeerd," zei de Apenheer lachend. "Je wilt zeker meer wapens? Meer dieren?"
+"Well, honestly, it's a bit too late for that. They already own the island."
 
-"Nou, eerlijk, daar is het nu een beetje laat voor. Ze hebben het eiland al."
+The Ape Lord paused. His movements ceased in the middle of the hot, suffocating tent. It had never been Casbrita's plan to stay here this long, which is why they never build any proper buildings.
 
-Dat liet de Apenheer pauzeren. Hij bevroor middenin de vervelend warme tent. Het was nooit de bedoeling dat de Casbrita hier lang zouden blijven, dus ze hadden nooit gebouwen gebouwd. "Jullie zijn serieus? De Vrijdieven zijn hier? Er was echt een eiland daar?"
+"You are serious? Freethieves are here? There was an actual Guayn Island there?"
 
-Dannis knikte, terwijl hij nog altijd hapte naar adem. "Ik heb ... ik heb misschien een manier om te voorspellen waar eilanden---"
+Dannis nodded, still searching for breath. "I have ... I may have found a way to predict where islands---"
 
-Pin duwde een natte zwarte vleugel tegen Dannis' mond. "Houd de uitvinding voor je, makker," fluisterde hij. "Dit kan de wereld veranderen. Als ze praten over de redder van de Godelieven, wil je dat ze _jouw_ naam noemen. Misschien win je wel een Knobbelprijs!"
+Pin pushed his wet black wing against Dannis' mouth. 
 
-Met zijn gewei trots omhoog, stapte Dannis vooruit. "Ik heb ontdekt hoe ik nieuwe eilanden kan voorspellen. Geef me een team en ik zal u niet teleurstellen."
+"Keep the invention to yourself, deerfriend," he whispered. "This could change the world. When they talk about the savior of the Godesweets, you want them to say _your_ name. You might even win the Knobble Prize!"
 
-De Apenheer duwde zijn handen samen, alsof hij ging bidden, en sprak lieflijk. "Beste soldaat, vertel ons deze grote ontdekking, zodat we _allemaal_ Eilanden kunnen gaan zoeken. Kom kom, de Godelieven houden geen geheimen voor elkaar."
+Antlers held high, Dannis still stepped forward. "I have discovered how to predict where new islands will be. Give me a squad and I won't disappoint."
 
-Dannis keek opzij. Pin schudde zijn hoofd. _Dannis is geen soldaat,_ dacht hij. _Belangrijke geheimen gaan bij hem als warme broodjes over de---ugh, ik zou wel honderd warme broodjes vis lusten._
+The Ape Lord pressed his hands together, as if about to entre prayer, and spoke sweetly. "Dear soldier, tell us this great discovery, so we can _all_ start looking for islands. Come come, the Godesweets do not keep secrets for one another."
 
-Pin besloot zijn vriend te helpen. "We houden deze informatie nog even geheim. Want als de Vrijdieven hier zijn, lopen er misschien wel spionnen in ons kamp! Ik vraag alleen betaling in de vorm van lekkere visjes om te eten."
+Dannis looked to the side. Pin shook his head. _Dannis is no soldier,_ he thought. _Important state secrets leave his mouth like warm---ugh, I could eat a hundred warm fish right now._
 
-De Apenheer leunde achterover. Zijn stoel was rijk versierd, ongetwijfeld gebouwd door de Berenbouwers, maar kraakte onder zijn gewicht. Hij tikte op de kaart. "Prima. Jullie krijgen één schip. Stel me niet teleur."
+"We'll keep this information secret," said Pin decisively. "If the Freethieves are here, they might have a spy in our midst! I merely ask payment in the form of tasty fishes."
 
-Terwijl Dannis en Pin glimlachend wegrenden om hun spullen te pakken, gaf de Apenheer bevelen om de omgeving uit te kammen op spionnen.
+The Ape Lord leaned backward. His chair was richly decorated, undoubtedly built by the Bearchitects, but squeaked under his weight. He tapped the map. 
+
+"Fine. You get one ship. Do not disappoint me."
+
+As Dannis and Pin ran away to prepare for the journey, the Ape Lord commanded everyone to search the area for spies and Freethieves.
 
 ___
 
-Dannis leerde snel dat niet _alle_ vogels de eilanden maakten. De meeste vogels deden niks bijzonders. Dagenlang volgden ze een zwerm kolibries, helemaal tot de Cariboon, totdat ze geïrriteerd omlaag kwamen en vroegen waarom dit schip hen achtervolgde. 
+Dannis quickly learned that not _all_ birds made islands. Most birds did nothing special. They followed a flock of hummingbirds for days, all the way to the Caribean, until they came down and condescendingly asked why this ship was stalking them.
 
-Hij probeerde het uit te leggen, maar de zin "jullie poep is het enige dat zorgt voor genoeg eten" hielp niet.
+He tried to explain. But the sentence "your poop is the only thing that keeps us alive" did not help.
 
-Ze wisten wel wat hij bedoelde. "Je bent op zoek naar adelaars," zeiden de kolibries, zenuwachtig in het bijzin van Pin. De meeste dieren konden meteen zien of iemand een vleeseter was---maar welk vlees ze _precies_ aten was minder duidelijk. Op de wilde oceaan, onbeheerd en afgelegen, waren geen regels over dat je mededieren niet mocht opeten. 
+They knew what he meant, though.
 
-"Ik eet alleen vis," zei Pin met een glimlach. "Een pescotariër, zoals de apen zeggen." _Hoewel mijn maag steeds meer roept dat elk stukje vlees mag._
+"You are looking for eagles," the hummingbirds said, nervous due to Pin's predatory presence. Most animals could instantly judge if someone was a carnivore or not---but _which_ meat they liked to eat was less clear at first sight. Out on the ocean, uncontrolled and unclaimed, there were no rules forbidding predators from eating prey whenever they liked.
 
-"Eén van die adelaars heeft een gigantische vleugel. We denken dat het een Hemelvoorwerp is: de Windvlaagvleugel van Cosmo. Daardoor is alles wat ze doen ... groter en magisch. Als zij besluiten ergens te poepen, ontstaat er zoveel dat een heel _eiland_ verschijnt."
+"I only eat fish," Pin said with a disarming smile. "A pescatarian, as the Apes say."
 
-"Waarom zijn _jullie_ geen Eilandzoekers?" vroeg Dannis verbaasd. "Vliegende dieren kunnen toch veel sneller eilanden vinden?" 
+_Hmm. Though my stomach increasingly sings a song that would accept any possible meat._
 
-Pin kon zijn makker wel voor het gezicht slaan.
+"One of the eagles has a giant wing. We think it's that Heavenly Object: the Windgustwing of Cosmo. This makes everything they do ... larger and more magical. If they decide to go to the toilet somewhere, they create so much _guayn_ that an entire island appears."
 
-De kolibrie hupste van de linkerpoot naar de rechterpoot. "We geven er niks om. Als ergens problemen zijn, dan vliegen we weg. Als ergens geen eten meer is, vliegen we weg. Vecht jullie oorlogen; laat ons erbuiten."
+"Why are _you_ not Islandseekers?" Dannis asked with a frown. "Flying animals would be able to spot all those islands far more easily."
 
-Dannis bedankte de vogels en speurde het luchtruim af naar adelaars. 
+Pin was about to hit his deerfriend in the face for this foolish suggestion. That antelope really had to keep his mouth---
 
-Toen ze die eenmaal vonden, bereikten ze het eerste eiland binnen een paar dagen. Afgelegen en onbewaakt. De Vrijdieven hadden geen kans en kwamen veel te laat. 
+The hummingbird hopped onto their other leg. "We don't care. If there's trouble, we fly away. If there's no more food, we fly away. Fight your wars; leave us out of it."
 
-Ze hadden een derde bemanningslid meegekregen. Een papagaai met praatjes die beweerde voor de legendarische kapitein Pi te hebben gewerkt. Pin hoorde het gebabbel aan, zolang hij zijn werk maar deed. Zodra ze het eiland vonden, moest hij terugvliegen om de Apenheer een deel van het leger te laten sturen.
+Dannis thanked the birds. Now he searched the sky for eagles all day.
 
-_Je denkt misschien, beste lezer, dat ze gewoon die Telefoon hadden kunnen gebruiken. Maar in deze tijd betekende een telefoon een kastje aan de muur, die vastzat met een draad. Draadloos bellen was er niet bij, zeker niet op zee._
+Once they found a few, they also found their first White Island in mere days. Deserted and unprotected. The Freethieves had no chance and spotted it far too late.
 
-Dannis wilde de adelaars niet kwijtraken en stuurde het schip meteen verder. Deze was gelukkig uitgerust voor vierpotigen. Het stuur stond niet overeind, maar lag het op de grond. Zo kon je sturen door ertegenaan te _lopen_, in plaats van dat je handen nodig had. Op dezelfde manier kon je de zeilen hijsen door een touw in je bek te nemen en het anker laten zakken door bovenop een loszittende plank te springen met je volle gewicht.
+They had picked up a third crew member. A parrot that talked too much and claimed he'd worked for the legendary captain Pi. Pin was fine with listening to the wild stories, as long as he did his job. Whenever they found an island, the parrot flew back to the Ape Lord to send some soldiers to grab it.
 
-Maar het allerfijnste was dat er een kleine motor in het schip zat. Een nieuwe uitvinding van de apen. Broodnodig ook, want een ouderwets schip had je met drie wezens niet kunnen besturen.
+_You might think, dear reader, that they could've just used that new invention of the Telephone. But in these times, a Telephone meant a cabinet on the wall and a metal object connected with a thick wire. Calling wirelessly was not possible yet, certainly not at sea._
 
-Ze bleven de adelaars op een afstandje volgen; het volgende eiland werd snel bereikt. Ze kwamen nu wel erg dichtbij het territorium van de Vrijdieven. Dannis schatte in dat ze nu nog aan de goede kant van de Liefdesmuur waren, maar dat zou niet lang zo blijven.
+Dannis refused to lose the eagles and kept chasing them. Fortunately, the ship was designed for quadrupeds like him, not apes. The steering wheel did not stand upright, but lay flat on the floor. This way, you could steer by simply _walking_ against it, instead of requiring the use of hands. Similarly, the sails were raised by biting on a thick rope and running, and the anchor controlled by jumping on a seesaw plank with your full weight.
 
-Dus toen ze hun schip erop afstuurden, deed een Vrijdiefschip aan de overkant precies hetzelfde. 
+The best thing? The ship had a small motor. Another new invention by the apes. Necessary, too, because a traditional ship was impossible to sail with just three inexperienced animals.
 
-De twee vrienden keken gespannen naar het dek. Ze waren _weer_ met minder. 
+They followed the eagles from a distance; the next island appeared son. They were in range of Freethieves territory now. Dannis estimated they were still on the right side of the Lovewall now, but not for long.
 
-"We moeten sneller aankomen," zei Pin, terwijl hij aan het touw hing om de zeilen hoger te hijsen. "Dan staan wij hoog, en zij laag."
+When they sent their ship for the island, a Freethieves ship on the other side did the exact same thing.
 
-"En dan? Zijn ze bang omdat we langer zijn? Werpen we een enge schaduw over hen heen?" Dannis fronste. "Als dat werkt, moeten we echt méér giraffen huren voor ons leger!"
+The two friends grabbed each other's paws and studied the enemy deck. They had lesser numbers _again_.
 
-Pin zuchtte. "Heb je dan niks geleerd van training? Een leger wil altijd de hogere positie hebben."
+"We must arrive earlier," said Pin, as he hung from the rope that raised the main sail. "Then we have the high ground."
 
-Dannis trippelde zenuwachtig over het dek. "We kunnen nog omdraaien en een ander eiland zoeken."
+"And then? They fear us because we're taller? We cast a scary shadow over them?" Dannis frowned. "If that works, we really need _more giraffes_ for our army!"
 
-"Nee!" Pin laadde zijn koker met pijltjes. "Dat is het grootste eiland dat we ooit hebben gezien! We moeten de tegenstander laten zien wat we kunnen."
+Pin sighed. "Did you not do your training? An army _always_ wants the high ground."
 
-De schepen waren even snel, even ver, even slecht voorbereid op een gevecht. Ze cirkelden op hetzelfde moment rondom het eiland. De bevers en fretten van het andere schip klommen vanaf het schip op de berg _guaan_. Ze kropen langzaam naar de top alsof ze hagedissen en krabben waren.
+Dannis tiptoed from left to right and back again. "We can still turn around and find another---"
 
-_Hmm een krab is ook een soort van vis, toch?_ dacht Pin terwijl hij watertandde.
+"No!" Pin had stocked his tube with arrows. "This is the largest island we've seen! We must show the enemy the Godesweets can do."
 
-Dannis en Pin hadden een ander idee. De pinguïn klom op de rug van de antelope, die steigerde en het zwart-witte beest---met helm---afvuurde alsof hij een kanonskogel was.
+The ships were equally fast, equally far, and equally ill-prepared for a fight. They circled around the island at the same time. The beavers and ferrets on the other ship tried a large leap and landed at the bottom of the pile of _guayn_. They slowly scuttled to the top as if they were lizards and crabs.
 
-Pin landde bovenop het eiland. De inslag brak een stuk guaan af en regende kiezelsteentjes op de tegenstander. Een paar moesten loslaten en vielen schreeuwend in het water.
+_Hmm. A crab is also a kind of tasty fish, is it not?_ thought Pin as his mouth watered.
 
-De vele stofwolken lieten hem hoesten en belemmerden zijn zicht. Toen de mist opklaarde, stond de vijand al bijna voor zijn neus. Pin plaatste de koker en begon razendsnel pijlen te schieten.
+Pin climbed onto the antelope's back. Dannis pranced, which fired the penguin---with helmet---as if he were a cannonball.
 
-De pijlen waren te klein om te doden. Het waren verdovingspijlen, wat betekende dat de vijand alsnog bovenop het eiland kwam, maar vanaf dat moment vooral wilde _slapen_. De Godelieven hadden nauwelijks genoeg guaan voor kogels, dus Pin had al in tijden geen écht geweer aangeraakt. 
+Pin landed all the way at the top of the island. His landing broke off a large chunk of _guayn_ and made it rain on the heads of their foes. A few had to let go and fell into the water.
 
-Langzaam werd hij omringd door een krans van slapende bevers, maar de fretten waren sneller en sluwer.
+The resulting dust clouds made him cough and ruined his sight. As the fog cleared, the enemy was almost upon him. Pin placed his weapon in his beak and started a rapid fire of arrows.
 
-Bovendien hadden zij wél geweren.
+The arrows were too tiny to kill. They were tranquilizer darts, which meant the enemy might reach the top of the island, but would feel the immense desire to _sleep_. The Godesweets lacked enough _guayn_ to make bullets, which is why Pin hadn't touched a real weapon in ages.
 
-Knal na knal vulde de blauwe lucht. Pin rolde achterover, terwijl de kogels hem raakten.
+Slowly a crescent moon of sleeping beavers surrounded him. The ferrets, however, were faster and more cunning.
 
-Zijn helm ving de klappen op.
+Also they had weapons.
 
-De fretten, zeker van de overwinning, wilden alvast hun vlag planten in het midden. Maar zelfs op dit grote eiland kon je nauwelijks een stap zetten of je had de rand al bereikt.
+Shot after shot rang into the open sky. 
 
-Dus toen Pin uit het niets opsprong en de fretten in hun buik schopte, strompelden ze achteruit en vonden geen grond meer onder hun poten. Allemaal vielen ze naar beneden, langs de rand van het eiland, in het kolkende water. 
+Pin rolled backward as the bullets hit him. His helmet shielded him for now.
 
-"Begrijp je _nu_ waarom je de hoge positie wil hebben, makker?" riep Pin glimlachend naar Dannis.
+The ferrets, certain of victory, were about to plant their flag into the island. But even on this large island you could barely take a step before reaching the other edge.
 
-Hij wilde de slapende bevers ook over de rand duwen, maar Dannis hield hem tegen. Zijn gewei wees naar de kapitein van het Vrijdiefschip. "We geven de bevers terug, als jullie wegvaren en ons met rust laten."
+Pin suddenly jumped back to life and kicked a few ferrets in their stomach. They stumbled backward, just one or two paces, but it was enough to remove the floor beneath their feet. They all fell down the white cliff, into the churning waters.
 
-De kapitein knikte razendsnel. Samen tilden ze alle snurkende wezens terug naar het schip en lieten hen even later wegvaren.
+"Do you _now_ understand why we want the high ground, deerfriend?"
 
-"Je bent zo'n domoor," klaagde Pin. "Het is onze _vijand_. En jij helpt ze vrolijk verder zoeken naar eilanden."
+He wanted to kick the sleeping beavers over the edge too, but Dannis stopped him. His antlers pointed at the captain of the Freethieves ship.
 
-"Ons doel is om eilanden te vinden en iedereen eten te geven. Niet om zoveel mogelijk vijanden pijn te doen. Of was je dat soms vergeten?"
+"We return the beavers, but only if you sail away and leave us alone for good."
 
-"Een _soldaat_ begrijpt dat die twee dingen soms hetzelfde zijn." 
+The captain nodded eagerly. Together they carried the snoring creatures back to the ship and even waved them goodbye as they went.
 
-Pin trok zijn helm nog strakker en keerde zijn rug. Met vinnen over elkaar keek hij naar het vijandelijke schip aan de horizon.
+"You're such a _fool_," complained Pin. "They're our _enemy_. And you merrily help them find the next island more quickly than us!"
 
-Hun papagaai kwam terug. Hij had moeite om in de lucht te blijven, want in zijn snavel hing een zware emmer vol vissen. Toen hij die op het eiland plaatste, was Pins humeur plotseling verbeterd, en de emmer binnen een kwartier leeg.
+"Our goal is to find food for all. Not to hurt as many enemies as possible. Or did you forget?"
 
-"Goed nieuws! De Apenheer bedankt jullie voor alle eilanden! Als je zo doorgaat, benoemt hij je misschien wel tot Eerste Eilandzoeker!"
+"A _soldier_ understands those two are often the same thing."
 
-"Krijg ik daar iets voor?"
+Pin pulled the strap of his helmet more taut and turned his back. Fins crossed he watched the enemy ship leave.
 
-"Wat je maar wilt. Dankzij jou is er steeds minder hongersnood."
+Their parrot returned. He struggled to stay in the air because of a bucket filled with fish held in his beak. Once he placed that on the island, Pin's mood suddenly lifted and the bucket was empty within minutes.
 
-Dannis en Pin keken elkaar aan. Alle boosheid was vergeven en ze botsten hun lijven tegen elkaar. Glimlachend klommen ze weer op het schip.
+"Good news! The Ape Lord thanks you for the islands! If you continue like this, he might even name you First Islandseeker!"
 
-Ze vonden de adelaars terug en volgden hen een week, zonder eiland. 
+"Do I get something for that?"
 
-Ze waren nu sowieso in oorlogsgebied. Ze voeren al een tijdje langs de kust van de Balkze. Deze hele oorlog begon vanwege de Spooklanden die de Balkze wilden innemen, en Dannis had geen idee wie er op dit moment de baas was.
+"Whatever you want. Thanks to you, the army grows less hungry by the day."
 
-Toen ze eindelijk een volgend eiland vonden, diep in vijandelijk gebied, was het onbewaakt. Dit verbaasde Pin.
+Dannis and Pin looked at each other. The argument had already been forgotten as they bumped their bodies against each other. They returned to the ship, all smiles.
 
-Het verbaasde hem nog meer dat ze wekenlang konden wachten, totdat de Apenheer een legertje had gestuurd om het guaan te stelen, en nog _steeds_ geen enkele vijand verscheen.
+They tracked the eagles again and followed them for a week, but found no island.
 
-_Dannis denkt vast weer dat dit goed nieuws is,_ dacht Pin. _Maar mijn soldatenbrein slaat alarm._
+They had entered war territory now. For a while, they followed the shoreline of Balkze. This entire war started because the Ghostlands wanted to conquer Balkze, which means Dannis had no idea who _currently_ held the territory.
+
+When they finally found the next island, deep inside Freethieves territory, it was ungarded and untouched.
+
+This surprised Pin. It surprised him even more that they could wait for _weeks_, until the Ape Lord had sent reinforcements to steal the _guayn_, and still no enemy appeared to have spotted it.
+
+_Silly Dannis probably thinks it's great news,_ Pin thought. _But my soldier brain is on full alert._

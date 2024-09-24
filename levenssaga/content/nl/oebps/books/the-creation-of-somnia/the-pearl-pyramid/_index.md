@@ -9,10 +9,10 @@ book: true
 timeperiod: 'De Vondst van Floria'
 cycle: 'Het Ontstaan van Somnia'
 bundle: 'Schildpadden & Schaduwsluipers'
-character: ['Jaco (Jakhals)', 'Gidi (Duingazelle)', 'Halek (Schaduwsluiper)', 'Anniwe (Kompaan)', 'Isis']
+character: ['Jaco', 'Gidi', 'Halek', 'Anniwe', 'Isis']
 prequel: ['De Schildpadstad']
 teaches: ['Egyptische mythologie']
-refers: ['Volgers van Ra', 'Religie van de Verbannelingen', 'Wo (Opperwolk)', 'Donte (Dino)', 'Ra (Florische Oppergod)', 'Woestijnglas', 'Parelpiramide', 'Grijpglas', 'Ondergang van de Duingazelles', 'Koninklijke Duingazelles', 'Recht van de Sterkste Tijger', 'Heldehaven', 'Bank van Heldehaven', 'Het Drijvende Ei']
+refers: ['Volgers van Ra', 'Religie van de Verbannelingen', 'Wo Opperwolk', 'Donte', 'Ra', 'Woestijnglas', 'Parelpiramide', 'Grijpglas', 'Ondergang van de Duingazelles', 'Koninklijke Duingazelles', 'Recht van de Sterkste Tijger', 'Heldehaven', 'Bank van Heldehaven', 'Het Drijvende Ei']
 happens: ['Ongewenste Koning van Floria', 'Het Eerste Graszaadje', 'Uitsterven van de Schaduwsluipers', 'Vloek van Isis', 'Het Parelpad']
 godlink: ['Isis']
 genre: ['Breinbreker', 'Actief', 'Mythe', 'Avontuur', 'Ontdekking', 'Eng', 'Grappig', "Geschiedenis"]

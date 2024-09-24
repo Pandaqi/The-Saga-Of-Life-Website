@@ -8,10 +8,10 @@ book: true
 timeperiod: "The Cloudtority"
 cycle: "The Creation of Somnia"
 bundle: "Wings & Traitors"
-character: ['Bella', 'Cosmo', 'Eeris', 'Darus', 'Dilova (Dove)', 'Fiante (Protobird)', 'Abrahon (Proto-Turtle)'] # might name them Primbird and Primturtle, or Ancient Bird and Ancient Turtle
+character: ['Bella', 'Cosmo', 'Eeris', 'Darus', 'Dilova', 'Fiante', 'Abrahon'] # might name them Primbird and Primturtle, or Ancient Bird and Ancient Turtle
 prequel: ['The Stone Dinosaurs']
 refers: ['Nightriver', 'Sunset River', 'Maybemountains', 'Wildplains of Wit', 'The Ghostbird', 'The Midterra Sea', 'Atheeni']
-happens: ['The Big Stairs', 'Stairsleep', 'Dracs (God Laws)', 'Clansteads']
+happens: ['The Big Stairs', 'Stairsleep', 'Dracs', 'Clansteads']
 godlink: ['Bella', 'Eeris', 'Cosmo', 'Darus']
 genre: ["Dialogue", 'Society', 'Discovery', 'Creation', 'Gods', 'Espionage', 'Crime', "Biology"]
 

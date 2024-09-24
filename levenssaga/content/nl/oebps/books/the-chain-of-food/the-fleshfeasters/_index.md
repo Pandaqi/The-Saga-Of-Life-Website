@@ -11,7 +11,7 @@ book: true
 timeperiod: 'De Eerste Stappen'
 cycle: 'De Keten van Voedsel'
 bundle: 'Planteneters & Vleesvreters'
-character: ["Feria", "Ardex", "Darus", "Eeris", "Magim (Baarddraak)", "Higgis (Hagedis)", "Hespryhond"]
+character: ["Feria", "Ardex", "Darus", "Eeris", "Magim", "Higgis", "Hespryhond"]
 prequel: ["De Zwemmende Poort"]
 refers: ["Eerste Vleeseters", "CARN Complot", "Vuurring", "Hemelvoorwerpen", "Zielscheurder", "Eeuwig Leven", "Nachtrivier", "Aparantrivier", "Onmogelijke Muur van Darus", "Somsgevuld", "Saurzee", "Mond van Din", "Origina"]
 happens: ["Toestaan Vleeseters", "Ontstaan Bijnabergen", "Vierde Reuzenuitsterving", "Losbreken Volarde"]

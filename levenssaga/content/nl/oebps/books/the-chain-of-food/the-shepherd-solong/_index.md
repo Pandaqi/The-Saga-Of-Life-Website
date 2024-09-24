@@ -9,11 +9,11 @@ book: true
 timeperiod: 'Het Kompaanschap'
 cycle: 'De Keten van Voedsel'
 bundle: 'Himaherders & Receptversnellers'
-character: ["Himnib (Beer)", "Solong (Beer)", "Behdo (Schaap)", "Behdiël (Schaap)", "Barina (Schaap)", "Lazpard (Sneeuwluipaard)", "Hirdi (Wasbeerhond)"]
+character: ["Himnib", "Solong", "Behdo", "Behdiël", "Barina", "Lazpard", "Hirdi"]
 prequel: []
-refers: ["Compana", "Dolfijnenpas", "Raad van Kame", "Heilige Stenen", "Magica", "Traferia", "Gallo (Gigant)", "Hemelse Bloemen", "Hemelvoorwerpen", "Aparantrivier"]
+refers: ["Compana", "Dolfijnenpas", "Raad van Kame", "Heilige Stenen", "Magica", "Traferia", "Gallo", "Hemelse Bloemen", "Hemelvoorwerpen", "Aparantrivier"]
 happens: ["Wet tegen Bezit Afgewezen", "Wet tegen Herders Afgewezen","Berenkompanen Stoppen", "Ontstaan Herdershond"]
-godlink: ["Solong (Beer)"]
+godlink: ["Solong"]
 genre: ["Actief", "Verdrietig", "Familie", "Maatschappij", "Magie", "Reizen", "Educatief", "Tussendoortje"]
 teaches: ["Herdersleven"]
 

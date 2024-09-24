@@ -7,7 +7,7 @@ book: true
 tijdperk: 'Het Zwarte Gat'
 cyclus: 'Het Ontstaan van Somnia'
 bundel: "Droomdino's & Knuffelgoden"
-karakters: ['Ardex', 'Bella', 'Cosmo', 'Darus', 'Eeris', 'Feria', 'Gulvi', 'Hanah', 'Zandkoning (Claes)']
+karakters: ['Ardex', 'Bella', 'Cosmo', 'Darus', 'Eeris', 'Feria', 'Gulvi', 'Hanah', 'Zandkoning']
 leert: ['Zwaartekracht', 'Aardekern', 'Maanvorming', 'Bacteriën']
 refereert: ['De Voorspelling']
 gebeurt: ['Het Groene Pad', 'Het Bruine Pad', 'Het Diamantenpad', 'Zandmannetjes', 'Onmogelijke Muur van Darus', 'Wijze Zee', 'Zwoele Zee', 'Eerste Zee', 'Zandmeer']

@@ -9,10 +9,10 @@ book: true
 timeperiod: 'Het Zeevaarderschap'
 cycle: 'Het Ontstaan van Somnia'
 bundle: 'Dromenspelers & Tijdverdelers'
-character: ['Zandkoning (Claes)', 'Meogg (Brulkikker)', 'Parog (Brulkikker)', 'Holog (Brulkikker)', 'Olombos']
+character: ['Zandkoning', 'Meogg', 'Parog', 'Holog', 'Olombos']
 refers: ['Laatste Vlucht van Cosmo', 'Eerste Reis van Olombos', 'Uitvinding van Slaap', 'Oervogels', 'Dodo', 'Apra', 'Apenrijk', 'Gosti', 'Eiergrot', 'Ziel van Cosmo', 'Wet van de Eerste Landing', 'Komst van de Zeevaarders', 'Verre Eilanden', 'Sigriplant', 'Cristaltirans']
 happens: ['Tweede Reis van Olombos', 'Porto Volo', 'Ei van Olombos', 'Zielbeschermers']
-godlink: ['Zandkoning (Claes)']
+godlink: ['Zandkoning']
 genre: ["Actief", "Gevecht", "Ontdekking", "Goden", "Reizen", "Creativiteit", "Verdrietig", "Groeien", "Biologie", "Geschiedenis"]
 prequel: ['De Grote Trap']
 

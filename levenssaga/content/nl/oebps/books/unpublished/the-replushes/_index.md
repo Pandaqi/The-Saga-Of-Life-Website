@@ -10,7 +10,7 @@ book: true
 timeperiod: 'De Eerste Stappen'
 cycle: 'Het Ontstaan van Somnia'
 bundle: 'Pluizenaars & Knuffelgoden'
-character: ['Pevy (Pluisa)', 'Isi (Pluisa)', 'Lissy (Pluisa)', 'De tweeling (Pluisa)', 'De drieling (Pluisa)', 'Lasso (Pluisa)', 'Lasso Junior (Pluisa)', 'Eeris', 'Gulvi', 'Cosmo', 'Benjina (Equi)', 'Lapin (Equi)', 'Apenheer']
+character: ['Pevy', 'Isi', 'Lissy', 'De Pluisatweeling', 'De Pluisadrieling', 'Lasso', 'Lasso Junior', 'Eeris', 'Gulvi', 'Cosmo', 'Benjina', 'Lapin', 'Apenheer']
 prequel: ['De Verbannen Familie']
 teaches: ['Fotosynthese', 'Klimaatverandering']
 refers: ['De Grote Namenoorlog', 'Vernietiging van Pluiso', 'Tweede IJstijd', 'Onmogelijke Muur van Darus', 'Zwoele Zee', 'Giganten', 'De Namenvos', 'Grijze Wolken', 'Paarse Wolken', 'Wolken met Uitzinnige Regen', 'Het Apenrijk', 'De Apengoden', 'Eerste Paardenbloem', 'Het Mysterieuze Ei']

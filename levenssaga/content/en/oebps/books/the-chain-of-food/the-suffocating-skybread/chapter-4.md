@@ -1,140 +1,155 @@
 ---
-title: "Nieuw doel"
+title: New Goal
 weight: 4
 ---
+Bitz had moved his entire laboratory to the commander's quarters. Then he demonstrated his process twice. They could hardly believe the was pulling ammonia from the _air_. It felt like magic---even to Bitz, who obviously understood the hard science.
 
-Bitz had zijn hele laboratorium verplaatst naar de kamer van de commandant, en het proces twee keer voorgedaan. Ze konden moeilijk geloven dat hij ammoniak uit de _lucht_ haalde. Het voelde als magie---ook voor Bitz, die natuurlijk precies wist hoe het werkte.
+Air and water went in; the magical substance _guayn_ came out. The reason they had been fighting for islands for decades. And now they could make it for free!
 
-Lucht en water ging erin, het magische goedje _guaan_ kwam eruit. Datgene waarvoor ze al een eeuw vochten over eilanden. En nu konden ze het gratis maken!
+"Not bad," the commander grunted, "for a Jurad."
 
-"Niet slecht, voor een Juraad," bromde de commandant.
+"_Not bad?_" Bitz bit his tongue. "But of course, dear Pricecat, I am merely a humble scientist in service of the Freethieves."
 
-"_Niet slecht_?" Bitz beet zijn tong. "Maar natuurlijk, beste prijskat, ik ben slechts een nederige wetenschapper in dienst van de Vrijdieven."
+The Pricecat was joined by two more animals. An older beaver and a truly ancient tiger. They had probably done important things for Doveland ... a hundred years ago.
 
-De prijskat werd omringd door twee andere wezens. Een wat oudere bever en een werkelijk bejaarde tijger. Ze hadden vast belangrijke dingen gedaan voor Duivenland ... vijftig jaar geleden.
+"We must scale this process," said the tiger. "If we can have a thousand animals repeat this, every day, we'll have enough ammunition for all within weeks! Can you teach this process to others?"
 
-"We moeten dit meteen opschalen," zei de tijger. "Als we duizend dieren dit proces laten doen, hebben we binnen de kortste keren genoeg munitie voor iedereen. Kan je dit proces leren aan anderen?"
+Bitz moved his small, round glasses. "The average chemist should be able to---"
 
-Bitz verplaatste zijn brilletje met kleine ronde glazen. "De gemiddelde scheikundige zal het snel---"
+"And strangers we pluck off the streets?"
 
-"En vreemdelingen die we van de straat plukken?"
+"Well, erm," stammered Bitz. His wife Bilara saved him by pulling him into an adjacent room.
 
-"Nou, eh," stamelde Bitz. Hij werd gered door zijn vrouw Bilara, die hem wegtrok naar de kamer ernaast. 
+Bitz tried to listen to the conversation of the other men once he was gone. Was that something about "that Jurad is playing a trick on us"? 
 
-Bitz probeerde te luisteren wat die andere mannen bespraken nu hij weg was. Hij dacht iets te horen over "die Juraad houdt ons voor de gek", maar Bilara was _woedend_ en trok zijn aandacht.
+Bilara was _furious_ and grabbed his attention instead.
 
-"Wat denk je dat je aan het doen bent, meneertje?"
+"What do you think you're doing?"
 
-"Een wereldwijde hongersnood voorkomen."
+"Prevent worldwide starvation."
 
-Bilara draaide razendsnel om. Haar brede staart zwiepte alle spullen van een tafel. "Jouw proces kan kunstmest maken, ja. Maar het maakt net zo goed vreselijke _wapens_."
+Bilara turned around. Her board tail swept all materials off the table. "Your process can create fertilizer, yes. But it creates terrible _weapons_ with the same ease."
 
-"We zijn in oorlog, lief." Bitz bleef rustig en poetste zijn bril met zijn eigen vacht. "In tijden van vrede, is de wetenschapper in dienst van vooruitgang. In tijden van oorlog, is de wetenschapper in dienst van zijn vaderland."
+"We are at war, dear." Bitz calmly cleaned his glasses against his own fur. "In times of peace, the scientist is needed for progress. In times of war, the scientist is in serve of his homeland."
 
-"Deze oorlog is onzin."
+"This war is foolish."
 
-Bitz probeerde zijn vrouw te knuffelen. Ze sloeg haar staart in zijn gezicht en staarde uit het raam. "_Elke_ oorlog is onzin. Je kunt nog terug, lief. Vertel ze niet over hoe gevaarlijk je uitvinding is. Vertel ze dat het inderdaad een trucje was, dat je ze voor de gek hebt gehouden! Alles om te voorkomen dat ze---"
+Bitz tried to hug his wife. Her tail hit him in the face as she turned to stare out the window. 
 
-"We willen hetzelfde," zei Bitz. "Dat de oorlog zo snel mogelijk eindigt. Als wij veel meer kogels hebben dan de tegenstander, dan is het zo voorbij."
+"_Every_ war is foolish," she hissed. "You can still step back, dear. Tell them how dangerous your invention is. Tell them it was indeed a trick, a joke, a jest. Anything to prevent---"
 
-"Dat vraag ik me af." 
+"We want the same thing," said Bitz. "For the war to end swiftly. If we outnumber the opponent's ammunition, it's over much more quickly."
 
-"Het is simpele wiskunde, lief, degene met meer kogels---"
+"I doubt that."
 
-"Of wij hetzelfde willen." Bilara gooide de deur open en rende weg. 
+"It's simple math, dear, that with more bullets---"
 
-Bitz keek zijn jeugdliefde na, fronsend, onzeker of hij moest volgen. Hij bleef staan.
+"If we want the same."
 
-Hij ving het laatste deel van het gesprek op. De commandant had eindelijk duidelijk gemaakt, aan zijn bejaarde collega's, dat de industriële revolutie inmiddels had plaatsgevonden. Ze hoefden niet duizend dieren in te huren om, met blote handen, ammoniak te gaan maken.
+Bilara kicked the door open and ran away.
 
-Ze konden een machine bouwen om het te doen. Nog sneller en goedkoper ook. Bitz wilde dansen van vreugde, maar---
+Bitz watched his childhood love go, frowning. Should he follow? He stayed put.
 
-Door al dat gedoe was hij vergeten dat de Godelieven nog altijd op hen wachtten, een kilometer verderop. 
+He caught the final part of the conversation. The commander had clarified, to his ancient colleagues, that the industrial revolution had taken place by now. They didn't _need_ to hire a thousand animals to make ammonia with their bare paws.
 
-De zon was opgekomen, het land goed verlicht, wat betekende dat ze konden aanvallen.
+They could build a _machine_ to do it for them. Faster and cheaper. Bitz was about to do a joyous dance, but---
 
-De eerste bommen sloegen weer in. De vloer trok scheef en Bitz was blij dat hij niks had gegeten, anders had hij het weer uitgespuugd. 
+All this excitement had made them forget about the Godesweets, who still waited for them mere kilometers away.
 
-De commandant schreeuwde iets naar buiten. Daarna verplaatste hij naar de Telefoon.
+The sun had risen, the land was well-lit, and that meant the attack could continue.
 
-Een zwart, langwerpig voorwerp werd vastgehouden door een krullend draad. Daaronder staken knoppen uit de muur met daarop de cijfers nul tot tien, even groot als Bitz' hoofd.
+The first bombs shook the earth. The floor slanted and Bitz was glad he had not eaten anything yet today.
 
-Een Telefoon voor viervoeters. De commandant gebruikte afwisselend zijn snuit en voorpoot om razendsnel het telefoonnummer in te toetsen. Een krakend geluid galmde door de ruimte. Omdat viervoeters het voorwerp niet konden vasthouden, zoals apen, stond hij altijd hard genoeg om de hele kamer te vullen.
+The commander yelled out the window. Then he moved to the Telephone.
 
-Terwijl de Telefoon overging, keek de commandant glimlachend naar Bitz.
+A black, elongated object was kept in its place by a twirling cord. Buttons stuck out of the wall underneath it, showing numbers 0 to 10, each one as large as Bitz's head.
 
-"Ik ga jou verbinden met een geniale scheikundige en ingenieur, Bitz. Binnen een paar maanden wil ik machines die voor ons bergen van dat spul maken!"
+A Telephone for quadrupeds. The commander alternated between using his snout and his paws to rapidly type a phone number. A crackling sound echoed through the space. Because quadrupeds could not _hold_ the object, like apes, the volume was always raised to fill the entire room.
 
-Het getik en geratel van geweerschoten dreunde alweer in Bitz' oren. Het was verschrikkelijk. Zijn oren piepten de hele tijd en hij kon nauwelijks slapen sinds hij aan het front was. 
+As the Telephone rang, the commander smiled at Bitz.
 
-Had zijn vrouw dan toch gelijk? Hij wilde haar niet kwijt. Hij vond het vreselijk als ze zo boos op hem was. En ze leek al boos sinds het moment dat hij enthousiast toestemde met het verklaren van de oorlog.
+"I'm going to make you acquaintance of another genius inventor and engineer, Bitz. In a few months, I want to see rows of machines making _guayn_ for us!"
 
-Waarom deed hij dit? Was hij zo hard op zoek naar erkenning? Omdat ze hem soms een vuile Juraad noemden? Nee, hij was nou eenmaal een wetenschapper. Wat anderen _deden_ met zijn uitvindingen ... dat moest hem niks uitmaken, toch?
+The tapping and rattling of gunshots hammered Bitz's ears. A horrible unescapable feeling. His ears hadn't stopped ringing for months and he could barely sleep here.
 
-Hij had gewoon gelijk. De oorlog was _sneller_ voorbij als ze _harder_ vochten. En dat wilde Bilara toch? De oorlog sneller voorbij?
+Was his wife right? Fear of losing her grabbed his heart. Fear of seeing that angry and disappointed face as well. But now he realized she'd been angry at him ever since the day he enthusiastically agreed to join the war effort.
 
-De commandant was klaar met zijn telefoongesprek. Hij beukte tegen een plek in de muur en verbrak de verbinding. Het schudde Bitz ruw uit gedachten.
+Why was he doing this? Was recognition so valuable to him? Because some of them called him a dirty Jurad? No, he was a scientist. He searched for truth! What others _did_ with his inventions ... was none of his concern, right?
 
-De vurige ogen van de prijskat staarden in de zijne. "Maar voor nu wil ik dat jij het proces zo snel mogelijk omzet in munitie."
+Yes. He was simply _right_. The war would be over _sooner_ if they fought _harder_. And that's what Bilara wanted, right? No more war?
 
-"Ah, nou, ik heb misschien mijn mond voorbij gepraat," begon de bever voorzichtig, terwijl hij friemelde met zijn bril. "Het is kunstmest, niet meer dan dat. Het, eh, geeft planten de nodige mineralen, zorgt dat de grond beter water opvangt, en dat de lucht beter circuleert. Er is géén manier om het om te zetten in wapens of---"
+The commander finished his phone call. He punched a spot on the wall to sever the connection. It shook Bitz from his thoughts.
 
-"DOE HET." De prijskat rende de kamer uit, het slagveld op. De laatste kisten munitie werden uitgedeeld. Al vrij snel moest de voorste linie opgeven en verplaatste het gevecht dieper de stad in.
+The Pricecat's burning eyes stared into his. "For now, though, I want you to convert the process into ammunition as rapid as a hare."
 
-Zijn beverhanden trilden. Zijn hele lichaam trilde. De eerste paar bekers die hij oppakte, kneep hij fijn. 
+"Ah, well, I might have boasted too much," started the beaver, as he fidgeted with his glasses. "It's fertilizer, nothing more. It, erm, gives plants the necessary minerals, makes the ground hold its water more easily, and circulates air. There is _no way_ to use it for weapons or---"
 
-Wat moest hij doen?
+"DO IT."
 
-De vloer bleef trillen door explosies. Hij hoorde de commandant opnieuw schreeuwen. De voorste linie schoof wéér naar achter. Ze hadden veel te weinig wapens om de Godelieven op afstand te houden.
+The Pricecat left the room and ran to the front line. The final chests of ammunition were handed out. Rather quickly, the vanguard had to drop back and the fight moved towards the heart of the abandoned city.
 
-Beelden schoten door zijn hoofd. De tegenstander die de kamer instormde en hem gevangen nam, misschien wel zijn vrouw ... doodschoot.
+His beaver paws shook. His entire body shivered. He accidentally crushed the first flasks he grabbed.
 
-Hij rechtte zijn rug. Zijn handen vonden uit zichzelf de juiste knopjes, bekertjes en metertjes. Alle ammoniak die hij tot nog toe had gemaakt, verbond hij met zuurstof tot _nitraat_. Op zichzelf was dat niet zo gevaarlijk. Het was ontvlambaar en moest voorzichtig worden opgeborgen, maar je kon er geen wapen mee afvuren.
+What to do?
 
-Daarvoor was een tweede deel nodig. Nitraat zorgt dat iets blijft branden, maar je moet het eerst nog in de fik steken. Van dat laatste deel---zwavel of salpeter---hadden ze wél genoeg in het kamp liggen.
+The floor never stopped shaking. The commander yelled endlessly. The front line moved back again; they simply lacked the firepower to keep Godesweets at any safe distance.
 
-De Godelieven drongen diep het kamp binnen. Bitz kon nauwelijks de juiste bekers pakken doordat de hele kamer trilde onder de vele explosies. Hij durfde niet achterom te kijken, niet uit het raam te kijken. Hij moest zijn vrouw zoeken. Waar zou ze zitten? Ze zou toch wel een veilige plek hebben opgezocht?
+Visions shot through his thoughts. The enemy storming this room, taking him prisoner, maybe even ... killing his wife.
 
-De explosies stopten, heel even. Bitz hart stopte ook. Een staart die hij niet herkende gleed langs het raam als een ruitenwisser.
+He straightened his back. His hands found the right buttons, flasks and wires. All the ammonia he'd made so far, could be connected with oxygen to create _nitrate_. On its own, that wasn't dangerous. It was flammable and had to be stored carefully, but no weapons would fire with it.
 
-De deur vloog open. Razendsnel keerde hij om. Zijn bril vloog van de snuit en landde aan de andere kant van de ruimte.
+For that, you needed a second part. Nitrate keeps something burning, but you have to set it on fire in the first place. The material for the other step---sulfur or saltpeter---was readily available in this army camp.
 
-Het waren de Vrijdieven, niet de Godelieven die hem kwamen halen. Prijs Duivenland! Ze hadden nog niet verloren. 
+The Godesweets entered the camp. Bitz could barely hold onto the flasks because of the rumbling room during the rain of explosions. He didn't dare look back, look out the window. He had to find his wife. Where would she be? Surely she'd found a safe place somewhere?
 
-De soldaten renden naar binnen en wezen vragend naar meerdere schaaltjes met wit en zwart poeder.
+The explosions ceased, just for a minute. Bitz' heart ceased too. A tail he didn't recognize slid past the window like a windshield wiper.
 
-"Ja," zei Bitz met trillende stem. "Nieuwe munitie."
+The doors opened with a loud bang.
 
-De slag duurde urenlang, waarin minstens honderd soldaten langskwamen om poeder te pakken. 
+He turned around. His glasses flew from his snout and landed in a corner of the room.
 
-De Godelieven lieten de stad wankelen, maar hij viel niet. Ze hadden net genoeg vuurkracht om zich te verdedigen totdat de avond weer viel.
+They were Freethieves, not Godesweets. Not yet. Praise be Doveland! They hadn't lost yet.
 
-Zijn hart leek pas weer te kloppen toen Bilara naar hem toe rende, levend en wel. Ze rende door een spookstad, met halve gebouwen, bergen opgeblazen stenen, en vuurtjes die nooit meer leken te doven.
+The soldier ran inside and pointed at several petri dishes with white and black powder.
 
-De commandant haalde haar in. "Bitz! Jij bent me toch een bijzondere Juraad. De slimste die ik ken!"
+"Yes," Bitz said, voice shaking. "New ammunition."
 
-Bilara duwde hem aan de kant. In elke andere situatie had dat haar een flinke straf opgeleverd, maar de prijskat liet het gebeuren. "We hebben gedaan wat u vroeg. Laat ons nu vertrekken en vraag ons niet meer."
+The battle took ages, during which at least a hundred soldiers visited to grab some powder.
 
-Haar woorden vielen op dove oren.
+The Godesweets made the city stagger and waver, but never fall. They had just enough firepower to defend it until nightfall.
 
-_Ze moet het gevoel hebben gehad, beste lezer, alsof ze niet bestond. Alsof ze een spook was en niemand haar kon horen. Ik probeerde haar te helpen. Ik probeerde twijfels te zaaien in het hoofd van Bitz---maar hij was een man zonder empathie, diep in zijn hart, en niks kon dat veranderen._
+His heart stopped again when Bilara ran at him, alive and well. She ran through a ghost town, built from half-destroyed buildings, piles of rubble, and fires that never seemed to extinguish.
 
-_Ik probeerde de Godelieven te vertragen in hun aanval, zodat Bitz langer had om na te denken. Als ze hadden geluisterd naar Bilara ... had ik niet al die verschrikkelijke dingen hoeven meemaken die hierna kwamen._
+The commander passed her with a grin, black smears of gunpowder on his cheeks.
 
-Boodschappers renden de grijze, donkere kamer in. "De Godelieven hebben een nieuwe Eilandzoeker die al onze eilanden inpikt! Hij durft zelfs ons gebied in te varen!"
+"Bitz! You _are_ a special Jurad. The smartest one I know!"
 
-"Geen zorgen," zei de commandant met een grijns. "We hebben dat _guaan_ nooit meer nodig. Laat ze lekker tijd verspillen aan die eilanden."
+Bilara pushed him, the highest commander of this camp, aside like an annoying mosquito. In any other situation this would've cost her dearly, but the Pricecat was too excited to care.
 
-Bitz kreeg een idee. Een ingeving, dankzij al die jaren van scheikunde studeren. De stofjes die hij nu had gebruikt voor de munitie, konden ook een gas worden. Als je ze anders verbond, kreeg je iets dat waarschijnlijk levensgevaarlijk was. 
+"We did as you ask. Please let us leave the army camp now and don't ask us to return."
 
-Een onzichtbaar, giftig gas.
+Her words fell on deaf ears.
 
-Een sluipmoordenaar waarmee ze de oorlog wel direct moesten winnen.
+_She must have felt, dear reader, as if she didn't exist. As if she were already a ghost and nobody could hear her. I tried to help her. I tried to sow doubt in the mind of Bitz---but he was a man without empathy, deep in his soul, and nothing could change that._
 
-Een geweldige uitvinding voor deze aller slimste Juraad, die misschien wel de Knobbelprijs waard is.
+_I tried to delay the attack of the Godesweets to give Bitz more time to think it over. If anyone had listened to Bilara ... none of the terrible things that you'll discover soon would have happened at all._
 
-Bitz schudde zich los. "Ik heb nog een idee, commandant."
+Messengers ran into the dark gray room. 
 
-De prijskat liep weer naar de Telefoon.
+"The Godesweets have assigned a new Islandseeker who is taking all our islands! He even dares sail into our territory!"
 
-"Mijn beste Juraad, jij krijgt alles dat je nodig hebt."
+"Not a worry in my ears," said the commander with a grin. "We don't need that _guayn_ anymore. Let them waste time on those islands."
+
+Bitz had an insight. A Eureka moment thanks to years of studying chemistry. The particles he'd used for the ammunition could _also_ form a gas. If you connected them differently, you would get an incredibly painful and dangerous gas.
+
+An invisible, poisonous gas.
+
+A silent killer that _had_ to win them the war.
+
+An amazing invention by this very clever Jurad, which might even earn him the Knobbel Prize.
+
+Bitz shook himself out of his grasp. "I have another idea, commander."
+
+The Pricecat took the Telephone again.
+
+"My dear Jurad, you get everything you need."

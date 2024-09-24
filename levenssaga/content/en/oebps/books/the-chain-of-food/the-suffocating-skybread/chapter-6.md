@@ -1,108 +1,117 @@
 ---
-title: "Mosterdgas"
+title: Mustard Gas
 weight: 6
 ---
+Bitz traveled the army camp as if he owned it, a long tube bound to his back. A red cap, as large as his head, shut it tightly. Yellow icons on the sides signed that this was _dangerous_.
 
-Bitz liep door het legerkamp alsof hij de baas was. Een langwerpige koker was gebonden aan zijn rug. Een rode dop, bijna zo groot als zijn hoofd, hield hem stevig dicht. Gele icoontjes aan alle kanten zeiden dat dit _gevaarlijk_ spul was.
+As he tapped on the commander's door, someone else tapped on his back. As he turned around, the tube was stolen off of his back.
 
-Vlak voordat hij wilde aankloppen bij de commandant, tikte iemand op zijn rug. Toen hij zich omdraaide, werd de koker van zijn rug gestolen.
+He already knew who'd done it.
 
-Hij wist precies wie het had gedaan.
+"Bilara, dear, don't work against me." She stood nearby, holding the tube in her paws like a baby.
 
-"Bilara, lief, werk nou niet zo tegen." Ze stond een meter van hem vandaan, de koker in haar klauwen alsof ze een baby vasthield.
+"I will not allow it. I just _will not allow it_."
 
-"Ik sta het niet toe. Ik sta het gewoon _niet toe_."
+"If I don't make these inventions, someone else will. Give it to me." He stepped forward; she stepped backward. Her tail bumped against a cage. Hastily assembled from pieces of metal and old guns, it contained a scared antilope.
 
-"Als ik het niet uitvind, dan ontdekt iemand anders het wel. Geef hier." Hij stapte vooruit, zij achteruit. Haar staart botste tegen een kooi. Hij was haastig in elkaar gezet, van stukken metaal uit oude wapens, en bevatte een antelope die bang keek.
+"It is _forbidden_. The Treaty of Haggel _forbids_ the use of chemical weapons during a war. Ha! Now you must---"
 
-"Het is verboden. De Afspraak van Haggel verbiedt het gebruik van chemische wapens in een oorlog. Ha! Nu moet je wel---"
+"Give here!" yelled Bitz. A row of soldiers stopped marching to look at him. "Or I arrest you for theft."
 
-"Geef hier!" schreeuwde Bitz. Een rij soldaten stopte met marcheren en keek op. "Of ik geef je aan voor diefstal!"
+"I am your _wife_. And I ask you, with all my heart, to stop this madness. Someone else will invent a poisonous gas, some day, sure---but at least _you_ won't have blood on your paws!"
 
-"Ik ben je _vrouw_. En ik vraag je, met al mijn hart, om hiermee op te houden. Iemand anders zal vast ook een giftig gas uitvinden---maar dan heb _jij_ tenminste geen bloed aan je handen."
+"What does it matter? A bullet, a bomb, a gas? _Dead is dead_."
 
-"Wat maakt het uit? Een kogel, een bom, een gas? _Dood is dood._"
+Bilara's mouth hung wide open, naked and immobile. The tube of poisonous gas dropped from her grasp. Bitz focused only on saving this invention and presenting it to the commander unscathed.
 
-Bilara's mond bleef hangen, open en bloot. De koker giftig gas viel uit haar handen. Bitz had geen oog meer voor zijn vrouw, alleen voor zijn uitvinding die hij moest redden en trots presenteren aan de commandant.
+"And you ask why everyone hates the Freethieves," the antilope mumbled.
 
-"En jullie vragen je af waarom iedereen de Vrijdieven haat," mompelde de antelope. 
+Bilara burst into tears. She ran carelessly past the sharp edges of the cage, sustaining several abrasions that soon started to bleed. Her departure left a trail of blood drops through the army camp. She did not slow down.
 
-Bilara barstte in tranen uit. Ze rende langs de kooi en haalde zich open aan de scherpe punten. Terwijl ze wegrende van de open plek, liet ze een spoor van druppels bloed achter. Het maakte haar niks meer uit.
+"Quite a big mouth, you have," Bitz snapped at the antelope. "_First Islandseeker_, puh. Worthless fighter, more like it!"
 
-"Je hebt wel een grote mond, hè?" snauwde Bitz de antelope toe. "_Eerste Eilandzoeker_, puh. Waardeloze vechter, dat zal je bedoelen!" 
+He pushed his snout against that of Dannis'. Thin bars were all that separated them.
 
-Hij leunde voorover, zijn neus tegen die van Dannis, met een dun tralies ertussen. "Dankzij _mijn_ geniale brein, hebben wij die eilanden allang niet meer nodig."
+"Thanks to _my_ genius brain, we don't even need those islands anymore."
 
-"Waarom viel je ons dan aan?"
+"Then why attack?"
 
-"Omdat de adelaars lieten weten dat een of ander vervelend schip hen volgde. Dat onze vijand plotseling ook genoeg te eten had voor iedereen. Dat willen we niet hebben."
+"Because the eagles told us some annoying ship was following them. That our enemy suddenly also had enough food for all. We don't like that, now, do we?"
 
-Dannis schraapte zijn gewei langs het staal. "Ik had het kunnen weten, dom dom dom," mompelde hij. "De adelaars stonden ook aan de verkeerde kant tijdens het Eerste Conflict. Ze hebben nog steeds de Windvlaagvleugel en gebruiken hem nog steeds verkeerd."
+Dannis scraped his antlers past the steel. "I should've known, dumb dumb dumb," he mumbled. "The eagles were also on the wrong side during the First Conflict. They still own the Windgustwing and still use it for the wrong things!"
 
-"_Verkeerd_?" Bitz lachte. "Als de adelaars niet die eilanden hadden gemaakt, hadden we honderd jaar geleden al een hongersnood gehad. Miljoenen dieren waren gestorven als _guaan_ niet had bestaan. Jullie Godelieven ... trekken altijd de verkeerde conclusies."
+"_Wrong?_" Bitz smiled. "If the eagles hadn't _made_ all those islands in the first place, we would have had a Great Starvation a century ago. Millions of animals would have died if _guayn_ didn't accidentally exist. You Godesweets ... always drawing the wrong conclusions."
 
-De deur zwaaide open. De commandant kwam zelf naar buiten. "Ah, als dat niet mijn favoriete Juraad is!"
+The door opened. The commander himself stepped outside.
 
-"Jazeker! Het gas is af. Het moet alleen nog ... getest."
+"Ah, if that isn't my favorite Jurad!"
 
-De prijskat haalde de schouders op. "We hebben regelmatig een gevecht. We testen het wel bij de volgende slag."
+"Yessir! The gas is done. It just needs to be ... tested."
 
-Bitz schudde zijn hoofd. "Een wetenschapper doet aan testen, bewijs, zekerheid. Ik kan er niet mee leven om dit gas ongetest los te laten. Voor hetzelfde geld valt het onze _eigen_ troepen aan!"
+The Pricecat shrugged. "Battles are frequent here. We'll test it next time."
 
-Dannis schraapte weer langs het metaal. "Je kan er wél mee leven om anderen te vergassen, maar níet om je uitvinding ongetest te laten?!" 
+Bitz shook his head. "A scientist does not guess. He tests, he finds proof, he demands evidence. I can't live with releasing this gas unknowingly. For all we know, it might endanger our _own_ troops."
 
-"Nou," zei Bitz grijnzend. "Ik denk dat we ons proefkonijn hebben gevonden."
+Dannis scraped the metal again. "You can live with gassing others, but _not_ leaving an invention untested!?"
 
-Dannis' gezicht trok strak en hij liep weg, naar de achterste muur van de kooi. Hij wilde iets zeggen, maar er kwam alleen onzin uit.
+"Well, well," Bitz said with a grin. "It seems we found our guinea pig."
 
-"Breng hem naar een lege, goed afgesloten kamer," zei Bitz. "Ik dien een klein beetje gas toe, en dan zien we of deze antelope dat leuk vindt." 
+Dannis' expression darkened. He walked away, tot he back wall of the cage. He said something, but only nonsense came out.
 
-Omstanders hielpen om de kooi naar binnen te tillen, naar een ongebruikte kamer achterin het gebouw van de commandant. Dannis sloeg en schopte om zich heen, maar zijn gewei was vastgebonden en de kooi was te klein om ook maar in te _staan_.
+"Bring him to an empty room that's tightly sealed," Bitz said. "I'll administer just the slightest bit of gas and we'll see if the antelope likes it."
 
-Eenmaal in de kamer, lieten ze Dannis uit de kooi. Ze gingen zelf naar de kamer ernaast, waar ze door een raampje naar binnen konden gluren, en sloten de deur. Dannis rende meteen rondjes en beukte zijn lichaam tegen de muren.
+Bystanders helped carry the cage inside, to an unused room at the back of the commander's quarters. Dannis kicked, and bit, and yelled, but his antlers were tight and the cage was too small to _stand_.
 
-Er was echt geen manier uit deze kamer.
+Once inside the room, they let Dannis out of the cage. They went to the adjacent room, where they could study him through a window, and locked the door. 
 
-"En de munitie?" vroeg de commandant.
+Dannis ran in circles and pushed his body against every crack in the wall.
 
-"Alles gaat vlotjes, mijnheer commandant. We hebben al bergen nitraat gemaakt, meer dan we op dit moment nodig hebben, en onze machines kunnen het proces steeds beter uitvoeren. We slaan het allemaal op in het pakhuis hiernaast. Ik moet wel aanraden, commandant, dat we het snel gebruiken. Het is nogal ontvlambaar. Verpletter die vijand met duizend bommen!"
+There was no escape from this room.
 
-Bitz haalde de klink uit de deur en perste de gasfles erin. Hij plakte alles nauwkeurig af, zodat geen enkel gas uit de kamer kon ontsnappen. 
+"And the ammunition?" the commander asked.
 
-"Bitz, beste vriend, ik heb eens gesproken met onze opperbevelhebber. Hij wil je een hogere functie geven. Misschien ... misschien word je wel de eerste Juraad die commandant mag zijn."
+"All is well, sir commander. We have piles of nitrate already, more than we even need at the moment, and our machines are increasingly efficient and flawless. We're storing it all in the large storage building not far from here. I must recommend, commander, that we use it soon. It's quite flammable. Destroy the enemy with a thousand bombs!"
 
-De bever met het brilletje kon een paar seconden genieten van dit enorme compliment. Hij had ieders ongelijk bewezen. Binnenkort was hij de belangrijkste wetenschapper van zijn vaderland!
+Bitz removed the door handle and pushed the gas cylinder into the hole. He carefully placed tape to seal the entire opening, ensuring no gas leakage.
 
-Maar daarna sprong een raam aan diggelen en vlogen een pinguïn en een papagaai de ruimte in.
+"Bitz, dear friend, I've talked to our highest commander. He insists I give you an even better position in the camp. Maybe ... maybe you'll be the first Jurad allowed to be a commander."
 
-De prijskat nam meteen zijn wapen in de bek: een geweer dat afschoot als je hard erop beet met sterke kaken. Hij schoot naar de papagaai. Die tolde in de lucht en prikte zijn snavel als een scherpe mespunt in zijn vacht. De commandant schreeuwde en sloeg zijn nagels uit.
+The beaver fidgeted with his glasses, and cleaned them over and over, as he enjoyed this compliment. He'd proven everyone wrong! Soon he'd be the most important scientist in all of Doveland.
 
-Bitz liet de pinguïn op zich afkomen, maar opende op het laatste moment de deur. Pin rolde bij Dannis naar binnen. 
+Then he was interrupted by a window bursting to pieces and a penguin and parrot storming the room.
 
-Snel gooide Bitz de deur weer in het slot, maar Dannis had het voorzien en plaatste zijn gewei ertussen. De houten deur klapte hard tegen zijn hoofd en brak delen van het gewei af---
+The Pricecat immediately took his weapon between his jaws: a gun that fired by biting on it. He shot the parrot. The bird twirled in the air to dodge it, then pecked the enemy's fur like an army of sharp daggers. The commander screamed and put out his nails.
 
-Maar hij bleef open.
+Bitz let the penguin come for hem, then opened the door at the last second.
 
-Dannis ging er misschien van uit dat Bitz het gas niet durfde loslaten zolang die deur openstond.
+Pin rolled into the room with Dannis.
 
-Dannis had zijn wrede hart opnieuw onderschat.
+Bitz quickly closed and locked the door, but Dannis pushed his antlers into the opening. The wooden door crashed into his head and broke pieces of his antlers---
 
-Terwijl Pin opkrabbelde en reikte naar Dannis' poot, sloeg Bitz de dop van de fles. De commandant had de papagaai tegen de muur gedrukt en opende zijn bek om hem op te vreten. 
+But it stayed open a crack.
 
-Het gas verspreidde razendsnel door de kamer. Het was grotendeels onzichtbaar, hoewel het soms groen of geel leek. Het rook vaag naar mosterd.
+Dannis had assumed Bitz would not release the gas when the door was open.
 
-Bitz trok de commandant mee en rende de kamer uit.
+Dannis had underestimated the scientist's madness.
 
-De gaswalmen sloegen Pin in het gezicht. Hij kreunde en kokhalsde, terwijl zijn vinnen houvast zochten bij zijn val naar de grond.
+As Pin scrambled to his feet and reached for Dannis, Bitz slammed the cap off the cylinder. The commander had pushed the parrot against the wall and spread his jaws to take a bite.
 
-Dannis nam een grote hap adem, sloot zijn mond, en dook door het gas. Zijn voorpoten landden rondom Pin. Door achteruit te trappen schoof hij de pinguïn de kamer uit, weg van het gas. De papagaai hielp het laatste stukje door met zijn klauwen Pin naar buiten te dragen.
+The gas spread through the room. Nearly invisible, sometimes a green or yellow ghost. It smelled  faintly of mustard. Even before it touched them, their bodies reacted instinctively, shivering and pulsing to tell you to run, jump, fly, anything to make the gas go away.
 
-Daar vielen ze op de modderige grond vol scherpe stenen, terwijl rook opsteeg uit de kamer alsof iemand iets had laten aanbranden. 
+Bitz pulled the commander out of the room.
 
-Maar het steeg niet echt op---het bleef hangen vlak boven de grond.
+The gas hit Pin's face. He groaned and choked as he fell to the floor, his fins searching for support.
 
-Ze bekeken Pin. Zijn huid was op sommige plekken verschroeid, alsof hij meerdere keren een pan had gepakt die véél te heet was. Maar hij droeg zijn helm, als altijd. Die voorkwam dat het gas zijn hoofd bereikte.
+Dannis took a deep breath, shut his mouth, and dove through the gas. His front paws landed around Pin. By kicking backward, the penguin slid from the room, away from the largest fog of gas. The parrot finished it by carrying Pin with his claws, a weight he didn't know he _could_ carry.
 
-Pin leefde nog, maar had veel pijn.
+There they fell on the dirt littered with sharp stones. Smoke rose from the room as if someone had burned the place.
 
-Misschien niet veel langer, want een regen van vuurstenen kletterde op diezelfde helm, nu in de straat hiernaast een pakhuis vol nitraat _explodeerde_.
+But it didn't really rise, like smoke should. It stayed close to the floor, drifting and lingering.
+
+They studied Pin. His skin had been burned in many places, as if a dozen bullets had grazed him in a firefight. But he'd worn his helmet, as always. It had prevented the gas from hitting any part of his head.
+
+Pin was alive, and in pain.
+
+Perhaps not much longer. A rain of firestones clattered onto that same helmet.
+
+At the next street, an entire storage full of nitrate had _exploded_.

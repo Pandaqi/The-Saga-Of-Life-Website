@@ -9,9 +9,9 @@ book: true
 timeperiod: "De Ruimtereis"
 cycle: "Het Ontstaan van Somnia"
 bundle: "Raketten & Ruimtewezens"
-character: ['Hera (Mens)', 'Casjara (Mens)', 'Simmo (Mens)', 'Mindy (Mens)', 'Vaia (Mens)', 'Jacintah']
+character: ['Hera', 'Casjara', 'Simmo', 'Mindy', 'Vaia', 'Jacintah']
 prequel: ['De Zwarte Lucht']
-refers: ['Amor', 'Vierkei', 'Trevran', 'Bombrokken', "Mindy's Onderzoek", "Nibuwe Stelsel", "Raketrace van Apranië", 'Babbelbroers', 'Platsu (Planeet)', 'Steen van Platsu', "Kurijn (Konijn)", "Wilplink (Kanskeerder)", "Cosmo"]
+refers: ['Amor', 'Vierkei', 'Trevran', 'Bombrokken', "Mindy's Onderzoek", "Nibuwe Stelsel", "Raketrace van Apranië", 'Babbelbroers', 'Platsu', 'Steen van Platsu', "Kurijn", "Wilplink", "Cosmo"]
 happens: ['Dood Mindy', 'Oprichting CAJARA', "Radiostilte van Platsu", "Oprichting HERO"]
 godlink: ["Jacintah"]
 genre: ["Gesprekken", "Eng", "Liefde", "Groeien", "Overleven", "Toekomst", "Gevecht", "Biologie"]

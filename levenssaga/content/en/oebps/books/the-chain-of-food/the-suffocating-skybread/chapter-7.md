@@ -1,136 +1,151 @@
 ---
-title: "De explosie"
+title: The Explosion
 weight: 7
 ---
+His body was burning. Anywhere the gas had touched Pin, his skin hurt. Pain, pain, pain, endless pain. His eyes felt dry and would not open anymore. Even his longs were on fire and pretended to have forgotten how breathing worked. He heard voices, but they couldn't overrule the beeping in his ears.
 
-Zijn lichaam stond in brand. Op alle plekken waar het gas Pin had aangeraakt, deed zijn huid pijn, pijn, pijn, alleen maar pijn. Zijn ogen voelden droog en alsof ze nooit meer open gingen. Zelfs zijn longen leken in brand te staan en maakten elke ademhaling zwaar. Hij hoorde stemmen, maar ze kwamen niet over het gepiep heen.
+It delayed his realization that the real world around him was _also_ on fire.
 
-Daardoor had hij pas laat door dat de echte wereld om hem heen óók in brand stond.
+Dannis sunk through his knees, but Pin was too weak to climb onto his back. The fire of the explosion had consumed all neighboring houses by now. Even from this distance it felt like entering the heart of a volcano.
 
-Dannis zakte door zijn poten, maar Pin was te zwak om op zijn rug te klimmen. Het vuur van de explosie was overgeslagen op de huizen eromheen. Zelfs van afstand voelde het alsof ze in het hart van een vulkaan waren beland.
+Soldiers screamed and ran back and forth, some away from the explosion, others right into it to save their friends or possessions.
 
-Soldaten schreeuwden en renden heen en weer, sommige weg van de explosie, anderen ernaartoe om te redden wat er te redden viel. 
+Another explosion. The fire had reached the first home of their street.
 
-Nog een explosie. Het vuur had het eerste huis van deze straat te pakken.
+"Pin! Pin! Can you hear me?"
 
-"Pin! Pin! Kan je me horen?" 
+Finally his eyes opened, but his vision was still blurry. It prickled and itched, as if someone drove a knife into his pupils, and then threw him into a desert. They were outside, but it didn't feel that way. The gas felt all around him; a blanket still seemed to choke him.
 
-Eindelijk werkten zijn oren weer, maar zijn ogen zagen nog wazig. Ze prikten alsof iemand er een mes in had gestoken, droog als de woestijn. Hij wist dat ze inmiddels buiten waren, maar hij voelde het gas nog overal, als een deken die hem langzaam liet stikken.
+In that chaos, the Freethieves had forgotten their prisoners. They jumped onto a new invention called the Automobile. It moved automatically---hence the name---and added even more stinking gas out of an exhaust pipe. Some still called it a Cart, just with an upgrade.
 
-In de chaos waren de Vrijdieven hun gevangenen compleet vergeten. Ze sprongen op iets nieuws genaamd een Auto. Het reed uit zichzelf en duwde smerig gas uit de achterkant. _Niet zo smerig als dat mosterdgas._ Pin wilde het zeggen, maar ook zijn keel stond nog in brand. _Hmm ik zou wel een hele oceaan kunnen leegdrinken nu._
+_That gas isn't as bad as the Mustard Gas though._ Pin wanted to say it, but his throat was still on fire. _Mmm. I could drink an entire ocean right now._
 
-Het vuur sloeg om zich heen, sneller dan Dannis kon bijhouden, en voor ze het wisten zaten ze er middenin. Links, rechts, overal ontstonden vuren van muur.
+The fire grasped for anything more to burn, faster than Dannis could follow. They were surrounded by flame walls before long. 
 
-Een auto kwam langs. Dannis waagde een sprong en duwde de bestuurders---drie bevers---ervan af. De papagaai hielp om Pins zware lichaam, dat totaal niet meewerkte, op het rijdende voertuig te krijgen. 
+An automobile passed by. Dannis dared a leap and pushed the drivers---three beavers---off of it. The parrot helped carry Pins heavy body again, which worked against them all the time. They barely got him onto the cart.
 
-"Waar is het stuur?!" 
+"Where's the steering wheel!?"
 
-Dannis was de auto's van de Godelieven gewend, gemaakt voor apen. Die hadden stoelen, een stuur dat je met _handen_ bestuurde, en een hendel voor versnelling. Deze had niks van dat alles en leek eerder op een houten plank met een motor. Een groot uitgevallen zeepkist.
+Dannis was used to the vehicles of the Godesweets, made predominantly for apes. Those had chairs, a steering wheel for _hands_, and a gear lever. This one had none of that and looked more like a wooden raft on wheels. A toy cart that was built too large.
 
-"Hou je goed vast!"
+"Hold on!"
 
-"Alsof---kuch---ik---kuch---" 
+"As if---cough---I can---cough---"
 
-"Wat zeg je, Pin?"
+"What's that, Pin?"
 
-Dannis trapte tegen een uitstekende plank. Blijkbaar liet die de auto naar _rechts_ gaan. Ze draaiden cirkels over de open plek, maar het vuur verzwolg alles en hij zag geen uitgang.
+Dannis stood on an extended wooden plank. Apparently, it sent the car to the _right_. They turned in circles, again, and again, looking for a gap in the fires.
 
-"Pin! Pin! Gaat het?"
+"Pin! Pin! How are you?"
 
-"We moeten---" Hij hoestte slijm en draaide op zijn buik. "We moeten terug."
+"We must---" He coughed slime and turned onto his belly. "We must go back."
 
-"_Wat_?"
+"_What?_"
 
-De auto helde plotseling naar links. Pin keek achterom. Twee bevers hadden zich vastgeklampt en wilden mee, één van hen met een verbrande staart, de ander met een bril die geen glazen meer had. Even dacht Pin dat het Bitz was---en hij stond klaar om hem van de auto te schoppen---maar toen zijn zich scherp stelde bleek het een ander.
+The automobile suddenly leaned left. Pin looked back. Two beavers had latched on and wanted to flee too, one with a burned tail, the other wearing glasses without glass. 
 
-Natuurlijk. Bitz en de commandant waren allang gevlucht en zaten nu veilig ergens anders. 
+Was that Bitz? He prepared to kick him off the cart. Then his vision sharpened and he realized it was someone else.
 
-"Denk nou eens na, makker!" schreeuwde Pin, gevolgd door meer gekuch. "Een kans. Hun geheimen stelen."
+Of course. Bitz and the commander would already be safe and sound somewhere else.
 
-"Ik ben aan het nadenken---hoe we gaan OVERLEVEN." De auto helde weer opzij en kantelde bijna. Een zwaarlijvige neushoorn plette de achterbanden in een poging bovenop het voertuig te klimmen.
+"Think, deerfriend!" yelled Pin. A cry followed by more coughing. "A chance. Steal their secrets!"
 
-"Je bent de VIJAND aan het REDDEN." Pin hervond langzaam zijn kracht, al was het vooral zijn woede die hem staande hield.
+"I am thinking---about how we'll SURVIVE."
 
-Dannis ving één van de bevers met zijn gewei en duwde hem naar het stuur van de auto. Het dier begreep wel hoe de auto werkte en zocht een uitweg van het vuur. Dannis wierp een schaduw over Pin. 
+The car leaned sideways again and teetered on the edge of toppling over. A heavy rhino crushed the back wheels in an attempt to climb onto the vehicle.
 
-"Ik ben levende wezens aan het redden."
+"You are SAVING the ENEMY again."
 
-"Ik HAAT JOU." Pin deed zijn helm nog strakker om, maar toen hij probeerde van de auto te springen, maakten ze plotseling een bocht en viel hij achterover.
+Pin found his strength, partially thanks to his anger.
 
-"Jij bent een HUMEURIGE PINGUÏN." 
+Dannis caught one of the beavers with his broken antlers. With a jerk of the head, he threw the beaver to the steering wheel. And sure, they _did_ know how to use the automobile.
 
-"Ik heb je leven gered!"
+Dannis cast a shadow over Pin. "I am saving living beings."
 
-"En daarna heb ik jouw leven gered!"
+"I HATE YOU." Pin tightened the strap of his helmet. When he was about to jump off the car, they suddenly turned and he fall backward.
 
-Nog een explosie. Alle huizen in hun omgeving stonden in brand. Ze naderden het pakhuis vol nitraat, waar de explosies begonnen en nog steeds bezig waren.
+"You are a GRUMPY PENGUIN."
 
-Pin wees naar een gebouw iets verderop, het laboratorium van Bitz. "Ik ga naar DAT GEBOUW en ik steel de formule voor het gas. Houd me niet tegen!"
+"I saved your life!"
 
-"Nou, nou, ik ga MEE." 
+"And then I saved yours!"
 
-Samen sprongen ze van de rijdende auto, rolden over de hobbelige grond, en zochten hun weg naar het lab. Pin probeerde te buikschuiven, maar zijn zere huid protesteerde. Hij gromde naar Dannis, maar klom toch op zijn rug.
+Another explosion. All homes in the area had seen fire now. They neared the storage building filled with nitrate, where the explosions had started and still continued.
 
-De auto kwam achter hen aan. De bever had de hoogste versnelling gevonden. Pin dacht dat ze eindelijk doorhadden dat ze vijanden waren, maar ze kwamen niet voor hen.
+Pin pointed at a building a little further away: Bitz' laboratory. "I am going to THAT BUILDING to steal their formula for the gas! Do NOT STOP ME!"
 
-Ze kwamen voor een bever die vlak voor het pakhuis stond. 
+"Well, well, well, then I am GOING WITH YOU."
 
-"Bilara! Bilara!" riepen ze. "Bilara! We komen je redden!"
+Together they lept from the driving card, rolled over the bumpy ground, and sought their way to the lab. Pin tried to slide on his belly, but his damaged skin protested. He grunted at Dannis, then climbed on this back again.
 
-Hun stemmen klonken opgelucht, bijna vrolijk. En verwonderd dat ze op wonderbaarlijke wijze uit het vuur was gebleven.
+The car chased them. The beaver had found the highest gear. Pin feared they'd finally realized they were _enemies_, but they didn't actually chase _them_.
 
-Bilara draaide om.
+They aimed for a beaver standing in front of the burning storage building.
 
-Ze liep het vuur in.
+"Bilara! Bilara!" they said. "Bilara! We come to save you!"
 
-Het vuur verzwolg haar, verschroeide haar huid, maar ze reageerde niet. Dannis en Pin konden het niet aanzien. De auto remde af en stopte voor de deur, vol ongeloof, onzeker wat ze moesten doen.
+Their voices were relieved, almost cheerful. And surprised she had been able to stay out of the fire, completely unharmed.
 
-Ze konden haar niet meer redden.
+Bilara turned around.
 
-Dannis brak met zijn halve gewei de deur van het laboratorium. Pin rende naar binnen en trok alles open: kasten, lades, koffers, folders, andere deuren. De grijze mist van het vuur dwarrelde door de ruimte alsof het laboratorium door spoken werd bewaakt.
+She walked into the fire.
 
-Terwijl Pin naar de andere kamer ging, stoof Dannis naar de stellage bij het raam. Bitz' notities lagen daar, nog niet aangetast door het vuur, verspreid alsof ze daar toevallig waren neergegooid. Alsof ze niks waard waren.
+The fire grabbed her, burned her skin, but she did not react. Dannis and Pin could not look at it. The car came to a stop at the front door, drowning in disbelief, uncertain what to do.
 
-Maar op die dingen stond het geheim. Het geheim om _zelf_ die guaan te maken, zodat ze de eilanden nooit meer nodig hadden. 
+They could not save her anymore.
 
-Dannis geloofde het al die tijd eigenlijk niet. Hij dacht dat de Vrijdieven de Steen van Zekerstof hadden gevonden en daardoor ineens alles konden groeien. Maar op deze papieren stond het bewijs dat een scheikundig proces bestond om zelf kunstmest te maken.
+Dannis broke the door to the laboratory with his antlers. Pin ran inside and pulled open cupboards, drawers, chests, maps, even other doors. Gray smoke swirled through the rooms as if they were guarded by ghosts.
 
-De keuze was makkelijk. Dannis had genoten van Eerste Eilandzoeker zijn. Maar zijn doel was niet een hoge functie---zijn doel was _nooit meer honger_. Teruggaan naar de bossen van Casbrita, naar zijn familie, met het goede nieuws dat ze nooit meer honger hoefden te lijden. Hij was geen soldaat---nooit geweest.
+As Pin went into another room, Dannis explored some metal object near the window. Bitz' notes were there, untouched by fire, spread around as if they were accidentally left behind. As if they were worth nothing.
 
-Een versleten tas hing bij de deur. Hij gooide alle papieren erin en stak zijn nek door de schouderriem. Pin stak zijn hoofd door een deuropening.
+But those papers contained the secret. The secret to _make guayn_ themselves.
 
-"Er is hier," hij kreeg weer een hoestaanval. "Een andere uitgang!"
+Dannis hadn't really believed it. He thought the Freethieves had actually found the Stone of Destinydust and used that to grow their food and get gunpowder. But these papers and flasks proved they had worked on an actual scientific process to making fertilizer.
 
-Voor het raam racete de auto voorbij. De andere soldaten hadden ook gezien dat ze niks voor Bilara konden doen. Door een opening in het vuur kwamen ze veilig weg.
+The choice was simple. Dannis had enjoyed being First Islandseeker. But his goal was not some higher rank---his goal was _never hungry_. Going back to the forests of Casbrita, to his family, bearing the good news that they'd never have to die of starvation again. He was no soldier---never had been.
 
-Dannis en Pin renden naar de andere uitgang en sprongen even later op een grasveld, net buiten het vuurgebied. Ze verspilden geen seconde en zochten de weg naar het front van de Godelieven. Hopelijk werd Dannis herkend, als Eerste Eilandzoeker, en lieten ze hem binnen. Anders hadden ze nog grotere problemen.
+A worn leather bag hung by the door. He threw all the papers inside and pushed his neck through the shoulder strap. 
 
-Hoe langer ze liepen, hoe meer Pin terugviel. Het mosterdgas had hem flink aangetast. Het voelde alsof zijn hele lichaam ziek was, maar uitrusten maakte het niet beter, het maakte alles _erger_.
+Pin stuck his head through the doorway.
 
-Hun papagaai landde op Pins schouder, die meteen een pijnkreet maakte.
+"There is," another coughing attack, "another exit here!"
 
-"Waar heb jij al die tijd gezeten?"
+The car raced past the window. The soldiers had decided there was nothing they could do for Bilara or Bitz. They escaped safely through a gap in the firewall.
 
-"Slecht nieuws! De Vrijdieven willen doorgaan met het gas. Ze gaan het morgen gebruiken, op grote schaal, bij een aanval op de Godelieven."
+Dannis and Pin ran for the other exit and landed on a field of grass, just outside the fire zone. They wasted no second and found their way to the front of the Godesweets. Hopefully they'd recognize Dannis, the First Islandseeker, and let him in. Otherwise their troubles were just starting.
 
-"Dat was te verwachten," zei Dannis, zijn blik serieus. De nacht viel. Ze moesten zeker nog een paar uur lopen om het kamp van de Godelieven te vinden.
+The more they walked, the more Pin regressed. The mustard gas had not only touched him physically. His entire body felt ill in a way that resting could not solve. In fact, standing still made it worse and made him realize just how badly he was damaged.
 
-"Nog slechter nieuws! De Godelieven hebben de explosie gezien en denken dat de Vrijdieven zijn verzwakt. Ze zijn van plan vannacht nog een verrassingsaanval te doen."
+Their parrot landed on Pin's shoulder, who yelled in pain from the featherweight.
 
-Dannis en Pin keken elkaar aan. "Tja, dan zal het lot van de oorlog wel weer in handen liggen van een geniale antelope en een humeurige pinguïn."
+"Where have you been all this time?"
 
-"Een _heldhaftige, sterke_ pinguïn. Die honger heeft."
+"Bad news! The Freethieves want to continue the gas. They'll use it tomorrow, at large scale, with an attack on the Godesweets."
 
-"En, eh---" Dannis fronste naar de papagaai. "We hebben jouw naam nooit gevraagd."
+"To be expected," Dannis said solemnly. 
 
-"Beter van niet, de halve wereld zoekt mij nog voor piraterij. Een valse beschuldiging, aye!"
+Night fell. They'd have to walk for a few more hours to enter the Godesweets army camp.
 
-"Ja ja. Ik kan niet wachten tot we die Telefoon kunnen gebruiken op zee. Hebben we jou helemaal niet meer nodig!"
+"Even worse news! The Godesweets saw the explosion and think the Freethieves are weakened now. They plan to do a _surprise attack_ tonight."
 
-"Prima. Ik word oud. Ik hoorde een Vrijdief zeggen dat ze de Hemelvoorwerpen verzamelden om de Magie van Langleven te stoppen. Kan je het voorstellen? Dat je niet duizend jaar leeft, maar ... twintig ofzo?"
+Dannis and Pin looked each other in the eye.
 
-Dannis en Pin keken alsof ze een smerige geur roken. "Dan is er écht geen tijd te verliezen."
+"Oh well, I guess the fate of the entire war is in the hands of a genius antelope and a grumpy penguin again."
 
-Alle drie zogen een flinke teug lucht naar binnen.
+"A _very brave, strong penguin_. Who's hungry."
 
-Ze raceten naar de Godelieven, zo hard ze konden, om hen te vertellen niet dat gevecht aan te gaan.
+"And, erm---" Dannis frowned at the parrot. "We never even asked your name."
+
+"Better not. Half the world is still looking for me on accusations of piracy! A false accusation, aye!"
+
+"Yes yes. I can't wait until we can use that Telephone at sea. We won't need messenger birds like you!"
+
+"Fine. I'm getting old. I heard a Freethief mention that they were collecting Heavenmatter to _stop_ the Magic of Longlife, but only for the Godesweets. Can you imagine? That none of us live a thousand years, at least, but ... only twenty years?"
+
+Dannis and Pin looked as if they were overcome by a bad smell.
+
+"Then there _really_ is no time to waste."
+
+All three of them sucked in a nice, deep, long breath of fresh gasless air.
+
+They raced to warn the Godesweets to _not_ attack.

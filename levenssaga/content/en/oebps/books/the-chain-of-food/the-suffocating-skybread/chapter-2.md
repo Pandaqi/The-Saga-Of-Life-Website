@@ -1,126 +1,137 @@
 ---
-title: "Stikstof"
+title: Nitrogen
 weight: 2
 ---
+Precisely when Bitz wanted to mix the bubbling liquids of the two flasks, his entire building shook and he spilled it all on the table. A third flask slipped from his long teeth and shattered to pieces on the floor. Now he had to redo the entire experiment.
 
-Precies toen Bitz de twee drankjes wilde mengen, schudde zijn hele gebouw en morste hij alles over tafel. Een derde beker glipte tussen zijn lange tanden door en barstte in scherven op de vloer. Nu moest hij het hele experiment opnieuw doen.
+"Darn---"
 
-"Wel potverdrie---" Een bekend geluid bereikte zijn oren. Explosies. Bommen. Je zou denken dat een bever wel bestand was tegen een bevend laboratorium, maar Bitz strompelde en struikelde kwaad naar buiten.
+A familiar sound reached his ears. Explosions. Bombs. Bitz tripped, then furiously stumbled out of his laboratory.
 
-Een paar kilometer verderop eindigde zijn kamp---die van de Vrijdieven---en begon het gebied van de Godelieven. Toen ze Bitz vroegen of hij alsjeblieft mee wilde naar het front, had hij direct _ja_ gezegd. Nu wist hij het niet meer zo zeker. De Godelieven vielen aan met bommen, granaten, en kogelregens.
+Mere kilometers from here, his Freethieves army camp ended, and the territory of the Godesweets started. When they'd asked Bitz if he please wanted to join at the front line, he'd instantly agreed. Now he wasn't so sure anymore. The Godesweets attacked with bombs, grenades, and hails of bullets.
 
-De Vrijdieven, _zijn_ Vrijdieven, deden niks terug. 
+The Freethieves, _his_ Freethieves, didn't answer at all.
 
-"Schiet dan! Houd ze tegen!"
+"Shoot! Stop them! What are you---"
 
-"Nou zeg, wat een idee! Waren wij _nooit_ op gekomen joh!" schreeuwde een groep soldaten die voorbij rende. Het waren verschillende diersoorten, maar allemaal konden ze op twee poten lopen, en met hun andere poten een geweer vasthouden.
+"My my! What an idea!" yelled a squad that ran past. "We _never_ considered _shooting_! What a genius idea!" 
 
-"Waarom gebeurt het dan niet?" De eerste gebouwen van de stad gingen in vlammen op. De Godelieven leken een vuurspuwend monster, een draak, die iedereen zou verpletteren als ze niet snel iets deden.
+They were different animal species, but all of them could walk on two legs and hold a gun with the other two.
 
-Twee soldaten haalden hun geweer uit elkaar en gooiden de onderdelen op de grond. "We hebben geen kogels, geen kruit, geen munitie. We hebben _niks_ om af te vuren."
+"Then why isn't it happening?"
 
-Bitz keek om zich heen. De hele stad stond vol met wapens die niet werden afgevuurd. Hadden de Eilandzoekers niet gezegd dat ze weer een eiland hadden gevonden? Bij een afgelegen strand op Elwar? Die hadden allang terug moeten zijn met dat _guaan_.
+The first buildings caught fire. The Godesweets seemed like a dragon sometimes, able to squash and burn anyone in the way, especially if you didn't fight back.
 
-De volgende explosie blies een battalion bevers de lucht in. Bitz keek omhoog. De avond zou binnenkort vallen en dan werd er meestal niet gevochten.  Maar als ze morgenochtend geen munitie hadden, was dit front verloren. De Godelieven zouden het hele Frambozenbos terugpakken en misschien wel meer.
+Two soldiers showed their dissembled gun and threw the parts on the floor. "We have no bullets. No gunpowder, no ammunition. We have _nothing_ to fire!"
 
-Dat kon niet gebeuren. Bitz was niet meegereisd om te kijken hoe ze hopeloos werden verslagen omdat ze geen _kogels_ hadden. Hij was meegereisd om zijn land, Duivenland, te laten zien dat hij de beste scheikundige ooit was. 
+Bitz looked around. The entire city was filled with weapons that he'd never seen fired. Hadn't the Islandseekers sent a message about a new island they found? At some remote island on Elwar? They should've been back with new _guayn_ by now.
 
-Hij draaide zich om en stampte naar een wit gebouw met scheuren in de muren. De deur werd voor zijn neus dichtgegooid. Hij knaagde razendsnel door het hout en drong hijgend de donkere kamer binnen.
+The next explosion threw a battalion of beavers into the blue sky. Bitz looked up. Night would soon fall and that usually meant no more fighting. But if they still lacked ammunition tomorrow, this front would be lost. The Godesweets would take back the entire Frambozi Forest---and probably quite a bit more.
 
-"Ga weg, Bitz," brulde de commandant. "We hebben niks aan een bever met een bril die zichzelf slim vindt."
+That could not happen. 
 
-"Ik ben een wetenschapper! Ik zal een manier vinden om nieuwe wapens te maken."
+Bitz hadn't traveled with them just to _watch_ as they were hopelessly defeated because they lacked gunpowder. He had joined to show his homeland, Doveland, that he was the best scientist ever.
 
-De commandant was een Prijskat, een sluwe en sterke katachtige. Hij stamde af van de familie die de originele goden had uitgeschakeld, en die nog steeds beweerde een paar Hemelvoorwerpen te bezitten. Waarschijnlijk vond hij zichzelf daarom beter dan alle anderen. 
+He entered an off-white building with cracks in the walls. The door was slammed shut in his face. He simply gnawed his way through the wood and still entered the room, panting.
 
-Bitz bekeek de kaart. Alle routes tussen Duivenland en Elwar hadden een rood kruis. 
+"Go away, Bitz," the commander bellowed. "A beaver wearing glasses who thinks he's so clever is of no use to us."
 
-"Een zeeblokkade," mompelde hij. "De Casbrita hebben ons afgesneden van de eilanden. Hun vloot is veel groter en sterker dan de onze. Daarom hebben we al maanden geen guaan ontvangen!"
+"I am a scientist! I will find a way to make new weapons!"
 
-_Daarom gaan we nooit meer guaan krijgen,_ dacht Bitz er meteen bij. Hij was meegegaan om dat stofje te verwerken en meer voedsel te groeien voor het leger. Een zinloos doel als de Eilandzoekers het stofje niet meer konden terugbrengen naar Duivenland.
+The commander was a Pricecat, a sly and strong feline. He was a descendant of the family that claimed to have defeated the original godchildren, and still claimed to possess several Heavenmatter. That's probably why he thought he was better than everyone else.
 
-De commandant tikte Bitz' vingers weg en rolde de kaart razendsnel op. "Natuurlijk. Een Juraad als jij kan nooit eens met z'n neus uit andermans zaken blijven."
+Bitz studied the map. All the routes between Doveland and Elwar were covered by large red crosses.
 
-Een Juraad als jij, een vuile Juraad, Bitz hoorde het steeds vaker. Zijn geloof, dat hij niet eens serieus uitoefende, was blijkbaar genoeg reden om hem weg te duwen als een klein kind. 
+"A sea blockade," he mumbled. "The Casbrita cut us off from the islands. Their fleet is far larger and stronger than ours. That's why haven't received _guayn_ in months!"
 
-Hij wilde nooit meer worden weggeduwd.
+_That's why we'll never receive it again,_ Bitz continued the thought. He'd joined the group to _process_ that white substance. To convert it into more food for the army. A useless goal when the Islandseekers couldn't actually bring the substance back home to Doveland.
 
-"Geef me een dag. Ik ken de scheikunde, de stofjes. Ik vind een manier om _zelf_ guaan te maken. De tegenstander heeft alle magie en halfgoden---dan moeten wij wetenschap hebben!"
+The commander pushed Bitz' paws away and rolled up the map. 
 
-"Zoals ik al zei: jij bent zinloos geworden. Vannacht vluchten we van deze plek. Ik stuur je terug naar de universiteit."
+"Of course. A Jurad like yours can never keep their nose out of other animals' business."
 
-"Maar---"
+A Jurad like you. A filthy Jurad. Bitz heard it more and more often. His religion, which he did not even practice outwardly, was apparently enough reason to treat him like a useless child.
 
-"Wees blij dat ik je niet naar de gevangenis stuur."
+They shall never treat him like that again.
 
-De Prijskat duwde hem hardhandig uit het gebouw. Een nieuwe explosie klonk, veel dichterbij dan de eerste. De deur viel uit zijn voegen en alle ramen barstten.
+"Give me a day. I know the science, the material. I will find a way to _create guayn_ ourselves. Th enemy has magic and demigods---then we must have science!"
 
-Bitz had er geen oog voor. Hij rende terug naar zijn laboratorium, door een dikke grijze mist en het geschreeuw van de paar soldaten die nog wél kogels hadden. De rest verschool zich in de huizen en maakte zich klaar om te vluchten. Bitz liep alsof er niks aan de hand was, en als hij minder geluk had gehad, was hij misschien die avond door een bom geraakt.
+"As I said: you are useless. Tonight we flee this place. I'm sending you back to university."
 
-Maar hij had wél geluk en bereikte ongedeerd zijn laboratorium. 
+"But---"
 
-De bommen vielen stil. De zon ging onder en de Godelieven pauzeerden hun aanval. Toen Bitz zeker was dat zijn vloer niet meer zou trillen, ging hij aan de slag.
+"Be happy I don't send you to jail."
 
-Zijn vrouw, Bilara, hupste naar binnen. Hij was getrouwd met zijn jeugdliefde; zijn hart maakte nog altijd een sprongetje als ze verscheen. "Bitz! Jij ware idioot! We moeten weg hier. Weg van deze hele oorlog."
+The Pricecat pushed him from the building. A new explosion sounded, much closer than the first. The door fell off its hinges and the windows burst.
 
-"Ik ga niet weg totdat ik een oplossing heb."
+Bitz did not even notice. He ran back to the laboratory, through a thick gray mist and the screams of soldiers who _were_ able to fire their gun. The others hid inside the homes and prepared to flee. Bitz walked through it as if nothing happened, and if he'd been less lucky, he might have been hit by a bomb that night.
 
-In zijn lange tanden droeg hij vijf bekers tegelijkertijd naar de tafel. Daar bouwde hij een opstelling van metaal, voorzichtiger dan ooit. Door de bommen was veel materiaal op de grond gevallen en gebarsten. Hij had twee, misschien drie, pogingen. Als het dan niet was gelukt, was zijn laboratorium leeg en was hij een waardeloze Juraad.
+But he _was_ lucky and reached his laboratory unharmed.
 
-"Een oplossing voor wat?" Bilara gaf hem een knuffel en een zoen. Zonder iets te hoeven zeggen, wist ze precies welke bekers ze moest aangeven en dat ze de verhitter moest aanzetten.
+The bombs ceased. The sun set and the Godesweets paused their attack. When Bitz was certain the floor wouldn't shake again, he started working.
 
-"Guaan. Ik heb het keer op keer bekeken, en ik denk dat het werkt vanwege _ammoniak_. Dat stofje maakt grond zacht, vruchtbaar, geschikt voor plantjes."
+His wife, Bilara, hopped to meet him. He'd married his childhood love; his heart still jumped whenever she appeared.
 
-Bilara fronste. "... het stofje dat wij uitplassen?"
+"Bitz! You fool! We must leave. Away from this war."
 
-"Nee, dat is _ureum_. Het lijkt er wel heel erg op. Het zal me niks verbazen als die witte eilanden het resultaat zijn van een magisch wezen dat plast in de oceaan."
+"I won't leave until I have the solution."
 
-"En je denkt toch dat _wij_, wezens zonder magie, zelf guaan zouden kunnen maken?"
+His long teeth carried five flasks at once to the table. There he built a setup of metal, burners and measuring tools, more carefully than ever. The bombs had ruined a lot of his tools, which now circled his feet in shards. He had two, maybe three attempts. If those had failed, his laboratory would be empty and he _would_ be a worthless Jurad.
 
-Bitz plaatste alle bekers op hun positie. Daarna pakte hij een onbekende metalen koker.
+"A solution to what?" Bilara hugged and kissed him. Without any instruction, she knew exactly which flasks to hand him and when to turn on the heater.
 
-"Ammoniak bestaat uit twee stofjes. Stikstof en waterstof."
+"Guayn. I've studied it over and over, and I think it works because of _ammonia_. That substance makes the ground soft, fertile, better suited to growing plants."
 
-"Ik weet het, schat. Ik haalde een hoger punt voor die toets dan jij." 
+Bilara frowned. "... the chemical that's in our urine?"
 
-Nu pas herkende Bilara de koker: een buis gevuld met lucht onder hoge druk. Ze gebruikten dit vaak als ze een stofje uit elkaar wilden trekken. Als je maar genoeg druk zette op iets, dan brak het in kleinere stukjes. 
+"No, that's _ureum_. But it's similar. I wouldn't be surprised if the Guayn Islands are the result of some magical creature peeing in the ocean."
 
-Deze buis had wel héle hoge druk. Nu was Bilara geïnteresseerd, en ze liep rondom de stellage om te ontdekken wat haar man van plan was.
+"And you think _we_, creatures with no magic, could make it ourselves?"
 
-Bitz glimlachte en trok aan een touw. Een gloeilamp ging aan, met enige tegenzin. De rest van het lab was compleet donker, maar het gele licht plaatste Bitz en Bilara in een warme cirkel.
+Bitz had positioned all the flasks carefully. Then he grabbed an unfamiliar metal tube.
 
-"Stikstof en waterstof. Weet je waar die twee stofjes ook altijd voorkomen?"
+"Ammonia consists of two particles: _nitrogen_ and _hydrogen_."
 
-Bilara's ogen sprongen wijd open. "Lucht."
+"I know, dear. I received a higher grade on that test than you did."
 
-_Het klinkt misschien gek, beste lezer, maar het is waar. De stofjes die planten beter laten groeien, of wapens laten vuren, zitten in de lucht om ons heen. Maar ze zijn op een andere manier met elkaar verbonden. Twee stofjes kunnen het ene moment hartstikke giftig zijn, maar als je ze anders verbindt, worden ze ineens een medicijn. Sommige stofjes willen graag uit elkaar, andere niet. Bitz stond voor de lastige taak om stikstof---een stofje dat tegenwerkt---uit de lucht te halen en in een beker te stoppen._
+Bilara recognized the tube once it was used: it was filled with air under immense pressure. They often used that to forcefully rip a substance apart. If you applied enough pressure to anything, it would always break into smaller pieces.
 
-Het was gekkenwerk: de lucht, die overal om hen heen was, omzetten in zoiets als ammoniak. Bitz wist vrij zeker dat het ging falen. Maar als het kon, dan moest het gebeuren onder hoge druk, op de juiste temperatuur, en samen met water.
+But this tube was pressured to a dangerous extent. Now Bilara was interested, and she circled the table to discover her husband's plan.
 
-Hij plaatste het laatste onderdeel in het proces. Hij had uiteindelijk _alles_ in zijn lab tegen dit probleem gegooid. Een diepe zucht verliet zijn uitgeputte lichaam. 
+Bitz smiled and pulled on a rope. With hesitation, a light bulb turned on. All other corners of the lab were too dark to see, but the yellow light placed Bitz and Bilara into a warm circle.
 
-Het was tijd.
+"Nitrogen and Hydrogen. Do you know what _also_ contains those particles?"
 
-Samen met Bilara zette hij alle onderdelen aan. Aan de bovenkant werd lucht naar binnen gezogen, terwijl hij aan de onderkant water toevoerde. Het proces kende meer dan vijf stappen, waarbij dingen werden samengevoegd, gekoeld, gemengd, of juist verhit.
+Bilara's eyes opened wide. "Air."
 
-Het wachten begon.
+_It may sound silly, dear reader, but it is true. The particles that make plants grow faster, or make weapons fire, are in the air all around us. But they are connected in a different way. Two particles could be extremely poisonous one way, but if you pull them apart and bind them to something else, they are suddenly a medicine. Some particles want to be together, some want to desperately be apart. Bitz had the tough task to steal nitrogen---a particle that tried to stay together---from the air and put it in a flask._
 
-Als hij gelijk had, kon hij twee vliegen in één klap slaan. Het ammoniak maakte grond vruchtbaar. Maar als je het verbond met zuurstof---ook een stofje dat overal in de lucht zat---werd het _nitraat_. Ook wel bekend als munitie voor wapens.
+It was insanity. Turning the air all around them into something like ammonia. Bitz felt in his bones that it would fail, leading to trembling fingers for the first time since he was a boy. But if it was to happen, then it had to happen under large pressure, at the right temperature, and aided by water.
 
-De maan hing hoog aan de hemel. Bitz en Bilara keken gespannen toe, naar bekers die bubbelden en flessen die verkleurden.
+He placed the final part of the process. He'd thrown _everything_ in his lab against the problem. A deep sigh left his exhausted body.
 
-Even later was Bilara slaap gevallen. Bitz kauwde zenuwachtig op takken. Over een paar uur zou de zon opkomen en het gevecht doorgaan. Dan moest---
+It was time.
 
-Hij keek op de klok. Als zijn berekeningen klopten, was het proces nu klaar.
+Bilara helped him to turn on every machine in the process. Air was sucked in at the top, while water was supplied from the bottom. The process knew more than five steps, in which things were merged, cooled, mixed, or heated.
 
-Zijn grote staart wikkelde om de gloeiend hete beker als een ovenwand. 
+The waiting started.
 
-Hij keek naar het goedje: het zag eruit als _guaan_. 
+If he was right, he could kill two beavers with one stone. The ammonia makes the soil fertile. But once connected with _oxygen_---also in the air, of course---it became _nitrate_. Also known as ammunition for weapons.
 
-Hij rook aan het goedje: het rook als _guaan_.
+The moon hung high and pride. Bitz and Bilara intensely studied the bubbling liquids and the discolored flasks.
 
-Van schrik en verwondering liet hij de beker vallen. Bilara was net op tijd wakker om hem op te vangen.
+Bilara had fallen asleep. Bitz nervously chewed some twigs. In a few hours, the sun would rise and the fight would continue. Then he must---
 
-"Bitz, blijf rustig, denk na. Deze uitvinding kan de wereld veranderen, maar ook---"
+He looked at the clock. If his calculations were correct, the process would be done now.
 
-"Commandant! Commandant!" krijste Bitz, terwijl hij uit het lab rende en het hele kamp wakker maakte.
+His puffy tail wrapped around the searing hot flask like an oven mitt.
+
+He studied the result: it looked like _guayn_.
+
+He smelled the result: it smelled like _guayn_.
+
+He dropped the flask in his surprise and excitement. Bilara woke up just in time to catch it.
+
+"Bitz, stay calm, think about this. The invention could change the world but also---"
+
+"Commander! Commander!" screamed Bitz, as he ran from the lab and woke up the entire army camp.

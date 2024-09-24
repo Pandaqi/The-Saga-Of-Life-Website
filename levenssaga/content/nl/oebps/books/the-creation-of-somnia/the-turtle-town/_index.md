@@ -9,11 +9,11 @@ book: true
 timeperiod: 'Het Kompaanschap'
 cycle: 'Het Ontstaan van Somnia'
 bundle: 'Schildpadden & Schaduwsluipers'
-character: ['Slupper (Schildpad)', 'Socipi (Schildpad)', 'Solomon (Kompaan)', 'Akez (Kompaan)', 'Vivienne (Vis)', 'Oerschildpad', 'Anniwe (Kompaan)']
+character: ['Slupper', 'Socipi', 'Solomon', 'Akez', 'Vivienne', 'Oerschildpad', 'Anniwe']
 prequel: []
-refers: ['Vensala', 'Verdrag van Vensala', 'Raad van Kame', 'Buitenringen bij Alasti', 'Uitbarstingen bij Alasti', 'De Waarheid (Boek)', 'Het Drijvende Ei', 'Horus (Kompaan)', 'Slangensuper', 'Gibra (Slang)', 'Pilaren van Gibra', 'Wijze Uil']
+refers: ['Vensala', 'Verdrag van Vensala', 'Raad van Kame', 'Buitenringen bij Alasti', 'Uitbarstingen bij Alasti', 'Boek van De Waarheid', 'Het Drijvende Ei', 'Horus', 'Slangensuper', 'Gibra', 'Pilaren van Gibra', 'Wijze Uil']
 happens: ['Oerschildpad duikt op', 'Verbanning Solomon', 'Scheiding Schildpadsoorten']
-godlink: ['Vivienne (Vis)']
+godlink: ['Vivienne']
 genre: ['Mysterie', 'Gesprekken', 'Mythe', 'Technologie', 'Ontstaan', 'Ontdekking', "Geschiedenis"]
 
 timeline:

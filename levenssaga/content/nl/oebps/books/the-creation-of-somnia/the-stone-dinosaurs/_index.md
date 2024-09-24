@@ -9,12 +9,12 @@ book: true
 timeperiod: "De Eerste Stappen"
 cycle: "Het Ontstaan van Somnia"
 bundle: "Droomdino's & Knuffelgoden"
-character: ['Donte (Dino)', 'Mami (Gosti)', 'Feria', 'Gulvi', 'Eeris', 'Darus', 'Cosmo', 'Bella', 'Ardex', 'Rexes (Dino)', 'Willi (Kleinwolk)', 'Nisah (Dino)']
+character: ['Donte', 'Mami', 'Feria', 'Gulvi', 'Eeris', 'Darus', 'Cosmo', 'Bella', 'Ardex', 'Rexes', 'Willi Kleinwolk', 'Nisah']
 prequel: ['De Verbannen Familie']
 teaches: ['Asteroïde', 'Komeet', 'Meteoriet', 'Dinosaurussen', 'Klimaatverandering', 'Evolutie', 'Vogels']
 refers: ['De Langnek', 'De Vleugel', 'De Wijze Zee', 'De Levensboom', 'Het Dinonest', 'Mond van Din', 'Saurzee', 'Het Spookden', 'De Spookvogel', 'Het Groene Pad', 'Het Bruine Pad', 'Troonpad', 'Horizonreus', 'Donderwoud', "Dolfijnenpas", "Onmogelijke Muur van Darus", "Taxeies", "Zyme"]
 happens: ['Ondergang van Dinosaurussen', 'Asteroïde van Karet', 'Gosti leert Klimmen', 'Derde IJstijd', 'Rampgrotten', "Donte's Regel", "Waarschuwing voor Donte", "Schuldgevoel van de Gosti"]
-godlink: ['Nisah (Dino)']
+godlink: ['Nisah']
 genre: ['Actief', 'Verdrietig', 'Familie', 'Groeien', 'Educatief', 'Overleven', 'Belangrijk', 'Goden', 'Geschiedenis']
 
 timeline:

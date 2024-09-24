@@ -9,11 +9,11 @@ book: true
 timeperiod: "De Breekbare Balans"
 cycle: "Het Ontstaan van Somnia"
 bundle: "Raketten & Ruimtewezens"
-character: ['Pika (Fluithaas)', 'Prins (Fluithaas)', 'Akoa (Koala)', 'Pinpin (Pinguïn)', 'Mindy (Mens)', 'Aliber (Mens)', 'Zandkoning (Claes)', 'Goettot (Mens)']
+character: ['Pika', 'Prins', 'Akoa', 'Pinpin', 'Mindy', 'Aliber', 'Zandkoning', 'Goettot']
 prequel: []
 refers: ["Apranië", "Gulvi", "Raketa", "Donte's Regel", "Noordelijke IJsplaten", "Apra", "Hanghekken", "Wapens van Kran", "Huilnacht", "Wijze Uil", "Valton", "Nibuwe Stelsel"]
-happens: ["Raketrace van Apranië", "Bluf van Kran", "Fluitvaart (Planeet)", "Mindy's Onderzoek"]
-godlink: ['Zandkoning (Claes)']
+happens: ["Raketrace van Apranië", "Bluf van Kran", "Fluitvaart", "Mindy's Onderzoek"]
+godlink: ['Zandkoning']
 teaches: ['Eerste Wet van Newton', 'Klimaatverandering']
 genre: ['Actief', 'Verdrietig', 'Liefde', 'Groeien', 'Overleven', 'Toekomst', 'Reizen', 'Spionage']
 

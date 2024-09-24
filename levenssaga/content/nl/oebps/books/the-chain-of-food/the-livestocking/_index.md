@@ -9,7 +9,7 @@ book: true
 timeperiod: 'De Breekbare Balans'
 cycle: 'De Keten van Voedsel'
 bundle: 'Rampstallen & Ruimteknallen'
-character: ["Kuku (Koe)", "Elize (Mens)", "Harry (Mens)", "Begha-ti-Rec (Delja)", "Hespryhond"]
+character: ["Kuku", "Elize", "Harry", "Begha-ti-Rec", "Hespryhond"]
 prequel: ["De Vleesvreters"]
 refers: ["Babbelbroers", "Tweede Conflict", "Berenbouwers", "Hemelvoorwerpen", "Chef", "Voorspellingen van Guds", "Steen van Zekerstof", "Windvlaagvleugel", "Soliduri"]
 happens: ["Wederopbouw Chef's Trots", "Diefstal Hemelvoorwerpen"]

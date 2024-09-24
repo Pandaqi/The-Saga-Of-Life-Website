@@ -8,10 +8,10 @@ book: true
 timeperiod: 'The Founding of Floria'
 cycle: 'The Creation of Somnia'
 bundle: 'Turtles & Shadowshifters'
-character: ['Jaco (Jackal)', 'Gidi (Gazelle)', 'Halek (Shadowshifter)', 'Anniwe (Companion)', 'Isis']
+character: ['Jaco', 'Gidi', 'Halek', 'Anniwe', 'Isis']
 prequel: ['The Turtle Town']
 teaches: ['Egyptian Mythology']
-refers: ['Followers of Ra', 'Religion of the Banished', "Florisian Faith", 'Wo (Chiefcloud)', 'Donte (Dino)', 'Ra (Floric Chiefgod)', 'Desertglass', 'Pearl Pyramid', 'Gripglass', 'Demise of the Gazelles', 'Royal Gazelles', 'Survival of the Toughest Tiger', 'Heroeshaven', 'Bank of Heroeshaven', 'The Floating Egg']
+refers: ['Followers of Ra', 'Religion of the Banished', "Florisian Faith", 'Wo Chiefcloud', 'Donte', 'Ra', 'Desertglass', 'Pearl Pyramid', 'Gripglass', 'Demise of the Gazelles', 'Royal Gazelles', 'Survival of the Toughest Tiger', 'Heroeshaven', 'Bank of Heroeshaven', 'The Floating Egg']
 happens: ['Unwanted King of Floria', 'The First Grass Seed', 'Shadowshifter Extinction', 'Curse of Isis', 'The Pearlpath']
 godlink: ['Isis']
 genre: ['Brainteaser', 'Active', 'Myth', 'Adventure', 'Discovery', 'Scary', 'Funny', "History"]

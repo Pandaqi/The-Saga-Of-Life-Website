@@ -9,10 +9,10 @@ book: true
 timeperiod: "Het Wolkengezag"
 cycle: "Het Ontstaan van Somnia"
 bundle: "Vleugels & Verraders"
-character: ['Bella', 'Cosmo', 'Eeris', 'Darus', 'Dilova (Duif)', 'Fiante (Oervogel)', 'Abrahon (Oerschildpad)']
+character: ['Bella', 'Cosmo', 'Eeris', 'Darus', 'Dilova', 'Fiante', 'Abrahon']
 prequel: ['De Stenen Dinosaurussen']
 refers: ['Nachtrivier', 'Zonsonderrivier', 'Bijnabergen', 'Bloemenvelden van Bijdehand', 'De Spookvogel', 'De Midterrazee', 'Atheeni']
-happens: ['De Grote Trap', 'Traprest', 'Dracs (Godenwetten)', 'Groepsgevesten']
+happens: ['De Grote Trap', 'Traprest', 'Dracs', 'Groepsgevesten']
 godlink: ['Bella', 'Eeris', 'Cosmo', 'Darus']
 genre: ['Gesprekken', 'Maatschappij', 'Ontdekking', 'Ontstaan', 'Goden', 'Spionage', 'Misdaad', "Biologie"]
 

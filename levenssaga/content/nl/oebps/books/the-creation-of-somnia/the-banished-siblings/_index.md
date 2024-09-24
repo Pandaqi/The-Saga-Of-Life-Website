@@ -9,11 +9,11 @@ book: true
 timeperiod: 'Het Zwarte Gat'
 cycle: 'Het Ontstaan van Somnia'
 bundle: "Droomdino's & Knuffelgoden"
-character: ['Ardex', 'Bella', 'Cosmo', 'Darus', 'Eeris', 'Feria', 'Gulvi', 'Hanah', 'Zandkoning (Claes)']
+character: ['Ardex', 'Bella', 'Cosmo', 'Darus', 'Eeris', 'Feria', 'Gulvi', 'Hanah', 'Zandkoning']
 teaches: ['Zwaartekracht', 'Aardkern', 'Aardkorst', 'Maanvorming', 'DNA', 'Enzymen', 'Atmosfeer']
-refers: ['Wraak van Vader', 'Hemelpaleis', 'Mares (Planeet)', "Zyme"]
+refers: ['Wraak van Vader', 'Hemelpaleis', 'Mares', "Zyme"]
 happens: ['Ontstaan van Zandwezens', 'Onmogelijke Muur van Darus', 'Eerste Zee', 'Troon van de Toekomst', 'Tektonische Platen', 'Uitvinding DNA']
-godlink: ['Zandkoning (Claes)']
+godlink: ['Zandkoning']
 genre: ['Starter', 'Belangrijk', 'Overleven', 'Ontstaan', 'Educatief', 'Wetenschap', 'Familie', 'Goden']
 
 timeline:

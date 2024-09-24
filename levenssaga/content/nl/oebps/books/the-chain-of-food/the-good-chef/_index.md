@@ -9,11 +9,11 @@ book: true
 timeperiod: 'De Vondst van Floria'
 cycle: 'De Keten van Voedsel'
 bundle: 'Himaherders & Receptversnellers'
-character: ["Chef (Chimpansee)", "Minnekeria (Woestijnvos)", "Perzwa (Zwijn)", "Sulliwe (Leeuw)", "Olm (Olifant)"]
+character: ["Chef", "Minnekeria", "Perzwa", "Sulliwe", "Olm"]
 prequel: []
 refers: ["Origina", "Floria", "Traferia", "Tweede Troon van Darus", "Onmogelijke Muur van Darus", "Bultbaracht", "Tegenspoedtulp", "Dinolief", "Zeezot", "Boek der Betekenis", "Amor", "Liefdesmuur", "Primas", "Slangensoep", "Frambozenbos", "Fruitgaard", "Heldehaven", "Groene Pad", "Matenhaven", "Madaska", "Saurzee", "Mond van Din", "Gifgordel", "Paraat", "Soliduri", "Schola", "Karma", "Giganten", "Explosie Gifbom", "Esprante", "Vijftig Boomtorens van Luiland", "Noordelijke IJsplaten", "Dauwdoris", "Equator"]
 happens: ["Ontstaan Grijpglas", "Verbanning Woestijnvossen", "Nepvergiftiging van Sulliwe"]
-godlink: ["Minnekeria (Woestijnvos)"]
+godlink: ["Minnekeria"]
 genre: ["Gesprekken", "Ontdekking", "Reizen", "Goden", "Misdaad", "Groeien", "Biologie"]
 
 blurb: "Een fennek bezoekt in paniek de Goede Chef: een machtig wezen is dodelijk ziek en zij moet het medicijn maken. Maar deze vreemde ingrediënten kan je alleen krijgen door uitdagingen te overwinnen."

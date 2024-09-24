@@ -91,7 +91,7 @@ A monster. A demigod meant to defeat them and take over their power. Father quit
 
 His hands, human at first glance until you noticed the eight fingers, grabbed his wife's hands.
 
-"We let it happen," Father said. "But at the first sign of a monster ... a hint of animosity or a destructive soul ... "
+"We let it happen," Father said. "But at the first sign of a monster ... a hint of animosity or a destructive soul ..."
 
 Gaia's hands moved to her belly. There was no way to tell she was pregnant, for gods do not deliver children the same way as humans do. For centuries she had been attracting energy and particles, wherever she walked, to grow a second soul deep inside her.
 

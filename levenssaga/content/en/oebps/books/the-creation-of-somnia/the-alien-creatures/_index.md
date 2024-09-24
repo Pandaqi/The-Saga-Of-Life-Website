@@ -8,9 +8,9 @@ book: true
 timeperiod: "The Envoyage"
 cycle: "The Creation of Somnia"
 bundle: "Rockets & Aliens"
-character: ['Hera (Human)', 'Casjara (Human)', 'Simmo (Human)', 'Mindy (Human)', 'Vaia (Human)', 'Jacintah']
+character: ['Hera', 'Casjara', 'Simmo', 'Mindy', 'Vaia', 'Jacintah']
 prequel: ['The Black Sky']
-refers: ['Amor', 'Fourstone', 'Trevran', 'Bombbricks', "Mindy's Research", "Nibuwe System", "Rocketrace of Aprania", 'Babbling Brothers', 'Platsu (Planet)', 'Stone of Platsu', "Kurin (Rabbit)", "Wilplin (Chancekeeper)", "Cosmo"]
+refers: ['Amor', 'Fourstone', 'Trevran', 'Bombbricks', "Mindy's Research", "Nibuwe System", "Rocketrace of Aprania", 'Babbling Brothers', 'Platsu', 'Stone of Platsu', "Kurin", "Wilplin", "Cosmo"]
 happens: ['Death Mindy', 'Creation CAJARA', "Creation HERO", "Radio Silence of Platsu"]
 godlink: ["Jacintah"]
 genre: ["Dialogue", "Scary", "Love", "Growth", "Survival", "Future", "Fight", "Biology"]

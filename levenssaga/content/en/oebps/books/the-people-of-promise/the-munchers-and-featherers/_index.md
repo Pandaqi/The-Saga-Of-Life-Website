@@ -8,7 +8,7 @@ book: true
 timeperiod: 'The First Steps'
 cycle: 'The People of Promise'
 bundle: 'Demigods & Clanhopes'
-character: ["Kesho (Gosti)", "Misha (Gosti)", "Farshar (Gosti)", "Jambir (Gosti)", "Jagu (Jaguar)", "Ardex"]
+character: ["Kesho", "Misha", "Farshar", "Jambir", "Jagu", "Ardex"]
 prequel: []
 refers: ["Indus", "Schola", "Asha Tribe", "Jagu Tribe", "Darus Stones"]
 happens: ["Asha Tribe Split", "War with Jagu"]

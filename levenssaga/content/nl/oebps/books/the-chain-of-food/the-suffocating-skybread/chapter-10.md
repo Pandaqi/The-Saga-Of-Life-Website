@@ -37,7 +37,7 @@ Ze maakten grappen over dieren die ze zagen in de wolken. Over patronen in de gr
 
 Kijkend naar eindeloze graanvelden, wisten Dannis en Pin dat ze te eten zouden hebben als ze thuis kwamen.
 
-Ze wisten ook dat thuis niet hetzelfde was voor allebei. Een antelope kon niet leven op de Zuidelijke IJsplaten, en een pinguïn niet op een regenachtig eiland genaamd Casbrita.
+Ze wisten ook dat thuis niet hetzelfde was voor allebei. Een antilope kon niet leven op de Zuidelijke IJsplaten, en een pinguïn niet op een regenachtig eiland genaamd Casbrita.
 
 Ze namen expres de langste route naar huis, met veel toevallige lekke banden en familieleden in verre bossen die ze zogenaamd wilden bezoeken. 
 
@@ -49,7 +49,7 @@ ___
 
 Bitz had zijn beste bril opgedaan, zijn vacht gewassen, en zijn toespraak geoefend. De oorlog was voorbij. Voor nu dan.
 
-Hij stelde zichzelf gerust met dat er altijd een volgende oorlog kwam. De wereld gaf Duivenland de schuld en eiste dat ze elk jaar miljoenen euro's betaalden voor "herstel" en "vrede". Een hoop Vrijdieven waren er nu al boos over.
+Hij stelde zichzelf gerust met dat er altijd een volgende oorlog kwam. De wereld gaf Duivenland de schuld en eiste dat ze elk jaar miljoenen Soliduri betaalden voor "herstel" en "vrede". Een hoop Vrijdieven waren er nu al boos over.
 
 Hij had de Knobbelprijs gewonnen. Voor scheikunde, voor zijn uitvinding van kunstmest.
 

@@ -9,9 +9,9 @@ book: true
 timeperiod: 'Het Tweede Conflict'
 cycle: 'Het Ontstaan van Somnia'
 bundle: 'Dromenspelers & Tijdverdelers'
-character: ['Ismaraldah', 'Jacintah', 'Didrik (KzK)', 'Castela (Zwartvoetkat)', 'Chimp', 'Apenheer', 'Arap (Aap)', 'Zeze (Wolf)', 'Viowe (Leeuw)', 'Jaco Jr. (Jakhals)']
+character: ['Ismaraldah', 'Jacintah', 'Didrik', 'Castela', 'Chimp', 'Apenheer', 'Arap', 'Zeze', 'Viowe', 'Jaco Junior']
 prequel: []
-refers: ['Het Drijvende Ei', 'Het Misplaatste Ei', 'Waarschuwing voor Donte', 'Het Houten Klokhuis', 'De Kineesrace', 'Verplaatste Uitvinding van Buskruit', 'Opperwolk', 'Donte (Dino)', 'Kokosnootvoetbal', 'Schijfhockey', 'Kameraden zonder Koning', 'Drakenhout', 'De Apencode', 'Roge (Wolf)']
+refers: ['Het Drijvende Ei', 'Het Misplaatste Ei', 'Waarschuwing voor Donte', 'Het Houten Klokhuis', 'De Kineesrace', 'Verplaatste Uitvinding van Buskruit', 'Opperwolk', 'Donte', 'Kokosnootvoetbal', 'Schijfhockey', 'Kameraden zonder Koning', 'Drakenhout', 'De Apencode', 'Roge']
 happens: ['Slag bij Baroke', 'Geboorte van Amowe']
 godlink: ['Ismaraldah', 'Jacintah']
 genre: ['Breinbreker', 'Actief', 'Gevecht', 'Maatschappij', 'Goden', 'Verdrietig', 'Liefde', 'Overleven', 'Spionage', "Tussendoortje"]

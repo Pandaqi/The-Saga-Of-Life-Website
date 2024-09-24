@@ -5,7 +5,7 @@ weight: 3
 
 Dannis en Pin konden het eiland niet winnen. Ze waren al blij dat ze konden ontsnappen. Toen de bevers doorhadden dat de Godelieven maar _twee_ dieren hadden gestuurd, probeerden ze niet alleen het eiland te pakken, maar ook Dannis te vermoorden.
 
-Gelukkig was een antelope, ondanks wat de naam suggereerde, best wel goed in lopen. Zwaar hijgend stormde hij het kamp van de Godelieven in, waar Pin meteen van zijn rug sprong en de Apenheer opzocht.
+Gelukkig was een antilope, ondanks wat de naam suggereerde, best wel goed in lopen. Zwaar hijgend stormde hij het kamp van de Godelieven in, waar Pin meteen van zijn rug sprong en de Apenheer opzocht.
 
 "De Vrijdieven zijn aan land gekomen! Ze hebben een eiland op het Zeepaardstrand gepakt!"
 
@@ -81,7 +81,7 @@ De schepen waren even snel, even ver, even slecht voorbereid op een gevecht. Ze 
 
 _Hmm een krab is ook een soort van vis, toch?_ dacht Pin terwijl hij watertandde.
 
-Dannis en Pin hadden een ander idee. De pinguïn klom op de rug van de antelope, die steigerde en het zwart-witte beest---met helm---afvuurde alsof hij een kanonskogel was.
+Dannis en Pin hadden een ander idee. De pinguïn klom op de rug van de antilope, die steigerde en het zwart-witte beest---met helm---afvuurde alsof hij een kanonskogel was.
 
 Pin landde bovenop het eiland. De inslag brak een stuk guaan af en regende kiezelsteentjes op de tegenstander. Een paar moesten loslaten en vielen schreeuwend in het water.
 

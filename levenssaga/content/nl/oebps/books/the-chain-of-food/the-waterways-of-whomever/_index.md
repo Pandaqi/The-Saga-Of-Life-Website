@@ -9,11 +9,11 @@ book: true
 timeperiod: 'Het Zeevaarderschap'
 cycle: 'De Keten van Voedsel'
 bundle: 'Piraten & Grasgranaten'
-character: ["Paunet (Pauw)", "Pi Kid (Aap)", "Doorngoud (Neushoorn)", "Karlos Vaan (Kat)", "Arap (Aap)", "Widagai (Papagaai)"]
+character: ["Paunet", "Pi Kid", "Doorngoud", "Karlos Vaan", "Arap", "Widagai"]
 prequel: []
-refers: ["Origina", "Garda", "Apranië","Apenrijk", "Cariboon", "Barbala", "Kleintocht", "Matenhaven", "Liefdeslelie", "Madaska", "Ziel van Darus", "Midterrazee", "Raad van Kame", "Raad van Pi", "Oerschildpad duikt op", "Alasti", "Liefdesmuur", "Vijftig Boomtorens van Luiland", "Casbrita", "Frambozi", "Dolfijnenpas", "Laterwater", "Gulvi", "Hemelvoorwerpen", "Balkze", "Pompoencake", "Kompaankettingen", "Chef (Chimpansee)", "Zwartbaard", "Heldehaven", "Soliduri"]
+refers: ["Origina", "Garda", "Apranië","Apenrijk", "Cariboon", "Barbala", "Kleintocht", "Matenhaven", "Liefdeslelie", "Madaska", "Ziel van Darus", "Midterrazee", "Raad van Kame", "Raad van Pi", "Oerschildpad duikt op", "Alasti", "Liefdesmuur", "Vijftig Boomtorens van Luiland", "Casbrita", "Frambozi", "Dolfijnenpas", "Laterwater", "Gulvi", "Hemelvoorwerpen", "Balkze", "Pompoencake", "Kompaankettingen", "Chef", "Zwartbaard", "Heldehaven", "Soliduri"]
 happens: ["Raad van Pi", "Piratenrepubliek", "Paunets Verraad", "Einde Negenjaarsoorlog"]
-godlink: ["Pi Kid (Aap)"]
+godlink: ["Pi Kid"]
 genre: ["Actief", "Verdrietig", "Familie", "Avontuur", "Reizen", "Gevecht", "Geschiedenis"]
 
 blurb: "Kapitein Pi moet de vijand verdrijven uit de Dolfijnenpas. Maar men bouwt stiekem het meest onoverwinnelijke schip ooit, en legendes spreken over een vreselijke vloek in deze wateren."

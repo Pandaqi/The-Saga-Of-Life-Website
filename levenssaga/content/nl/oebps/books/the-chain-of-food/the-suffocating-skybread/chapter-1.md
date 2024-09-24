@@ -27,7 +27,7 @@ Tegen de tijd dat Pin het schip aanraakte, was alles al vergeven.
 
 Gelukkig kon hij altijd rekenen op zijn beste vriend.
 
-Dannis, een oranje-zwarte antelope, verliet pas minuten later het schip, met de laatste kist in zijn gewei. Dat deed hij altijd expres, hoewel de rest van het leger hem inmiddels de Langzame Lope noemde. 
+Dannis, een oranje-zwarte antilope, verliet pas minuten later het schip, met de laatste kist in zijn gewei. Dat deed hij altijd expres, hoewel de rest van het leger hem inmiddels de Langzame Lope noemde. 
 
 Hij trok Dannis mee aan zijn poten, naar zijn eigen "tuin". Daar gooiden ze de kist ondersteboven op de grond.
 
@@ -139,4 +139,4 @@ Pin plaatste zijn wapen tegen de snavel en blies een paar waarschuwingsschoten. 
 
 Hij wenste dat hij een tweede helm had meegenomen voor Dannis. Daarnaast wenste hij om een lekker stuk vlees. Maar als derde wenste hij dat ze meer dieren hadden meegenomen.
 
-Zij hadden één antelope en één pinguïn naar het gevecht gebracht. De tegenstander bracht tien bevers.
+Zij hadden één antilope en één pinguïn naar het gevecht gebracht. De tegenstander bracht tien bevers.

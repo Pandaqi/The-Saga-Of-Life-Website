@@ -99,7 +99,7 @@ Oeros strengthened his communication beams. "So what does she do? She puts all h
 
 "But then ..."
 
-Oeros sighed. "Then I gave you a huge part of my magic. I thought you'd die. You were too strong for a young demigod. But gave it time ... and you'll grow into something fierce. Believe me."
+Oeros sighed. "Then I gave you a huge part of my magic. I thought you'd die. You were too strong for a young demigod. But give it time ... and you'll grow into something fierce. Believe me."
 
 And for the first time, Ardex could do that. Believe his parents. His desire to flee and never come back was suddenly nowhere to be found.
 

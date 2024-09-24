@@ -9,7 +9,7 @@ book: true
 timeperiod: 'De Ruimtereis'
 cycle: 'De Keten van Voedsel'
 bundle: 'Rampstallen & Ruimteknallen'
-character: ["Kirren (Mens)", "Arren (Mens)", "Jannih (Mens)", "Begha-ti-Rec (Delja)"]
+character: ["Kirren", "Arren", "Jannih", "Begha-ti-Rec"]
 prequel: ["De Buitenaardse Wezens"]
 refers: ["Omnobereus", "Appareus", "Nimadwerg", "Dinnifee", "AR-BOT", "AR-BRIL", "Nibuwe Stelsel", "CAJAR", "HERO", "Dalas", "Hemelvoorwerpen", "Hemelse Bloemen van Eeris", "Vuurring", "Hespryhond", "Steen van Zekerstof", "Boek der Betekenis", "Radiostilte van Platsu", "Zwoele Zee", "Somnia", "Reuzenstelsel", "Feeënstelsel", "Trevran"]
 happens: ["Kolonie Slangenreus", "Evolutie AR-BOT", "Vergiftiging Planeters"]

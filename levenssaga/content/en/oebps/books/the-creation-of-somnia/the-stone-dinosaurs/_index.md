@@ -8,12 +8,12 @@ book: true
 timeperiod: "The First Steps"
 cycle: "The Creation of Somnia"
 bundle: "Dreamdinos & Animalgods"
-character: ['Donte (Dino)', 'Mami (Gosti)', 'Feria', 'Gulvi', 'Eeris', 'Darus', 'Cosmo', 'Bella', 'Ardex', 'Rexes (Dino)', 'Willi (Smallcloud)', 'Nisah (Dino)']
+character: ['Donte', 'Mami', 'Feria', 'Gulvi', 'Eeris', 'Darus', 'Cosmo', 'Bella', 'Ardex', 'Rexes', 'Willi Smallcloud', 'Nisah']
 prequel: ['The Banished Siblings']
 teaches: ['Asteroid', 'Comet', 'Meteor', 'Dinosaurs', 'Climate Change', 'Evolution', 'Birds']
 refers: ['The Longneck', 'The Wing', 'The Wise Sea', 'The Tree of Life', 'The Dino Nest', 'Mouth of Din', 'Saursea', 'The Ghost Den', 'The Ghostbird', 'The Green Path', 'The Brown Path', 'Thronepath', 'Horizon Giant', 'Thunderwood', 'Dolphin Pass', "Darus' Impossible Wall", "Taxeies", "Zyme"]
 happens: ['Dinosaur Demise', 'Asteroid of Karet', 'Gosti learn Climbing', 'Third Ice Age', 'Catastrophe Caves', "Donte's Rule", "Warning for Donte", "Guilt of the Gosti"]
-godlink: ['Nisah (Dino)']
+godlink: ['Nisah']
 genre: ['Active', 'Sad', 'Family', 'Growth', 'Educational', 'Survival', 'Important', 'Gods', 'History']
 
 timeline:

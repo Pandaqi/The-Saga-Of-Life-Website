@@ -1,94 +1,97 @@
 ---
-title: "Epiloog"
+title: Epilogue
 weight: 10
 ---
+Pin had to be carried. He wore an eye patch in front of his left eye that had gone blind. Their parrot joked that he now looked like a pirate; Pin didn't find it funny.
 
-Pin moest worden gedragen. Zelf droeg hij een lap voor zijn linkeroog die niks meer zag. Hun papagaai grapte dat hij nu een piraat leek; Pin kon er niet om lachen. 
+The black strap of his helmet had been permanently pressed into his chin, burned into it by the gas. The same was true for many of his species, which earned them the nickname _chinstrap penguin_. He also didn't find that funny.
 
-De zwarte band van zijn helm stond permanent onder zijn kin gedrukt, erin gebrand door het gas. Hetzelfde was waar voor veel soortgenoten, waardoor ze nu de bijnaam Stormbandpinguïns krgen. Ook daarom kon hij op het moment niet lachen.
+Dannis had lost his voice. Only recently he was able to speak his first sentence again, and he would have performed a victory dance if his body could still dance.
 
-Dannis was zijn stem kwijt. Toen hij laatst weer een zin kon fluisteren, kon hij van vreugde wel een dansje doen, maar dansen wilde zijn lichaam ook niet bepaald.
+"I ask a final time," the Ape Lord said. When news of the gas reached him, he instantly traveled to the Frambozi Forest to control the situation. "Give us the formula for the gas. I know you plundered that laboratory."
 
-"Ik vraag het een laatste keer," zei de Apenheer. Toen nieuws van het gas naar buiten kwam, vertrok hij meteen naar het Frambozenbos om de situatie te regelen. "Geef ons de formule voor het gas. Ik weet dat jullie het laboratorium hebben geplunderd."
+Pin looked away and stayed silent.
 
-Pin keek weg en zei niks.
+"You are a soldier, Pin. It would be incredibly stupid to let our enemy keep this advantage. Tell us the formula and we can hit back with our own gas. Make the war fair again."
 
-"Je bent een soldaat, Pin. Het zou ongelofelijk stom zijn om de vijand dit voordeel te geven. Vertel ons de formule, zodat wij kunnen terugslaan met ons eigen gas. De oorlog weer eerlijk maken."
+"I have no idea what you're talking about. Feathers and fables, feathers and fables. Laboratory? What laboratory? That's not even a word, you're making it up."
 
-"Ik weet niet waarover u praat. Snavels en fabels, snavels en fabels. Laboratorium? Welk laboratorium? Dat woord verzint u ter plekke, nooit van gehoord."
+The Ape Lord sighed. "Dannis has stolen the secret to ammonia from the lab and given it to us. Thanks to him we can make our soil fertile again. Thanks to him, nobody is hungry anymore. Let your best friend be an example."
 
-De Apenheer zuchtte. "Dannis heeft het geheim van ammoniak gestolen uit dat lab en aan ons gegeven. Dankzij hem kunnen we nu alle grond vruchtbaar maken. Dankzij hem kunnen we iedereen nu genoeg te eten geven. Neem een voorbeeld aan je goede vriend."
+Pin and Dannis looked each other in the eye, but could barely see each other.
 
-Pin en Dannis keken elkaar aan, en zagen elkaar maar half. 
+"I do follow my best friend's example now," Pin said. "I don't have the formula. I thought I had it, but it turned out to be a drawing of a gas mask."
 
-"Ik neem een voorbeeld aan mijn vriend," zei Pin zacht. "Ik heb die formule niet. Ik dacht hem te hebben, maar het bleek een tekening van een gasmasker."
+Pin demanded a paper and pencil. He drew the sketch as well as he could from memory. "I propose you make these masks in bulk. And assume the Freethieves will do _anything_. Especially as long as they have Bitz."
 
-Pin vroeg om een blad en een potlood, waarna hij het ontwerp zo goed mogelijk schetste vanuit zijn geheugen. "Ik stel voor dat je massaal gasmaskers maakt. En ga ervan uit dat de Vrijdieven tot _alles_ in staat zijn. Zeker zolang ze Bitz hebben."
+The Ape Lord slammed the table. "Darn it, Pin! You leave me no choice. You are both _honorably discharged_ from the army, effective immediately. Better than you deserve; but the others will never stop treating you two as saviors and heroes."
 
-De Apenheer sloeg zijn hand op tafel. "Verdomme, Pin. Bij deze zijn jullie allebei _eervol ontslagen_ uit het leger. Beter dan je verdient, maar de rest ziet jou als redder en held."
+He placed a medal around Dannis' neck. He did the same for Pin, but he pushed the commander away.
 
-Hij deed Dannis een medaille om. Hij wilde hetzelfde doen bij Pin, maar die duwde hem weg. 
+The penguin raised his wings. "I am going home. Don't stop me."
 
-De pinguïn trok zijn vleugels op. "Ik ga naar huis. Houd me niet tegen."
+They soon found themselves in an automobile driving home. They drove past fields of grass bathed in sunlight. Past full fields of grain and endless rows of corn. 
 
-Niet veel later stonden ze op een auto, op weg naar huis. Ze reden langs velden glanzend in de zon. Langs volle graanvelden en eindeloos maïs. Het proces om zelf kunstmest te maken was doorgegeven aan alle gebieden van de Godelieven. Door het overvloed aan voedsel ging het aantal dieren nóg sneller omhoog. Tot een eeuw geleden waren er hoogstens een miljard dieren; ineens was dat aantal keer twee gegaan.
+The process to make fertilizer had been given to all territories of the Godesweets. Because of the abundance of food that could be grown now, the population only grew faster. Until a century ago, there were at most a billion animals on the entire planet. Now, suddenly, that number had doubled.
 
-Ze maakten grappen over dieren die ze zagen in de wolken. Over patronen in de graanvelden die iets zouden voorstellen. Pin beweerde dan dat buitenaardse wezens die maakten---Dannis lachte hem natuurlijk uit. Maar dan hoopte hij stiekem dat de goden inderdaad terugkwamen om al deze narigheid te stoppen. Dat ze nog leefden, zich al die eeuwen op een andere planeet schuil hielden, en het Tweede Conflict morgen nog beëindigden.
+They joked about the animals they recognized in the clouds. About patterns in the fields of grain that might mean something. Pin confidently claimed they were made by aliens---Dannis confidently scoffed at that. But then he secretly prayed for the godchildren to come back to Somnia and stop all this madness. That they were still alive, just hiding on another planet all this time, and would return to end the Second Conflict tomorrow morning.
 
-Kijkend naar eindeloze graanvelden, wisten Dannis en Pin dat ze te eten zouden hebben als ze thuis kwamen.
+Watching the endless fields of grain, Dannis and Pin knew they'd find food when they came home.
 
-Ze wisten ook dat thuis niet hetzelfde was voor allebei. Een antelope kon niet leven op de Zuidelijke IJsplaten, en een pinguïn niet op een regenachtig eiland genaamd Casbrita.
+They also knew _home_ didn't mean the same thing for both. An antilope could not live on the Southern Icesheets, and a penguin could not live on the rainy island of Casbrita.
 
-Ze namen expres de langste route naar huis, met veel toevallige lekke banden en familieleden in verre bossen die ze zogenaamd wilden bezoeken. 
+They purposely took the long way home, with many suspicious flat tires and family members in faraway forests they just had to visit.
 
-Ook zodat Pin het geheim van het gas kon weggooien. Op een veilige plek, ver van alles.
+Also to give Pin the chance to throw away the papers holding the secret of the gas. In a safe place where Godesweets would not find it.
 
-Hij hoopte dat de Godelieven het zo nooit vonden. In werkelijkheid had hij hen slechts een jaar vertraagd. Daarna ontdekten ze zelf het geheim en begonnen het gas ook te gebruiken.
+In reality, he'd only delayed them a few years. Then they discovered the secret to the gas themselves and used it too.
 
 ___
 
-Bitz had zijn beste bril opgedaan, zijn vacht gewassen, en zijn toespraak geoefend. De oorlog was voorbij. Voor nu dan.
+Bitz had selected his best glasses, cleaned his fur twice, and practiced his speech ten times over. The war was over. For now, at least.
 
-Hij stelde zichzelf gerust met dat er altijd een volgende oorlog kwam. De wereld gaf Duivenland de schuld en eiste dat ze elk jaar miljoenen euro's betaalden voor "herstel" en "vrede". Een hoop Vrijdieven waren er nu al boos over.
+He reassured himself that there'd always be a next war. The world blamed Doveland for the whole thing and required they pay millions of Soliduri for "reparations" and "peace". Many Freethieves were already angry about it. Some called the peace treaty nothing but a "pause for twenty years".
 
-Hij had de Knobbelprijs gewonnen. Voor scheikunde, voor zijn uitvinding van kunstmest.
+He'd won the Knobbel Prize. For chemistry, for his invention of fertilizer.
 
-Glimlachend duwde hij de deuren open. Hij keek op een luxe, prachtig versierde zaal ... met lege stoelen.
+He pushed open the doors to the prestigious room, smiling. He looked over the luxurious and decorated hall with ... nothing but empty chairs.
 
-Alleen de aap die de prijs uitreikte stond eenzaam op het podium.
+Only a lone ape, who handed out the prizes, stood on the stage.
 
-Alle andere wetenschappers, alle andere winnaars, waren niet komen opdagen.
+All other scientists, including the winners, did not attend.
 
-"Is ... ben ik te vroeg? Of te laat?" Bitz bekeek zichzelf in een stuk glanzend servies, ongebruikt. Hij fatsoeneerde zijn snorharen.
+"Am ... am I too early? Too late?" 
 
-"Je bent er. Dat is het probleem," zei de aap met een grom. Hij gooide de Knobbelprijs de lucht in. Bitz moest springen om het voorwerp te vangen, vlak voordat het kapot viel op de vloer. "Zo. Ik heb jou officieel je prijs uitgereikt. Nu mag je opzouten."
+Bitz studied himself in a shining piece of crockery, unused. He cleaned his whiskers again.
 
-Bitz trilde van woede en rende naar het toneel. "Dit is omdat ik een Juraad ben, of niet? Je moet mijn poot schudden. Dat is onderdeel van de regels. Regels die jullie zelf hebben bedacht! Het is pas officieel als je mijn poot schudt."
+"You are here. That's the problem," the ape grunted. He threw the Knobbel Prize into the air. Bitz had to jump and catch the object before it would shatter on the floor. "That's that. I've officially handed you your prize. Now get out."
 
-Zijn poot prikte naar voren, aan de rand van het podium. De aap bleef staan op de verhoging en keek neer op de bever. 
+Bitz shook with anger and ran onto the stage. "This is because I'm a Jurad, isn't it? You _must_ shake my paw. It's the rules! Rules you invented yourself! It's only official if you shake my paw."
 
-"Ik heb ontdekt wat er in de kleinste deeltjes op aarde zit," zei de aap. "Mijn theorie van het atoom was revolutionair en maakte dingen mogelijk die eerst onmogelijk leken. Net zoals jouw proces om kunstmest te maken."
+He extended his paw, across the edge of the stage. The ape stood frozen like a statue, taller than the beaver and looking down on him.
 
-De aap stapte van het podium. "Ik erken dat je de Knobbelprijs verdient. Je poot schud ik niet."
+"I've discovered what's inside the smallest particles on Somnia," the ape said. "My theory about the _atom_ was revolutionary and opened the doors for many good and useful inventions. Just like your process to create fertilizer."
 
-Bitz bleef achter in de lege zaal, de Knobbelprijs tegen zijn buik gedrukt.
+The ape stepped of the stage. "I recognize you are worthy of this Knobbel Prize. I won't shake your paw."
 
-Blijkbaar was het nog niet genoeg. Hij hoorde ze wel praten. Duivenland behandelde iedereen die Juraad was steeds meer alsof ze niet bestonden.
+Bitz was left behind in an empty room. He pressed the Knobbel Prize against his chest, just as Bilara had pressed his gas invention to her chest all those years ago, when she begged him to stop pursuing it.
 
-Hij stortte zich volledig op zijn werk. 
+Apparently it still wasn't enough. Oh, he heard them talk. Doveland increasingly treated every Jurad as if they didn't even exist.
 
-Even later ontketende hij nog een revolutie voor de agricultuur. Hij maakte een pesticide: een gas dat je op planten kon spuiten om ze te verdedigen tegen insecten. Elk beest dat je planten probeerde te eten, werd verlamd. Het was zo gevaarlijk dat hij er expres een geur en een kleur aan toevoegde, zodat je het niet kon missen. Hij noemde het Sikkel-B.
+He threw himself into his work, even more than before.
 
-Misschien had hij geleerd van zijn fouten, misschien niet.
+A while later, he brought another revolution to agriculture. He made a pesticide: a gas to spray onto plants to keep nasty insects away. Any beast who wanted to take a bite out of your precious crops would be paralyzed. It was so dangerous that he had to add a smell and color to it, otherwise the farmers might miss it. He called it Sikkel-B.
 
-De zes jaar daarop probeerde hij Duivenland te helpen de schuld te betalen. Hij was overtuigd dat je zeewater kon veranderen in goud.
+Perhaps he'd learned from his mistakes, perhaps not.
 
-Het lukte hem niet. Hij leefde in angst dat hij elk moment werd opgepakt voor zijn oorlogsmisdaden, maar hij werd nooit vervolgd. Toen in Duivenland de haat tegen Juraden groeide tot een toppunt, vluchtte hij naar het buitenland. 
+In the six years that followed, he tried to help Doveland pay their debts. He was convinced he could find a process that turned _sea water_ into _gold_.
 
-Tijdens die reis overleed hij aan een hartaanval.
+He didn't find it. He lived in fear. Any time now, they might arrest him for his war crimes, but they never did. When the hatred for Jurads reached its peak in Doveland, he had to flee to another country.
 
-Hij maakte niet meer mee hoe het Tweede Conflict doorzette, de oorlog opnieuw uitbrak, en zijn uitvinding Sikkel-B opnieuw het wrede hart werd.
+He died from a heart attack during the journey.
+
+He didn't experience how the Second Conflict continued, how war started again, and his invention Sikkel-B would _again_ become its cruel heart.
 
 &nbsp;
 
-_En zo ging het leven door ..._
+_And so it was that life continued ..._
