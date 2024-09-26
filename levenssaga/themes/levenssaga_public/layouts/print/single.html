@@ -8,50 +8,13 @@
     <link href="{{ $paged_style.RelPermalink }}" rel="stylesheet" type="text/css">
 
     <!-- Specific styles for the PDF creation -->
-    <style>
-        @page { 
-            size: 5.5in 8.5in;
-            margin-top: 18mm;
-            margin-bottom: 22mm;
+    {{ $opts := dict "transpiler" "dartsass" "targetPath" "css/style_print.css" }}
+    {{ $print_style := resources.Get "sass/pdf.scss" | toCSS $opts | minify }}
+    <link href="{{ $print_style.RelPermalink }}" rel="stylesheet" type="text/css">
 
-            @top-right { 
-                content: string(title);
-                font-style: italic;
-                opacity: 0.5;
-            }
-
-            @bottom-center { 
-                content: counter(page); 
-            }
-        } 
-        
-        @page:left {
-            margin-left: 15mm;
-            margin-right: 20mm;
-        }
-        
-        @page:right {
-            margin-left: 20mm;
-            margin-right: 15mm;
-        }
-
-        body {
-            font-size: 12pt;
-            background-color: white;
-            color: black;
-        }
-
-        .content p:first-child::first-letter { 
-            float: left;
-            font-family: "Camelot Caps", Georgia, serif;
-            display: block;
-            font-style: normal;
-            font-weight: normal;
-            color: black;
-            font-size: 7.75em;
-            line-height: 0.86em;
-        }
-    </style>
+    <!--- minify stops the AutoPrintHandler from working, so I just removed that as it was buggy anyway --->
+    {{ $paged_js := resources.Get "js/paged.polyfill.js" | minify }}
+    <script src="{{ $paged_js.RelPermalink }}"></script>
 {{ end }}
 
 {{ define "header" }}
@@ -76,8 +39,5 @@
 {{ end }}
 
 {{ define "footer" }}
-<!--- minify stops the AutoPrintHandler from working, so I just removed that as it was buggy anyway --->
 <!--- yes, this "overrides" the other footer, because we expressly DON'T want all that extra stuff from the regular pages --->
-{{ $paged_js := resources.Get "js/paged.polyfill.js" | minify }}
-<script async defer src="{{ $paged_js.RelPermalink }}"></script>
 {{ end }}

@@ -64,7 +64,7 @@ Fuja spilled his tea, slapped him in the face and walked away.
 
 "Sorry! I ..." Jefizon stumbled after her and made her pause in the doorway. "I ... my good woman, did anyone ever tell you that you have beautiful eyes?"
 
-Her expression became unreadable. She blushed, while being furious. Then she ran away.
+Her expression became unreadable. She blushed while furious. Then she ran away.
 
 Jefizon tried to follow, but learned how right Fuja was. What was the last time he had _ran_? His stamina was terrible. Fuja had no such troubles.
 
@@ -152,4 +152,4 @@ When he resurfaced, Fuja suddenly gave him a kiss.
 
 "_This,_" she whispered, "is what we should do more often."
 
-_And then, dear reader, Casbrita obviously came with a devestating reaction to this treachery. Because for some reason, some animals can't just let something happen without feeling the incredibly desire to take even greater revenge._
+_And then, dear reader, Casbrita obviously came with a devestating reaction to this treachery. Because for some reason, some animals can't just let something happen without feeling the incredibl desire to take even greater revenge._

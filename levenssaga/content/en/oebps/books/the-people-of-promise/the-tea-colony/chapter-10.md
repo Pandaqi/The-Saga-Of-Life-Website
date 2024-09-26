@@ -18,7 +18,7 @@ He'd also started writing his own version of Le Bjib, the holy book of Krystanis
 
 Fuja painted beautiful flags and hung them on every wall she could find. To celebrate their independence, partially thanks to Jefizon's powerful writing.
 
-Elwar held these ideas to be self-evident. The rest of the world---where each country was still rules by strict kings or mad dictators---laughed at them for the entire _idea_ of freedom and independence.
+Elwar held these ideas to be self-evident. The rest of the world---where each country was still ruled by strict kings or mad dictators---laughed at them for the entire _idea_ of freedom and independence.
 
 "I own one very odd book," Jefizon said. "I suspect it might have belonged to the godchildren. It almost seems magical. It contains probably the entire history of Somnia up to this point!"
 

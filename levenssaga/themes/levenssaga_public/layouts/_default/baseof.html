@@ -22,13 +22,12 @@
       {{ partialCached "site-font-select.html" . }}
       {{ partial "language-picker.html" . }}
       {{ partial "site-javascript-attributes.html" . }}
+
+      {{ partialCached "lazy-load.html" . }}
+      {{ partial "lazy-load-uncached.html" . }}
     {{ end }}
 
     <!-- Used by unique page templates, don't put anything important in here -->
     {{ block "lazy_load" . }}{{ end }}
-
-    <!-- can become partialCached once I move the bookshelfIndex code somewhere else (last one) -->
-    {{ partialCached "lazy-load.html" . }}
-    {{ partial "lazy-load-uncached.html" . }}
   </body>
 </html>

@@ -4,6 +4,8 @@ These to-dos are next on the list, as soon as possible.
 
 ## Metadata
 
+**ICONS:** I've accidentally left a few white shapes in icons (instead of cutting them out; making them transparent). Fix that. Simplify the latest icons in any case.
+
 Add more accurate **teaches** to the first several stories. (I often forgot to do this at the start, though many of them do not teach a specific historic event anyway.)
 
 **CHARACTERS:** Create a _page_ for the major characters. (A file in `characters` containing backstory, with the species and other info as YAML metadata.)
