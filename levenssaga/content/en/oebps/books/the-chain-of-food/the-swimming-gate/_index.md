@@ -7,7 +7,7 @@ uniqueID: "the-swimming-gate"
 book: true
 timeperiod: 'The Black Hole'
 cycle: 'The Chain of Food'
-bundle: 'Planteaters & Fleshfeasters'
+bundle: "planteaters-fleshfeasters"
 character: ['Ardex', 'Bella', 'Cosmo', 'Darus', 'Eeris', 'Feria', 'Gulvi', 'Hanah']
 prequel: ['The Banished Siblings']
 refers: ["Father's Revenge", 'Heavenly Palace', "Heavenmatter", "Hanah's Heavenportal", 'Firering', 'Heavenly Flowers of Eeris', 'Windgustwing', "Throne of Tomorrow", "Zyme", "Dalas", "Flamefeaster", "Hespryhound", "Book of Meaning", "Fartherwater", "Soulsplitters", "Midterrasea", "Mayfill", "Dayriver"]

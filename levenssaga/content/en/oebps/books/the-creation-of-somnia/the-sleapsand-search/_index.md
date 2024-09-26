@@ -5,9 +5,9 @@ date: 2022-11-01
 uniqueID: "the-sleapsand-search"
 
 book: true
-timeperiod: 'The Seafarship'
-cycle: 'The Creation of Somnia'
-bundle: 'Sleepsorcerers & Timefolders'
+timeperiod: "The Seafarship"
+cycle: "The Creation of Somnia"
+bundle: "sleepsorcerers-timefolders"
 character: ['Sand King', 'Meogg', 'Parog', 'Holog', 'Olombos']
 refers: ["Cosmo's Final Flight", "Olombos' First Journey", 'Invention of Sleep', 'Protobirds', 'Dodo', 'Apra', 'Apire', 'Gosti', 'Egg Cave', "Soul of Cosmo", 'Law of First Landing', 'Arrival of Seafarers', 'Faraway Islands', 'Sigriplant', 'Cristaltirans']
 happens: ["Olobmos' Second Journey", 'Porto Volo', 'Egg of Olombos', 'Soulprotectors']

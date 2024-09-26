@@ -7,7 +7,7 @@ uniqueID: the-illness-of-intellect
 book: true
 timeperiod: "The Founding of Floria"
 cycle: "The People of Promise"
-bundle: "Barbarians & Witchhunts"
+bundle: "barbarians-witchhunts"
 character: ["Catia", "Felicia", "Chef", "Dormas", "Fonza", "The Wise Owl"]
 prequel: []
 refers: ["Amor", "El Bjib", "Heavenmatter", "Firebraid", "Fishfool", "Thunder Medicine", "Simmersauce", "Cricket Treatment", "Slumberland", "Traferia", "Companions"]

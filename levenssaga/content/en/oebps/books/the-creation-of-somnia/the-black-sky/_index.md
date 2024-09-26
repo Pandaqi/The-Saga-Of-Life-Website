@@ -7,7 +7,7 @@ uniqueID: "the-black-sky"
 book: true
 timeperiod: "The Bruised Balance"
 cycle: "The Creation of Somnia"
-bundle: "Rockets & Aliens"
+bundle: "rockets-aliens"
 character: ['Pika', 'Prince', 'Akoa', 'Pinpin', 'Mindy', 'Aliber', 'Sand King', 'Goettot']
 prequel: []
 refers: ["Aprania", "Gulvi", "Raketa", "Donte's Rule", "Nordic Iceplates", "Apra", "Floatfences", "Weapons of Kran", "Howlnight", "Wise Owl", "Valton", "Nibuwe System"]

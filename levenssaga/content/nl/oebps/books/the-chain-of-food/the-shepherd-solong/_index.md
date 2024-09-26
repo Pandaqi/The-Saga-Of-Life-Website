@@ -8,7 +8,7 @@ uniqueID: "the-shepherd-solong"
 book: true
 timeperiod: 'Het Kompaanschap'
 cycle: 'De Keten van Voedsel'
-bundle: 'Himaherders & Receptversnellers'
+bundle: "himaherders-receptversnellers"
 character: ["Himnib", "Solong", "Behdo", "Behdiël", "Barina", "Lazpard", "Hirdi"]
 prequel: []
 refers: ["Compana", "Dolfijnenpas", "Raad van Kame", "Heilige Stenen", "Magica", "Traferia", "Gallo", "Hemelse Bloemen", "Hemelvoorwerpen", "Aparantrivier"]

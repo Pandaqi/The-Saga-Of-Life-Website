@@ -9,7 +9,7 @@ uniqueID: "the-musical-musketeers"
 book: true
 timeperiod: 'De Breekbare Balans'
 cycle: 'Het Ontstaan van Somnia'
-bundle: 'Musketiers & Planetiers'
+bundle: 'musketiers-planetiers'
 character: []
 prequel: []
 refers: []

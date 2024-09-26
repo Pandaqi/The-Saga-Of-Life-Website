@@ -7,7 +7,7 @@ uniqueID: "the-fleshfeasters"
 book: true
 timeperiod: 'The First Steps'
 cycle: 'The Chain of Food'
-bundle: 'Planteaters & Fleshfeasters'
+bundle: "planteaters-fleshfeasters"
 character: ["Feria", "Ardex", "Darus", "Eeris", "Magim", "Higgi", "Hespryhound"]
 prequel: ["The Swimming Gate"]
 refers: ["First Carnivores", "CARN Conspiracy", "Firering", "Heavenmatter", "Soulsplitter", "Immortality", "Nightriver", "Aparant River", "Impossible Wall of Darus", "Mayfill", "Saursea", "Mouth of Din", "Origina"]

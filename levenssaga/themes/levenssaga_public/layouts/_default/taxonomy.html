@@ -1,6 +1,10 @@
 {{ define "main" }}
 
-  {{ with .Content }}
+  {{ $title_translated := (i18n (.Title | lower) (dict "Count" 1)) | humanize }}
+  {{ $title := or $title_translated .Title }}
+  {{ $content := .Content }}
+
+  {{ with $content }}
   <div class="overview-message" style="font-size: 0.75em; line-height: 125%; margin-bottom: 4em;">
     {{ . }}
   </div>
@@ -18,18 +22,15 @@
     {{ $start_date = time.Format "2 January, 2006" .Date }}
   {{ end }}
 
-  {{ $title_translated := (i18n (.Title | lower) (dict "Count" 1)) | humanize }}
-  {{ $title := or $title_translated .Title }}
-
   <p class="overview-message">
     {{ if $is_specific_option }}
       {{ if eq $page_type "character" }}
         {{ (i18n "taxonomy-character" $title) | safeHTML }}
       {{ else if eq $page_type "bundle" }}
         {{ (i18n "taxonomy-bundle" $title) | safeHTML }}
-
-        {{ $bundle_url := printf "/bundle/%s" ($title | urlize) }}
-        {{ $bundle_page := $.Site.GetPage $bundle_url }}
+        
+        {{ $bundle_page := partial "func/get-bundle-page.html" (dict "context" . "input" .Title) }}
+        {{ $bundle_url := $bundle_page.RelPermalink }}
         {{ if (and $bundle_url $bundle_page) }}
           {{ $bundle_url := or $bundle_page.Params.purchaseURL "" }}
           {{ $bundle_message := "taxonomy-bundle-coming" }}
@@ -87,7 +88,7 @@
 
   {{ if $is_specific_option }}
     <aside class="taxonomy-metadata block-center">
-      <p>{{ $story_count }} {{ i18n "story" (dict "Count" 2) }}, {{ $word_count | lang.NumFmt 0 }} {{ i18n "word" (dict "Count" 2) }}.</p>
+      <p>{{ $story_count }} {{ i18n "story" (dict "Count" 2) }}, {{ $word_count | lang.FormatNumberCustom 0 }} {{ i18n "word" (dict "Count" 2) }}.</p>
     </aside>
   {{ end }}
 {{ end }}

@@ -5,9 +5,9 @@ date: 2022-11-01
 uniqueID: "the-time-traveler"
 
 book: true
-timeperiod: 'The Second Conflict'
-cycle: 'The Creation of Somnia'
-bundle: 'Sleepsorcerers & Timefolders'
+timeperiod: "The Second Conflict"
+cycle: "The Creation of Somnia"
+bundle: "sleapsorcerers-timefolders"
 character: ['Ismaraldah', 'Jacintah', 'Didrik', 'Castela', 'Chimp', 'Ape Lord', 'Arap', 'Zeze', 'Viowe', 'Jaco Junior']
 prequel: []
 refers: ['The Floating Egg', 'The Misplaced Egg', 'Warning for Donte', 'The Wooden Timecore', 'The Kinesh Race', 'Moved Invention of Gunpowder', 'Chiefcloud', 'Donte', 'Coconut Soccer', 'Disk Hockey', 'Comrades without King', 'Dragontimber', 'The Apex Codex', 'Roge', "Elephantic Games", "Franberri Revolution", "Elwar Revolution"]

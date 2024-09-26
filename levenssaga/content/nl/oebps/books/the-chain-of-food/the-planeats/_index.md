@@ -8,7 +8,7 @@ uniqueID: "the-planeats"
 book: true
 timeperiod: 'De Ruimtereis'
 cycle: 'De Keten van Voedsel'
-bundle: 'Rampstallen & Ruimteknallen'
+bundle: "rampstallen-ruimteknallen"
 character: ["Kirren", "Arren", "Jannih", "Begha-ti-Rec"]
 prequel: ["De Buitenaardse Wezens"]
 refers: ["Omnobereus", "Appareus", "Nimadwerg", "Dinnifee", "AR-BOT", "AR-BRIL", "Nibuwe Stelsel", "CAJAR", "HERO", "Dalas", "Hemelvoorwerpen", "Hemelse Bloemen van Eeris", "Vuurring", "Hespryhond", "Steen van Zekerstof", "Boek der Betekenis", "Radiostilte van Platsu", "Zwoele Zee", "Somnia", "Reuzenstelsel", "Feeënstelsel", "Trevran"]

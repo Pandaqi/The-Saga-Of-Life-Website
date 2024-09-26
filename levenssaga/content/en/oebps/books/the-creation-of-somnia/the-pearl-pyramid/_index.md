@@ -7,7 +7,7 @@ uniqueID: "the-pearl-pyramid"
 book: true
 timeperiod: 'The Founding of Floria'
 cycle: 'The Creation of Somnia'
-bundle: 'Turtles & Shadowshifters'
+bundle: "turtles-shadowshifters"
 character: ['Jaco', 'Gidi', 'Halek', 'Anniwe', 'Isis']
 prequel: ['The Turtle Town']
 teaches: ['Egyptian Mythology']

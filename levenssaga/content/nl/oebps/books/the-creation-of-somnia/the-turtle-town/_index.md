@@ -8,7 +8,7 @@ uniqueID: "the-turtle-town"
 book: true
 timeperiod: 'Het Kompaanschap'
 cycle: 'Het Ontstaan van Somnia'
-bundle: 'Schildpadden & Schaduwsluipers'
+bundle: "schildpadden-schaduwsluipers"
 character: ['Slupper', 'Socipi', 'Solomon', 'Akez', 'Vivienne', 'Oerschildpad', 'Anniwe']
 prequel: []
 refers: ['Vensala', 'Verdrag van Vensala', 'Raad van Kame', 'Buitenringen bij Alasti', 'Uitbarstingen bij Alasti', 'Boek van De Waarheid', 'Het Drijvende Ei', 'Horus', 'Slangensuper', 'Gibra', 'Pilaren van Gibra', 'Wijze Uil']

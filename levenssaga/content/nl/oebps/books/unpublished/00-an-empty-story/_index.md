@@ -4,13 +4,12 @@ draft: true
 title: "TITEL HIER"
 weight: 0
 date: 2023-06-15
-url: "oebps/books/CYCLUSHIER/NL-TITEL-HIER"
 uniqueID: "english-title-here"
 
 book: true
-timeperiod: 'TIJDPERK HIER'
-cycle: 'CYCLUS HIER'
-bundle: 'BUNDEL HIER'
+timeperiod: "TIJDPERK HIER"
+cycle: "CYCLUS HIER"
+bundle: "BUNDEL-HIER"
 character: []
 prequel: []
 refers: []

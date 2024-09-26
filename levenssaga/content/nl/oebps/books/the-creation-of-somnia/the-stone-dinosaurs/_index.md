@@ -8,7 +8,7 @@ uniqueID: "the-stone-dinosaurs"
 book: true
 timeperiod: "De Eerste Stappen"
 cycle: "Het Ontstaan van Somnia"
-bundle: "Droomdino's & Knuffelgoden"
+bundle: "droomdinos-knuffelgoden"
 character: ['Donte', 'Mami', 'Feria', 'Gulvi', 'Eeris', 'Darus', 'Cosmo', 'Bella', 'Ardex', 'Rexes', 'Willi Kleinwolk', 'Nisah']
 prequel: ['De Verbannen Familie']
 teaches: ['Asteroïde', 'Komeet', 'Meteoriet', 'Dinosaurussen', 'Klimaatverandering', 'Evolutie', 'Vogels']

@@ -7,7 +7,7 @@ uniqueID: "the-moon-of-otto"
 book: true
 timeperiod: 'Het Zeevaarderschap'
 cycle: 'De Beschavingen van Belofte'
-bundle: 'Maanplukken & Wonderdrukken'
+bundle: "maanplukken-wonderdrukken"
 character: ["Chonib", "Enra", "Otto", "Himnib", "Olombos"]
 prequel: []
 refers: ["Maanlezen", "Zonlezen", "Amor", "Barbaren", "Traferia", "Krysnadom", "Miradom", "Devirma", "Kristinapel", "Isanmoel", "Duifs", "Schola", "Tamli", "Amorische Rijk", "Het Zijden Pad", "Floria", "Vennis", "Itta", "Leo Da Vennisi", "Esprante", "Gosti", "Ardex", "Bella", "Garda", "Origina", "Compana", "Gidi", "Jaco", "Casbrita", "Frambozi", "Kina"]

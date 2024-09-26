@@ -7,7 +7,7 @@ uniqueID: "the-banished-siblings"
 book: true
 timeperiod: 'The Black Hole'
 cycle: 'The Creation of Somnia'
-bundle: "Dreamdinos & Animalgods"
+bundle: "dreamdinos-animalgods"
 character: ['Ardex', 'Bella', 'Cosmo', 'Darus', 'Eeris', 'Feria', 'Gulvi', 'Hanah', 'Sand King']
 teaches: ['Gravity', 'Earth Core', 'Earth Crust', 'Moon Creation', 'DNA', 'Enzymes', 'Atmosphere']
 refers: ["Father's Wrath", 'Heavenly Palace', 'Mares', "Zyme"]

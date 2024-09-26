@@ -9,7 +9,7 @@ uniqueID: "the-coldest-demigod"
 book: true
 timeperiod: 'The Black Hole'
 cycle: 'The People of Promise'
-bundle: 'Demigods & Clanhopes'
+bundle: 'godseams-tribedreams'
 character: ['Ardex', 'Oeros', 'Gaia']
 prequel: []
 refers: ["Prophecy of Guds", "Heavenmatter", "Heavenly Palace", "Dalas", "Zyme", "Earthwaker", "Skydancer", "Sunbeamer", "Garden of Eden"]

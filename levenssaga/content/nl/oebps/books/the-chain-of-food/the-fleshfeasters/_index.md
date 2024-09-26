@@ -10,7 +10,7 @@ uniqueID: "the-fleshfeasters"
 book: true
 timeperiod: 'De Eerste Stappen'
 cycle: 'De Keten van Voedsel'
-bundle: 'Planteneters & Vleesvreters'
+bundle: "planteneters-vleesvreters"
 character: ["Feria", "Ardex", "Darus", "Eeris", "Magim", "Higgis", "Hespryhond"]
 prequel: ["De Zwemmende Poort"]
 refers: ["Eerste Vleeseters", "CARN Complot", "Vuurring", "Hemelvoorwerpen", "Zielscheurder", "Eeuwig Leven", "Nachtrivier", "Aparantrivier", "Onmogelijke Muur van Darus", "Somsgevuld", "Saurzee", "Mond van Din", "Origina"]

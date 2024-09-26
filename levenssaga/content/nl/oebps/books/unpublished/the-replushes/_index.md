@@ -9,7 +9,7 @@ uniqueID: "the-replushes"
 book: true
 timeperiod: 'De Eerste Stappen'
 cycle: 'Het Ontstaan van Somnia'
-bundle: 'Pluizenaars & Knuffelgoden'
+bundle: 'pluizenaars-knuffelgoden'
 character: ['Pevy', 'Isi', 'Lissy', 'De Pluisatweeling', 'De Pluisadrieling', 'Lasso', 'Lasso Junior', 'Eeris', 'Gulvi', 'Cosmo', 'Benjina', 'Lapin', 'Apenheer']
 prequel: ['De Verbannen Familie']
 teaches: ['Fotosynthese', 'Klimaatverandering']

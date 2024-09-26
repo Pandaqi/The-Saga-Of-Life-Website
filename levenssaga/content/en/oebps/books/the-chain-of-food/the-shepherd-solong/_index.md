@@ -7,7 +7,7 @@ uniqueID: "the-shepherd-solong"
 book: true
 timeperiod: 'The Companionship'
 cycle: 'The Chain of Food'
-bundle: 'Himaherders & Recipeturners'
+bundle: "himaherders-recipeturners"
 character: ["Himnib", "Solong", "Behdo", "Behdiël", "Barina", "Lazpard", "Hirdi"]
 prequel: []
 refers: ["Compana", "Dolphin Pass", "Council of Kame", "Holy Stones", "Magica", "Traferia", "Gallo", "Heavenly Flowers", "Heavenmatter", "Aparant River"]

@@ -7,7 +7,7 @@ uniqueID: "the-sign-of-the-river"
 book: true
 timeperiod: 'The Cloudtority'
 cycle: 'The People of Promise'
-bundle: 'Rivers & Conquerers'
+bundle: "rivers-conquerers"
 character: ["Prebuha", "Mamotas", "Megitas", "Kleischepper", "Welpon", "Larsh"]
 prequel: []
 refers: ["Harap", "Indus", "Heavywater", "Sumiser", "Akradi", "The Great Bathhouse", "Tigres", "Twin Rivers", "Wilderness", "Garda", "Schola"]

@@ -8,7 +8,7 @@ uniqueID: "the-gupramils"
 book: true
 timeperiod: 'Het Eerste Conflict'
 cycle: 'De Beschavingen van Belofte'
-bundle: 'Rivieren & Koningsdieren'
+bundle: "rivieren-koningsdieren"
 character: ["Gupra", "Ashorra", "Marili", "Mero", "Ardex", "Alixader de Reus", "Are", "Beeris", "Candya"]
 prequel: ["De Koudste Godenzoon"]
 refers: ["Ismaraldah", "Didrik", "Tamli", "Gupramils", "Eerste Conflict", "Troon van de Toekomst", "Bella's Ziekte", "Preza", "Prijskatten", "Himabergen", "Vuurring", "Vlamvreter", "Doodkameraden", "Garda", "Origina", "Dolfijnenpas", "Gulvi", "Buhasme", "Prebuha", "Hennen"]

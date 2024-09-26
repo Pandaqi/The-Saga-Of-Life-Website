@@ -7,7 +7,7 @@ uniqueID: "the-run-of-bar-bar"
 book: true
 timeperiod: 'The Companionship'
 cycle: 'The People of Promise'
-bundle: 'Barbarians & Witchhunts'
+bundle: "barbarians-witchhunts"
 character: ["Wolfar", "Wodrik", "Wozam", "Ginsea", "Bar-Bar", "Tattlerat", "Aria", "Himnib", "Solong"]
 prequel: ["The Shepherd Solong"]
 refers: ["Amor", "Council of Kame", "Giant Wolves", "Flamefeaster", "Grapi", "Tibber", "Sand King"]

@@ -8,7 +8,7 @@ uniqueID: "the-waterways-of-whomever"
 book: true
 timeperiod: 'Het Zeevaarderschap'
 cycle: 'De Keten van Voedsel'
-bundle: 'Piraten & Grasgranaten'
+bundle: "piraten-grasgranaten"
 character: ["Paunet", "Pi Kid", "Doorngoud", "Karlos Vaan", "Arap", "Widagai"]
 prequel: []
 refers: ["Origina", "Garda", "Apranië","Apenrijk", "Cariboon", "Barbala", "Kleintocht", "Matenhaven", "Liefdeslelie", "Madaska", "Ziel van Darus", "Midterrazee", "Raad van Kame", "Raad van Pi", "Oerschildpad duikt op", "Alasti", "Liefdesmuur", "Vijftig Boomtorens van Luiland", "Casbrita", "Frambozi", "Dolfijnenpas", "Laterwater", "Gulvi", "Hemelvoorwerpen", "Balkze", "Pompoencake", "Kompaankettingen", "Chef", "Zwartbaard", "Heldehaven", "Soliduri"]

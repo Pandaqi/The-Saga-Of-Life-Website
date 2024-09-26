@@ -8,7 +8,7 @@ uniqueID: "the-sleapsand-search"
 book: true
 timeperiod: 'Het Zeevaarderschap'
 cycle: 'Het Ontstaan van Somnia'
-bundle: 'Dromenspelers & Tijdverdelers'
+bundle: "dromenspelers-tijdverdelers"
 character: ['Zandkoning', 'Meogg', 'Parog', 'Holog', 'Olombos']
 refers: ['Laatste Vlucht van Cosmo', 'Eerste Reis van Olombos', 'Uitvinding van Slaap', 'Oervogels', 'Dodo', 'Apra', 'Apenrijk', 'Gosti', 'Eiergrot', 'Ziel van Cosmo', 'Wet van de Eerste Landing', 'Komst van de Zeevaarders', 'Verre Eilanden', 'Sigriplant', 'Cristaltirans']
 happens: ['Tweede Reis van Olombos', 'Porto Volo', 'Ei van Olombos', 'Zielbeschermers']

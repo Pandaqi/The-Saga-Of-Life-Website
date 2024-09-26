@@ -1,8 +1,8 @@
-{{ define "head-custom" }}
-    <!--- @NOTE: | resources.Minify stops the AutoPrintHandler below from working :/ --->
-    {{ $paged_js := resources.Get "js/paged.polyfill.js" }}
-    <script src="{{ $paged_js.RelPermalink }}"></script>
+{{ define "head" }}
+<!--- --->
+{{ end }}
 
+{{ define "head-custom" }}
     <!-- Used by Paged.js to make stuff look like an actual book -->
     {{ $paged_style := resources.Get "sass/paged-interface.css" | resources.Minify }}
     <link href="{{ $paged_style.RelPermalink }}" rel="stylesheet" type="text/css">
@@ -54,6 +54,10 @@
     </style>
 {{ end }}
 
+{{ define "header" }}
+<!--- --->
+{{ end }}
+
 {{ define "main" }}
 {{ $story := .Parent.CurrentSection }}
 <article class="reader-container">
@@ -69,21 +73,11 @@
     </div>
 </article>
 
-<script>
-    class AutoPrintHandler extends Paged.Handler 
-    {
-        constructor(chunker, polisher, caller) 
-        {
-            super(chunker, polisher, caller);
-        }
-    
-        afterPreview(pages) 
-        {
-            console.log(pages);
-            print();
-        }
-    }
-    Paged.registerHandlers(AutoPrintHandler);
-</script>
+{{ end }}
 
+{{ define "footer" }}
+<!--- minify stops the AutoPrintHandler from working, so I just removed that as it was buggy anyway --->
+<!--- yes, this "overrides" the other footer, because we expressly DON'T want all that extra stuff from the regular pages --->
+{{ $paged_js := resources.Get "js/paged.polyfill.js" | minify }}
+<script async defer src="{{ $paged_js.RelPermalink }}"></script>
 {{ end }}

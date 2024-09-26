@@ -7,7 +7,7 @@ uniqueID: "the-moon-of-otto"
 book: true
 timeperiod: 'The Seafarship'
 cycle: 'The People of Promise'
-bundle: 'Moonstall & Wonderfall'
+bundle: "moonstall-wonderfall"
 character: ["Chonib", "Enra", "Otto", "Himnib", "Olombos"]
 prequel: []
 refers: ["Moonreading", "Sunreading", "Amor", "Barbarians", "Traferia", "Krystanism", "Miraism", "Devirma", "Kristinapel", "Isanmool", "Dovetongue", "Schola", "Tamli", "Amoric Empire", "The Silk Road", "Floria", "Vennis", "Itta", "Leo Da Vennisi", "Esprante", "Gosti", "Ardex", "Bella", "Garda", "Origina", "Compana", "Gidi", "Jaco", "Casbrita", "Frambozi", "Kina"]
@@ -35,7 +35,7 @@ Has only one crucial play
 
 Be the biggest, be the best
 
-But he forgets the power of revenge
+Ignoring the powers of revenge
 
 &nbsp;
 
@@ -43,6 +43,6 @@ He hires Moonreaders to predict future plans
 
 He steals enemy children to govern his lands
 
-But even the most powerful empire that crosses borders
+But even a powerful empire that crosses borders
 
 Has no defense when simple true love steps forward

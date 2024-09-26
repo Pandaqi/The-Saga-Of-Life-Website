@@ -8,7 +8,7 @@ uniqueID: "the-black-sky"
 book: true
 timeperiod: "De Breekbare Balans"
 cycle: "Het Ontstaan van Somnia"
-bundle: "Raketten & Ruimtewezens"
+bundle: "raketten-ruimtewezens"
 character: ['Pika', 'Prins', 'Akoa', 'Pinpin', 'Mindy', 'Aliber', 'Zandkoning', 'Goettot']
 prequel: []
 refers: ["Apranië", "Gulvi", "Raketa", "Donte's Regel", "Noordelijke IJsplaten", "Apra", "Hanghekken", "Wapens van Kran", "Huilnacht", "Wijze Uil", "Valton", "Nibuwe Stelsel"]

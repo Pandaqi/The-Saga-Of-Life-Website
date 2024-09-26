@@ -7,7 +7,7 @@ uniqueID: "the-suffocating-skybread"
 book: true
 timeperiod: 'The Second Conflict'
 cycle: 'The Chain of Food'
-bundle: 'Polishedpirates & Fertilefires'
+bundle: "polishedpirates-fertilefires"
 character: ["Dannis", "Pin", "Bitz", "Bilara", "Apenheer", "Didrik", "Widagai"]
 prequel: []
 refers: ["Godesweets", "Freethieves", "Southern Icesheets", "Elwar", "Caribean", "Casbrita", "Origina", "Ghostlands", "Heavenmatter", "Stone of Destinydust", "Frambozi Forest", "Doveland", "Juradom", "Seahorse Beach", "Bearchitects", "Windgustwing", "Pi", "Lovewall", "Balkze", "Midterra Sea", "Hungerbee", "Treaty of Haggel", "Magic of Longlife", "Knobbel Price", "Heavenly Flowers", "Sikkel-B"]

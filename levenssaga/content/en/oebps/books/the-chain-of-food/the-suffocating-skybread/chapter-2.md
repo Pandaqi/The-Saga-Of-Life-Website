@@ -22,7 +22,7 @@ They were different animal species, but all of them could walk on two legs and h
 
 The first buildings caught fire. The Godesweets seemed like a dragon sometimes, able to squash and burn anyone in the way, especially if you didn't fight back.
 
-Two soldiers showed their dissembled gun and threw the parts on the floor. "We have no bullets. No gunpowder, no ammunition. We have _nothing_ to fire!"
+Two soldiers showed their disassembled gun and threw the parts on the floor. "We have no bullets. No gunpowder, no ammunition. We have _nothing_ to fire!"
 
 Bitz looked around. The entire city was filled with weapons that he'd never seen fired. Hadn't the Islandseekers sent a message about a new island they found? At some remote island on Elwar? They should've been back with new _guayn_ by now.
 
@@ -54,7 +54,7 @@ A Jurad like you. A filthy Jurad. Bitz heard it more and more often. His religio
 
 They shall never treat him like that again.
 
-"Give me a day. I know the science, the material. I will find a way to _create guayn_ ourselves. Th enemy has magic and demigods---then we must have science!"
+"Give me a day. I know the science, the material. I will find a way to _create guayn_ ourselves. The enemy has magic and demigods---then we must have science!"
 
 "As I said: you are useless. Tonight we flee this place. I'm sending you back to university."
 
@@ -70,15 +70,17 @@ But he _was_ lucky and reached his laboratory unharmed.
 
 The bombs ceased. The sun set and the Godesweets paused their attack. When Bitz was certain the floor wouldn't shake again, he started working.
 
-His wife, Bilara, hopped to meet him. He'd married his childhood love; his heart still jumped whenever she appeared.
+His wife, Bilara, hopped in to meet him. He'd married his childhood love; his heart still jumped whenever she appeared.
 
 "Bitz! You fool! We must leave. Away from this war."
 
 "I won't leave until I have the solution."
 
-His long teeth carried five flasks at once to the table. There he built a setup of metal, burners and measuring tools, more carefully than ever. The bombs had ruined a lot of his tools, which now circled his feet in shards. He had two, maybe three attempts. If those had failed, his laboratory would be empty and he _would_ be a worthless Jurad.
+His long teeth carried five flasks at once to the table. There he built a setup of metal, burners and measuring tools, more carefully than ever. The bombs had ruined a lot of his tools, which now circled his feet in shards. He had two, maybe three attempts. If those failed, his laboratory would be empty and he _would_ be a worthless Jurad.
 
-"A solution to what?" Bilara hugged and kissed him. Without any instruction, she knew exactly which flasks to hand him and when to turn on the heater.
+"A solution to what?" 
+
+Bilara hugged and kissed him. Without any instruction, she knew exactly which flasks to hand him and when to turn on the heater.
 
 "Guayn. I've studied it over and over, and I think it works because of _ammonia_. That substance makes the ground soft, fertile, better suited to growing plants."
 
@@ -128,10 +130,10 @@ His puffy tail wrapped around the searing hot flask like an oven mitt.
 
 He studied the result: it looked like _guayn_.
 
-He smelled the result: it smelled like _guayn_.
+He sniffed the result: it smelled like _guayn_.
 
-He dropped the flask in his surprise and excitement. Bilara woke up just in time to catch it.
+He dropped the flask in his excitement. Bilara woke up just in time to catch it.
 
 "Bitz, stay calm, think about this. The invention could change the world but also---"
 
-"Commander! Commander!" screamed Bitz, as he ran from the lab and woke up the entire army camp.
+"Commander! Commander!" screamed Bitz as he ran from the lab and woke up camp.

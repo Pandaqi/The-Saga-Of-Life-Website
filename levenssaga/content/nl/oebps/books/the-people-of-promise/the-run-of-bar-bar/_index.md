@@ -7,7 +7,7 @@ uniqueID: "the-run-of-bar-bar"
 book: true
 timeperiod: 'Het Kompaanschap'
 cycle: 'De Beschavingen van Belofte'
-bundle: 'Barbaren & Hekshaarden'
+bundle: "barbaren-hekshaarden"
 character: ["Wolfar", "Wodrik", "Wozam", "Ginsea", "Bar-Bar", "Bipi", "Roddelrat", "Aria", "Himnib", "Solong"]
 prequel: ["De Vergeten Herder"]
 refers: ["Amor", "Raad van Kame", "Reuzenwolven", "Vlamvreter", "Grapi", "Tibber", "Zandkoning"]

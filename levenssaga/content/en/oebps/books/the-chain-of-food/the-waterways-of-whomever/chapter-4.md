@@ -34,7 +34,7 @@ _So why do I desperately want to leave?_ Paunet asked himself. He'd designed thi
 
 The president chattered his teeth and looked skeptical. "Say you're right. What's the plan? Why _pretend_ the war is over?"
 
-"Simple, your honor. We stop building ships. We stop defending ourselves. In a few weeks, all our cannons have moved or been dissembled---and voila, the enemy takes our island easily."
+"Simple, your honor. We stop building ships. We stop defending ourselves. In a few weeks, all our cannons have moved or been disassembled---and voila, the enemy takes our island easily."
 
 The hare shook his head. "I don't see it. I am sorry, Paunet. I fear your ship---"
 

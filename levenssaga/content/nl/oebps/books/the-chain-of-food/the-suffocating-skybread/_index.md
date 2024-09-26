@@ -8,7 +8,7 @@ uniqueID: "the-suffocating-skybread"
 book: true
 timeperiod: 'Het Tweede Conflict'
 cycle: 'De Keten van Voedsel'
-bundle: 'Piraten & Grasgranaten'
+bundle: "piraten-grasgranaten"
 character: ["Dannis", "Pin", "Bitz", "Bilara", "Apenheer", "Didrik", "Widagai"]
 prequel: []
 refers: ["Godelieven", "Vrijdieven", "Zuidelijke IJsplaten", "Elwar", "Cariboon", "Casbrita", "Origina", "Spooklanden", "Hemelvoorwerpen", "Steen van Zekerstof", "Frambozenbos", "Duivenland", "Juradom", "Zeepaardstrand", "Berenbouwers", "Windvlaagvleugel", "Pi", "Liefdesmuur", "Balkze", "Midterrazee", "Hongerbij", "Afspraak van Haggel", "Magie van Langleven", "Knobbelprijs", "Hemelse Bloemen van Eeris", "Sikkel-B"]

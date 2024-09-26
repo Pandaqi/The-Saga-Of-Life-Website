@@ -8,7 +8,7 @@ uniqueID: "the-livestocking"
 book: true
 timeperiod: 'De Breekbare Balans'
 cycle: 'De Keten van Voedsel'
-bundle: 'Rampstallen & Ruimteknallen'
+bundle: "rampstallen-ruimteknallen"
 character: ["Kuku", "Elize", "Harry", "Begha-ti-Rec", "Hespryhond"]
 prequel: ["De Vleesvreters"]
 refers: ["Babbelbroers", "Tweede Conflict", "Berenbouwers", "Hemelvoorwerpen", "Chef", "Voorspellingen van Guds", "Steen van Zekerstof", "Windvlaagvleugel", "Soliduri"]

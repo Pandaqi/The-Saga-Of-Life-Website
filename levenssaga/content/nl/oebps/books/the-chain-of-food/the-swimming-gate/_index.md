@@ -10,7 +10,7 @@ uniqueID: "the-swimming-gate"
 book: true
 timeperiod: 'Het Zwarte Gat'
 cycle: 'De Keten van Voedsel'
-bundle: 'Planteneters & Vleesvreters'
+bundle: "planteneters-vleesvreters"
 character: ['Ardex', 'Bella', 'Cosmo', 'Darus', 'Eeris', 'Feria', 'Gulvi', 'Hanah']
 prequel: ['De Verbannen Familie']
 refers: ['Wraak van Vader', 'Hemelpaleis', "Hemelvoorwerpen", 'Hanahs Hemelportaal', 'Vuurring', 'Hemelse Bloemen van Eeris', 'Windvlaagvleugel', "Troon van de Toekomst", "Zyme", "Dalas", "Vlamvreter", "Hespryhond", "Boek der Betekenis", "Laterwater", "Zielscheurder", "Midterrazee", "Somsgevuld", "Dagrivier"]

@@ -8,7 +8,7 @@ uniqueID: "the-munchers-and-featherers"
 book: true
 timeperiod: 'De Eerste Stappen'
 cycle: 'De Beschavingen van Belofte'
-bundle: 'Godenzonen & Stamdromen'
+bundle: "godenzonen-stamdromen"
 character: ["Kesho", "Misha", "Farshar", "Jambir", "Jagu", "Ardex"]
 prequel: []
 refers: ["Indus", "Schola", "Ashastam", "Jagustam", "Darusstenen"]

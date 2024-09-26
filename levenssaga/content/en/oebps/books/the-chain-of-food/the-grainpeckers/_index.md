@@ -7,7 +7,7 @@ uniqueID: "the-grainpeckers"
 book: true
 timeperiod: 'The First Conflict'
 cycle: 'The Chain of Food'
-bundle: 'Poisonthieves & Grainfleas'
+bundle: "poisonthieves-grainfleas"
 character: ["Cosmo", "Quili", "Epoh", "Tibbowe", "Didrik", "Gossin", "Kajar", "Arlar"]
 prequel: ["The Bear who Was"]
 refers: ["Origina", "Garda", "Compana", "Traferia", "Heavenmatter", "Windgustwing", "Stone of Destinydust", "Loveline", "Turnbacktulips", "Violets of Fortune", "Loveroses", "Amor", "Paraat", "Clouds of Rampaging Rains", "Biggest Bearchitect"]

@@ -4,15 +4,16 @@ These to-dos are next on the list, as soon as possible.
 
 ## Metadata
 
-* **CHARACTERS:** Remove the animal species/class from the character name. If needed, create a _page_ for the character. (A file in `characters` containing backstory, with the species and other info as YAML metadata.)
-  * I've already placed a list of characters in the _notes_ of almost all stories.
-  * Just cut them there and paste them in the unique character pages.
-  * This would **also help** reduce the number of "one-off" characters and lead to more reuse and connections between stories.
-* Add more accurate **teaches** to the first several stories. (I often forgot to do this at the start, though many of them do not teach a specific historic event anyway.)
+Add more accurate **teaches** to the first several stories. (I often forgot to do this at the start, though many of them do not teach a specific historic event anyway.)
 
-* **PAGINATION** for the bookshelf.
-  * Add simple buttons that modify the URL parameters.
-  * Read those in JavaScript, use them to determine which part of the full story list to grab.
+**CHARACTERS:** Create a _page_ for the major characters. (A file in `characters` containing backstory, with the species and other info as YAML metadata.)
+* I've already placed a list of characters in the _notes_ of almost all stories.
+* Just cut them there and paste them in the unique character pages.
+* This would **also help** reduce the number of "one-off" characters and lead to more reuse and connections between stories.
+
+**PAGINATION** for the bookshelf.
+* Add simple buttons that modify the URL parameters.
+* Read those in JavaScript, use them to determine which part of the full story list to grab.
 
 # Optional / Future
 
@@ -38,7 +39,7 @@ These to-dos are not essential or must wait on future improvements.
 
 ## AI Translation Experiment
 
-Test the usage of **Seamless-M4T** (or whatever superceded it in the meantime).
+Test the usage of **Seamless-M4T** (or whatever superseded it in the meantime).
 
 * <https://github.com/facebookresearch/seamless_communication>
 * Or check out the HuggingFace version.

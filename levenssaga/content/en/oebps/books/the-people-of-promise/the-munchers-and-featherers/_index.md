@@ -7,7 +7,7 @@ uniqueID: "the-munchers-and-featherers"
 book: true
 timeperiod: 'The First Steps'
 cycle: 'The People of Promise'
-bundle: 'Demigods & Clanhopes'
+bundle: "godseams-tribedreams"
 character: ["Kesho", "Misha", "Farshar", "Jambir", "Jagu", "Ardex"]
 prequel: []
 refers: ["Indus", "Schola", "Asha Tribe", "Jagu Tribe", "Darus Stones"]

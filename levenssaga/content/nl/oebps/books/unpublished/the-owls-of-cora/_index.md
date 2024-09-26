@@ -9,7 +9,7 @@ uniqueID: "the-owls-of-cora"
 book: true
 timeperiod: 'Het Wolkengezag'
 cycle: 'Het Ontstaan van Somnia' 
-bundle: 'Kanskeerders & Uilenbezorgers'
+bundle: 'kanskeerders-uilenbezorgers'
 character: ['Wo Opperwolk', 'Willi Kleinwolk', 'Tobias Cornell', 'Orlando Obra', 'Roy Racing Rogers', 'Mario Reo', 'Lucas Amando', 'Aria Amando', 'Piche Rogers', 'Ultara', 'Bibo', 'Barto', 'Gallo', 'Barto']
 prequel: ['De Pluizenaars']
 refers: ['Witte Wolken', 'Blauwe Wolken', 'Paarse Wolken', 'Groene Wolken', 'Grijze Wolken', 'Giganten', 'Walgelijke Wolken', 'Verzamelboom', 'Drinkboom', 'Welhier', 'Nachtrivier', 'Magart', 'Peris', 'Eeris', 'Apra']

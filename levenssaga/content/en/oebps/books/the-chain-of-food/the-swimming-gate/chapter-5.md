@@ -8,7 +8,7 @@ And then the Heavenly Objects. The Heavenmatter that came with the portal. Was i
 
 He tried to take the Windgustwing with him, for Cosmo, but wasn't able to properly reach it from shore. If he evaporated the water, with a fireball, the wing just flew into the air and only floated down a while later. As if it were a light feather, instead of a massive magical wing.
 
-His actions did reveal a second message, though. "_Leave me alone. Stop following me. I can only do this if I stay out of the spotlights."
+His actions did reveal a second message, though. "_Leave me alone. Stop following me. I can only do this if I stay out of the spotlights._"
 
 That sounded like Mother secretly helping them. Well, the request was clear. But when did Ardex ever listen to requests? Never. Anger and fear won from everything else. He didn't want to think and talk, he wanted to _do_. Problems had to be _solved_, preferably by fire.
 
@@ -16,7 +16,7 @@ If he came alone, was that alright? The message was clear. Stop following---ever
 
 Obviously, he kept following.
 
-A short period of running already brought him tot he next Heavenmatter. The Heavenly Flowers of Eeris. Whereas the entire world was covered in bacteria tapestries, he now walked into a huge field covered in flowers. They had to be Eeris' flowers, and no accidental life from Somnia, for the flowers softly _sang_. He'd never heard another flower make music. Not even on that weird planet Dalas.
+A short period of running already brought him to the next Heavenmatter. The Heavenly Flowers of Eeris. Whereas the entire world was covered in bacteria tapestries, he now walked into a huge field covered in flowers. They had to be Eeris' flowers, and no accidental life from Somnia, for the flowers softly _sang_. He'd never heard another flower make music. Not even on that weird planet Dalas.
 
 He shuffled through them and enjoyed the touch of flowers softly scraping past his fur. The soft stalks and shaking leaves. The beautiful song they sang, which could have been both a lullaby and a dance song. His bright orange fur was well hidden in this colorful garden. Eeris would be happy for at least a year if she knew this was back.
 

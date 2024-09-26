@@ -16,7 +16,8 @@
 
         {{ $timeperiod_url := printf "/%s/timeperiod/%s" $lang (.Params.timeperiod | urlize) }}
         {{ $cycle_url := printf "/%s/cycle/%s" $lang (.Params.cycle | urlize) }}
-        {{ $bundle_url := printf "/%s/bundle/%s" $lang (.Params.bundle | urlize) }}
+        {{ $bundle_page := (partial "func/get-bundle-page.html" (dict "context" . "input" .Params.bundle)) }}
+        {{ $bundle_url := $bundle_page.RelPermalink }}
         {{ $publication_date := time.Format "2 January, 2006" .Params.date }}
 
         {{ $story_number_by_publication := partial "func/get-story-number-by-publication.html" . }}
@@ -36,7 +37,7 @@
         </li>
         <li><strong>{{ $statistics_text }}: </strong>
         <span class="non-link-data">
-            {{ (index $readability_statistics "words") | lang.NumFmt 0 }} {{ $words_text }}, 
+            {{ (index $readability_statistics "words") | lang.FormatNumberCustom 0 }} {{ $words_text }}, 
             {{ (index $readability_statistics "lines") }} {{ $sentence_text }}
         </span>
         </li>
@@ -57,7 +58,7 @@
         <li>&nbsp;</li>
         <li><strong>{{ $timeperiod_text }}: </strong>{{ partial "link-with-icon.html" (dict "url" $timeperiod_url "type" "timeperiod" "value" $timeperiod_icon "value_text" .Params.timeperiod) }}</li>
         <li><strong>{{ $cycle_text }}: </strong>{{ partial "link-with-icon.html" (dict "url" $cycle_url "type" "cycle" "value" $cycle_icon "value_text" .Params.cycle) }}</li>
-        <li><strong>{{ $bundle_text }}: </strong><a href="{{ $bundle_url }}">{{ .Params.bundle }}</a></li>
+        <li><strong>{{ $bundle_text }}: </strong><a href="{{ $bundle_url }}">{{ $bundle_page.Title }}</a></li>
         <li><strong>{{ $genre_text }}: </strong>
             {{ range .Params.genre }}
                 {{ $genre_url := printf "/%s/genre/%s" $lang  (. | urlize) }}
@@ -93,7 +94,7 @@
         {{ end }}
 
         <li>&nbsp;</li>
-        <li><strong>{{ i18n "readability" }}: </strong><span class="non-link-data">{{ (index $readability_statistics "score") | lang.NumFmt 0 }}</span></li>
+        <li><strong>{{ i18n "readability" }}: </strong><span class="non-link-data">{{ (index $readability_statistics "score") | lang.FormatNumberCustom 0 }}</span></li>
         <li><span class="metadata-comment">{{ i18n "book-readability-explanation" }}</span></li>
 
         {{ $godlink_text := (i18n "godlink" (dict "Count" 2)) | humanize }}

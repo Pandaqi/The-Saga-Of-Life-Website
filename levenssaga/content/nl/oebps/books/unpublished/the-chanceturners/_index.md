@@ -9,7 +9,7 @@ uniqueID: "the-chanceturners"
 book: true
 timeperiod: 'Het Eerste Conflict'
 cycle: 'Het Ontstaan van Somnia'
-bundle: 'Kanskeerders & Uilenbezorgers'
+bundle: 'kanskeerders-uilenbezorgers'
 character: ['Tink', 'Wilplink', 'Oudehink', 'Kone', 'Roge', 'Zeze', 'Tibbowe']
 prequel: ['De Uilen van Cora']
 refers: ['Madaska', 'Alaotrameer', 'Traferia', 'Brandweer Toxotes', 'Baroke', 'Bloedlokken', 'Ziel van Darus', 'Zeverstad', 'Wijze Uil']

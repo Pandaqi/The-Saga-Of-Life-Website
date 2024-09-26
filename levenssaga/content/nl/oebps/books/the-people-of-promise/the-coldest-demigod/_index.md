@@ -10,7 +10,7 @@ uniqueID: "the-coldest-demigod"
 book: true
 timeperiod: 'Het Zwarte Gat'
 cycle: 'De Beschavingen van Belofte'
-bundle: 'Godenzonen & Stamdromen'
+bundle: "godenzonen-stamdromen"
 character: ['Ardex', 'Oeros', 'Gaia']
 prequel: []
 refers: ["Voorspelling van Guds", "Hemelvoorwerpen", "Hemelpaleis", "Dalas", "Zyme", "Aardewaker", "Luchtdanser", "Zonnestraler", "Tuinen van Eden"]

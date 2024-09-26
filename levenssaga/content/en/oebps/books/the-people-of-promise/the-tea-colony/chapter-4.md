@@ -92,7 +92,7 @@ The intention was to send _one_ person, where Fracclin was the obvious choice. B
 
 And so, all of them arrived in Philadinna. All colonies had sent their best representatives. For some, this meant the governors of their biggest cities---at least, before they were removed and replaced by an animal that favored Casbrita more. For others, this meant important soldiers or philosophers like Bardams.
 
-In the end, a large room was filled with animals. Some knew everything about laws and governing a land, and some who knew how to defeat an enemy army. Everyone was allowed to speak and give their thoughts.
+In the end, a large room was filled with animals. Some who knew everything about laws and governing a land, and some who knew how to defeat an enemy army. Everyone was allowed to speak and give their thoughts.
 
 But the rebels were surprised about what was said.
 

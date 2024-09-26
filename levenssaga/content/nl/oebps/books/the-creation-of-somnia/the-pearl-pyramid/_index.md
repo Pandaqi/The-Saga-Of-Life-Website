@@ -8,7 +8,7 @@ uniqueID: "the-pearl-pyramid"
 book: true
 timeperiod: 'De Vondst van Floria'
 cycle: 'Het Ontstaan van Somnia'
-bundle: 'Schildpadden & Schaduwsluipers'
+bundle: "schildpadden-schaduwsluipers"
 character: ['Jaco', 'Gidi', 'Halek', 'Anniwe', 'Isis']
 prequel: ['De Schildpadstad']
 teaches: ['Egyptische mythologie']

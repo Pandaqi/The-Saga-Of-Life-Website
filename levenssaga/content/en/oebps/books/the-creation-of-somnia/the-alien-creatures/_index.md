@@ -7,7 +7,7 @@ uniqueID: "the-alien-creatures"
 book: true
 timeperiod: "The Envoyage"
 cycle: "The Creation of Somnia"
-bundle: "Rockets & Aliens"
+bundle: "rockets-aliens"
 character: ['Hera', 'Casjara', 'Simmo', 'Mindy', 'Vaia', 'Jacintah']
 prequel: ['The Black Sky']
 refers: ['Amor', 'Fourstone', 'Trevran', 'Bombbricks', "Mindy's Research", "Nibuwe System", "Rocketrace of Aprania", 'Babbling Brothers', 'Platsu', 'Stone of Platsu', "Kurin", "Wilplin", "Cosmo"]

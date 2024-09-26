@@ -7,7 +7,7 @@ uniqueID: "the-bear-who-was"
 book: true
 timeperiod: "The First Conflict"
 cycle: "The Creation of Somnia"
-bundle: "Wings & Traitors"
+bundle: "wings-traitors"
 character: ['Ardex', 'Bella', 'Cosmo', 'Darus', 'Eeris', 'Feria', 'Gulvi', 'Hanah', 'Leion', 'Tikidas', 'Hibb', 'Kajar']
 prequel: ["The Banished Siblings"]
 refers: ['Howlnight', 'Midterra Sea', 'Throne of Tomorrow', 'Prototurtles', 'Destruction of Eastwood', 'Lifelogbook', 'Paraat', 'Darusstone', 'Elwoda', 'Equainforest', "Darus' Impossible Wall", 'Amor', 'High Hills', 'Green Path', 'Clansteads', 'Apra', 'Invention Fire', 'Gushersand', 'Equid', 'Taxis', 'Mare', 'Thon', 'Pricecats', "Barto's Blockade", 'Garda', 'Origina', "Blacktrail Explosion", "Nordic Iceplates", "Gathering Tree", "Disaster Caves", "Backdoor Trail"]

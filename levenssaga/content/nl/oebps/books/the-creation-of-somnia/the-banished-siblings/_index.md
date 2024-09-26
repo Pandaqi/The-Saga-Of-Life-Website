@@ -8,7 +8,7 @@ uniqueID: "the-banished-siblings"
 book: true
 timeperiod: 'Het Zwarte Gat'
 cycle: 'Het Ontstaan van Somnia'
-bundle: "Droomdino's & Knuffelgoden"
+bundle: "droomdinos-knuffelgoden"
 character: ['Ardex', 'Bella', 'Cosmo', 'Darus', 'Eeris', 'Feria', 'Gulvi', 'Hanah', 'Zandkoning']
 teaches: ['Zwaartekracht', 'Aardkern', 'Aardkorst', 'Maanvorming', 'DNA', 'Enzymen', 'Atmosfeer']
 refers: ['Wraak van Vader', 'Hemelpaleis', 'Mares', "Zyme"]

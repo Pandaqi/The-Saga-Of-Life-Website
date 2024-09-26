@@ -7,7 +7,7 @@ uniqueID: "the-dwellers-of-holed"
 book: true
 timeperiod: 'De Ruimtereis'
 cycle: 'De Beschavingen van Belofte'
-bundle: 'Vergeetverven & Grotsterven'
+bundle: "vergeetverven-grotsterven"
 character: []
 prequel: []
 refers: []

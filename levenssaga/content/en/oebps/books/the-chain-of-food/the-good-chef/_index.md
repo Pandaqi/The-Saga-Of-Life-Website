@@ -7,7 +7,7 @@ uniqueID: "the-good-chef"
 book: true
 timeperiod: 'The Founding of Floria'
 cycle: 'The Chain of Food'
-bundle: 'Himaherders & Recipeturners'
+bundle: "himaherders-recipeturners"
 character: ["Chef", "Minnekeria", "Perzwa", "Sulliwe", "Olm"]
 prequel: []
 refers: ["Origina", "Floria", "Traferia", "Second Throne of Darus", "Impossible Wall of Darus", "Bumpbaracht", "Turnbacktulips", "Dinodear", "Fishfool", "Book of Meaning", "Amor", "Loveline", "Primas", "Snakesoup", "Strawberry Forest", "Fruitgard", "Heroeshaven", "Green Path", "Mateshaven", "Madaska", "Saursea", "Mouth of Din", "Poison Belt", "Paraat", "Soliduri", "Schola", "Karma", "Giants", "Explosie Poison Bomb", "Esprante", "Slumberland", "Nordic Ice Sheets", "Dawndoris", "Equator"]

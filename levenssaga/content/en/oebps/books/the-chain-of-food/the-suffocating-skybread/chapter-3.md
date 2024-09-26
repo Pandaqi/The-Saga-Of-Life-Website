@@ -20,11 +20,11 @@ Dannis nodded, still searching for breath. "I have ... I may have found a way to
 
 Pin pushed his wet black wing against Dannis' mouth. 
 
-"Keep the invention to yourself, deerfriend," he whispered. "This could change the world. When they talk about the savior of the Godesweets, you want them to say _your_ name. You might even win the Knobble Prize!"
+"Keep the invention to yourself, deerfriend," he whispered. "This could change the world. When they talk about the savior of the Godesweets, you want them to say _your_ name. You might even win the Knobbel Prize!"
 
 Antlers held high, Dannis still stepped forward. "I have discovered how to predict where new islands will be. Give me a squad and I won't disappoint."
 
-The Ape Lord pressed his hands together, as if about to entre prayer, and spoke sweetly. "Dear soldier, tell us this great discovery, so we can _all_ start looking for islands. Come come, the Godesweets do not keep secrets for one another."
+The Ape Lord pressed his hands together, as if about to enter prayer, and spoke sweetly. "Dear soldier, tell us this great discovery, so we can _all_ start looking for islands. Come come, the Godesweets do not keep secrets for one another."
 
 Dannis looked to the side. Pin shook his head. _Dannis is no soldier,_ he thought. _Important state secrets leave his mouth like warm---ugh, I could eat a hundred warm fish right now._
 

@@ -7,7 +7,7 @@ uniqueID: "the-turtle-town"
 book: true
 timeperiod: 'The Companionship'
 cycle: 'The Creation of Somnia'
-bundle: 'Turtles & Shadowshifters'
+bundle: "turtles-shadowshifters"
 character: ['Slupper', 'Socipi', 'Solomon', 'Akez', 'Vivienne', 'Ancient Turtle', 'Anniwe']
 prequel: []
 refers: ['Vensala', 'Treaty of Vensala', 'Council of Kame', 'Outer Rings of Alasti', 'Eruptions at Alasti', 'The Book of Truth', 'The Floating Egg', 'Horus', 'Serpentsuper', 'Gibra', 'Pillars of Gibra', 'Wise Owl']

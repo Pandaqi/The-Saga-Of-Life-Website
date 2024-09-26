@@ -7,7 +7,7 @@ uniqueID: "the-gupramils"
 book: true
 timeperiod: 'The First Conflict'
 cycle: 'The People of Promise'
-bundle: 'Rivers & Conquerers'
+bundle: "rivers-conquerers"
 character: ["Gupra", "Ashorra", "Marili", "Mero", "Ardex", "Alixader de Reus", "Are", "Bhola", "Candya"]
 prequel: ["The Coldest Demigod"]
 refers: ["Ismaraldah", "Didrik", "Tamli", "Gupramils", "First Conflict", "Throne of Tomorrow", "Bella's Illness", "Preza", "Pricecats", "Himamountains", "Firering", "Flamefeaster", "Deathmates", "Garda", "Origina", "Dolphin Pass", "Gulvi", "Buhasm", "Prebuha", "Hens"]
@@ -16,7 +16,7 @@ godlink: ["Ardex"]
 genre: ["Dialogue", "Sad", "Power", "Love", "Growth", "History", "Fight"]
 teaches: ["Gupta Empire", "Tamil"]
 
-blurb: "Gupra almost managed to conquer the entire Schola territory. Until he stumbles upon his final obstacle: the Tamli kings, of whom legends claim they'll never be defeated, whatever you try."
+blurb: "Gupra almost conquered the entire Schola territory. Until he stumbles upon his final obstacle: the Tamli kings, of whom legends claim they'll never be defeated, whatever you try."
 
 timeline:
   - yearstart: -100

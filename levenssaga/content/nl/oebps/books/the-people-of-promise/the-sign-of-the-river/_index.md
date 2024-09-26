@@ -8,7 +8,7 @@ uniqueID: "the-sign-of-the-river"
 book: true
 timeperiod: 'Het Wolkengezag'
 cycle: 'De Beschavingen van Belofte'
-bundle: 'Rivieren & Koningsdieren'
+bundle: "rivieren-koningsdieren"
 character: ["Prebuha", "Mamotas", "Megitas", "Kleischepper", "Welpon", "Larsh"]
 prequel: []
 refers: ["Harap", "Indus", "Zwaarwater", "Sumiser", "Akradi", "Het Grote Badhuis", "Tigres", "Tweelingsrivieren", "Wildernis", "Garda", "Schola"]

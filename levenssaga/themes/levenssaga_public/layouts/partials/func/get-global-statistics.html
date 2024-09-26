@@ -12,5 +12,5 @@
 
 {{ $story_text := i18n "story" (dict "Count" 2) }}
 {{ $word_text := i18n "word" (dict "Cout" 2) }}
-{{ $final_string := printf "%s %s, ~%s %s" ($story_count | lang.NumFmt 0) $story_text ($word_count | lang.NumFmt 0) $word_text }}
+{{ $final_string := printf "%s %s, ~%s %s" ($story_count | lang.FormatNumberCustom 0) $story_text ($word_count | lang.FormatNumberCustom 0) $word_text }}
 {{ return $final_string }}

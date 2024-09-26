@@ -7,7 +7,7 @@ uniqueID: "the-poison-rod"
 book: true
 timeperiod: 'The Cloudtority'
 cycle: 'The Chain of Food'
-bundle: 'Poisonthieves & Grainfleas'
+bundle: "poisonthieves-grainfleas"
 character: ["Bella", "Darus", "Ardex", "Eeris", "Donat", "Eonada", "Fonatos", "Gonadisa", "Honatanan", "Ionadanaris", "Jasmine Just", "Thomas Just"]
 prequel: ["The Fleshfeasters"]
 refers: ["Book of Meaning", "Poison Belt", "Throne of Tomorrow"]

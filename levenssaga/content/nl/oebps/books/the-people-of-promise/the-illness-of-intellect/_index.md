@@ -6,7 +6,7 @@ uniqueID: the-illness-of-intellect
 book: true
 timeperiod: "De Vondst van Floria"
 cycle: "De Beschavingen van Belofte"
-bundle: "Barbaren & Hekshaarden"
+bundle: "barbaren-hekshaarden"
 character: ["Catia", "Felicia", "Chef", "Dormas", "Fonza", "De Wijze Uil"]
 prequel: []
 refers: ["Amor", "El Bjib", "Hemelvoorwerpen", "Vuurvlecht", "Dondermedicijn", "Simmersaus", "Krekelbehandeling", "Rijk van Luiaards", "Traferia", "Kompanen"]

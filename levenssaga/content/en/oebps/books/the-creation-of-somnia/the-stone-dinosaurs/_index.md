@@ -7,7 +7,7 @@ uniqueID: "the-stone-dinosaurs"
 book: true
 timeperiod: "The First Steps"
 cycle: "The Creation of Somnia"
-bundle: "Dreamdinos & Animalgods"
+bundle: "dreamdinos-animalgods"
 character: ['Donte', 'Mami', 'Feria', 'Gulvi', 'Eeris', 'Darus', 'Cosmo', 'Bella', 'Ardex', 'Rexes', 'Willi Smallcloud', 'Nisah']
 prequel: ['The Banished Siblings']
 teaches: ['Asteroid', 'Comet', 'Meteor', 'Dinosaurs', 'Climate Change', 'Evolution', 'Birds']

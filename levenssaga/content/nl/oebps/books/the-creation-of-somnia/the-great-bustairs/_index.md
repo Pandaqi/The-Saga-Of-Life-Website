@@ -8,7 +8,7 @@ uniqueID: "the-great-bustairs"
 book: true
 timeperiod: "Het Wolkengezag"
 cycle: "Het Ontstaan van Somnia"
-bundle: "Vleugels & Verraders"
+bundle: "vleugels-verraders"
 character: ['Bella', 'Cosmo', 'Eeris', 'Darus', 'Dilova', 'Fiante', 'Abrahon']
 prequel: ['De Stenen Dinosaurussen']
 refers: ['Nachtrivier', 'Zonsonderrivier', 'Bijnabergen', 'Bloemenvelden van Bijdehand', 'De Spookvogel', 'De Midterrazee', 'Atheeni']

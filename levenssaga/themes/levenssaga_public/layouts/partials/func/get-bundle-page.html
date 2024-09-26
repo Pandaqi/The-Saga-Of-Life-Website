@@ -1,0 +1,5 @@
+
+{{ $title_urlized := .input | urlize }}
+{{ $bundle_url := printf "/bundle/%s" $title_urlized }}
+{{ $bundle_page := .context.Site.GetPage $bundle_url }}
+{{ return $bundle_page }}

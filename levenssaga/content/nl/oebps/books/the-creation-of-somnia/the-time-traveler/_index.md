@@ -8,7 +8,7 @@ uniqueID: "the-time-traveler"
 book: true
 timeperiod: 'Het Tweede Conflict'
 cycle: 'Het Ontstaan van Somnia'
-bundle: 'Dromenspelers & Tijdverdelers'
+bundle: "dromenspelers-tijdverdelers"
 character: ['Ismaraldah', 'Jacintah', 'Didrik', 'Castela', 'Chimp', 'Apenheer', 'Arap', 'Zeze', 'Viowe', 'Jaco Junior']
 prequel: []
 refers: ['Het Drijvende Ei', 'Het Misplaatste Ei', 'Waarschuwing voor Donte', 'Het Houten Klokhuis', 'De Kineesrace', 'Verplaatste Uitvinding van Buskruit', 'Opperwolk', 'Donte', 'Kokosnootvoetbal', 'Schijfhockey', 'Kameraden zonder Koning', 'Drakenhout', 'De Apencode', 'Roge']

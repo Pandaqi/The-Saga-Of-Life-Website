@@ -7,7 +7,7 @@ uniqueID: "the-supernatural-sloths"
 book: true
 timeperiod: 'De Breekbare Balans'
 cycle: 'De Beschavingen van Belofte'
-bundle: 'Vergeetverven & Grotsterven'
+bundle: "vergeetverven-grotsterven"
 character: ["Sotho", "Lothan", "Ismaraldah", "Jacintah", "Didrik", "Mindy"]
 prequel: []
 refers: ["Luiland", "Babbelbroers", "De Vijftig Boomtorens", "Vlamvreter", "Drakenhout", "Kerstman", "Da Vennisi", "Somnia"]

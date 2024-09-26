@@ -8,7 +8,7 @@ uniqueID: "the-alien-creatures"
 book: true
 timeperiod: "De Ruimtereis"
 cycle: "Het Ontstaan van Somnia"
-bundle: "Raketten & Ruimtewezens"
+bundle: "raketten-ruimtewezens"
 character: ['Hera', 'Casjara', 'Simmo', 'Mindy', 'Vaia', 'Jacintah']
 prequel: ['De Zwarte Lucht']
 refers: ['Amor', 'Vierkei', 'Trevran', 'Bombrokken', "Mindy's Onderzoek", "Nibuwe Stelsel", "Raketrace van Apranië", 'Babbelbroers', 'Platsu', 'Steen van Platsu', "Kurijn", "Wilplink", "Cosmo"]

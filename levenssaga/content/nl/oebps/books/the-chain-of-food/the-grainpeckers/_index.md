@@ -8,7 +8,7 @@ uniqueID: "the-grainpeckers"
 book: true
 timeperiod: 'Het Eerste Conflict'
 cycle: 'De Keten van Voedsel'
-bundle: 'Gifdieven & Graanvliegen'
+bundle: "gifdieven-graanvliegen"
 character: ["Cosmo", "Quili", "Epoh", "Tibbowe", "Didrik", "Gossin", "Kajar", "Arlar"]
 prequel: ["De Beer die Was"]
 refers: ["Origina", "Garda", "Compana", "Traferia", "Hemelvoorwerpen", "Windvlaagvleugel", "Steen van Zekerstof", "Liefdesmuur", "Tegenspoedtulpen", "Violen van Voorspoed", "Liefdesrozen", "Amor", "Paraat", "Wolken met Uitzinnige Regen"]

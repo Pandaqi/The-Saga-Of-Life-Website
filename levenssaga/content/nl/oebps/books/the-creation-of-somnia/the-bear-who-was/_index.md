@@ -8,7 +8,7 @@ uniqueID: "the-bear-who-was"
 book: true
 timeperiod: "Het Eerste Conflict"
 cycle: "Het Ontstaan van Somnia"
-bundle: "Vleugels & Verraders"
+bundle: "vleugels-verraders"
 character: ['Ardex', 'Bella', 'Cosmo', 'Darus', 'Eeris', 'Feria', 'Gulvi', 'Hanah', 'Leion', 'Tikidas', 'Hibb', 'Kajar']
 prequel: []
 refers: ['Huilnacht', 'Midterrazee', 'Troon van de Toekomst', 'Oerschildpadden', 'Vernietiging van het Oostenwoud', 'Levenslogboek', 'Paraat', 'Darussteen', 'Elwoda', 'Rekenwouden', 'Onmogelijke Muur van Darus', 'Amor', 'Hoge Heuvels', 'Groene Pad', 'Groepsgevesten', 'Apra', 'Uitvinding Vuur', 'Geiserzand', 'Equid', 'Taxis', 'Mare', 'Thon', 'Prijskatten', 'Blokkade van Barto', 'Garda', 'Origina']

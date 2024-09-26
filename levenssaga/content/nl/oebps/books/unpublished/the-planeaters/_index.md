@@ -9,7 +9,7 @@ uniqueID: "the-planeaters"
 book: true
 timeperiod: 'De Ruimtereis'
 cycle: 'Het Ontstaan van Somnia'
-bundle: 'Musketiers & Planetiers'
+bundle: 'musketiers-planetiers'
 character: []
 prequel: []
 refers: []

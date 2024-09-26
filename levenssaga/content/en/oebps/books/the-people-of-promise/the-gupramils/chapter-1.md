@@ -20,7 +20,7 @@ The voice in his head never slept. So he learned to fight it. He collected coura
 
 It never came to that, for a guard lifted him with his trunk and took him to the war room. A place the ghost didn't dare enter for now.
 
-"That's the last province," Gupra said with a smile. A golden ring around his front paw tapped an area on the map. "We conquer this and Schola stands united."
+"That's the final province," Gupra said with a smile. A golden ring around his front paw tapped an area on the map. "We conquer this and Schola stands united."
 
 "Except for ... the Tamli," the commander added hesitantly.
 

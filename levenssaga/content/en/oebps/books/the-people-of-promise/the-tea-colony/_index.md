@@ -7,7 +7,7 @@ uniqueID: "the-tea-colony"
 book: true
 timeperiod: 'The Second Conflict'
 cycle: 'The People of Promise'
-bundle: 'Moonstall & Wonderfall'
+bundle: "moonstall-wonderfall"
 character: ["General Wasserbox", "Ajay", "Bardams", "Fracclin", "Fuja", "Beeris", "Jefizon", "General Jumbodor", "General Howl"]
 prequel: []
 refers: ["Frambozi", "Casbrita", "Elwar", "Lowlands", "Fort Le Boef", "Fort Necessity", "Ohoi River", "Bosnot", "Philadinna", "New Bork", "Fort Tondoga", "Ottojon", "Amorian Empire", "Schola"]
