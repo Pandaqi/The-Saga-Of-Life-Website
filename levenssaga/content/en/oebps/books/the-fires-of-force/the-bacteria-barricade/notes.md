@@ -114,6 +114,8 @@ Especially superhero stories have this kind of issue. When a superhero has acqui
 
 * **MUST:** Have them name the reverse bacteria _Mitos_ early on, as they look like a tightly wound thread/have that inside
 * **MAYBE/MUST:** I'm just not sure having Bella endangered is enough tension OR maybe we should mention some consequences of this in the epilogue already. I also think Ardex' arc is a bit wishy-washy => it would perhaps make more sense if the family was **way more dysfunctional**. (They all do completely different things at first, don't help each other, Eeris stays at her Withered Willows and ignores the rest, etcetera.)
+	* They all have their own "thrones" now (Darus on the wall, Eeris Willows, Feria Gardens, Gulvi the start of the Dolphin Pass, etcetera), and so they mostly stay there and only care about that.
+	* Initially, they barely meet up, barely help each other, and Ardex is the only one without a fixed throne and is annoyed---while they think he's standing in the way and annoying _them_?
 * **MAYBE:** Have those Marker Stones _buzz_ and _move_ and _heat up_. The more they're charged the faster they randomly jerk around.
 * **MUST:** It's a bit convoluted as to why the boulder needs to go up the hill now, when it might "unlock" the clearing below. Give a stronger reason? Maybe they DESTROY that clearing? => Or do they realize "potential energy" earlier and know that pushing the boulder higher will energize it and actually use the key?
   * This would necessitate _trying_ to use it as a key on the lower clearing and it failing. Show that once.

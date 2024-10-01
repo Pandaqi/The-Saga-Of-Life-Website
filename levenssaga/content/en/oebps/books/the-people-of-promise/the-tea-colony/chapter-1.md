@@ -20,7 +20,7 @@ Natives suddenly appeared in the shadows and surrounded Wasserbox' soldiers. The
 
 When the leader of the Elwarians saw the general, he smiled and spread his arms. Wasserbox did the same. It was a gesture; they never truly hugged one another, for they both still considered the other contagious. The bows were lowered.
 
-Wasserbox held a pile of gold coins in his hand. He was a _monkey_, one of the few animal species who actually had hands, just like his entire peloton.
+Wasserbox held a pile of gold coins in his hand. He was a _monkey_, one of the few animal species who actually had hands, just like his entire platoon.
 
 "Any news about Frambozi?"
 
@@ -38,9 +38,9 @@ Wasserbox thought about this. He thought he heard footsteps in the distance, the
 
 "Pardon?" his vice-general said.
 
-"We are nothing more than _simple messengers_. But if the Frambozi reject our message, we return her and chase the other prey."
+"We are nothing more than _simple messengers_. But if the Frambozi reject our message, we return here and chase the other prey."
 
-His soldiers studied the buffaloes with suspicion. They probably saw a future in which the natives stole their weapons and left. Filthy Elwari, not to be trusted. But Wasserbox was their leader, and his family had a long history of friendschip with the Elwari, so they did as he asked.
+His soldiers studied the buffaloes with suspicion. They probably saw a future in which the natives stole their weapons and left. Filthy Elwari, not to be trusted. But Wasserbox was their leader, and his family had a long history of friendship with the Elwari, so they did as he asked.
 
 They walked further into the darkness. And indeed, not half an hour later a Frambozi patrol intercepted them. A large group of otters with a few marmots. Their clothes were actually made for the cold winter weather in the north of Elwar. Wasserbox still hoped he'd be assigned in the south one day, near the warm tropical islands.
 
@@ -88,7 +88,7 @@ His eyes slid over Jumbodor's dead body. He must have been a highly placed gener
 
 "We must leave! Now!" he yelled.
 
-Whatever was left of his platoon ran after him, along the Ohoi River. Some ran into the water, afraid Frambozi could appear behind any tree now and shoot them dead.
+Whatever was left of his platoon ran after him, along the Ohoi River. Some ran into the water, afraid Frambozi could appear behind any tree now and shoot them.
 
 Run. Run until they were back in Casbrita territory. And then? This would---
 
