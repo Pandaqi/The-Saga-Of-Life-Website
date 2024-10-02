@@ -86,11 +86,11 @@ Sure, they asked the Gosti to look after him. Brave Gosti with not a claw.
 
 Then a tiger entered the clearing. The common enemy of all beings in this time period, like most felines.
 
-"Oh no," the tiger said with a grin. "I am so scared. A few mice are in my way. A god is trapped and helpless. What will I ever do?"
+"Oh no," the tiger said with a grin. "So scared. Few mice in my way. God trapped and helpless. What do?"
 
 Silence returned to the clearing. Darus sought a final ounce of energy to chase off the tiger. He found none. The Smasher attack had really drained him. It had _almost_ severed his connection to Enyrgia again.
 
-The tiger latched out.
+The tiger lashed out.
 
 The nearest Gosti ducked. To dodge the claw, and also to pick up a twig.
 

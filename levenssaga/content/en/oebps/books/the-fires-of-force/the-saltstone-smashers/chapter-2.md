@@ -8,9 +8,15 @@ The wolf Darus, God of Stone, inspected the fractured boulder and concluded he w
 
 A pink fox elegantly hopped onto the stones. "None. They lack the intelligence for it too."
 
+The godchildren had just visited the Stone Dinosaurs garden. A large area with giant dinosaur statues that had been there for thousands of years, ever since they went extinct. Those dinosaurs were covered in lava rock and always looked as if they might come alive any second.
+
+Not anymore, that was. The Smasher had visited there too and _destroyed_ all those magnificent statues. Which seemed odd to Darus, as the Smasher attacks had been very focused so far, only targeting living creatures for food.
+
 The godchildren walked on. They all shivered, but the cold was the least of their problems. This area felt devoid of _life_. Near their Throne of Tomorrow, you could look anywhere and see creatures. In fact, they had to regularly deal with insect plagues now.
 
-Around here? Any sign of movement was met with cheers. They often spotted Gosti, tiny ghost-like creatures with large eyes that hung from tree branches, but not much else. They took great care protecting those little pre-monkeys, because they were the smartest life they had so far. The ghosts themselves, however, were uninterested and shied away when gods approached.
+Around here? Any sign of movement was met with cheers. They often spotted Gosti, tiny ghost-like creatures with large eyes that hung from tree branches, but not much else. They took great care protecting those little pre-monkeys, because they were the smartest life they had so far. 
+
+In fact, they'd let them weigh in on the decision to remove the dinosaurs back then---a mistake, they knew now. The ghosts themselves, however, were uninterested and shied away when gods approached.
 
 Bella had refused to come with them. She had been disconnected from life force several times in the past and still felt weak because of it. She went wherever animals and plants went, and it was _not here_.
 

@@ -120,7 +120,7 @@ A sea of _fire_ erupted above her. Ardex had arrived; Bella took her hand on the
 
 They didn't need to. She had _caught_ a Smasher, now dangling from her teeth.
 
-As they ran back to Darus, they picked up Alix. He was _fascinated_ by the broken stones. Even more so by the Marker Stones, which had been extracted from the broken Saltstone, hidden in a hole.
+As they ran back to Darus, they picked up Alix. He was _fascinated_ by the broken stones. Even more so by the Marker Stones hidden in a hole, which had been extracted from the broken Saltstone.
 
 There was debate about picking up the Marker Stones, but Bella thought it too dangerous. Besides, Alix insisted he could free Darus without it.
 
@@ -128,8 +128,10 @@ When they returned, Darus was unconscious. He was wounded. Maybe from a fight, m
 
 What most of them couldn't understand, however, was the species of the Smasher and how they worked.
 
-It was a small Gosti.
+It was a small Gosti. 
 
-It looked at them with glassy eyes, as if woken from a stupor. Ardex created a fiery cage for it. 
+Though it looked absolutely harmless now, Ardex quickly created a fiery cage for it. 
+
+The Gosti looked at them with glassy eyes, as if woken from a stupor. Then they recognized her: it was _Mami_. The Gosti that influenced their decision to let the dinosaurs die so long ago, befriended the legendary dinosaur Donte, and led to the Stone Dinosaurs.
 
 Alix explained how to free Darus.
