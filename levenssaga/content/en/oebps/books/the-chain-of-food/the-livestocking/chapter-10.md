@@ -1,138 +1,147 @@
 ---
-title: "Epiloog"
+title: Epilogue
 weight: 10
 ---
+Once the fire was extinguished, calling the house a black skeleton would be undeserved praise. Still calling the farm a _farm_ would be too. Kuku had tried to catch all the gold coins, but they were scattered across the premises. Without buildings, barns or animals the area suddenly felt _enormous_.
 
-Toen het vuur was geblust, was er niks meer over van het huis. Of de boerderij. Kuku had geprobeerd alle goudstukken te vangen, maar ze waren verspreid over het hele terrein. Zonder gebouwen, stallen of dieren leek dat terrein plotseling _gigantisch_.
+As the firemen carefully assessed the damage, two refrigerator doors opened.
 
-Terwijl de brandweerlieden voorzichtig naar de rommel liepen, gingen twee koelkastdeuren open.
+"Air! Fresh air!" said Elize, as she crawled out on hands and feet. Harry did the same.
 
-"Lucht! Schone lucht!" riep Elize, terwijl ze op handen en voeten naar buiten kroop. Harry deed hetzelfde.
+"Survivors!" yelled a fireman. 
 
-"Overlevenden!" schreeuwde de voorste brandweerman. Ze werden ondersteund en naar een bankje geleid, waar ze voedsel kregen en een deken over de schouders. 
+Father and daughter were supported and led to one of the few wooden benches left standing. They received food and a blanket wrapped around their shoulders.
 
-"Acht uur in zo'n kleine kast," mompelde Harry, zijn gezicht vertrokken van walging. De kogelwond in zijn arm werd verzorgd, terwijl hij maar bleef mompelen over wat voor nachtmerrie het was.
+"Eight hours in a tiny closet," mumbled Harry. His face contorted out of disgust. The bullet wound in his arm was treated, while he kept mumbling about the nightmare he just experienced.
 
-Kuku liep naar hen toe en liet goudstukken uit de mond vallen. Harry keek langdurig naar haar. 
+Kuku walked up to him and dropped some gold coins from her teeth. 
 
-"Jullie ... jullie zaten elke dag in zo'n kast. Alle uren." 
+Harry studied her for a while.
 
-Harry sloot zijn ogen en schudde zijn hoofd. "De enige reden dat niet alle dieren levend zijn verbrand, is omdat ik net vandaag alle stallen had opgezet. Anders ..."
+"You ... you were inside a closet every day. All hours."
 
-Hij krabde achter Kuku's oren. Het lammetje deinsde terug. 
+Harry closed his eyes and shook his head.
 
-"Het spijt me."
+"The only reason a hundred animals didn't burn to death today, is because I happened to let you out of your cages for once. Otherwise ..."
 
-"Wat ... wat is dit?" vroeg Elize, terwijl ze de goudstukken omdraaide in haar vingers.
+He scratched behind Kuku's ears. The cow recoiled.
 
-Steeds meer brandweerlieden vonden goudstukken en brachten ze ook naar Harry. Ze gingen ervan uit dat het hun geld was, door de aanval verspreid. Er moesten zelfs tonnen en kisten worden geregeld om het allemaal op te slaan.
+"I am sorry."
 
-"Onze weg naar een betere toekomst," zei Harry glimlachend.
+"What ... what is this?" asked Elize, as she twirled the coin between her fingers.
 
-"Een laatste cadeau van Zekerstof," zei Elize, waarna ze _in_ een kist goudstukken sprong en probeerde te zwemmen.
+More and more firemen found gold coins and brought them to Harry. They assumed it was his money, scattered by the explosion. They had to borrow some chests and metal containers to store all of it.
 
-Politieagenten probeerden zo snel mogelijk een verklaring te krijgen. 
+"Our path to a better future," said Harry with a smile.
 
-"Alle granaten, wat is hier gebeurd?"
+"A final gift of Destinydust," said Elize. Then she jumped _into_ a large container of gold coins and pretended to swim.
 
-"Ja, die inspectrice van de overheid, Beatrix, blijkt onderdeel van een geheime organisatie!" riep Harry. "Ze vielen ons aan. Ze stalen onze waakhond. Ze waren, eh, vast uit op ons geld!"
+A police officer visited Harry and asked for a statement.
 
-De agent fronste. Iemand anders werd gebeld, die weer iemand anders belde, en uiteindelijk bekeek iemand informatie op een mobiele telefoon. 
+"All bombs and grenades, what happened _here_?"
 
-"Er werkt helemaal niemand met de naam Beatrix bij de inspecteurs."
+"Yes, well, that inspector the government sent us, Beatrix, turned out to be part of a secret organization!" said Harry. "They attacked us. They stole our watchdog. They were, erm, surely out for my money!"
 
-"Je gelooft ons niet, hè? Kijk dan om je heen."
+The agent frowned. Someone called someone else, who called another officer, and eventually somebody received the proper information on their mobile phone.
 
-De agenten namen de verklaring af, maar fronsten bij elke melding van _onzichtbare ruimtewezens_ en een _raket vol wapens_. 
+"None of our inspectors is called Beatrix."
 
-Een dag later werd boer Harry in alle kranten een gek genoemd met allemaal waanbeelden en complotten. Tegelijkertijd krijg hij ook brieven en telefoontjes van mensen die hetzelfde hadden meegemaakt, en zeker wisten dat hij gelijk had.
+"You don't believe us, hey? Then look around you."
 
-Harry en Elize haalden hun schouders op en gingen aan de slag met het opnieuw opbouwen van de boerderij. Beter, mooier, groter, natuurlijker. De stallen werden grote ruimtes, met genoeg daglicht en sterke muren die niet instortten. 
+The agents took his full statement. Even though they frowned at every mention of _invisible aliens_ and a _spaceship made of weapons_.
 
-Het hoge, elektrische hek rondom het erf verdween. Er stond alleen nog een laag hekje om aan te geven waar het terrein stopte. 
+The next day, Farmer Harry was called insane in all the newspapers. His story was called a bad dream or a conspiracy theory. At the same time, however, he received letters and phone calls from people all over the world who had met this Beatrix too, and were sure he was right.
 
-"Het moet hier zo leuk zijn dat ze zelf willen blijven," zei Elize. Daar was Harry het mee eens. Ook al voegde hij toe dat het ook veel geld en moeite scheelde zo.
+Harry and Elize shrugged and planned to rebuild their farm. Better, prettier, bigger, more natural. The barns would become large spaces, with more than enough daylight and strong walls that didn't collapse.
 
-Elize kreeg toestemming om alles in prachtige kleuren te schilderen. Ze hadden zelfs genoeg goud om een riviertje aan te leggen die door de boerderij slingerde. Deze toevoeging zorgde al snel dat het hele gebied veranderde in iets bomvol nieuwe planten en diersoorten, alsof ze een nieuw bos hadden aangelegd. 
+The tall electrical fence disappeared. Only a low wooden fence would mark the border of their territory.
 
-Misschien was er nog iets over van de magie van Zekerstof. Elize voelde in ieder geval dat er weer magie was op deze boerderij. Het was prachtig, zeker in de volle zomerzon, zeker als ze 's ochtends wakker werd met zingende vogels in de bomen rondom haar slaapkamer.
+"The animals must love it here so much that they _want_ to stay," said Elize. Harry agreed. Even though he added that this was far cheaper and required less maintenance too.
 
-Het enige missende onderdeel kwam na een aantal dagen zelf binnenwandelen. De dieren kwamen terug, eerst stuk voor stuk, daarna in kleine plukjes, totdat Elize ze allemaal telde. 
+Elize received permission to paint everything in bright colors. They even had enough gold to add a new river that meandered through the farm grounds. This addition quickly turned the area into a blooming habitat for many new plants and animal species, as if they'd added a new forest to the world.
 
-Ze noemde haarzelf weer vol trots _Boerin Elize_. De onzichtbare schuur stond nog overeind en Elize stond erop dat op die plek _niks_ werd gebouwd. Ze dacht dat vader haar raar zou aankijken en negeren, maar hij krabde zijn achterhoofd en vroeg zich af of die schuur er altijd al had gestaan.
+Perhaps some remnants of the Stone of Destinydust's magic remained. Elize sure _felt_ the farm was magical again. It was beautiful, especially in the full summer sun, especially when she woke up in the morning to the sound of singing birds, nestled in the blossoming trees around her bedroom.
 
-Soms dacht ze 's avonds laat nog het geblaf van Hess te horen, uit de hemel, alsof hij die stomme wezens alsnog had verslagen en terugkwam in die raket. 
+The only missing piece returned voluntarily a few days later. The animals returned, one by one at first, then in droves, until Elize counted them all.
 
-Maar hij kwam niet. Het duurde lang voordat ze over haar verdriet om Hess heen was, en toen pas mocht ze een nieuwe waakhond uitkiezen.
+She proudly called herself _Farmer Elize_ again. The invisible shed was still intact and Elize insisted that _nothing_ be built in that spot. She thought dad would look at her funny and ignore her, but he scraped the back of his head and wondered if that shed had always been there.
 
-Kuku rende vrolijk rondjes en hielp mee waar mogelijk. Ze werd langzaam te groot om als huisdier te nemen, of überhaupt nog vast te pakken. Dus hoe graag Elize haar ook mee naar binnen nam, ze moest steeds vaker toch bij de andere koeien in de stal of op het weiland. 
+Sometimes, late at night, she thought she still heard Hess' powerful bark. From the heavens, it sounded, as if he'd defeated those stupid creatures and came back, steering the rocket himself.
 
-Een paar maanden hield Kuku dit vol. Ze maakte het grootste deel van de verbouwing mee. Daarna overheerste toch het gevoel dat ze klaar was met stallen en hokjes. Helemaal klaar. Vrijheid. Elke dag een nieuw grasveld. Dát was de droom.
+But he didn't come back. It took a while to overcome her grief for Hess. Only _then_ she picked out a new watchdog.
 
-Ze probeerde het Elize duidelijk te maken, maar dat was zinloos. Zeker nu ze naar de middelbare school ging en steeds vaker de hele dag speelde met vriendinnen. 
+Kuku ran circles around everyone and helped where possible. She slowly grew too large to keep as a pet, or even pick up. No matter how badly Elize wanted to take her inside, she had to leave Kuku with the other cows in the barn, or sleeping in the grass during the summer.
 
-Doordat Harry mensen kon inhuren hoefde Elize alleen mee te helpen wanneer ze wilde. Van die mogelijkheid maakte ze gebruik om iedereen constant uit te nodigen en steeds opnieuw het verhaal te vertellen van _Boerin Elize_! De heldin die overleefde door in een koelkast te schuilen! Hoe het buitenste loeiheet werd, maar het binnenin ijskoud bleef! Hoe ze _aliens_ had gezien en had verslagen!
+Kuku persevered for a few months. She experienced most of the renovations. Still, the feeling remained that she was done with cages, barns and fences. Completely _done_. 
 
-Ze leek het een stuk mooier te maken dan het was. Maar alleen al het plezier in haar ogen, het vrolijke gefluit waarmee ze elke dag naar school ging, maakten Kuku's dagen altijd beter.
+Freedom. A new field of grass every day. _That_ was the dream.
 
-Nieuwe vrachtwagens kwamen met nieuwe bestellingen. Dat deel bleef hetzelfde---of was dat wel zo?
+She tried to communicate this to Elize, but it was useless. Especially now that she was in high school and spent most days playing with her friends.
 
-Harry hield hen het contract voor. De ogen van de zakenman puilden bijna uit.
+Because Harry could hier other people now, Elize only needed to help when she wanted. She used the opportunity to invite everyone and repeat she was _Farmer Elize!_ all the time. The heroine that survived by hiding in a cold refrigerator! How the outside became searing hot, but the inside stayed ice cold! How she'd seen _aliens_ and defeated them!
 
-"_Twee_ Soliduri per liter?! Ben je gek geworden?"
+She dressed it up a bit, making a terrifying story sound heroic. But just the passion in her eyes, the cheerful whistling as she jumped on her bike and went to school, made Kuku's days that much better.
 
-"Als je _drie_ wilt betalen, vinden we dat ook prima hoor."
+New trucks arrived with new orders. That part never changed---or did it?
 
-"Niemand betaalt dat. Je graaft je eigen graf."
+Harry shoved a contract in their faces. The eyes of the business men bulged.
 
-Harry schokschouderde. "Dat is de prijs. Dat is nodig om de dieren een fijn leven te geven."
+"_Two_ Soliduri per liter!? Are you insane?"
 
-De man in pak kneep zijn ogen samen. "Ik heb inderdaad gehoord dat jullie een mysterieuze lading goud hebben verkregen."
+"If you want to pay _three_, I'm fine with that too."
 
-Harry draaide al om. "Dan ga je lekker naar die andere boerderij die goedkoper was."
+"Nobody will pay that. You're digging your own grave."
 
-De man sprintte langszij, greep het contract uit de handen en zette zijn handtekening. "Die ene is failliet. Die ander moest sluiten na de laatste inspectie. Gefeliciteerd, Harry, we kopen je spul voor de belachelijke prijs van twee Soliduri. En het vlees?"
+Harry shrugged. "That's the price. That's needed to give these animals a proper life."
 
-"We slachten alleen als nodig. Ik denk dat de mensen ook prima kunnen leven met eens in de zoveel tijd vlees, in plaats van vijf keer per dag. Dus vraag het over een half jaar maar opnieuw."
+The business men narrowed their eyes. "Yes. I have heard of your mysterious pile of gold."
 
-De vrachtwagens werden geïrriteerd ingeladen, maar ze kwamen altijd terug.
+Harry turned around. "Go on then. Go to the other farm that was cheaper."
 
-Een groot deel van het goud hoefde niet eens uitgegeven. Bij de volgende inspectie werd de boerderij op alle punten goedgekeurd en zelfs benoemd tot beste landbouwbedrijf van het land. 
+The man sprinted past him, snatched the contract from his hands, and signed it.
 
-Iedereen wilde er werken. Er kwamen zelfs toeristen die foto's maakten van de bijzondere omgeving, alsof het een dierentuin was die ze zo mooi mogelijk hadden vormgegeven. 
+"That one went bankrupt. The other had to shut down after the last inspection. Congratulations, Harry, we're buying your goods at the insane price of two Soliduri. And the meat?"
 
-Ze kregen toestemming om verder uit te breiden, maar dat wilden ze niet. Ze bleven liever de kleine Boerderij Nachtegaal, hernoemd naar _Chef's Trots_. Wat ze hadden meegemaakt werd erbij geschreven in de boeken over de geschiedenis van hun bijzondere familie. Al het overgebleven goud werd in schatkisten bewaard op een veilige plek.
+"We only slaughter when needed. I think humans can survive just fine on _a bit of meat, some of the time_. Instead of five times a day, every day. Ask again in half a year."
 
-"We moeten een smoesje verzinnen voor het goud," opperde Harry meerdere keren. Uiteindelijk waren ze maar willekeurige spullen gaan verkopen. Zelfs een paar dieren, als ze wisten dat de ontvanger goed voor hen zou zorgen. 
+The trucks were loaded with an air of irritation, but they always returned.
 
-Zo gebeurde het dat de koelkast ook werd weggedaan. De twee sterke mannen die hem over het grindpad tilden, puften en klaagden in de hete zon.
+A large part of the gold didn't need to be spent. At the next inspection, the farm passed all criteria and was even dubbed the best farm in the country.
 
-"Hoort dat ding _zo_ zwaar te zijn?"
+Everyone wanted to work there. Tourists swung by to take pictures of the beautiful nature, as if it was a zoo.
 
-"Ik hoorde dat ze hierin die aanval hadden overleefd," zei de ander. "Moet wel van stevig materiaal zijn."
+They received permission to expand even further---they declined. They'd rather stay the small Nightingale Farm, renamed to _Chef's Pride_. The events they experienced were written down in the history books about their own family. All the remaining gold was kept in treasure chests, hidden in a safe location.
 
-"Stevig of niet, ik heb effe een pauze nodig."
+"We must come up with an excuse for the gold," Harry said repeatedly. Eventually, they started selling random objects. Even a few animals, as long as they knew the recipient would take good care of them.
 
-Elize zag dat de deur een klein beetje openbleef. Hij sloot net niet helemaal. 
+And so it happened that they also sold their famous refrigerator. Two strong men carried it over the gravel path, while puffing and complaining under the hot sun.
 
-Ze wist precies wat er aan de hand was. 
+"Is it _supposed_ to be this heavy?"
 
-Kuku had keer op keer iets getekend over grasvelden, zon, huppelen, ontsnappen. Misschien begreep ze al eerder wat Kuku bedoelde, maar nu wist ze dat het toch echt waar was.
+"I heard they survived an explosion in this thing," the other said. "Must be good material."
 
-Ze liep naar de koelkast en legde haar hand erop. Ze huilde hardop, terwijl haar vingers over de koelkast wreven. "Zet ... zet deze maar op dat weiland, net buiten het hek."
+"Good or not, I need a break."
 
-De mannen fronsten. "Zodat je ... eh ... nog even afscheid kunt nemen ... van een koelkast?"
+Elize noticed the door refused to close fully. She realized what was going on.
 
-Elize knikte en veegde wat tranen weg. 
+Kuku had drawn grass, sun, and hopping freely, again and again. Maybe she understood what Kuku wanted to say months ago, but refused to believe or admit it.
 
-"Ik hoop dat je daarbuiten gelukkiger bent," mompelde ze. De deur ging ietsje verder open. Ze voelde naar binnen en streelde een zachte, warme vacht. 
+She walked to the fridge and placed her hand on top. She cried loudly, as her fingers caressed the refrigerator.
 
-"Kom soms even terug, oké?"
+"Why don't you ... place this one in that meadow over there, just outside the fence."
 
-De mannen tilden de koelkast onhandig verder, met het idee dat ze een heilig voorwerp vasthielden. Ze glimlachten naar Elize en probeerden voorzichtig ermee om te gaan.
+The men frowned. "So that, erm, you can ... say your goodbyes ... to a refrigerator?"
 
-De volgende ochtend lag de koelkast op z'n kant, de deur open, met een leeg binnenste.
+Elize nodded and pushed away the tears.
+
+"I hope your happier out there," she mumbled. The door opened slightly further. She reached inside and felt a soft, warm ball of fur.
+
+"Come back sometimes, okay?"
+
+The men carried the refrigerator further, awkwardly now, feeling like it was some holy object of great significance. They smiled at Elize and tried to be careful.
+
+The next morning, the refrigerator lay on its side, door wide open, with nothing held inside.
 
 &nbsp;
 
-_En zo ging het leven door ..._
+_And so it was that life continued ..._

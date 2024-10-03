@@ -1,154 +1,163 @@
 ---
-title: "Boerderij Ontsnapping"
+title: Escape Farm
 weight: 5
 ---
+Kuku tried to draw the escape plan. It had taken days before she came up with that solution, _and_ Harry was gone for a bit, which meant it was already Friday tomorrow.
 
-Kuku probeerde het ontsnappingsplan te tekenen. Het had dagenlang geduurd voordat ze deze oplossing bedacht, én Harry even uit de weg was, waardoor het morgen al vrijdag was. 
+For her first attempt, she dirtied her front paws and tried to paint on the bedroom floor. That was a mess. One of which Elize disapproved.
 
-Bij haar eerste poging maakte ze haar voorpoten vies en probeerde de slaapkamervloer te beschilderen. Dat werd een rotzooi. Eentje waarmee Elize ook niet bepaald blij was. 
+She kept repeating how wonderful it was that Kuku could _think_ and tried to _talk_ to her. She compared it, repeatedly, to a broccoli who suddenly had brains.
 
-Maar ze kon niet al te boos zijn, want ze bleef herhalen hoe wonderbaarlijk het was dat Kuku kon _nadenken_ en met haar probeerde te _praten_. Ze vergeleek het meermaals met broccoli die plotseling hersenen had.
+A while later, Elize shoved a pile of white rectangles in front of Kuku. She called it _paper_. She also pushed a pencil into her mouth.
 
-Even later schoof Elize een stapel witte vierkanten onder haar neus. Ze noemde het _papier_. Ook stopte ze een potlood in haar mond.
+_Cows never communicated with symbols or drawings, dear reader. Not since the Babblebrothers. It's now just a human invention, and a late one at that. Fortunately, Kuku had lived on this farm her whole live had had regularly studied the symbols on the walls and fences._
 
-Koeien communiceerden nooit iets met symbolen of tekeningen. Dat was echt een mensending. Gelukkig had Kuku haar hele leven op deze boerderij geleefd, waar allerlei symbolen op de muren en hekken stonden. 
+She drew and drew. Halfway through, Elize had to put the pencil into some sort of machine to sharpen it again. Then she continued.
 
-Ze tekende en tekende. Halverwege moest Elize het potlood in een apparaatje stoppen om hem weer scherp te maken. Daarna kon ze weer door.
+Personally, she felt she'd drawn the plan _pretty clearly_ on the paper.
 
-Ze vond zelf dat het plan _nogal_ duidelijk op papier stond.
+"You want we me to ... step inside a box?"
 
-"Je wil dat ik in een kist ga zitten?" 
+Elize scraped her chin. "And fly on the back of a chicken? And then throw two soccer balls at a fat---oh, that's my dad. And the other one ... are either blades of grass, or you're trying to draw that woman Beatrix?"
 
-Elize krabde over haar kin. "En ga vliegen op de rug van een kip? En dan twee voetballen gooi naar een dikke---oh, mijn vader. En is die ander ... zijn dat grassprieten, of probeer je nu die Beatrix uit te beelden?"
+She looked questioningly. Kuku sighed and adapted the drawing.
 
-Elize keek vragend. Kuku zuchtte en paste de tekening aan. 
+"Sorry, I don't recognize that animal."
 
-"Sorry, die diersoort ken ik niet."
+Kuku wanted to ask if there was something wrong with Elize's eyes. She refrained from mooing. Harry still walked around here somewhere looking for that "devilish cow".
 
-Kuku wilde vragen of er iets mis was met Elize's ogen. Ze hield zich in. Harry liep rondom het huis en was nog steeds op zoek naar "dat verdraaide koeienjong". 
+Her third attempt was much better.
 
-Bij de derde poging was het raak.
+"Oh! That is the _gate_. And that is a _truck_. And you ... you ..."
 
-"Oh! Dat is de poort. En dat een vrachtwagen. En jullie ... jullie ..." 
+She patted Kuku on her head. "You are going to escape. Of course."
 
-Ze aaide Kuku over de bol. "Jullie gaan ontsnappen. Natuurlijk."
+Kuku recognized the noises of _gate, truck_ and _escape_. She nodded.
 
-Kuku herkende de klanken van _poort_, _vrachtwagen_ en _ontsnappen_. Dus ze knikte haar hoofd. 
+Elize smiled. "You can understand me---or, well, a little bit. A little itty-bitty bit. You can _understand me_! Sorry I called you a stupid animal. Sorry, sorry."
 
-Elize glimlachte. "Je kan mij begrijpen---nou, ja, een klein beetje dan. Een piepklein beetje. Je kan mij gewoon begrijpen! Sorry dat ik je een dom beest noemde. Sorry, sorry."
+Kuku had no clue about all of that, but she smiled back.
 
-Kuku wist echt niet wat ze nu allemaal uitkraamde, maar ze glimlachte terug.
+Footsteps on the stairs. Had Kuku been drawing that long? She hastily jumped below the bedsheet. 
 
-Voetstappen op de trap. Had Kuku zó lang getekend? Ze sprong gehaast onder de dekens. Elize pakte alle papieren, klaar om ze te verfrommelen. 
+Elize grabbed the papers and crumpled them. No, she wanted to save them! She shoved the pile inside one of her schoolbooks, then threw her bag in front of the bump created by Kuku.
 
-Nee, ze wilde de tekeningen toch bewaren, dus ze schoof de stapel in een schoolboek. Haar schooltas gooide ze voor de bobbel die Kuku maakte.
+The bedroom door opened.
 
-De slaapkamerdeur zwaaide open. 
+"Elize, child, I worry about you."
 
-"Elize, meid, ik maak me zorgen." Harry liep naar de rand van het bed. Elize ging languit liggen om de hele plek te blokkeren, haar benen onder een vreemde hoek.
+Harry walked to the edge of the bed. Elize lay down in an awkward position to block the space, her legs angled as if they were broken.
 
-"Hoezo? Ik ben toch hartstikke normaal?" 
+"Why? I am very normal, yes."
 
-Kuku moest niezen. Elize klapte een ritme in haar handen om het geluid te verbergen.
+Kuku sneezed. Elize tapped a rhythm with her hands to hide the sound.
 
-Harry duwde toch haar benen opzij om te gaan zitten. "Ik hoor je de laatste dagen tegen jezelf praten."
+Harry pushed her legs aside to sit down. "I heard you talk to yourself the past few days."
 
-"Dat helpt met leren. Voor school. En ik heb zóveel te leren, pap, dat ik niet kan worden gestoord!"
+"It helps me learn. For school. And I have _so much_ to learn, dad, so I shouldn't be interrupted!"
 
-Harry's buik schuurde langs de schooltas, waardoor die nog harder tegen Kuku drukte. Ze kreeg al nauwelijks adem. Nu ging de paniekmodus aan en voelde het alsof haar longen alleen nog leegliepen.
+Harry's belly scraped the schoolbag, pressing it deeper into Kuku's skin. She could barely breathe. Her longs felled unable to attract new air and a panic settled on her body like a heavy cloak.
 
-"Ik ... ik heb je nodig, schat. Zorg alsjeblieft dat je tijd houdt voor het boerderijwerk."
+"I ... I need you, child. Please make sure you take enough time to do your farm duties."
 
-"Waarom doe je niet wat mijn schooldirecteur zei? Andere mensen inhuren?"
+"Why don't you do what my school principal said? Hire other people?"
 
-"We hebben het geld niet!" 
+"We don't have the money!"
 
-Harry pulkte aan een beginnende snor. Geen wonder dat de snor nooit verder groeide, als hij altijd zo hard eraan pulkte. 
+Harry picked at the beginnings of a moustache. No wonder it never grew into a serious moustache, with the way he nervously stretched it.
 
-"Niemand wil werken op een boerderij," zei hij somber. "Ze zitten liever in een kantoor, met hun diploma's, websites te bouwen en weet ik veel wat. Alsof ... alsof ze denken dat hun eten uit de lucht komt vallen. Alsof ze denken dat je eieren kunt groeien met een computer."
+"Nobody wants to work on a farm," he said somberly. "They'd rather sit in an office, with their degrees, building ... websites or whatever. As if ... as if they think their food falls from the sky! As if they think you could grow eggs with a computer!"
 
-Hij leunde voorover. Kuku's buik werd geplet. Frisse lucht was nergens meer te vinden.
+He leaned forward. Kuku's belly was squashed. Fresh air was a commodity.
 
-"Het is alleen jij en ik, Elize. Alleen jij en ik---Boerin Elize!"
+"It's just you and me, Elize. Just you and me---Farmer Elize!"
 
-Kuku schudde onder de dekens. Haar lichaam schreeuwde om lucht. Dadelijk zou ze in paniek naar boven springen, dekens van haar af, als een dolfijn die uit het water kwam.
+Kuku wriggled below the sheets. Her body screamed for air. She was about to jump out of there and kick way the covers, surfacing like a dolphin.
 
-Elize merkte het. Ze stond snel op en pakte haar vader bij de hand. "Als ik mijn titel _Boerin Elize_ wil behouden, moet ik natuurlijk wel helpen op de boerderij!"
+Elize quickly stood and grabbed her father's hand.
 
-Harry stond op, met een kreun van zowel hem, het bed, als Kuku. Ze verlieten de kamer. 
+"Well, if I want to keep my title _Farmer Elize_, then I should indeed help on the farm!"
 
-Kuku verliet snel de verstikkende dekens.
+Harry stood as well, dragged by Elize. Both he, the bed, and Kuku groaned.
+
+They left the room; Kuku quickly left the suffocating sheets.
 
 ___
 
-Vrijdagochtend, bijna middag. Elize wist van het plan. Kuku wist niet zeker of ze het helemaal _begreep_, maar ze zou in ieder geval helpen.
+Friday morning, almost afternoon. Elize knew about the plan. Kuku wasn't sure she fully _understood_, but she'd at least help out.
 
-Het waren lange dagen geweest. De hele dag school en dan tot 's avonds laat werken. Dus Elize had geslapen totdat het bijna middag was. Bijna tot het moment dat de vrachtwagens kwamen.
+The days had been long. Long schooldays, then work on the farm until midnight. And so Elize had slept until it was almost afternoon. Until the moment the trucks would come again.
 
-Harry had op haar gewacht met het ontbijt. Hij had zelfs een feestmaal klaargemaakt. 
+Harry had prepared a special breakfast for her.
 
-Elize viel aan op de volle tafel. Ze pakte snel een stuk kippenvlees en een gebakken ei groter dan haar schoolboeken. Kuku keek toe, glurend langs een deur, staand op de trap. 
+Elize attacked the delicious foods on the table. She grabbed a large chicken wing and a fried egg larger than her schoolbooks.
 
-Maar zelfs in haar enthousiasme, was Elize ook verbaasd. "Ik dacht dat we geen geld hadden?" fluisterde ze. "Of ben ik mijn eigen verjaardag vergeten?"
+Kuku watched. She stood on the stairs and spied through the half-open door.
 
-"Kind, ik wilde je verwennen! Na alles wat je voor ons hebt gedaan. Onze laatste levering eieren en melk heeft geweldig verkocht."
+Even in her excitement, Elize was surprised too.
 
-Haar vork prikte al in het kippenvlees, toen ze hem liet vallen. 
+"I thought we had no money for this?" she whispered. "Or did I forget my own birthday?"
 
-"Dit zijn onze eigen kippen," fluisterde ze nog zachter. "Of niet?"
+"Child, I wanted to spoil you for once! After all you did for us. Our last shipment of eggs and milk sold _very well_!"
 
-Harry keek weg. Hij dacht tien seconden na over een smoesje, maar kwam met niks. Uiteindelijk zuchtte hij. "Dan zal ik het slechte nieuws maar meteen vertellen."
+Her fork jabbed into the chicken meat. Then she dropped it.
 
-"Je hebt toch niet die rode iets aangedaan!? Met die soort-van-sproetjes en die zwarte vlek op de vleugels als een tattoo en---welk slecht nieuws?"
+"These are our own chickens," she whispered softly. "Aren't they?"
 
-Harry legde een stapel papieren op tafel. Contracten, veel cijfertjes, en de lijst van Beatrix waaraan hij moest voldoen. 
+Harry looked away. He probably considered some excuse for ten seconds, but found nothing. He sighed.
 
-"Ik kan de boerderij niet opknappen, Elize, al zou ik het willen. De enige manier om te voldoen, is als we de helft van onze dieren slachten."
+"Then I'll tell you the bad news now."
 
-"PAP?"
+"Don't tell me you hurt the red one! With the sort-of-freckles and the black spot on her wings like a tattoo and---what bad news?"
 
-"Het is de _enige_ manier, Elize." Hij sloeg zijn hand op tafel en had er meteen spijt van. 
+Harry placed piles of paper on the table. Contracts, many numbers, and Beatrix' list of requirements.
 
-Elize stond op, al dat lekkere eten onaangeraakt. Ze rende naar buiten en Harry volgde. 
+"I can't renovate the farm, Elize, even if I wanted to. The only way to comply is by slaughtering half our animals."
 
-Kuku kon ongezien door de keuken en daarna afslaan naar de onzichtbare schuur. Daar zouden de andere dieren klaarstaan.
+"_DAD?_"
 
-"Denk na," riep Harry in de verte. "We komen niet meer boven vijftig dieren uit. We kunnen die andere stal laten afbreken. We kunnen de dieren eindelijk genoeg _ruimte_ geven. De opbrengst van het vlees zorgt dat ik de boerderij een beetje kan opknappen. We zouden ... we zouden een _machine_ kunnen kopen om te melken!"
+Father's hand slammed the table; he regretted it instantly.
 
-Elize kalmeerde. "Een machine? Niet meer met de hand de hele tijd ..."
+"It is the _only_ way, Elize."
 
-"Ja! Ze hebben machines voor alles tegenwoordig. Als we die kopen, wordt alles _beter_. We zouden ... we zouden eens een avond vrij kunnen nemen."
+Elize stood, leaving the delicious food untouched. She ran outside; Harry followed.
 
-Elize stond lange tijd stil, onzeker of ze verder wilde wegrennen. 
+Kuku could enter the kitchen unseen, then take a turn to the invisible shed. The other animals would stand at the ready there.
 
-Ze knuffelde haar vaders benen. Hij tilde haar op voor een fatsoenlijke omhelzing. 
+"Think about it," yelled Harry in the distance. "We'd have less than fifty animals. We could just break down the other barn. We can finally give our animals enough _space_! The profit from that meat could be put into some small renovations. We could ... we could buy a _machine_ to do the milking for us!"
 
-"Ik mis mam," fluisterde ze.
+Elize calmed down. "A machine? No more milking with hands and ..."
 
-"Ik ook, lieverd, ik ook."
+"Yes! They have machines for _everything_ nowadays. Once we buy one, everything will be better. We could ... we might even be able to take a night off every now and then."
 
-Harry leidde zijn dochter aan de hand terug naar de keuken, waar ze toch samen genoten van het lekkere eten.
+His daughter hesitated. Then she hugged Harry's legs, until he caught her and lifted her from the ground for a proper hug.
 
-Kuku stapte definitief in de schuur. De dieren stonden klaar. Niet allemaal, maar zeker de helft van de boerderij.
+"I miss mom," she whispered.
 
-"Je weet _zeker_ dat die heks ons helpt?" bromde een koe.
+"Me too, child, me too."
 
-"Dit was een fout," zei een andere koe.
+Hand in hand, Harry led his daughter back to the kitchen. They enjoyed the delicious meal anyway.
 
-"Ze eet gezellig kip met de duivel. Dit plan gaat mislukken."
+Kuku stepped inside the shed. The animals were ready. Not all of them, but surely half the farm.
 
-De andere dieren bromden hun eigen geklaag, maar die kon Kuku niet vertalen. 
+"You're _sure_ that witch will help us?" grunted a cow.
 
-"Mooh! Ze gaat ons _helpen_. Geloof me nou," zei ze, maar ze wist niet wie het nog wilde horen.
+"This was a mistake," said another cow.
 
-Ze had Hess nodig. Waar was hij? Oh, die was al vooruit gerend. De vrachtwagens kwamen al. 
+"She's eating chicken with the devil. This plan will fail."
 
-De poort opende.
+The other animals grunted their own complaint, but Kuku could not translate that.
 
-Hess beukte zijn grote lijf ertegenaan. Ze kon niet goed zien wat hij deed, maar de poort bleef _open_. Misschien wilde iemand hem daarom wel vangen. Hij was zo ongelofelijk groot en sterk, zelfs nu hij ... hoe _oud_ was hij eigenlijk?
+"Mooh! She will _help_ us. Believe me," she said, though she wasn't sure who wanted to hear it.
 
-De vrachtwagens kwamen tot stilstand met veel gepiep en gepuf. Harry rende naar buiten, Elize achter hem aan, nog druk kauwend.
+She needed Hess. Where was he? Oh, he'd already done his part. The trucks had already arrived.
 
-Kom op. Kom op! Leid Harry af. Geef het sein. Had ze begrepen dat ze een sein moest geven?
+The gate opened.
 
-Niet lang na de vrachtwagens, racete plotseling ook een wit busje door de poort.
+Hess pushed his massive body against them. She couldn't see how he did it, but the gates _stayed open_. Maybe that's why someone wanted to capture him. He was unbelievably big and strong, even in his ... how old _was he_?
+
+The trucks came to a halt amidst peeping and puffing. Harry ran outside, with Elize behind him, still chewing something.
+
+Come on. Come on! Distract Harry. Give the signal. Had she understood she was supposed to give a _signal_?
+
+Not long after the arrival of the trucks, however, suddenly a white van also raced through the open gates.

@@ -1,130 +1,147 @@
 ---
-title: "Boerderij Verklapt"
+title: Revelation Farm
 weight: 7
 ---
+Where was Harry? The earth shook under his boots, but Kuku couldn't figure out from where the noises came. Why did it have to be _circles_ in the grain? Whatever direction she chose, she'd eventually meet Harry.
 
-Waar was Harry? De grond dreunde door zijn laarzen, maar Kuku wist niet uit welke richting het kwam. Waarom moesten het _cirkels_ zijn in het graan? Welke richting ze ook koos, ze zou uiteindelijk Harry tegenkomen. 
+Her only hope was to move just as quickly as him through the maze of grain. Forever. Or, well, until one of them tired.
 
-Haar enige hoop was om precies even snel te bewegen als hij, voor altijd, of, nou ja, totdat een van hen genoeg ervan kreeg.
+That was no solution.
 
-Dat was geen oplossing.
+Hess calmly walked beside her. Ten steps for her meant one step for him. He wasn't interested in escaping: he kept pausing to inspect a specific patch of dirt.
 
-Hess liep rustig naast haar. Tien stappen van haar betekenden één stap van hem. Hij was helemaal niet bezig met vluchten: hij bleef steeds staan om de grond te voelen.
+"My little cow! Cowie!" yelled Harry. "Come here! I want to give you a nice snack!"
 
-"Koetje koetje!" riep Harry. "Kom hier! Ik wil je wat lekkers geven!"
+Kuku had to laugh. Did humans really think that _worked_? Any time she'd heard the noise _cowie_ in her life, Harry was about to do something mean.
 
-Kuku moest bijna lachen. Dachten mensen nou echt dat _dat_ hielp? Elke keer als ze het geluid _koetje_ had gehoord in haar leven, was Harry iets vervelends van plan.
+Harry quickened his pace. Kuku couldn't move much faster and the Hespryhound lacked the power now to put her on his back. The electric shock from Beatrix' device had hurt him badly.
 
-Harry versnelde zijn pas. Kuku kon niet veel sneller, maar de Hespryhond had niet meer de kracht om haar op de rug te nemen. De stroomstoot van het apparaat had hem veel pijn gedaan. 
+Was it even an electric shock? Maybe those alien creatures had something stronger. Something to turn off magic.
 
-Was het wel een elektrische schok? Misschien hadden die buitenaardse wezens wel iets sterkers, of iets om magie uit te zetten.
+Only one option remained, really. Run back home and hope Elize would protect her once more.
 
-Er was eigenlijk maar één optie. Terugrennen naar het huis, hopen dat Elize daar weer was om haar te beschermen.
+"I buried the Stone of Destinydust somewhere below this field," whispered Hess. "I forgot where. It's been _centuries_."
 
-"Ik heb de Steen van Zekerstof ergens onder dit veld begraven," fluisterde Hess. "Maar ik weet niet meer precies waar. Het is immers al _eeuwen_ geleden."
+"This is not the moohment for an investigation!"
 
-"Dit is niet het moohment voor onderzoek!"
+"Kuku. Do you have any clue as to the _power_ of that stone?"
 
-"Kuku. Heb je enig idee wat die steen doet?"
+She tried to estimate the fastest route back home. She would have to create another path through the grain, then run in a straight line to the wide open kitchen door.
 
-Ze probeerde de beste route naar het huis in te schatten. Ze moest sowieso een extra pad maken door het graan, en dan in een rechte lijn naar de keukendeur die nog openstond. 
+"Erm ... the Stone of Destinydust makes grass grow? And sheds invisible? Something with fertilizer?"
 
-"Eh ... de Zekerstof laat gras groeien? Maakt schuurtjes onzichtbaar? Iets met kunstmest?"
+Hess kept using his front paws as feelers. "Those are side effects. No, whoever controls the Destinydust, can turn _any particle_ into _any other_. You're able to turn mud into gold. You're able to turn wood invisible. You're able to grow _glass_ as if it was a plant. If we want to defend ourselves against the alien creatures, we'll need that."
 
-Hess bleef met zijn voorpoten de grond aftasten. "Dat zijn bijwerkingen. Dingetjes die zomaar gebeurden. Wie de steen beheerst, kan elk stofje in andere stofjes veranderen. Je zou modder kunnen veranderen in goud. Je zou hout onzichtbaar kunnen maken. Je kan glas laten groeien alsof het planten zijn. Als we ons willen verdedigen tegen die buitenaardse wezens, hebben we het ding nodig."
+"Or defend against Harry..." said Kuku's wavering voice. She hadn't heard his footsteps in a while now.
 
-"Of tegen Harry verdedigen ..." zei Kuku met trillende stem. Ze hoorde al een tijdje geen voetstappen meer.
+But he wouldn't give up that easily.
 
-Maar zo snel gaf hij het niet op. 
+Of course not.
 
-Natuurlijk niet.
+Stalks of grain bent aside as two fat hands came for her like birds of prey. Kuku mooed loudly; Harry placed one hand against his ear. His other grabbed her back paw tightly.
 
-Graanstengels spleten opzij toen twee dikke handen als roofvogels op haar afkwamen. Kuku loeide zo luid dat Harry één hand tegen het oor plaatste. Zijn andere greep haar achterpoot klemvast.
+Hess jumped in front of her and bit the hand until it let go. Harry furiously lashed out and hit the watchdog in his face.
 
-Hess sprong voor haar en beet de hand los. Harry sloeg wild om zich heen en raakte de waakhond in het gezicht. 
+Kuku ran away. In the direction she _thought_ was the right one. Grain hit her eyes and ears, and turned her into a cow with yellow splotches, as she broke one stalk after another and created a new path in the maze.
 
-Kuku rende in de richting die ze had besloten. Graan sloeg in haar ogen en oren, en al snel was ze een koe met gele vlekken, terwijl ze de stengels afbrak en een rechte lijn naar het huis maakte.
+She exploded out of the grain. As if she'd been under water for hours and finally resurfaced, gasping for air. She was right! Within ten seconds, she'd sprinted into the home.
 
-Ze explodeerde uit het graanveld. Alsof ze minutenlang onder water had gezeten en eindelijk weer lucht kreeg. Ze had gelijk! Ze sprintte binnen tien seconden het huis in.
+There she looked back. Harry had brought heavy chains. Now he led the Hespryhound behind him like a slave.
 
-Daar keek ze achterom. Harry had stevige ketens gepakt en leidde de Hespryhond, een magisch Hemelvoorwerp, achter zich aan als een slaaf.
+"Now I moohst save you too," she whispered.
 
-"Nu mooht ik jou ook nog redden," fluisterde ze verdrietig, waarna ze de trap oprende. Elize's slaapkamerdeur stond open. Ze zat op bed, rug naar de deur, terwijl ze zelf probeerde een verband om haar arm te doen. Haar rode krullen waren zo lang dat ze bijna haar hele lichaam verborgen.
+She climbed the stairs. Elize's bedroom door stood ajar. She sat on the bed, back to the door, as she tried to wrap bandages around her own wounded arm. Her red curls were so long they almost hid her entire body.
 
-"Ga weg!" schreeuwde ze. 
+"Go away!" she screamed.
 
-Kuku bleef staan in de deuropening. Ze sloop dichterbij en duwde voorzichtig haar zachte vacht, vol plukjes graan, tegen Elize.
+Kuku froze in the doorway. She crept closer and pushed her soft fur, filled with specks of grain, against Elize.
 
-Die duwde Kuku aan de kant met haar goede arm. 
+She pushed Kuku back with her good arm.
 
-"Vader had gelijk. Jullie zijn dom en werken altijd tegen. Dankzij _jou_ is dadelijk ... dadelijk ... mijn leven voorbij!"
+"Father was right. You are _stupid_ and you never _work together_. Thanks to _you_ my life ... my life ... my life will soon be over!"
 
-Kuku hoorde de voordeur opengaan en Harry schreeuwen tegen zijn hond. Elize had de schuur _gezien_. Ze was misschien boos, ze zei van alles, maar de Steen van Zekerstof had besloten dat zij waardig was. Dat zij de natuur genoeg begreep om het te mogen zien.
+The front door opened. Harry yelled at his dog.
 
-Dan moest Kuku haar ook vertrouwen, ook al kostte het moeite. 
+Elize had _seen_ the shed. She might be angry, she might say a lot of things, but the Stone of Destinydust had decided she was _worthy_. That she understood nature enough to see its invisible stones.
 
-Ze kroop toch dichterbij Elize, die probeerde met haar tanden het verband vast te houden, terwijl haar arm het moest knippen en vastplakken. Het lukte voor geen meter.
+Then Kuku should trust her too, no matter how hard it was.
 
-Dus Kuku greep het verband en hield het voor haar op de juiste plek. Elize maakte snel het werk af, mompelend en zuchtend. Daarna duwde ze Kuku weer opzij, waardoor ze achterover op het tapijt viel.
+She snuck closer to Elize again. The girl tried to hold the bandages with her teeth, as her good arm had to cut them and wrap them in the right place. This was near impossible to do alone.
 
-Deze keer glimlachte ze erbij. "Domme, lieve Kuku. Jij begrijpt vast totaal niet wat je hebt gedaan, of wat er gebeurt. Jij ... jij wil gewoon in een grasveld staan, in het zonnetje." 
+So Kuku grabbed the bandages and held them in the right spot for her. Elize quickly finished the job, mumbling and sighing. Then she pushed Kuku aside again, and the cow tumbled backward onto the carpet.
 
-Elize keek voor haar uit en fluisterde. "Ik ook."
+This time, though, she smiled.
 
-Ze wilde Kuku kietelen in de buik, maar kon de beweging niet maken met haar verwondingen. "Lieve, gevaarlijke Kuku. Je moet weg. Voordat nog meer gewonden vallen. Voordat---"
+"Stupid, sweet Kuku. You probably don't even understand what you did or what's happening. You ... you just want to stand in the meadows, enjoying some sunlight."
 
-De slaapkamerdeur zwaaide piepend open.
+Elize gazed out the window and whispered: "Me too."
 
-Ze hadden dit al zo vaak geoefend. Kuku sprong onder de dekens, Elize gooide iets ervoor, en ze deed vooral alsof ze op bed zat te lezen of te werken.
+She wanted to tickle Kuku's belly, but couldn't do the movement because of her wounds. 
 
-Maar nooit hadden ze het geoefend met verwondingen.
+"Sweet, dangerous Kuku. You must leave. Prevent more injuries. Before---"
 
-Kuku stak nog half boven de dekens uit en Elize was nog niet eens in beweging gekomen.
+Her bedroom door swung open with a loud squeak.
 
-Harry's mond viel open. 
+They'd practiced this many times. Kuku jumped underneath the covers, Elize threw something in front of the bump, and she'd pretend to read or work on the bed.
 
-Zijn hand bleef hangen op de deurklink. Het touw in zijn andere hand kletterde op de grond.
+Never had they practiced it while injured.
 
-"Jij ... hebt ..."
+Kuku's behind partially protruded from of the covers. Elize hadn't even moved yet.
 
-"Het is niet wat het lijkt!"
+Harry's mouth forgot to close.
 
-Stoom kwam uit zijn neus en oren. Kuku wriemelde onder de dekens uit en gebruikte Elize als schild. Harry liep er makkelijk omheen, greep Kuku vast onder haar buik, en tilde haar van de grond. Zijn andere hand voelde over de vloer naar het touw. 
+His hand hovered around the door handle. The rope fell out of his other hand and clattered onto the floor.
 
-"Pap! Ze heeft niks verkeerd gedaan. Als je haar vader niet had opgesloten ... als je ... als alles _anders_ was geweest---"
+"You ... have ..."
 
-"Ik dacht dat het alleen jij en ik was." Hij keek Elize recht in de ogen, terwijl het touw strakker en strakker om Kuku's nek draaide. 
+"It's not as it seems!"
 
-"Blijkbaar is het alleen ik."
+Steam erupted from his ears and nostrils. Kuku wriggled free from the covers and used Elize as a shield. 
 
-Elize wilde haar vader tegenhouden. Ze had er de kracht niet voor. Haar vingers waren als vervelende vliegjes die vader makkelijk doodmepte.
+Harry easily walked around her, grabbed Kuku from below, and lifted her off the ground. His other hand searched for the rope on the floor.
 
-Harry bleef staan in de deuropening, een spartelende Kuku onder zijn oksel alsof ze een pakketje van de postbode was. "Je hebt huisarrest! En strafwerk! En dubbele klusjes! En---"
+"Dad! She did nothing wrong. If you hadn't locked up her father ... if you ... if everything had been _different_---"
 
-Elize stond op en veegde de haren uit haar betraande gezicht. "Huisarrest? Ja joh, want normaal gesproken ga ik de hele dag naar vriendinnen toe. Dubbele klusjes? Waarom niet driedubbel? Ik doe toch alles al."
+"I thought it was just you and me." 
 
-"Waar komt---"
+He looked straight into Elize's eyes, as he wrapped the rope tighter and tighter around Kuku's neck.
 
-"Dwing me niet te haten waarvan ik altijd hield!"
+"Apparently it's just me."
 
-Kuku piepte van de pijn terwijl Harry zijn grip verstevigde. "Je krijgt nog een grote bek ook. Vierdubbele klusjes! Ik zet je op een andere school!"
+Elize moved to stop her dad. She lacked the power completely. Her fingers were like annoying mosquitos that Harry easily swatted aside.
 
-"Als je Kuku of Hess iets aandoet---"
+In the doorway, he paused. He held a flailing Kuku below his armpit as if she were a package to be delivered.
 
-"Goed idee, Elize. _Jij_ mag deze keer de straf uitvoeren. Het werd tijd dat je leerde slachten."
+"You are grounded! And I'll find another punishment! Double duties! And---"
 
-Elize explodeerde van het bed, alsof ze van de sterkste trampoline op aarde werd afgevuurd, en stond voor haar vader.
+Elize stood and wiped the tears away.
 
-Ze sloeg hem loeihard in het gezicht. 
+"Grounded? Yeah, sure, because normally I visit my friends _all day_ and go _so many places_. Double duties? Why not triple? I do _everything_ around here anyway."
 
-In zijn verbazing liet hij Kuku vallen en zijn wang rood kleuren. Hij blies zich op als een ballon.
+"Where is this coming---"
 
-"Wat kijk je raar?" schreeuwde Elize. "_Dit is wat je doet bij domme wezens die niet luisteren._"
+"Don't force me to hate what I used to love!"
 
-De ballon liep leeg. 
+Kuku squeaked from the pain. Harry tightened his grip.
 
-Elize dacht Kuku te kunnen pakken, maar Harry hield haar vast. Zijn rug was zo ver gebogen dat hij bijna even lang was als Elize. Zijn stem was bijna onhoorbaar zacht. 
+"And you've grown a big mouth too. Quadruple duties! And I'll send you to a different school!"
 
-"Prima. Over een week sluit onze boerderij. Wie weet waar onze dieren dan terechtkomen. Een eeuwenlange traditie van mijn familie eindigt bij _mij_ omdat mijn dochter meer houdt van _koeien_ dan haar _vader_. Ik hoop dat je al uitkijkt naar arm zijn en je vrijheid verliezen. Uitgelachen worden en in een piepklein rijtjeshuis wonen in de vervuilende stad."
+"If you hurt Kuku or Hess in any way---"
 
-Harry stormde haar kamer uit, met Kuku onder de arm.
+"Great idea, Elize. _You_ may exact the punishment today. It's about time you learned how to slaughter---"
+
+Elize exploded off the bed as if it were the strongest trampoline ever. She made herself as tall as possible, standing before her father.
+
+She hit him in the face with all her strength.
+
+In his surprise, Harry dropped Kuku and let his cheek slowly turn red. He filled himself with air, build up his anger, like a balloon near breaking point.
+
+"What's with the glassy eyes, dad?" screamed Elize. "_This is what you do to stupid animals who won't listen._"
+
+The balloon deflated.
+
+Elize thought she could grab Kuku, but Harry still held her in a death grip. His back was bent, making him nearly as small as his daughter. His voice was weak, almost inaudible.
+
+"Fine. In one week our farm will close. Who knows where our animals will end up. A centuries old tradition in my family ends with _me_ because my daughter loves _cows_ more than her _dad_. I hope you're looking forward to being poor and losing your freedom. Being laughed at by the city snobs and living in a tiny, tiny terraced house in the polluted city."
+
+Harry stormed out of her room, Kuku still under his armpit.

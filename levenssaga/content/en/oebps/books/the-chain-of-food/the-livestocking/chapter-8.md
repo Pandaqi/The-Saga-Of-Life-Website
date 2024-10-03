@@ -1,168 +1,185 @@
 ---
-title: "Boerderij Ruimteschip"
+title: Spaceship Farm
 weight: 8
 ---
+It made Kuku endlessly nervous. It had been _days_ since she was bound, next to Hess, but Harry seemed unsure what to _do_ with her. After they'd pooped in the living room, he let them go outside, but didn't unchain them. The rope around her neck was tied to some metal pipes next to the backyard doors.
 
-Kuku werd er eindeloos zenuwachtig van. Het was nu al dagen geleden dat ze was vastgebonden, samen met Hess, maar Harry leek niet te weten wat hij met hen wilde. Nadat ze in de woonkamer hadden gepoept, mochten ze soms naar buiten. Hun lijn zat vast aan een stel spijkers naast de achterdeuren.
+With each passing day, she grew more confident that Harry would not kill her. Now, however, she was _and_ inside a cage, _and_ chained, _and_ without her parents.
 
-Met elke dag had ze iets meer vertrouwen dat Harry haar niet ging vermoorden. Maar nu zat ze én in een hok, én vastgebonden, én zonder haar ouders. 
+Those were the worst days of her life. No sleep, only worry. No way to move, only pain and fear. No warmth, only walls and cold stones.
 
-Het waren de ergste dagen van haar leven. Ze had het er zo moohlijk mee dat ze niet meer kon slapen.
+Fortunately, Elize came by regularly. She brought a pile of paper again and pushed a pencil between Kuku's teeth.
 
-Gelukkig mocht Elize wel komen. Ze bracht een stapel papier en duwde Kuku een potlood in de mond.
+"What's that? A mushroom?"
 
-"Wat is dat? Een paddenstoel?"
+Kuku continued drawing.
 
-Kuku ging door met tekenen.
+"Yes, I know what a circle is. What does it mean?"
 
-"Ja, ik weet wat een cirkel is, maar wat moet ik ermee?"
+Elize understood her once she'd drawn a crude version of _grain_. Her face went white. 
 
-Pas toen Kuku een soort graanstengel tekende, begreep Elize wat ze bedoelde. Haar gezicht trok wit weg. "_Aliens_ zijn hier geland? Daarvan komen die cirkels in het graanveld? En ze zoeken Hess en ... een kiezelsteen?"
+"_Aliens_ landed here? That's what the crop circles in our grain mean? And they're looking for Hess ... and ... a pebble?"
 
-Kuku wist niet hoe de Steen van Zekerstof er in koeiennaam uitzag. Ze had maar een doodgewone steen getekend. Hess nam het over en tekende het uit tot iets dat inderdaad meer magisch leek.
+Kuku didn't know what the Stone of Destinydust looked like. She had drawn a regular old stone. Hess took the pencil and continued the sketch into something that, indeed, seemed more magical.
 
-"De Steen van Zekerstof!" 
+"The Stone of Destinydust!"
 
-Elize rommelde met haar werkende arm in haar schooltas. Ze pakte een boek en sloeg het open. 
+With her good arm, she rummaged through her school bag. She found a book and opened it to a bookmarked page.
 
-"Ja, dat is hem."
+"Yes. That's the one!"
 
-Haar gezicht klaarde op en haar neusje wiebelde. "_Wij_ hebben dat ding? Onder de grond ergens? Vader zei altijd dat we afstamden van Chef. Dat de schoolboeken niks vertellen over hoe de wereld eeuwenlang door _dieren_ werd geregeerd, en pas beginnen als de eerste mensen verschijnen. Ik dacht altijd dat het een verzonnen verhaaltje was, om mij goed te laten voelen over mijn geweldige familie. Maar ..."
+Her face cleared up and her nose wiggled.
 
-Ze stond op en keek door de ramen naar de velden in de zon. 
+"_We_ have that thing? Below the ground? Dad always said that Chef was our ancestor. That those school books don't say anything about how the world was ruled by _animals_ for centuries, and only start when humans appeared. I always thought it was a fairy tale, made up to make me feel good about the farm and my family. But ..."
 
-"Deze boerderij zou de beste en mooiste van de wereld moeten zijn," mompelde ze. "En wij laten hem over een week sluiten. Als die _aliens_ het niet eerder aanvallen."
+She stood and studied the fields bathed in sunlight.
 
-Kuku was nog altijd verbaasd dat ze het begrip _buitenaardse wezens_ perfect had begrepen bij het tekenen van een dier met drie ogen op voelsprieten. Blijkbaar waren sommige dingen hetzelfde tussen alle diersoorten.
+"This farm should be the prettiest and best in the world," she mumbled. "And we're letting it be closed down in a week. If those ... _aliens_ don't attack earlier."
 
-"Is die Beatrix eigenlijk wel inspectrice?" zei Kuku tegen Hess. "Ze hoort bij die andere organisatie. Die ene die de Hemelvoorwerpen verzamelt. Misschien heeft ze helemaal het _recht_ niet om de boerderij te sluiten!"
+Kuku was still surprised that she'd been able to communicate the concept of _alien creatures_ by drawing an animal with three eyes on top of feelers. Apparently, some images or folklore remained the same among all animals.
 
-Hess schudde zijn vacht. "Het hele idee van die organisatie is dat ze geheim zijn. Alle leden hebben gewoon een baan, een huis, een familie, alsof er niks aan de hand is. Ik denk niet dat dit ons gaat redden."
+"Is that Beatrix even an inspector?" Kuku asked Hess. "She belongs to that other organization you mentioned. The one collecting Heavenmatter. Maybe she doesn't even have the _right_ to close this farm!"
 
-"Wat dan? Hoe verdedigen we ons tegen een ruimteschip die jou komt halen?"
+Hess shook his fur. "The entire idea of that organization is that it's _secret_. All members have a regular job, a home, a family, as if nothing strange is going on. I don't think this assumption will save us."
 
-"Nogmaals, _geheime_ organisatie. Ze willen niet worden gezien. Beatrix hoopt dat de boerderij wordt gesloten. Ze wacht tot alles is ontruimd en niemand meer komt kijken. Dan neemt ze ongezien mij en de steen mee ... en ze is weg."
+"What then? How do we defend against a spaceship coming to get us?"
 
-Elize fronste. Zij had net een gesprek gehoord van alleen maar loeien en blaffen. "Ik begin te begrijpen waarom mijn vriendinnen me gek noemen ..."
+"Again, _secret_ organization. They don't want to be seen. Beatrix hopes the farm will close in a legal way. She waits until everything is cleared out and nobody looks at it anymore. Then she'll take the Destinydust and me, unseen, and ... she is gone."
 
-Achter haar openden plotseling een paar keukenkastjes. Een tel later opende het raam en trok een windvlaag door de kamer.
+Elize frowned. She'd just heard a conversation of mooing and barking.
 
-Elize kroop achter Hess, wit weggetrokken. 
+"I'm starting to understand why my friends call me crazy ..."
 
-"Wij gaan ervan uit dat ze ergens een keer komen, met een groot ruimteschip en zwaailichten," trilde haar stem. "Wat als die aliens _onzichtbaar_ en _onvoelbaar_ zijn---en hier al de hele tijd rondlopen?"
+Suddenly, several cupboards opened behind Elize. A second later, the window opened abruptly and pushed a strong wind into the room. Without a hand or paw to move it, one door unlocked and swung open, while another locked itself.
 
-Kuku wist niet wat ze zei, maar ze voelde haar angst. Even later beseften zij en Hess hetzelfde. 
+Elize crawled behind Hess, white as a sheet.
 
-_Dit,_ dacht ze, _is echt een vervloekte plek._
+"We're assuming the aliens will _come_, with a large spaceship and bright lights and whatnot," said her trembling voice. "What if ... those aliens are _invisible and untouchable_ ... and they have been walking around us all this time?"
 
-Iedereen slaakte een gil toen de woonkamerdeur open zwaaide.
+Kuku did not understand her, but she felt her bone-chilling fear. Not long after, she and Hess realized the same thing.
 
-Het waren geen aliens. Het waren een paar doodgewone dieren. De leider van elke diersoort, waarmee Hess die eerste keer in de schuur had afgesproken. 
+This was truly a cursed place.
 
-Hoezo liepen die los? Op klaarlichte dag? Waar was Harry?
+Everyone yelled when the living room door swung open.
 
-Ze liepen naar de buitendeur.
+No aliens. Just some regular animals. The leader of each animal species, the ones with whom Hess had met in the invisible shed several times.
 
-Harry had de stal geopend en het hek naar het weiland losgezet. Een grote groep dieren wachtte nog in de stal, onzeker. Maar toen steeds meer schapen over de dam gingen, volgde de rest.
+Why ... why were they walking around freely? In the middle of the afternoon? Where was Harry?
 
-Het varken stal het potlood van Kuku en enkele blaadjes.
+They walked to the outside doors.
 
-Na tien minuten moeizaam tekenen, ging Elize door haar knieën en pakte het blaadje op.
+Harry had opened the barn and unlocked the fence to the old pastures. Most animals still waited inside the barn. But once a few sheep had ventured across, most of them followed.
+
+The pig stole Kuku's pencil and some papers.
+
+After a long and painful drawing, Elize picked up the paper and read it.
 
 _Sorry!_
 
-Elize keek boos en deed haar armen over elkaar. "Ik wilde jullie helpen. Jullie hadden kunnen ontsnappen die dag! Maar nee, jullie vertrouwen me niet en lopen me bijna plat. Ik verwacht wel iets meer."
+Elize crossed her arms. 
 
-"Meer?" pufte Hess. "Het is een wonder dat een varken z'n excuses aanbiedt in mensentaal!"
+"I wanted to help you. You could have escaped that day! But no, you didn't trust me and almost killed me. I expect a bit more."
 
-Het varken ging door met tekenen.
+"More?" puffed Hess. "It's a miracle that a pig apologizes in human language!"
+
+The pig continued drawing, grunting from exertion.
 
 _Plan?_
 
-"Maar ... kijk, Harry laat jullie vrij rondlopen! Alles wordt beter, ik beloof het. Willen jullie nog steeds weg?" 
+"But ... look, Harry allows you to walk around now! Everything will be better, I promise. Do you still want to leave?"
 
-Ze kreeg geen reactie. Haar gezocht stond somber. "Nou, ja, we hebben nog steeds nul centjes. Natuurlijk willen jullie weg uit deze vieze hokken. Maar ik weet niet---"
+No reaction. Her face darkened.
 
-Haar mond bevroor halverwege het woord. Iedereen volgde haar blik.
+"Well, sure, we still have no money at all. Of course you want to leave these filthy cages. But I don't know---"
 
-Dieren _stegen op_ vanaf het grasveld.
+Her mouth froze halfway the next word. All followed her gaze.
 
-De hemel was straalblauw, geen ruimteschip te zien. Harry rende over het veld en probeerde de poten van vliegende wezens te pakken om ze omlaag te trekken.
+Animals were _rising_ from the grass.
 
-Elize maakte Kuku en Hess los en rende naar buiten. 
+The sky was clear blue. Not a spaceship in sight. Harry ran across the field and desperately grabbed a flying cow to pull it down.
 
-"De aliens! De aliens!"
+Elize undid the chains on Kuku and Hess, then ran outside.
 
-"Wat?" schreeuwde Harry terug.
+"The aliens! The aliens!"
 
-"Ze zijn er allang!" 
+"What?" yelled Harry.
 
-Buiten adem bereikte ze het weiland, maar sloeg plotseling af, naar het graanveld bij de poort. De dieren renden achter haar aan, hoewel Hess op achterstand raakte, nog steeds niet bijgekomen van die schok. 
+"They are already here! They've been here for a while!"
 
-Elize stak haar armen vooruit en stopte vlak voordat de eerste graancirkel begon. 
+Out of breath she reached the meadows. Suddenly she turned right, to the field of grain near the front gate. The animals followed, though Hess quickly fell behind, still not at full strength after the shock.
 
-"Die graancirkel is geen achtergelaten pootafdruk," zei ze. "De raket staat er _nog steeds_."
+Elize extended her arms and paused just before the first crop circle.
 
-De lucht sloeg om. De zonnige dag werd een duistere nacht, met bliksemschichten die rommelden en zigzagden, totdat ze allemaal eindigden in de punt van een lange raket. 
+"This grain circle is _not_ a footprint left behind," she said. "That rocket is _still there_."
 
-De raket had vleugels aan alle kanten. Daardoor leek het een paddenstoel leek of een parasol. Links en rechts zoog deze parasol nu schapen en koeien omhoog.
+The weather took a dark turn. Sunny skies turned into darkest nights. Lightning strikes rumbled and zigzagged, until they all ended in the sharp tip of a tall rocket.
 
-Onder de raket was het halve veld overhoop gegraven. Meerdere boren, zo dik als een boomstam, draaiden ver de grond in.
+The spaceship had wings on all sides. It looked like a mushroom with a parasol. Left and right, this parasol sucked sheep and cows to itself, lifting them into the air.
 
-"Ze zoeken al wekenlang die Zekerstof," zei Kuku. 
+Below the rocket, half the soil had been destroyed. Multiple drills, thick as tree trunks, twisted and dug deeper and deeper holes.
 
-"Ze moeten al stukjes hebben," zei Hess buiten adem. "Anders konden ze dit niet allemaal voor ons verbergen. Sterker nog ..." 
+"They've been looking for the Destinydust for weeks," said Kuku.
 
-Hess wees met zijn snuit naar de linkervleugel, groter dan de rest en nét een andere kleur blauw. Hij moest schreeuwen over het lawaai. "_De Windvlaagvleugel._ Die versterkt alles. Alle goden nog aan toe, hoeveel Hemelvoorwerpen hebben zij!?"
+"The must have found some pieces already," said Hess, panting. "Otherwise they couldn't have hidden this from us. In fact ..."
 
-De wind zwol aan. De raket leek het middelpunt van een plotse tornado. Harry greep het hek vast om niet zelf vleugels te krijgen. Elize hield zich staande door zich aan een paardenpoot vast te klampen.
+Hess pointed his snout at the left wing. It was larger than the others and painted a _slightly_ different color blue. He had to scream to cut through the noise.
 
-Een wit busje reed over het grindpad. Beatrix stapte uit en glimlachte. 
+"The _Windgustwing_! That amplifies everything. All gods---how many Heavenly Objects do they already have!?"
 
-"Nou, het was leuk zolang het duurde," zei ze gemaakt aardig. "We zullen zo vertrekken, maak je geen zorgen."
+The wind picked up. The rocket seemed the center point of a sudden tornado. Harry clamped the fence to prevent gaining wings himself. Elize held herself to the ground by clinging to a horse.
 
-"Wie _ben_ jij?" schreeuwde Harry. 
+A white van traveled over their gravel path. Beatrix stepped out and smiled.
 
-De windvlagen rukten alle planken los die hij er in paniek op had getimmerd om alle gaten te bedekken. Enkele ramen van het huis barstten en hekken stonden ineens schuin.
+"Well, that was fun while it lasted," she said with pretend kindness. "We'll leave soon, don't you worry."
 
-"Als jullie het niet erg vinden, neem ik jullie hond mee."
+"Who _are_ you?" screamed Harry.
 
-"Dat vinden we wél erg," snauwde Elize.
+The gusts of wind tore the wooden planks of the barn, which he'd attached in a panic to pass the first inspection. Several windows of their home burst, while fences stood increasingly slanted.
 
-"Ah, ook als jullie het wél erg vinden, neem ik de hond mee." 
+"And if you don't mind, we'll take your watchdog too."
 
-Een klep opende aan de zijkant van de raket. Felle groene lichtstralen schoten eruit, als een reusachtige bureaulamp die Hess eens goed wilde bekijken. De bundel van licht trok aan zijn vacht, pulkte eraan alsof het hem wilde kaalplukken, maar hij bleef staan en groef zijn klauwen in de aarde.
+"We _do_ mind," said Elize.
 
-"Misschien krijgen jullie mij. Maar jullie gaan de Zekerstof nooit krijgen."
+"Ah, well, even if you do mind, we'll still take him."
 
-"Oh nee? We zijn al onderweg."
+A latch opened at the spaceship's side. Bright green bursts of light shot out, like a giant spotlight to take a closer look at Hess. The bundle of light pulled on his fur, snatched at it as if to pluck him bare. 
 
-"Hoe lang al? Weken? Maanden? _Jaren_?"
+The Hespryhound stood firm and dug his claws deeper into the mud.
 
-Irritatie flitste over Beatrix' gezicht, maar ze plakte snel weer een glimlach op. "We zijn er bijna."
+"Maybe you get me. But you will _never_ get the Destinydust."
 
-"Ik heb de Steen begraven met magie die zorgt dat je hem niet zomaar kan pakken. Doe mij of mijn vrienden iets aan, en jullie leren nooit het geheim."
+"Oh? We've progressed quite far already."
 
-Luiken klapten open aan _alle_ kanten van de raket. Hun volledige macht werd ingezet om Hess te vangen, van de grond te tillen.
+"How long? Weeks? Months? _Years_?"
 
-Maar ook om ballen van elektriciteit af te vuren op willekeurige doelwitten. Groene lichtflitsen boorden hekken doormidden of zetten bomen in brand. Gele vierkante lichten bereikten de waterbakken en veranderden die in woeste fonteinen en watervallen. Rode lichtflitsen regenden rondom de dieren die losliepen in het weiland, en nu vast terug verlangden naar de veilige stal.
+Irritation flashed over Beatrix' face. She quickly plastered a smile on top of it.
 
-Een paarse kogel knalde precies in één van de stallen en liet hem exploderen.
+"We are almost there."
 
-Hess draaide om en slenterde weg, alsof in zijn rug niet de boerderij in brand stond. "Dan blijft de Zekerstof voorgoed verborgen."
+"I buried the Stone with magic that protects it from being easily stolen. Hurt me or my friends, and you will never learn the secret. You'll be digging for centuries."
 
-Kuku kon haar ogen niet geloven. Hess bleef er zo rustig onder. Ze konden hem maar niet van de grond krijgen. Hij leefde al sinds het begin der tijden, had alles gezien en meegemaakt. Dat was nu te merken.
+Latches opened on _all_ sides of the spaceship. Their entire might was trained on Hess, trying to lift him off the ground and catch him in a beam.
 
-Hun aanvallers stopten met schieten.
+Unsatisfied with the results, the aliens also fired electrical bullets at random targets. Green flashes of light burned through fences or lit trees on fire. Yellow squarish lights reached the water troughs, which turned into wild fountains and waterfalls. Red lasers rained down on the animals roaming the meadows, which longingly looked at the safety of their barn now.
 
-"We onderhandelen!" riep Beatrix snel. "Wat kunnen wij geven, in ruil voor Hess en de Zekerstof? Goud? Macht? Geheimen? Een goede beoordeling van de boerderij? Zeg het maar."
+A purple bullet aimed at one of the barns and made it explode.
 
-"Niks," zei Hess. "Nooit zal ik diegene helpen die mijn Feria hebben vermoord."
+Hess turned around and trudged away casually. As if the farm at his back wasn't on fire.
 
-_Voor de rest, beste lezer, ging dit gesprek in een buitenaards taaltje dat zelfs de mensen niet begrepen. Hoewel veel woorden bekend klonken. Ik zou willen dat ik de Hespryhond had verteld hoe ongelofelijk trots ik op hem was, toen het nog kon. Dat zijn moed te prijzen was, maar dat hij mocht opgeven, want Feria was al zo lang geleden ... al zo lang ..._
+"Then the Destinydust will never be yours."
 
-Beatrix' tanden knarsten. Haar glimlach was ver te zoeken. 
+Kuku couldn't believe her eyes. Hess stayed so _calm_. They just could not lift him off the ground. He had been alive since the dawn of time, had seen everything and everyone. She could see it now.
 
-"Ach, de boerderij moest over een paar dagen toch sluiten. We kunnen het sloopwerk nu alvast beginnen."
+Their attackers stopped firing.
 
-Het ruimteschip onthulde al diens wapens en schoot zonder twijfel.
+"We negotiate!" Beatrix said. "What can we give, to get Hess and the Stone of Destinydust in return? Gold? Power? Secrets? A positive inspection of your farm? Say the word."
+
+"Nothing," said Hess. "Never would I help those who killed my beloved Feria."
+
+_To the others, dear reader, this conversation happened in a foreign language that even humans could not figure out. Though many words sounded vaguely familiar. I often wished I had told the Hespryhound how proud I was of him, when I still could. That I commended his bravery, but that it was okay---it was okay to give up the fight, for Feria had died so long ... so long ago ..._
+
+Beatrix' teeth clenched until they broke. Her smile was far gone now.
+
+"Oh well. The farm will close in a few days anyway. Why don't we start the demolition work early?"
+
+The spaceship revealed _all_ its weapons and shot without mercy.

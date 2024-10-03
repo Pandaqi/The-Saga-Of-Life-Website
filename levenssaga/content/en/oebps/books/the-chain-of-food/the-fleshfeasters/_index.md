@@ -8,10 +8,10 @@ book: true
 timeperiod: 'The First Steps'
 cycle: 'The Chain of Food'
 bundle: "planteaters-fleshfeasters"
-character: ["Feria", "Ardex", "Darus", "Eeris", "Magim", "Higgi", "Hespryhound"]
+character: ["Feria", "Ardex", "Darus", "Eeris", "Magim", "Higgis", "Hespryhound"]
 prequel: ["The Swimming Gate"]
 refers: ["First Carnivores", "CARN Conspiracy", "Firering", "Heavenmatter", "Soulsplitter", "Immortality", "Nightriver", "Aparant River", "Impossible Wall of Darus", "Mayfill", "Saursea", "Mouth of Din", "Origina"]
-happens: ["Allowance of Carnivores", "Creation of Maybemountains", "Fourth Giant Extinction", "Split of Volarde"]
+happens: ["Allowance of Carnivores", "Creation of Maybemountains", "Fourth Giant Extinction", "Split of Volarde", "Metamorphosis of Higgis"]
 teaches: ["Evolution", "Evolution of Carnivores", "Chain of Food"]
 godlink: ["Feria"]
 genre: ["Active", "Scary", "Society", "Educational", "Survival", "Gods", "Travel", "Biology"]

@@ -8,7 +8,7 @@ book: true
 timeperiod: 'The Cloudtority'
 cycle: 'The People of Promise'
 bundle: "rivers-conquerers"
-character: ["Prebuha", "Mamotas", "Megitas", "Kleischepper", "Welpon", "Larsh"]
+character: ["Prebuha", "Mamotas", "Megitas", "Clayskipper", "Welpon", "Larsh"]
 prequel: []
 refers: ["Harap", "Indus", "Heavywater", "Sumiser", "Akradi", "The Great Bathhouse", "Tigres", "Twin Rivers", "Wilderness", "Garda", "Schola"]
 happens: ["Demise of Indus"]

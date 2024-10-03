@@ -1,152 +1,157 @@
 ---
-title: "Boerderij Graancirkel"
+title: Cropcircle Farm
 weight: 6
 ---
+The white van slowed down, then reversed direction, to go back to the gate. None other than Beatrix stepped out. She walked to Hess and asked if he was alright.
 
-Het witte busje remde af en reed een paar meter achteruit, terug naar de poort. Niemand minder dan Beatrix stapte uit. Ze liep naar Hess en keek of alles goed ging met hem.
+"We moohst hurry," yelled Kuku. She already exited the shed, but nobody followed. Not even her parents.
 
-"We moohten haasten," riep Kuku. Ze deed al een stap uit de schuur, maar niemand volgde. Zelfs haar ouders niet.
+"See! Elize isn't working with us---"
 
-"Zie je wel, Elize werkt helemaal niet---"
+Kuku ran back inside.
 
-Kuku haastte weer naar binnen. 
+Harry yelled something and stepped away from the trucks. He walked _through_ the shed, as if it wasn't there, and ran to the other side of the terrain.
 
-Harry schreeuwde iets en stampte bij de vrachtwagens vandaan. Hij liep _door_ de schuur, alsof hij er niet stond, en rende verder naar de andere kant van het erf.
+Was that ... was that a thumbs up from Elize? She could barely see it, and Elize didn't dare give a big signal. Of course not. She didn't even know where the animals were, as she couldn't see the shed. And now Elize had to help load the trucks.
 
-Stak Elize een duim op? Ze kon het niet goed zien, en Elize durfde geen groot sein te geven. Natuurlijk niet. Ze wist niet eens waar de dieren zaten, want ze kon deze schuur niet zien. En nu moest Elize helpen bij de vrachtwagens inladen. 
+"This is the moohment! We go!"
 
-"Dit is het moohment. We gaan!" 
+Kuku left the shed again. She quickly passed the trucks and neared the gates. Hess kept Beatrix busy---and the gates open. He pretended to have accidentally fallen asleep there. His default tactic, apparently.
 
-Kuku sprong naar buiten. Al snel was ze voorbij de vrachtwagens, dichtbij genoeg om de poort goed te zien. Hess hield Beatrix bezig---en de poort open. Hij deed alsof hij sliep en daar toevallig lag. Zijn vaste tactiek, blijkbaar.
+When Kuku started on the gravel path, however, she still didn't feel other footsteps.
 
-Maar toen Kuku begon aan het grindpad, merkte ze nog steeds geen andere voetstappen. 
+She looked back.
 
-Ze keek om.
+She was alone.
 
-Ze stond alleen. 
+The other animals still hid inside the shed or the barn. Yelling at them would've been suspicious now. She stomped the gravel path and ran _back_ again.
 
-Alle andere dieren bleven in de schuur of in hun stal. Ze wilde roepen dat ze moesten komen, maar dat was zéker verdacht. Ze stampte het grindpad nog platter en rende geïrriteerd terug.
+Elize had wiggled her way out of her duties loading the truck. And now she stood ...
 
-Elize had haarzelf onder het werk uitgekregen. En nu stond ze ...
+She leaned against the invisible shed.
 
-Ze leunde tegen de onzichtbare schuur.
+"Where did _this thing_ come from?" said her voice with a crack. "Did this shed always exist? No, right?"
 
-"Waar komt dit ding vandaan?" zei ze met overslaande stem. "Was deze schuur er altijd al? Nee toch?"
+She opened the door. Nearly fifty cramped animals looked back with fear.
 
-Ze duwde de deur voorzichtig open. Bijna vijftig opgehokte dieren keken haar angstig aan.
+"Go then! Go!"
 
-"Ga dan!" 
+Elize stepped inside. The animals stepped backwards, back against the wall.
 
-Elize stapte naar binnen. De dieren stapten achteruit, met de rug tegen de muur. 
+"Harry will be busy for ten more minutes. The gate is _open_. Go! Flee!"
 
-"Harry is nog tien minuten zoet. De poort is _open_. Ga! Vlucht!"
+Chickens cackled. Pigs grunted. Horses snorted.
 
-Kippen kakelden. Varkens knorden. Paarden briesten.
+Kuku could only understand the cows: "She knows our secret hiding place! She's betraying us! Flee!"
 
-Kuku kon alleen haar eigen koeien verstaan: "Ze kent onze geheime plek! Ze verraadt ons! Vlucht!"
+The howling animals stormed from the shed, as if Elize didn't exist, pressing the fragile girl flat against the wall. She screamed in pain. Scared to death, she crawled away from them, nearly trampled beneath heavy cowsteps.
 
-De dieren stormden krijsend de schuur uit, alsof Elize niet bestond, waardoor het fragiele meisje tegen de muur werd gedrukt. Ze schreeuwde van de pijn. Doodsbang kroop ze weg van de horde dieren, bijna vertrappeld onder zware koeienpoten.
+Kuku watched how all the animals neatly returned to their square meter inside the barn.
 
-Kuku keek toe hoe alle dieren netjes teruggingen naar hun vierkante meter in de stal. 
+This was stupid. Her yell echoed across the entire farm: "Come to me! The gate is open!"
 
-Nu was ze er hélemaal klaar mee. Ze schreeuwde over de hele boerderij. "Kom naar mij! De poort is open!"
+She stepped forward again, showing everyone they were _free to leave_. Slowly, some animals left their barn again. The pigs spoke with each other.
 
-Ze stapte alvast vooruit, om te laten zien dat de weg naar vrijheid open was. Langzaam kwamen enkele dieren weer uit de stal. De varkens zeiden iets tegen elkaar.
+The truck driver scratched his forehead. "Seen lotta strange things on farms, but this ..."
 
-De vrachtwagenchauffeur krabde aan zijn voorhoofd. "Veel rare dingen gezien op boerderijen, maar dit ..."
+Elize stood with difficulty and felt the shed wall. She was wounded, but paid it no mind. She looked as if she'd never seen a building before in her life and her fingers tested if the wood was even real. If it wasn't an illusion or dream.
 
-Elize stond moeizaam op en voelde de wand van de schuur. Ze was gewond, maar besteedde er geen aandacht aan. Ze keek alsof ze voor het eerst een schuur zag in haar leven en testte steeds opnieuw of het wel echt hout was. Of het geen illusie was waar ze dadelijk doorheen viel.
+They'd hesitated for too long.
 
-Ze hadden te lang getreuzeld. 
+The gate started to close. Hess ran to Kuku in a panic, Beatrix after him, clipboard in her hand as if she were about to throw it. He yelled something, but the words were in a language that Kuku had never heard.
 
-De poort begon te sluiten. Hess rende in paniek richting Kuku, Beatrix achter hem aan, klembord in haar hand alsof ze hem wilde gooien. Hij schreeuwde iets, maar het was in een taal die Kuku nog nooit had gehoord.
+When he reached her, he curled his front paw around her body and placed her on his _back_ without effort. He ran back to the gate, which had narrowed to the point that Hess couldn't fit through it himself.
 
-Toen hij Kuku bereikte, draaide zijn voorpoot om haar lijf, en plaatste haar op zijn _rug_ zonder enige moeite. Hij rende uit alle macht terug naar de poort, waar hijzelf inmiddels niet meer doorheen zou passen. 
+"No! Hess! Not without my parents. Not without you!"
 
-"Nee! Hess! Niet zonder mijn ouders. Niet zonder jou."
+"I'll make sure the others follow," said the panting dog. Kuku believed he'd try; she didn't believe he'd succeed.
 
-"Ik zorg dat de rest later achter je aan komt," zei de hond buiten adem. Kuku geloofde dat hij het zou proberen; ze geloofde niet dat het zou lukken.
+Beatrix grabbed the dog. First with her hands, then a rope that Hess chewed to pieces easily, then with a sort of machine.
 
-Beatrix greep naar de hond. Eerst met haar handen, toen met een touw dat Hess makkelijk kapotbeet, en daarna met een apparaatje. 
+Kuku hadn't seen it before. When the machine came close, Hess received an electrical shock. He ran for a bit, but slower, and slower, until he sunk through his legs and landed in a field of grain that Kuku didn't even know existed.
 
-Kuku had het nog nooit gezien. Maar toen het dichtbij kwam, kreeg Hess een elektrische schok. Hij rende nog een stuk door, maar langzamer en langzamer, totdat hij in elkaar zakte bij een graanveld waarvan Kuku niet eens wist dat het bestond. 
+They lay near the fence at the edge of the farm. Just behind them a car passed by on the asphalt.
 
-Ze lagen vlakbij het hek, aan de rand van de boerderij. Een paar meter naast hen reed een auto over het asfalt.
+The gate closed with a click and a clang.
 
-De poort sloeg dicht met een klik en een klang. 
+"Sorry," whispered Hess. "But she should not have done _that_."
 
-"Sorry," fluisterde Hess. "Maar dit had ze niet moeten doen."
+"Oh cow's gods, are you going to take revenge?"
 
-"Oh koeiengoden, ga je wraak nemen?" 
+Kuku feared his revenge. If he wanted, he could fatally wound a human. He seemed furious---no, it was a mixture of fear and fury.
 
-Kuku was bang voor zijn wraak. Als hij wilde, kon hij een mens zwaar verwonden. Hij leek boos---nee, een mengeling van boos en bang.
+"She has revealed her true nature. Look where you are."
 
-"Ze heeft haar ware aard onthuld. Kijk eens waar je bent."
+The events on the farm were tiny dots at a safe distance. Here, amidst the grain and fences, it was peaceful and quiet.
 
-De gebeurtenissen op de boerderij waren slechts puntjes in de verte voor hen. Hier, bij het graan en het hek, was het vredig en stil.
+Kuku felt around her. The field of grain had paths, like a maze. Why would you make a maze here? Why did the paths seem to travel in circles?
 
-Kuku voelde om haar heen. Het graanveld had paden, als een soort doolhof. Waarom zou je een doolhof maken? Waarom liepen de paden als cirkels?
+Hess led her to a hill at the edge, which had been further supported with rough rocks. From that height she could clearly see it. It wasn't a path, it was ...
 
-Hess leidde haar naar een heuveltje aan de rand, verder opgehoogd met ruwe rotsen. Vanuit de hoogte kon ze het duidelijk zien. Het was geen pad, het waren ...
+"Crop circles." Hess shook his head. "Humans go insane when they find one. They think some alien creature has visited and, for some reason, drew messages by creating lines in their grain. Or something."
 
-"Graancirkels." Hess schudde zijn hoofd. "De mensen worden helemaal gek als ze er een vinden. Denken dat buitenaardse wezens langskomen om boodschappen in graan te _tekenen_, of zoiets."
+"And that is silly?"
 
-"En dat is onzin?"
+"Of course! What do they think? That alien creatures build spaceships and reach Somnia with ease, and their only action is to _create primitive drawings on farms_?"
 
-"Natuurlijk! Wat denken zij nou? Dat buitenaardse wezens raketten bouwen en Somnia bereiken, en dan als enige actie _tekeningen_ maken op boerderijen?" 
+Hess narrowed his eyes. Kuku only saw Beatrix and Harry as vague splotches that met each other and shook hands again.
 
-Hess vernauwde zijn ogen. Kuku zag alleen de vage vlekken van Beatrix en Harry die elkaar weer hadden ontmoet. 
-
-"Graancirkels komen natuurlijk van ruimteschepen die hier landen."
+"Crop circles are obviously the result of spaceships that _land_ here."
 
 "Mooh!?"
 
-"Kijk maar. Die cirkel daar is de uitlaat van de raket. Die drie lijnen zijn steunpilaren die ze gebruiken om rechtop te blijven. Het is een pootafdruk, maar dan van een gigantische raket."
+"Look. That circle is the exhaust pipe of the rocket. Those three lines are support pillars to stay upright. It's a paw print, you see, but one made by a gigantic spaceship."
 
-"Waarom ... waarom zouden die wezens hier komen?"
+"Why ... why would those creatures come here?"
 
-"Omdat ik hier ben," zei Hess zacht. "Mijn echte naam is niet Hess. Het is Hespry." 
+"Because I am here," Hess spoke softly. "My real name isn't Hess. It's Hespry."
 
-Die naam kwam bekend voor. Hess sprak langzaam verder, alsof deze herinnering moeilijk was op te halen. "Van alle Hemelvoorwerpen, was er eentje die leefde. Ik, de Hespryhond, huisdier van Feria. Ik ben dan ook nooit heel blij geweest met de titel _voorwerp_, maar goed ..."
+That name sounded familiar. Hess continued with difficulty, as if the memory was hard to access. "Of all Heavenmatter, there was only one that _lived_. Me, the Hespryhound, Feria's pet. I've never been glad about the title of _heavenly object_, but oh well ..."
 
-Kuku ging door haar voorpoten om een buiging te maken.
+Kuku bend her front paws to bow to him.
 
-"Nee, nee, dat is helemaal niet nodig. De goden zijn weg, de magie is weg. Ik ben niets meer dan een bijzonder grote hond-wolf-achtige."
+"No, no, that's not necessary. The gods are gone, the magic is gone. I am nothing more than a very unique, large, dog-wolf-like being."
 
-"Waarom willen ze je dan alsnog hebben?"
+"Then why do they still want you?"
 
-"Die stomme, stomme uitspraak van Guds. Die voorspelde dat de dieren die _alle_ Hemelvoorwerpen zouden verzamelen, het hele universum zouden veroveren. Het lijkt alsof een groep dat serieus heeft genomen. En Beatrix hoort erbij."
+"That stupid prophecy of Guds. It predicted that the animal who'd collect _all_ Heavenmatter would conquer the entire galaxy. It seems like one group has taken that seriously. And Beatrix is one of them."
 
-Natuurlijk. Beatrix had Hess ontmoet bij de inspectie. Zij had hem steeds geprobeerd te vangen. Zij had een of andere technologie die niet van Somnia leek te komen. 
+Of course. Beatrix had met Hess at the previous inspection. She had tried to capture him all the time. She had some sort of technology that didn't belong to Somnia.
 
-Hess sprong van de verhoging, een val van vele meters. Kuku nam netjes de weg omlaag. Zolang ze door de graancirkels liepen, werden ze goed verborgen.
+Hess jumped off of the rocks. A drop of several meters that he took with ease. 
 
-"Ik weet niet wat ze eerder heeft ontdekt. Mij, of de Steen van Zekerstof."
+Kuku walked down more carefully. As long as they stuck to the grain circles, they'd be well-hidden.
 
-"Dat ding is _ook_ hier?"
+"I don't know what she discovered first. Me ... or the Stone of Destinydust."
 
-Hespry glimlachte. "Waarom denk je dat alles hier overdreven groeit? Waarvan denk je dat een onzichtbare en onvoelbare schuur wordt gemaakt?"
+"That thing is here _as well_?"
 
-Ze konden vlakbij het grindpad komen, zonder dat Harry hen zag. Maar Kuku kon niet voor eeuwig in die graancirkels blijven lopen. Waar moest ze nu heen? Elize kende de schuur! Elize kon de schuur _zien_ en _voelen_.
+Hespry smiled. "Why do you think all the grass grows unnaturally tall? What do you think created an invisible and untouchable shed?"
 
-Dat betekende ... dat ze haar verbinding met de natuur had teruggevonden.
+They could walk close to the gravel road without being spotted. But Kuku could not walk this maze of grain forever. Where must she go now? Elize knew about the shed! Elize could _see_ and _feel_ it.
 
-Dat was toch een goed teken? Nu wilde ze Elize zeker gebruiken voor het volgende ontsnappingsplan.
+That meant ... she had restored her connection with nature.
 
-"Ik ben _diep_ teleurgesteld," riep Beatrix. "Je hebt nog _niks_ gedaan om de boerderij op te knappen. Je hebt nog maar een week, dat weet je toch?"
+Wasn't that a good sign? Now she was certain Elize should help with their next escape plan.
 
-"Ik doe mijn best!" schreeuwde Harry. 
+"I am _deeply_ disappointed," yelled Beatrix. "You have done _nothing_ to renovate the farm. You only have a week left, you know that, right?"
 
-Hij fatsoeneerde zichzelf en praatte verder op een lieflijke toon. "We hebben nauwelijks geld. En nu is mijn dochter ook nog gewond! Misschien loopt er wel een gekke koeienziekte door onze dieren, waarom zouden ze haar anders aanvallen? Alsjeblieft, ik vraag hulp, en uitstel."
+"I am trying my best!" said Harry.
 
-"Uitstel? Hulp?" Beatrix sprak de woorden uit alsof ze een buitenlandse taal waren. Misschien _was_ de mensentaal voor haar ook buitenlands. "Ik overweeg om mijn hele aanbod in te trekken en de boerderij per direct te sluiten!"
+He tidied his appearance and continued at a softer and sweeter tone. 
 
-Daarop zei Harry niks meer. Beatrix keek uit over de boerderij. Ze leek te twijfelen, alsof ze eigenlijk langer wilde blijven. Uiteindelijk stapte ze in haar busje en vertrok. Even later deden de vrachtwagens hetzelfde.
+"We barely have money. And now my daughter is wounded! Maybe some mad cow's disease lingers with our animals, why else would they attack her? Please, I ask support, and a delay---"
 
-"Pap, het doet pijn. Veel pijn," zei Elize moeizaam. "Ik denk dat ik een rib heb gebroken of iets."
+"Support? Delay?" Beatrix spoke the words as if they were foreign to her. Maybe the human language _was_ foreign to her. "I am considering retracting my offer in the first place and closing the farm _immediately_!"
 
-Harry _gromde_. Zelfs van meters afstand, dacht Kuku de hitte van zijn woede te voelen, het aanspannen van zijn spieren te horen, alsof hij klaarstond een tijger te bevechten.
+Harry didn't speak again. 
 
-"Ik zag Kuku hier, samen met Hess. Ik zweer het! Ze hebben mijn hele graanveld platgestampt! We moeten ze grijpen en laten zien wat ik doe met probleemschoppers."
+Beatrix looked out over the farm. She hesitated and twitched, then entered her van and left. Soon after, the trucks did the same.
 
-Hij duwde de eerste graanstengels opzij en kwam erbij in de graancirkel.
+"Dad, it hurts. It hurts a lot," Elize spoke with difficulty. "I think I broke a rib or something."
+
+Harry _roared_. Kuku felt the heat of his anger at this distance. She thought she heard the straining of his muscles, ready to pounce like a tiger.
+
+"I saw Kuku here, joined by Hess. I swear it! They flattened all my grain! We must catch them and show them what we do with troublemakers."
+
+He pushed the first grain stalks aside and entered the circle with them.

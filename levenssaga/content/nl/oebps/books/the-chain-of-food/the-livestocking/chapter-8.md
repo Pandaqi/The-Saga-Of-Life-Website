@@ -81,7 +81,9 @@ _Plan?_
 
 "Maar ... kijk, Harry laat jullie vrij rondlopen! Alles wordt beter, ik beloof het. Willen jullie nog steeds weg?" 
 
-Ze kreeg geen reactie. Haar gezocht stond somber. "Nou, ja, we hebben nog steeds nul centjes. Natuurlijk willen jullie weg uit deze vieze hokken. Maar ik weet niet---"
+Ze kreeg geen reactie. Haar gezicht stond somber. 
+
+"Nou, ja, we hebben nog steeds nul centjes. Natuurlijk willen jullie weg uit deze vieze hokken. Maar ik weet niet---"
 
 Haar mond bevroor halverwege het woord. Iedereen volgde haar blik.
 

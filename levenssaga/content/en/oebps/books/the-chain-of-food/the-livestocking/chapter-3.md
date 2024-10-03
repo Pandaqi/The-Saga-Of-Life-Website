@@ -1,112 +1,115 @@
 ---
-title: "Boerderij Gevaar"
+title: Danger Farm
 weight: 3
 ---
+Hess stayed calm. Or maybe he was too old for a fight. The ropes tightened around him as the other animals didn't dare interfere. 
 
-Hess bleef rustig. Of misschien was hij te oud voor een gevecht. Het net sloot om hem heen, terwijl de andere dieren niet durfden in te grijpen. Kuku twijfelde niet en bijtte meteen de touwen door. 
+Kuku didn't doubt and _bit_ through the ropes with full force. When someone pulled the net upwards, she moved along with it.
 
-Toen het net naar boven werd getrokken, ging ze dus mee.
+Someone stood on the roof and wanted to claim their prize. Kuku's paws dangled high above the ground.
 
-Iemand stond op het dak en tilde snel hun buit omhoog. Kuku's poten bungelden een meter boven de grond.
+"Very kind," said Hess, "but unnecessary."
 
-"Heel aardig," zei Hess, "maar dat had niet gehoeven."
+With a sudden burst of speed, his claws slashed through the ropes and turned it into twenty useless fragments. He fell to the ground.
 
-Uit het niets sloegen zijn klauwen vooruit en sneden het net in twintig stukken. Hij viel op de grond. 
+As opposed to cats, dogs aren't very capable of always landing on their feet. Hess awkwardly crashed onto his back and rolled outside. The other animals strained to prevent Kuku from doing the same; they narrowly kept her inside.
 
-In tegenstelling tot katten, konden honden niet netjes op hun poten landen. Hij klapte op zijn rug en rolde door naar buiten. De andere dieren konden net op tijd Kuku grijpen en binnen houden.
+"Hess? Where did you suddenly come from?" Elize's hand was still on the door handle.
 
-"Hess? Waar kom jij ineens vandaan?" Elize had nog altijd haar hand op de deurklink.
+Hess ran away and tried to see who stood on the roof. Him and Kuku only saw an unrecognizable shadow that fled the premises.
 
-Hess rende meteen verder en probeerde te kijken wie er op het dak stond. Kuku zag alleen een schaduw vertrekken.
+The watchdog bumped into Harry.
 
-De waakhond botste tegen Harry. 
+"Ah! Finally you came alive. Found Kuku? No, of course not, lazy dog. We keep you around because our family has kept you for many generations, for otherwise ..."
 
-"Ah, eindelijk tot leven gekomen. Heb je Kuku nog gevonden? Nee, natuurlijk niet, luie hond. Het is dat je al generaties lang bij onze familie hoort, want anders ..."
+He didn't see the invisible shed at all. Was it also _untouchable_? Otherwise he would've accidentally bumped into it at some point, wouldn't he? In his ignorance, he walked past and pushed Elize inside.
 
-Hij leek geen moment te beseffen dat er een schuur stond. Was het ook _onvoelbaar_? Anders was hij er toch allang per ongeluk tegenaan gelopen? Hij duwde Elize vooruit en ging naar binnen.
+Kuku wanted to walk to Hess, but the animals held her close.
 
-Kuku wilde naar Hess lopen, maar de dieren hielden haar stevig vast. 
+"You stay _here_ until we have a solution."
 
-"Jij blijft _hier_ totdat we een oplossing hebben."
+First she'd felt safe. She could stay inside this invisible shed forever, right?
 
-Eerst had ze zich veilig gevoeld. Ze kon voor eeuwig in deze onzichtbare schuur blijven, toch? 
+But once the other animals left her and locked the door, it jut felt like anther barn. Another tiny cage, without sunlight, without fresh grass.
 
-Maar toen de andere dieren haar verlieten en de deur op slot deden, voelde het alleen maar als een volgende stal. Weer een kleine plek, zonder zonlicht, zonder vers gras.
+At least Harry would not be able to touch her udders here. She saw how much it hurt when he milked mother with his large, clunky fingers.
 
-Harry zou tenminste niet aan haar uiers kunnen zitten. Ze zag wel hoeveel pijn het deed als hij moeder wilde melken, met zijn grote onhandige vingers. 
+Elize wasn't much better. She imitated her father and thought you had to use _all your force_. And if an animal didn't cooperate, she also yelled that it was a _stupid animal_.
 
-Elize was niet veel beter. Die deed haar vader na en dacht dat je echt _alle kracht_ moest gebruiken die je had. En als een dier niet meewerkte, schreeuwde ze ook dat het een dom beest was.
-
-Nee, ze moest weg. Ze moesten hier allemaal weg. Ze geloofde geen seconde dat Harry de boerderij echt zou "opknappen".
+No, she had to leave. They all had to leave. She didn't believe for a second that Harry would really clean up his act and save the farm.
 
 ___
 
-Toen de schuur weer opende, had Kuku geen idee hoeveel tijd voorbij was gegaan. Het rode licht en de lange schaduwen verraadden dat de zon alweer onderging.
+When the door opened again, Kuku didn't know how much time had passed. The red light and the tall shadows betrayed that it was sunset.
 
-"Harry is de vrachtwagen aan het inladen," zei Hess snel. "Kom, kom even naar buiten."
+"Harry is loading the truck," Hess said hurriedly. "Come, come outside for a bit."
 
-Kuku kwam voorzichtig naar buiten en bleef in Hess' grote schaduw. 
+Kuku hesitantly stepped outside, but stayed inside Hess' large shadow.
 
-Op het grindpad stonden twee vrachtwagens. Kist na kist vol eieren en melk werden ingeladen. Het was bijna niet te bevatten. Eén zo'n ding bevatte wel _duizenden_ eieren. Alle koeien werden maandenlang gemolken om één zo'n wagen te vullen.
+Two trucks stood on the gravel path. Chest after chest of eggs and milk were loaded into them. It was unfathomable. One such chest could contain _thousands_ of eggs. All the cows would be milked for _months_ to fill one such trick.
 
-En toch kwamen ze weer leeg terug, bijna elke week, als een hongerig dier waarvan de maag een bodemloze put is. 
+And still they came back, almost every week, like a hungry monster whose stomach is a bottomless pit.
 
-"Pardon?" schreeuwde Harry. "De afgesproken prijs was één Soliduri per liter melk."
+"Pardon?" screamed Harry. "The price agreed upon was one Soliduri per liter milk."
 
-"Prima, Boerderij Graviers verkoopt ze voor negentig cent," zei een man in pak. Hij leunde tegen de zijkant van de wagen. "Dan gaan we daar wel heen."
+"Fine, the Graviers Farm next door sells them for only ninety cents," said a man in a suit. He leaned against the truck's ribbed side. "We'll go there instead."
 
-"Dit is belachelijk! Ik verdien nu al bijna _niks_. Mensen moeten _betalen_ voor _kwaliteit_."
+"This is madness! My earnings are down to almost _zero_. People should _pay_ for _quality_."
 
-"Als je de melk nog duurder maakt, koopt helemaal niemand het meer. Dan verdien je echt _niks_."
+"If we make milk more expensive, nobody will buy it anymore. Then you'll earn exactly _zero_."
 
-Harry verfrommelde het contract dat hem werd aangeboden. Daarna vouwde hij het toch weer uit en plaatste het met vlakke hand tegen de vrachtwagen. 
+Harry crumpled the contract they'd offered him. Then he folded it open anyway and pushed it flat against the truck with the palm of his hand.
 
-Hij ondertekende het. "Dieven, allemaal dieven."
+He signed the contract. "Thieves. All of you."
 
-De chique geklede man haalde zijn schouders op. "Jouw keuze om een boerderij te nemen."
+The man in suit shrugged. "Your choice to run a farm."
 
-"Denk je dat? Denk je dat echt? Jullie zijn niet alleen dieven, jullie zijn nog _hersenloos_ ook." 
+"You think? You really think that? You're not only thieves, you're _braindead_ too!"
 
-Harry stopte met helpen inladen. Hij begroette Elize, die over het grindpad fietste, terug van school.
+Harry stopped helping them load the truck. He greeted Elize, who cycled over the gravel on her way back from school.
 
-Hess duwde Kuku snel in de andere richting, naar een stuk gras achter het huis. Hier was het gras ook al zo onmogelijk hoog.
+Hess quickly pushed Kuku in a different direction. A different patch of grass behind the house. Here too, the grass was incredibly tall and could easily hide many animals.
 
-"Wat bedoelt Harry?" vroeg Kuku met de mond vol grassprieten. "Dat jij al generaties hun hond bent?"
+"What does harry mean?" Kuku asked. With a mouth full of grass, she tried to imitate the noises she heard. "That you have _been their dog for generations_?"
 
-Hij glimlachte. "Ik heb de eerste persoon nog meegemaakt. Een chimpansee die deze boerderij stichtte, genaamd Chef. Toen heette hij nog _Sulliwe's Trots_. Toen was de wereld nog vol magie. Toen waren de meeste Hemelvoorwerpen nog hier op Somnia, in de handen van goede wezens."
+He smiled. "I had the pleasure to experience the very first owner. A chimpanzee that established this farm, called Chef. Back then it was called _Sulliwe's Pride_. Back then the world still had magic. Back then most Heavenly Objects were still on Somnia, in the hands of _good_ beings."
 
-Hij schudde zijn vacht en keek hoe Harry in zijn frustratie vijf kippeneieren kapot kneep. Uiteindelijk moest Elize alles overnemen. 
+He shook his fur and watched as Harry squashed five eggs in frustration. Eventually, Elize had to take over the task.
 
-"Ik was erbij toen een ziekte uitbrak die ik nooit eerder had gezien," mompelde Hess, zijn ogen op de vrachtwagens. "Toen iemand alle deuren had laten openstaan en de stroom zonder reden een week lang was uitgevallen."
+"I was there when a sickness broke out that I'd never seen before," Hess mumbled, his eyes trained on the tracks. "When someone left open all the doors and electricity vanished for a week without reason."
 
-Harry schreeuwde naar een paar koeien en smeet de deur van de stal dicht. Elize verontschuldigde zich met een smoesje tegenover de vrachtwagenchauffeur.
+Harry yelled at some cows and shut the barndoor with force. Elize apologized to the truck driver with some quick excuse.
 
-"En al die tijd is de boerderij steeds overgedragen op hun oudste zoon of dochter."
+"And all that time, the farm was passed on to the eldest son or daughter."
 
-Kuku keek om haar heen. Ook hier stond een elektrisch hek. Harry leek meer geld te steken in de boerderij een gevangenis maken, dan in zorgen voor de dieren. Hoe kwamen ze ooit weg?
+Kuku looked around her. The electrical fence extended all the way to this spot. Harry seemed to put more moohney into making his farm a prison than caring for the animals. How could they ever escape?
 
-"Harry wilde dit niet," zei Kuku afwezig. "Maar hij moohst de boerderij overnemen."
+"Harry didn't want this," said Kuku absently. "But he was required to take over the farm."
 
-"Ik kan niet goedkeuren hoe hij dieren behandelt," zei Hess treurig. "Ik zie ook niet hoe het anders kan. Hij verdient bijna geen geld en staat er helemaal alleen voor."
+"I can't justify how he treats the animals," said Hess bitterly. "I also don't see how he could do anything else. He earns less every month and has to run this huge farm on his own."
 
-Hij leunde voorover. "Elize werkt veel te veel, dat mag helemaal niet. Dat is kinderarbeid---ik was erbij toen het werd verboden! Ze moet steeds meer school missen. Maar als zij ook stopt met helpen ..."
+He leaned forward. "Elize works too much, it's illegal. That's child labor---and I was there when it was abolished! She misses more and more days of school. But if she stops helping too ..."
 
-Kuku had haar vier magen eventjes vol. Ze wilde terug naar de veiligheid van de schuur; ze wilde voor eeuwig vrij door grasvelden lopen. 
+Kuku's four stomachs were full for now. She wanted to return to the safety of the shed; she wanted to roam freely through these meadows forever.
 
-Het was inmiddels donker. Een paar lampen aan de muren gingen aan, net genoeg om een paar vlekjes te maken die het donker wegjoegen. Meer dan dat had Harry ook nooit geregeld.
+Darkness had fallen. Some lights on the walls flickered on, just enough to create white splotches. Harry had never paid for better lighting.
 
-"Het bevalt mij niet dat iemand me probeerde te vangen," zei Hess, onzeker in het donker. "Het was niet Elize of Harry. Iemand die de schuur kon zien, zelfs _gebruiken_."
+"I don't like it that someone tried to capture me," said Hess. His voice wavered for the first time. "It wasn't Elize or Harry. Someone who could _see_ the shed, even _use_ it."
 
-"Mooh? Hoe wist _jij_ van de schuur?"
+"Mooh? How did _you_ discover the shed?"
 
-Hess glimlachte. "Er is één Hemelvoorwerp dat ik lang in _deze_ familie heb weten te houden."
+Hess smiled. "There is one Heavenmatter that I've been able to keep in _this_ family all this time."
 
-Kuku wilde doorvragen, maar Hess liep weg. "Ik moet gaan waken. Ben niet voor niets een waakhond! Jij moet ergens anders schuilen, de schuur is niet meer veilig. Ga naar de paarden."
+He walked away. "I must stand guard. They don't call me a watchdog for nothing! You must hide somewhere else, the shed isn't safe anymore. Visit the horses."
 
-Ze dook meteen in het gras, in de hoop dat het haar verborg. De paarden stonden aan de andere kant van het grindpad. Ze hadden geen stal: óf ze werden aan het werk gezet, óf ze sliepen in de buitenlucht.
+She dove into the grass and relied on its cover. The horses were all the way on the opposite side of the gravel road. They had no stables: they were either working or sleeping in the open air.
 
-Daarvoor moest ze vlak langs het huis lopen. Ze besloot niet te twijfelen, niet te treuzelen, en rende op volle vaart langs de muur van de keuken. 
+This meant she had to walk right past the house. No doubts. Don't dilly-dally. Run!
 
-Ze was klein genoeg om _onder_ het keukenraam te blijven. Toch ging de lamp meteen aan. Twee tellen later schuurde ze langs de muur van de woonkamer. Ook daar ging de lamp aan en het raam open.
+She ran past the kitchen wall at full speed. She was short enough to stay well _below_ the kitchen window. Still the lamp activated immediately. 
 
-"Dáár ben je!" schreeuwde Harry. Hij smeet de deuren wagenwijd open en stapte naar buiten met een geweer.
+Two seconds later, she scraped past the outer wall of the living room. There too, the lamp sprang to life and the window opened.
+
+"_There you are_!" screamed Harry.
+
+He kicked the doors open wide and stepped outside with a hunting rifle.

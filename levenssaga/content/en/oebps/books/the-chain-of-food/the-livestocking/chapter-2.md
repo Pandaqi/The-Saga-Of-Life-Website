@@ -1,142 +1,151 @@
 ---
-title: "Boerderij Nachtkaars"
+title: Nightcandle Farm
 weight: 2
 ---
+Elize clung onto Beatrix' skirt and hung from it with her full body weight. "Don't close! Don't close! Please?"
 
-Elize klemde haarzelf vast aan Beatrix' rok en hing eraan met haar volle gewicht. "Niet sluiten! Niet sluiten! Alsjeblieft?"
+Her mouth became a line, as her long red nails tapped the clipboard. "You lied to me. You've been tested on twenty criteria and passed not a single one of them! I have no choice."
 
-Haar mond werd een streep, terwijl haar lange rode nagels tegen het klembord tikten. "U heeft tegen mij gelogen. U bent getoetst op twintig punten en voldoet aan geen enkele! Ik heb geen keus."
+She turned around. Elize cried and didn't let go. 
 
-Ze draaide om. Elize huilde en liet niet los. Kuku schuifelde achteruit, terug naar het weiland. 
+Kuku shuffled backward, out of the area.
 
-Wat had ze gedaan? De boerderij werd gesloten! Maar voordat het zover was, zou Harry wraak nemen. Misschien werd ze eenzaam opgesloten. Of geslagen. Of ... geslacht.
+What had she done? The farm would close! But she wouldn't even live to see it, if Harry took his revenge. Maybe she'd be locked up in isolation. Or beaten. Or ... slaughtered.
 
-Ze rende op volle vaart over het weiland, weg van iedereen. Alle koeien kwamen achter haar aan. Ze wist niet of ze haar wilden vergezellen op de vlucht of juist tegenhouden.
+She ran across the gravel path at full speed, away from everyone. All the cows followed. She wasn't sure if they wanted to escape too or wanted to stop her from doing so.
 
-Beatrix schudde Elize van haar af en opende de voordeur van haar busje. "Kind, laat me los. Jij hebt ook tegen me gelogen."
+Beatrix shook Elize off of her and opened the front door of her van.
 
-"Het moest van papa," zei ze fluisterend. Toen ze besefte wat ze zei, keek ze snel naar de grond. "Ik bedoel, hij wil, eh, dat ik altijd positief en aardig ben."
+"Child. Let go of me. You lied as well."
 
-"Je blijft liegen." Beatrix klom in de bestuurdersstoel. Harry stond inmiddels ook naast haar.
+"Papa forced me," she whispered. When she realized her mistake, she cast her eyes down. "I mean, erm, he wants me to be positive and friendly---"
 
-"Volgens mij heb ik _recht_ op een tweede kans!" riep Harry. Zijn ogen wisselden tussen Beatrix en vluchtende Kuku.
+"You keep lying."
 
-"Je hebt recht op niks," mompelde Beatrix. Ze startte het busje. "Maar voor Elize wil ik je een tweede kans geven. Binnen twee weken wil ik dat de boerderij aan _alle_ punten voldoet, dan mag je hem houden. Anders is het uit."
+Beatrix climbed into the driver's chair. Harry stood next to her now.
 
-Ze keerde om en racete van het erf. Kuku zag haar voorbijgaan vanaf de andere kant van het hek. Meters verwijderd van de autoweg ... en toch zou ze er nooit komen.
+"I think I deserve a _second chance_!" yelled Harry. He talked to Beatrix; his eyes followed Kuku's attempt to flee.
 
-Het weiland was omringd aan alle kanten door stevig gaas, te hoog om overheen te springen.
+"You deserve nothing," mumbled Beatrix. She started the van. "But for Elize's sake I will give you a second chance. Within two weeks, I want the farm to satisfy _all_ criteria! Then you can keep it. Otherwise we take control."
 
-Ze voelde haar leven als een nachtkaars uitgaan. Harry stormde al op haar af, witheet van woede. Zijn glinsterende laarzen stampten in plassen modder en spetterden hem onder. Het maakte hem niks uit. 
+She turned around and raced off of the premises. Kuku saw her pass by from the other side of the fence. Mere meters away from the highway ... and still she would never get there.
 
-Hun waakhond, Hess, was eindelijk wakker. Als enige kon hij praten met iedereen en als enige mocht hij vrij rondlopen. Hij was oud en keek met vermoeide ogen. 
+The meadows were surrounded on all sides by thick mesh. Too strong to break, too tall to jump over.
 
-Zelfs in die toestand was het een gigantische hond waarvan Kuku altijd een hartaanval kreeg. En nóg harder ging rennen.
+She felt her life extinguish like a candle in the night. Harry stormed at her, white from fury. His shiny boots landed in puddles of dirt and ruined his clothes, but he didn't care.
 
-"Je kan er niet uit," zei hij rustig. "Ik heb het geprobeerd."
+Their watchdog, Hess, had finally awoken. He could talk to everyone and was the only one allowed to roam freely. He was also old and looked wary.
 
-Nou, hartstikke bedankt. Kuku rende alsnog langs het hek, alsof er toevallig vandaag een gat in het gaas zat. Hess had gigantische klauwen. Kon hij geen gat _maken_?
+Even in that state, the gigantic dog always gave Kuku a heart attack. And made her run even faster.
 
-"Het hek staat onder---"
+"You can't leave," he said calmly. "I've tried."
 
-Kuku botste met hoofd vooruit tegen het gaas. Haar lichaam schokte en beefde, terwijl haar wereld op zwart ging en even later grassprieten door haar neusgaten kwamen. Ze had zich nog nooit zo misselijk gevoeld, en toen voelde ze haar poten helemaal niet meer.
+Well, thanks for nothing. Kuku ran past the fence anyway, as if she hoped to get lucky and find a hole in the mesh. Hess had gigantic claws too---couldn't he _make_ a gap?
+
+"The fence is electri---"
+
+Kuku bumped her head against the outer mesh. Her body shocked and buzzed, as her world went dark and soon after blades of grass entered her nostrils. She'd never felt this sick, until she felt nothing at all.
 
 ___
 
-Kuku werd wakker in een klein, donker hok. Een gevangenis? Een kooi? Ze had nauwelijks ruimte om te bewegen. Ze was niet vastgebonden, of gewond, of ... dood. Waarom---
+Kuku awoke in a tiny, dark room. A prison? A cage? She barely had room to moohve. She wasn't tied up, or wounded, or ... dead. Why---
 
-"Waar is dat _rotbeest_!?" krijste Harry over het terrein. Hij moest tientallen meters verderop staan, in de buitenlucht. Kuku vond kleine ronde gaten en keek erdoorheen. Het was inmiddels nacht, en Harry en Elize waren naar haar op zoek.
+"Where is that _devilish cow_!?" Harry shrieked. He sounded far away and outside.
 
-Dus ze hadden haar niet gevonden. Wat had Hess gedaan?
+Kuku found small circular holes and looked through them. Night had fallen. Harry and Elize ran around looking for her.
 
-Natuurlijk. Ze lag in het hondenhok.
+So ... they hadn't found her yet. What had Hess done?
 
-Het was helemaal niet zo klein als ze dacht. Hess versperde de ingang en wierp daardoor het hele hok in schaduw. 
+Of course. She lay inside his dog house.
 
-"Dankjewel," fluisterde Kuku.
+It wasn't as small as she thought. Hess simply blocked the entire entrance and cast the rest of the room in shadow.
 
-"Ik zou niet te veel geluid maken, als ik jou was."
+"Thank you," whispered Kuku.
 
-Harry liep voorbij. "Hess! Je hebt toch zo'n goede neus? Speur dat beest op."
+"I wouldn't make too much noise, if I were you."
 
-Hess reageerde niet. Hij lag op zijn buik en hield zijn ogen dicht, om te doen alsof sliep.
+Harry walked past. "Hess! You're supposed to have a great sense of small, right? Help us find that cow!"
 
-"Allemaal rotbeesten," mompelde Harry. "Elize! Jij zoekt nog een keer bij de voedselvoorraad, ik bekijk de stallen."
+Hess didn't respond. He lay on his belly, eyes closed, pretending to sleep.
 
-Het moest al middernacht zijn geweest. Elize liep in haar pyjama, op slippers, en gaapte. "Ik denk dat Kuku gewoon goed verstopt is, pap."
+"They're devilish creatures, all of them," Harry mumbled. "Elize! You search near the food storages again, I'll investigate the barns."
 
-Harry smeet een hooivork in de modder voor haar slippers. "Deze wezens zijn te _dom_ om zich goed te verstoppen. Zoeken, kind!"
+Midnight had passed. Elize walked around in her pajamas, on slippers, and yawned perpetually. "I just think Kuku is well-hidden, dad."
 
-Elize kon niet ophouden met gapen. "Wat ... wat moet ik doen als ik haar vind?"
+Harry threw a pitchfork in the dirt, not far from her slippers. "These creatures are too _stupid_ to hide themselves well. Search, child!"
 
-"Vangen."
+Elize could not stop yawning. "What ... what do I do when I find her?"
 
-"En dan?"
+"Catch her."
 
-"Stel ik een voorbeeld voor de andere dieren. Zodat ze _meewerken_ over twee weken."
+"And then?"
 
-"Dus ... dus we gaan de boerderij opknappen? En over twee weken maken we die Beatrix blij?"
+"I'll make an example out of her in front of the other animals. To make them _cooperate_ in two weeks time."
 
-"We hebben geen geld om de boerderij op te knappen." 
+"So ... so we're going to renovate the farm? And make Beatrix _very happy_ in two weeks?"
 
-Harry liep door naar de stallen. Elize zwaaide naar Hess, gaf hem een aai over de bol, en praatte tegen hem. Hadden die _mensen_ nou echt niet door dat zwaaien en praten niks betekende voor de dieren?
+"We have no money for that."
 
-Maar Elize was tenminste aardig. Zeker toen Kuku net geboren was, kwam ze heel vaak knuffelen. Ze had zelfs geprobeerd om haar in de slaapkamer te verstoppen. Een koe leek een leuk huisdier, totdat ze groter werd.
+Harry visited the barn. Elize waved at Hess, patted his head, and talked to him. Did those _humans_ really not realize that waving and talking didn't mean _anything_ to animals?
 
-Toen de kust weer veilig was, stond Hess op. 
+At least Elize was kind. When Kuku had just been born, the girl had visited often to cuddle her. She'd even tried hiding Kuku in her bedroom once. A cow seemed a nice pet, until they grew a bit too big.
 
-"Kom mee."
+When the coast was clear, Hess suddenly stood.
 
-Kuku volgde hem, niet richting de stallen, maar richting het huis. Ze liepen naar een gebouwtje aan de achterkant. 
+"Come with me."
 
-Kuku werd weer zenuwachtig. Haar hoofd tolde om alle hoeken in de gaten te houden. Wat als Harry weer kwam? Zou Hess haar verdedigen? Wat was hij van plan?
+Kuku followed him. He ignored the barn and went straight for the farmer's home. He ignored that _too_ and went to a tiny building near the backyard.
 
-Ze stapten naar binnen, in golven van licht.
+Kuku grew nervous. Her head spun like a clock to watch for any danger around her. What if Harry returned? Would Hess defend her? What was his _deal_?
 
-Vijf dieren stonden rondom een oude gloeilamp, in een kamertje vol meubels, bedekt onder gras en stro. Een paard, een schaap, een koe, een kip, en een varken. Elke diersoort had blijkbaar iemand gestuurd. Van buiten leek het een schuurtje, van binnen leek het een kamer die bij Harry's huis hoorde. Totdat de dieren hem overnamen en vernielden.
+She stepped inside the building and was bathed in light.
 
-"Wat is deze plek?" mompelde Kuku.
+Five animals circled an old light bulb. They stood in a room overstuffed with furniture, all of it covered with soft layers of grass or straw. A horse, a sheep, a cow, a chicken, and a pig. Every type of animal had sent someone. From the outside, this looked like a regular shed. From the inside, it looked like a room that belonged to Harry's home. Until the animals stole it and destroyed most of it.
 
-"Een onzichtbare schuur." 
+"What is this place?" Kuku mumbled.
 
-"Mooh?! Ik zie hem toch?"
+"An invisible shed."
 
-"Onzichtbaar voor mensen. Zeker iemand als Harry, die alle verbinding met de natuur is verloren."
+"_Mooh!?_ But I can see it?"
 
-Kuku begreep niet hoe dat werkte. Hoe kan iets nou gewoon _verdwijnen_ als mensenogen ernaar kijken? Maar ze was er blij mee, want hier werd ze dus nooit gevonden.
+"Invisible to humans. Especially to someone like Harry, who has lost all connection with nature."
 
-"We moeten jou uit deze boerderij krijgen," zei hij.
+Kuku didn't understand how that worked. How can something just _disappear_ when human eyes study it? She was glad it did, though, because it explained how this place was never found.
 
-"Ik ga niet alleen. Mijn ouders moeten ook mee."
+"We must get you out of this farm," he said.
 
-"We moeten _iedereen_ uit de boerderij krijgen," zei het paard. "Dit is geen plek om te leven."
+"I won't go alone. My parents should come too."
 
-Hess vertaalde het voor iedereen. Praten ging erg moeizaam tussen de diersoorten, maar deze spraken blijkbaar vaker af en hadden snelheid erin. 
+"We must get _everyone_ out of this farm," said the horse. "This is no place to live."
 
-Wat was dit? Een dierenraad die elke avond samenkwam? Waarom wist ze hier niks vanaf?
+Hess translated for everyone. Talk was difficult between species, but these had met many times before and were quite quick about it.
 
-"Waanzin!" zei het varken. "Als één kleine koe al niet weg kan, hoe krijgen we honderd dieren weg? En waar gaan we leven? In de bossen, vol wolven? In de stad, met _mensen_?"
+What was this? An animal council that convened every night? Why hadn't she heard of it before?
 
-"Wat is het met jou en wolven?" vroeg de koe.
+"Madness!" said the pig. "If one cow can't escape, how do we get a hundred animals away from here? And where would we live? In the forest, owned by wolves? In the city, with _humans_?"
 
-"De wolven waren slecht in het Tweede Conflict! Zij hebben mijn halve diersoort weggeruimd!"
+"What is it with you and wolves?" the cow asked.
 
-"De _varkens_ waren slecht in het Tweede Conflict!" riep het paard terug. Hij keerde tot de kip. "En de kippen waren ... waren ... gewoon irritant, eigenlijk, met hun gekakel en---"
+"The wolves were _bad_ in the Second Conflict! They destroyed half of all the pigs on Somnia."
 
-"Onze _eieren_ leveren anders wel voedsel over de hele wereld. De koeien, die deden letterlijk _niks_ in het Tweede Conflict. Alleen een beetje gras eten en---"
+"The _pigs_ were bad in the Second Conflict!" said the horse. He turned to the chicken. "And the chickens were ... were ... well, really annoying, honestly, with their cackling and---"
 
-"Sst!" Hess drukte zijn grote klauw tegen de bek van het paard en de snavel van de kip. "Ik hoor iets."
+"Our _eggs_ were the only food for most soldiers around the world. And the cows? They literally did _nothing_ during the Second Conflict! They just ate grass and---"
 
-Elize's stem klonk in de stille nacht. "Alsof ze bij de voedselstal gaat verstoppen! Koeien zijn dom, maar niet zó dom. Dan kan je nog beter in het huis verstoppen---" 
+"Ssst!" 
 
-Ze viel stil. 
+Hess pushed his large claw to the horse's mouth and the chicken's beak. "I hear something."
 
-Kuku spiedde door de deur die op een kier stond. Elize stond slaperig bij de achterdeur, meters van het schuurtje. Ze gaapte en keek achterom, naar Harry in de verte. 
+Elize's voice sounded clearly in the silent night. "As if she would hide near the food storages! Cows are stupid, but not _that_ stupid. Then she might just as well hide inside our ho---"
 
-"Als je me hoort, Kuku," zei ze richting het huis, "ga weg. Verstop je, als je weet wat dat betekent. Ik wil je niet vinden."
+She fell silent.
 
-Elize opende de deur, maar iets ritselde in het donker en ze keek razendsnel opzij. Haar mond viel open. 
+Kuku spied through the door, which was open a crack. Elize leaned on her back door, mere meters away from the shed. She yawned and looked over her shoulder, at Harry in the distance.
 
-Kon ze de schuur zien? Ze keek precies in hun richting, maar deed niks, alsof de koude avondlucht haar had bevroren.
+"If you hear me, Kuku," she said towards the house, "go away. Hide. If you know what that means. I don't _want_ to find you."
 
-Een net vloog door de deuropening. Hess duwde iedereen opzij, maar werd daardoor zelf gevangen.
+Elize opened the door, then froze. A rustle emerged from the darkness. She rapidly looked to the side; her mouth fell open.
+
+Could she see the shed? She looked in their direction, but did nothing, as if the cold night air had truly frozen her.
+
+A thick netting flew through the open door. Hess pushed everyone aside, but was caught himself.

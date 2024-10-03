@@ -1,190 +1,209 @@
 ---
-title: "Boerderij Nachtegaal"
+title: Nightingale Farm
 weight: 1
 ---
+As a white van raced across the driveway, the farmer opened the gate to the meadows. All animals stayed where they were, confused. Kuku mooed in surprise: she'd never been allowed outside before.
 
-Terwijl een wit busje over de oprit raasde, gooide de boer paniekerig het hek open naar het weiland. Alle dieren bleven verbaasd staan. Kuku loeide zelfs van verrassing: ze had nog nooit naar het weiland gemogen.
+"Go on! Move it, move it."
 
-"Nou, hup, hup, snel een beetje." 
+The farmer wore a blue overall, shiny and clean. His black boots shimmered as well.
 
-De boer droeg een blauwe overall, glanzend en schoon, met zwarte laarzen die net zo waren opgepoetst. Kuku herkende de klanken, maar wist niet wat hij zei. Sinds de Babbelbroers, aan het einde van het Tweede Conflict, konden de meeste diersoorten niet meer met elkaar praten. Behalve Hess dan: hun waakhond verstond iedereen. 
+Kuku recognized the sounds in his speech, but didn't know what they meant. Ever since incident with the Babblebrothers at the end of the Second Conflict, most animal species were unable to talk to each other anymore. Except for Hess: their watchdog understood everyone.
 
-De boerderijdieren keken de boer vragend aan.
+The farm animals still watched the farmer in confusion.
 
-Hij herhaalde dezelfde klanken, inclusief iets over "domme wezens" en "glazige ogen", maar tevergeefs. Daarna sloegen zijn grote handen een paar koeien tegen de kont en schapen in het gezicht, totdat de dieren toch maar het weiland inliepen. 
+He repeated the same noises, including something about "stupid creatures" and "glassy eyes", but it was in vain. His large hands hit a few cows in their behind and a few sheep in their face, until they _guessed_ they were supposed to walk into the meadow.
 
-Het witte busje stopte. Op de zijkant stond een mens, losjes getekend en omringd door veel te blije dieren. Ze hield een klembord vast met daarop een papier vol groene vinkjes. Precies de vrouw van de zijkant, inclusief klembord, stapte nu naar buiten.
+The white van stopped. Its side showed an illustration of a human, loosely drawn and surrounded by unnaturally happy animals. She held a clipboard, which held a paper littered with green checkmarks. A woman that looked exactly like the drawing stepped outside the van.
 
-Haar papier had natuurlijk nog geen groene vinkjes---hij was leeg. Ze kwam de boerderij inspecteren.
+Only her paper had no green checkmarks yet---it was empty. She came to inspect the farm.
 
-Op hakken maakte ze haar lange, luidruchtige weg over het grindpad. Haar rechterhand droeg een vuurrode ring die veel te groot was en haar gezicht zat vast onder de make-up.
+Her high heels clacked as they traveled the long and noisy gravel road. Her right hand wore a fire-red ring that was comically large and her face was stuck under layers of make-up.
 
-Boer Harry draaide om en rende naar de schuur. Hij gooide een paar hooibalen voor de gaten in de muur.
+Farmer Harry turned around and ran for the shed. He threw a few bales of hay to cover the gaping holes in the wall.
 
-Kuku stapte door het weiland alsof ze bang was elk moment in een hondendrol te staan. Haar vacht was grotendeels wit, bijna roze, met slechts een paar zwarte vlekjes. Soms schrok ze van haar eigen vlekken.
+Kuku walked through the meadow as if she feared stepping into dog poop all the time. Her fur was mostly white, almost pink, with only a handful of black spots. Sometimes her own spots startled her.
 
-Was dit nou gras? Het voelde gek onder haar poten. Héél gek. Ze boog haar nek voorover, haar snuit vlakbij de grond, en snuffelde een paar keer. Ja! Vers gras! Ze loeide en hapte ernaar.
+Was this what they called ... grass? It felt weird beneath her paws. Very weird. She leaned forward and sniffed close to the ground. Yes! Fresh grass! She mooed and bit into it.
 
-Even later keek ze dolblij in het gezicht van haar moeder. Die was serieus, zelfs boos. "Doet Harry nou altijd. Wen er niet aan."
+Overcome with joy, she smiled at her mother. But she looked serious, angry even.
 
-De vorige inspectie was nog voordat ze geboren was. Toen de koeien ontdekten, een week geleden, dat een nieuwe inspectie kwam, werden ze helemaal wild. Nou, Kuku had zich wel wat méér voorgesteld dan één vrouw die onhandig het oneven boerderijterrein overwon.
+"Harry always does this. Don't get used to it."
 
-Ze was nu bijna bij Harry. Die was druk bezig met de stal opruimen en alle stront laten verdwijnen. Het betekende vooral dat het allemaal in een ander, donkerder hoekje werd gegooid. Meerdere flessen luchtverfrisser staken uit zijn diepe zakken, en hij maakte ze allemaal op.
+The previous inspection had happened before Kuku was even born. A week ago, when the cows learned a new inspection would come, they went _wild_. Well, Kuku had imagined a bit _more_ than one woman who awkwardly tried to conquer the uneven farming ground.
 
-De voorkant van de stal was een jaar geleden ingestort, toen houtluizen en ratten de twee pilaren hadden weggevreten. Daardoor waren twee schapen overleden en konden de grootste koeien de stal niet meer uit. 
+She'd almost reached Harry. He hastily cleaned the barn and tried to make the piles of poo disappear. This mostly meant throwing it into a different, darker corner. Multiple bottles of air freshener piled out of his deep pockets, and he emptied them all.
 
-Harry had de afgelopen week elke avond getimmerd aan een nieuw dak. Het was niet zo goed als het werk van de Berenbouwers, maar een inspectrice zou het verschil niet zien, tenzij ze op het dak klom. Dat wilde Kuku nog wel eens zien.
+The front entrance of the barn had collapsed years ago, when wood lice and rats had nibbled on the two pillars. This had killed two sheep and locked the largest cows permanently inside since then.
 
-_De instorting, beste lezer, was niet het enige vreemde dat gebeurde op deze boerderij. De schoorsteen was tweemaal uit het niets van het dak gerold. Eén keer was midden in de nacht plotseling de helft van de hekken omgevallen. Alle dieren kregen straf; iedereen beweerde het niet te hebben gedaan._
+Harry had hammered their roof all week to build a new one. The result wasn't as great as the one by the legendary Bearchitects, of course not. But an inspector would not notice the difference, unless she climbed on top of the barn. _That_ Kuku would like to see.
 
-_Regelmatig hapte iemand grote stukken van de graanvelden weg. Alsof ze een spelletje deden om dingen te tekenen die je alleen van bovenaf zou kunnen lezen. Alle dieren kregen straf; iedereen beweerde het niet te hebben gedaan. Kuku was überhaupt nooit lang genoeg losgelaten om de graanvelden bij de toegangspoort te ontdekken._
+_The collapse, dear reader, wasn't the only odd occurrence at this farm. The chimney had rolled off the roof without cause. Once, around midnight, half their fences had suddenly fallen down. All the animals were punished; everyone claimed they hadn't done it._
 
-"Elize!" schreeuwde Harry over het terrein. "Eliiiizeee!"
+_Regularly, someone erased large patches of their fields of grain. As if they played a game and tried to draw lines you could only recognize from above. All animals were punished; everyone claimed they hadn't done it. Kuku had never even been allowed to roam freely long enough to discover the fields of grain near the entrance._
 
-Zijn dochter, een jong meisje met rood krullerig haar, rende naar hem toe. 
+"Elize!" yelled Harry across the farming grounds. "Eliiiizeeee!"
 
-"Ik houd die rare vrouw even bezig, kind. Jij moet ondertussen zorgen dat de waterbak is gevuld en dat de andere stal op slot zit."
+His daughter, a young girl with red curly hair, ran towards him.
 
-"Op slot? Maar dan kunnen die andere dieren er niet meer uit---"
+"I'll keep that weird woman occupied, child. You must ensure the water trough is filled and that the other barn remains _locked_ at all costs."
 
-"Doe het!" 
+"Locked? But then the animals won't be able to---"
 
-Harry schopte een volgende groep "slome koeien" het weiland op. Elize maakte een gepijnigd geluidje.
+"Do it!"
 
-"Niet zo mekkeren. Dat is wat je doet bij domme wezens die niet willen _luisteren_!"
+Harry kicked the next group of "slow cows" onto the meadow. Elize made a pained noise.
 
-Elize knikte en beukte een klein schaap dat de weg kwijt was. "Ja, ja, natuurlijk. Weet ik toch, pap."
+"Don't bleat like that, child. This is how you treat silly creatures who _will not listen_!"
 
-"Oh, en breng medicijnen naar dat zieke varkensjong."
+Elize nodded and kicked a small sheep who'd lost its way.
 
-"Medicijnen? Waar liggen die?"
+"Yes, yes, of course. I know that, dad."
 
-"Weet ik het. Vul een beker met water, schrijf het woord _medicijn_ erop. Moet ik alles voorkauwen?!" 
+"Oh, and bring medicine to that sick piglet."
 
-Elize fronste, maar huppelde naar de waterbak. Ze probeerde dezelfde kleding als haar vader aan te doen. Kuku hoorde dat ze haarzelf _Boerin Elize_ noemde als vriendinnen hier kwamen spelen. Het grootste verschil was dat haar kleding en laarzen binnen vijf seconden al bruin zagen van de modder, elke dag opnieuw.
+"Medicine? Where do we keep---"
 
-Harry plakte een glimlach op zijn gezicht en liep nonchalant naar de inspectrice. "Welkom, welkom, bij boerderij _De Nachtegaal_!" 
+"I don't know! Fill a glass of water, write the word _medicine_ on it. Must I pre-chew everything for you!?"
 
-Hij schudde uitvoerig haar hand. Zij veegde haar vingers daarna af aan een doek. 
+Elize frowned, then hopped to the water trough. She tried to wear the same clothes as her dad. Kuku heard her call herself _Farmer Elize_ whenever friends came over to play. The big difference, though, was that her clothes and boots were already stained with dirt within five seconds, every single day.
 
-"Ik ben Beatrix en ik heb weinig tijd. Ik begin graag bij uw stal."
+Harry plastered a smile on his face and casually approached the inspector.
 
-"Natuurlijk, kijkt u vooral overal rond. Ik heb niks te verbergen!" Harry's handen sloegen op zijn forse buik bij het lachen.
+"Welcome, welcome, at _Nightingale Farm_!"
 
-Beatrix was langer dan Harry, maar flinterdun. Kuku grijnsde: "Ze lijkt wel een grasstengel naast dikke Harry---"
+He shook her hand with a passion. She wiped off her fingers with a cloth.
 
-"Stil! Houd je gedeisd!" zei haar moeder.
+"I am Beatrix and I have little time. I'd like to start with your barn."
 
-"Hij gaat nooit groene vinkjes krijgen. Die stal stinkt als ... als ... een hondendrol van Hess."
+"Of course, of course, look around." Harry's hands fell on his impressive belly as he laughed. "We have nothing to hide!"
 
-Haar moeder flapperde haar oren en loeide zacht.
+Beatrix was taller than Harry, but thin as a twig. 
 
-Ze liepen de stal in. 
+Kuku grinned. "She looks like a blade of grass compared to fat Harry---"
 
-Ze bleven een paar minuten binnen.
+"Silence! Keep your snout!" mother said.
 
-En ze kwamen er gezellig kletsend uit.
+"He'll never get those green checkmarks. The barn stinks like ... like ... Hess' dog poop."
 
-"Ja, ja, ik vind het héél belangrijk dat de dieren een fijne lucht hebben," zei Harry. "En dat ze zoveel mogelijk naar buiten kunnen. Kijk maar!"
+Her mother fluttered her ears and mooed softly.
 
-Samen liepen ze het weiland op. De vrouw wilde niet verder dan een paar stappen, want daar werd het gras plotseling reuzenlang. Het stond zo hoog dat het kriebelde tegen Kuku's buik, wat haar alleen maar vrolijker maakte. 
+Harry and Beatrix walked into the barn.
 
-Dat liet Beatrix fronzen. "Hoe vaak liet u de dieren ook alweer naar buiten?"
+They stayed inside for several minutes.
 
-"Minstens 200 dagen per jaar."
+Then they left again, chatting pleasantly.
 
-"Dat zegt niks. Hoeveel _uur_ per dag laat u de dieren naar buiten?"
+"Yes, yes, I find fresh air of the _utmost importance_ for animals!" said Harry. "And as much time outside as possible. Look!"
 
-"Zolang als mogelijk, gemiddeld zo'n 8 uur."
+Together they entered the meadows. The woman took only a few steps, because further on the glass grew to a gigantic size. High enough to tickle Kuku's belly, which only made her more happy and giggly.
 
-"Waarom staat het gras dan alsof niemand het ooit heeft aangeraakt?"
+This made Beatrix frown. "Tell me again: how often do you let the animals roam freely here?"
 
-"Zie je wel," fluisterde Kuku. "Ze kijkt moohlijk. Hij gaat falen en dan ..." 
+"At least 200 days a year."
 
-En dan? Werd de boerderij gesloten? Waar ging ze dan leven? De stal _stonk_. En hij was klein. En ze mocht niks. En het eten was vies. 
+"That means nothing. How many _hours_ a day?"
 
-Maar als de boerderij moest sluiten ... wat gebeurde er met de dieren?
+"As long as possible. I'd say 8 hours on average."
 
-Haar moeder legde Kuku weer het zwijgen op.
+"Then why does the grass look like nobody has ever touched it?"
 
-Harry sloeg een hand op Beatrix' schouder; zij duwde hem weg en maakte haar schouder schoon met de doek. "Ik gebruik natuurlijk extra sterke _kunstmest_."
+"See," Kuku whispered. "She looks in a bad moohd. He'll fail and then ..."
 
-"Dat mag niet. Te veel kunstmest zorgt dat de grond opraakt."
+And then? The farm would close? Where would she live then? The barn _stank_. And she was small. And she was locked up. And the food was terrible.
 
-Hij vergat te knipperen. "Ik bedoel, natuurlijk, dat ik geweldige _pesticiden_ heb waardoor insecten de planten niet opvreten."
+But if the farm had to close ... what would happen to all its animals?
 
-De inspectrice trok haar wenkbrauw op. "Mag sinds kort ook niet meer. Is giftig en onnatuurlijk."
+Harry placed a hand on Beatrix' shoulder; she pushed it away and wiped off her shoulder with the cloth. 
 
-Harry's knokkels zagen wit van zijn nerveuze grip op het klembord. "Sorry, we zijn natuurlijk sinds kort _gestopt_ daarmee en ik gebruik nu een nieuwe, geheime techniek. Na de inspectie mag u wel even binnenkomen. Mijn balkon heeft een moestuintje met net zulk hoog gras!"
+"I use an exceptionally effective _fertilizer_."
 
-"Hmm." Over de hele boerderij groeide de natuur inderdaad alsof het een race naar de zon moest winnen. Ze zette een half vinkje op meerdere plekken. 
+"That's not allowed. Too much fertilizer will drain the soil until it's exhausted."
 
-"En hoeveel dieren houdt u?"
+He forgot to blink. "I meant, of course, that I have amazing _pesticides_. They keep away insects, so they don't eat the grass, you see?"
 
-Harry deed alsof hij moest tellen. Zijn grote vingers wezen één voor één naar alle dieren, terwijl hij ze bij naam noemde. Namen die hij ter plekke verzon. 
+The inspector raised her eyebrow. "Also forbidden as of recently. It's poisonous and unnatural."
 
-"Zevenenveertig."
+Harry's knuckles went white from his nervous grip on the clipboard.
 
-"Dat is krap onder de limiet van vijftig, maar acceptabel. Dan wil ik alleen nog die andere stal---"
+"Sorry, of course, we _stopped_ doing that recently and now we use a secret technique. Once the inspection is done, you may come inside. My balcony has a veggie patch with grass that grows just as tall!"
 
-"Oh, bespaart u de zorgen. Die staat leeg, al jaren op slot."
+"Hmm." 
 
-Kuku telde met Harry mee, maar ging nog iets langer door. Hij had bijna honderd dieren. Nog belangrijker, haar vader stond in die andere stal. Kreeg hij wel lucht? Met alles op slot en de gaten gedicht? Ze rende onrustig rondjes door het hoge gras, wat ze nog steeds hongerig weg hapte.
+It was true. Across the entire farm, which was a considerable area, all nature grew as if it had entered a race to reach the sun first. 
 
-Elize betrad het veld. Beatrix keek toe hoe het kleine meisje een emmer vol water droeg, die bij elke stap iets over de rand morste, op haar kleding. Om haar schouder hing ook nog een tas, met daarop _medicijnentas_ geschreven in kinderlijke letters.
+Beatrix decided to put down _half_ a checkmark in several places.
 
-Beatrix legde plotseling een hand op Elize's rode lokken. 
+"And how many animals do you keep?"
 
-"Ander plan. Ik wil graag even uw dochter spreken. _Alleen._"
+Harry pretend to count. His large fingers pointed at the animals one by one, as he called them by name. Names which he invented on the spot.
 
-"Elize? Och, ja, ze helpt soms." Beatrix keek zuur. Harry haalde zijn schouders op. "Vraag maar raak, dan ga ik alvast koffie aanzetten."
+"Forty seven."
 
-Beatrix ging door haar knieën, zodat ze Elize in de ogen kon kijken. 
+"That's barely below the limit of _fifty_ for your plot, but acceptable. Then I'd just like to see that other barn---"
 
-Kuku sloop uit het weiland, een paar meter langszij. Haar hart bonsde in haar keel en ze had het idee alsof ze elk moment kon worden aangevallen. Maar Beatrix bekeek de kleine koe een fractie van een seconde ... en deed niks. 
+"Oh, don't worry. It's been empty for years, locked up and unused."
 
-Natuurlijk. Dieren hoorden vrij rond te kunnen lopen. Ze was Harry nu juist aan het helpen! Moest ze doen alsof ze veel pijn had? Moest ze gaan loeien? Ze haatte dat ze niet meer kon _praten_ met mensen.
+Kuku had joined Harry's counting, but continued for a little longer. He had nearly a _hundred_ animals. More importantly, her father stood in that other barn. Would he be able to breathe? With everything locked and the holes closed? 
 
-Ze liep door naar de andere stal die op slot zat.
+She nervously paced through the tall grass, hungrily nipping at everything within reach.
 
-"Hij zorgt heel goed voor de dieren!" zei Elize vrolijk. "Echt een dierenvriend. We leven alleen maar van onze boerderij, van de eieren, melk, vlees. Allemaal superlekker!"
+Elize entered the field too. Beatrix watched as the tiny girl carried a large bucket of water, which spilled some of it onto her clothes with every step. A bag was slung around her shoulder and showed the word _medicine bag_ written in childish handwriting.
 
-"Dat ... is fijn. Zorgt hij ook goed voor jou? Hoe vaak moet je werken?"
+Beatrix suddenly placed her hands on Elize's red hair.
 
-"Oh, nee hoor, ik moet niks. Ik vind het leuk om te helpen. Ze noemen mij Boerin Elize!"
+"Different plan. I'd like to speak to your daughter. _Alone_."
 
-"Ah. En hoeveel dieren heeft deze boerderij, Elize? Weet je dat?"
+"Elize? Oh, yes, she helps sometimes." Beatrix had a sour face. Harry shrugged casually. "Ask whatever you want. I'll make some coffee."
 
-Ze dacht even na. Haar wijsvinger tikte tegen haar kin, terwijl de wind speelde met haar krullen. "Ik denk iets van vijftig."
+Beatrix went down on her knees to match Elize's height.
 
-Elize's woorden klonken bekend. Harry had precies deze zinnen aan zijn dochter geleerd de afgelopen week.
+Kuku walked past the fence, to a different part of the farm. Her heart hammered in her chest and she feared an attack or kick in the behind every second. But Beatrix just looked at the cow for a split second ... and did nothing.
 
-"Hmm. En wat vind je van vaders moestuintje? Help je daar ook bij?"
+Of course! Animals were _supposed_ to walk around freely. She was _helping_ Harry now! Shouldn't she pretend to be hurt? Should she moo? She hated the fact that animals couldn't _talk_ with humans anymore.
 
-"Moestuintje?" vroeg Elize. "Ik weet---oh, dat."
+She walked to the other barn that was locked.
 
-"Je klinkt verbaasd."
+"He takes real good care of our animals!" Elize said cheerfully. "An animal's best friend. We live off of our own farm and nothing else. Of the eggs, the milk, the meat. Delicious!"
 
-"Harry noemt het een moestuintje. Hij is er, eh, trots op. Ik vind het weinig voorstellen en heb al meerdere keren per ongeluk dingen vernield. Een verwoesttuintje! Een morstuintje!"
+"That ... is great. Does he also take real good care of _you_? How often must you work?"
 
-Elize's vrolijkheid werkte aanstekelijk. Beatrix moest ook glimlachen en gaf haar een kusje op haar voorhoofd. "Kom, ik kijk even naar die laatste stal, en dan laat ik je weer boerin spelen."
+"Oh, no, I _must_ do nothing. I like helping. They call me Farmer Elize!"
 
-Kuku stond inmiddels bij die stal. Van de buitenkant zag die er inderdaad uit alsof hij vorige eeuw voor het laatst was gebruikt. 
+"Ah. And how many animals does this farm have, Elize? Do you know?"
 
-"Pap?" riep ze tegen de muur. "Pap? Alles oké? Mooht ik je bevrijden?" 
+She thought for a moment. Her index finger tapped her chin as the wind played with her curls. "I think fifty or something."
 
-In de oren van de inspectrice klonk dat natuurlijk als doodnormaal geloei. 
+Elize's words sounded familiar. Harry had taught these exact noises and intonation to his daughter the past week.
 
-Maar haar vader loeide terug van binnenin de stal. Een jankende, luide loei die iedereen kippenvel bezorgde.
+"Hmm. And your father's secret, mysterious _veggie patch_? Do you help with that too?"
 
-Beatrix' open schoten open. Ze moest veel sterker zijn dan ze leek, want ze pakte een stuk metaal en forceerde het slot.
+"Veggie pa---" Elize asked. "Oh that."
 
-Harry rende het huis uit met een smoesje, maar tegen de tijd dat hij haar schouder pakte, was het slot al gebroken en vlogen de deuren open.
+"You sound surprised."
 
-Een genadeloze stank kwam naar buiten, net zoals een horde angstige dieren die gewoon het daglicht wilden zien. Het zieke varken slingerde heen en weer en viel op de zij. Een schaap was maar voor de helft geschoren, rood van de wondjes. 
+"Harry calls it that. He is, erm, proud. I think it's nothing special and have accidentally destroyed it a few times. A veggie _slash_! A veggie _crash_---"
 
-Beatrix viel en werd vertrappeld door schapenpoten. Ze krabbelde net op tijd op, haar nette kapsel uit elkaar gesprongen als droog stro. 
+Elize's cheer was contagious. Beatrix smiled too and gave her a quick kiss on her forehead. Kuku wasn't sure if inspectors were supposed to do that, but it was a kind gesture anyway.
 
-"De inspectie plaatst boerderij _Nachtegaal_ in de categorie _kritiek_! Ik zal eisen dat het wordt gesloten!"
+"Come, child, let us take a quick look at the final barn, and then I'll let you play farmer again."
 
-Harry keek naar Kuku alsof hij haar kon vermoorden.
+Kuku stood at that barn now. From the outside, it indeed _looked_ as if it was used for the last time in the previous century.
+
+"Dad?" she yelled at the wall. "Dad? Everything okay?"
+
+To the inspector's ears this sounded like regular meaningless mooing, of course.
+
+But her father mooed back from inside the barn. A crying, deafening moo that gave everyone goosebumps.
+
+Beatrix' eyes shot open. She must have been much stronger than she looked, for she grabbed a piece of metal and forced the lock to break.
+
+Harry ran from the house with a list of excuses. By the time he grabbed her shoulder, though, the lock had already broken and the doors flew wide open.
+
+A merciless odor overwhelmed her. As well as a troop of scared animals who were eager to see daylight. The sick piglet staggered a few times, then fell on its side. A sheep had only been shorn on one half, which looked red from all the little wounds.
+
+Beatrix fell and was trampled by sheep. She rescued herself just in time, though her perfect hairdo looked like an explosion of dry straw.
+
+"The inspection has concluded that _Nightingale Farm_ is in _critical condition_! I'll demand it be closed!"
+
+Harry looked at Kuku as if he could kill her.
