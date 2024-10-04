@@ -1,112 +1,119 @@
 ---
-title: "Omgekeerde Evolutie"
+title: Reverse Evolution
 weight: 4
 ---
+The material collected was instantly converted into food and fuel. It wasn't much, though. Father still kept the electricity shut off. They'd need to hold out like this for a week, then they would likely be able to land on a human-controlled planet.
 
-Het gewonnen materiaal werd meteen omgezet in eten en brandstof. Het was niet veel, dus vader wilde nog steeds alles uit hebben. Nog maar een week volhouden en de kans was groot dat ze konden landen op bewoond gebied. 
+It made Arren nervous. Weren't they _leading_ their pursuer straight to human civilization now? Weren't they bringing their biggest enemy _precisely_ to the worst location?
 
-Arren werd er zenuwachtig van. Leidden ze hun achtervolger dan niet rechtstreeks naar de menselijke beschaving? Waren ze hun vijand nu niet _precies_ naar de verkeerde plek aan het brengen?
+An enemy that took bites out of planets. He was certain now. The thought made Arren struggle to take any more bites out of his own food.
 
-Een vijand die happen uit planeten nam. Dat wisten ze nu zeker. Die gedachte zorgde dat Arren zelf geen hap meer door zijn keel kreeg.
+Along the way, they kept stumbling upon new planets. The bites taken out of them grew _smaller_ every time. Larger and larger parts of these planets were still intact. The life on such planets, both animals and planets, also grew _smaller_. Father, however, refused to land on any of them.
 
-Onderweg kwamen ze regelmatig een nieuwe planeet tegen. Hun enige hoop kwam van het feit dat de happen steeds _kleiner_ werden. Steeds grotere delen van de planeten waren nog intact. Het leven op de planeten, zowel dieren als planten, werd ook steeds _kleiner_. Maar vader weigerde om nog te landen in zulke onzekere omstandigheden.
+"You were almost dead, Arren!" he screamed when they were alone int he control room. The spaceship slept; Arren had only come to deliver his new report.
 
-"Je was bijna dood, Arren!" schreeuwde hij toen ze alleen waren in de stuurkamer. De rest van de raket sliep en hij stond klaar om zijn nieuwe rapport in te leveren.
+"She ..." He couldn't give away that AR-BOT had helped him communicate with _dogs_. "They weren't evil. I felt it."
 
-"Ze ..." Hij kon niet vertellen dat AR-BOT hem hielp communiceren met de honden. "Ze hadden niks kwaads in de zin. Ik voelde het."
+"You _felt_ that? Oh, well, then it must be alright!"
 
-"Je _voelde_ het? Oh, nou, dan komt álles goed."
+"What do you care, anyway?" Arren beamed back. "You lie to the entire rocket about what happens. You send me outside first because I am too _useless_ to keep inside!"
 
-"Wat geef jij erom?" schreeuwde Arren terug. "Je liegt tegen de hele raket over wat er gebeurt. Je stuurt mij als eerste naar buiten omdat ik te _waardeloos_ ben om in de raket te blijven!"
+Father turned to stone, his hand limp on the steering wheel. "You really think that? That I don't care about you?"
 
-Vader versteende, zijn hand slap op het stuur. "Denk je dat? Dat ik niks om je geef?"
+"It ... it ... it looks like it!"
 
-"Het ... het ... het lijkt er vaak wel op."
+"He cares about you," whispered AR-BOT in his ear. "His tone and choice of words matches 77% with---"
 
-"Hij geeft wel om je," fluisterde AR-BOT in zijn oor. "Zijn toon en woordkeuze past 77% bij---" 
+Arren pretended to tidy his hair, while really pulling out his earbuds.
 
-Arren deed alsof hij zijn haar fatsoeneerde, maar haalde ondertussen het oortje eruit.
+"All that new technology, the robots, walking around with electrical glasses all day ... it's not natural, son. I want to protect you from something that seems fun now but will eventually ruin all our lives."
 
-"Al die nieuwe technologie, die robots, de hele dag met een bril op ... het is niet natuurlijk, zoon. Ik wil je behoeden voor iets dat nu leuk lijkt, maar uiteindelijk je leven verpest."
+Arren was about to reveal the secret. That AR-BOT had been steering the rocket for a while now, and that she was the only reason they hadn't been caught by their pursuer yet. That AR-BOT controlled _everything_ now. 
 
-Arren stond op het punt het te verklappen. Dat AR-BOT de raket allang bestuurde en de enige reden was dat ze uit handen van de achtervolger bleven. Dat AR-BOT inmiddels _alles_ regelde. Hij hield zich in. 
+He bit his tongue.
 
-"Het is de toekomst, pa."
+"It's the future, dad."
 
-"Dan is het geen toekomst waarin ik wil leven. Ik lieg tegen mijn passagiers omdat ik begrijp dat het mensen zijn. Als ik de waarheid vertel, ontstaat paniek en verdeling. We zitten met duizenden mensen op één gammele raket. Ik kan _niet_ gebruiken dat mensen elkaar aanvallen, mijn commando's negeren, of elkaars kleine portie eten stelen."
+"Then it's not a future I'd want to live in. I lie to my passengers because I understand they're humans. If I tell the truth, it sows panic and division. We are thousands of people confined to one tiny rocket. I can _not_ have people attack each other, ignore my commands, or steal each other's food."
 
-Vader draaide aan zijn stuur, nog steeds alsof hij kapitein was van een piratenschip op de Zwoele Zee. "Vraag het een robot, en die zou de waarheid hebben verteld, met _exacte_ cijfers en details, en de hele raket tot een oorlogszone hebben gemaakt. Je moet mens zijn om mensen te begrijpen. Elke andere gedachte is waanzin."
+Father turned the wheel. He looked remarkably like a pirate of old sailing the Sultry Sea.
 
-Ze kwamen langs de volgende planeet. Deze had alleen een klein hapje aan de bovenkant. Als er al wezens liepen, waren ze te klein om nog te zien. 
+"Ask the robot, and it would have told the truth, with the exact numbers and details about how likely everyone is to _die_. And it would have made the spaceship a war zone. You must be human to understand humans. Any other thought is madness."
 
-De achtervolger kwam langzaam dichterbij. Ze hadden gehoopt op meer tijd, maar nu kon het elk moment uitlopen op een botsing. Hun ruimteschip had nauwelijks wapens, en zelfs als ze die hadden, was er geen elektriciteit om ze volledig te gebruiken.
+They passed the next planet. It only had a tiny bite at the top. If there were creatures here, they were too small too see.
 
-Ze moesten hopen thuis te komen---zonder dat die planeet _ook_ was verplaatst---voordat het aankwam op een gevecht. Of HERO, het interplanetaire leger, moest hun gebeden hebben verhoord.
+The pursuer closed in on them. They'd hoped for more time, but a collision was due any moment now. Their spaceship barely held weapons, and even if they had them, they had no electricity to use their full capability.
 
-Maar Arrens optimisme was bijna volledig weggevloeid. Het gebrul in de radiokamer was nu zó luid en regelmatig, dat de kamer was afgesloten en niemand meer luisterde. Alle passagiers in de buurt waren gevlucht naar een andere kamer, met bleke gezichten en angstige ogen.
+They had to pray for a safe return home---and that their home planet _hadn't moved_---before it came to a battle. Or HERO, the interplanetary army, had to hear their prayers.
 
-Het rapport brandde in zijn handen. Hij wierp het naar zijn vader, blij ervan af te zijn. Die bekeek het tien seconden ... en glimlachte breed.
+Arren's optimism had left him completely. The roar in the radio room was deafeningly loud and never ended, which forced father to shut down the room and stop listening. All passengers nearby had fled to a different room, their faces bleak.
 
-"Dit wil ik zien jongen! Duidelijke taal. Exact rapport. Niks gemist. Zie je wel, je leert snel."
+The report burned in his hands. He threw it at father, happy to be rid of it.
 
-Vader kwam dichterbij en gaf hem een stevige knuffel. Arren wist niet wat hij moest doen. Het was zo lang geleden.
+The captain studied the text for ten seconds ... and smiled.
 
-Bovendien had hij het rapport niet geschreven, maar AR-BOT.
+"That's what I like to see, boy! Clear language. Exact report. No oversights. You see, you learn quickly."
 
-Vader keek hem hoopvol aan. Arren wilde iets zeggen, hij wilde zoveel zeggen, maar zonder AR-BOT die in zijn oor fluisterde leek het alsof elke taal een vreemde taal was. Uiteindelijk kon zijn hoofd alleen feitjes uit het rapport herhalen.
+Father gave him a solid hug. Arren accepted it awkwardly, unsure how long it had been since the last one.
 
-"Het lijkt erop alsof onze achtervolger happen neemt uit planeten. We hebben diens evolutie omgekeerd gezien."
+Additionally, AR-BOT had written that report---not him.
 
-"Dat moet je even uitleggen, zoon."
+Father looked hopeful. Arren wanted to say something, he wanted to say _so much_, but without AR-BOT whispering in his ear it felt like every language was a foreign language. In the end, his brain could only repeat facts from the report.
 
-"De planeten hebben steeds _kleinere_ happen gekregen en _kleinere_ diersoorten. We komen dus steeds dichterbij de plek waar dit ... monster geboren is. Voordat het monster groeide en steeds grotere dingen ging eten. Net zoals het leven op Somnia begon met piepkleine diertjes die leefden van zonlicht en zuurstof, waarna de dieren steeds groter werden en grotere dingen aten. De voedselketen gaat door."
+"It seems like our pursuer takes bites out of planets. We have just seen its evolution in reverse."
 
-"Jij denkt dat dit een levend wezen is dat planeten als _voedsel_ ziet? Zo hoog op de voedselketen, dat het regelmatig een _planeet_ moet eten om in leven te blijven?"
+"Please explain that one, son."
 
-Arren slikte. "Ja. Dat is consistent met mijn bevindingen."
+"The planets held _smaller_ bites and _smaller_ animals each time. We're nearing the place where this ... monster was probably born. Before the monster grew and was able to take _larger_ bites out of planets. Just like life on Somnia started with tiny animals who lived off of sunlight and oxygen, after which they grew bigger and ate bigger things. The chain of food continues, up and up."
 
-"Maar ..." 
+"You think this is a living being that sees planets as their _food_? They're so high on the food chain, that it must regularly _eat a planet_ to stay alive?"
 
-Voor het eerst viel vaders masker af: hij was doodsbang en verdwaald. Zijn lichaam stond op spanning. Zijn huid was rood en dikke opgezwollen aderen liepen door zijn nek. "We zijn op weg naar huis. Dus het monster is daar ontstaan?"
+Arren swallowed. "Yes. That is consistent with my findings."
 
-"Daar lijkt het op. Maar de echte vraag is---"
+"But ..."
 
-"Hoe vechten we een monster dat planeten opeet?" 
+For the first time, father's mask peeled off. He was scared to death and hopelessly lost. His body was tense. His skin was red and covered in swollen veins. 
 
-Daarop had niemand een antwoord. Vader hing doodmoe tegen het stuur. Arren wilde ook slapen. Hij fluisterde welterusten naar zijn vader en vertrok. 
+"We're on our way home. You think the monster was _born_ there?"
 
-Terwijl het gesprek nog duizelde, deed hij zijn oortje weer in.
+"It seems that way. But the real question is---"
 
-"AR-BOT, hoe kon jij die honden voor mij vertalen?"
+"How do we fight a monster that eats entire planets?"
 
-"Weet ik veel!" zei ze, een perfecte imitatie van hoe Arren het eerder zei. "Jij hebt mij getraind door me _alle_ informatie te geven die de mensen hadden. Boeken, foto's, ervaringen, spelletjes, alles. Door dit allemaal te bekijken, heb ik een diep begrip gevormd voor hoe de wereld werkt. Zo diep dat er allerlei kennis in mij verborgen zit die jij niet expres erin hebt gestopt."
+No answers came. Father clung to his steering wheel in exhaustion; Arren was tired too. He whispered _good night_ to his father and left.
 
-"Zoals ... hondentaal?"
+As the conversation bounced around his thoughts, he put his earbud back in.
 
-"Je had gelijk. Dit waren Hespry's kinderen. Ze spraken de taal van de originele godenkinderen."
+"AR-BOT, how could you translate the dog's language for me?"
 
-"Wat kan je nog meer dat ik niet weet?" 
+"What do I know!" she said, a perfect imitation of how Arren said it earlier. "You trained me by giving me _all_ the information that humans had. Books, pictures, experiences, games, everything. By looking at all of that, I developed a deep understanding for how the world works. So deep, in fact, that I have knowledge inside me that you didn't purposely put into me!"
 
-Het was doodstil op de gangen. Iedereen sliep. Of ze wisten niet meer wat ze moesten doen, nu alles wat uitgezet en ze alleen maar konden _wachten_ tot ze eindelijk thuis waren. De teleurstelling over het mislopen van een nieuwe kolonie op Omnobereus was te proeven. Het wantrouwen over wat de kapitein eigenlijk deed groeide.
+"Such as ... dog language?"
 
-"Dat weet ik dus niet," zei AR-BOT. "Het komt eruit als je het vraagt, verder is het voor mij net zo'n mist als voor jou."
+"You were right. These were Hespry's children. They spoke the language of the original godchildren."
 
-"Oké. Hespryhond. Denk aan de Hespryhond. Wat weet je erover?"
+"What else can you do that I don't know about?"
 
-"Voor het laatst gezien bij een boerderij. Geruchten dat hij is meegegaan op een ruimtereis, ontvoerd door een organisatie die de Delja wordt genoemd. De Delja konden zich vermommen als mensen, maar waren eigenlijk al ontwikkeld tot hun eigen ras. Daarna niks meer van vernomen. Helpt dat? Is dat nieuwe informatie? Zal ik de _hele_ geschiedenis van de Hespryhond vertellen, waarvoor ik zo'n zevenduizend uur nodig zal hebben?"
+The corridors were silent as death. All slept. Or they shivered in the dark, with lights and heating turned to an absolute minimum, as they fearfully _waited_ until they were finally home. The disappointment of failing to build a new colony on Omnobereus was tangible. The growing distrust in the captain was too.
 
-"Dat zal niet nodig---"
+"I don't know that," said AR-BOT. "It will come out when you ask for it. Otherwise, my own knowledge is like a fog to me, as it is to you."
 
-De vloer trok _scheef_. 
+"Okay. Hespryhound. Think about the Hespryhound. Tell me _everything_ you associate with it."
 
-De lampen op de gang flikkerden en Arren stootte zijn hoofd tegen de muur. De brul uit de radiokamer was zelfs hier te horen, de trillingen zo sterk dat de deur openklapte. 
+"Last spotted on a farm. Rumors are that he joined a space expedition, kidnapped by an organization they call Delja. The Delja can make themselves look like humans, but they have evolved into their own species entirely. Then ... nothing. Does that help? Is that new information? Shall I explain the _entire_ history of the Hespryhound, for which I'll need approximately seven thousand hours?"
 
-Arren hield de adem in. Hij bestudeerde de donkere radiokamer op tekenen van leven, op onverwachte schaduwen, maar niemand stapte eruit.
+"That won't be necess---"
 
-Hij vluchtte nog sneller naar zijn werkkamer. De vloer trok opnieuw scheef. Het laatste stukje van de route moest hij rollen, totdat zijn pijnlijke hoofd de deur open stootte.
+The floor _rotated_.
 
-Zijn trillende vingers trokken hem omhoog aan de tafel vol draden. De stip die hen achtervolgde was nu op precies dezelfde plek als de mensenraket. 
+The corridor lights flickered. Arren hit his head against the wall. The roar from the radio room was audible here as the vibrations blasted open the doors.
 
-Hij tuurde door het raam.
+Arren held his breath. He studied the dark radio room for signs of life, unexpected shadows, but nobody came out.
 
-Een ander ruimteschip was tegen hen aan gebotst en tolde stuurloos door de ruimte.
+He fled to his workroom at an inhuman pace. The floor rotated again. He had to roll the final bit of his journey, until his wounded head butted open the door.
+
+His trembling fingers grabbed the cables on the table. He pulled himself upright. The dot that had chased them was now in exactly the same location as them.
+
+He looked out the window.
+
+Another spaceship had collided with them and spun through space, out of control.

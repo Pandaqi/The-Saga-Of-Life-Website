@@ -1,8 +1,7 @@
 ---
-title: "Gatenkaas"
+title: Gatenkaas
 weight: 3
 ---
-
 Terwijl het ruimteschip de planeet naderde, werden kaarten geraadpleegd. Papieren kaarten van het zonnestelsel, want natúúrlijk had Arrens vader die in zijn bezit. Hij moest met tegenzin toegeven dat het goed uitkwam, nu alle andere elektriciteit was uitgezet.
 
 "Hier hoort geen planeet te zijn," concludeerde hij snel. "Dus we hebben te maken met een brullende vijand die planeten kan _verplaatsen_?"

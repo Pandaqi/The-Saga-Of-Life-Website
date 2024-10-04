@@ -1,146 +1,155 @@
 ---
-title: "Verdachte Vrienden"
+title: Fishy Friends
 weight: 7
 ---
+Arren's spaceship spun out of control. It twisted like a carnival attraction and made Arren throw up. He hoped it would only be a few seconds, but it kept going for minutes on end. It even seemed to _speed up_.
 
-De raket raakte stuurloos. Het draaide als een kermisattractie, waardoor Arren moest overgeven. Hij hoopte dat het slechts enkele seconden was, maar het hield aan, minutenlang. Het draaien leek zelfs te _versnellen_. Arren kon zich nauwelijks overeind trekken en staande houden. 
-
-Kom op, pap. Sturen dat ding.
-
-"Help!"
-
-Jannihs stem. 
-
-De volgende kogelregen flitste langs de ramen en zorgde voor het enige licht in de gang. 
-
-Waar kwam Jannihs stem vandaan? Arren zette zijn AR-BRIL op. Die zou haar locatie precies kunnen vinden, zeker als ze geluid bleef maken, net zoals hij zijn vader eerder had gevonden.
-
-De bril deed natuurlijk niks meer.
-
-Arrens vingers kropen opzij om AR-BOT toch weer aan te sluiten. Zonder AR-BOT deze situatie overleven voelde alsof hij in zijn eentje tegenover duizend soldaten stond, geblinddoekt en ziek.
- 
-Hij schudde zijn hoofd. Het moest zonder. 
-
-Maar hoe? Hoe vond hij in Ardex' naam één vrouw op een donkere kapotte raket?
-
-Nu hij even dichtbij de Planeter was geweest, besloot hij het toch een dier te noemen. Het hapte naar de raket als een dier. Het jaagde zoals een roofdier dat zou doen, met pauzes, en dan plots snelle uitvallen. Maar het viel alleen _hun_ raket aan, niet die andere.
-
-Hij keek naar buiten. De andere raket was _onzichtbaar_. Alleen de regen van laserschoten gaf weg dat het voertuig nog steeds langs hen zweefde. 
-
-Vader kreeg maar geen controle. Arrens lichaam werd van de ene naar de andere muur gegooid, waardoor hij steeds een ander beeld kreeg door zijn raam.
+Come on, dad. Take control!
 
 "Help!"
 
-Haar stem klonk van links. Hoe kon het dat zijn oren dat zo goed hoorden? 
+Jannih's voice.
 
-De Planeter was misschien groot en sterk, ja. Maar mensen hadden intelligentie en verfijning. Hij voelde dat daar de sleutel zat tot het verslaan van dit gevaar. Of misschien was dat een smoesje dat hij zichzelf vertelde om zich niet waardeloos te voelen.
+The next rain of laser bullets whizzed past the windows. It was the only light in the corridor.
 
-Eén voor één schopte hij de deuren open van kamers in de gang. Her en der ontdekte hij groepjes die schuilden, vaak onder tafels of bedden. Hij drong aan dat ze naar de stuurkamer gingen, voorin de raket. Daar was iedereen, daar waren ze het langste veilig. Niet iedereen durfde het advies op te volgen.
+Where did Jannih's voice come from? Arren put on his AR-GLASS. It would perfectly locate her, especially if she kept making noise, just like he'd found his father before.
 
-"Help! Iemand!"
+The glasses, of course, did nothing anymore.
 
-Iets anders klonk gelijktijdig haar stem: geklop en gebonk.
+Arren's fingers itched to reconnect AR-BOT. Survive all this without his robot? It felt like standing in front of an army of a thousand soldiers, alone, sick, and blindfolded.
 
-Een tussendeur. Ze zat vast achter de volgende tussendeur. Vader had hem dichtgedaan na de laatste aanval, want op zijn scherm kon hij niet zien of er nog passagiers waren.
+No. He had to do it without her.
 
-"AR-BOT, kraak de---" 
+But how? How in Ardex' name did he find one woman on a dark and damaged spaceship?
 
-Ook geen optie meer. Arren gromde en zocht in zijn uniform. Hij had alleen een schroevendraaier die hij gebruikte bij het maken van AR-BOT's computer. Daarmee wrikte hij een grijs kastje los waarachter toetsen en draden schuilgingen.
+After coming close to the Planeat, he decided to call it an animal anyway. It bit at the rocket like an animal. It chased them like a predator chased prey, pausing sometimes, then suddenly attacking again. But it only attacked _their_ rocket, not the other one.
 
-"Jannih! Hou vol!"
+He looked outside. The other rocket was _invisible_. Only the laser bullets gave away its location.
 
-De Planeter sloop dichterbij voor de volgende hap. Arren probeerde alle codes die hij kende, maar geen werkte. Hij schroefde het hele paneel los en keek naar de wirwar van elektronica erachter.
+Father finally regained control. Arren's body was thrown from one wall to another, giving him a different view of the battle each time.
 
-"Arren? Oh, Arren, open de deur! Alsjeblieft!"
+"Help!"
 
-De Planeter hapte. Jannih gilde. Arren sneed met zijn schroevendraaier een draad door. De schuifdeuren openden.
+Her voice sounded to his left. How could his ears hear this accurately?
 
-Hij reikte naar voren en trok Jannih naar binnen. De druk in de kamer erachter viel bijna meteen weg, waardoor ze allebei plotseling geen adem meer kregen en bijna flauwvielen. Arren hield de twee kapotte draadeindes nog één keer tegen elkaar, en de deuren sloten.
+The Planeat might be strong and large, yes. But humans had intelligence and refinement. He felt it had to be the key to defeating the danger. Or maybe it was an excuse to not lose hope.
 
-Kleine wolken zwarte mist van de Planeter waren ook binnengekomen. Ze omringden Jannih---maar ze deden niks. De mist zelf was dus niet gevaarlijk. Het ging om de hele Planeter. Net zoals de lippen van een mens niet gevaarlijk zijn, maar de hele kaak wel.
+One by one, he kicked open the doors to all the rooms. He discovered many groups of people hiding below tables or beds. He encouraged them to move to the control room at the front. Everyone should be there. It would be the safest place. 
 
-Ze kwamen even op adem en renden toen samen verder.
+Not many dared follow his advice.
 
-Jannih hield een rond apparaat vast. Haar eigen radio, gestolen uit de radioruimte. Het kleine gebarsten beeldscherm toonde een oudere vrouw met een herkenbare stem.
+"Help! Someone!"
 
-"HERO is bijna bij jullie," verzekerde ze, haar ogen groot en blik geschrokken. Had ze meegekeken met wat hier net allemaal gebeurde? "Ik heb deze informatie aan iedereen doorgegeven. Als die ... die ... monsters naar het Nibuwe stelsel komen ..."
+Something else mixed with her voice: knocking and bumping.
 
-"Gelukkig had Arrens robot ons precies de andere kant op gestuurd," zei Jannih. Haar handen trilden zo erg dat ze de radio steeds liet vallen. "Als we ze weg leiden ..."
+An intermediate door. She was stuck behind the next one. Father had closed it after the last attack, because his screen couldn't show if there were still passengers there.
 
-De vrouw keek streng, alsof ze haar kinderen boos toesprak. "We gebruiken een raket met _duizend_ passagiers niet als een lokaas! Waag het niet om heldhaftige opofferingen te gaan doen. Sowieso gaat het niet werken: als ze echt leven van planeten en ruimteschepen, geef je ze alleen maar meer voedsel! Je voedt het monster! We komen jullie redden en we gaan die Planeter verslaan."
+"AR-BOT, break the---"
 
-Het scherm wisselde naar een plattegrond van het Reuzenstelsel. De locatie van Arrens raket was een puntje aan de rand. De soldaten van HERO waren vele puntjes die snel dichterbij kwamen.
+Not an option anymore.
 
-Lichamen van passagiers zweefden langs het raam, door het lege duister van de ruimte. Eén fractie van een seconde in aanraking met de buitenwereld, nog korter dan knipperen met je ogen, en het was voorbij. In de ruimte was geen zuurstof, geen lucht, niks van alles dat een mens nodig had om te leven. Als de raket geen stand hield, hadden ze allemaal geen schijn van kans.
+Arren grunted and looked for his uniform. He had used a screwdriver for building AR-BOT's computer cage. With it, he loosened a gray box stuck to the wall. It revealed a row of buttons and cables.
 
-Jannih moest wegkijken. Arren focuste op de gang en zo hard mogelijk rennen.
+"Jannih! Hold on!"
 
-Tegen de tijd dat ze de stuurruimte bereikten, was de raket niet opnieuw aangevallen. De andere raket was ook gestopt met schieten. De Planeter leek even gevuld, misschien vertraagd door een volle maag. 
+The Planeat closed in for his next bite. Arren tried all the codes he knew, but none worked. He unscrewed the entire panel and studied the tangle of electronics that served it.
 
-Arren hoopte dat ze het wezen konden afleiden door andere planeten voor te schotelen. Er moesten nog een paar lekkere hapjes---van duizenden kilometers grootte---op de route liggen.
+"Arren? Oh, Arren, open the door! Please!"
 
-Vader hield het stuur stevig vast. Eindelijk kreeg hij de raket in bedwang. De meeste overlevende passagiers zaten in de stuurruimte of vlakbij, nog altijd in het donker. Ze leken zombies---doodsbang zijn had alle energie gekost.
+The Planeat snapped his jaws shut. Jannih screamed.
 
-De andere raket klampte weer vast aan de zijne. De onderzoekster betrad de stuurruimte met een klein groepje.
+Arren cut a cable with his screwdriver.
 
-"Onze wapens zijn op," zei ze tegen niemand specifiek. "Wat is het plan?"
+The doors opened.
 
-"HERO is binnen een dag bij ons," zei Jannih.
+He reached inside and pulled Jannih inside. The pressure in the room instantly fell away, sucking out their breath and almost making them faint. Arren connected the two broken cables again to shut the doors.
 
-De vrouw haalde nerveus een hand door haar krullende haren. "En dan? Je ziet dat ze niet doodgaan van wapens."
+Clouds of black Planeat fog had entered too. They surrounded Jannih---but they did nothing. The fog itself wasn't dangerous then. It was about the entire Planeat. Just as a human's lips weren't dangerous, but the entire mouth was.
 
-"En jullie wapens zijn een stuk sterker dan ik ooit heb gezien," zei kapitein Kirren. "Mag ik nogmaals vragen waar jullie vandaan komen?"
+They searched for breath, then ran back.
 
-Arren fluisterde: "AR-BOT, vertel me wat je denkt over deze---laat maar, je bent er niet meer."
+Jannih held a round machine. Her own radio, stolen from the radio room. The small screen was broken and showed an elderly woman with a recognizable voice.
 
-"Ik was onderzoeker onder Trevran. Wij zijn afgehaakt bij zijn expeditie naar het einde van het heelal---het werd veel te gevaarlijk. We weten bijna niks over wat er voorbij het Reuzenstelsel ligt! Op de weg terug werden we overvallen door Planeters."
+"HERO is almost with you," she assured her. Had she seen what had happened her? Did the interplanetary army know what they were walking into? "I've spread this information throughout the galaxy. If those ... those ... monsters come near the Nibuwe system ..."
 
-"_Meerdere_?"
+"Fortunately, Arren's robot sent us in the opposite direction," said Jannih. Her hands shivered and frequently dropped the radio. "If we lead them away ..."
 
-"Zoals elk dier kunnen ze kinderen krijgen en vermenigvuldigen. Wat wij net vochten, was een jong kind."
+The woman's face turned stern, as if giving her children a lecture. "We do _not_ use a spaceship with a _thousand_ passengers as fish bait! Don't you dare try some heroic sacrifices. It won't work anyway: if they really eat planets and spaceships, then you'll just be giving it more food. You'll be feeding the monster! We're coming to save you and to defeat the Planeat."
 
-Dat maande de stuurruimte tot stilte. 
+The screen switched to a layout of the Giant System. Arren's spaceship was a dot near the edge. The HERO soldiers were a flock of dots that rapidly closed in.
 
-Arren vond het verdacht. Nu AR-BOT weg was, moest hij zelf gaan denken zoals AR-BOT. _Maak een lijst van alle feiten, trek logische conclusies._ 
+Bodies of passengers floated past the window, through the emptiness of space. A single heartbeat of full exposure to the galaxy, no more than the blink of an eye, and it was over for you. Space had no oxygen, no atmosphere, nothing of what humans needed to survive. If the spaceship didn't hold, they had no chance at all.
 
-Geen bekende raket. Geen bewijsbare geschiedenis, want over Trevran wist niemand iets. En dan hadden ze nog Hemelvoorwerpen aan boord---de Zingende Bloemen---en sterkere wapens. 
+Jannih looked away. Arren focused on the corridor ahead.
 
-Wat zou AR-BOT hebben gedacht? Die zou verder onderzoek hebben gedaan naar elk feitje in diens database. Die zou precies weten wat de kans was dat ze de waarheid spraken. Die zou hebben doorgevraagd naar logische verklaringen.
+By the time they reached the control room, they hadn't been attacked again. The other spaceships had stopped shooting. The Planeat seemed satisfied, perhaps delayed by a full belly.
 
-"Vergeef me," begon Arren, "maar hoe weten jullie dit?"
+Arren hoped to delay them even more by offering up other planets. A few more tasty snacks---a thousand kilometers in size---should be along their path.
 
-"We hebben deze Planeter geboren zien worden."
+Father held the steering wheel tight. Finally he was the master of the spaceship again. Most surviving passengers sat around him on the floor. They looked like zombies, drained by being afraid for days on end.
 
-"Jullie zijn lange tijd in de buurt geweest van meerdere Planeters ... en de ergste schade is een meisje met een hoofdwond en een dode kapitein?"
+The other spaceship attached to theirs again. The scientist entered the control room with a small group of followers.
 
-De vrouw haalde opnieuw de handen door het haar. De vingers waren niet gelijk gekleurd. Ook zoiets raars. Enkele hadden een stuk huid in een andere kleur, alsof daar lange tijd een ring had gezeten die de huid had verbrand.
+"Our weapons are done," she said to nobody in particular. "What's the plan?"
 
-Het gewonde meisje stond ook in de stuurkamer. Haar ouders knikten dankbaar naar Arren en Jannih.
+"HERO will be with us in a day," said Jannih.
 
-"Wij hebben niet jullie leven gered," zei de vrouw, "zodat jullie ons konden verdenken en beschuldigen."
+The woman nervously moved her hands through her curling hair. "And then? You've seen that weapons won't kill it."
 
-Arren wilde in zijn schulp kruipen. Terug in het donkere hoekje, AR-BOT vragen om dit soort dingen te doen---maar dan beter. 
+"And your weapons are far stronger than any I've ever seen," said captain Kirren. "May I ask again about your origins?"
 
-Zijn vader liep naar hem toe. Hij zou een hand op zijn mond leggen, hem meenemen buiten de ruimte, en dan boos worden over "angst zaaien" en "bondgenoten wegduwen"---zoals hij bij Jannih had gedaan.
+Arren whispered: "AR-BOT, tell me what you think about these---never mind, you're not there."
 
-Het gebeurde niet. Kirren kwam bij hem staan en legde een hand op zijn schouder.
+"I was a researcher with Trevran. We dropped out of the expedition to reach the other edge of the galaxy---it was far too dangerous. We know almost nothing about what's _beyond_ the Giant System! On the way back, we were ambushed by several Planeats."
 
-"Mijn zoon stelt slechts vragen. Hele logische vragen. Het is ons bijvoorbeeld ook niet ontgaan dat jullie ruimteschip onzichtbaar kan worden. We moeten de volledige waarheid boven tafel krijgen, anders verslaan we die Planeters nooit."
+"_Several_?"
 
-"Je _kunt_ ze niet verslaan!" riep de vrouw. "Ze zijn letterlijk het allerhoogste dat het universum te bieden heeft. Bovenaan de voedselketen. Groter dan planeten. Wij zijn mieren die vechten tegen een dinosaurus! Het enige dat miljoenen jaren aan dinosaurussen heeft stopgezet, was een grote ramp en het werk van de goden. Nou, de Planeters _zijn_ de nieuwe goden."
+"Like any animal, they can bear children and multiply. What we just fought is a mere baby."
 
-De ruimte viel opnieuw stil.
+Arren thought it suspicious. With AR-BOT gone, he had to think _like_ AR-BOT himself. _Make a list of all facts, then draw logical conclusions._
 
-"Dus we vluchten?" vroeg vader. "Voorgoed?"
+Not a known spaceship. No provable history, for Trevran was a mystery to everyone. And then they owned Heavenmatter---the Singing Flowers of Eeris---and stronger weapons.
 
-"Ik weet dat de trots van de mensenwezens het niet aankan." Deze vrouw moest wel een biologe zijn, de manier waarop ze sprak over mensen en leven. "Maar bijna alles in het universum leeft van dag tot dag, altijd op de vlucht. Het wordt tijd dat mensen hun plek ook herkennen."
+What would AR-BOT have thought? She would've done further research into every single fact, querying her database. She'd know exactly how _likely_ it was they were speaking the truth. She would've asked more questions to find logical answers.
 
-_De Planeters zijn de nieuwe goden._ Wat was het aan die uitspraak dat Arren niet zinde? Waarom spraak ze over mensenwezens, niet mensen of de medemens?
+"Forgive me," said Arren, "but how do you know this?"
 
-Toen viel het kwartje. Die plekken op haar hand kwamen van de Vuurring, het Hemelvoorwerp van Ardex. Hun ruimteschip kon onzichtbaar worden dankzij de Steen van Zekerstof. De Hespryhond was achtergelaten rond het nest van de Planeters. In hun raket stonden de Zingende Bloemen van Eeris.
+"We saw a Planeat be born."
 
-Op een bepaald moment had deze vrouw waarschijnlijk _alle_ Hemelvoorwerpen in haar bezit.
+"You've been near multiple Planeats for a while ... and your worst damage is a girl with head trauma and a dead captain?"
 
-In hun kamer stond de persoon die al eeuwen door mensen werd gevreesd. Afgejaagd en verguisd als het sterkste wezen ooit.
+The woman pulled at her hair again. Her fingers all looked different. Another strange thing. Some had a discolored band, as if she'd worn a ring there that had burned the skin away.
 
-"Arresteer haar!" schreeuwde Arren. "Zij is de leider van de Delja!"
+The wounded girl stood inside the control room too. Her parents nodded at Arren and Jannih with gratitude.
+
+"We did not save your lives," said the woman, "for you to insult and accuse us."
+
+Arren wanted to shrink into his shell. Back in a dark corner, ask AR-BOT to do these things for him, but better.
+
+His father came close. He'd probably put a hand on his mouth, take him out of the room, and tell him not to "sow fear" and "alienate allies"---as he'd done with Jannih.
+
+Instead, Kirren placed a hand on his shoulder.
+
+"My son merely asks questions. Very logical questions. We couldn't help but notice your spaceship can become _invisible_. We need the truth, all of it, if we hope to defeat the Planeats."
+
+"You _can't_ defeat them!" yelled the woman. "They are literally the highest form of life that the galaxy has to offer. At the top of the food chain. Larger than planets. We are _ants_ fighting a _dinosaur_! The only thing that stopped the dinosaurs back then, was a large natural disaster and mistakes by the godchildren. Well, well, the Planeats _are_ our new gods."
+
+The room fell silent.
+
+"So we flee?" asked father. "Forever?"
+
+"I know the immense _pride_ of human creatures can't handle that." This woman must have been a biologist, the way she spoke about humans and life. "But everything in the universe lives from day to day, always fleeing and always at risk of death. Perhaps it's time humans recognized their place too."
+
+_The Planeats are the new gods._ What was it that Arren disliked about this statement? Why did she talk about _human creatures_, not _fellow humans_ or _us_?
+
+He realized.
+
+The discoloring on her hand came from the Firering, the Heavenmatter of Ardex. Their spaceship could become invisible because of the Stone of Destinydust, the Heavenmatter of Darus. Within their spaceship stood the Singing Flowers, Heavenmatter of Eeris.
+
+And sure, they probably left behind the Hespryhound near the nest of the Planeats. As an offering. As a sacrifice, hoping to slow it down.
+
+At some moment, this woman probably held _all_ Heavenmatter in her possession.
+
+In their room stood the being that had been the subject of fearsome tales and gruesome myths for centuries. Hunted and researched for being the strongest creature ever.
+
+"Arrest her!" screamed Arren. "She is the leader of the Delja!"

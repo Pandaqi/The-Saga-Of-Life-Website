@@ -1,8 +1,7 @@
 ---
-title: "Omgekeerde Evolutie"
+title: Omgekeerde Evolutie
 weight: 4
 ---
-
 Het gewonnen materiaal werd meteen omgezet in eten en brandstof. Het was niet veel, dus vader wilde nog steeds alles uit hebben. Nog maar een week volhouden en de kans was groot dat ze konden landen op bewoond gebied. 
 
 Arren werd er zenuwachtig van. Leidden ze hun achtervolger dan niet rechtstreeks naar de menselijke beschaving? Waren ze hun vijand nu niet _precies_ naar de verkeerde plek aan het brengen?

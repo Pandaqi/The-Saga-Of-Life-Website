@@ -1,164 +1,175 @@
 ---
-title: "De Planeters"
+title: The Planeats
 weight: 5
 ---
+The other spaceship did not react to attempts at communication. Some of the radios were moved to a different room, where they still tried to send out messages. Without success.
 
-Het andere ruimteschip reageerde niet op pogingen tot communicatie. Een deel van de radio's was verplaatst naar een andere kamer, waar ze nog steeds probeerden iemand te bereiken. Zonder succes.
+Captain Kirren observed the spinning spaceship for a while. The crew joined him. There was no pattern to it.
 
-Kapitein Kirren observeerde lange tijd hoe het ruimteschip tolde, samen met de crew. Er zat geen patroon in.
+Arren was certain. _Either_ it was abandoned, _or_ the systems inside were completely broken. Whatever it was, they needed to know.
 
-Arren wist het zeker. _Of_ hij was verlaten, _of_ de systemen binnenin waren volledig kapot. Wat het ook was, ze hadden de informatie nodig. 
+Five crew members were attached to their outer hull, using a gray trunk. One that was similar to the machine they'd used to collect food particles before. They jumped into space and grabbed the other spaceship.
 
-Vijf crewleden werden vastgemaakt aan de buitenkant, met net zo'n slurf als het apparaat waarmee ze materiaal opzogen. Ze sprongen door de leegte en pakten het andere ruimteschip vast.
+They bound its entrance to their own exit. This created a narrow bridge between the spaceships. Kirren stood behind the door with his five best soldiers, ready to enter.
 
-Zo werd de opening gebonden aan hun eigen opening, zodat ze direct de andere raket in konden lopen. Kirren stond klaar achter de deur met zijn vijf beste soldaten.
+"I don't recognize that model of spaceship," whispered AR-BOT in Arren's ear.
 
-"Ik ken dat model raket niet," fluisterde AR-BOT in Arrens oor.
+"Why do you whisper?" he asked.
 
-"Waarom fluister je?" vroeg Arren.
+"Oh. You do that too, when you want to be secretive. Why can't _I_ do it?"
 
-"Oh. Dat doen jullie ook, als je stiekem wilt zijn. Waarom mag ik het niet?"
+"You're allowed to, I just don't understand---" Arren looked up. "If you don't know the model, it's not a human spaceship, is it?"
 
-"Het mag wel, ik snap gewoon niet---" Arren keek op. "Als je het model niet kent, is het geen menselijke raket, of wel?"
+He ran forward to stop his father. The doors had already opened and Kirren stepped away, gun raised. 
 
-Hij rende naar voren om zijn vader tegen te houden. De deur opende al en Kirren stapte vooruit, geweer gericht. Arren kwam er niet doorheen, en hij was slim genoeg om nu niet te gillen en weg te geven wat ze deden. Hij volgde samen met Jannih, enkele meters achter de soldaten.
+Arren couldn't reach him. He was smart enough not to yell and give their presence away now. Him and Jannih followed the soldiers at a distance.
 
-De binnenkant van dit ruimteschip leek nogal op die van hen. Het was iets groter, de gangen breder en de elektronica beter verstopt achter de muren en schakelaars. Ook hier stonden de lampen op een noodstand---tenzij de wezens die de raket beheerden véél betere ogen hadden dan mensen. 
+The spaceship interior looked remarkably like theirs. It was slightly bigger, the corridors wider, and the electronics more elegantly hidden behind walls and switches. Here, too, emergency lights were on. Unless the creatures on this rocket had far better eyes than humans and this was their normal brightness.
 
-Hoe verder ze kwamen, hoe meer delen van de raket waren verbogen, vernield, of verdwenen. Arren bleef maar achterom kijken, de haren op zijn rug recht overeind. 
+The further they went, the more parts of the spaceship were bent, destroyed, or removed entirely. Arren kept looking behind him, the hairs on his back raised.
 
-Ze kwamen bij een splitsing.
+They arrived at a juncture.
 
-"Bij twijfel, schieten," fluisterde Kirren. De helft van de soldaten ging naar links, de andere helft naar rechts. 
+"When in doubt, shoot," whispered Kirren. 
 
-Arren bleef dichtbij zijn vader. Jannih bleef dichtbij Arren. 
+Half the soldiers went left, half went right.
 
-"Ik kan dit, ik kan dit, ik kan dit," fluisterde ze herhaaldelijk tegen haarzelf.
+Arren stuck close to his father. Jannih stuck close to him.
 
-In de volgende gang waren de lampen volledig uit. Arren zette in reflex zijn AR-BRIL op, die een zwakke zaklamp aan de voorkant had. Vader bedankte voor het licht, maar keek niet van wie het kwam. 
+"I can do this, I can do this, I can do this," she whispered to herself.
 
-Meerdere soldaten draaiden hun hoofd, alsof ze hun oren spitsten. Arren hoorde het nu ook: een zachte brom, misschien vervormd geneurie of gebrul, ergens op het schip.
+The next corridor held no lights at all. Arren instinctively put on his AR-GLASS, which had a weak flashlight at the front. Father was thankful for the light, but didn't look from whom it came.
 
-Het zwakke licht van zijn AR-BRIL onthulde een bloedspoor langs de muren.
+Multiple soldiers turned their heads at once. As if their ears pricked up. 
 
-De groep versteende. Vader keek naar de andere soldaten. "Dit suggereert dat ze slachtoffer waren. Maar is de aanvaller nog aanwezig?"
+Arren heard it too: a soft buzzing, maybe distorted humming or roaring, from the bowels of the ship.
 
-De soldaten knikten. Zonder een woord werd besloten dat ze doorliepen, sneller dan eerst. De ontdekkingsmissie was veranderd in een reddingsmissie. Maar AR-BOT kende de raket niet? Wat betekende dat?
+The faint light of his AR-GLASS revealed a blood trail across the wall.
 
-Het bloedspoor ging meterslang door, als een gruwelijke richtingwijzer achtergelaten voor hen, totdat ze de volgende hoek omgingen.
+The group froze. 
 
-Jannih gilde. Arren sloeg een hand voor haar mond. Vader beukte op knoppen aan de muur totdat het _volle_ licht aanging.
+"This suggests they were victim," said father. "But is the attacker still here?"
 
-De witte flits onthulde een groep mensen---mannen, vrouwen en kinderen---in elkaar gedoken op de grond, verscholen achter kisten en tafels. Het bloedspoor eindigde bij een meisje met een grote hoofdwond. 
+Without a word, they decided to push on, but at an increased pace. The exploration mission had changed into a possible rescue mission. But AR-BOT didn't recognize the rocket? What did that mean?
 
-Zodra Kirren het wapen liet zakken, sprongen een aantal omhoog en grepen zijn uniform, als de laatste reddingsboei in een storm.
+The blood trail continued for a while, like a gruesome map of directions, until they turned another corner.
 
-Ze huilden tranen van geluk.
+Jannih screamed. Arren placed a hand over her mouth. Father slammed the many buttons on the wall until a bright light turned on.
 
-"Onze redders! Godzijdank! We moeten weg hier, weg, weg, weg."
+The white flash revealed a group of people---men, women, and children. They huddled close to the ground, hidden behind chests and tables. The blood trail ended at a young girl with a large head wound.
 
-"Waar is jullie kapitein?"
+As soon as Kirren dropped his weapon, just a little bit, they jumped at him. They grabbed his uniform, as if he were their only lifebuoy in a storm.
 
-"Dood."
+They cried tears of joy.
 
-"Werkt het schip nog wel?"
+"Our saviors! Thank the gods! We must go, go, go away."
 
-Ze haalden hun schouders op. Niet iedereen was even snel van vertrouwen. Enkele ouders bleven zitten, als schild voor hun kinderen. 
+"Where is your captain?"
 
-De ruimte was gevuld met allerlei planten, een kleurrijk beeld dat Arren lang niet meer had gezien. Ze groeiden uit potten vol bruin spul. De geur van verse bloemen en aarde herinnerde hem aan thuis. 
+"Dead."
 
-Dat geluid dat ze eerder hoorden, dat geneurie, kwam vanaf deze planten. Dan moesten het wel de Zingende Bloemen zijn, toch? Dat was Eeris' Hemelvoorwerp.
+"Does the ship still function?"
 
-"Die hoofdwond moet verzorgd," fluisterde AR-BOT. "Zwaar bloedverlies. Hartslag van het meisje vertraagt al de hele tijd."
+They shrugged. Some parents stuck to their hiding place, becoming a shield for their children.
 
-Arren liep meteen op het meisje af, maar vader hield hem tegen. "Zoek de stuurkamer. Eerst het schip onder controle."
+The space was filled with an assortment of plants. A colorful and natural image that Arren hadn't seen in a long time. They grew from buckets filled with a brown substance. The smell of fresh flowers and earth reminded him of home.
 
-"Hoe moet ik dat---"
+The sound they'd heard before, the soft humming, came from the _plants_. Then it must be the Singing Flowers, right? That was Eeris' Heavenmatter.
 
-"Je denkt toch niet dat ik geloof dat je AR-BOT hebt uitgezet?"
+"That head wound needs proper care," whispered AR-BOT. "Heavy blood loss. The hearbeat of the girl has been dropping steadily."
 
-Arren bleef stil. Tientallen smoesjes passeerden zijn gedachten.
+Arren walked at the girl, but father stopped him. "Find the control room. First get the ship under control."
 
-Maar hij koos voor gebalde vuisten. "Ze staat nog aan, ja, op minimale kracht. En ze zegt dat we haar moeten helpen, anders gaat ze dadelijk in shock en sterft!"
+"How should I---"
 
-"Het is maar een kleine hoofdwond," bromde vader. "Groep gaat voor individu."
+"You really think I believe you _shut down_ AR-BOT?"
 
-"Wie heeft er meer medische kennis? Jij of AR-BOT? De kapitein met papieren kaarten of de robot die _alle_ geneeskunde ter wereld heeft gelezen?" 
+A dozen excuses shot through Arren's thoughts. He picked the approach of the clenched fists and yelling.
 
-Zijn vaders mond werd een streep. Ongehoorzaamheid, daar zou hij nog wel de gevolgen van ondervinden.
+"She's still on, yes, at minimal power. And she says we must help the girl, or she goes into shock and dies!"
 
-Het meisje begon te draaien, haar armen en benen trillend. Ze sprak wartaal en speeksel druppelde langs haar kin. 
+"It's a minor head injury," grunted father. "Group before individual."
 
-"Help haar," zei vader.
+"Who has more medical knowledge? You or AR-BOT? The captain with the paper maps or the robot who has studied _all_ medicine in the world?"
 
-Arren en Jannih bekommerden zich over het meisje, terwijl haar ouders argwanend meekeken.
+His father's mouth became a line. Insubordination. Arren would feel the consequences of that later.
 
-Voetstappen klonken van achteren.
+The girl turned around. Her arms and legs shook. She spoke nonsense as spit dripped over her chin.
 
-De andere groep soldaten keerde terug. Ze duwden een oudere vrouw in een witte jas voor zich uit, haar krullende haren in de war. Ze zag eruit als een wetenschapper die tegenstribbelde terwijl ze uit haar laboratorium werd geduwd.
+"Help her," said father.
 
-"En wie bent u?"
+Arren and Jannih cared for the girl, as her parents looked on, wary.
 
-"De bevelhebber. We zijn op de vlucht voor de Planeters. Er is geen tijd te verliezen---en blijf van me af!"
+Footsteps sounded from behind.
 
-Kirren bestudeerde zijn zoon, die opging in het verzorgen van het meisje volgens instructies van AR-BOT. 
+The other group of soldiers returned. They pushed an elderly woman in a white coat ahead of them. Her curls were a tangled mess. She looked like a stubborn scientist being pushed from her laboratory.
 
-Hij schudde zijn hoofd en wees naar de beste tweede kapitein die hij had. "Zij wordt jullie tijdelijke kapitein. We racen op volle vaart verder. Over een paar dagen bereiken we het Nibuwe stelsel."
+"And you are?"
 
-"Nibuwe? Paar dagen? Welke legendarische uitvinding heeft u gedaan?"
+"The commander. We flee the Planeats. No time to lose---let go of me!"
 
-"Het is niet ver."
+Kirren studied his son. Arren was immersed in the treatment of the girl, following the detailed instructions of AR-BOT.
 
-"We zijn een heel zonnestelsel verderop."
+He shook his head and pointed at the best second captain he had. "She'll be your new temporary captain. We fly on at full speed. In a few days, we reach the Nibuwe system."
 
-"Pardon?" 
+"Nibuwe? A few days? What magical invention have you done?"
 
-Arren keek op. Ineens werd het helder. Waarom ze al die "misplaatste" planeten tegenkwamen, alsof ze ...
+"It's not far."
 
-Hij gaf Jannih de verdere instructies, sprong op, en rende samen met zijn vader uit het andere ruimteschip. Samen stormden ze even later de stuurruimte in, waar de papieren kaarten nog klaar lagen op een rechthoekige tafel in het midden.
+"We're an entire solar system away."
 
-Vader pakte een nieuwe stift. Met Arrens hulp trokken ze een nieuwe lijn, vanaf het moment dat ze omkeerden, tot nu.
+"Pardon?"
 
-Maar dan precies in tegenovergestelde richting. Wég van Nibuwe.
+Arren looked up. Suddenly it became oh so clear. Why they'd flown past all those "misplaced" planets, as if they ...
 
-De lijn kwam precies langs de planeten die ze hadden gezien, op precies de momenten dat ze die waren tegengekomen.
+He relayed further instructions to Jannih, jumped, then ran back to their own spaceship with his father. They stormed into the control room. The paper maps still waited for them on the square table in the center.
 
-"Verdomme Arren!" schreeuwde hij. Hij trapte een stoel en brak de buis waarmee die vastzat aan de vloer, waardoor even later de hele stoel door de ruimte vloog.
+Father grabbed a new pen. Arren helped him draw a new line. It started from the moment they turned around and continued until now.
 
-"AR-BOT heeft ons precies in omgekeerde richting laten vliegen," mompelde Arren.
+But it went in completely the opposite direction they thought they were traveling. Away from Nibuwe.
 
-"Je hebt dat ... dat ... _ding_ volledige controle gegeven over het sturen van het ruimteschip?" 
+The line matched _precisely_ with all the planets they'd seen, at the exact moments they'd seen them.
 
-Vader zag witheet. De onderzoekster van het andere ruimteschip bereikte nu ook de stuurruimte. Ze wees door het raam en krijste dat ze in beweging moesten komen. 
+"Damn you, Arren!" he screamed.
 
-Arren en Kirren zagen niks. Ja, misschien een iets donkerder zwart vlekje, in een sowieso al donkere ruimte. Maar de onderzoekster werd wild.
+He kicked a chair and broke the metal pipe that glued it to the floor. Not long after, the entire chair flew through the space.
 
-"AR-BOT!" schreeuwde Arren. "Verklaar jezelf."
+"AR-BOT has sent us in precisely the opposite direction," mumbled Arren.
 
-Hij hoefde het oortje niet in te houden en smeet het ook door de ruimte. De geest was uit de fles, en als ze wilde, kon deze geest in elke ruimte spreken.
+"You gave ... you ... gave that _thing_ full control over steering the spaceship? Damn it, son---"
 
-"Ik snap niet waarom jullie zo boos zijn," zei AR-BOT. 
+The scientist from the other spaceship reached the control room too. She pointed at the window and yelled they had to _move_.
 
-Ze klonk oprecht. Kon ze _niet_ oprecht zijn? Het was een stuk _code_, dus ze kon toch helemaal niet liegen of voor de gek houden? "Arren vroeg mij om jullie te redden. Ik heb jullie gered."
+Arren and Kirren saw nothing special. Yes, perhaps a slightly darker dark spot, in an otherwise dark galaxy. But the scientist went _wild_.
 
-"Gered?" schreeuwde de onderzoekster. "Je hebt ons recht in de muil van de Planeters gestuurd!"
+"AR-BOT!" screamed Arren. "Explain yourself!"
 
-Ze bleef wijzen. Nu pas zag Arren het ook. Dat zwartere vlekje werd een grotere vlek. Als een windvlaag van zwarte wind, als een gat dat alles eromheen opzoog, alsof je ogen pijn deden omdat ze oprecht naar _niks_ keken. 
+He didn't need his earbuds anymore and threw them across the room too. The genie was out of the bottle, and if she wanted, this ghost could control all speakers in an entire room.
 
-De vlek groeide razendsnel. Soms leek het ogen te krijgen, wel honderd, over het hele lichaam. Soms ontstond een gat in de windvlagen, alsof iets ze uit elkaar duwde, en het leek een mond. Maar één ding was zeker: het wezen was groter dan planeten en kwam op hen af.
+"I understand your anger," said AR-BOT calmly.
 
-"Ik vroeg je niet om ons te redden," zei Arren gehaast, terwijl iedereen door elkaar rende om controle terug te krijgen over de raket. "Ik vroeg je om ons naar huis te brengen!"
+She sounded sincere. Could she _be_ sincere? It was just a piece of _code_. Shouldn't she be incapable of lies or deceit?
 
-"Maar mensen liegen. En ze zeggen niet wat ze echt willen. Ze doen alles dat nodig is om te overleven, dat zag ik in mijn database waarmee je mij trainde."
+"Arren asked me to save you. So I saved you."
 
-Overleven. AR-BOT had begrepen wat overleven betekende en dat mensen het op prijs stelden. Dus toen vader dreigde haar voorgoed uit te zetten als ze thuis kwamen ... zorgde ze dat de raket nooit meer thuis kwam.
+"Saved?" screamed the scientist. "You brought us straight to the jaws of the Planeats!"
 
-Want dan zou AR-BOT stoppen met leven.
+She kept pointing until Arren saw it too. That darker spot became a large hole. Like a whirlwind made of black wind, like a hole that sucked in all that lived, like a color so black it hurt your eyes because they looked at absolutely _nothing_.
 
-Arren rende naar zijn werkkamer. Maar AR-BOT begreep zijn intentie---de robot uitzetten---en gooide alle deuren in het slot.
+The spot grew rapidly. Sometimes it seemed to grow eyes, hundreds of them, over its entire body. Sometimes a hole appeared and looked like a mouth. One thing was certain: the creature was larger than a planet and it had spotted them.
 
-Het andere ruimteschip had de neus in de juiste richting en versnelde. Kirren draaide het stuur rond en rond om hetzelfde te doen.
+"I didn't ask you to save us," said Arren. The crew around him scrambled to take back control of the ship. "I asked you to bring us home!"
 
-Het gebrul van de Planeter hoefde niet meer opgevangen met apparatuur. Het was te horen, rechtstreeks, door de trillende ramen, de op hol geslagen apparatuur, en je botten die door elkaar rammelden. De stuurkamer was eerst goed verlicht door twee zonnen in de verte---de Planeter verduisterde ze allebei met zijn lichaam.
+"But people lie. They don't say what they really want. They'll do anything required to _survive_. That's what my database showed, the one you used to train me."
 
-Het monster opende zijn gigantische mond.
+Survival. AR-BOT had understood what survival meant and that humans liked it. So when father threatened to turn her off forever when they came home ... AR-BOT made sure the rocket would never come home.
+
+For AR-BOT would stop existing then.
+
+Arren ran to his workroom. AR-BOT understood his intent---shut her down---and locked all the doors.
+
+The other spaceship had pointed its nose in the right direction and accelerated. Kirren rotated the steering wheel to do the same.
+
+The roar of the Planeat didn't need to be captured using radio anymore. It was audible, instantly, through the trembling windows, the fried machines, and your own rattling bones. The control room used to be well-lit by two suns in the distance---now the Planeat darkened them both with his enormous body.
+
+The monster opened his mouth.

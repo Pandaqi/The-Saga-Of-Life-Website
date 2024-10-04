@@ -1,174 +1,195 @@
 ---
-title: "Heldengevecht"
+title: Hero's Fight
 weight: 8
 ---
+Arren's exclamation was the straw that broke the camel's back. Father excused himself, told everyone to stay calm, and _pulled_ Arren out of the room, mumbling something about _insubordination_ and _knowing his place_. 
 
-Dat was de druppel voor vader. Hij verontschuldigde zich, maande iedereen tot kalmte, en sleurde Arren hardhandig de ruimte uit, mompelend over _gehoorzaamheid_ en _je vergeet je plek_. Wat nog over was van de deuren, werd gesloten, zodat ze bijna alleen op de gang stonden.
+The doors, or whatever was left of them, were closed. They were alone in the corridor.
 
-Wat moest hij zeggen? Zijn ogen ontweken die van vader.
+What could he say? His eyes avoid father's gaze.
 
-"Komt dit van _jou_ of van die _robot_?" vroeg hij.
+"Is this coming from _you_ or that _robot_?" he asked.
 
-Arren keek verbaasd op. "Ik heb de robot helemaal uitgezet. Ik zweer het. Wat maakt het uit?"
+Arren looked up in surprise. "I shut down the robot completely. I swear. Does it matter?"
 
-"Ik kan mijn vertrouwen niet stoppen in getallen, of schermen, of elektriciteit. Ik kan het oordeel niet vertrouwen van een stuk code." 
+"I can't put my trust into numbers, or screens, or electricity. I can't trust the judgment of a piece of code."
 
-Hij prikte zijn vinger in Arrens borstkas en kreeg een flauwe glimlach. "Maar ik vertrouw _jouw_ oordeel."
+His finger poked Arren's chest and he grew a faint smile.
 
-Arrens hart groeide tweemaal zo groot en hij wierp zijn armen om zijn brede vader. Hij glimlachte totdat het pijn deed. 
+"But I trust _your_ judgment."
 
-"Dankjewel, dankjewel, dankjewel."
+Arren's heart grew to twice its size. He threw his arms around his broad-shouldered dad. He smiled until it hurt.
 
-"Ik weet nauwelijks wat Delja is. Maar ze zijn blijkbaar gevaarlijk?" fluisterde hij.
+"Thank you, thank you, thank you."
 
-"Ze wilden alle Hemelvoorwerpen verzamelen, omdat een voorspelling zei dat je de wereld zou overheersen als je ze combineerde. Ook dacht men dat hun basis in een zonnestelsel ver weg was, want dankzij de Hemelvoorwerpen konden ze al vroeg door de ruimte reizen."
+"I barely know what Delja is," he whispered. "But they're dangerous?"
 
-Vader knikte. "Je aanpak, daarentegen, heeft nog wat verfijning nodig. Ze zijn een belangrijke bondgenoot in dit gevecht. We moeten geen vijand van hen maken."
+"They wanted to collect all Heavenmatter, because a prediction said they'd rule the galaxy if they did. They also thought their home base was in some faraway solar system. Thanks to the Heavenmatter, they cold travel through space far earlier than us."
 
-"Sorry. Ik zal voortaan niet meer uit het niets roepen dat je iemand moet arresteren."
+Father nodded. "Your approach, however, needs some refinement. They're an important ally in this fight. We must not make an enemy out of them."
 
-Ze pakten elkaars schouders en keken elkaar lang aan. "Mochten we dit gevecht niet winnen---"
+"Sorry. I won't yell a surprise arrest again."
 
-"Niet zeggen, pap. Als jij de raket de volgende keer wél binnen een half uur onder controle krijgt---"
+They grabbed each other's shoulders and stayed silent for a while.
 
-"De raket was kapot! Ik moest improviseren, want meerdere stuursystemen waren offline. Kan jouw robot dat, hè? Improviseren? Op gevoel sturen?"
+"If we, per chance, do not win this fight---"
 
-Arren grimaste. "Niet als ze uitstaat, in ieder geval."
+"Don't say it, dad. If you'll just keep control of the rocket next time---"
 
-Vader viel weer stil. Zijn vingers tikten zachtjes een ritme tegen de deur. Hij maakte geen enkele aanstalten om de stuurruimte in te lopen. Er klonk wat geschuifel en de vrouw was gaan praten, maar ze leek niet boos te reageren op de beschuldiging.
+"The spaceship is badly damaged! I had to improvise, for multiple steering systems were offline. can your robot do that, aye? Improvise? Steer based on intuition?"
 
-"Wat---eh---zijn we aan het doen?"
+Arren grimaced. "Not when she's off, she can't."
 
-"Wachten."
+Father's fingers tapped a soft rhythm against the door. He made no move at all to walk back into the control room. Inside, people shuffled around, and the woman was talking, but she didn't seem angry about the accusation.
 
-"Waarop?"
+"What---erm---are we doing now?"
 
-Een ander ruimteschip verscheen achter het raam, alsof het plotseling ontstond op die plek. Het legde gehaast aan bij de tweede toegangspoort. 
+"Waiting."
 
-Een groep soldaten stormde even later de gang binnen in een nette driehoekige formatie. Ze droegen dezelfde blauwwitte uniformen, met het insigne van HERO, en deden hun maskers af toen ze vader en zoon zagen.
+"For what?"
 
-"Ik ben kapitein Kirren. Bedankt voor jullie snelle komst. We hebben de leidster van Delja gevangen in de ruimte hierachter."
+A spaceship appeared behind the window. As if it just blinked into existence right there. It hastily connected to our second gate.
 
-"Als dat waar is, officier Kirren, hebben we misschien niet genoeg soldaten meegebracht."
+A group of soldiers stormed the corridors in a neat triangular formation. They all wore the same blue-white uniforms, bearing the HERO insignia, and took off their masks.
 
-"Hoezo?"
+"I am captain Kirren. Much thanks for your quick intervention. In the mean time, we may also have captured the leader of the Delja. She's in the room behind me."
 
-De voorste opende de deur. Toen de vrouw de soldaten zag, veranderde ze razendsnel van een mens naar een gigantische roofvogel. 
+"If that is true, officer Kirren, we have not brought enough soldiers."
 
-Haar scherpe vleugels krasten de apparatuur in de kamer en liet het vonken regenen. Ze kraaide iets, maar de soldaten schoten haar poten onder haar lichaam uit, waarna de achterste een elektrisch vangnet over haar hoofd gooide.
+"How so?"
 
-De vrouw wist ook wel dat ze niet kon winnen. Ze veranderde terug in de onderzoekster, haar kleding nu gescheurd en haar benen vol brandwonden. 
+The first soldier opened the door. When the woman saw them, she instantly transformed from a human into a gigantic bird of prey.
 
-"We hebben geen tijd te verliezen," zei de HERO-soldaat. "We hebben een Planeter gespot, volgens jullie beschrijving, niet ver hiervandaan. Het was bijna klaar met zijn maaltijd: de planeet Nimadwerg. Dan komt het zeker deze kant op, want het lijkt zintuigen te hebben die ruimteschepen herkennen."
+Her sharp wings scratched the machines and created showers of sparks. She crowed and shrieked. The soldiers shot her legs from under her body, while another group threw an electrical fishing net from behind.
 
-"Het is zinloos. Geef het op," zei de vrouw onder het zware vangnet. "Dit is geen grootspraak, geen suggestie. Ik _weet_ dat het zinloos is."
+The woman knew she was beat. She changed back into her scientist shape, though her clothes were torn now and her legs covered in burns.
 
-"En hoe komt dat?" vroeg vader.
+"No time to lose," said the HERO soldier. "We spotted a Planeat, as per your description, not far from here. Its dinner had almost completed: the planet called Nimadwarf. It will surely come for us then, as its senses seem advanced enough to recognize spaceships."
 
-Ze stopte met wriemelen en trok haar gezicht strak. "Want ik heb de Planeters gemaakt."
+"It's useless. Give up," said the woman from underneath the netting. "This is no grandeur, no suggestion. I _know_ it is useless."
 
-Passagiers klommen overeind, stomverbaasd door deze uitspraak, en liepen uit hun donkere hoek. Kirran wist niet wat hij moest zeggen.
+"And why is that?" asked father.
 
-Steeds meer ruimteschepen van HERO arriveerden. Al snel konden ze vanuit de stuurruimte niks anders meer zien dan metaal en lichtjes. 
+She stopped wriggling. Her face dropped all expression. 
 
-Arren zakte door zijn knieën naast de vrouw. "Is dat waarom je de Hemelvoorwerpen kwijt bent?"
+"For I made the Planeats."
 
-Ze knikte. "Ik combineerde ze, precies zoals de voorspelling zei, en ik kreeg ... dit. Een zwarte mist die alles kon eten en nergens aan doodging. Ze begonnen best klein, hoor. Maar als je geen natuurlijke vijanden en geen vast lichaam hebt---wat weerhoudt je om te blijven groeien en grotere dingen te blijven eten? Onze eigen planeten waren de eerste die werden opgegeten."
+Passengers stood up and approached her. Kirren didn't know what to say.
 
-"Je hebt inderdaad het geheim ontrafeld voor wereldverovering," zei vader grim, zijn handen alweer op het stuur. "Het enige probleem is dat je niet zelf aan de top stond."
+More HERO spaceships arrived. Soon, they could not see any part of the galaxy anymore through the windows, only metal and blinking lights.
 
-Arren stond op. "En de Hemelvoorwerpen zijn ..."
+Arren bent his knees to get close to the woman. "Is that how you lost the other Heavenmatter?"
 
-"Vernietigd. We hebben nu alleen nog overblijfsels. De Hespryhond wist zelf weg te rennen, misschien dat het proces daardoor misging."
+She nodded.
 
-Dat betekende dat _alles_ in de Planeters zat. De kracht van de Vuurring. Alle kennis van de wereld, via het Boek der Betekenis. Hun tegenstander had _geen_ zwaktes en _alle_ sterktes. Ze waren letterlijk goden. 
+"I combined them, just as the prophecy said, and I received ... this. A black fog that ate everything and seemed immortal. They started quite small, you must know. But if an animal has no natural enemies and no solid body---what prevents it from growing and growing and eating more and more? Our own planets were the first to be eaten."
 
-Hij liet zijn schouders hangen, wat een kakelende lach produceerde bij de vrouw. 
+"You, indeed, uncovered the secret to conquering the galaxy," said father grimly. His hands already steered the ship again. "But it wasn't _you_ who conquered it."
 
-Misschien waren mensen niet opgewassen tegen Planeters---maar een robot wel? Mensen hadden gevoel, intuïtie, ervaring, creativiteit. Maar zo goed rekenen als een computer, en strategische opdrachten exact uitvoeren, konden ze nooit.
+Arren stood. "And the Heavenmatter is ..."
 
-Om hen heen ontbrandden raketmotoren, alsof de stuurkamer middenin een vulkaan lag, terwijl Jannih druk alle communicatie met HERO regelde. Iemand schreeuwde over de radio. Alle raketten schoten uit de startblokken en tekenden een weg naar een zwarte cirkel die steeds dichterbij kwam.
+"Destroyed. We only have leftovers now. The Hespryhound ran away, perhaps that's why the procedure failed."
 
-Het gevecht met de Planeter was begonnen.
+It meant that all that magic was inside the Planeats. The power of the Firering. All knowledge and wisdom from the Book of Meaning. Their enemy had _no weaknesses_ and _all strengths_. They were literally gods.
 
-Gigantische ruimteschepen zoemden door de lucht als kleine vliegjes. Lichtflitsen---allemaal dezelfde kleur blauw---vlogen voor hen uit alsof ze hun voorsprong maar net konden behouden. 
+His shoulders drooped. The woman cackled.
 
-Een gemiddelde veldslag op Somnia was al chaos. Voeg een derde dimensie toe, en een donkere ruimte, en Arren kon nauwelijks volgen wat er gebeurde.
+Maybe humans simply were no match for Planeats---but a robot might be? Humans had feeling, intuition, experience, creativity. But calculate like a computer, execute tactical battle plans without mistake, they could never.
 
-HERO probeerde formaties te behouden. Ze cirkelden rondom de Planeter in driehoeken van tientallen ruimteschepen en probeerden nooit te dichtbij te komen. Flits na flits raakte het monster en duwde de zwarte mist uiteen. Gaten ontstonden, steeds groter, tot er zoveel gaten waren dat de Planeter ze niet meer kon repareren.
+Rocket engines roared around them, as if the control room lay inside a volcano. Jannih handled all communication with HERO. 
 
-Vader moest hulpeloos toekijken. Zijn raket kon niet meedoen en ook niet meer zo snel vliegen als die andere. Bovendien lag hun bevelhebber hier op de grond, gevangen onder het net.
+Someone screamed over the radio. All spaceships accelerated and painted a path towards the black circle that approached them.
 
-De Planeter kromp. Het sloeg uit, met steeds langere misttentakels, maar de piloten ontweken de aanvallen behendig. 
+The fight with the Planeat had started.
 
-Je kon ook niet dichterbij komen. Een monster zo groot als een planeet betekende dat je hele zicht werd geblokkeerd en je alle richting meteen kwijt was, alsof je ging landen _op_ de Planeter.
+Enormous spaceships whizzed through space like tiny flies. Flashes of light---all blue---flew ahead of them and could barely keep their lead.
 
-Arren zag alleen nog maar blauwe en witte vlekken en moest zich afkeren van het raam.
+A regular battle on Somnia was chaos. Add a third dimension, and a dark space, and Arren could barely follow what happened.
 
-Waren ze nou aan het winnen?
+HERO stuck to formations. They circled the Planeat in triangles made from a dozen spaceships, without ever getting too close. Flash after flash hit the monster and pushed the black fog aside. Holes appeared, larger and larger, until there were too many holes to repair.
 
-De schaduw die het monster wierp over de stuurruimte verdween geleidelijk. Stralen van een zon ver weg verlichtten de papieren kaart in het midden, terwijl HERO's schepen de Planeter terugdrongen. Diens aanvallen werden steeds zwakker.
+Father watched helplessly. His spaceships could not participate nor fly as fast as the others. Besides, the commander of the other ship writhed on their floor, caught in a net.
 
-Maar één schip werd overmoedig.
+The Planeat shrunk. It lashed out with increasingly long tentacles of fog. The pilots dodged the attacks with grace.
 
-Het vloog te dichtbij en werd uit de lucht gehapt. De Planeter kreeg meteen nieuwe kracht. Genoeg om een ander schip te pakken voordat het wegkwam.
+You _couldn't_ get any closer. A monster as large as a planet meant your entire horizon was blocked and you had no sense of direction. Any approach would feel like you were about to _land_ on top of the Planeat.
 
-"Nee!" schreeuwde Arren, die zou willen dat hij nu kon wegkijken. De Planeter voedde zich met ruimteschepen en mensen alsof ze kleine hapjes waren, tussendoortjes, en elke keer groeide het monster groter en sterker.
+Arren's vision was peppered with blue and white splotches. He had to turn away from the window.
 
-"We moeten helpen," zei Arren, zijn hand op die van vader.
+Were they winning?
 
-"Hoe?" riep vader, angst in zijn ogen.
+The shadow cast by the monster slowly disintegrated. Rays of sunlight found the paper maps in the center, as HERO's ships pushed the Planeat back. Its attacks weakened.
 
-"Ze had gelijk: ze zijn niet te verslaan. We moeten een plan hebben om _weg te komen_."
+But one ship became overconfident.
 
-"_Hoe_?"
+It flew too close and was snatched out of the air. The Planeat ate it and immediately rekindled its fire. Enough to grab another spaceship before it fled.
 
-Hij wees naar het scherm dat de plattegrond van de raket weergaf. Een groot deel van de kamers was verloren, net zoals meerdere belangrijke systemen. De Planeter kon blijven eten, blijven winnen, totdat alle troepen van HERO verloren waren.
+"No!" screamed Arren, who would've wanted to look away now. 
 
-Dat mocht niet gebeuren. "We hebben AR-BOT nodig. Die weet vast iets."
+The Planeat fed itself with spaceships and humans as if they were nothing, mere morsels, and every time it grew in size and strength.
 
-"Die robot blijft _uit_. Anders bepaalt zij ons lot, in plaats van dat we het zelf bepalen."
+"We must help," said Arren, taking his father's hand.
 
-"Ik kan de robot controleren. Dat is mijn oordeel."
+"How?" said father, fear in his eyes.
 
-Vader schudde zijn hoofd. Nadat nog meer ruimteschepen waren opgeschrokt, klonk het commando om terug te vallen. De schepen vormden nieuwe formaties, deze keer als een pijl, en stopten met schieten. Het was plotseling weer akelig donker en stil, alsof het gevecht van net maar een droom was. 
+"She was right: they can't be defeated. We must have a plan to _get away_."
 
-De Planeter leek even verzadigd. Het viel niet verder aan en zweefde zelfs bij hen vandaan.
+"_How?_"
 
-"Nee," zei vader.
+He pointed at the screen that showed the spaceship's layout. A large section of rooms was lost, just as many vital systems. The Planeat could keep eating, keep winning, until all of HERO's forces were depleted.
 
-Arren rukte gefrustreerd aan het stuur. "Je zei dat je _mijn_ oordeel vertrouwde!"
+That couldn't happen.
 
-Vader keek gepijnigd, zijn ogen waterig. "Maar mensen liegen. En ze zien dingen niet helder door emotie."
+"We need AR-BOT. She must know something."
 
-"Des te meer reden om een robot erbij te houden," zei Arren. Hij keek achterom en schatte dat alle nog levende passagiers in en rondom de stuurruimte zaten.
+"That robot stays _off_. Otherwise she determines our fate, instead of making our own fate."
 
-"Des te meer reden om je uitspraken op dit moment te negeren."
+"I can control the robot. That is my judgment."
 
-Eén persoon kan domme keuzes maken door emotie. Maar honderden zouden elkaars fouten moeten wegstrepen, toch?
+Father shook his head. Once dozens of spaceships had been swallowed, the command to fall back was uttered. The ships formed new formations, arrow-shaped this time, and stopped shooting. Darkness and silence returned with surprising swiftness, as if the fight had just been a bad dream.
 
-Arren stapte weg bij zijn vader en klom bovenop de tafel met de papieren kaarten. Hij sprak alle passagiers toe.
+Was the Planeat satiated? It didn't attack. It even retreated a bit.
 
-"Iedereen kent AR-BOT's intelligentie. We kunnen haar hulp gebruiken in dit gevecht, maar ze staat nu helemaal uit. Moeten we haar aanzetten?"
+"No," said father.
 
-Geroezemoes was zijn enige antwoord. Totdat een man opstond en sprak. 
+Arren pulled on the steering wheel in frustration. "You said you trusted _my judgment_!"
 
-"Die robot heeft mijn kinderen tot zombies gemaakt! De hele dag gekluisterd aan een digitaal wereldje. Nooit meer zelf nadenken. Je kunt geen zinnig woord uit ze krijgen, want alles laten ze die robot doen en bedenken."
+Father looked pained, his eyes watery. "But people lie. And they don't see things clearly because of emotion."
 
-Het meisje met de hoofdwond stond ook op. "AR-BOT redde mijn leven."
+"Even more reason to involve a robot," said Arren. He looked over his shoulder. He estimated that all living passengers left were gathered here now; a pitiful bunch.
 
-Jannih stak voorzichtig haar hand op, terwijl ze haar radio eventjes dempte. "De enige reden dat we nog online zijn, is omdat AR-BOT hielp zo snel mogelijk grondstoffen vinden op die planeet. Bovendien heeft de robot ons weggeleid van Nibuwe. Als we daarnaartoe waren gegaan, hadden we de Planeters losgelaten op _alle_ mensen."
+"Even more reason to ignore your statements at this moment."
 
-Iets dat nog steeds kon gebeuren, als ze niet _nu_ een muur opwierpen voor de Planeters.
+One person can make stupid decisions because of feelings. But hundreds of them should be able to compensate each other's mistakes, right?
 
-Nog meer mensen voegden zich bij de discussie, maar ze riepen door elkaar. Arren hief zijn handen en stampte op tafel.
+Arren stepped away from father and climbed on top of the table, flattening the paper maps further. He spoke to all passengers.
 
-"Wie van jullie is _voor_ het aanzetten van AR-BOT? Handen omhoog."
+"Everyone knows AR-BOT's intelligence. We can use her help in this fight, but she has been off for a while now. Must I turn her on again?"
 
-Arren hoorde zijn vader zachtjes meetellen in zijn rug. Ze hoefden niet lang door te gaan: dit was duidelijk de meerderheid. 
+Murmurs. Whispers. Those were his only answers.
 
-Hij sprong van tafel om opnieuw zijn werkkamer op te zoeken.
+Until a man stood and spoke.
 
-Gebrul vulde de ruimte. Jannihs radio hield het oorverdovende, angstaanjagende geluid een paar seconden vol, daarna explodeerde het apparaat in haar schoot. 
+"That robot turned my children into zombies! Shackled to a digital world all day. Never think for themselves. You can't hear them speak a single sensible word, for they let the robot do the thinking and speaking for them."
 
-De Planeter was terug. En hij had alle andere Planeters meegenomen.
+The girl with the head wound stood too. "AR-BOT saved my life."
+
+Jannih hesitantly raised her hand and lowered the volume on her radio. 
+
+"The only reason we're still online, is because AR-BOT helped us find new fuel and food on that planet. It also led us away from Nibuwe. If we'd gone there, we'd have unleashed the Planeats on _all_ humans left."
+
+A distaster that still loomed, if they didn't put up a defense right now.
+
+More people joined the discussion, but they yelled over each other. 
+
+Arren raised his hands and stomped the table.
+
+"Who among you is _for_ turning on AR-BOT again? Hands raised, please."
+
+Arren softly heard his father count hands from behind him. They didn't need to get the full count: this was clearly the majority already.
+
+He jumped off the table to visit his workroom again.
+
+Roars filled the space. Jannih's radio faithfully relayed the deafening sound for several seconds, before it exploded in her lap.
+
+The Planeat was back. And it had brought more planet-munching friends.

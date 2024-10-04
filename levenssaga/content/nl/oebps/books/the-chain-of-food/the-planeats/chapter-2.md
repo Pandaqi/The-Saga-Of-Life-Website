@@ -69,7 +69,7 @@ Zijn AR-BRIL had hij afgedaan. Maar het oortje om AR-BOT te horen hield hij in, 
 
 "Ofwel het is in staat om planeten voor ons te _verbergen_," zei een vrouw met trillende stem, "ofwel het is in staat planeten te _verwoesten_. Welke van de twee het ook is, dit is een grotere dreiging dan de mensheid ooit zag."
 
-Ze veegde haar zweethanden keer op keer af aan haar uniform. Ze was slechts een paar jaar jaar ouder dan Arren, maar had toch de functie _communicatieleider_ losgepeuterd bij zijn vader. 
+Ze veegde haar zweethanden keer op keer af aan haar uniform. Ze was slechts een paar jaar ouder dan Arren, maar had toch de functie _communicatieleider_ losgepeuterd bij zijn vader. 
 
 Waarom zij wel en hij niet? Vader bleef te veel hangen in het verleden. Ze was vast ... vast een oubollig persoon, of zoiets. Waarom zag hij niet dat robots de toekomst waren? Dat Arren elke dag een stap _vooruit_ wilde, omdat ze anders _achteruit_ gingen?
 

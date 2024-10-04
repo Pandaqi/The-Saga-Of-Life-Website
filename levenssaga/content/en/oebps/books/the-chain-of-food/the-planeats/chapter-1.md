@@ -1,148 +1,159 @@
 ---
-title: "Weg naar Omnobereus"
+title: Journey to Omnobereus
 weight: 1
 ---
+The teasing voice of Arren's robot echoed through the room. He barely heard the high female voice over the scratching of his pen on paper.
 
-De plagerige stem van Arrens robot klonk door de ruimte. Hij hoorde de hoge vrouwenstem nauwelijks over het krassen van zijn pen op papier.
+"I must," said the robot, just a piece of code hidden on some computers, "insist you take a look at the screen now."
 
-"Ik moet," zei de robot, slechts een stuk code verborgen in de computers, "toch echt aandringen dat je even op het scherm kijkt."
+"No time, AR-BOT. Must write report for captain."
 
-"Geen tijd, AR-BOT. Moet rapport schrijven voor kapitein." 
+Arren couldn't talk and write simultaneously. Barely anybody could still write by hand, unless you happened to have a stern father that forced you. Beads of sweat formed on his forehead, even though human spaceships were now able to keep a _perfect_ temperature at all times.
 
-Arren kon niet praten en schrijven tegelijkertijd. Bijna niemand kon nog schrijven met de hand, tenzij je blijkbaar een strenge vader had. Zweetdruppels vormden op zijn voorhoofd, ook al konden de menselijke raketten inmiddels een perfecte temperatuur aanhouden. 
+"Why does your father want hand-written reports?" asked AR-BOT. "The average human types 3.412 times faster than---"
 
-"Waarom wil je vader handgeschreven rapporten?" vroeg AR-BOT. "Een gemiddeld mens typt 3.412 keer sneller dan---"
+"Do I know!"
 
-"Weet ik veel!" 
+"Was that a question? Yes, you know quite a lot, Arren. You made me, the most intelligent robot of this moment."
 
-"Was dat een vraag? Ja, je weet best veel, Arren. Je hebt mij gemaakt, de meest intelligente robot van het moment."
+"Well, thanks, but it wasn't a question." Arren sighed and looked for the right words to conclude the report. "Remind me to finetune you further when it comes to exclamations and sarcasm."
 
-"Dankjewel, maar het was geen vraag." Arren zuchtte diep en zocht naar de juiste woorden om het rapport af te sluiten. "Herinner me om je beter af te stellen als het gaat om uitroepen en sarcasme."
+"Okay! When would you like to be reminded? In an hour? Two hours? Three---"
 
-"Wanneer wil je daaraan worden herinnerd? Over een uur? Twee uur? Drie---"
+"When I'm done with this."
 
-"Wanneer ik dit heb afgehandeld." 
+Arren gazed out the window. It was a black expanse now, their destination so far away that it could be a grain of sand stuck to the window. He tried not to look outside too often. Their spaceships could also simulate _gravity_ perfectly now, which means the outside world could be your only reminder that you were actually walking upside-down.
 
-Arren keek uit het raam. Het was nu nog een zwarte leegte, hun bestemming zo ver weg dat het een zandkorrel op het raam kon zijn. Hij probeerde niet te vaak naar buiten te kijken. Hun ruimteschepen konden inmiddels zwaartekracht simuleren, waardoor het buitenbeeld de enige herinnering was dat je misschien ondersteboven draaide.
+"I must _really_ insist you take a look at your screen," said AR-BOT, louder than before.
 
-"Ik moet toch _echt_ aandringen dat je even op je scherm kijkt," zei AR-BOT, luider dan eerst.
+Arren knew how intelligent AR-BOT was. Or, well, intelligent in terms of _facts_ and _numbers_ and anything but _human oddness_. If it repeated a message, he had to listen to it.
 
-Arren wist hoe intelligent AR-BOT was. Nou, ja, als het aankwam op _feiten_ en andere dingen dan _menselijke gekkigheden_. Als het een opdracht bleef herhalen, moest hij ernaar luisteren.
+He walked past a table covered in cables, buttons and colored lights. Nothing out of the ordinary. AR-BOT functioned as it should, just as the several systems that father had placed under his control.
 
-Hij liep langs een tafel vol draden, knopjes en gekleurde lichtjes. Daarop zag hij niks raars. AR-BOT functioneerde zoals het hoorde, net zoals de paar systemen die vader in zijn beheer had geplaatst. 
+About time, that was! Arren could already repair a rocket engine when he was five! But apparently you had to wait until you were an adult before father allowed you to steer that rocket.
 
-Het werd eens tijd zeg. Hij kon al vanaf zijn vijfde een raketmotor repareren! Maar blijkbaar moest je wachten tot je bijna volwassen was, voordat je vader toestond dat je meehielp om de raket te besturen.
+He grabbed the edges of a large screen. He pulled the bright square, held up by a moveable arm, to his eye level. It showed several dots---planets of which they'd known the existence for centuries now---and the current position of the rocket. White markings on a black background.
 
-Zijn handen pakten de randen van een groot scherm aan een beweegbare arm. Hij trok het vierkant op ooghoogte. Het toonde een stel stipjes---de planeten waarvan ze al eeuwenlang het bestaan kenden---en de huidige positie van de raket. Witte markeringen op een zwarte achtergrond.
+"Nothing's wrong," concluded Arren. "Is this your attempt at _humor_ again?"
 
-"Ik zie niks raars," concludeerde Arren. "Is dit weer jouw poging tot _humor_?"
+"You reduced my humor percentage to _zero_. Ever since the incidents with confetti in the bedrooms and my insults aimed at the president. Or should I also remind you of---"
 
-"Je hebt mijn humorpercentage op nul gezet. Sinds de incidenten met confetti in slaapkamers en mijn belediging van de president. Of moet ik daarvoor ook een herinnering---"
+"No time for this. We'll reach Omnobereus soon. I must deliver my report, prepare for landing, and---"
 
-"Ik heb hier geen tijd voor. We komen zo bij Omnobereus. Ik moet het rapport afleveren, klaarmaken voor landing, en---"
+AR-BOT _sighed_. He'd tried to make the algorithm more human. Softer, funnier. He repeatedly discovered the many disadvantages of doing that.
 
-AR-BOT _zuchtte_. Hij had geprobeerd zijn algoritme menselijk te maken. Zachter en grappiger. Maar hij merkte steeds meer welke nadelen erbij kwamen kijken. Uiteindelijk gaf AR-BOT maar het antwoord.
+Eventually, AR-BOT just gave him the answer.
 
-"Er mist een planeet."
+"A planet is missing."
 
-"Wat?" 
+"What?"
 
-Arren keek nog eens naar het scherm en telde de planeten op zijn vingers. Hij noemde ze allemaal bij naam, totdat hij bevroor bij zijn achtste vinger. "Appareus mist. AR-BOT, controleer op fouten in de scanner."
+Arrent studied the screen and counted the planets on his fingers. He called them all by name, until he froze at his eighth finger.
 
-"Al gedaan. Geen gevonden. Hoewel ik moet opmerken dat mijn krachtpercentage slechts 20% is en je mij toegang hebt ontzegt tot veel systemen. Op last van je vader, weet je nog?"
+"Appareus is missing. AR-BOT, check the scanner for mistakes or failures."
 
-"Ja, dat weet ik nog," bromde Arren. "Ik kan je niet meer kracht geven, niet zonder toestemming."
+"Already did that. Found none. Though I must _remind_ you that my power percentage is merely 20% and you've denied me access to many systems. Father's orders, remember?"
 
-"Dan heb ik geen idee waar Appareus is."
+"Yes, yes, I remember," grunted Arren. "I can't give you more power, not without permission."
 
-Arren vervloekte zijn vader en duwde zijn vuist tegen de muur. Het leverde niets op buiten een doffe metalen klank.
+"Then I have no idea where Appereus is."
 
-"Ik denk niet," zei AR-BOT, "dat Appareus achter die muur schuilt."
+Arren cursed his father and punched his first into the wall. It gave him nothing but a dull metal thud.
 
-"Een planeet kan niet verdwijnen. Er zit ergens een fout." Arren voegde nog wat extra zinnen toe aan zijn rapport, hopend op meer kracht voor AR-BOT om dit soort fouten op te sporen. Daarna rende hij zijn werkkamer uit.
+"I don't imagine," said AR-BOT, "that Appareus is hidden behind that particular wall."
 
-Het was druk op de gangen. Iedereen wist dat ze volgens de planning bijna arriveerden op Omnobereus, na jarenlang reizen. Deuren stonden wagenwijd open. Spullen werden heen en weer gedragen---en soms gegooid---om in elektronische capsules te worden geplaatst, hoewel de oudere passagiers nog steeds doodnormale koffers gebruikten.
+"A planet can't disappear. There must be a mistake."
 
-Als zoon van de kapitein was hij bekend. Het gaf hem jammer genoeg niet de status van zijn vader, dus niemand ging voor hem aan de kant. 
+Arren added a few more sentences to his report. They asked for more _power_ for AR-BOT, to catch mistakes like these earlier. Then he ran out of his workroom.
 
-Hij zette zijn AR-BRIL op en deed de bijbehorende oortjes in. De bril rekende constant de snelste route uit tussen de menigte door, terwijl het zijn vader probeerde te vinden. Door te voelen naar warmte en straling, kon het zelfs door muren heen personen herkennen.
+The corridors were busy. Everyone knew they were bound to arrive at Omnobereus now, after years of travel. Doors were open wide. Objects were carried---and sometimes thrown---to be placed inside electronic capsules, though the older passengers still used regular briefcases.
 
-Zonder die uitvinding had hij niet kunnen leven! Hoewel hij deze keer ook wel kon bedenken waar de kapitein was: in de stuurkamer.
+As the son of the captain, Arren was a famous figure. That did not, unfortunately, give him the same _status_ as his father, which meant nobody stepped aside for him.
 
-"Ik heb mijn database doorzocht," zei AR-BOT in zijn oor, "en inderdaad geen bewijs gevonden dat ooit eerder een planeet is verdwenen. Wel meer dan genoeg bewijs van radars die foute berichten geven. Zoals---"
+He placed his AR-GLASS on the bridge of his nose and put its corresponding earbuds in his ears. The glasses constantly calculated the fastest route through the crowd, as it tried to locate father in the spaceship. By sensing warmth and radiation, it could even recognize people through walls.
 
-Toen hij de stuurruimte binnenrende, had vader zijn hand al uitgestoken. Arren gaf zijn verfrommelde rapport. 
+How would he ever live without his inventions? How could those pitiful other humans live without his inventions to help them?
 
-De tekst werd razendsnel doorgelezen. Vader zuchtte en kreunde steeds dieper. 
+Though, this time, it was easy to guess where the captain was: the control room.
 
-"Wanneer ga je leren om fatsoenlijk te communiceren, zoon? Ik tel al minstens twintig spelfouten. Ik snap niet eens wat je _hier_ en _hier_ zegt. Ik kan je geen belangrijke taken op dit ruimteschip geven als je niet kunt rapporteren. Ik zie vooruitgang, maar ..."
+"I've searched my entire database," said AR-BOT in his ear, "and found no proof of a planet disappearing in the entire history. I did find abundant proof of radars giving erroneous results. Such as---"
 
-"Je bent teleurgesteld."
+When he ran into the control room, father had already extended his hand. Arren pushed his crumpled report into it.
 
-"Ik ben niet teleurgesteld," zei vader. Hij probeerde Arren aan te kijken. Die droeg nog steeds de grote blokkerige AR-BRIL, als een misdadiger die permanent een zwarte streep voor de ogen had.
+The text was rapidly read. Father sighed and groaned more deeply with each sentence.
 
-"Ik denk," fluisterde AR-BOT, "dat hij teleurgesteld is. Zijn gezicht matcht 87.6% met een gemiddeld teleurgesteld gezicht. Ook is zijn hartslag---"
+"When will you learn to communicate properly, son? I count twenty spelling errors already. I don't even understand what you're saying _here_ and _here_. I can't give you important spaceship duties if you can't report on them. I see progress, but ..."
 
-"Doe die bril af, zoon. Ik wil je ogen zien."
+"You're disappointed."
 
-Arren drukte op een knop aan de zijkant. Op het display aan de voorkant verschenen twee getekende ogen die qua kleur en grootte overeenkwamen met zijn eigen ogen. Vader pakte zijn schouders en schudde hem door elkaar.
+"I'm not disappointed," said father. He tried to look into Arren's eyes. He still wore his large, blocky AR-GLASS, like a criminal who permanently had a black line over his face to hide his identity.
 
-"Je _echte_ ogen!"
+"I think," whispered AR-BOT, "that he's disappointed. His face matches 87.6% with an average disappointed face. His heartbeat is also---"
 
-Met tegenzin gooide Arren zijn bril omhoog. Hij voelde zich naakt zonder dat ding. Hij kon niet nadenken zonder AR-BOT in zijn oor die hem met alles hielp, en hij kon zijn vader niet lang aankijken zonder te krimpen en weg te kijken.
+"Take off the glasses, son. I want to see your eyes."
 
-"Je krijgt niet meer rekenkracht. Ik geef AR-BOT _zeker_ niet controle over het sturen van de raket. Dat was het, ga inpakken en---"
+Arren pushed a button on the side. The display at the front changed color and drew two pixelated eyes, which matched his own in color and size. 
 
-"Waarom? Mijn algoritme kan beter sturen dan een mens!"
+Father grabbed his shoulders and shook him.
 
-"Ik kan," zei AR-BOT, nu een stem door de hele stuurruimte, "zo'n 5.126 keer preciezer sturen dan de gemiddelde mens."
+"Your _real_ eyes!"
 
-Vader gooide een hand door zijn lange zwarte haar. Met zijn andere hand leunde hij op een groot stuur met spaken, alsof ze een piratenschip bestuurden, geen gigantische raket in de ruimte.
+Reluctantly, Arren took off his glasses. He felt naked without them. He couldn't think without AR-BOT tattering helpful data into his ear, and he couldn't look at father for long before cringing and looking away.
 
-Hij liep rood aan.
+"You will not get more power. I will _certainly_ not give AR-BOT control over steering the rocket. That's that. Go pack your things and---"
 
-"Waarom probeer je mijn baan af te pakken, zoon?"
+"Why? My algorithm is _better_ at steering than humans!"
 
-"Ik probeer niet---"
+"I can," said AR-BOT, now a voice audible in the entire control room, "steer about 5.126 times more precise than the average human."
 
-"Waarom probeer je me werkeloos te maken?"
+Father threw his hand into his long black hair. His other hand leaned on a large steering wheel with wooden spokes. As if he captained a pirate ship, not a gigantic rocket lost in space.
 
-"Helemaal niet! Ik probeer _iedereen_ werkeloos te maken!"
+He turned red.
 
-De hele crew bleef stomverbaasd staan.
+"Why are you trying to take away my _job_, son?"
 
-"Naar mijn inschatting," zei AR-BOT, "kan ik nu al 99% van de menselijke banen overnemen. Is dat niet---"
+"I'm not trying---"
 
-Vader sloeg tegen een knop en het volume van AR-BOT zakte naar nul. "Zodra we aankomen, zet ik die robot voorgoed uit. Dan kan iedereen weer leven zoals het hoort. Hoor je me?"
+"Why do you try to make me unemployed?"
 
-Arren wilde iets terugzeggen, maar hij wist niet wat. 
+"I don't! I try to make _everyone_ unemployed!"
 
-Piepjes klonken vanaf het scherm achter vaders rug. Net zo'n scherm als in zijn kamer---en er was een tweede planeet verdwenen.
+The entire crew stopped what they were doing, dumbfounded.
 
-Met trillende vinger wees hij ernaartoe. Vaders ogen volgden, terwijl enkele crewleden naar het scherm renden om te controleren op fouten.
+"To my estimation," said AR-BOT, "I can already take over 99% of human jobs with ease. Isn't that---"
 
-Voor hun ogen doofde een ander stipje. De verdwenen planeten waren aan de rand, het verste weg van hun raket, maar de verdwijningen kwamen steeds dichterbij. Iedereen keek hulpeloos toe hoe stip, na stip, na stip plotseling doofde. Meer en meer zweefde hun raket in een onbekende, duistere leegte.
+Father hit a button and reduced AR-BOT's volume to zero. "Once we've landed, I shut off that robot _forever_. Then everyone can live again, naturally, as they should. Do you hear me?"
 
-"Wat in Ardex' naam is er aan de hand," piepte AR-BOT zachtjes.
+Arren wanted to give a retort, but found nothing.
+
+Beeps sounded from the screen behind father's back. The same type of screen as in his workroom---and a second planet had disappeared.
+
+He pointed at the hole with a trembling finger. Father's eyes followed, while several crew members checked the screen for errors.
+
+Before their eyes, a third dot vanished. All the dying planets were near the edge, furthest away from their rocket, but now the disappearances crept closer. They all watched helplessly as dot, after dot, after dot was extinguished. More and more, their rocket flew into an unknown and dark emptiness.
+
+"What in Ardex' name is happening," said AR-BOT softly.
 
 "Ardex?"
 
-"Een uitspraak uit mijn database. Een van de godenkinderen van vroeger. Het leek passend voor deze dodelijk serieuze situatie."
+"A saying from my database. One of the godchildren of old. It seemed fitting for such a deadly serious situation."
 
-"Je hebt zoiets nooit eerder gezien?" vroeg vader voorzichtig. Hij schudde zijn hoofd, alsof hij boos was op zichzelf dat hij toch iets aan AR-BOT had gevraagd en het volume weer had verhoogd.
+"You have never seen anything like this?" father asked cautiously. He shook his head as if angry at himself for asking AR-BOT anything and raising its volume.
 
-"Nooit," zei AR-BOT.
+"Never," said AR-BOT.
 
-"Zie je wel, zoon. Waardeloos."
+"You see, son? Useless."
 
-De volgende stip verdween alsof het viezigheid was die van het scherm werd gepoetst.
+The next dot vanished as if someone wiped dirt from the screen.
 
-Iedereen trok tegelijkertijd dezelfde conclusie. Ze renden naar het grote raam aan de voorkant, waarvandaan Omnobereus nu goed te zien was, want ze zouden er over een paar uur landen.
+Everyone in the control room ran to the large window at the front. From there, they should be able to spot Omnobereus in the distance now, as they'd land there in a few hours.
 
-Althans, dat had het geval moeten zijn. Daarvoor hadden ze al die tijd gevlogen. De planeet was uitgezocht op een perfect klimaat en de raket ingericht op deze reis en niet langer.
+Or, rather, that _should_ have been the case. That was the whole reason for their journey. The planet had been hand-picked for its perfect climate, and the rocket had just enough fuel for this journey and none other.
 
-Voor hun neus was de ruimte leeg.
+The space before them was awfully empty.
 
-Op het scherm bleef maar één stipje over, dat langzaam hun raket benaderde.
+On the screen, only one misshapen dot remained, and it honed in on their spaceship.
 
-Vader sprak luid en commanderend. "Omnobereus is weg. Er komt iets op ons af. Keer direct om en vlucht terug naar het Nibuwe stelsel!"
+Father spoke loud and commanding.
+
+"Omnobereus is gone. Something is coming for us. Turn around immediately and flee to the Nibuwe star system!"

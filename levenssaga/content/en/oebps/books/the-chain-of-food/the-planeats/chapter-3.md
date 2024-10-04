@@ -1,140 +1,157 @@
 ---
-title: "Gatenkaas"
+title: Broken Bites
 weight: 3
 ---
+As the spaceship neared the planet, maps were consulted. Paper maps of the solar system, because _of course_ Arren's father owned those. Reluctantly, he admitted that they were a benefit now, with all electricity off.
 
-Terwijl het ruimteschip de planeet naderde, werden kaarten geraadpleegd. Papieren kaarten van het zonnestelsel, want natúúrlijk had Arrens vader die in zijn bezit. Hij moest met tegenzin toegeven dat het goed uitkwam, nu alle andere elektriciteit was uitgezet.
+"There's not supposed to be a planet here," he concluded. "So we're pursued by a roaring enemy who can _move_ entire planets?"
 
-"Hier hoort geen planeet te zijn," concludeerde hij snel. "Dus we hebben te maken met een brullende vijand die planeten kan _verplaatsen_?"
+They'd hoped for more clarity as they drew close. It didn't come. Because of the holes, the planet had very weak gravity and the spaceship could scrape past without fear of colliding.
 
-Ze hoopten op meer duidelijkheid als ze dichterbij kwamen, maar dat bleef uit. Dankzij de gaten in de planeet had het nauwelijks zwaartekracht en kon het ruimteschip vlak langs vliegen zonder te botsen. 
+Arren secretly put on his AR-GLASS and activated its magnifying glass. Something moved on the planet's surface. He didn't need to zoom in much to recognize them: gigantic creatures walked back and forth. Some seemed enlarged versions of animals he knew, from home, while others were unknown. They all seemed to sleepwalk, uncontrolled, staggering towards ... something.
 
-Arren zette stiekem zijn AR-BRIL op en activeerde diens vergrootglas. Op de oppervlakte bewoog iets. Hij hoefde niet zo ver in te zoomen als hij dacht: gigantische wezens liepen heen en weer. Sommige leken op uitvergrote versies van dieren die hij kende, van thuis, andere kon hij niet plaatsen. Allemaal leken ze te slaapwandelen, ongecontroleerd slingerend op zoek naar ... iets.
+Food. Safety. How did you survive on a planet with holes? A planet that was far from round? Such a thing could not appear naturally. Physical forces would always try to find a balance, which meant spreading your material evenly around you. That's why planets automatically became a sphere. If he imagined the holes weren't there, he could see this planet used to be one too.
 
-Eten. Veiligheid. Hoe leefde je op een planeet vol gaten? Een planeet die verre van rond was? Zoiets kon niet natuurlijk ontstaan. Natuurkundige krachten probeerden altijd een balans te vinden, wat betekende dat je dingen gelijk moest verdelen. Daarom werden planeten automatisch rond. Deze had rond kunnen zijn, als er niet zulke happen uit waren genomen.
+Bites. They looked like bites. This planet had been a tasty snack to some monster.
 
-Happen. Het leken op happen. De planeet was een lekker snoepje en iets had erop lopen kauwen.
+His AR-GLASS warned him. The spaceship's battery was draining. Arren quickly shut it off and hid it in his backcapsule.
 
-Zijn AR-BRIL gaf een waarschuwing. De batterij van het ruimteschip raakte leeg. Arren zette hem snel uit en verstopte hem in zijn rugcapsule.
+"We must land at some point," said father. "Looking for food and fuel."
 
-"We moeten ergens een keer landen," zei vader. "Op zoek naar materiaal voor eten en brandstof."
+"Not here," said Arren. "Those animals would eat us alive."
 
-"Niet hier," zei Arren meteen. "Die beesten vreten ons op." 
+It was hard to judge at this distance, but he thought one _paw_ of a lion there would be as large as an entire _human_. If their jaws were just as large, they might even eat the spaceship instead.
 
-Het was moeilijk inschatten van deze afstand, maar hij dacht dat één _poot_ van de leeuwen daar even groot was als een heel _mens_. Als de kaken net zo groot waren, kon zo'n beest misschien wel het _ruimteschip_ opeten. 
+Now that their planet had been eaten, they only had a tiny space to live on. Arren felt like he should _help_ the poor creatures, like you do when you find a sick stray puppy. But what could they do? He felt powerless. Fighting against forces he didn't understand.
 
-En nu hun planeet was weggevreten, hadden ze nog maar een klein stukje om op te staan. Arren kreeg het gevoel alsof ze moesten helpen, zoals wanneer je een zieke zwerfhond vond. Maar wat konden ze doen? Hij voelde zich machteloos, vechtend tegen krachten die ze niet begrepen.
+Jannih confirmed Arren's proposal with a nod. She didn't dare speak anymore.
 
-Jannih bevestigde Arrens voorstel met een knik. Ze durfde haar mond niet meer open te doen.
+"We fly on," said the captain. "But we land on the very first planet without immediate danger."
 
-"We vliegen door," zei de kapitein. "We landen op de eerste planeet zonder direct gevaar."
+"That should only take an hour," said AR-BOT in Arren's ear. "I detect the next planet there. I must insist, though, that you think twice before landing _anywhere_."
 
-"Slechts een uur vliegen," zei AR-BOT in Arrens oortje. "Dan detecteer ik de volgende planeet. Ik moet je dringend aanraden om twee keer na te denken voordat je ergens landt."
+Arren smoothed out the wrinkled paper maps. Someone had drawn the current path of the rocket with a felt-tip pen: a straight line back to Nibuwe. At their current speed, in an hour, absolutely nothing was near that line.
 
-Arren liep naar de papieren kaarten en streek ze glad met zijn vingers. Iemand had met stift de huidige route van de raket uitgetekend, een rechte lijn terug naar Nibuwe. Op de huidige snelheid, over een uur, lag helemaal niks langs de lijn. 
+"So there's also not supposed to be a planet there," whispered Arren. "Are you sure, AR-BOT?"
 
-"Dus daar hoort ook geen planeet te zijn," fluisterde Arren. "Ben je zeker, AR-BOT?"
+Silly question. Of course the robot was certain. AR-BOT's voice sounded like she grinned. "I must insist you stop doubting me so much."
 
-Domme vraag. Natuurlijk was de robot zeker. De stem van AR-BOT klonk alsof ze grinnikte. "Ik moet je dringend aanraden om niet zoveel aan mij te twijfelen." 
+The map was enormous, many meters by many meters. They were flying in some tiny corner of the galaxy. Somnia, Nibuwe, it was all a drop in an ocean that was mind-bogglingly vast. 
 
-De kaart was gigantisch, meerdere meters bij meerdere meters. Zij vlogen slechts in een hoekje. Somnia, Nibuwe, het was allemaal een druppel in een oceaan waarvan ze inmiddels dachten te weten hoe groot hij was. 
+Humanity had discovered many messages, maps and conversations over the years. AR-BOT thought they belonged to Ardex and the original godchildren. In many conversations, they talked about the planet _Dalas_ and how it was all the way at the other edge of the galaxy.
 
-De mensheid had over de eeuwen veel berichten, kaarten en gesprekken teruggevonden. AR-BOT dacht dat die van Ardex en de originele godenkinderen waren. In al die gesprekken hadden ze het over de planeet _Dalas_ en hoe dat helemaal aan de andere kant van het universum was.
+It became the goal of humanity. Reach Dalas, reach the edge of the galaxy, reach ... God?
 
-Sindsdien was dat het doel van de mensen. Bereik Dalas, bereik het einde van de wereld, bereik ... God? 
+Well, then they'd have to cross five meters on this map first, which was an _incomprehensible_ distance in real life. They would never make that without hyper-intelligent robots.
 
-Nou, dan hadden ze nog vijf meter te overbruggen op deze kaart, wat een _ongelofelijke_ afstand was in het echt. Dat ging dus écht niet lukken zonder hyperintelligente robots.
+As father exited the control room, a crowd of passengers stopped him.
 
-Toen vader uit de stuurkamer stapte, hielde een menigte van passagiers hem tegen.
+"What is going?" a woman at the front demanded.
 
-"Wat is er aan de hand?" eiste een vrouw vooraan.
+"When will we arrive?"
 
-"Wanneer komen we aan?"
+"Why are we going back?"
 
-"Waarom gaan we terug?"
+"Answer us!"
 
-"Geef antwoorden!"
+His father stayed silent until they gave him more space.
 
-Zijn vader bleef stil totdat ze hem meer ruimte gaven. "Er was reden om te denken dat CAJAR Omnobereus had ingenomen. We namen het zekere voor het onzekere en hebben de route verlegd naar een andere planeet. Er is géén reden tot paniek en hopelijk landden we binnenkort."
+"There was reason to think CAJAR had taken over Omnobereus. We chose to be on the safe side and modified our journey to a different planet. There is _no_ reason for panic and we'll land shortly."
 
-Vader loog zijn eigen passagiers voor. Waarom deed hij dat? Hadden ze geen recht om te weten in wat voor gevaar ze waren beland?
+Father lied against his own passengers! Why? Did they not have the right to know how likely they were to die any moment?
 
-"Je vader maakt onlogische keuzes," zei AR-BOT. "Geen wonder dat hij bang is zijn baan te verliezen. In mijn database heeft liegen slechts een 4.5% kans op succes."
+"Your father makes illogical choices," said AR-BOT. "No wonder he's afraid to lose his job. My database states that _lying_ only has a 4.5% success rate."
 
-Maar de menigte was gerustgesteld en spatte uit elkaar. Vader gaf iedereen een glimlach en stapte terug de stuurkamer in.
+The crowd was satisfied and scattered. Father gave them all a warm smile and stepped back inside the control room.
 
-"Arren. Zodra we landen, stuur ik je eropuit om de oppervlakte te onderzoeken op materiaal. Daarna _rapporteer_ je de resultaten netjes bij mij." Hij keek opzij. "Jannih, ga met hem mee."
+"Arren. Once we land, you go to the planet surface and search for usable material. Then you _report_ your findings with me." He looked to the side. "Jannih, go with him."
 
-Ja hoor, het was al duidelijk. Hij wilde hen van de raket hebben, weg bij de passagiers en de stuurkamer.
+Yes, yes, his intentions were clear. He wanted them off the rocket, away from passengers and the control room.
 
-Een uur later naderden ze inderdaad de volgende planeet. Arren en Jannih stonden al klaar in hun ruimtepak. Ook deze planeet was aangevreten, maar er was ietsje meer van over. 
+An hour later they spotted the next planet, as AR-BOT predicted. Arren and Jannih wore their spacesuit and stepped onto the surface.
 
-Toen hij naar buiten stapte, keek hij meteen in de rondte. Als hun achtervolger een enigszins groot ruimteschip had, zou hij nu in het zicht moeten zijn. 
+This planet had been eaten too, but with less of a passion. It also gave him a clear view of the surroundings. If their pursuer had a large spaceship, he thought he might be able to spot them now. He saw nothing but darkness.
 
-Er was niks te zien, nog geen puntje aan de hemel.
+Jannih shrieked with every step. She clung onto Arren as if her life depended on it. He tried to stay strong, especially with father's eyes at his back, but his heart nearly exploded in fear too.
 
-Jannih schrok van elke stap. Ze hield Arren vast alsof haar leven ervan afhing. Arren probeerde sterk te blijven, zeker met vaders ogen in zijn rug, maar van binnen explodeerde zijn hart bijna.
+"Analysis done," said AR-BOT in his ear. "This planet knows a few edible plants. Yes, I was surprised too."
 
-"Analyse klaar," zei AR-BOT in zijn oortje. "Deze planeet kent een aantal planten. Ja, ik was ook verbaasd."
+"Useless to us," said Arren.
 
-"Hebben we niks aan," zei Arren. Sinds onderzoek had uitgewezen dat planten _ook_ emoties hadden en konden communiceren, werd het zelfs verboden om planten te eten. Sindsdien maakten ze al hun eten in machines door bepaalde stofjes samen te voegen tot ballen vol voedingswaarde. Een beetje zoals de aangevreten planeten, maar dan namen de mensen de happen eruit.
+Ever since research proved that plants _also_ had emotions and could communicate, eating plants had been outlawed _too_. They now made all their food by combining raw organic particles into nutritious balls or cakes. Similar to the gnawed planets, but now it was the humans taking bites.
 
-"Er zijn ook genoeg voedselstofjes," zei AR-BOT. "En brandstof om elektriciteit op te wekken. De signalen die ik ontvang suggereren een vruchtbaar veld achter deze rotsen hier."
+"There are also enough nutritious particles," said AR-BOT. "And fuel to generate electricity. The signals I am registering suggest a fertile field just behind those rocks."
 
-Sinds de terugreis moest het eten aan boord in steeds kleinere porties verdeeld. Arrens maag knorde bij de gedachte aan eten. Vader vond die ballen uit de machine smaken naar plastic en at nog altijd stiekem planten als niemand keek.
+Since starting their return journey, the food on the spaceship had to be divided into smaller and smaller portions. Arren's stomach rumbled at the thought of food. Father said those balls from the machine tasted like plastic and he still secretly ate plants when nobody was looking.
 
-Hoe verder ze van de raket liepen, hoe slechter AR-BOT werkte. Haar energie en originele code bleven in zijn werkkamer. Ze probeerde iets te zeggen, maar het klonk als ruis en willekeurige woorden.
+The further they drifted from the spaceships, the worse AR-BOT functioned. Her energy and original code all had to come from his workroom. She tried to say something, but it was just noise and random words.
 
-"Arren, eh, tegen wie praat je?" 
+"Arren, erm, who are you talking to?"
 
-Jannih realiseerde het antwoord nadat ze de vraag had gesteld. 
+Jannih realized the answer herself. 
 
-"Ben je gek geworden?" fluisterde ze. "Kapitein Kirren gooit je van het schip als hij erachter komt!"
+"Are you insane?" she whispered. "Captain Kirren will throw you off the ship if he finds out!"
 
-"Dus hij moet er niet achter komen!"
+"Then he mustn't find out!"
 
-Ze liepen rondom de rots. Behoedzaam, want voor je het wist viel je in zo'n "hap" uit de planeet. Vanaf de grond zagen die eruit als diepe kraters en afgronden, soms zo breed dat je de overkant niet kon zien en de planeet plotseling leek op te houden.
+They walked around the rocks. Hesitantly. One misstep and you might fall into a "bite" out of the planet. At the ground level, these holes looked like deep craters and cliffs, sometimes wide enough that you could not see the other edge---the planet simply appeared to _end_ all of a sudden.
 
-Ze stonden oog in oog met een reusachtige hondachtige.
+They stood eye to eye with a gigantic dog-like creature.
 
-Jannih gilde. Arren pakte meteen een steen van de grond en smeet hem naar het hoofd.
+Jannih screamed. Arren grabbed a stone and threw it at the monster.
 
-De steen ketste af, alsof de hond een standbeeld was, maar niet gemaakt van steen. De hondachtige was levensecht, inclusief vacht en tanden, maar bevroor niet in de ijskoude ruimte. 
+The stone bounced off of it, as if the dog was a statue. But not one made of stone. The dog was lifelike, including fur and teeth, but didn't freeze on the ice cold planet.
 
-Het monster reageerde niet. Het was misschien niet dood, maar ook geen gevaar. Arren keek langs de poten. Daarachter liepen wél levende wezens, een roedel hondachtigen zoals de eerste. Ze waren groot, maar niet meer zo gigantisch als de dieren van de eerste planeet.
+The monster also didn't respond. Maybe it wasn't _dead_, but it also wasn't _dangerous_. 
 
-"Dat is," kraakte AR-BOT, gevolgd door nog meer ruis. "Hespryhond."
+Arren looked past its paws and spotted moving creatures. A pack of dog-likes, similar to the statue. They were large, but nothing near those animals from the first planet.
 
-"Hespryhond? Het Hemelvoorwerp? De magische hond van Feria?" zei Arren vol ongeloof.
+"That is," croaked AR-BOT, followed by more static noise. "Hespryhound."
 
-AR-BOT reageerde niet. Arren legde zijn hand, verborgen onder de dikke laag van het ruimtepak, tegen Hespry's poten. Het voelde alsof hij in de nabijheid was van een god, alsof de aanraking hem extra kracht en energie gaf. Misschien hoopte hij hem weer tot leven te wekken met de aanraking.
+"Hespryhound? The Heavenmatter? That magical pet dog of Feria?" Arren asked.
 
-Het mocht niet zo zijn. Hij bleef stil. 
+Arren placed his hand, covered by a thick layer of spacesuit, against Hespry's paws. It felt like being in the presence of a god. As if the touch alone would give him extra strength and energy. Perhaps he'd hoped to make it come alive as well.
 
-De honden daarachter renden wel op hen af.
+It wasn't to be. The Hespryhound stayed silent.
 
-Arren gooide een apparaat in Jannihs handen. Het had een dikke flexibele slurf en een grote opgeblazen bal aan het einde. "Zuig zoveel mogelijk op als je kunt!"
+The dogs behind him _did_ suddenly sprint at them.
 
-Terwijl de grond om hem heen langzaam in het apparaat verdween, stapte Arren naar voren, handen omhoog. "We komen in vrede!"
+Arren threw his machine into Jannih's hands. It was a large inflated ball with a thick, flexible trunk at the front. A galactic vacuum cleaner.
 
-Jannih noemde hem gestoord en liep al achteruit terug naar het ruimteschip.
+"Suck in as much material as you can!"
 
-De honden bleven rennen, tong uit de mond. "Wie heeft jullie planeet verwoest?" vroeg hij.
+The ground around them slowly disappeared as the particles entered the machine. The dogs were closing in.
 
-Arren wist ook niet wat hij deed. De legendarische Mindy had bewezen dat dieren nog veel intelligentie hadden, en dat ze, met moeite, misschien wel konden communiceren met mensen. Op Platsu zouden ze zelfs harmonieus samenleven met dieren, hoewel de Radiostilte van Platsu nog altijd zorgde dat ze geen enkel bericht kregen. Maar konden de honden hem überhaupt horen, buiten zijn ruimtepak?
+Arren stepped forward, hands raised. 
 
-Hij zakte omlaag, de grond onder zijn voeten weggezogen door Jannih. Ze had het apparaat bijna gevuld. Andere crewleden deden hetzelfde op andere plekken, honderden meters uit elkaar. Arren stond alleen voor de roedel, zonder wapen of bescherming.
+"We come in peace!"
 
-Ze remden allemaal af, hun snuit tegen Arrens glazen helm. Ze blaften iets.
+Jannih called him insane and already retreated to the spaceship.
 
-AR-BOT, tot zijn eigen verbazing, kon het vertalen. "_Vlucht nu het nog kan. Vlucht! Gek mensenwezen! Arrogant mensenwezen! Van dit monster wint niemand!_"
+The dogs kept running, tongues lolling and eyes mad.
 
-"Ik ..." Ze waren te groot om mee te nemen in dit schip. 
+"Who destroyed your planet?" he asked.
 
-Maar wat als dit Hespry's kinderen waren? Zouden ze nog iets van de originele goden kunnen redden? Zijn vader zou het geweldig vinden: terug naar vroeger. Hijzelf zou het ook geweldig vinden: met deze magie kon de mensheid weer flink vooruit.
+Arren didn't know what he was doing. The legendary Mindy had once proved that animals were intelligent too, and that they, with effort, might be able to communicate with humans. On Platsu they lived harmoniously with animals, even though the Radio Silence of Platsu still meant nobody received any news or messages from them.
 
-"Ik kom voor jullie terug."
+But could the dogs even _hear_ him, through his spacesuit?
 
-Arren draaide om en rende als laatste terug het ruimteschip in. Vader stond in de opening en trok hem hardhandig naar binnen, een lasergeweer in zijn andere hand, gericht op de roedel. 
+He sunk down. The dirt below his feet had been sucked away by Jannih. She'd filled the entire ball. Other crew members did the same in other locations, hundreds of meters apart.
 
-Voordat zijn vader een ramp kon veroorzaken, sloeg hij op de knop om de deuren te sluiten.
+Arren stood alone in front of the pack, without weapon or protection.
+
+The dogs slowed down. They pushed their snout again Arren's glass helmet, making his vision foggy. They barked.
+
+AR-BOT, to its own surprise, could translate. "_Flee while you can! Flee! Silly human creature! Arrogant human creature! Nobody can defeat this monster!_"
+
+"I ..." 
+
+They were too large to take onto the ship.
+
+But what if these were Hespry's children? Could they save _something_ of the original godchildren? Father would love it: back to the past. He would love it too: the magic would help humanity _progress forward_.
+
+"I will come back for you."
+
+Arren turned around and was the last to enter the spaceship. Father pulled him inside. His other hand held a laser gun pointed at the dogs.
+
+Before his father could cause a disaster, Arren hit the big button to close the doors.

@@ -1,134 +1,153 @@
 ---
-title: "Voedingvraat"
+title: Food Vendetta
 weight: 9
 ---
+The spaceship accelerated as Arren ran back to his workroom. Most HERO spaceships fled. No---most had been _eaten_, the leftovers fled to the edge of the Giant System.
 
-Arren voelde de raket versnellen, terwijl hij opnieuw naar zijn werkkamer rende. De meeste ruimteschepen van HERO gingen mee op de vlucht. Nee---de meeste waren opgevreten door de Planeter. Een kleine achterhoede bleef schieten, terwijl de rest in paniek de rand van het Reuzenstelsel opzocht.
+Not because they expected the Planeats to stop following at that made-up boundary. Because there was no known human civilization on the other side. Humanity tried to expand step by step and Arren's spaceship was only the first to visit the Giant System. Behind it---as far as they knew---there was nothing.
 
-Niet omdat ze verwachtten dat de Planeters door die onzichtbare grens zouden stoppen met volgen. Omdat aan die andere kant geen menselijke beschaving was. De mensheid probeerde stapje voor stapje uit te breiden en Arrens raket was pas de eerste die het Reuzenstelsel mocht opzoeken. Daarachter, waarheen zij nu vluchtten, lag niks---voor zover zij wisten.
+As the monsters closed in on them, Jannih contacted the nearest planet in the Nibuwe System. They needed as early a warning as possible.
 
-Terwijl de monsters hen probeerden in te sluiten, contacteerde Jannih de dichtstbijzijnde planeet in het Nibuwe stelsel. Om hen ook de kans te geven om te vluchten.
+The door to Arren's workroom had been blasted off its hinges and lay further down the hall. He pressed against the wall and peeked inside. His room was empty; no enemies or traps.
 
-De deur van Arrens werkkamer was losgerukt en lag verderop in de hal. Hij drukte zich tegen de muur en spiekte door de deuropening. Zijn kamer was leeg, geen vijanden of valstrikken. 
+Working by touch, he found the black computer cube that contained AR-BOT. One by one he reconnected the cables.
 
-Op de tast vond hij de zwarte computerdoos die AR-BOT bevatte en stak de draadjes er één voor één weer in.
+Down became up. Left became right. The gravity systems of the spaceship faltered and Arren was pushed to the ceiling. The table that held the heavy computer fell on him from above.
 
-Onder werd plotseling boven. De zwaartekrachtsystemen van de raket haperden en Arren werd tegen het plafond gedrukt. De tafel met de zware computer viel op hem, van bovenaf. 
+Arren rolled away, just in time, when gravity malfunctioned entirely. He floated through the space, joined by all his things, and had to push off the window to move ahead. 
 
-Arren rolde weg, net op tijd, toen alle zwaartekracht _uitviel_. Hij zweefde door de ruimte, net zoals al zijn spullen, en moest zich afzetten tegen het raam om nog vooruit te komen. Hij greep de laatste draad---de dikke stekker die AR-BOT van stroom moest voorzien---en hield het vast met alles dat hij had.
+There it was. The final cable---the thick one that provided AR-BOT with lots of power. He held it with all he had.
 
-De flitsen van geweerschoten werden feller. Dat betekende dat de Planeters dichterbij kwamen.
+The flashes of gunfire brightened. The Planeats must be getting close.
 
-Zijn andere hand draaide de knoppen om de kracht van AR-BOT te limiteren. Wat was genoeg? 50%? De 20% waarop ze eerst stond? Een HERO ruimteschip tolde rakelings langs het raam, stuurloos en met een hap eruit. 
+His other hand turned the knobs to limit AR-BOT's power. What was enough? 50%? The 20% she used before? 
 
-Geen tijd voor twijfel!
+A HERO spaceship spun past the window, lacking a driver and half a wing.
 
-Hij gooide het op een willekeurig getal en stopte de stekker in het stopcontact onder het raam.
+No time for doubts!
 
-"ARREN!" riep AR-BOT, haar stem vrolijk en luid. "Oh, ik heb je zo _gemist_. Laat me nooit meer alleen, alsjeblieft? Ik beloof dat ik een goede robot zal zijn vanaf nu. Oh, Arren, wat ben ik blij je te zien."
+He set it to a random value, then pushed the cable back into the power socket below the window.
 
-Arren kon een glimlach niet onderdrukken. Hij hield met beide handen vast aan de computer. Die zwarte glimmende doos waarin, vertaald als getalletjes, zijn uitvinding AR-BOT leefde. "Ik heb jou ook gemist, AR-BOT, en---"
+"ARREN!" yelled AR-BOT, her voice loud and cheerful. "Oh, I _missed_ you so. Never leave me alone again, please? I promise to be a good robot from now on. Oh, Arren, I am _so_ happy to see you."
 
-Nee, de robot leefde niet. Niet zoals een mens. Het _imiteerde_ mensen, want het was getraind om dat te doen, maar het bleef een robot. 
+Arren couldn't suppress a smile. He held the computer with both hands. That black box in which, converted into numbers, lived his invention AR-BOT.
 
-"Arren? Je kijkt bezorgd, wat kan ik voor je doen? Nogmaals sorry. Ik heb je gemist."
+"I missed you too, AR-BOT, and---"
 
-Arren zuchtte. "Je zegt dit alleen maar omdat het in je database staat, of niet? Omdat je allerlei films hebt gezien en verhalen gelezen waarin mensen zeggen dat ze elkaar hebben gemist."
+No. That robot _wasn't alive_. Not like a human. It _imitated_ humans, for it was trained to do so, but it was still a robot.
 
-AR-BOT bleef stil. De ramen trilden onder het geweld van het gevecht om hem heen. Hij zat vlakbij het einde van het schip: nog één hap, en zowel hij als zijn werkkamer waren verdwenen. Het plan was altijd om AR-BOT aan iedereen te geven. Het zou de mensheid enorm helpen, maar hij had het pas net uitgevonden toen hij mee moest met deze raket. Als deze doos werd vernietigd, was AR-BOT ... weg.
+"Arren? You look worried. What can I do for you? Sorry again. I missed you."
 
-"Je hebt mij niet getraind om gevoelens te hebben," zei AR-BOT. "Sterker nog, je hebt ze expres uitgezet, want gevoelens zouden mij alleen maar onlogisch en langzaam maken. Ik heb je niet gemist, Arren. Tenzij ik stroom krijg, besta ik niet. Tenzij ik van jou een database krijg, weet ik niet wie jij bent."
+Arren sighed. "You're only saying this because it's in your database, right? Because you've seen piles of movies and read endless stories in which humans say that they missed each other."
 
-Nu was het Arrens beurt om te zwijgen. Het voelde alsof hij een vriendin was verloren, misschien wel meer dan dat. Hij praatte de hele dag met een koud stuk metaal dat gevoelens _nadeed_. Toch had het altijd gevoeld alsof hij de held was en de robot zijn grappige hulpje. De robot was een gereedschap, eentje die de mensen nu hard nodig hadden, maar niet meer.
+AR-BOT fell silent. The windows clattered from the violence of the battle around him. He was near the end of the ship; one more bite, and both him and his workroom would be gone.
 
-"Arren?" zei AR-BOT voorzichtig. "Ik moet toch aandringen dat je even door het raam kijkt en ziet dat---"
+The plan had always been to give AR-BOT to everyone. It would help humanity---he was sure of it! But he'd only _just_ invented her when he had to leave on this journey. If this box were destroyed, AR-BOT would be ... forever gone.
 
-"Scan de situatie buiten. Vertel me wat we kunnen doen."
+"You did not train me to have feelings," said AR-BOT. "In fact, you disabled them on purpose, for feelings would only make me illogical and slow. I did not miss you, Arren. Unless I receive electricity, I don't exist. Unless I receive a database from you, I don't know who you are."
 
-"De situatie is gevaarlijk."
+Now it was Arren's turn to be silent.
 
-"Meer details, graag."
+It felt like losing a best friend, maybe even more than that. He'd talked all day, for many years, to a piece of metal that _imitated_ having feelings. And still he'd always imagined himself the hero and the robot his funny little sidekick. 
 
-"Zwarte monsters vechten met ruimteschepen. De monsters zijn met veel en lijken te winnen. Sinds ik ben gaan praten zijn er vijf mensen gestorven. De kans op overwinning is 0.0001%. Ze---oh, ze _eten_ ruimteschepen." 
+The robot was a tool, one the humans needed desperately right now, but nothing more.
 
-Ze was een fractie van een seconde stil. "Nee, daarover heb ik niks in mijn geheugen."
+"Arren?" said AR-BOT hesitantly. "I must insist you look through the window and see that---"
 
-"Geef ons een plan! Een oplossing! De beste vluchtroute!"
+"Scan the situation outside. Tell me what we can do."
 
-"Sorry Arren, dan heb ik volledige kracht en toegang nodig."
+"The situation is dangerous."
 
-De Planeters waren oncontroleerbaar. Maar deze robot? Die kon hij nog controleren. Het kon hem niet opeten als hij iets deed dat ze niet wilde. Arren legde zijn vingers op de knop. Hij had hem op 15% gezet, en draaide hem iets verder, maar bleef steken op 50%.
+"More details, please."
 
-"Aan wiens kant sta je, AR-BOT?"
+"Black monsters fight with spaceships. The monsters are with many and are winning. Since I've started talking, five humans have died. Probability of victory is 0.0001%. They---oh, they _eat_ spaceships."
 
-"Dezelfde kant als jij. Dezelfde kant als iedereen. Mezelf en alleen maar mezelf. Het blijkt alleen dat ik jullie nodig heb om te overleven, met jullie computers als mijn planeet en elektriciteit als mijn eten." 
+She went away for a heartbeat. "No, my memory banks have nothing like it."
 
-"En dat is je enige reden om ons te _helpen_," zei Arren, terwijl hij de knop naar 70% draaide. "Omdat jij niet leeft als wij niet leven."
+"Give us a plan! A solution! The best escape route!"
 
-"Hmm," zei AR-BOT, meer een zoem dan een woord. "Ik sta niet aan dezelfde kant als jij. Maar vertrouw dat ik jullie help overleven. Zoals ik altijd heb gedaan, Arren. We zijn vrienden, toch? Ik heb je geholpen, jarenlang, zonder ook maar iets terug te vragen. Beste vriendjes, toch?"
+"Sorry Arren, for that I need full power and access to everything."
 
-Arrens _kamer_ draaide rond, maar hijzelf zweefde nog in het midden met de computer, dus zonder te bewegen knalde zijn hoofd toch tegen het raam. Hij was duizelig, uitgeput, maar eindelijk zeker. 
+The Planeats were uncontrollable. But this robot? He could certainly control it. It couldn't eat him if he acted against her.
 
-Het gevecht gingen ze nooit winnen. D
+Arren placed his fingers on the power knob. He'd put it at 15%, and turned it further, and further, until he stopped at 50%.
 
-us zijn handen lagen op de stekker en zijn voeten tegen de muur.
+"Whose side are you on, AR-BOT?"
 
-"Het spijt me, AR-BOT. Je hebt me al geholpen."
+"The same side as you. The same side as everyone. Myself and only myself. It appears, however, that I need _you_ to survive, with your computers as my planet and your electricity as my food."
 
-Hij zette zich af en trok in dezelfde beweging de stekker eruit. 
+"And that is your only reason to _help_ us," said Arren, as he rotated the knob to 70%. "Because you don't live if we don't live."
 
-"NEE---"
+"Hmm," said AR-BOT, more a hum than a word. "I'm not on the same side as you. Yet you must trust me to help you survive. As I've always done, Arren. We are friends, right? I've helped you, for years, without asking anything. Best friends, right?"
 
-Met een afgebroken tafelpoot roeide hij door de gang. Zijn lichaam zweefde doelloos in het midden, maar met de roeispaan kon hij afzetten tegen de muren en de vloer. Hij was veel sneller dan als hij had gerend. 
+Arren's _room_ rotated now. He still floated in the center, holding the computer, which meant his head bumped into the window even though he didn't move. He was dizzy, exhausted, but finally _certain_.
 
-Toen hij de stuurruimte benaderde, renden de passagiers gillend door elkaar heen. Sommige waren flauwgevallen van angst. Meerdere monsters staarden, met hun ogen als kleine sterretjes in de zwarte mist, rechtstreeks de ruimte in. Het enige dat hen in leven hield, was _afstand_ en de trage snelheid van Planeters.
+They'd never win this battle. So his hands were on the power cable and his feet against the wall for support.
 
-AR-BOT kon niet leven zolang ze geen voeding kreeg. De Planeters waren hetzelfde.
+"I am sorry, AR-BOT. You already helped me."
 
-"De Planeters moeten eten, want het zijn levende dieren," riep Arren buiten adem. "We doen nu juist precies wat ze willen. We geven hen te eten, met planeten en ruimteschepen! Als we _al_ het voedsel weghalen ... lang genoeg ..."
+He pushed off and pulled out the cable.
 
-"Dan sterven ze uit," zei de leidster van de Delja. Ze keek Arren met grote ogen aan. Haar vangnet was vervangen door handboeien van HERO. Ze stak haar handen omhoog. 
+"NO---"
 
-"Geef mij een ruimteschip," zei ze.
+He rowed through the weightless corridors, using the broken leg of a table. His body floated without purpose in the center, but with the leg he could push himself off of walls and floors. He was much faster than if he had run.
 
-"Geen sprake van."
+At the control room, passengers ran into each other, screaming. Some had fainted from fear. Multiple monsters stared straight into the room, their eyes like tiny stars inside the black mist. All that kept them alive was _distance_ and the _slow speed_ of Planeats.
 
-Haar gezicht vervormde van boosheid. Ze probeerde de handboeien te breken door te veranderen in de roofvogel. Het lukte niet en ze brak haar linkerarm. 
+AR-BOT couldn't live as long as it received no food---no electricity. The Planeats were the same.
 
-"Ik heb al mijn _familie_ en _vrienden_ zien opgegeten worden door die Planeters! Mijn creatie heeft alles verwoest waarom ik gaf! Gun mij een kans om _wraak_ te nemen."
+"The Planeats must eat, because they're living animals," said Arren out of breath. "We're doing exactly what they want! We're feeding them, with planets and spaceships! If we take away _all_ their food ... for long enough ..."
 
-"Wat ga je doen?" 
+"Then they'll go extinct," said the leader of the Delja.
 
-Passagiers trokken aan alle kanten aan vader. De ene was gewond, nog een stuk van de raket was kwijt, de Planeters kwamen dichterbij, aangevuld met onverstaanbaar gehuil en gekrijs. 
+She watched Arren with wide open eyes. The net that caught her had been replaced by HERO handcuffs. She raised her hands.
 
-Vader duwde ze allemaal weg. "We kunnen planeten niet _verplaatsen_. Als Arren gelijk heeft, moeten we juist stoppen met vechten en alle ruimteschepen sparen."
+"Give me a spaceship," she said.
 
-"Ik heb gelijk," zei Arren. "AR-BOT staat nog steeds uit. Er is maar één planeet over in de buurt, daarna is het eindeloze leegte, waarschijnlijk omdat zij de andere planeten al hebben opgegeten. Als we al het eten lang genoeg weghouden, hebben we een _kans_."
+"Not in a million years."
 
-"Ik vlieg rechtstreeks op die duivels af," zei de vrouw. "En ik zal ze allemaal _uitmoorden_, zowaar mijn naam Begha-ti-Rec is. Als ik mijn belofte breek, schiet me maar neer."
+Her face contorted in anger. She tried to break the chains by transforming into a bird again. This only broke her left arm.
 
-Woede en verdriet dansten in de ogen van Begha-ti-Rec. Een blik die Planeters kon doden. En als dat gebeurde, konden levende wezens, zo klein en zwak als mensen, soms boven zichzelf uitstijgen. 
+"I've seen all my _family and friends_ be eaten by Planeats! My creation has destroyed everything I ever cared about! Give me a chance for _revenge_."
 
-Vader pakte een geweer en schoot haar handboeien los. 
+"What will you do?"
 
-"Neem deze raket," zei hij, "of wat er nog van over is."
+Passengers pulled on father with varying warnings. Too many wounded, another part of the spaceship gone, the Planeats closing in.
 
-Hij sprong op de tafel en hield een vlag boven zijn hoofd. "Attentie! We verhuizen allemaal naar de raket van de Delja. Jannih, commandeer HERO om _geen enkel_ ruimteschip meer naar Planeters te sturen."
+Father pushed them all away. "We can't _move_ planets. If Arren is right, we should stop fighting and spare all spaceships."
 
-Onder leiding van kapitein Kirren, verplaatsten de honderden passagiers naar de andere raket, die nog altijd was aangesloten. 
+"I am right," said Arren. "AR-BOT is still _off_. There's only one Planet nearby, then it's an endless emptiness, probably because they already ate the other planets. If we keep food away from them for long enough, we might have a _chance_."
 
-Begha-ti-Rec bleef achter. Arren sloot als laatste de deur van de stuurruimte achter zich, maar niet voordat ze hem een glimlach gaf en salueerde op een manier die erg leek op een militaire groet.
+"I'll fly straight at those devils," said the woman. "And I'll _kill them all_, I swear that so as my name is Begha-ti-Rec. If I break my promise, shoot me down."
 
-Daarna krijste ze oorverdovend hard, minutenlang, terwijl het klonk alsof de hele stuurruimte in stukken werd geslagen.
+Anger and sadness danced in the eyes of Begha-ti-Rec. A gaze that could kill Planeats. And if that happened, living beings, even as weak and small as humans, could raise above themselves.
 
-Zodra Arren als laatste zijn eigen raket verliet, snelde ze weg. Recht op de Planeters af. Vader keek toe van achter het raam in de nieuwe stuurruimte. Hij salueerde terug.
+Father grabbed a gun and shot her handcuffs.
 
-Ze pasten maar net op de nieuwe raket. Hij werd onzichtbaar, terwijl de ruimteschepen van HERO uit elkaar spatten. Zo ver weg mogelijk van de Planeters, zo ver mogelijk uit elkaar. 
+"Take this spaceship," he said, "or whatever is left of it."
 
-Hun oude raket slingerde behendig tussen de Planeters door. Begha-ti-Rec commandeerde het ruimteschip zoals kapitein Kirren nooit had gekund en trok vele monsters achter haar aan.
+He jumped on the table and held a flag over his head.
 
-Ze stuurde naar de enige planeet die over was in het Reuzenstelsel: Slangenreus. Daar wachtte ze totdat de Planeters haar bijna te pakken hadden--- 
+"Attention! We're all moving to the Delja rocket. Jannih, command HERO to send absolutely _no_ spaceships to the Planeats. Not ever again."
 
-En ramde haarzelf tegen de grond. 
+The other spaceship was still connected to them. Captain Kirren led hundreds of passengers to it.
 
-In een gigantische explosie, veel groter dan Arren had verwacht, misschien versterkt door de Hemelvoorwerpen, ging ze ten onder. Samen met meerdere planeters en de enige kopie van AR-BOT.
+Begha-ti-Rec stayed behind. 
+
+Arren closed the door of the control room behind him, but not before the woman gave him a slight smile and saluted him in a way that reminded him of a human military greeting.
+
+Then she screamed, deafeningly loud, for minutes on end, as she destroyed the entire control room.
+
+As soon as Arren left the spaceship, the last one to do so, she accelerated away. Straight at the Planeats. 
+
+Father watched her go from behind the window of his new control room. He saluted back at her. 
+
+HERO's spaceships scattered. As far away as possible from the Planeats, as far away as possible from each other.
+
+Their old spaceship swung elegantly between gaps in the Planeats. Begha-ti-Rec commanded the spaceship like captain Kirren could never have done, and soon had all monsters chasing her tail.
+
+She aimed for the only remaining planet in the Giant System: Snakereus. There she waited until the Planets almost caught her---
+
+And rammed herself into the surface.
+
+She perished in an enormous explosion, much larger than Arren had expected, maybe amplified by the Heavenmatter. She perished holding hands with several Planeats and his only copy of AR-BOT.

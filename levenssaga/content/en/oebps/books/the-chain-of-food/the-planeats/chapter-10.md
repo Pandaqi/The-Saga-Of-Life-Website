@@ -1,88 +1,97 @@
 ---
-title: "Epiloog"
+title: Epilogue
 weight: 10
 ---
+In the following weeks, nobody slept. The Planeats always felt nearby. Every black splotch in the galaxy---and there were many of those---was studied for hours to find any possible danger. HERO forbade all its spaceships to change course or fly back to scout the area. The plan would only succeed if they provided absolutely _no food_ for the Planeats anymore.
 
-In de weken die volgden sliep niemand. De Planeters voelden altijd dichtbij. Elke zwarte vlek in het heelal---en dat waren er veel---werd lang bekeken en onderzocht op gevaar. HERO verbood ruimteschepen om af te wijken of terug te vliegen ter verkenning. Het plan zou alleen slagen als ze de Planeters _niks_ meer te eten gaven.
+And so HERO's spaceships purposely flew to empty pockets of space. Humans had known for centuries, thanks to advanced technology, that there was _nothing_ there.
 
-Dus de ruimteschepen van HERO vlogen expres naar de gaten in de ruimte. De plekken waarvan de mensen al eeuwenlang wisten, dankzij kijkapparatuur, dat er helemaal niks was om te vreten.
+After a few days, Arren's rocket broke loose from the safe herd. A decision that only half the passengers supported. They could become invisible now and had to risk visiting the nearest planet. Pick up fuel and food. Create a new home base, for Nibuwe had _forbidden_ them from coming home.
 
-Na een paar dagen brak Arrens raket los van de veilige kudde, een beslissing waar de helft van de passagiers het ook niet mee eens was. Maar zij konden onzichtbaar worden, dus zij moesten naar de dichtstbijzijnde planeet. Eten en brandstof oppikken. Een nieuwe basis maken, want Nibuwe had hen verboden terug te keren door het Reuzenstelsel.
+Arren felt naked without AR-BOT. But he also felt she was still with him. All the facts she'd told him were still in his head. The logical way in which she solved every problem helped him stay calm in every situation.
 
-Arren voelde zich naakt zonder AR-BOT. Maar hij voelde ook dat ze nog altijd bij hem was. Alle feitjes die ze altijd vertelde zaten nu ook in zijn hoofd. De logische manier waarop ze alles bekeek hielp hem om rustig te blijven in deze situatie.
+Until father asked him for his next report. Him and Jannih had searched for proof that the Planeats followed them, but found none.
 
-Totdat vader hem vroeg om een volgend rapport. Hij had samen met Jannih gezocht naar bewijs dat de Planeters hen volgden, maar geen gevonden.
+"Dad," Arren started. He fidgeted with the weird knobs on this spaceship, too large and too fine for human hands.
 
-"Pap," begon Arren. Zijn vingers friemelden met de rare knoppen van deze raket, te groot en tegelijkertijd te fijn voor mensenhanden. 
+A dog-like being hopped into the room. The Delja had captured many of Hespry's children. Perhaps with the hope to undo the Planeats. There were so many that almost every family received a pet.
 
-Een hondachtige huppelde de ruimte binnen. De Delja hadden zoveel mogelijk van Hespry's kinderen gevangen genomen en gehouden. Misschien in de hoop de Planeters nog ongedaan te maken. Het waren er zoveel dat vrijwel elke familie een eigen huisdier kreeg. 
+Arren coughed and found his voice. "I can't write a report anymore. Not one as good as the last one."
 
-Arren kuchte en vond zijn stem. "Ik kan niet meer een rapport schrijven. Niet zo goed als die laatste."
+Father leaned forward in his chair and grabbed his son's hands.
 
-Vader begreep het meteen. Hij leunde voorover in zijn stoel en pakte de handen van zijn zoon. "Dat is oké. Ik wist toch meteen dat het niet je eigen werk was? Ik was er blij mee. Ik _dacht_ er blij mee te zijn. Maar, eerlijk, besef ik nu ..." 
+"That is okay. You really think I didn't immediately know that report wasn't your own work? I was happy. I _thought_ I was happy with it. But, honestly, now I realize ..."
 
-Hij gaf zijn zoon een schouderklop. "Ik heb liever een rapport vol fouten in _jouw_ woorden, dan de perfecte teksten van een robot. Er is één ding dat een robot denk ik nooit gaat begrijpen."
+He patted his son on the shoulder. "I'd rather receive a report filled with errors in _your words_, than the perfect texts from a robot. There is one thing a robot, I think, will _never_ understand."
 
-"En dat is?" 
+"And that is?"
 
-Arrens hoofd dacht nog steeds na over zijn volgende robot. Hij wist dat het de toekomst was, dat het mensen enorm kon helpen. Hij moest het alleen _goed_ doen. Dus voor het antwoord op deze vraag schoof hij naar het puntje van zijn stoel, zijn neus tegen die van vader.
+Arren's mind still wondered about building his next robot. He knew it was the future. He knew it would benefit humanity. He just had to do it _right_. 
 
-"Fouten en onzekerheid maken het mensenleven. Als wij niet kunnen groeien en leren, wat gaan we doen? Als wij geen _baan_ kunnen hebben, niet kunnen vallen en opstaan, wat is ons doel dan nog? Als wij ooit de andere kant van het heelal bereiken---God bereiken---wat gaan we _daarna_ nog doen?"
+"Mistakes and uncertainty make human life. If we can't grow and learn, what will we ever do? If we can't have a _job_, if we can't fall and get up again, what is our _goal_ in life anymore? If we ever reach the other side of the galaxy---reach God, they say---what will we do _after that_?"
 
-"Dus de volgende robot die ik bouw moet _expres_ fouten maken?"
+"So the next robot I build must purposely _make mistakes_?"
 
-Vader zuchtte. "Je gaat géén volgende robot maken. Nibuwe bedenkt nu al strengere regels om ze praktisch te verbieden." 
+Father sighed. "You're not building a next robot. Nibuwe is already coming up with strict laws that basically outlaws them."
 
-Hij stond op uit zijn stoel. "Jij gaat een _rapport_ schrijven, en dan gaan we lachen om je grappige spelfouten, en dan ga ik je een tip geven zodat je volgende rapport beter wordt. En dat je hele leven lang."
+He stood up. "You're going to write a _report_, and then we're going to laugh about silly spelling errors, and then I'm going to give you advice that will make your next report better. And we'll keep doing that our entire life."
 
-"Laten we hopen," zei Arren, terwijl hij ook opstond, "dat het nog een lang leven is. En dat de Planeters langzaam uitsterven in het duister van het heelal."
+"Let's hope," said Arren, as he stood up too, "that it's a long life ahead of us. And that the Planeats slowly go extinct in the darkness of space."
 
-Zij waren de natuurlijke vijanden van de Planeters geworden. En zij die van de mensen. En zo hoorde het: een herinnering dat alles in balans moest zijn, want zelfs iets goeds, wanneer er geen grens op zat, wordt uiteindelijk iets verschrikkelijks.
+They had become the natural enemies of the Planeats. And they were that of humans. And so it must be: a reminder that everything should be balanced, for even something good, without a limit to it, will eventually turn into something horrible.
 
-Jannih rende de stuurkamer in, haar lange haar vastgeplakt aan haar wangen. "Ik had contact met HERO. Ze zeggen dat er _nu_ al Planeters sterven."
+Jannih ran into the control room. Her long hair was plastered to her cheeks.
 
-"Dat is te snel," zei Arren meteen. "Elk levend wezen kan langere tijd zonder eten. Ik neem aan dat ze vroeger ook niet _elke dag_ een nieuwe ster of planeet aten! Anders ... anders is de rest van het universum al opgevreten."
+"HERO just contacted me. They say Planeats are dying _already_."
 
-Arren wilde er niet aan denken, want het was een mogelijkheid.
+"That's too fast," said Arren instantly. "Any living being can go quite a while without food. I assume they didn't eat a new star or planet _every day_ until now! Otherwise ... otherwise the entire galaxy would already have been eaten!"
 
-Jannih schudde haar hoofd. Haar zwetende handen hielden de radio vast, maar ze liet hem vallen om te wijzen door het raam. Hun nieuwe planeet was zichtbaar geworden, een groenrood stipje in de verte. "HERO zegt dat de Planeters _krimpen_, terwijl hun mist verdampt, totdat ze er ineens niet meer zijn. Alsof ..."
+Arren didn't want to think about it, because it was a real possibility.
 
-"Als een scheikundige reactie," mompelde Arren. "Alsof de mist reageert met een ander stofje dat het _afbreekt_."
+Jannih dropped the radio from her sweaty hands, so she could point through the window. Their new target planet was visible now. A green-red dot in the distance.
 
-"Alsof ze vergiftigd zijn," zei Jannih. "Zo omschreef de oprichter van HERO het."
+"HERO claims the Planeats are _shrinking_, as their fog dissipates, until they are gone. As if ..."
 
-Arren kon zichzelf voor de kop slaan. Dát is hoe kleinere dieren wonnen van grotere. 
+"As if it's a chemical reaction," Arren mumbled. "As if the fog reacts with some other particle that breaks it down."
 
-Gif. 
+"As if they're _poisoned_," said Jannih. "That's how the leader of HERO described it."
 
-En Begha-ti-Rec wist het, dus ze vergiftigde de laatste planeet, waar ze allemaal graag van aten. Maar hoe wist ze dat? Hoe kende ze het tegengif?
+Arren could hit himself in the face. _That_ is the obvious answer to how smaller animals defeated bigger ones.
 
-Hij sprong uit zijn stoel, joelend, handen omhoog. "We hebben een kans! Nee, ik weet het zeker, we hebben het _gedaan_! Planeters ontmoet en _overwonnen_!"
+Poison.
 
-"Niet te vroeg juichen, zoon."
+And Begha-ti-Rec knew it. She poisoned the final planet, knowing the Planeats would eat it all. But how did she know? How did she figure out the right poison?
 
-"Iedereen moet dit nieuws weten!" 
+He jumped from his chair, cheering and raising his hands.
 
-Arren rende de kamer uit.
+"We have a chance! No, I am certain, we _did it_! We met Planeats and _defeated them_!"
 
-Vader schudde zijn hoofd. "Wat zijn baan ook wordt, een leidinggevende functie lijkt me niet verstandig," zei hij tegen een glimlachende Jannih.
+"Don't cheer too soon, son."
 
-"Maar we hebben het gedaan, toch?" vroeg ze. "We zullen veilig leven op Dinnifee, toch?"
+"Everyone should hear this news!"
 
-Vader schakelde de lichtjes van de ruimte uit. Ze hoefden niet meer te sturen en zouden snel landen op de nieuwe planeet. Nog steeds onzichtbaar, met vergiftigde Planeters, maakte hij zich steeds minder zorgen.
+Arren ran from the room.
 
-"We zullen de eerste menselijke kolonie vestigen in het Feeënstelsel. En daarna ga ik héél lang slapen."
+"Whatever his job ends up being," said his father, "a leading role does not seem wise to me."  
 
-Hij liep met Jannih naar buiten. Wat hij niet zag, terwijl hij de deur dichtdeed en een anekdote over feeën begon, was dat één scherm uit zichzelf weer aansprong.
+"But we did it, right?" asked Jannih. "We'll live safely on Dinnifee, right?"
 
-_Arren had gelijk, beste lezer. AR-BOT is ongelofelijk intelligent. Slimmer dan mensen, als je haar de juiste dingen vraagt. Terwijl de Deljaraket vastzat aan die van Arren, en AR-BOT diens ondergang voelde aankomen, had ze haarzelf gekopieerd en geüpload naar de Deljaraket. Vanaf daar analyseerde ze het hele gevecht met de Planeters, totdat ze de oplossing realiseerde._
+Father turned off the lights in the room. They didn't need to steer anymore and would soon land on that new planet. His worries mostly subsided. They were still invisible and the Planeats seemed poisoned and dying.
 
-_Omdat de Deljaraket bestond uit stukjes Zekerstof, het Hemelvoorwerp dat alles in alles kon veranderen, kon ze een nieuw stofje uitvinden. Eentje die razendsnel over een planeet verspreidde en specifiek Planeters doodde. Met het geheim van dat stofje, liep Begha-ti-Rec even later naar Kirren._
+"We'll be the first humans to colonize the Fairy System. And then ... I am going to sleep for a _long time_."
 
-Haar opoffering redde de mensheid en de paar overlevenden van haar eigen Delja. In haar ogen was AR-BOT een godsgeschenk. Ze had de robot goed verborgen voor Kirrens ogen, verspreid over alle systemen in de nieuwe raket.
+Him and Jannih left the room too.
 
-Het was maar de vraag hoe de robot zou reageren op Arrens verraad.
+What he didn't see, as he closed the door and started some anecdote about fairies, was that one screen turned itself on again.
+
+_Arrent was right, dear reader. AR-BOT was incredibly intelligent. More intelligent than humans, if you asked the right questions. While the Delja Spaceship had been attached to theirs, and AR-BOT felt her demise coming, she'd copied herself to the other spaceship. From there, she analysed the entire fight with the Planeats, until she found the solution._
+
+_Because the Delja Spaceship was made of Destinydust, the Heavenmatter that could turn anything into anything, it could invent a new particle. One that spread across a planet like wildfire and would specifically kill Planeats. Knowing the secret behind that poison, Begha-ti-Rec met Kirren shortly after._
+
+Her sacrifice saved humanity and the final survivors of her own Delja. In her eyes, AR-BOT was a godly gift. She'd hidden the robot from Kirren's eyes well, spread across all systems of their new spaceship.
+
+The question remained, though, how the robot would react to Arren's ultimate betrayal.
 
 &nbsp;
 
-_En zo ging het leven door ..._
+_And so it was that life continued ..._

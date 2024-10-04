@@ -69,9 +69,9 @@ De Planeters waren oncontroleerbaar. Maar deze robot? Die kon hij nog controlere
 
 Arrens _kamer_ draaide rond, maar hijzelf zweefde nog in het midden met de computer, dus zonder te bewegen knalde zijn hoofd toch tegen het raam. Hij was duizelig, uitgeput, maar eindelijk zeker. 
 
-Het gevecht gingen ze nooit winnen. D
+Het gevecht gingen ze nooit winnen. 
 
-us zijn handen lagen op de stekker en zijn voeten tegen de muur.
+Dus zijn handen lagen op de stekker en zijn voeten tegen de muur.
 
 "Het spijt me, AR-BOT. Je hebt me al geholpen."
 
