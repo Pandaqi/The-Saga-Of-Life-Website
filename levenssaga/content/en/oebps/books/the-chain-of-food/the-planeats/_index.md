@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "The Planeats"
 weight: 10
 date: 2023-06-09
