@@ -58,7 +58,7 @@ Arrent studied the screen and counted the planets on his fingers. He called them
 
 "Then I have no idea where Appereus is."
 
-Arren cursed his father and punched his first into the wall. It gave him nothing but a dull metal thud.
+Arren cursed his father and punched his fist into the wall. It gave him nothing but a dull metal thud.
 
 "I don't imagine," said AR-BOT, "that Appareus is hidden behind that particular wall."
 

@@ -83,4 +83,4 @@ Or were they too dumb and too blind to see any other option?
 
 &nbsp;
 
-_And so it was, that life continued ..._
+_And so it was that life continued ..._

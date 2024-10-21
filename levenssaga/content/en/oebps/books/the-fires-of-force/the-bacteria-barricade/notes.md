@@ -112,6 +112,12 @@ Especially superhero stories have this kind of issue. When a superhero has acqui
 
 ## Revision (@TODO)
 
+**@IDEA**:
+* Have everyone _laugh_ at Darus and his silly idea about the blue boulders being keys to the barriers. And that they should roll them up the hill, what a _joke_!
+* Only Feria takes him seriously (when she actually asks follow-up questions and gets somewhere, already in the story)
+* They simply don't try this (properly) because Darus is not believed/taken seriously.
+
+
 * **MUST:** Have them name the reverse bacteria _Mitos_ early on, as they look like a tightly wound thread/have that inside
 * **MAYBE/MUST:** I'm just not sure having Bella endangered is enough tension OR maybe we should mention some consequences of this in the epilogue already. I also think Ardex' arc is a bit wishy-washy => it would perhaps make more sense if the family was **way more dysfunctional**. (They all do completely different things at first, don't help each other, Eeris stays at her Withered Willows and ignores the rest, etcetera.)
 	* They all have their own "thrones" now (Darus on the wall, Eeris Willows, Feria Gardens, Gulvi the start of the Dolphin Pass, etcetera), and so they mostly stay there and only care about that.

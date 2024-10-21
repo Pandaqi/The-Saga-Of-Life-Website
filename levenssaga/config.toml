@@ -34,7 +34,7 @@ languageCode = "en-IN" # EN: 'en-IN', NL: 'nl-NL'
         "The Seafarship", "The Second Conflict", "The Bruised Balance",
         "The Envoyage"]
       genreList = [
-        "Brainteaser", "Dialogue", "Active", "Fight", "Society", "Magic", "Myth", "Mystery",
+        "Brainteaser", "Dialogue", "Active", "Battle", "Society", "Magic", "Myth", "Mystery",
         "Science", "Technology", "Scary", "Adventure", "Travel", "Gods", "Creativity", "Funny",
         "Sad", "Family", "Friendship", "Love", "Educational", "Growth", "Creation",
         "Discovery", "Survival", "Crime", "Espionage", "Truestory", "Important", "Future", "Power" ]

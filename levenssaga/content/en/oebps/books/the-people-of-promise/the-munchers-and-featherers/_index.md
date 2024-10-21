@@ -13,7 +13,7 @@ prequel: []
 refers: ["Indus", "Schola", "Asha Tribe", "Jagu Tribe", "Darus Stones"]
 happens: ["Asha Tribe Split", "War with Jagu"]
 godlink: ["Ardex"]
-genre: ["Dialogue", "Sad", "Society", "Survival", "Biology", "Fight"]
+genre: ["Dialogue", "Sad", "Society", "Survival", "Biology", "Battle"]
 teaches: ["Hunters and Gatherers", "Genetic Diversification"]
 
 blurb: "A clever tribe of hunters and gatherers meets another tribe hoarding all available food in the area. Unsure if they can trust each other, their cultural differences soon lead to unpredictable consequences."

@@ -135,6 +135,8 @@ As we move through the cycle and you see other types of energy, I hope this conc
 
 
 ## Revision
+**@IDEA**: Add "double shadows" or "deeper/moving shadows" to situations where someone is about to die => most likely the Gosti/Tiger with Darus, then Bellafax later. These only appear with Ardex near, though, so have it be clear he's around.
+
 @TODO: Actually describe the foxes a bit more, give the unique/specific things that _set them apart_ from modern foxes.
 
 @TODO: Be a little more clear/specific about that the Marker Stones suck out energy (to recharge themselves), _that's_ why Darus turned a statue. (Only when charged do they _give out_ the energy.) That makes the end more sensible.

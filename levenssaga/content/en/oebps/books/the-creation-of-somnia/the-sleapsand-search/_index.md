@@ -12,7 +12,7 @@ character: ['Sand King', 'Meogg', 'Parog', 'Holog', 'Olombos']
 refers: ["Cosmo's Final Flight", "Olombos' First Journey", 'Invention of Sleep', 'Protobirds', 'Dodo', 'Apra', 'Apire', 'Gosti', 'Egg Cave', "Soul of Cosmo", 'Law of First Landing', 'Arrival of Seafarers', 'Faraway Islands', 'Sigriplant', 'Cristaltirans']
 happens: ["Olobmos' Second Journey", 'Porto Volo', 'Egg of Olombos', 'Soulprotectors']
 godlink: ['Sand King']
-genre: ["Active", "Fight", "Discovery", "Gods", "Travel", "Creativity", "Sad", "Growth", "Biology", "History"]
+genre: ["Active", "Battle", "Discovery", "Gods", "Travel", "Creativity", "Sad", "Growth", "Biology", "History"]
 prequel: ['The Great Bustairs']
 
 timeline:

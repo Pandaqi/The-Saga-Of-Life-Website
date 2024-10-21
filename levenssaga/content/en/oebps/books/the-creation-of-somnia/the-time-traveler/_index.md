@@ -13,7 +13,7 @@ prequel: []
 refers: ['The Floating Egg', 'The Misplaced Egg', 'Warning for Donte', 'The Wooden Timecore', 'The Kinesh Race', 'Moved Invention of Gunpowder', 'Chiefcloud', 'Donte', 'Coconut Soccer', 'Disk Hockey', 'Comrades without King', 'Dragontimber', 'The Apex Codex', 'Roge', "Elephantic Games", "Franberri Revolution", "Elwar Revolution"]
 happens: ['Battle for Baroke', 'Birth of Amowe']
 godlink: ['Ismaraldah', 'Jacintah']
-genre: ['Brainteaser', 'Active', 'Fight', 'Society', 'Gods', 'Sad', 'Love', 'Survival', 'Espionage', "Snackstory"]
+genre: ['Brainteaser', 'Active', "Battle", 'Society', 'Gods', 'Sad', 'Love', 'Survival', 'Espionage', "Snackstory"]
 
 timeline:
   - yearstart: 1900

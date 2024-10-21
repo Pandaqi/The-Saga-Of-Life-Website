@@ -69,4 +69,4 @@ The feeling was cut short by a voice from upstairs. Gaia's voice.
 
 &nbsp;
 
-_And so it was, that life continued ..._
+_And so it was that life continued ..._

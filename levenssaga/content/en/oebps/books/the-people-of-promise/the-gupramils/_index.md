@@ -13,7 +13,7 @@ prequel: ["The Coldest Demigod"]
 refers: ["Ismaraldah", "Didrik", "Tamli", "Gupramils", "First Conflict", "Throne of Tomorrow", "Bella's Illness", "Preza", "Pricecats", "Himamountains", "Firering", "Flamefeaster", "Deathmates", "Garda", "Origina", "Dolphin Pass", "Gulvi", "Buhasm", "Prebuha", "Hens"]
 happens: ["Golden Age of Schola", "Corruption of Flamefeaster", "Discovery Compana"]
 godlink: ["Ardex"]
-genre: ["Dialogue", "Sad", "Power", "Love", "Growth", "History", "Fight"]
+genre: ["Dialogue", "Sad", "Power", "Love", "Growth", "History", "Battle"]
 teaches: ["Gupta Empire", "Tamil"]
 
 blurb: "Gupra almost conquered the entire Schola territory. Until he stumbles upon his final obstacle: the Tamli kings, of whom legends claim they'll never be defeated, whatever you try."

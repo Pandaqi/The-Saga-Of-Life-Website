@@ -13,7 +13,7 @@ prequel: ["The Bear who Was"]
 refers: ["Origina", "Garda", "Compana", "Traferia", "Heavenmatter", "Windgustwing", "Stone of Destinydust", "Loveline", "Turnbacktulips", "Violets of Fortune", "Loveroses", "Amor", "Paraat", "Clouds of Rampaging Rains", "Biggest Bearchitect"]
 happens: ["Discovery Agriculture", "Theft Stone of Destinydust", "Accelerated Plant Growth"]
 godlink: ["Cosmo"]
-genre: ["Dialogue", "Friendship", "Discovery", "Educational", "Important", "Fight", "Power", "Biology"]
+genre: ["Dialogue", "Friendship", "Discovery", "Educational", "Important", "Battle", "Power", "Biology"]
 teaches: ["Agriculture"]
 
 blurb: "The war leaves animals with no time to hunt for food anymore. The most worthless fighters are commanded to find a solution fast---but one after the other disappears as they try."

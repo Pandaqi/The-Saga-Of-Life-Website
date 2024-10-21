@@ -14,7 +14,7 @@ refers: ["Book of Meaning", "Poison Belt", "Throne of Tomorrow"]
 happens: ["Poison Stolen from Connido", "Explosion Poisonbomb", "Creation Poison Belt", "First Poisonous Snake"]
 teaches: ["Evolution", "Poison", "Intergenerational Trauma", "Fossil Dating"]
 godlink: ["Bella", "Darus", "Ardex", "Eeris"]
-genre: ["Active", "Family", "Discovery", "Educational", "Creation", "Myth", "Fight", "Biology"]
+genre: ["Active", "Family", "Discovery", "Educational", "Creation", "Myth", "Battle", "Biology"]
 
 blurb: "The Connido discover they used to have the Poisonous Bite, but not anymore. They must discover why it disappeared and how it can return. Preferably before the terrifying Crocodile Legend comes true."
 
