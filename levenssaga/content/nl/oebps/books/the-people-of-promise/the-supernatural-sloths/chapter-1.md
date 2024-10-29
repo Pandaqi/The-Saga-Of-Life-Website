@@ -10,11 +10,15 @@ De stem van zijn beste vriend weerklonk vlakbij. Sotho kwam eindelijk in bewegin
 
 Lothan wandelde slaperig langszij; Sotho dook dieper in de stapel bladeren. Ogen dicht, stil zijn. Maar precies op dat moment viel een andere luiaard uit haar Boomtoren op honderd meters hoogte.
 
-Eindelijk! Hij moest snel zijn! Zijn beste vriend was nog niet de hoek om, of Sotho stormde uit zijn schuilplaats en rende op de lift af. 
+Eindelijk! Hij moest snel zijn! 
+
+Zijn beste vriend was nog niet de hoek om, of Sotho stormde uit zijn schuilplaats en rende op de lift af. 
 
 Een rechthoekig vlot van planken hing met dikke touwen van een boomtop. Het begon al te zweven. De vallende luiaard viel op een paar houten bouwwerken in de lucht, rolde verder, en landde toen op een tak die ver doorboog.
 
-Dat versnelde de lift. Sotho maakte een grote sprong en klampte zich maar net vast aan de rand. De grote klauwen van luiaards waren hiervoor gemaakt, maar toch voelde het als te veel moeite.
+Dat versnelde de lift. 
+
+Sotho maakte een grote sprong en klampte zich maar net vast aan de rand. De grote klauwen van luiaards waren hiervoor gemaakt, maar toch voelde het als te veel moeite.
 
 Terwijl hij omhoog werd getakeld, gleden overal om hem heen jonge luiaards giechelend van de glijbanen. De lange buizen van hout slingerden en kronkelden door Luiland, als reuzenslangen die met elkaar vochten op honderd meters hoogte. Eentje had zelfs een verticale cirkel waarmee je over de kop ging. Dat was nodig geweest om ruimte te maken voor een ander bouwwerk dat luiaards lang geleden hadden aangelegd.
 
@@ -74,7 +78,7 @@ Ze sloeg een hand voor haar mond, maar haar gekrijs liet al twee luiaards van hu
 
 "Oh mijn god. Sorry. Ik ga al weg. Ik wist niet dat dit ... dat dit luiaard territorium was."
 
-De luiaards verstonden hier natuurlijk niks van. Sinds de Babbelbroers konden alle diersoorten niet meer met elkaar praten. 
+_Natuurlijk, beste lezer, verstonden de luiaards niets hiervan. Sinds het incident met de Babbelbroers konden de meeste diersoorten niet meer met elkaar praten. Ik vertaal alles voor jou, beste lezer, om je te helpen begrijpen. Want dit is een verhaal dat je niet mag missen._
 
 Alle dieren doken weg. Ze schuilden achter hun ouders, bedolven zich onder bladeren als camouflage, of wilden deze ene keer best even _moeite doen_ om op eigen kracht omhoog te klimmen. 
 

@@ -13,7 +13,7 @@ prequel: []
 refers: ["Luiland", "Babbelbroers", "De Vijftig Boomtorens", "Vlamvreter", "Drakenhout", "Kerstman", "Da Vennisi", "Somnia"]
 happens: ["Aanval op Luiland", "Mensen Vergeten Luiland"]
 godlink: ["Ismaraldah"]
-genre: []
+genre: ["Actief", "Verdrietig", "Vriendschap", "Maatschappij", "Groeien", "Belangrijk", "Magie", "Goden", "Tussendoortje", "Gevecht"]
 teaches: []
 
 blurb: "Op Luiland, het prachtige gebied van de Luiaards, hangt een Vloek. Een vreemdeling vindt hun gebied, verbaasd dat mensen dit nooit eerder hebben ontdekt. Maar als luiaards vragen dat ze een medicijn vindt, blijken niet alle mensen te vertrouwen."

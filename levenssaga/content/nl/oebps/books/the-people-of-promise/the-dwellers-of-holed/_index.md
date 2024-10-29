@@ -8,12 +8,12 @@ book: true
 timeperiod: 'De Ruimtereis'
 cycle: 'De Beschavingen van Belofte'
 bundle: "vergeetverven-grotsterven"
-character: []
+character: ["Tibre Hol", "Jassia Hol", "Zandir Hol", "Piponre Hol", "Enra", "Borrick Hol"]
 prequel: []
-refers: []
+refers: ["CAJARA", "Marmir", "Bescherming van Hol"]
 happens: []
-godlink: []
-genre: []
+godlink: ["Enra"]
+genre: ["Breinbreker", "Familie", "Verdrietig", "Ontdekking", "Mysterie", "Toekomst", "Tussendoortje"]
 teaches: []
 
 blurb: "Op de planeet Hol vallen gloeilampen uit de lucht, vereren dieren de mensen, en bevatten de grotmuren vage boodschappen. Terwijl Tengo de mysteries van Hol ontrafelt, verliest hij steeds meer de hoop dat zijn Holbewoners nog lang zullen leven."
@@ -23,9 +23,9 @@ timeline:
     yearend: 20000
 
 readability:
-  - words: 123
-    lines: 456
-    score: 7
+  - words: 15720
+    lines: 1494
+    score: 6
 
 ---
 

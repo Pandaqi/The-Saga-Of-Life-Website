@@ -48,24 +48,3 @@ Tot zover mijn gedachten over dit verhaal en de thema's. Ik weet eigenlijk nog s
 * **Mindy**: de onderzoekster, als ze nog erg jong is, die Luiland vindt en probeert hen te helpen de Vlamvreter te begrijpen.
 * **Zakenman en Brillenman**: een goed team van "zakelijk" en "wetenschappelijk" dat meedoet aan de expeditie voor alle rijkdommen die ze verwachten te vinden. (Dit is expres wat stereotypisch neergezet, anders werd het verhaal té lang en moest ik té veel uitleggen.) Brillenman is als enige slim genoeg om weg te blijven en zijn harnas opgeladen te houden, waardoor hij als enige Luiland niet vergeet en vervolgens verder kan met het Vlamvreter onderzoek.
 * **Ismaraldah (en co)**: onze Godin van de Tijd die eerste in haar eentje is (erg vroeg op haar tijdlijn) als ze Luiland ontdekt en probeert te helpen. Daarna heeft ze kameraden/reisgenoten (later op haar tijdlijn) en komt terug omdat er iets belangrijks staat te gebeuren.
-
-
-
-
-
-
-# @TODO: Revisies
-Moet waarschijnlijk wat woorden kwijtraken hier en daar.
-
-**H1:** Een vertellerstukje waarin verteller uitlegt dat diegene natuurlijk alles vertaalt voor de lezer, ze spreken niet perse dezelfde taal en begrijpen niet perse elkaars gebaren/klanken/whatever.
-
-**H4-6 ergens**: Een moment waarop Lothan praat over grootmoeder, en dat Sotho dan alleen maar ruis of niks hoort. Als hint aan de lezer dat hij haar nu al is vergeten (en ze wordt dus hierna nooit meer genoemd in zijn gedachten).
-
-**H8:** Ismaraldah tegen Didrik: "Hebben alle reizen je nog steeds niks geleerd? Als een volk te machtig wordt moet je _juist_ niet opgeven en _juist_ harder tegenwerken."
-
-**H8:** De luiaards zijn fysiek super _onhandig_ vanwege gebrek aan ervaring en fitheid. Met dat Sotho niet op het dak van die machines komt in eerste instantie enzo.
-
-**Algemeen:**
-* Thema beter aanstippen: Dus hier zien we de ommekeer van de beschaving die gebukt gaat onder z'n eigen intelligentie en comfort en efficiëntie.
-* ISMARALDAH: "Ik gaf Ardex zijn wens. Moet je kijken wat daarvan is gekomen."
-* @TODO: Terugkomen op verhaal 6 (Kenniskwaal), waarin ze dus zeggen "de wereld is nog niet klaar voor zo'n gelijke samenleving". Maar hier is de wereld _wel_ klaar, en is het nog steeds niet gebeurd!

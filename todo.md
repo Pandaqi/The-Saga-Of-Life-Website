@@ -4,7 +4,7 @@ These to-dos are next on the list, as soon as possible.
 
 ## Metadata
 
-**ICONS:** I've accidentally left a few white shapes in icons (instead of cutting them out; making them transparent). Fix that. Simplify the latest icons in any case.
+**BUNDLES**: Add sub-folders per _cycle_ for these too, to prevent that folder becoming an unorganized mess over time.
 
 Add more accurate **teaches** to the first several stories. (I often forgot to do this at the start, though many of them do not teach a specific historic event anyway.)
 

@@ -10,7 +10,7 @@ cycle: 'The Chain of Food'
 bundle: "polishedpirates-fertilefires"
 character: ["Paunet", "Pi Kid", "Thorngold", "Karlos Vaan", "Arap", "Widagai"]
 prequel: []
-refers: ["Origina", "Garda", "Aprania", "Apire", "Caribean", "Barbala", "Smalljourn", "Mateshaven", "Lovelily", "Madaska", "Soul of Darus", "Midterra Sea", "Council of Kame", "Council of Pi", "Ancient Turtle Resurfaces", "Alasti", "Lovewall", "Fifty Treetowers of Lazyland", "Casbrita", "Frambozi", "Dolphin Pass", "Fartherwater", "Gulvi", "Heavenmatter", "Balkze", "Pumpkin Cake", "Companion Necklaces", "Chef", "Blackbeard", "Heroeshaven", "Soliduri"]
+refers: ["Origina", "Garda", "Aprania", "Apire", "Caribean", "Barbala", "Smalljourn", "Mateshaven", "Lovelily", "Madaska", "Soul of Darus", "Midterra Sea", "Council of Kame", "Council of Pi", "Ancient Turtle Resurfaces", "Alasti", "Lovewall", "Fifty Treetowers of Slumberland", "Casbrita", "Frambozi", "Dolphin Pass", "Fartherwater", "Gulvi", "Heavenmatter", "Balkze", "Pumpkin Cake", "Companion Necklaces", "Chef", "Blackbeard", "Heroeshaven", "Soliduri"]
 happens: ["Council of Pi", "Pirate Republic", "Paunet's Betrayal", "End of Nine Year War"]
 godlink: ["Pi Kid"]
 genre: ["Active", "Sad", "Family", "Adventure", "Travel", "Battle", "History"]

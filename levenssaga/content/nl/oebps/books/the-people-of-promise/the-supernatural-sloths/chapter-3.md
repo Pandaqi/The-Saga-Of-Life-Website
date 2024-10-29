@@ -60,7 +60,9 @@ Sotho volgde op de voet, ademloos.
 
 Maar Mindy liep voorbij de ligstoel, naar een cirkelvorming houten voorwerp dat tegen de muur stond. Geen normaal hout, nee. Dit was Drakenhout, magischer, sterker, en vast nog meer. Sotho herkende het alleen omdat het ook was gebruikt voor veel van hun machines.
 
-Haar vingers streelden de diepe groeven---een _deur_ in het voorwerp klapte plotseling open en duwde haar achterover. Een witte panda stuiterde uit de cirkel en versteende bij het zien van haar bezoekers.
+Haar vingers streelden de diepe groeven---
+
+Een _deur_ in het voorwerp klapte plotseling open en duwde haar achterover. Een witte panda stuiterde uit de cirkel en versteende bij het zien van haar bezoekers.
 
 "Oh," zei de panda. "Dacht dat hier nooit meer iemand kwam. Mijn excuses voor de rommel dan."
 

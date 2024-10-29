@@ -14,7 +14,7 @@ De glimlach viel weg.
 
 "Nee, nee, nee. We lossen dit op." 
 
-Ze hielpen elkaar overeind en waggelden naar Sotho, die zich over Lothan had gebogen. Zijn vriend leefde maar had een vervelende wond in zijn schouder. Zijn lichaam sliep terwijl hij probeerde te herstellen.
+Ze hielpen elkaar overeind en waggelden naar Sotho, die zich over Lothan had gebogen. Zijn vriend leefde maar had een vervelende wond in zijn schouder. Hij sliep om te herstellen.
 
 Zijn vriend leefde. Sotho had er nooit over na hoeven denken---had _geweigerd_ erover na te denken. Maar het had weinig gescheeld of Lothan was weg. Al die opgespaarde momenten, uitgestelde dingen die ze samen zouden doen, zouden per direct zinloos zijn geworden.
 
@@ -70,7 +70,7 @@ Zijn vriend glimlachte. Hij _glimlachte_, terwijl een vlinder op zijn bolle neus
 
 Lothan wuifde met zijn klauw. "Risico van het leven."
 
-Sotho keek nogmaals over zijn schouder. Dit was de laatste kans om mee te gaan op die missie. De Wensvervuller ontmoeten! Dat was misschien wel zijn grootste wens: al zijn andere wensen werkelijkheid maken.
+Sotho keek nogmaals over zijn schouder. Dit was de laatste kans om mee te gaan op die missie. 
 
 Lothan glimlachte weer. "Ga maar naar je volgende avontuur. Hoe meer we uit elkaar zijn, hoe langer we elkaar herinneren, toch?"
 
@@ -118,7 +118,7 @@ Nee, dat was dezelfde stem als net. De Wensvervuller was een computerstem.
 
 De jonge vrouw deed de helm af en trok de draden los. Ze glimlachte breed.
 
-"Hier is duizend euro. Geef me de duurste twintig producten van Delja Digitaal."
+"Hier. Duizend goudstukken. Geef me de duurste twintig producten van Delja Digitaal."
 
 Meerdere werkers in harnas verschenen alsof ze uit de muur waren gevallen. Ze stopten het geld snel in een kist en gaven de vrouw wat ze wenste.
 

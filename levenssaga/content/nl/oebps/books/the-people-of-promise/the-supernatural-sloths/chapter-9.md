@@ -14,7 +14,9 @@ Sotho struikelde Luiland in en wist niet wat hij zag. Alle luiaards, groot en kl
 
 "De mensen komen," schreeuwde hij. "Je ziet het. Je hoort het. Ze hebben hun eigen harnas, hun beveiliging tegen de vloek, dus deze keer zal niet zijn zoals de vorige keren. Deze keer ..." 
 
-Hij slikte, zijn ogen springend tussen het zwartgeblakerde gat waar de Eerste Boomtoren net nog stond, en het prachtige kleurrijke Luiland dat nog te redden viel. "Deze keer moeten we hen op eigen kracht wegjagen."
+Hij slikte. Zijn ogen sprongen tussen het zwartgeblakerde gat waar de Eerste Boomtoren net nog stond, en het prachtige kleurrijke Luiland dat nog te redden viel. 
+
+"Deze keer moeten we hen op eigen kracht wegjagen."
 
 "Waanzin!" riep een oude luiaard. "Wat gaan wij nou doen tegen wapens?"
 
@@ -74,7 +76,7 @@ Die elektriciteit. Ze liepen te ver weg, te ver verwijderd van hun bron.
 
 Sotho sprong overeind, maar dook meteen in elkaar toen iemand op hem begon te schieten. Die zwarte doosjes in hun handen waren geen meetinstrumenten of fototoestellen, dat wist hij nu wel zeker.
 
-Een mens _sprong_ bovenop hem. Maar ze misten hem compleet en hun grip was lachwekkend vergeleken met zijn klauwen.
+Een mens _sprong_ bovenop hem. Maar ze miste hem compleet en haar grip was lachwekkend vergeleken met zijn klauwen.
 
 Toen hij terug wilde slaan, echter, miste hij ook. Allebei waren ze al buiten adem na één slag en wisten eigenlijk niet wat ze moesten doen. Het mens richtte diens wapen, maar de knop indrukken deed niets---het was leeg. Ze gooide uiteindelijk maar het _wapen_ naar Sotho's hoofd, maar dat miste ook volledig, waarna Sotho's poging om haar bij de keel te grijpen alleen maar een stuk kleding afscheurde.
 
@@ -86,9 +88,9 @@ Ze hadden alle _boombruggen_, gigantische horizontale boomstammen tussen de topp
 
 Eenmaal bovenin Boomtoren Twintig, zei hij buiten adem: "De mensen overstrekken zich. Hun harnassen vallen uit door gebrek aan elektriciteit."
 
-"Dat is misschien goed nieuws," zei ze, hoewel ze alles behalve lachte. "Maar zelfs dan zijn ze te sterk, Sotho, het---"
+"Dat is misschien goed nieuws," zei ze. "Maar zelfs dan zijn ze te sterk, Sotho, het---"
 
-"Zie je het dan niet? We hoeven niet te _winnen_. We hoeven ze alleen zo lang te _vertragen_, dat ze ..."
+"Zie je het dan niet? We hoeven niet te _winnen_. We hoeven hen alleen zó lang te _vertragen_ dat ze ..."
 
 Haar ogen sprongen open. Ze slingerde uit de boomtoren, langs de restanten van de kabelbaan---die inmiddels drie stations moest missen---en landde vlakbij de vloek. De mensen hadden het gebied langzaam omsingeld, zeker dat als ze alles platbrandden en vernielden, de vloek echt wel los wilde komen van die pilaar.
 

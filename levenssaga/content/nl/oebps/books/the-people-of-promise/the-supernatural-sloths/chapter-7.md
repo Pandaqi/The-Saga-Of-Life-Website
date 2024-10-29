@@ -32,7 +32,7 @@ Het grootste probleem was de rij voor de Wensvervuller: die bleef maar doorgaan.
 
 Ze moesten de machines onbruikbaar maken _zonder_ teveel lawaai. Vooral Didrik vond het stom dat hij niet alles kapot mocht slaan en mompelde iets over strenge tijdreizigsters.
 
-Sotho trok zich omhoog aan de hendel van de deur. Daardoor vloog hij open en slingerde Sotho eventjes heen en weer. Toen hij de controle terug had, klom hij naar binnen en zuchtte van verlichting bij het voelen van een warme, zachte stoel. Sommige uitvindingen van die mensen waren zo gek nog niet.
+Sotho trok zich omhoog aan de deurhendel. Maar hij had nooit een deur geopend in diens leven, dus hij vloog verbaasd mee met de openslaande deur, totdat hij onhandig ondersteboven naar binnen klom. Daar zuchtte hij van verlichting bij het voelen van een warme, zachte stoel. Brrr! Sommige uitvindingen van die mensen waren zo gek nog niet.
 
 Zijn scherpe klauwen grepen in het rond en trokken alles los en kapot. Hendels werden uit hun metalen kast gerukt. Draadjes staken overal uit. Zelfs de stoel werd achterstevoren neergezet. Toen hij de machine weer verliet, vond hij het erg lijken op de kapotte machines rondom de oude Boomtoren van de Wensvervuller, waar hij en Mindy Ismaraldah voor het eerst ontmoetten.
 
@@ -78,7 +78,7 @@ De bewakers wisten niet wat ze moesten doen met een vijand die boven hen slinger
 
 "Hij is te zwaar," pufte ze. "Didrik, neem over."
 
-Sotho was buiten adem, zijn ledematen als riet dat zonder weerstand heen en weer waaide. Ismaraldah klom in de boom, maar moest terugkomen om hem omhoog te helpen.
+Sotho was buiten adem, zijn ledematen als riet dat zonder weerstand heen en weer waaide. 
 
 De mensen hadden hun aandacht verlegd naar de machines. Degene die nog werkten werden aangezet en meteen vooruit gereden om Luiland te betreden. De eerste bomen werden snel geveld. Toen alle machines aan het werk waren, zakten bomen opzij alsof het grassprieten waren, waardoor Sotho nooit langer dan een minuut in dezelfde boom kon klimmen.
 
@@ -96,7 +96,7 @@ De tijdreizigster greep Sotho vast en _smeet_ hem naar de volgende boom; Didrik 
 
 De luiaards bereikten zo veilig de eerste boomhut. Maar de tijdreizigster en haar vriend vielen hulpeloos omlaag, richting de harde bosgrond die in brand stond.
 
-Nee, niet zomaar bosgrond. Ze vielen richting de Vloek. En man had de plek in brand gezet in de hoop de Vloek los te wrikken.
+Nee, niet zomaar bosgrond. Ze vielen richting de Vloek. En de man had de plek in brand gezet in de hoop de Vloek los te wrikken.
 
 Zijn zwarte voorwerp volgde de vallende panda en zonnedas van boven naar beneden. Hij blies de grijze lokken uit zijn ogen en hield zijn wapen nu met twee handen vast. 
 

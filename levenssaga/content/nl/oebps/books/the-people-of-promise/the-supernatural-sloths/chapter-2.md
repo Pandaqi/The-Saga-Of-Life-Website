@@ -12,7 +12,7 @@ Lothan hing ondersteboven van de tak. "Dus ... we moeten zorgen dat ze ons volgt
 
 "Niemand zei wat dan ook."
 
-Bij het uitblijven van een aanval, had Mindy besloten door te gaan met alle wonderlijke dingen bestuderen. Eens in de zoveel tijd keek ze nerveus omhoog, maar de meeste luiaards waren al teruggegaan naar hun bedje. Grootmoeder ook---ja, ze had het weer goed bekeken, met haar excuus over "slechte gezondheid". 
+Mindy ging door met het bestuderen van alle wonderlijke dingen. Eens in de zoveel tijd keek ze nerveus omhoog, maar de meeste luiaards waren al teruggegaan naar hun bedje. Grootmoeder ook---ja, ze had het weer goed bekeken, met haar excuus over "slechte gezondheid". 
 
 Het was aan Sotho en Lothan om dit klusje te klaren.
 
@@ -106,7 +106,7 @@ Hij zei hetzelfde tegen Lothan in hun eigen taal.
 
 Mindy stond op en bekeek het voorwerp van afstand. Ze gooide niet de vele takken van haar labjas, ze keek niet naar haar verwondingen, ze had alleen oog voor het licht. Ze wreef over haar kin voor een eeuwigheid.
 
-Sotho danste nerveus heen en weer op zijn tenen. Dat gevoel van rusteloosheid kwam er nu aan alle kanten uit, terwijl hij nerveus wachtte op een signaal van het mens.
+Sotho danste heen en weer op zijn tenen. Dat gevoel van rusteloosheid kwam er nu aan alle kanten uit, terwijl hij nerveus wachtte op een signaal van het mens.
 
 "Ik ga de rest vertellen wat je hebt gedaan," zei Lothan. "Dit is dom. Dit wordt onze dood!"
 

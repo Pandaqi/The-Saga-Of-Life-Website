@@ -8,8 +8,8 @@
   {{ $max_chunk_size := 4750 }} 
 
   {{ $book_section := partial "func/get-books-page.html" . }}
-  {{ $cyclus := "The Fires of Force" }}
-  {{ $story := "The Saltstone Smashers" }}
+  {{ $cyclus := "The People of Promise" }}
+  {{ $story := "The Dwellers of Holed" }}
   {{ $lang := .Language.Lang }}
   {{ $url := printf "/oebps/books/%s/%s" ($cyclus | urlize) ($story | urlize) }}
   {{ $url }}
