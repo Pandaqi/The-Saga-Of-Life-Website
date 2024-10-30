@@ -1,147 +1,153 @@
 ---
-title: Brokkenpiloot
+title: Bungler Pilot
 weight: 7
 ---
-De sporen leidden, hoe kon het ook anders, naar een grot. Hoe langer ze liepen, hoe meer de sporen slingerden en afweken van hun lijn. Piponre was een paar keer gevallen. De indringer ook.
+The trails led to a cave. The longer they went on, the more they meandered. Piponre had clearly fallen several times. The intruder had too.
 
-Na nog langer lopen, waren ze zeker dat ze in een cirkel waren gelopen. Maar ze hadden geen fout gemaakt: de voetstappen liepen _ook_ in die cirkel. Een poging om hen af te schudden? In de war te brengen?
+They worried they were walking in circles. But they had made no mistake: the footsteps _also_ walked in circles. An attempt to confuse them?
 
-Het begon te schemeren. Daardoor kon Jassia een lichtpuntje in de verte goed zien. Het week af van het spoor, maar ze zouden het licht goed kunnen gebruiken.
+Dusk came. It allowed Jassia to see a pinprick of light in the distance. It wasn't on their path, but they still decided it was worth checking out.
 
-Dus ze liepen ernaartoe en vonden weer een gloeilamp. Deze was helemaal heel gebleven na de val. Ook scheen hij feller dan de rest en was bedolven onder prachtige decoraties en symbolen gekrast in het metaal.
+They found another lightbulb. This one didn't have a single scratch from its fall. It also shone more brightly than the others and was covered in beautiful ancient symbols, expertly scratched into the metal.
 
-Haar beer werd helemaal wild.
+Her pet bear went _wild_.
 
-Hij sprong bovenop de lamp en raakte hem aan. Dat maakte het licht nóg feller. Zijn ogen vormden tranen, die op het glas vielen en sissend veranderden in stoom.
+It jumped on top of the lightbulb and touched every part. This amplified its brightness. Tears formed in his eyes, which fell on the glass and sizzled into steam.
 
-"Eh, beertje, we moeten door---"
+"Erm, my lovely bear, we have to---"
 
-Haar beer pakte de gloeilamp op en weigerde hem nog af te staan. Met haar huisdier voorop, scheen het licht op de laatste passen van het spoor. Zodra ze een grot ingingen, waren ze de stappen namelijk kwijt: stenen lieten geen afdruk achter.
+The bear grabbed the lightbulb and _refused_ to let it go. As her pet led the way, the light helped them find the final footsteps on the trails. As soon as they entered that cave, they were practically blind, for stones did not leave footprints.
 
-Gelukkig hoefden ze niet meer te zoeken. Verderop, na een bocht, scheen licht in de grot en klonk geschuifel. 
+In the distance, just past the corner, a faint shadow was cast. Tibre thought he heard shuffling.
 
-"Dat is Piponre," fluisterde Tibre, net zacht genoeg om een echo tegen de rotswanden te voorkomen. "Herken zijn schaduw uit duizenden."
+"That's Piponre," whispered Tibre, softly enough to prevent an echo against the cave walls. "Would recognize his shadow anywhere."
 
-"Ik ook," fluisterde Jassia terug.
+"Me too," whispered Jassia.
 
-Tibre fronste naar haar. "Er zit niks anders op. Een verrassingsaanval is onze beste hoop. Versla de indringer voordat ze hun lichtflitswapen pakken."
+Tibre frowned at her. "We have no other option. A surprise attack is our best hope. Defeat the intruder before they can grab their Flashweapon."
 
-Ze slopen zo dichtbij als ze konden, naar een donkere nis vlak voordat de bocht eindigde. 
+They crept to a dark alcove just before the bend. As close as they could get before giving themselves away.
 
-Toen sprongen ze geruisloos richting het licht.
+Then they silently _leapt_ towards the light.
 
-Piponre was vastgemaakt aan een zwaar, metalen wrakstuk met draadjes. Hij was vel over been, rillend van de kou en bleek van ziekte.
+Piponre had been attached to a heavy metal piece of wreckage, covered in wires. His skeleton was visible underneath his skin, as he shivered and looked seriously ill.
 
-De indringer zat ... er niet veel beter bij. Het was zo'n wolfachtige die op twee poten kon staan, zoals ze in de herinnering hadden gezien. Een mengeling tussen mens en hond. Hij leunde verdwaasd tegen de muur en hielden zijn ribben vast, zijn ogen draaiend en poten wiebelend.
+The intruder was ... not much better off. It was one of the wolf-like beings who could stand on two legs, as they'd seen in a memory. A mixture between human and dog. He leaned against the wall and held onto his ribcage, as if it could fall out any moment.
 
-De wolf had een grote wond aan zijn hoofd. Een klein, scherp stuk van diens ruimteschip stak zelfs nog in zijn lijf. De enige reden dat Piponre niet was ontsnapt was vanwege de uithongering, want de draadjes om zijn polsen waren niet bepaald goed vast geknoopt.
+The wolf had a large headwound. A small but razor-sharp piece of their spaceship was _still_ lodged into his body. The only reason Piponre hadn't escaped yet was his own starvation, for the wires around his wrists hadn't been tied too well.
 
-Jassia bekommerde zich om hem en trok moeiteloos de draden kapot.
+Jassia worried about him and easily cut the wires.
 
-Tibre besloop de wolf achter, maakte een vuist en zwaaide hem---
+Tibre snuck up on the wolf from behind, made a fist and swung it---
 
-De wolf reageerde razendsnel en beet naar Tibre's vuist. Zijn gigantische staart sloeg tegen Tibre's buik en wierp hem tegen de andere muur. De wolf sprong meteen bovenop zijn prooi en beet naar Tibre's gezicht, maar Jassia greep een steen en smeet hem hard tegen het hoofd van de indringer.
+The wolf reacted blazingly fast and _bit_ at Tibre's fist. His gigantic tail hit Tibre's stomach en cast him against the other wall. The wolf instantly dove onto its prey and bit at Tibre's face.
 
-Die zwenkte en zocht weer steun tegen de andere muur. Daarna bleven ze op twee poten staan en namen een grijsblauw voorwerp in hun poten. Langs de randen gloeiden flauwe lichtjes.
+But Jassia hit the wolf with the first stone she could find.
 
-Jassia trok Piponre omhoog, naar vrijheid, maar de wolf blokkeerde de uitgang. Hij richtte zijn wapen op de holbewoners. Dat moest wel het lichtflitswapen zijn.
+The intruder swerved and sought support from the other wall. But he stayed on his two feet, and took a grey-blue object in his other paws. Faint lights glowed around the edges.
 
-Ze deden hun armen omhoog.
+Away. To freedom. Jassia lifted up Piponre, but the wolf blocked the exit. He pointed his weapon at the Dwellers. It had to be the weapon that made flashes of light.
 
-"Genade! Genade! We willen praten!" riep Jassia.
+They raised their arms.
 
-"Die spreken onze taal toch niet!" bromde Tibre. "Dit is zinloos. Schiet ons maar."
+"Mercy! Mercy! We want to talk!" yelled Jassia.
 
-De wolf trok een plat, rond voorwerp van het wrakstuk waaraan Piponre net vastzat. Hij wierp het tussen hen in, waarna het voorwerp begon te flitsen en bliepen.
+"As if they speak our language!" protested Tibre. "This is useless. Shoot us then."
 
-Toen de wolf vervolgens sprak, konden ze hem verstaan.
+The wolf pulled a flat, round object from the wreckage that had tied Piponre seconds earlier. He threw it in their midst, which made the object flash and beep.
 
-"Vuile smerige mensen," gromde hij. "Hadden jullie moeten uitroeien toen het nog kon."
+The next time the wolf spoke, they could _understand him_.
 
-"Ehm, eh," stamelde Jassia. "Het spijt ons?"
+"Filthy, ugly humans," he growled. "Should've exterminated you when we still could."
 
-Hij stapte dichterbij, het wapen nog altijd gericht op hun hart. "Ik zou jullie allemaal moeten neerschieten. De hele stam. Zandirs lot voor allen."
+"Erm, well," stammered Jassia. "We're sorry?"
 
-"We kunnen samenwerken," zei Tibre meteen. "Nu we elkaar kunnen verstaan, kunnen we---"
+He stepped closer, the weapon still pointed at their heart. "I must shoot you all. The entire tribe. Zandir's fate for all!"
 
-"Maar dat zou te aardig zijn!" brulde hij. "Jullie moeten pijn lijden. Vuile mensen, ze zijn een virus in het heelal."
+"We can work together," said Tibre. "Now that we can understand each other, we can---"
 
-Jassia wees naar het wrakstuk. "Hebben ... _vuile mensen_ jou uit de lucht geschoten?"
+"But that would be too kind!" roared the wolf. "You must _suffer_. Filthy humans. A virus in the galaxy."
 
-"Ja."
+Jassia pointed at the wreckage. "Did ... _filthy humans_ shoot you out of the sky?"
 
-De ogen van de wolf draaiden weer en hij liet het wapen bijna vallen. De hoofdwond was weer gaan bloeden.
+"Yes."
 
-"Ik ... ik herinner weinig van na de klap. Maar jullie hebben helemaal _niks_ door, of wel?"
+The wolf's eyes glazed over and twisted. He almost dropped the weapon, as his headwound started to bleed.
 
-De holbewoners keken naar elkaar, zoekend naar het juiste antwoord daarop. In plaats daarvan gaf haar _beer_ antwoord.
+"I ... I remember little of the crash landing. But you remember _nothing_, do you? Do you?"
 
-"Doe niet alsof je zelf beter bent," zei hij boos. "De duizenden gloeilampen rondom deze planeet zijn het bewijs."
+The Dwellers searched for a response. Surprisingly, Jassia's bear found one.
 
-"_Wat is hier aan de hand?_" krijste Jassia.
+"Don't pretend you're any better," said her bear, speaking regally. Like one of those _kings_ her mother once spoke about. "The thousands of lightbulbs around this planet are proof of that."
 
-De wolf leek weer bij zinnen en ontblootte zijn tanden, trillend op zijn poten. "Ze vechten. Ze vechten rondom deze planeet, al zo lang ik kan herinneren, en hele rassen zijn inmiddels ten onder gegaan."
+"_What is going on?_" screamed Jassia.
 
-"Zoals ... zoals jouw ras? Waar kom je vandaan? Wat is je doel?"
+The wolf had steadied himself and bared his teeth. "They fight. They fight around this planet, for as long as I can remember, and entire _species_ have gone extinct by now."
 
-De wolf bleef nors kijken. "Dat ben ik vergeten sinds ik neerstortte. Maar mijn hekel aan mensen brandt vuriger dan ooit."
+"Like ... like yours? Where do you come from? What is your goal?"
 
-"Je ziet toch duidelijk," zei Tibre voorzichtig, "dat wij niet zoals die andere mensen zijn?"
+The wolf remained stern. "I have forgotten, ever since the crash landing. But my fiery hatred for humans will never be extinguished."
 
-De wolf kreeg een wrange glimlach. "Inderdaad. Toen ik landde en tot mijn verbazing had overleefd, zocht ik naar jullie in de hoop op verlichting. Eindelijk het geheim van reizen op de snelheid van het licht. Mensen moeten geweldige technologie en beschaving hebben! Maar jullie zijn dommer dan domst en leven zoals ze miljarden jaren geleden leefden, toen leven pas net ontstond."
+"Clearly, you see," said Tibre carefully, "that we are not the same as those others?"
 
-Hij spuugde op Tibre's gezicht. Die durfde niet boos te worden zolang het wapen op zijn hoofd stond gericht.
+The wolf smiled bitterly. 
 
-"Ik wil handelen," zei de wolf na lange bedenktijd. Ook de snelheid van zijn hersenen leek geraakt door de klap. "Jullie vinden alle gloeilampen en geven ze aan mij. Ik geef jullie het voedsel dat ik nog heb."
+"Indeed. When I landed and survived, to my surprise, I sought you out in search of answers. Finally! I'd receive the secret to traveling at the speed of light! Humans must have amazing technologies and societies! But you are _stupider than stupid_ and live as you did millions of years ago, when life only just started."
 
-Jassia slaakte een zucht van verlichting. Dat klonk méér dan redelijk. Misschien had hij gelijk: mensen waren verschrikkelijk, alle andere rassen in het universum waren veel logischer en vriendelijker. Ze zou nog maanden nodig hebben om bij te komen van het idee van pratende dieren en alles, maar voor nu voelde ze zich iets veiliger.
+He spit at Tibre's face. The Dweller didn't dare show his anger while a gun was pointed at his head.
 
-De holbewoners knikten meteen en grepen naar de gloeilamp die haar beer vasthield.
+"I want to trade," said the wolf after some time. Even the speed of his brains seemed to have been hurt since the crash landing. "You find all the lightbulbs and give them to me. I will give you any food I have left."
 
-"Roaar!" brulde hij, waarna hij de gloeilamp dichter tegen zijn vacht drukte en wegsprong. De lamp bleef fel schijnen en weigerde uit te gaan, zelfs al had hij geen batterij.
+Jassia breathed a sigh of relief. That sounded ... reasonable. Maybe he was right: humans were horrible, and all the other intergalactic species were more kind and reasonable. It would take her months to recover from _talking animals_ and everything, but she felt much safer now.
 
-"Lieverd, beertje," zei Jassia zenuwachtig. "We hebben het afgesproken. Geef de lamp aan die lieve wolf daar."
+The Dwellers nodded eagerly. They reached for the lightbulb that her bear was holding, as their first gift to the---
 
-"Het zijn _mijn lampen_! Hij mag de andere hebben, maar _deze niet_!" schreeuwde hij. Hij praatte nog door, maar was nu te ver van het vertaalapparaatje, waardoor het alleen nog als dierengebrul klonk.
+"_Roarrr!_" he bellowed, as he pushed the lightbulb even deeper into his fur. The lamp refused to go out, even though it had no battery.
 
-Tibre slikte. "Is één gloeilamp minder---"
+"Dear, little cute bear of mine," said Jassia nervously. "We made a deal. Please give the lamp to the kind wolf there."
 
-"Tsk. Typisch mensen. Hup, werken."
+"They are _my lamps_! He may have all of them, but _not this one_!" he screamed. He kept talking, but was too far removed from the translation device now, which means Jassia only heard random animal noises.
 
-De wolf liep weg en kwam even later terug met voedsel. Potjes, flesjes, bakken met vlees, allemaal weer in dat rare beschermende materiaal dat ook om die eerdere doos zat. Hij gaf hen net genoeg om weer energie te hebben en de gloeilampen te zoeken, maar hield veel meer achter.
+Tibre swallowed. "Is one fewer lightbulb a prob---"
 
-Terwijl ze terugliepen, steunde Piponre op Jassia. Ze fluisterden de hele tijd met elkaar, schuurden tegen elkaar aan, streelden elkaars haren.
+"Tsk. Typical. Humans. Come on, _get to work_!"
 
-"Nou, Piponre," zei Tibre zo luchtig mogelijk. Een hap vlees, zijn eerste eten in dagen, lag nog in zijn hand. "Ter ere van je veilige terugkeer, vanavond natuurlijk een potje rotsbal met je familie, eh? Rakker?"
+The wolf left and returned a while later with food. Pots, flasks, boxes filled with meat, all of it wrapped in that strange protective material that also wrapped around that box they found before. He gave them just enough to survive and execute his mission---but no more.
 
-"Ik denk," zei Jassia, die zijn zoon bijna een zoen gaf. "Dat hij iets anders te doen heeft vanavond."
+As the Dwellers left, Piponre leaned on Jassia. They whispered amongst themselves, snuggled close to each other, caressed each other's hair.
 
-"Ik denk dat hij voor zichzelf kan praten."
+"Well, Piponre," said Tibre with a light tone. A slab of meat, his first food in days, was still in his hand. "To honor your safe return, we will _obviously_ play a game of Rockball with the family tonight, eh? Puckle?"
 
-"Nou," zei Piponre met gebroken stem, "op dit moment---"
+"I think," said Jassia, who nearly kissed his son. "That he has other plans tonight."
 
-"Natuurlijk!" schreeuwde Tibre, die rood aanliep. "Zelfs mijn eigen _kinderen_ lopen bij me weg."
+"I think he can talk for himself."
 
-"Als je vrouw en je kinderen en _iedereen_ bij je wegloopt," zei Jassia streng, "dan moet je een keer denken dat het probleem misschien bij _jou_ ligt."
+"Well," said Piponre's broken voice, "at this moment---"
 
-"Weet je wat? Je hebt een man, Jassia. Hij verdient het om ... om dit te weten. Ik ga het zeggen!"
+"Of course!" yelled Tibre, turning red. "Even my own _children_ walk away from me!"
 
-"Oh, je geeft alles op, behalve als je jouw beste vriendin, die jou tien jaar lang elke dag heeft geholpen, kan verklikken?"
+"If your wife and children and _everyone_ walk away," said Jassia sternly, "then you might need to consider the problem _is with you_!"
 
-Tijdens hun ruzie vielen de gloeilampen omlaag als appels uit een boom. Tegen de tijd dat Tibre vertrok, waren ze omringd door een cirkel van licht.
+"You know what? You have a husband, Jassia. He deserves to ... to ... know this. I am going to tell him!"
 
-"Mijn hele leven heb ik iedereen verteld om naar de hemel te kijken! Naar de sterren, de gloeilampen, om onze mooie toekomst te zien!" brulde Tibre. "_En nu valt zelfs de hemel naar beneden_!"
+"Oh, oh, sure. You give up life, _except_ when you can hurt your best friend, who has helped you and supported you for _ten caving years_?"
 
-Tibre gooide de lap vlees in zijn handen weg en stampte richting huis.
+During their argument, lightbulbs fell from above like apples. By the time Tibre left, they were surrounded by a circle of light.
 
-Jassia kon hem niet meer horen, maar ze wist zeker dat hij mompelde hoe zinloos het was en hoe hij alles opgaf. Haar buik vulde zich alleen met vlinders voor Piponre. En de angst dat Tibre ook gelijk had: ze moest haar man vertellen dat ze liever met een ander wilde zijn.
+"My entire life I told everyone to look at the sky! At the stars, the lightbulbs, and see a bright future!" roared Tibre. "_And now even the sky is falling down!_"
 
-Toen ze de ondergrondse tunnel betraden, die even verderop weer boven kwam, kreeg ze de schrik van haar leven: haar man liep hen tegemoet, ver weg van huis.
+Tibre threw away the meat in his hands and stomped back home.
 
-"Lieverd! Ik maakte me zo'n zorgen, Tibre kwam terug alsof hij alle grotten in elkaar wilde slaan, en---"
+Jassia could not hear him anymore, but she was certain he mumbled about how _meaningless_ it all was and how he would _give up_ again. Her belly, however, only filled itself with good food ... and butterflies for Piponre. And the fear that Tibre was right: she had to tell her husband she'd rather be with someone else.
 
-Piponre stapte bij haar vandaan en liep op eigen kracht, hoe moeilijk het ook ging, snel de grot uit. Daar, in het donker, was Jassia helemaal alleen met haar man. Haar liefdevolle man, die haar niks anders had gegeven dan een warm bed en verzorging, maar waarvoor ze simpelweg niks _voelde_.
+As they entered the underground tunnel, that resurfaced at their home, she received the shock of her life. Her husband suddenly appeared before her.
 
-Een beter moment ging niet komen. Maar er was nooit een goed moment om iets moois te beëindigen voor iemand anders.
+"Dear! I was worried sick! Tibre returned as if he wanted to personally smash all the caves, and---"
 
-"Ik moet je iets vertellen."
+Piponre stepped away from her. He left the tunnel quickly, without looking at anyone, no matter how much his body protested. 
+
+There, in the dark, Jassia was left alone with her husband. Her loving husband, who had given her nothing but a warm bed, and care, and kisses, but for whom she simple didn't _feel_ anything.
+
+There would never be a better moment. But there would also never be a good moment to destroy something beautiful for someone else.
+
+"I have to tell you something."

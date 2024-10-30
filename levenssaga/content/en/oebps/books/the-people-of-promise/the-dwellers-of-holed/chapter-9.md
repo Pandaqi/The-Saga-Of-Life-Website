@@ -1,167 +1,185 @@
 ---
-title: Hol Eindigt Opnieuw
+title: Holed Ends Again
 weight: 9
 ---
-Onderweg naar de streepjesgrot kwamen ze de wolf tegen. Hij leek te schrikken, hoewel ze zijn lichaamstaal slecht konden lezen. De indringer leek nog altijd verward, zwaargewond en niet helemaal helder na het neerstorten.
+On their way to the Linecave they met the wolf again. He seemed startled, although they could hardly read dog body language. The intruder was still confused and wounded.
 
-De wolf blafte dat ze moesten opschieten met alle gloeilampen. Ook keek hij boos en gromde naar Jassia's beer, die nog altijd de gloeilamp vasthield die niet uit wilde gaan. Daarna liep de wolf verder, een zak eten tussen zijn tanden, in de richting van hun grotten.
+He barked at them to hurry up with delivering lightbulbs. He growled at Jassia's bear, who still clutched that special lightbulb to his chest. Then the wolf continued, a bag of food between his teeth, in the direction of their caves.
 
-Tibre legde zichzelf pas uit toen ze buiten adem bij de streepjesgrot kwamen.
+Tibre only explained himself when they reached the Linecave, out of breath.
 
-"Kijk dan," zei Tibre. "Kijk naar deze lege vlakte."
+"Look at it," said Tibre. "Look at this patch of _nothing_!"
 
-"Zijn we helemaal daarvoor hiernaartoe gerend?" zei Piponre. "Een lege---"
+"Did we run all this way for that?" said Piponre. "An empty---"
 
-"Hier is een _volledig, geavanceerd, groot ruimteschip neergestort_. En er is bijna niks meer van te zien. Zo'n klap maakt alles kapot, slingert alles in andere richtingen, doodt de inzittenden."
+"An advanced, huge _spaceship_ crash landed here. And what do we see? Nothing. Such an impact destroys everything. It throws all the components in random directions and kills those inside."
 
-Tibre greep Jassia bij haar dierenhuid en sprak intens tegen haar. "Die twee wrakstukken die je vond waren _anders_, toch? Jij dacht dat er misschien meerdere ruimteschepen waren neergestort. Maar ..."
+Tibre grabbed Jassia's animal skin and spoke to her with intensity. "Those two pieces of wreckage you found were _different_, right? You thought that maybe multiple spaceships crashed here. But ..."
 
-"Je zegt toch niet ..." begon Jassia.
+"You're not saying ..."
 
-"_Wij_ zijn op deze planeet neergestort," riep Tibre. "Wij zijn net zo snel op deze harde rotsen geknald, in onkunde, vuur, verwarring. Al het bewijsmateriaal is verspreid over de planeet. De meeste inzittenden ... onze ouders ... zijn niet veel later gestorven. De klap heeft ons teruggezet naar een meer primitieve beschaving, maar onze voorouders kwamen van Hol."
+"_We_ landed on this planet," yelled Tibre. "We crashed into these stones, in ignorance, fire, and confusion. All evidence of that has been scattered all over the planet. Most people inside our spaceship ... our parents ... died not long after. That impact pulled us all the way back to a very primitive society. But I believe our ancestors came from Holed."
 
-"En de gloeilampen?"
+"And the lightbulbs?"
 
-"Achtergelaten door die beren ter herinnering van alle ruimtegevechten die steeds plaatsvinden," zei Tibre, die omhoog wees. "Zoals de wolf zei. Iedereen vecht om ons te bereiken en ons geheim te stelen. Het geheim van hoe je zo snel reist als de snelheid van het licht."
+"Left behind by those bears as memories of all the space battles," said Tibre. He pointed up. "As the wolf said. _Everyone_ is fighting to reach us and steal our secret. The secret of traveling at the speed of light."
 
-"Maar," zei Jassia afgeleid. "Dat betekent dat iemand ons verdedigt. Anders waren ze allang met duizenden hier geland."
+"But," said Jassia distracted. "That means someone is _defending_ us. Otherwise we would've been conquered long ago."
 
-Ze keken omhoog naar de sterrenhemel, hand in hand. 
+They studied the sky full of stars, hand in hand.
 
-Er was daarbuiten een beschermengel. Iemand verdedigde hen. Iemand vocht oorlog na oorlog om al die hongerige gieren, uit op hun geheim, buiten te houden. Die ene wolf is de eerste in al die tijd die erdoorheen kwam, en waarschijnlijk alleen omdat ze toch al neerstortten.
+Somewhere out there was a guardian angle. Someone protected their planet, which they couldn't do themselves. Someone fought war after war to keep _out_ all the hungry vultures that wanted their secret. Only a lone wolf crash landed here, after all this time, and probably because everyone expected them to die on impact.
 
-_Een heel leger gaf diens leven om dit hopeloze groepje holbewoners een fijn, vrij bestaan te geven._
+_An entire army gave their lives to give this group of Dwellers a safe and free existence, on their new planet._
 
-Tibre zou zich eindeloos schuldig voelen als hij nu zijn leven weggooide. Hij voelde zich al dodelijk schuldig dat hij er ook maar aan _dacht_. Dat kon hij toch nooit uitleggen aan hun verdedigers? Dan was hij toch door het hele heelal een grote schande?
+Tibre would feel endlessly guilty if he threw away his life now. He already felt guilty just _thinking_ about it. How could he ever explain that to his defenders? Surely Tibre would became a story of shame and vice throughout the galaxy?
 
-Hij greep het eten dat Piponre hem nog steeds aanbood en schrokte het in één keer naar binnen.
+He grabbed the food that Piponre kept offering and ate all of it at once.
 
-Daarna stapte hij de grot in. 
+Then he entered the cave.
 
-"Jij en ik, Jassia, wij zijn allebei gestruikeld over iets zwaars in deze grot. Het wordt tijd dat we dat eens beter bekijken."
+"You and me, Jassia, we both tripped on something heavy in this cave. It's time we took a closer look."
 
-Ze telden opnieuw de streepjes, en kwamen opnieuw uit op 728, een getal dat hen niks zei. Piponre bevestigde dat ze niet gek waren geworden, maar wist ook niet wat het betekende.
+They counted the vertical lines again, and reached the number 728 again. A meaningless number. Piponre confirmed they weren't insane, but also had no answers.
 
-Dankzij het felle licht van de beer, konden ze makkelijk hun weg vinden. Ze durfden bocht na bocht te nemen, steeds dieper onder de grond, hand in hand.
+They could find their way easily now, thanks to the light provided by her bear. They dared take corner after corner, going deeper underground, hand in hand.
 
-Totdat ze het voorwerp tegenkwamen. Achtergelaten middenin de gang alsof het niets voorstelde, maar iedereen zag meteen de gloed die er vandaan kwam en hoe _magisch_ het voelde.
+Until they found that object. Left behind in the middle of a corridor as if it was nothing. But everyone noticed its glow and how _magical_ it felt.
 
-Tibre had vast ooit het woord gekend voor dit voorwerp, maar nu niet meer. Het bevatte tekst in een taal die zij blijkbaar konden lezen.
+Tibre was certain he and his ancestors had once known the name of this object. But he didn't know it now. It contained text in a language he could apparently read.
 
-_In die tijd werden veel dieren kwaad op mij. Waarom moesten dieren dood? Waarom had ik vuur toegevoegd aan de wereld als het zoveel kwaads opleverde? Waarom stopte ik, als God van de Dood, niet gewoon op met bestaan?_
+_In those days, many animals were made at me. Why did animals have to die? Why did I add fire to a world if it led to so much pain? Why did I, the God of Death, not do everyone a favor and die myself?_
 
-_Ik heb zelf met die vragen geworsteld, geloof mij. Ik wist het antwoord eerst ook niet. Het was nou eenmaal mijn kracht en het was nou eenmaal nodig voor de balans in de natuur. Zoals mijn vader, de échte oppergod, altijd zei: het doel van het leven is simpelweg om te leven. Om zo hard mogelijk dingen te doen en ervaren elke dag._
+_I wrestled with those questions myself, believe me. I didn't know the answer at first. It was simply my power and it was simply need to keep the balance of nature. As my father, the real Chiefgod, always said: the meaning of life is simply to live. To wake up each day, work hard, and experience new things._
 
-_En ja, dat kan alleen als er een einde aan komt. Dat kan alleen als je de ruimte hebt om te leven, maar ook de druk voelt omdat het elk moment voorbij kan zijn. Na al die jaren oppergod Ardex spelen, kan ik het samenvatten in één wijsheid: geen nieuwe beginnen zonder eindes._
+_And yes, that is only possible if it has to end one day. That is only possible if you have the space to live, but also feel the pressure to make it count, because it could be over at any moment. After playing Chiefgod Ardex all those years, I dare summarize it in one sentence: no new beginnings without endings._
 
-Eronder stond een pootafdruk van een sabeltandtijger, als een handtekening. Net zoals de holbewoners vaak hun echoriem gebruiken om afdrukken achter te laten.
+The bottom of the page held a paw print of a sabre-tooth tiger, like a signature. Just like the Dwellers often used their Echobelts to leave recognizable marks.
 
-Hun voorouders waren vertrokken uit een verschrikkelijke situatie. Gebombardeerd, aangevallen door iedereen, gaten geschoten in de planeet. In vergelijking met dat, was neerstorten op deze planeet en vredig in de simpele natuur leven een godsgeschenk. 
+Their ancestors had fled from a horrible situation. Bombed endlessly, attacked by all, holes cut into their planet. Compared to that, crashing on a planet and living peacefully in nature seemed like a godly gift.
 
-Hij wist nu waar ze vandaan kwamen. Hij wist nu ook dat ze nergens heen gingen, in ieder geval niet de komende tijd.
+Now he knew where they came from. He also knew they weren't going anywhere, at least not in his lifetime.
 
-En het was bevrijdend, in plaats van deprimerend.
+And it was _freeing_, instead of depressing.
 
-Dat betekende dus ook dat het niet uitmaakte wat je elke dag deed, zolang je maar dingen deed. Het leven had geen doel of richting, zolang het maar _leefde_.
+It also meant that it didn't matter much what you did, as long as you did something every day. Life had no goal or purpose, as long as it _lived_.
 
-Hij gaf zijn zoon een knuffel en een zoen op de wang, en deed daarna hetzelfde bij Jassia. Hij kon niet wachten om zijn kinderen weer te zien en mee te doen met welk spelletje ze nu dan ook hadden verzonnen. Voordat zijn volgende zoon er "te oud" voor werd en ergens een leuke vrouw zocht om mee verder te gaan. Hij kon niet wachten om nog meer interessante dingen te ontdekken, elke dag, zoals neerstortende gloeilampen of buitenaardse wezens.
+He hugged his son and give him a kiss, then did the same to Jassia. He couldn't _wait_ to see his children again and join them in whatever game they dreamed up this time. Before his next son "grew up" and found a kind wife somewhere to start a new family. He couldn't _wait_ to discover more interesting things, every day, such as crashing lightbulbs or alien creatures.
 
-"Kom op! We hebben bijna het hele feest gemist!"
+"Come on! We almost missed the entire party!"
 
-Piponre zuchtte. "Hebben we hiervoor dat hele eind gewandeld?"
+Piponre sighed. "Did we come all this way just for _that_?"
 
-Jassia gaf hem een plaagstootje en haakte haar arm in de zijne. "Niet zeuren," fluisterde ze, "nu hebben we nog meer tijd samen."
+Jassia playfully nudged him and hooked her arm into his. 
 
-Tibre en de beer bleven nog even staan in de grot, kijkend naar de geturfde streepjes die optelden tot 728. In zijn arm hield hij het voorwerp met Ardex' uitspraken. Er stond nog veel meer, maar hij vond zo snel niks over Hol, of hun huidige planeet Marmir.
+"Oh don't whine," she whispered, "just gives us more time together."
 
-"Waarom dan een kaart van het heelal tekenen?" mompelde hij. "Waarom streepjes zetten in je laatste uren of dagen voordat je sterft?"
+Tibre and the bear remained in the cave. They still studied the strange tallying that amounted to 728. He held Ardex' statements under his armpit. The text said _a lot more_, but he couldn't find anything else about Holed or their current planet Marmir.
 
-De beer tikte tegen zijn knie, de gloeilamp met zijn andere hand tegen zijn buik gedrukt.
+"But why draw a Great Map of the galaxy?" he mumbled. "Why add marks to a cave in the last hours or days before you die?"
 
-Met tranen in zijn ogen, en enige vertwijfeling, zette hij bewust de gloeilamp uit.
+The bear tapped his knee. With tears in his eyes, and hesitation, he purposely _turned off_ his special lightbulb.
 
-Een herinnering speelde af, opnieuw en opnieuw. Ruimteschip stijgt op, ruimteschip landt ergens anders, iemand krast een streepje. En dan weer opnieuw.
+A memory played, again and again. 
 
-Nee---het was geen herhaling. Want de vierde keer stortte het schip neer, in plaats van een nette landing. Het bleef maar doorgaan, dezelfde cyclus van gebeurtenissen, maar elke keer nét iets anders.
+A spaceship lifts off, a spaceship lands somewhere else, a hand scratched another line into the wall. And again.
 
-Steeds opnieuw hoorde hij een stem zeggen dat ze "de nieuwe locatie" hadden gevonden, en dat "de Holbewoners waren getraceerd", en dan snelde het volgende ruimteschip weg.
+No---it was _not_ on repeat. Because the fourth time it repeated, the spaceship didn't land neatly anymore, but _crashed_. The cycle continued. The same cycle of events, mostly identical, but _slightly different_ each time.
 
-Het daagde bij Tibre. De beer werd onrustig en keek gepijnigd, alsof elke seconde dat de lamp uit was hem _ongelofelijk_ zeer deed.
+Every time, another voice said they had found "the new location", and that the "Dwellers of Holed had been tracked". And then the next spaceship would flee again.
 
-Hij gaf de beer een knuffel en aaide zijn vacht. Dat vatte hij op als teken om de herinnering weer stop te zetten.
+Tibre slowly realized. The bear grew uneasy and hurt, as if every second that the lightbulb was turned off _hurt him immensely_.
 
-Ze waren niet één keer neergestort.
+He embraced the bear and patted him on the head. A strange human habit. The bear seemed used to it; he saw it as a sign to stop the memory again.
 
-Ze waren keer, op keer, op keer, op keer weggejaagd en op een andere planeet geland. Opnieuw een beschaving opbouwen. Opnieuw herstellen van de klap en blijven leven. Opnieuw gevonden worden door wezens die hun geheim willen. Een geheim dat ze allang zelf waren vergeten!
+They had not crashed here _once_.
 
-Hoe vaak? Zo'n 728 keer, gokte hij.
+They had, again, and again, and again, been chased away from their planet and forced to flee to another. Build another civilization. Recover again and stay alive. Be found again by CAJARA and others who want to steal their "secret". One they didn't even know themselves!
 
-Maar Tibre vocht de neiging om door de knieën te zakken en in wanhoop tegen de muur te vallen. Dát was pas schandalig, dacht hij, als hij nu zou opgeven terwijl zijn voorouders het 728 keer opnieuw hadden geprobeerd.
+How often had this cycle repeated?
 
-Dus toen Jassia weer in de opening stond en vroeg waar hij bleef, vonden ze een Tibre met rechte rug. Het voorwerp had hij snel terug in de grot gegooid, en de beer had de gloeilamp weer aangezet.
+About 728 times, he estimated.
 
-"Wat is er?" vroeg Jassia.
+But Tibre fought the desire to fall on his knees and never get up again. _That_ would have been shameful, he thought. If he gave up now, while his ancestors had tried to rebuild their society 728 times.
 
-"Niks. Helemaal niks. Ik denk dat 728 het aantal grotten telt op deze planeet, of zoiets. Of het aantal gloeilampen, ja, volgens mij is dat exact juist."
+When Jassia came back and asked if he was coming, she found a Tibre with a straight back. He'd thrown the object with Ardex' thoughts back into the cave, as the bear turned on the lightbulb again.
 
-"Dat klinkt---"
+"What's wrong?" asked Jassia.
 
-"Op naar dat feest! Hoppakee!"
+"Nothing. Absolutely nothing. I think that 728 is the number of caves on this planet, or something silly like that. Or the number of lightbulbs, yes, that seems right."
 
-De hele weg terug vermaakte Tibre hen met verhalen. Deels van zijn moeder, deels dingen die hij zelf had verzonnen. Hij praatte ter plekke over die wereld waarin karren automatisch zouden rijden. En hoe leuk het zou zijn als ze ook van die rechthoekige vlakken zouden ophangen in hun grotten en daarmee beelden naar elkaar konden sturen. En---
+"That sounds---"
 
-Iets klopte niet. Ze stonden al bijna in hun thuisgrot, maar er klonk geen muziek. Het licht van binnen was dof, alsof de helft van de gloeilampen inmiddels was uitgegaan.
+"We have a party to attend! Come on!"
 
-Tibre had nog nooit zo hard gerend.
+The entire return journey, Tibre entertained them with stories. Partly his mother's inventions, partly his own. He talked about that world which would have carts that drove _automatically_. And how fun it would be to also hang those flat squares in their caves and send messages to each other that way. And---
 
-"Borrick? Iemand?" schreeuwde hij.
+Something wasn't right.
 
-De enige reactie was een lichtflits. Gekrijs. Gestamp. Twee holbewoners doken door de opening naar buiten, vlak voordat een lichtflits over hun hoofd scheerde.
+They were nearly at their home cave, but the music was gone. The light inside was dim, as if half the lightbulbs had been depleted.
 
-Tibre strompelde de grot in en vond de wolf met diens lichtflitswapen in de hand. Hij gooide een batterij weg en trok een nieuwe uit een andere gloeilamp. Toen pas schoot hij verder.
+Tibre ran faster than ever.
 
-"JULLIE ZIJN EEN VIRUS!" schreeuwde hij. "VUILE MENSEN! MOETEN UITGEROEID!"
+"Borrick? Anyone?" he yelled.
 
-Borrick sprong voor zijn vrouw en kinderen. De lichtflits raakte hem in de schouder en boorde moeiteloos door zijn hele lichaam. Hij had geen kans op overleving.
+The only response was a flash of light. Screaming. Stomping. Two Dwellers dove through the cave entrance, just before a flash of light swirled around them.
 
-Het gekrijs zwol aan. Tibre's oren piepten en hij werd duizelig. Zijn ogen schoten van links naar rechts, maar zagen niet wat ze zochten. Waar waren zijn kinderen? _Waar waren zijn kinderen!?_
+Tibre stumbled into the cave and found the wolf holding his Flashweapon. He threw away a battery and pulled a new one from a lightbulb. 
 
-Nog een schot. Een deel van de grot stortte in. Jassia sprong maar net op tijd weg, voordat haar benen waren verbrijzeld.
+Then he continued shooting.
 
-Hij stampte op de wolf af, die opnieuw batterij wisselde. Dat wapen, wat het ook was, vrat meer energie dan zelfs die gloeilampen konden leveren.
+"YOU ARE A VIRUS!" he screamed. "FILTHY HUMANS! MUST EXTERMINATE!"
 
-"Genade! Genade!" schreeuwde iedereen. Sommige deden de armen omhoog, maar de wolf kende geen genade. Een van hen werd in zijn benen geschoten, waarna iedereen stopte met smeken om genade en alleen nog wegrende. 
+Borrick jumped in front of his wife and children. The flash hit his shoulder and easily drilled through his body. He had no chance at survival.
 
-De wolf wisselde opnieuw van batterij.
+The screams surged. Tibre's ears rang and he almost threw up. His eyes darted left to right, left to right, but didn't find what he wished for. Where were his children? _Where were his children!?_
 
-Tibre vond eindelijk zijn kinderen: goed verstopt in een donkere nis. 
+Another shot. Part of the cave collapsed. Jassia ducked in time to save her legs from shattering.
 
-Maar als ze niks deden, zou de wolf iedereen uitroeien met zijn wapen. Goed verstopt of niet, onschuldig of niet.
+He came for the wolf, who swapped batteries once more. That weapon, whatever it was, _gobbled_ energy like nothing else.
 
-Tibre besefte nu dat hij ook een wapen had.
+"Mercy! Mercy!" yelled the Dwellers. Some raised their arms---but the wolf knew no mercy. One of them was shot in her legs. Everyone stopped begging for mercy and just ran away.
 
-Hij rukte de Echoriem los en zocht naar de dichtstbijzijnde gloeilamp. Aan het plafond. Te hoog om te springen.
+The wolf switched batteries again.
 
-Piponre verscheen aan zijn zijde en bood zijn schouders aan. Tibre klom erop en raakte met zijn vingers net de rotsen aan.
+Tibre found his children: well-hidden in a dark alcove.
 
-Een volgende lichtflits. Jassia jammerde, maar het was een schampschot, niets meer dan een diepe wond op haar arm.
+But if they did nothing, the wolf would exterminate them all anyway. Well-hidden or not, innocent or not.
 
-_Sneller!_ Tibre rukte de gloeilamp los en vernielde hem met vuistslagen totdat de batterij eruit kwam. Het zwarte vierkant zag er zo onschuldig uit, zwaarder maar simpeler dan hij dacht.
+Tibre now realized he had a weapon too. All of them did.
 
-Zweetdruppels vielen van zijn voorhoofd terwijl hij probeerde het ding op een of andere manier in zijn echoriem te krijgen. Hij moest het afkijken bij de wolf, die met speels gemak zijn wapen oplaadde en vuurde.
+He pulled his Echobelt from his hips and searched the nearest lightbulb. On the ceiling. Too high to jump for.
 
-De wolf richtte op Jassia's voorhoofd.
+Piponre appeared to his side and offered his strong shoulders. Tibre climbed on them; his fingers barely scraped the ceiling.
 
-Tibre duwde de batterij uit alle macht in zijn Echoriem, hoorde een klik en een knars, en sloeg vervolgens met een stuk hout op de zijkant.
+Another flash. Jassia wailed. Just a glancing blow, not a deep wound.
 
-Zijn lichtschot verblindde hemzelf en ketste van de stenen muren. Voor meerdere seconden zag hij alleen maar wit, en daarna alleen maar sterretjes.
+_Faster!_
 
-Hij hoorde een plof en nog meer gekrijs. Toen doodse stilte.
+Tibre's fists hit the lightbulb until the battery came free. The black cube looked so innocent, so simple yet so heavy.
 
-Piponre kreunde en klaagde over Tibre's gewicht. Zijn vader sprong van zijn schouders en stelde zijn zicht scherp.
+Beads of sweat dripped from his forehead. He tried to put the caving cube in his Echobelt, one way or another. He couldn't figure it out.
 
-De wolf lag op de grond met ogen dicht. Zijn lichtschot was recht door diens hart gegaan.
+Instead, he studied the wolf. He loaded and shot his gun with great ease.
 
-Zijn kinderen kwamen uit hun schuilplek en doken liefdevol bovenop hun vader. Tegen de tijd dat hij eindelijk weer adem kon halen en niet zeven zoenen tegelijkertijd kreeg, had hij van alle holbewoners gehoord dat hij een held was.
+The wolf pointed at Jassia's head.
 
-Zo voelde hij zich niet. Maar hij voelde wel voor het eerst, in hele hele lange tijd, dat hij leefde.
+Tibre _jammed_ the battery into his Echobelt with all his power, heard a click and a clang, then took a piece of wood and _hit_ the Echobelt on the side.
+
+His own flashlight shot blinded himself and bounced off the stone walls.
+
+For seconds that stretched to ages, he only saw _white stars_.
+
+A dull thud. More screaming.
+
+Then deadly silence.
+
+Piponre groaned and complained about Tibre's weight. His father jumped off his shoulders and waited until his vision returned.
+
+The wolf lay on the floor, eyes closed. The flash shot had gone straight through his heart.
+
+His children left their hiding place and dove on top of their father. By the time he could breath again, and didn't receive seven kisses at once, all the Dwellers had told him he was a hero.
+
+He didn't feel that way.
+
+But he did feel, for the first time in a _while_, that he lived.

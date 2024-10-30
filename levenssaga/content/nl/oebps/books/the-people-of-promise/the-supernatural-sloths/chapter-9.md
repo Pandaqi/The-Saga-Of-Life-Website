@@ -80,7 +80,7 @@ Een mens _sprong_ bovenop hem. Maar ze miste hem compleet en haar grip was lachw
 
 Toen hij terug wilde slaan, echter, miste hij ook. Allebei waren ze al buiten adem na één slag en wisten eigenlijk niet wat ze moesten doen. Het mens richtte diens wapen, maar de knop indrukken deed niets---het was leeg. Ze gooide uiteindelijk maar het _wapen_ naar Sotho's hoofd, maar dat miste ook volledig, waarna Sotho's poging om haar bij de keel te grijpen alleen maar een stuk kleding afscheurde.
 
-Overal om hem heen gebeurde hetzelfde. De luiaards hadden nooit echt gevaar gekend, nooit gevochten. De mensen hadden hetzelfde comfortabele leventje. Dus in deze duister, alleen opgelicht door brandjes en lampen die nog wél elektriciteit kregen, was het meer een gevecht om je tegenstander überhaupt één keer te raken.
+Overal om hem heen gebeurde hetzelfde. De luiaards hadden nooit echt gevaar gekend, nooit gevochten. De mensen hadden hetzelfde comfortabele leventje. Dus in deze duister, alleen verlicht door brandjes en lampen die nog wél elektriciteit kregen, was het meer een gevecht om je tegenstander überhaupt één keer te raken.
 
 Sotho zag dit en rende weg van het gevecht. Hij had een belangrijkere boodschap. Na vijf keer te vragen waar Ismaraldah was, hoorde hij dat ze in de Twintigste Boomtoren zat. De reden waarom werd even later duidelijk toen meerdere massieve voorwerpen uit de hemel kwamen en hem bijna pletten.
 

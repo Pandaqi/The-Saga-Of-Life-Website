@@ -1,125 +1,133 @@
 ---
-title: Standbeeld
+title: Statue
 weight: 3
 ---
-Jassia accepteerde de giften van de dieren met een glimlach. Ze stonden, of vlogen, in een lange rij en stapten één voor één naar voren. Dan legden ze een stukje eten in de mand van de mensen, of blokken hout die ze hadden verzameld, of hun mooiste rotsen en edelstenen. En soms keken ze Jassia smekend aan als ze géén gift voor haar hadden meegebracht.
+Jassia accepted the animal's gifts with a smile. They stood, or floated, in a long queue before her, and took turns stepping forward. Then they placed a piece of food in her basket, or logs they collected, or their prettiest pebbles. And sometimes they looked at Jassia with guilt and pleading when they had _not_ brought her a gift.
 
-De mensen hadden dit fenomeen altijd raar gevonden, maar ook grappig. Als de dieren hen eten wilden geven, zeker in tijden van nood of voedseltekort, dan deden ze dat maar.
+The humans had always found this ritual odd, but also funny. If the animals wanted to give them food, especially in times of need or destroyed food storages, then they were free to do so.
 
-Wat haar de kriebels gaf, echter, waren de standbeelden die ze voor de mensen maakten.
+What creeped her out, though, were the _statues_ that the animals made of the humans.
 
-Ook deze keer stond ze aan het eind van het ritueel oog in oog met haarzelf. Een hele kudde konijnen en bevers had samengewerkt om Jassia's gelijkenis uit te drukken in hout en stenen. En een paar wortels.
+At the end of the ritual, as always, she stood eye to eye with herself. An entire herd of rabbits and beavers had cooperated to express Jassia's likeness with wood and stone. And a few carrots.
 
-"Dat, eh, dankjewel," zei ze. Ze gaf een konijn een aai over de bol, voordat ze zich kon inhouden. Alle anderen keken meteen naar het dier alsof ze gezegend was door een goddelijke aanraking. Enkele holbewoners hadden een hond als huisdier---ook zo'n rare regel waarvan ze de oorsprong niet kenden---maar ze wist niet waarom ze de gewoonte had om andere dieren te _aaien_. Je aaide je voedsel toch niet? Maar toch deed ze het per ongeluk steeds opnieuw.
+"That, erm, thanks," she said. She gave a rabbit a pat on the head, before she could stop herself. The others looked as if she'd _blessed_ the animal with her godly touch. Some Dwellers claimed you used to be _forced_ to keep a dog as a pet---another weird rule of which they'd forgotten the origin. But she didn't know why she had the habit of _petting_ other animals. 
 
-Aan de andere kant, je voedsel maakte ook doorgaans geen standbeelden voor jou.
+You didn't pet your food, right? And still she did it time and time again.
 
-De dieren maakten hun eigen geluidjes en vertrokken weer.
+On the other hand, your food usually also didn't make _statues_ of you.
 
-Eindelijk. Nu kon ze weer de gloeilampen onderzoeken. Wonderlijke dingen! Als ze nou al hun mysteries leerde, waren de holbewoners binnen de kortste keren de meest geavanceerde beschaving van het heelal! Die ideeën van de kinderen waren zo gek nog niet. Automatisch rijdende karretjes? Een vuur dat eeuwig brandt? Iets om naar uit te kijken.
+The animals made their own sounds and left.
 
-Maar zoals moeder zei: _met kijken bereik je niks, ga uitvinden!_ Dus met rommelende maag haalde ze de tweede gloeilamp uit elkaar. Tibre was niet meer uit bed gekomen vandaag, dus ze stond er alleen voor.
+Finally. She could study the light bulbs again. Wonderful things! If only she could learn its mysteries, the Dwellers might soon be the most advanced society in the universe! Those ideas the children had weren't "too crazy" at all. Carts that moved automatically? Fire that burns forever? Something to look forward to.
 
-Ze leerde niks nieuws. De lamp viel uit zodra teveel onderdelen waren vernield. En, tja, toen had ze een duistere kamer met een voorwerp dat niks deed.
+But like mother said: _you won't achieve anything by looking, go and invent!_
 
-Ze had meer onderdelen nodig. Vergelijkingsmateriaal! Zoals moeder zei: _ga data verzamelen_. Het duurde haar hele jeugd voordat ze realiseerde dat moeder het niet had over het meervoud van datum, maar over _informatie_. Sindsdien had ze véél meer uitgevonden!
+And so, with a growling stomach, she dissembled the second lightbulb. Tibre had refused to leave his bed today, so she was alone.
 
-Even later stond ze in hun grootste grot, waar de Grote Kaart in de muur stond gekrast. De streepjesgrot stond er niet op aangegeven, terwijl het belangrijk leek. Ook de plekken waar het ruimteschip en de gloeilampen vielen stonden niet aangegeven.
+She didn't learn anything new. The light turned off once she'd removed too many components. And, well, that just gave her a dark room with a useless object. And a pet bear who juggled with the components.
 
-Maar ja, wanneer had de kaart _wel_ gelijk gehad? De cirkels leken met precisie erin gekrast. Diep en perfect, zelfs genummerd, maar---
+She needed more components. Something to compare it to! As mother said: _go and collect data_. It took her entire youth to realize mother wasn't talking about the plural of _date_, but about _information_. Since then she'd invented a lot more!
 
-Cirkels. Ruimteschepen. Gloeilampen. Ze vallen van boven.
+Soon after, she visited their largest cave. The one that held the Great Map on the wall. The Linecave wasn't marked on the map, even though it seemed important. The places where the spaceship and light bulbs had fallen down also weren't marked.
 
-Ze rende de grot uit en keek omhoog. De kaart zat in haar geheugen gebrand, zo vaak had ze hem bekeken en gebruikt. Hoe had ze dit niet eerder gezien?
+Well, let's face it, when had this map ever been _right_? The circles were scratched into the wall with precision. Deep and perfect, even numbered, but---
 
-Nee, de kaart paste niet perfect bij het patroon van gloeilampen. Er waren veel meer lampen dan cirkels, en ze leken ook te bewegen over tijd.
+Circles. Spaceships. Light bulbs. They fall from above.
 
-Maar Piponre had gelijk: iedereen had wel eens een paar van die sterren zien uitgaan, of verdwijnen, of flauwer licht zien geven. Tussen de duizelingwekkende lampen waren andere cirkels die iets anders voorstelden.
+She ran out of the cave and looked up. The map was burned into her brain from years of study and usage. How had she not seen this before?
 
-Planeten.
+No, the map didn't fit the pattern of stars. There were far more light bulbs than circles in the sky, and they seemed to move over time.
 
-Ze kreeg kippenvel, bevroren in de grotopening. Het paste bijna perfect. Als ze de kaart iets draaide en bijstelde, kwamen de cirkels _precies_ over de grotere rondjes te liggen. De cirkels die nauwelijks licht gaven en alleen soms te zien waren.
+But Piponre was right: everyone had seen a few of those stars _extinguish_ before, or disappear, or dim their light. Between the blinding stars were _other_ circles that represented something else.
 
-"De Grote Kaart is een kaart!"
+Planets.
 
-"Ja, duh," zeiden de kinderen om haar heen.
+She shivered, frozen in the entrance. It fit almost perfectly. If she modified the map, and rotated it a bit, the circles matched _precisely_ with the larger circles in the sky. Those that barely emitted light and were only sometimes visible.
 
-"Maar niet van onze planeet---van alle andere planeten om ons heen!"
+"The Great Map is a map!" she yelled.
 
-De rest kwam om haar heen staan. Een voor een, met wat moeite, zagen ze het nu ook. Delen van de kaart werden nagetekend met een stok in het zand, om zeker te zijn dat het niet weer een trucje van hun herinnering was. 
+"Yeah, duh, obviously," said the children near her.
 
-Maar nee, ze had gelijk. Hun voorouders, zo dacht ze, hadden een perfecte kaart van hun zonnestelsel getekend in de grotwand.
+"But not of our planet---of all the planets _around us_!"
 
-Sterker nog, ze misten een paar planeten. Die stonden wél op de kaart, maar waren nu niet te zien. Jassia had er alle vertrouwen in dat die bestonden en juist waren neergezet. Dat betekende dat de eerste planeet behoorlijk dichtbij was en een klein geel dwergje moest zijn. Die was vast makkelijk te missen met het blote oog vanwege de gele gloeilampen.
+The others assembled around her. One by one, with some effort, they saw what she saw. Parts of the Great Map were drawn in the sand with a stick, right where they stood. To make sure their memory wasn't fooling them again.
 
-Oh, dat moest prachtig zijn! Als ze ooit die automatische machines konden maken, en dan, ja, dan zelf misschien zweven naar een andere planeet, waar duizenden nieuwe ontdekkingen op haar lagen te wachten. Hadden ze daar ook konijnen? Of diersoorten die ze niet kenden? Misschien groeiden daar wel de gloeilampen, en als ze loskwamen in de wind stortten ze hier neer! Alles kon gebeuren!
+But no, she was right. Their ancestors, she thought, had drawn a _perfect_ map of their galaxy in the cave wall.
 
-"Ik moet terug naar dat ruimteschip!" riep ze.
+In fact, they were missing a few planets. They _were_ on the map, but not visible in the sky today. Jassia fully believed those planets existed and were in the right place too. It also meant that the closest planet to them was _very close_, and looked like a small yellow dwarf. It was probably hard to see with the naked eye because of the yellow light bulbs interfering.
 
-"Daar is niks van over," zei Zandir, die met zijn speer controleerde of de planeten aan de hemel wel écht met de Grote Kaart klopten.
+Oh, it had to be _beautiful_! If they could ever build those automatic machines, and then, yes, they might even float to a different planet. One where a thousand new discoveries awaited her. Would they have cute rabbits too? Or animal species she didn't know? Maybe the light bulbs _grew_ there, and they only fell down if the wind broke them loose. Anything was possible!
 
-"Er moeten een paar wrakstukken zijn. Er moet iets te vinden zijn. Ik weet het, ik voel het, onze toekomst ligt in de ruimte."
+"I must return to the spaceship!" she said.
 
-Ze rende uit automatisme naar Tibre's grot, maar die bleef binnen en had geen zin in bezoek. Piponre kwam net naar buiten, zijn gezicht op onweer. Toen hij Jassia zag, klaarde hij wat op, maar schudde alsnog zijn hoofd: nee, die kwam niet naar buiten. Ze wilde dolgraag vragen of Piponre dan mee ging, maar hield haarzelf tegen. Ze wist niet precies waarom---misschien uit schaamte of angst dat Tibre kwaad werd.
+"Nothing left of that," said Zandir. With his spear, he checked if the planets in the sky _really_ matched the big circles of the Great Map.
 
-Uiteindelijk liep ze alleen richting de streepjesgrot, terwijl de nacht viel. Ze gebruikte de eerste gloeilamp die was neergestort, en de helft van diens glazen omhulsel miste, als haar lichtbron.
+"There must be some wreckage. There must be _something_. I feel it, I know it, our future is out there---in space."
 
-Leunend tegen de zijkant van de grot, vond ze een eerste wrakstuk. Een verbogen plaat. Het leek gemaakt van datzelfde _metaal_ als Zandirs speer. Er waren symbolen op getekend in kleurrijke verf, maar die kon ze niet lezen.
+She ran to Tibre's home cave, by habit, but he stayed inside and refused visitors. Piponre just left, his face thunderous. When he saw Jassia, he tried to clear up and smile, but still shook his head: no, his father wasn't leaving the bed.
 
-Ze stapte de streepjesgrot in. De kans was klein, maar misschien waren veel wrakstukken uiteindelijk _in_ de grot gekomen. Dat vertelde ze haarzelf, tenminste. Ze wilde eigenlijk gewoon zelf de streepjes natellen en meer onderzoek doen, geholpen door de felle gloeilamp. Data verzamelen!
+She was eager to ask if Piponre would join her then, but stopped herself. She wasn't sure why. Maybe out of shame or fear of making Tibre feel even worse.
 
-Maar Tibre had, wonder boven wonder, het juiste aantal geteld. 728. Waarvoor kon het staan? Aantal dagen in een jaar? Aantal planeten om hen heen? En waarom zouden hun voorouders, of een beschaving voor hen, dit willen communiceren?
+Eventually, she visited the Linecave alone, as night fell. She used the first lightbulb that had crashed, and was missing half of its glass case, as her light source.
 
-Ze stapte verder en struikelde over een zwaar voorwerp. Haar hoofd belandde in as, dat kon ze zien dankzij de gloeilamp die naast haar stuiterde. Ze greep het voorwerp vlak voordat het dieper de grot in rolde.
+Leaning against the cave wall, she found her first piece of wreckage. A bent plate. It seemed made of that same _metal_ as Zandir's spear. It contained symbols drawn with colorful paint, but she couldn't read them.
 
-Het was ... wat was het? Het was _zwaar_ en groeide weer draadjes alsof het een baard had. 
+She stepped inside the Linecave. It was unlikely, yes, but maybe some pieces had landed _inside_ the cave. That's what she told herself anyway. In reality, she just wanted to count the lines herself and research them. Collect data!
 
-Dit was alles dat ze kon tillen, zeker met de gloeilamp erbij, dus ze---
+Tibre, though, had miraculously counted them perfectly. 728. What could it mean? Number of days in a year? Number of planets around them? And why would their ancestors, or another civilization before them, want to communicate that?
 
-Pootafdrukken. Ze stonden diep in de as en leidden terug naar de plek waar het ruimteschip was neergestort. 
+She took another step and tripped over a heavy object. Her head landed in ash; the lightbulb shattered even further. She reached for the object as it rolled further down the slope, but wasn't able to catch---
 
-Ruimteschip. Varen door ruimte. Het _klonk_ als een sprookje, maar wat als het _echt_ was en dan---focus, Jassia, focus.
+Footprints. They dug deep into the ash and led back to the spot where the spaceship crashed.
 
-De afdrukken waren te groot voor haar voeten. Tibre had ze praktisch terug naar huis moeten _slepen_. En ze stonden verkeerd om? Nee, wacht, dat betekende dat ze _begonnen_ vanuit het ruimteschip en---
+Spaceship. Sailing through space. It _sounded_ like a fairy tale, but what if it was _real_ and then---focus, Jassia, focus.
 
-Kippenvel trok door haar hele lichaam. Piponre, Tibre, Zandir, ze had _iemand_ mee moeten nemen vannacht! Dom! 
+The footprints were too large for her feet. She had to _drag_ Tibre home last time, so he didn't leave footprints then. And they were the wrong around? Hold on. That meant they _started_ from the spaceship and then---
 
-Ze gooide de gloeilamp weg om sneller te kunnen rennen. Daarna maakte ze dat ze wegkwam van de voetafdrukken. 
+Her body shook. Piponre, Tibre, Zandir, she should have taken _someone_ with her tonight. Stupid! 
 
-De hele tocht naar huis keek ze over haar schouder, maar niks of niemand volgde haar. Toch remde ze geen seconde af, nee, niet totdat ze haar eigen grot binnenkwam en riep: "Ik heb voetafdrukken gevonden bij---"
+She threw the lightbulb away to run faster. Then she fled the footprints.
 
-Tibre zat naast de gloeilamp en keek gebiologeerd naar diens binnenste. Want binnen de gloeilamp stonden plaatjes. Niet zomaar plaatjes, nee, _bewegende_ plaatjes.
+As she ran back home, she looked over her shoulder, again and again, but nothing and nobody followed her. Still she didn't slow down, no, not until she was safely back inside her own cave.
 
-Toen Jassia buiten adem naast hem stond, zag ze dat de plaatjes bij elkaar pasten. Terwijl ze werden afgespeeld, leek het alsof mensen rondliepen _in_ de gloeilamp. Alsof zij, als goden, toekeken naar een wereld binnenin. Maar als je jouw hand erin stak, voelde je alleen lege ruimte---het waren echt bewegende tekeningen en niets meer.
+She yelled: "I found footprints at---"
 
-Er was zelfs geluid. Jassia en Tibre keken allebei in het rond, op zoek naar wie het sprak, om pas laat te ontdekken dat ook dit op magische wijze uit de gloeilamp kwam.
+Tibre sat beside the lightbulb, fascinated by something on the inside. 
 
-"Ik kan geen ander einde zien," zei een jonge man gekleed in een labjas. "Ik heb miljoenen jaren verder gesimuleerd. Ik heb alle opties bekeken. Maar de wetenschap is helder."
+For inside the lightbulb were _drawings_. Not just any drawings, no, _moving_ drawings.
 
-"De wetenschap weet niet _alles_," zei een oudere vrouw. 
+Jassia noticed the drawings resembled each other. As they were played in sequence, it looked like humans were walking around _inside_ the lightbulb. As if they, like gods, were watching a tiny world within. But when she put her hand inside the lightbulb, she only felt empty space---they were moving drawings, but not real.
 
-"We _weten_ dat wetenschap niet alles weet, anders zou het ophouden met bestaan."
+A voice called out to them. Jassia and Tibre looked around, searching for who was speaking, only to discover the lightbulb magically produced this voice.
 
-"Probeer het opnieuw."
+"I can't see another end," said a young man in a lab coat. "I've simulated millions of years into the future. I've tried all options. But the science is clear."
 
-De twee figuren liepen rond in een grot die wel érg wit was. Werkelijk _alles_ wat erin stond had die draadjes en gloeilampjes. 
+"Science doesn't know _everything_," said an older woman.
 
-De jonge wetenschapper schudde zijn hoofd. "We denken dat onze wereld is begonnen met een grote explosie, de oerknal. Alles dat ooit zal bestaan, zat ingepakt in een kleine knikker. Dat past natuurlijk niet, dus het explodeerde en zo kregen we dit universum. Een universum dat nog steeds groter en groter wordt elke seconde."
+"We _know_ science doesn't know everything, otherwise it would stop existing."
 
-"Het begin maakt me niet uit. Ik praat over het _einde_ van het universum."
+"Try again."
 
-De wetenschapper gebaarde dat ze geduld moest hebben. "De kans is groot dat het universum ergens ophoudt door het omgekeerde te doen. We zijn zó ver opgerekt, dat we terug klappen als een elastiekje, terug naar die knikker. Niks overleeft dat."
+The two figures walked around a cave that seemed excessively white. _Everything_ inside that room had wires and lightbulbs.
 
-"En het andere einde?"
+The young scientist shook his head. "We think our world started with a huge explosion, the Big Bang. Anything that will ever exist, was pressed into a tiny marble. That obviously didn't fit, so it exploded and gave us this vast universe. A universe that is still growing in size every second."
 
-"Standbeeld. We verliezen steeds meer energie, alles gaat steeds verder uit elkaar staan, totdat het hele universum _bevriest_. Alle warmte weg, alle beweging weg, niks kan elkaar nog zien of bereiken, en zo blijft het _voor altijd_. Niks overleeft---"
+"The start doesn't interest me. I'm talking about the _end_ of the universe."
 
-Tibre schopte de gloeilamp door de kamer. Het apparaat ging weer _aan_; de herinnering die afspeelde stopte abrupt.
+The scientist gestured for her to calm down. "It is likely that the universe will end by doing the same, but in the opposite way. We have grown _so large_, stretched _so thin_, that we snap back like an elastic, back into that marble. Nothing will survive."
 
-"Het is allemaal zinloos," mompelde hij opnieuw en opnieuw. "Ik geef op."
+"And the other end?"
 
-"Net zoals je gisteren opgaf en nu weer naast me staat?" vroeg Jassia met een glimlach.
+"Statue. We lose more and more energy, planets drift further and further apart, until the entire galaxy just ... _freezes_. All warmth gone. All movement gone. Nothing can reach or see each other, and it will stay that way _forever_. Nothing survives---"
 
-Hij reageerde niet en liep weg. Jassia pakte de gloeilamp voorzichtig op om de herinnering opnieuw, en opnieuw, en opnieuw af te spelen. Wat een magische wereld. Wat een magische mensen.
+Tibre kicked the lightbulb through the room. The lamp turned _on_ again; the drawn memory that was playing inside stopped abruptly.
 
-Ze hoopte dat snel meer gloeilampen omlaag stortten. En dat ze die voetafdrukken vanuit het ruimteschip slechts had verbeeld.
+"It's all useless," he mumbled repeatedly. "I give up."
+
+"Like you gave up yesterday, and stand next to me now?" asked Jassia with a smile.
+
+He walked away. 
+
+Jassia carefully tried to _replay_ that memory inside the lightbulb, again, and again, and again. What a wonderful world. What a magical people.
+
+She hoped more lightbulbs with these memories crashed soon. And that she'd merely imagined the footprints from the spaceship.

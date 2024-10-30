@@ -1,113 +1,121 @@
 ---
-title: Trouw aan de Stam
+title: Dweller Loyalty
 weight: 2
 ---
-Tibre hield nu een gloeilamp in zijn handen, en een batterij, maar wist nog steeds niet wat het was. Jassia tikte zachtjes tegen allerlei onderdelen met haar hamer---een steen vastgemaakt een aan stok---en knikte of schudde dan haar hoofd. In haar enthousiasme had ze de lamp meteen opgepakt en daarmee een deel van haar handen verbrand. Het was ochtend voordat de gloeilamp koud genoeg was om aan te raken.
+Tibre held a lightbulb in his hands, and a battery, but still didn't understand what they _were_. Jassia lightly tapped all components with her hammer---a stone attached to a stick---and then nodded or shook her head. In her enthusiasm, she'd picked up the lamp immediately and burned her hands. Dawn arrived before the lightbulb was cold enough to touch.
 
-"Ik geef toe," zei ze, "dat het misschien geen sprookjes waren. De betere vraag is nu: hoe _wist_ jouw moeder dat er gloeilampen om ons heen hangen?"
+"I admit," she said, "that they might not have been fairy tales. The better question is now: how did your mother _know_ the stars were light bulbs?"
 
-Tibre zuchtte, terwijl hij uitgeput met zijn rug tegen de rotswand leunde. "Ik kan nauwelijks het gezicht van moeder herinneren. Van vader al helemaal niet."
+Tibre sighed. He placed his tired and wounded back against the cave wall. "I can barely remember mother's face. I can't see father's face _at all_."
 
-"Wij allemaal, Tibre," mompelde Jassia. "Soms ... soms denk ik dat zelfs de dingen die we herinneren fout zijn. Dat we gewoon een gezicht hebben _verzonnen_ om onze ouders in te vullen."
+"All of us, Tibre," mumbled Jassia. "Sometimes ... sometimes I think our memories are just wrong. That we _invented_ some face to attach to our parent's names."
 
-"Hoezo?"
+"How so?"
 
-Ze keek hem zuur aan. "Ik heb eergisteren de _hele dag_ voor jan joker rondgelopen omdat jij _dacht_ te herinneren dat een rivier stroomde in het westen bij cirkel 6. Nou, er was geen druppel water!"
+Her face turned sour. "Yesterday, I ran around _all day_ until I nearly fainted. Why? Because you _thought_ you remembered a river in the west, near circle six. The drops of water were exactly _zero_, let me tell you!"
 
-Jassia speelde met de batterij in haar handen, een groot zwart blok dat draadjes groeide alsof het een baard was. Ze probeerde de batterij in alle mogelijke gaten van de gloeilamp te duwen. Totdat ze de juiste had gevonden.
+Jassia's hands played with the battery, a large black cube that grew wires like a beard. She tried pushing the battery in all the possible holes of the lightbulb.
 
-Tibre gooide zijn armen voor zijn ogen tegen het plotse felle licht. "Hmm. Moeder had zelfs gelijk over dat ze nooit doofden of opraakten."
+Until she found the right one.
 
-Zijn kinderen renden naar binnen, behalve Piponre. "Mogen we nu spelen met de gloeilamp, pap? Alsjeblieft?"
+Tibre covered his eyes at the sudden blinding light. "Hmm. Mother was even right about that. They never run out."
 
-"Nee!" zei hij, veel harder en strenger dan hij wilde. "Dit is geen speelgoed. Dit is misschien onze enige kans om grote uitvindingen te doen! Wat als _onze_ vuren nooit meer uit zouden gaan, eh?"
+His children ran inside, excluding Piponre. 
 
-Zijn kinderen kregen direct weer grote glimmende ogen. "Oh! Oh! Misschien kunnen we dan eten automatisch naar ons toe laten zweven!"
+"Can we play with the lightbulb, dad? Please?"
 
-"Jassia, jij had toch zo'n houten kar gebouwd? Misschien kan die dan _uit zichzelf rijden_!"
+"No!" he said, far more stern than he wanted to. "This is no toy. This might be our only way to make great progress and inventions! What if _our_ fires never ceased, eh?"
 
-Tibre forceerde een lach. "Nu moeten jullie niet te gek doen. Ga de rest van de stam helpen, _daarna_ pas spelen."
+The children's eyes were bright again. "Oh! Oh! Maybe we can make food cook automatically!"
 
-Ze renden de grot uit. Jassia beet op haar lip terwijl ze hen gepijnigd nakeek.
+"Or Jassia," said his youngest child, "that wooden cart of yours might even _drive automatically_!"
 
-Tibre fronste. "Wat? Wil je ook spelen?"
+Tibre forced a smile. "Well, well, let's not get _too crazy_. Go and help the other Dwellers, _then_ you can play."
 
-"Huh? Nee, nee, natuurlijk niet. Deze gloeilamp gaat me nog maanden bezig houden denk ik. Het is ..."
+They ran away. Jassia bit her lip and looked pained as she watched them go.
 
-Hij werkte al jarenlang samen met Jassia. Zij rende van hot naar her, onderzocht dingen, deed uitvindingen, en hij wist niet waar ze de energie of motivatie vandaan haalde. Hij deed vooral het zware werk als iets moest getild of verplaatst, want meer motivatie kon hij niet meer opbrengen. 
+Tibre frowned. "What? You want to play too?"
 
-Het was allemaal zo zinloos. Je vond eten, je at het op, alleen maar zodat je de dag erna energie had om opnieuw eten te vinden. Zonder Jassia had hij het lang geleden opgegeven---en zo onzeker en vermoeid als nu had hij haar nooit gezien.
+"Huh? No, no, of course not. This lightbulb will keep me busy for months. It's just ..."
 
-"Het is prima," zei Tibre, "om soms ook even rust te nemen. Slaap bij je man vanavond, in plaats van in een grot met een kapotte gloeilamp. Ik denk dat we wel zo'n beetje alle geheimen hebben ont---"
+He had been working with Jassia for years now. She ran from here to there, researched everything, made inventions, and he had no clue where she found the energy or motivation. He mostly did the physical work, like lifting something heavy, and couldn't be bothered to do anything else. Even _that_ job seemed to be taken over by her pet bear now. After some extensive training by Jassia, the furry animal could carry tools and even understood how a lot of them worked.
 
-"Nee, nee, er is véél meer aan de hand hier," zei ze meteen. "Het is ... lastig voor ons om kinderen te krijgen."
+It was all useless. You found food, you ate it, just to have enough energy to find food again the next day. Without Jassia, he'd have given up long ago---and he'd never seen her as tired and uncertain as she looked now.
 
-"Omdat je hen niet in deze verschrikkelijke wereld wil brengen?"
+"It is fine," said Tibre, "to take a break now and then. Sleep with your husband tonight, instead of in a cave with a broken lightbulb. I think we've discovered all its secrets by---"
 
-"Huh? Nee, onze planeet is prachtig. Ik ... heeft jouw moeder ooit iets gezegd over onze andere regels? Waarom _trouwen_ we met elkaar? Waarom doen we dat?"
+"No, no, there is _far_ more going on here," she said immediately. "It is ... hard for us to bear children."
 
-Jassia was flink jonger dan Tibre---een jongvolwassen vrouw---maar al getrouwd zodra ze volwassen werd. Zoals de meeste, en zoals hij wilde dat Piponre ook zou doen binnenkort. Maar waarom?
+"Because you don't want to bring children onto our horrible, horrible planet?"
 
-"We hebben elkaar nodig om te overleven," zei hij. "Als je elkaar belooft om altijd bij elkaar te blijven en elkaar te steunen in leven en dood, dan is dat makkelijker."
+"Huh? No, our planet is beautiful. I ... did your mother ever tell you anything about our other rules? Why do we _marry_ each other? Why do we do that?"
 
-Jassia legde haar hamer neer en keek weg. "En wat als dat een fout was?"
+Jassia was far younger than Tibre---a young adult---but had already married years ago. Like most. Like he expected Piponre to do soon. But why?
 
-Tibre fronste, maar zorgde dat zijn woorden duidelijk overkomen. "Dan vind je een manier om het te laten werken. Het is _ongehoord_ om je trouweling te verlaten of af te vallen. Je hebt maar één stam, en het is deze, dus je maakt er het beste van."
+"We need each other to survive," he said. "If you promise to stay together forever, and support each other in life and death, this becomes easier."
 
-Althans, dat was wat hij _dacht_ dat moeder ooit tegen hem had gezegd, in zijn herinneringen.
+Jassia put down her hammer and looked away. "And what if it was a mistake?"
 
-Jassia pakte het werk weer op en haalde voorzichtig delen van de gloeilamp uit elkaar. "Ja, ja, natuurlijk. Je hebt gelijk. Vergeet dat ik iets heb gezegd."
+Tibre frowned, but made sure his words were clear. "Then you find a way to make it work. It is _unheard of_ to leave your married partner. You only have one tribe, and it is this one, so make it work."
 
-"Nee, nee, Jassia. Ik ben blij dat je het zegt. We hebben niet genoeg tijd op deze planeet, of energie, om bezig te zijn met leugens."
+At least, that's what he _thought_ mother had told him once, in his memories.
 
-Al dat gedoe. En waarvoor? Uiteindelijk sterft toch iedereen, teruggegeven aan de modder naast hun grotten. Ach ja. Ze hadden tenminste genoeg voedsel om de komende jaren rustig aan te doen.
+Jassia resumed her work. She carefully took apart the lightbulb. "Yes, yes, of course. You're right. Forget I said anything."
 
-Met deze opbeurende gedachte stapte Tibre naar buiten, waar hij bijna een speer in zijn maag kreeg. Een speer die hij meteen herkende: hij was gemaakt van een onbekend materiaal dat de eigenaar zelf _metaal_ noemde, gekregen van zijn vader.
+"No, Jassia, I'm glad you speak up. We don't have enough time on this planet, or energy, to spend it on lies."
 
-"Dit is _jouw schuld_," zei Zandir. "Vanaf het moment dat jij dat eten pakte, is er een vloek over onze stam gekomen!"
+All those problems. All the mess. And why? Eventually, everyone dies, returned to the mud around their caves. Oh well. At least they had enough food now to take it easy the coming years.
 
-"Het is één gloeilamp en hij is alweer aan---"
+Tibre stepped outside and nearly received a spear through his belly.
 
-Zandir stapte opzij om een tweede gevallen gloeilamp te tonen. Zijn kinderen waren er als de kippen bij om deze mee te slepen voor hun spelletje. Tibre's geschreeuw om daarmee op te houden deed niks.
+A spear he recognized instantly. It had been made of an unknown material that the owner called _metal_, which was given to him by his father.
 
-Hij keek omhoog en zag tot zijn schrik dat _nog_ een gloeilamp omlaag kwam. Deze kwam niet in de buurt van hun grotten en leek langzamer te vallen.
+"This is _your fault_," said Zandir. "From the moment you took that food, a curse landed on the Dwellers!"
 
-Jassia en hij renden erachteraan.
+"It is just one lightbulb and we already turned it---"
 
-"Dit wordt onze ondergang!" krijste Zandir in hun rug. "Jouw schuld! Jouw hebberigheid!"
+Zandir stepped aside to show a second fallen lightbulb. His children already arrived to grab it and play with it. Tibre's loud clanging against his Echobelt did not reach them.
 
-Ondergang? Er was nauwelijks een _bovengang_ geweest op deze barre planeet!
+He looked up. And panicked. _Another_ lightbulb was coming down now. This one was nowhere near the caves and seemed to fall more slowly.
 
-Ze keken weer omhoog. Het licht was veranderd. In plaats van een geel, cirkelvormig bolletje, werd het een andere vorm, en weer een andere, terwijl het paars uitsloeg. Normaal gesproken waren de sterren bijna niet te zien overdag, maar deze stak uit als het pupil van een boze god die hen vanuit de hemel aankeek.
+Jassia and him ran after it.
 
-Sneller en sneller stortte het voorwerp neer. Jassia en hij raakten buiten adem. Ze betraden een grot, renden enkele honderden meters door het donker, om ergens anders weer naar boven te komen. Ze stonden nu bijna perfect onder het vallende voorwerp, dat een schaduw over hen wierp.
+"This will be our demise!" cried Zandir at his back. "Your fault! Your gluttony!"
 
-Het voorwerp ging precies richting die rare grot met de streepjes en de voedselvoorraden.
+Demise? When had their barren planet ever _not_ been falling apart?
 
-"Nee! Nee! Niet daar vallen!" riep hij, armen zwaaiden boven zijn hoofd. Alsof gloeilampen daarop zouden reageren.
+They looked up once more. The light had changed. It changed from a yellow dot, to a different shape, and another, until it turned purple. Normally, the stars were hard to see during the day, but this one stuck out like the eye of an angry god watching them from above.
 
-"Dit is geen gloeilamp," zei Jassia, terwijl ze even op adem kwamen tegen de streepjesgrot. "Dit is ... wat is dit?"
+Faster and faster the object fell down. Jassia and him lost their breath. They entered a cave, ran through the dark for hundreds of paces, to resurface in a completely new area. They were below the falling object now, which cast a shadow over them.
 
-Tibre verloor alle moed. Ze konden al dat eten nooit op tijd verplaatsen. Het voorwerp, dat nog het meeste leek op een paarse glimmende vogel waarvan de vleugels waren bevroren, stortte genadeloos neer richting de plek.
+The object was headed straight for that weird cave with the vertical lines and the food storages.
 
-Jassia legde alvast een troostende hand op Tibre's schouder. Daarna schuilden ze in de grot.
+"No! No! Don't land there!" he yelled, waving his arms. As if light bulbs responded to that.
 
-De grond trilde en gooide Tibre en Jassia allebei naar de grond. Knal na knal echode door de grot en zorgde voor een doffe ruis in zijn oren. De opening van de grot sloeg wit uit, daarna felrood en felgeel, afgewisseld met schaduwen van voorwerpen die langs vlogen.
+"This is no bulb," said Jassia, as she leaned against the Linecave and caught her breath. "This is ... what is it?"
 
-En daarna---stilte. Doodse stilte. Een paar vogels die floten alsof er niks was gebeurd.
+Tibre lost hope. They could never move all the food in time. 
 
-Ze stapten voorzichtig uit de grot.
+The object, which looked most like a purple shiny bird with frozen wings, crash landed mercilessly near the cave
 
-Al het voedsel was verbrand, weggeslingerd, geplet. Tibre barstte in tranen uit en zakte door zijn knieën.
+Jassia already placed a comforting hand on Tibre's shoulder. Then they hid inside the cave.
 
-"Ik geef op," mompelde hij. "Ik geef het op. Het is klaar zo."
+The ground shook and threw both of them to the floor. Bang after bang echoed through the cave and replaced their hearing with a dull static. The cave entrance flashed white, then bright red, then bright yellow, sometimes overshadowed by objects that flew past.
 
-Jassia leek het niet te horen. "Waar ... waar is het voorwerp zelf?"
+And then---silence. Deadly silence. A few birds sang as if nothing had happened.
 
-Ze keken uit op een grote leegte met as en rotzooi, maar slechts een hint naar het vallende voorwerp. Als ze het niet hadden gevolgd, hadden ze nooit geweten dat er überhaupt iets was neergestort. Hadden ze misschien gedacht dat iemand een gigantisch kampvuur uit de hand had laten lopen.
+They stepped out of the cave. All the food had been burned, squashed, ejected. 
 
-Hoe kon zoiets groots nou verdwijnen? Zonder een spoor?
+Tibre burst into tears and sunk to his knees.
 
-Zandir had hen eindelijk bijgehaald. Hij dreunde zijn speer diep in de laag as en leunde erop, puffend en kreunend.
+"I give up," he mumbled. "I give up. I'm done."
 
-"Dat was geen gloeilamp, nee. Vader noemde dat altijd een _ruimteschip_."
+Jassia didn't seem to hear. "Where ... where is the object itself?"
+
+They only saw a wide empty space, covered in ashes and rubble, but only vague hints about what the object was. If they hadn't followed it, they might have never known anything crashed here. They might have thought a large campfire had gotten out of hand here.
+
+How could something so large just disappear? Without a trace?
+
+Zandir had finally caught up. He thumped his spear deep into the layers of ash and leaned on it like a walking cane.
+
+"That was no lightbulb, alright. Father always called that a _spaceship_."

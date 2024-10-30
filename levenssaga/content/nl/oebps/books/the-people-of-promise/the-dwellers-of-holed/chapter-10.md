@@ -56,7 +56,7 @@ Maar levende wezens blijven proberen. Proberen totdat ze misschien ooit zo ver g
 
 Maar ja, zonder einde, kan er dan ooit nog iets nieuws beginnen?
 
-En soms dan lukte het Tibre nooit. Dan dacht hij weer alleen aan hoe zinloos het was. Dan dacht hij aan de ruimtegevechten die ze boven hun planeet hielden om dit samenraapsel aan holbewoners te beschermen, of de wolf---een buitenaards ras dat al een hekel had aan mensen---had vermoord.
+En soms dan lukte het Tibre niet. Dan dacht hij weer alleen aan hoe zinloos het was. Dan dacht hij aan de ruimtegevechten die ze boven hun planeet hielden om dit samenraapsel aan holbewoners te beschermen, of de wolf---een buitenaards ras dat al een hekel had aan mensen---had vermoord.
 
 Maar dan keek hij even naar buiten, dan ging hij iets _doen_, dan speelde hij met zijn kinderen of zag hoe intens gelukkig Piponre was om vader te zijn. En soms wandelde hij zo ver dat hij weer langs standbeelden van henzelf kwam, met daaromheen biddende dieren.
 

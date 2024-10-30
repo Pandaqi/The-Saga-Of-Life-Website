@@ -34,7 +34,7 @@ Tibre fronste. "Wat? Wil je ook spelen?"
 
 "Huh? Nee, nee, natuurlijk niet. Deze gloeilamp gaat me nog maanden bezig houden denk ik. Het is ..."
 
-Hij werkte al jarenlang samen met Jassia. Zij rende van hot naar her, onderzocht dingen, deed uitvindingen, en hij wist niet waar ze de energie of motivatie vandaan haalde. Hij deed vooral het zware werk als iets moest getild of verplaatst, want meer motivatie kon hij niet meer opbrengen. 
+Hij werkte al jarenlang samen met Jassia. Zij rende van hot naar her, onderzocht dingen, deed uitvindingen, en hij wist niet waar ze de energie of motivatie vandaan haalde. Hij deed vooral het zware werk als iets moest getild of verplaatst, want meer motivatie kon hij niet meer opbrengen. Maar zelfs _die taak_ leek nu overgenomen door haar beer. Na wat training van Jassia kon het schattige dier gereedschap tillen en zelfs begrijpen hoe ze werkten.
 
 Het was allemaal zo zinloos. Je vond eten, je at het op, alleen maar zodat je de dag erna energie had om opnieuw eten te vinden. Zonder Jassia had hij het lang geleden opgegeven---en zo onzeker en vermoeid als nu had hij haar nooit gezien.
 
@@ -62,13 +62,15 @@ Jassia pakte het werk weer op en haalde voorzichtig delen van de gloeilamp uit e
 
 Al dat gedoe. En waarvoor? Uiteindelijk sterft toch iedereen, teruggegeven aan de modder naast hun grotten. Ach ja. Ze hadden tenminste genoeg voedsel om de komende jaren rustig aan te doen.
 
-Met deze opbeurende gedachte stapte Tibre naar buiten, waar hij bijna een speer in zijn maag kreeg. Een speer die hij meteen herkende: hij was gemaakt van een onbekend materiaal dat de eigenaar zelf _metaal_ noemde, gekregen van zijn vader.
+Tibre stapte naar buiten en kreeg bijna een speer in zijn maag.
+
+Een speer die hij meteen herkende. Hij was gemaakt van een onbekend materiaal dat de eigenaar zelf _metaal_ noemde, gekregen van zijn vader.
 
 "Dit is _jouw schuld_," zei Zandir. "Vanaf het moment dat jij dat eten pakte, is er een vloek over onze stam gekomen!"
 
 "Het is één gloeilamp en hij is alweer aan---"
 
-Zandir stapte opzij om een tweede gevallen gloeilamp te tonen. Zijn kinderen waren er als de kippen bij om deze mee te slepen voor hun spelletje. Tibre's geschreeuw om daarmee op te houden deed niks.
+Zandir stapte opzij om een tweede gevallen gloeilamp te tonen. Zijn kinderen waren er als de kippen bij om deze mee te slepen voor hun spelletje. Tibre's luide klappen tegen zijn Echoriem bereikten hen niet.
 
 Hij keek omhoog en zag tot zijn schrik dat _nog_ een gloeilamp omlaag kwam. Deze kwam niet in de buurt van hun grotten en leek langzamer te vallen.
 
@@ -80,7 +82,9 @@ Ondergang? Er was nauwelijks een _bovengang_ geweest op deze barre planeet!
 
 Ze keken weer omhoog. Het licht was veranderd. In plaats van een geel, cirkelvormig bolletje, werd het een andere vorm, en weer een andere, terwijl het paars uitsloeg. Normaal gesproken waren de sterren bijna niet te zien overdag, maar deze stak uit als het pupil van een boze god die hen vanuit de hemel aankeek.
 
-Sneller en sneller stortte het voorwerp neer. Jassia en hij raakten buiten adem. Ze betraden een grot, renden enkele honderden meters door het donker, om ergens anders weer naar boven te komen. Ze stonden nu bijna perfect onder het vallende voorwerp, dat een schaduw over hen wierp.
+Sneller en sneller stortte het voorwerp neer. 
+
+Ze betraden een grot, renden enkele honderden meters door het donker, om ergens anders weer naar boven te komen. Ze stonden nu bijna perfect onder het vallende voorwerp, dat een schaduw over hen wierp.
 
 Het voorwerp ging precies richting die rare grot met de streepjes en de voedselvoorraden.
 
@@ -96,9 +100,9 @@ De grond trilde en gooide Tibre en Jassia allebei naar de grond. Knal na knal ec
 
 En daarna---stilte. Doodse stilte. Een paar vogels die floten alsof er niks was gebeurd.
 
-Ze stapten voorzichtig uit de grot.
+Ze stapten voorzichtig uit de grot. Al het voedsel was verbrand, weggeslingerd, geplet. 
 
-Al het voedsel was verbrand, weggeslingerd, geplet. Tibre barstte in tranen uit en zakte door zijn knieën.
+Tibre barstte in tranen uit en zakte door zijn knieën.
 
 "Ik geef op," mompelde hij. "Ik geef het op. Het is klaar zo."
 

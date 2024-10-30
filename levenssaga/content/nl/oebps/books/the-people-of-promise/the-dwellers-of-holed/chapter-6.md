@@ -34,7 +34,7 @@ Zodra ze bij haar eigen grot kwamen, stond Tibre weer op eigen voeten. Maar goed
 
 Hij leunde naar voren voor een zoen; zij keerde weg.
 
-"Verzamel alles dat een wapen kan zijn," zei ze. Haar beer leek te begrijpen wat ze vroeg en haalde de verzamelde wrakstukken van de schappen.
+"Verzamel alles dat een wapen kan zijn," zei ze. Haar beer haalde de verzamelde wrakstukken van de schappen.
 
 Jassia viel meteen op dat ze compleet verschillend waren.
 
@@ -44,7 +44,7 @@ Waren meerdere ruimteschepen neergestort? Als ze nu in de verte een puntje zagen
 
 Ze klapte haar Echoriem tegen de wrakstukken en luisterde naar het geluid. Ja, de imitatie was ook veel meer _hol_ dan die ander en zou sneller uit elkaar vallen als ze begon te hameren.
 
-Maar hoe vaak ze de voorwerpen ook omdraaide in haar handen, ze kon niet ontdekken hoe ze die lichtflitsen maakten. En als het geen wapen kon zijn, was het té zwaar om al die wrakstukken mee te tillen. Ze plaatste alles weer terug.
+Maar hoe vaak ze de voorwerpen ook omdraaide in haar handen, ze kon niet ontdekken hoe ze die lichtflitsen maakten.
 
 Tibre's kinderen renden naar binnen.
 

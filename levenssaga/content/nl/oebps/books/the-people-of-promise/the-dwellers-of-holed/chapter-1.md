@@ -4,21 +4,21 @@ weight: 1
 ---
 Tibre volgde de kaart getekend op de grotwand en bereikte niks. Ze hadden nu bijna alle cirkels bezocht, maar tenzij ze een fout hadden gemaakt, was er niks te vinden op die plekken. Geen voedsel, geen verscholen dorp, geen magisch voorwerp.
 
-Zijn maag rommelde. Zijn blote lichaam, omringd door niets anders dan een dun dierenvel, leunde uitgeput en verslagen tegen een grote rots. Tot aan de horizon was niet anders dan leegte, gevuld met zeldzame bomen of dieren die over de modder huppelden.
+Zijn maag rammelde. Zijn blote lichaam, omringd door niets anders dan een dun dierenvel, leunde uitgeput en verslagen tegen een grote rots. Tot aan de horizon was niet anders dan leegte, gevuld met zeldzame bomen of dieren die over de modder huppelden.
 
 Lazen ze de kaart misschien ondersteboven? Nee, dat had Jassia ook al geprobeerd, en dat was net zo zinloos. Ze zouden het de tekenaar van de kaart natuurlijk willen vragen, maar niemand wist wie dat was. Het leek onwaarschijnlijk dat er ander intelligent leven bestond op deze planeet, die lang geleden had ingebroken in hun grot en een kaart voor hen getekend.
 
 Tibre wist dat de dag jong was en dat hij voor de avond eten moest vinden. Hun voedselvoorraad was zo goed als op, en het verbaasde hem elke dag opnieuw hoe snel alles werd weggevreten door de kleine groep mensen op deze planeet. De enige groep mensen, voor zover zij wisten. Maar de motivatie om wéér eten te zoeken---_die_ was zeker nergens te vinden.
 
-Het was al middag toen zijn maag zo hard rommelde dat hij bijna dubbelklapte. Hij haalde eindelijk zijn ogen van de grond en liep verder. Maar goed ook, want zonder herinnering van zijn lichaam was hij daar misschien van ellende in slaap gevallen. Dan maar afwijken van de kaart, het onbekende gebied in.
+Het was al middag toen zijn maag zo hard rommelde dat hij bijna dubbelklapte. Hij haalde eindelijk zijn ogen van de grond en liep verder. Dan maar afwijken van de kaart, het onbekende gebied in.
 
 Zijn blote voeten sleepten over keien en scherpe takjes, maar daar kon hij inmiddels tegen. In de verte hoorde hij zijn eigen kinderen rennen en spelletjes spelen. Hij had niet eens de energie om te zeggen dat ze moesten ophouden en moesten helpen met eten verzamelen. Vooral omdat ze blijdschap toonden die hij zelf niet meer voelde, en daarvan wilde hij elk moment meemaken.
 
-Toen de zon al in zijn rug stond, vond Tibre een grot. Een onaangeraakte grot, zo dacht hij, totdat hij de eerste stap naar binnen zette. 
+Toen de zon al in zijn rug stond, vond Tibre een grot. Een onaangeraakte grot, zo dacht hij, totdat hij de eerste stap naar binnen zette. Hij voelde rond zijn heupen: zijn vertrouwde Echoriem was er nog. Als hij gevaar tegenkwam zou hij tegen het metaal slaan om herrie te maken.
 
-Al binnen enkele meters hield al het buitenlicht op en stond hij in diep duister. Hij gaf de hemel een laatste blik: had hij maar één van die sterren om licht bij te schijnen. Zelfs midden in de nacht, was de hemel rondom deze planeet zó fel dat het soms wel dag leek en zijn stamleden niet konden slapen. Soms grapten ze dat er meer sterren hun planeet bespioneerden dan dat er bomen groeiden.
+Al binnen enkele meters hield al het buitenlicht op en stond hij in diep duister. Hij gaf de hemel een laatste blik: had hij maar één van die sterren om licht bij te schijnen. Zelfs midden in de nacht, was de hemel rondom deze planeet zó fel dat het soms wel dag leek. Soms grapten ze dat er meer sterren hun planeet bespioneerden dan dat er bomen groeiden.
 
-Maar een grot konden ze vooralsnog niet bespioneren. Dus hij legde zijn ruwe handen op de muren om te _voelen_ waar het heen ging.
+Hij legde zijn ruwe handen op de muren om te _voelen_ waar het heen ging.
 
 En hij voelde een streep. Zijn nagel ging heen en weer, boven naar beneden, totdat hij zeker was: dit is een bijna perfecte verticale streep. Die moet met intentie in de grot zijn gekrast.
 
@@ -56,7 +56,7 @@ Het was de gewoonte dat Tibre dan een verhaal vertelde. De persoon die het feest
 
 Maar hij deed het toch. Hij wist hoe zeer zijn kinderen hiervan genoten, en het was een van de weinige dingen waarvan hij zelf nog genoot.
 
-Hij stapte naar het kampvuur en trok zijn dierenhuid recht. Een kampvuur dat alleen bestond om het eten op te warmen, want de lichtjes waren vannacht vel genoeg van zichzelf. 
+Hij rammelde zijn Echoriem om de aandacht te trekken. Terwijl hij zijn dierenhuid rechttrok, stapte hij naar het kampvuur. Eentje die alleen bestond om het eten op te warmen, want de lichtjes waren vannacht vel genoeg van zichzelf. 
 
 "Kijk naar de hemel," zei hij, zijn vinger omhoog wijzend. "Wij noemen het sterren, maar dat zijn het natuurlijk niet. Nee nee, het zijn _gloeilampen_."
 
@@ -74,7 +74,7 @@ De gewoonlijke "oohs" en "aahs" stegen op. Alle kinderen omcirkelden hem en keke
 
 "Het zijn sprookjes," mompelde Piponre. "Ik heb meer dan genoeg van die gloeilampen zien uitgaan in mijn leven."
 
-"Maar nee," zei Tribe met een grote glimlach, terwijl hij weer een poging deed om alle lichtjes aan te wijzen. "Dat waren dus sterren. Die doven, die gaan uit. Maar deze gloeilampen---"
+"Maar nee," zei Tibre met een grote glimlach. "Dat waren dus sterren. Die doven, die gaan uit. Maar deze gloeilampen---"
 
 "Hoe kan iets eindeloos aanstaan?" vroeg Piponre.
 
@@ -92,7 +92,11 @@ Piprone zuchtte luid en stond op. "Maar wat _is_ een gloeilamp?"
 
 "Kooom ooop Piponre," zeurde een meisje. "Verpest het verhaal nou niet."
 
-"Ze heeft gelijk," zei Jassia, die nu pas terugkeerde van haar onderzoek naar de rare doos van het voedsel. Ze schudde haar hoofd naar Tibre; zij had dus ook geen idee wat het was. Dat getal, 728, zei haar ook niks. "Het was een prachtige dag waarin we enorm veel eten hebben gevonden. Laat Tibre een sprookje vertellen."
+"Ze heeft gelijk," zei Jassia, die nu pas terugkeerde van haar onderzoek naar de rare doos van het voedsel. Ze schudde haar hoofd naar Tibre; zij had dus ook geen idee wat het was. Dat getal, 728, zei haar ook niks. 
+
+Jassia was de enige holbewoner met een _huisdier_. Het volgde haar overal. Het zat nu op haar schoot en luisterde naar het gesprek, knikkend alsof die het begreep.
+
+"Het was een prachtige dag waarin we enorm veel eten hebben gevonden," zei ze. "Laat Tibre een sprookje vertellen."
 
 Tibre dacht dat er weinig sprookjesachtig aan hun leven was, maar hij ging toch door.
 

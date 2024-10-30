@@ -2,9 +2,9 @@
 title: Hol Eindigt Opnieuw
 weight: 9
 ---
-Onderweg naar de streepjesgrot kwamen ze de wolf tegen. Hij leek te schrikken, hoewel ze zijn lichaamstaal slecht konden lezen. De indringer leek nog altijd verward, zwaargewond en niet helemaal helder na het neerstorten.
+Onderweg naar de streepjesgrot kwamen ze de wolf tegen. Hij leek te schrikken, hoewel ze zijn lichaamstaal slecht konden lezen. De indringer leek nog altijd verward en zwaargewond.
 
-De wolf blafte dat ze moesten opschieten met alle gloeilampen. Ook keek hij boos en gromde naar Jassia's beer, die nog altijd de gloeilamp vasthield die niet uit wilde gaan. Daarna liep de wolf verder, een zak eten tussen zijn tanden, in de richting van hun grotten.
+De wolf blafte dat ze moesten opschieten met alle gloeilampen. Ook gromde hij naar Jassia's beer, die nog altijd de gloeilamp vasthield die niet uit wilde gaan. Daarna liep de wolf verder, een zak eten tussen zijn tanden, in de richting van hun grotten.
 
 Tibre legde zichzelf pas uit toen ze buiten adem bij de streepjesgrot kwamen.
 
@@ -76,9 +76,7 @@ Tibre en de beer bleven nog even staan in de grot, kijkend naar de geturfde stre
 
 "Waarom dan een kaart van het heelal tekenen?" mompelde hij. "Waarom streepjes zetten in je laatste uren of dagen voordat je sterft?"
 
-De beer tikte tegen zijn knie, de gloeilamp met zijn andere hand tegen zijn buik gedrukt.
-
-Met tranen in zijn ogen, en enige vertwijfeling, zette hij bewust de gloeilamp uit.
+De beer tikte tegen zijn knie. Met tranen in zijn ogen, en enige vertwijfeling, zette hij bewust de gloeilamp uit.
 
 Een herinnering speelde af, opnieuw en opnieuw. Ruimteschip stijgt op, ruimteschip landt ergens anders, iemand krast een streepje. En dan weer opnieuw.
 

@@ -8,11 +8,11 @@ Ze vervloekte Tibre en zijn luiheid, en zijn opgeven, en zijn negativiteit, en _
 
 Zandir was gelukkig wel meegegaan, net zoals Piponre en natuurlijk haar beer. Ze stonden al bovenop de steeds gladdere rotsen en trokken haar omhoog aan haar armen. 
 
-Deze planeet was niets dan rotsen en modder. Maar de herinneringen in de gloeilampen lieten genoeg plekken zien die anders waren, dus Jassia droomde maar dat ze daar ooit in hun eigen ruimteschip naartoe zouden vliegen.
+Deze planeet was niets dan rotsen en modder. Maar de herinneringen in de gloeilampen lieten genoeg plekken zien die anders waren. Jassia droomde maar dat ze daar ooit in hun eigen ruimteschip naartoe zouden vliegen.
 
 Tot die tijd moesten ze razendsnel eten vinden.
 
-De wolken boven hen trokken samen, van lichtgrijs naar donkergrijs. Hun dierenhuiden waren volledig doorweekt en Jassia moest haar lange haren vastbinden om te voorkomen dat ze keer op keer haar zicht ontnamen. Weer zoiets. Waarom was het altijd al de regel dat vrouwen lange haren hadden en mannen niet? Zeker weer bedacht door al hun ouders, voordat ze besloten te verdwijnen.
+De wolken trokken samen, van lichtgrijs naar donkergrijs. Hun dierenhuiden waren volledig doorweekt en Jassia moest haar lange haren vastbinden om te voorkomen dat ze keer op keer haar zicht ontnamen. Weer zoiets. Waarom was het altijd al de regel dat vrouwen lange haren hadden en mannen niet? Zeker weer bedacht door al hun ouders, voordat ze besloten te verdwijnen.
 
 Bij de volgende stap gleed ze uit over een diepe plas.
 
@@ -80,7 +80,7 @@ De achterkant van het rotsblok was eraf geschoten en vervangen door een diepzwar
 
 Ze zagen een lichtflits---maar het onweerde helemaal niet.
 
-Jassia trilde, maar niet meer van de regen. Ze fluisterde: "Er loopt hier een of andere buitenaards wezen rond die ons _dood_ wil. En ze hebben zo'n lichtwapen, ik weet het zeker, ik weet het zeker."
+Jassia trilde en fluisterde: "Er loopt hier een of andere buitenaards wezen rond die ons _dood_ wil. En ze hebben zo'n lichtwapen, ik weet het zeker, ik weet het zeker."
 
 Piponre opende zijn mond, vast om te vertellen dat ze rustig aan moest doen of spoken zag. Toen sloot hij hem weer en kwam beschermend voor haar staan.
 
@@ -92,9 +92,9 @@ Iets prikte in haar rug. Ze draaide razendsnel om---het was haar beer. Die had d
 
 "Wat doe je in hemelsnaam!?" siste Piponre. Hij had in reflex de Echoriem getrokken en stak hem vooruit, zoals velen van hen deden, maar ze wisten niet waarom ze probeerden een muziekinstrument als wapen te gebruiken. Het ging ook niet helpen.
 
-Complete duisternis omarmde hen. Dat had het andere wezen waarschijnlijk niet verwacht, want Jassia nog net een klein lichtje in de verte zien voordat deze óók werd uitgezet.
+Complete duisternis omarmde hen. Dat had het andere wezen waarschijnlijk niet verwacht. Want Jassia zag nog net een klein lichtje in de verte voordat deze óók werd uitgezet.
 
-Ze schudde haar hoofd, deed de lamp weer aan, en gooide hem in Piponre's armen.
+Ze deed de lamp weer aan en gooide hem in Piponre's armen.
 
 "Rennen!"
 

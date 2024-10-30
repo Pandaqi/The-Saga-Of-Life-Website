@@ -36,7 +36,7 @@ Tibre vond zijn andere kinderen inderdaad bij Jassia. Ze sprak met een grote gli
 
 "Ik ben samen met Piponre teruggegaan naar die streepjesgrot en heb de gloeilamp weer meegenomen. Als je ze uitzet, en even wacht, beginnen die herinneringen te spelen!"
 
-En inderdaad, ze stapte weg en toonde de herinnering binnenin deze lamp.
+Ze stapte weg en toonde de herinnering binnenin deze lamp.
 
 Niet één ruimteschip, niet twee, maar _honderden_. Ze raasden langs elkaar als vuurvogels die dansten, afgewisseld met grijze rook en gekleurde lichtflitsen. Soms raakte een lichtflits een andere vogel, en dan stortte het voertuig neer. En dat alles in akelige stilte.
 

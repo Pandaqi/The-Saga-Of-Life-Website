@@ -1,125 +1,125 @@
 ---
-title: Vervloekte Schat van Hol
+title: Cursed Treasure of Holed
 weight: 6
 ---
-Toen Jassia tegen zijn grotopening tikte, zei Tibre dat ze weg moest gaan. Zijn stem was verzwakt, zijn lichaam in protest tegen het gebrek aan eten. 
+Jassia tapped against the cave entrance. Tibre told her to _go away_. His voice was weak, his body protesting against the lack of food.
 
-Toen Jassia alsnog binnenliep en bleek zag als een lijk, wist hij hoe laat het was.
+When Jassia entered anyway and looked white as a ghost, he already felt what she was about to say.
 
-"Zandir is overleden," zei ze zachtjes. Daarna harder: "En Piponre, _jouw zoon_, is ontvoerd!"
+"Zandir has died," she said softly. Then louder: "And Piponre, _your son_, has been abducted!"
 
-Zie je wel? De natuur was tegen hen. Alles ging altijd mis, iedereen ging veel te vroeg dood, wat had het allemaal voor zin? En nu was zijn zoon weg vanwege een mysterieuze indringer. Hij zou nu dagenlang naar hem kunnen zoeken, niks vinden, en dan waren vast zijn andere kinderen óók ontvoerd.
+You see? Nature was against him. Everything always went wrong, everyone died too soon, what did all of it matter? And now his son was gone because of a mysterious visitor. He would search for him for days now, find nothing, and, probably, return to hear his other children have _also_ been kidnapped.
 
-"Hallo? Hoor je me wel?" Jassia schudde Tibre door elkaar. Ze duwde zijn grote, logge lijf van het stenen bed, maar zelfs de klap tegen de grond kreeg geen reactie uit hem.
+"Hello? Are you _hearing_ me?" Jassia shook Tibre. She pushed his large, bulky body off the stone bed. Even hitting the ground face first did not make him react.
 
-"Piponre heeft heel duidelijk gemaakt dat hij niks meer geeft om zijn familie," mompelde Tibre.
+"Piponre made it _very clear_ that he doesn't care about his family anymore," mumbled Tibre.
 
-"Misschien geef _jij_ niks meer om alles. Ik geef wél heel veel om hem!"
+"Maybe _you_ don't care about anything. But I do care about him, a lot!"
 
-"Wanneer zijn jullie stiekem vriendjes geworden? Dacht dat jullie elkaar haatten."
+"When ... when did you two become friends? Thought you hated each other."
 
- Haar wangen kleurden rood. "Eh, de hele stam, natuurlijk. Die geven allemaal veel om hem."
+Her cheeks turned red. "Erm, all the Dwellers, of course. We all care."
 
-"Nou, dan mogen jullie allemaal zoeken."
+"Well, then you can all search."
 
-Jassia schopte stenen door de grot. "Elke seconde vertraging is verspilde tijd. Jij bent nu de _oudste_ en de _sterkste_, Tibre. Ik ga niet alleen op zoek in het donker, en ook niet met hulp van tienjarigen. Ik heb _jou_ nodig."
+Jassia kicked a rock through the cave. "Every second of delay is wasted time. You are the _oldest_ and the _strongest_ now, Tibre. I am not going to search for Piponre in the dark, nor with the aid of a few toddlers. I need _you_."
 
-"We hebben allemaal dingen nodig---"
+"We all need things---"
 
-Jassia hurkte en zette haar schouders onder Tibre's oksels. Daarna maakte ze haarzelf lang, kreunend en grommend, totdat ze zijn zware lijf kon meeslepen. Hij liet het in eerste instantie gebeuren, maar het geschraap over de grond deed hem te veel pijn, dus hij begon toch maar te lopen. Tergend langzaam, maar het was iets.
+Jassia crouched and put her shoulders underneath Tibre's armpits. Then she straightened her back, grunting and puffing, until she could carry his heavy body. He let it happen, at first, but his feet scraping against the floor hurt too much, so he decided to walk. Excruciatingly slowly, but at least he walked.
 
-Zodra ze bij haar eigen grot kwamen, stond Tibre weer op eigen voeten. Maar goed ook, want Jassia had niet genoeg gegeten hiervoor. Ze struikelde direct in de armen van haar man, die haar bezorgd aankeek. 
+When they reached her cave, Tibre seemed completely woken up. A good thing too. Jassia hadn't eaten nearly enough for such exercise. She stumbled into her husband's arms, who gave her a worried stare.
 
-"Lieverd, laat Tibre dit doen, of mij en Borrick, maar doe rustig aan."
+"Dear, dear, let Tibre and me do this. Or Borrick and me. Please, rest."
 
-Hij leunde naar voren voor een zoen; zij keerde weg.
+He leaned forward for a kiss; she turned away.
 
-"Verzamel alles dat een wapen kan zijn," zei ze. Haar beer leek te begrijpen wat ze vroeg en haalde de verzamelde wrakstukken van de schappen.
+"Gather everything that could be a weapon," she said. Her bear quickly took all the collected pieces of wreckage off the shelves.
 
-Jassia viel meteen op dat ze compleet verschillend waren.
+Jassia instantly noticed they were all _different_.
 
-Hoe had ze dat niet eerder gezien? Het was donker, ze was in paniek, ze had nog geen tijd gehad om ze goed te bestuderen. Maar het ene wrakstuk, dat ze had gevonden op de plek waar het ruimteschip was neergestort, had een hele andere kleur, ander materiaal, andere schilderingen, en zelfs andere draadjes. De andere wrakstukken leken primitiever, alsof iemand een ruimteschip had _nagebootst_ met mindere middelen.
+How had she missed that? It was dark, sure, she was in a panic, she hadn't had time to properly study it. But one piece, which they found where the spaceship landed, had _completely_ different colors, material, symbols, and wires. The other pieces seemed more primitive, as if someone had _imitated_ a spaceship with lesser materials.
 
-Waren meerdere ruimteschepen neergestort? Als ze nu in de verte een puntje zagen neerdalen, gingen ze ervan uit dat het een gloeilamp was, maar misschien was dat niet zo.
+Had multiple spaceships crashed? Whenever they saw a dot in the distance, they now assumed it was another lightbulb. But what if that wasn't the case?
 
-Ze klapte haar Echoriem tegen de wrakstukken en luisterde naar het geluid. Ja, de imitatie was ook veel meer _hol_ dan die ander en zou sneller uit elkaar vallen als ze begon te hameren.
+She hit her Echobelt against the pieces and listened intently. Yes, the imitation pieces also sounded far more _hollow_ than the others. They'd fall apart more quickly if she were to apply her hammer. Could these objects be weapons too? How did they make those flashes?
 
-Maar hoe vaak ze de voorwerpen ook omdraaide in haar handen, ze kon niet ontdekken hoe ze die lichtflitsen maakten. En als het geen wapen kon zijn, was het té zwaar om al die wrakstukken mee te tillen. Ze plaatste alles weer terug.
+Tibre's children ran into the cave.
 
-Tibre's kinderen renden naar binnen.
+"Dad! Did you stop giving up?" his youngest daughter asked.
 
-"Pap! Heb je het weer on-opgegeven?" riep zijn jongste dochter blij.
+"So ... _giving down_?" his other son said with a frown.
 
-"Dus ... _gegeven_? Ondergegeven?" zei zijn andere zoon.
+He took them both in his muscular arms and kissed their cheeks. He couldn't deny that these simple actions still gave him some joy and purpose, even though his mind didn't want to hear it anymore.
 
-Hij nam ze allebei in zijn grote gespierde armen en gaf ze meerdere zoenen op de wang. Hij kon niet ontkennen dat deze simpele handelingen hem blij maakten en zin gaven, ook al probeerde zijn hoofd dat wel.
+Piponre remained his son. Family was everything. Helping his children and seeing them grow old ... leaving behind a strong and kind being when you die ... wasn't that a useful purpose? He repeated it to himself until he found _some_ energy. Some tension and excitement, and the desire to run to Piponre and save him.
 
-Piponre bleef zijn zoon. Familie was alles. Zijn kinderen helpen en groot zien worden, een aardig en sterk levend wezen achterlaten als je zelf sterft, was dát geen zinvol doel? Hij herhaalde het maar tegen zichzelf totdat hij iets van energie voelde, iets van spanning en de wil om naar Piponre toe te rennen en hem in zijn armen te sluiten.
+"Hey, hey, puckles," he told his children. "Go to the cave and stay inside until it's safe. We're going to save your brother."
 
-"Beste rakkers, ga naar je grot en blijf binnen totdat het veilig is. Wij gaan jullie oudste broer redden."
+"_Safe_!? What is---"
 
-"_Veilig_!? Wat is---"
+"When you see flashes of light, hide," said Jassia. She turned to her husband. "He'll look after you, won't you dear?"
 
-"Als je lichtflitsen ziet, verstop je," zei Jassia gehaast. Ze keerde naar haar man. "Hij zal op jullie letten, toch lieverd?"
+Her husband sighed. "Yes, sure, whatever you want."
 
-Haar man zuchtte. "Ja, ja, alles wat jij wilt."
+They left the cave. They followed the path that Jassia had run yesterday, but in reverse.
 
-Ze verlieten de grot en volgden het pad dat Jassia eerder had gerend, maar dan in omgekeerde richting. 
+The lightbulb hadn't moved. It had been turned off long enough now to play the memory inside. They both stood still and watched.
 
-De gloeilamp was niet verplaatst. Hij was lang genoeg uit dat de herinnering al speelde. Alsof het afgesproken was, bleven ze allebei stilstaan en kijken.
+The drawings showed a large room filled with lights. And more squares that seemed to play memories too! These memories, though, were interactive: the humans could push buttons, or say things, and the memories in the squares would change.
 
-Een grote ruimte vol lichtjes, en vierkante blokken die ook herinneringen leken af te spelen. Maar deze herinneringen waren interactief: ze konden op knopjes drukken, of dingen zeggen, en ze veranderden.
+"We found the reason," said a female face, which was displayed on the largest of the flat squares. "We're beaten in every space battle because our opponents can travel _with the speed of light_."
 
-"We hebben de reden ontdekt," zei een menselijk vrouwengezicht op de grootste platte rechthoek. "We worden keer op keer verslagen in elk ruimtegevecht omdat de tegenstanders kunnen reizen _met de snelheid van het licht_."
+"Impossible!" exclaimed multiple scientists. They nearly dropped the books, papers and measurement devices they were carrying through the room.
 
-"Onmogelijk!" zeiden meerdere wetenschappers meteen, die met boeken, papieren en meetinstrumenten rondliepen door de kamer.
+"It's possible. The calculations work out. Eye witnesses all confirm it. There is some particle or device, that much is unclear, that makes their spaceships fly a hundred times faster than ours. We'll never defeat _that_."
 
-"Het is mogelijk. De berekeningen kloppen, de ooggetuigen zijn het allemaal met elkaar eens. Er is een stofje of apparaat, dat is onduidelijk, dat hun ruimteschepen honderd keer sneller laat vliegen dan de onze. Daarvan winnen we nooit."
+A man in a tight, shiny uniform paced through the room. "What do you propose?"
 
-Een man in strak, glanzend uniform ijsbeerde door de kamer. "Dus wat stel je voor?"
+"Give up, commander," said the woman curtly.
 
-"Geef op, commandant," zei de vrouw kortaf.
+The man pulled a button off of his uniform. "Did I hear that right? No, I must have misheard. Nobody would betray their own army like that. _What did you say?_"
 
-De man trok een knoop van zijn uniform in verbazing. "Heb ik dat goed gehoord? Nee, dat kan niet. Niemand zou diens eigen leger zo verraden. _Wat zei je?_"
+The woman rolled her eyes and left. The square shut itself down; only a dark grey emptiness stared back at them.
 
-De vrouw rolde haar ogen en vertrok. Het vierkant sloot zichzelf af; alleen een donkergrijze leegte keek hen nog aan.
+The man turned to the others in the room. They awaited his decision with baited breath.
 
-De man in uniform keerde naar de anderen in de kamer, die met ingehouden adem wachtten op wat ging komen.
+"We will discover the reason behind their speed. And we'll steal it for ourselves! _We do not give up! CAJARA does not give up!_"
 
-"We vinden de oorsprong van hun snelheid. En we stelen het voor onszelf! _Wij geven niet op! CAJARA geeft niet op!_"
+The memory sped forward, to the next conversation between this commander and the sullen woman. Apparently, she was allowed to keep her job, though that did not make her happy.
 
-De herinnering spoelde door naar een volgend gesprek tussen de commandant en de norse vrouw. Ze had haar baan blijkbaar mogen houden, maar daar leek ze niet al te blij mee.
+"We found the source," she said.
 
-"We hebben de oorsprong gevonden," zei ze. 
+Her face only covered a _part_ of the rectangle now. The other parts were filled with rotating, detailed drawings of an entire planet.
 
-Haar gezicht besloeg slechts een deel van het vierkant, want het andere deel werd opgevuld door een ronddraaiende gedetailleerde weergave van een planeet.
+"The power to travel with the speed of light has its origin on this planet: _Holed_. The army is ready, commander," she said reluctantly. "At your command, we attack _Holed_ and conquer it."
 
-"De kracht om met de snelheid van het licht te reizen, komt van deze planeet: _Hol_. Het leger staat klaar, commandant," zei ze met tegenzin. "Op uw commando vallen we _Hol_ aan en pakken het af."
+"We must be merciless," he grunted. "If they have the secret to interstellar travel, they must have more advanced weapons. Everyone is deployed. Everyone fights a 120%."
 
-"We moeten genadeloos zijn," bromde hij. "Als ze dat kunnen, hebben ze vast meer technische snufjes. Iedereen wordt ingezet, en iedereen vecht 120%."
+"We have traded and bartered for this information, commander," said the woman. "With another intergalactic species. They might attack too, soon. What am I saying, we might be walking into a space battle with ten enemies if we're not---"
 
-"We hebben deze informatie verhandeld met een andere diersoort in de ruimte," zei de vrouw. "Het kan zijn dat ze ook zullen aanvallen. Wat zeg ik, het kan zijn dat we met open ogen in een ruimtegevecht met tientallen legers lopen."
+"Fine," said the commander without hesitation. "Humans have never lost a space battle before."
 
-"Prima," zei de commandant zonder enige twijfel. "Mensen hebben nog nooit een ruimtegevecht verloren."
+The memory advanced a final time. The space battle was on its way and looked similar to the battle they saw in an earlier memory. But it _wasn't_ the same. The planets that formed the stage for this battle were different. Tibre didn't understand: the Great Map in their cave proved that a galaxy stayed the same over time.
 
-De herinnering spoelde een laatste keer door. Het gevecht was in volle gang en leek verdraaid veel op het ruimtegevecht dat ze in een eerdere herinnering hadden gezien. Maar het was niet hetzelfde, want de planeten waar ze omheen draaiden waren anders. Dat begreep Tibre niet: de Grote Kaart in hun grot bewees dat een zonnestelsel over tijd hetzelfde bleef.
+And then Holed was turned into a black wilderness.
 
-En toen was Hol veranderd in een zwarte wildernis.
+The planet wasn't that large to begin with. Now the fight had taken large bites out of the surface, and burned or crushed the other parts. If beings lived on Holed before, they had surely perished now. If the planet indeed contained the "secret" they wanted, _somebody_ had stolen it now.
 
-De planeet was al niet groot. Nu had het gevecht flinke happen uit de oppervlakte genomen, en de rest verbrand, verschroeid of platgestampt. Als er eerst wezens leefden, waren ze nu zeker omgekomen. Als de planeet inderdaad bevatte wat ze zochten, had _iemand_ dat meegenomen.
+Until a voice over a radio spoke the feared message: "We couldn't discover the secret power. As far as we can tell, nobody else found it, because all ships in this fight flew at normal speed. I conclude: it was not a power of the planet, but of the beings that lived here."
 
-Totdat over de radio het gevreesde bericht kwam: "We hebben de kracht niet ontdekt. Maar zover we weten heeft niemand anders het gevonden, want alle schepen in dit gevecht vlogen op normale snelheid. Ik trek maar één conclusie: het is geen kracht van de planeet, maar van de wezens die er woonden."
+The commander's face darkened, as he smashed his control panel to pieces. "The same beings who are all _dead_ now?"
 
-Het gezicht van de commandant verduisterde, terwijl hij zijn controlepaneel in elkaar ramde. "De wezens die nu _dood_ zijn, bedoel je?"
+"No. Some fled. We don't know where, _because they fly much faster than our radars can track_."
 
-"Nee. Een deel wist te vluchten. We weten alleen niet waarheen, _want ze vliegen dus honderdmaal sneller dan onze radars aankunnen_."
+The memory stopped. Tibre and Jassia both trawled through their memories.
 
-De herinnering hield op. Tibre en Jassia keken elkaar aan, terwijl ze allebei in hun geheugen groeven.
+"No," said Jassia. "Holed was not on the Great Map in our cave. Whoever drew that map called our own planet _Marmir_. And we aren't even close to any of this!"
 
-"Nee," zei Jassia als eerste. "Hol stond niet op de Grote Kaart in de grot. Wie de kaart ook tekende, ze noemden onze planeet Marmir, en we zijn niet eens in de buurt van dit alles."
+Great. Another memory that was useless to them. Things just got better and better, Tibre thought cynically.
 
-Dus ze konden niks met die herinnering. Het werd beter en beter, dacht Tibre cynisch.
+Then they noticed two fresh footprints. One of them curved away from the lightbulb, with large steps and a consistent pace---the intruder. The other trail was one deep line in the dirt---Piponre who was dragged along.
 
-Toen zagen ze twee verse sporen met voetstappen. Eén daarvan liep weg van de gloeilamp, met grote passen en een consistent tempo---de indringer. Het andere spoor was één lange streep in de modder---Piponre die werd meegesleept.
+Her bear had noticed this long ago. He seemed completely uninterested in the magical memories, never stopping to watch them. 
 
-Ze renden erachteraan, met haar beer voorop.
+Her pet already followed Piponre's trail. They ran after him.

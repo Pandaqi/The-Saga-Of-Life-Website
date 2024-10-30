@@ -10,7 +10,13 @@ Wat haar de kriebels gaf, echter, waren de standbeelden die ze voor de mensen ma
 
 Ook deze keer stond ze aan het eind van het ritueel oog in oog met haarzelf. Een hele kudde konijnen en bevers had samengewerkt om Jassia's gelijkenis uit te drukken in hout en stenen. En een paar wortels.
 
-"Dat, eh, dankjewel," zei ze. Ze gaf een konijn een aai over de bol, voordat ze zich kon inhouden. Alle anderen keken meteen naar het dier alsof ze gezegend was door een goddelijke aanraking. Enkele holbewoners hadden een hond als huisdier---ook zo'n rare regel waarvan ze de oorsprong niet kenden---maar ze wist niet waarom ze de gewoonte had om andere dieren te _aaien_. Je aaide je voedsel toch niet? Maar toch deed ze het per ongeluk steeds opnieuw.
+"Dat, eh, dankjewel," zei ze. 
+
+Ze gaf een konijn een aai over de bol, voordat ze zich kon inhouden. Alle anderen keken meteen naar het dier alsof ze gezegend was door een goddelijke aanraking. 
+
+Enkele holbewoners beweerden dat je vroeger verplicht een hond als huisdier moest houden---ook zo'n rare regel waarvan ze de oorsprong niet kenden. Dat legde niet helemaal uit waarom ze de gewoonte had om andere dieren te _aaien_. 
+
+Je aaide je voedsel toch niet? Toch deed ze het per ongeluk steeds opnieuw.
 
 Aan de andere kant, je voedsel maakte ook doorgaans geen standbeelden voor jou.
 
@@ -20,7 +26,7 @@ Eindelijk. Nu kon ze weer de gloeilampen onderzoeken. Wonderlijke dingen! Als ze
 
 Maar zoals moeder zei: _met kijken bereik je niks, ga uitvinden!_ Dus met rommelende maag haalde ze de tweede gloeilamp uit elkaar. Tibre was niet meer uit bed gekomen vandaag, dus ze stond er alleen voor.
 
-Ze leerde niks nieuws. De lamp viel uit zodra teveel onderdelen waren vernield. En, tja, toen had ze een duistere kamer met een voorwerp dat niks deed.
+Ze leerde niks nieuws. De lamp viel uit zodra teveel onderdelen waren vernield. En, tja, toen had ze een duistere kamer met een voorwerp dat niks deed. En een beer die jongleerde met de onderdelen.
 
 Ze had meer onderdelen nodig. Vergelijkingsmateriaal! Zoals moeder zei: _ga data verzamelen_. Het duurde haar hele jeugd voordat ze realiseerde dat moeder het niet had over het meervoud van datum, maar over _informatie_. Sindsdien had ze véél meer uitgevonden!
 
@@ -66,21 +72,17 @@ Uiteindelijk liep ze alleen richting de streepjesgrot, terwijl de nacht viel. Ze
 
 Leunend tegen de zijkant van de grot, vond ze een eerste wrakstuk. Een verbogen plaat. Het leek gemaakt van datzelfde _metaal_ als Zandirs speer. Er waren symbolen op getekend in kleurrijke verf, maar die kon ze niet lezen.
 
-Ze stapte de streepjesgrot in. De kans was klein, maar misschien waren veel wrakstukken uiteindelijk _in_ de grot gekomen. Dat vertelde ze haarzelf, tenminste. Ze wilde eigenlijk gewoon zelf de streepjes natellen en meer onderzoek doen, geholpen door de felle gloeilamp. Data verzamelen!
+Ze stapte de streepjesgrot in. De kans was klein, maar misschien waren veel wrakstukken uiteindelijk _in_ de grot gekomen. Dat vertelde ze haarzelf, tenminste. Ze wilde eigenlijk gewoon zelf de streepjes natellen en meer onderzoek doen. Data verzamelen!
 
 Maar Tibre had, wonder boven wonder, het juiste aantal geteld. 728. Waarvoor kon het staan? Aantal dagen in een jaar? Aantal planeten om hen heen? En waarom zouden hun voorouders, of een beschaving voor hen, dit willen communiceren?
 
-Ze stapte verder en struikelde over een zwaar voorwerp. Haar hoofd belandde in as, dat kon ze zien dankzij de gloeilamp die naast haar stuiterde. Ze greep het voorwerp vlak voordat het dieper de grot in rolde.
-
-Het was ... wat was het? Het was _zwaar_ en groeide weer draadjes alsof het een baard had. 
-
-Dit was alles dat ze kon tillen, zeker met de gloeilamp erbij, dus ze---
+Ze stapte verder en struikelde over een zwaar voorwerp. Haar hoofd landde in as; de gloeilamp versplinterde nog meer. Ze reikte naar het voorwerp, dat over de helling omlaag rolde, maar was niet in staat---
 
 Pootafdrukken. Ze stonden diep in de as en leidden terug naar de plek waar het ruimteschip was neergestort. 
 
 Ruimteschip. Varen door ruimte. Het _klonk_ als een sprookje, maar wat als het _echt_ was en dan---focus, Jassia, focus.
 
-De afdrukken waren te groot voor haar voeten. Tibre had ze praktisch terug naar huis moeten _slepen_. En ze stonden verkeerd om? Nee, wacht, dat betekende dat ze _begonnen_ vanuit het ruimteschip en---
+De afdrukken waren te groot voor haar voeten. Tibre had ze praktisch terug naar huis moeten _slepen_ de vorige keer, dus die had geen afdrukken achtergelaten. En ze stonden verkeerd om? Nee, wacht, dat betekende dat ze _begonnen_ vanuit het ruimteschip en---
 
 Kippenvel trok door haar hele lichaam. Piponre, Tibre, Zandir, ze had _iemand_ mee moeten nemen vannacht! Dom! 
 
@@ -90,7 +92,7 @@ De hele tocht naar huis keek ze over haar schouder, maar niks of niemand volgde 
 
 Tibre zat naast de gloeilamp en keek gebiologeerd naar diens binnenste. Want binnen de gloeilamp stonden plaatjes. Niet zomaar plaatjes, nee, _bewegende_ plaatjes.
 
-Toen Jassia buiten adem naast hem stond, zag ze dat de plaatjes bij elkaar pasten. Terwijl ze werden afgespeeld, leek het alsof mensen rondliepen _in_ de gloeilamp. Alsof zij, als goden, toekeken naar een wereld binnenin. Maar als je jouw hand erin stak, voelde je alleen lege ruimte---het waren echt bewegende tekeningen en niets meer.
+Jassia zag dat de plaatjes bij elkaar pasten. Terwijl ze werden afgespeeld, leek het alsof mensen rondliepen _in_ de gloeilamp. Alsof zij, als goden, toekeken naar een wereld binnenin. Maar als je jouw hand erin stak, voelde je alleen lege ruimte---het waren echt bewegende tekeningen en niets meer.
 
 Er was zelfs geluid. Jassia en Tibre keken allebei in het rond, op zoek naar wie het sprak, om pas laat te ontdekken dat ook dit op magische wijze uit de gloeilamp kwam.
 
@@ -120,6 +122,8 @@ Tibre schopte de gloeilamp door de kamer. Het apparaat ging weer _aan_; de herin
 
 "Net zoals je gisteren opgaf en nu weer naast me staat?" vroeg Jassia met een glimlach.
 
-Hij reageerde niet en liep weg. Jassia pakte de gloeilamp voorzichtig op om de herinnering opnieuw, en opnieuw, en opnieuw af te spelen. Wat een magische wereld. Wat een magische mensen.
+Hij liep weg. 
+
+Jassia pakte de gloeilamp voorzichtig op om de herinnering opnieuw, en opnieuw, en opnieuw af te spelen. Wat een magische wereld. Wat een magische mensen.
 
 Ze hoopte dat snel meer gloeilampen omlaag stortten. En dat ze die voetafdrukken vanuit het ruimteschip slechts had verbeeld.

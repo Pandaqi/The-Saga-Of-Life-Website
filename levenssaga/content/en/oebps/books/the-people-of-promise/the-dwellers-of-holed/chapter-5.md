@@ -1,117 +1,135 @@
 ---
-title: Missende Onderdelen
+title: Missing Pieces
 weight: 5
 ---
-Jassia plaatste haar hand bovenop het rotsblok en trok haarzelf omhoog, toen de eerste dikke regendruppels vielen. Honger had haar ver weg van huis gedreven. Naar een nieuw onbekend gebied, ook al waren de wolken 's ochtends al grijs. Honger en nieuwsgierigheid, want hier was nog een gloeilamp gevallen.
+Jassia had just pulled herself onto a tall rock when the first raindrops fell. Hunger had driven her far from home. To another unexplored territory, even though she noticed the clouds were gray in the morning. Hunger and curiosity, for she noticed another lightbulb had fallen down here.
 
-Ze vervloekte Tibre en zijn luiheid, en zijn opgeven, en zijn negativiteit, en _alles_. Hij was de oudste en sterkste van alle holbewoners, na Zandir. Hij zou moeten leiden en een voorbeeld zijn. In plaats daarvan weigerde hij nog te eten, wat niet lang goed kon---niet aan denken, niet aan denken.
+She cursed Tibre and his laziness, his giving up, his negativity, _everything_. He was the eldest and strongest of all Dwellers, after Zandir. He had to lead and be an example. Instead he refused to eat, which he wouldn't surv---don't think about, just don't.
 
-Zandir was gelukkig wel meegegaan, net zoals Piponre en natuurlijk haar beer. Ze stonden al bovenop de steeds gladdere rotsen en trokken haar omhoog aan haar armen. 
+Zandir had, fortunately, joined. Just as Piponre and her pet bear, of course. They already stood on the increasingly slippery rocks as they pulled her upward.
 
-Deze planeet was niets dan rotsen en modder. Maar de herinneringen in de gloeilampen lieten genoeg plekken zien die anders waren, dus Jassia droomde maar dat ze daar ooit in hun eigen ruimteschip naartoe zouden vliegen.
+This planet was nothing but _mud_ and _stone_. The memories inside the lightbulbs, though, showed many places that were different. Jassia dreamed of building her spaceship and flying to those places.
 
-Tot die tijd moesten ze razendsnel eten vinden.
+Until then, they needed food, and a lot of it.
 
-De wolken boven hen trokken samen, van lichtgrijs naar donkergrijs. Hun dierenhuiden waren volledig doorweekt en Jassia moest haar lange haren vastbinden om te voorkomen dat ze keer op keer haar zicht ontnamen. Weer zoiets. Waarom was het altijd al de regel dat vrouwen lange haren hadden en mannen niet? Zeker weer bedacht door al hun ouders, voordat ze besloten te verdwijnen.
+The clouds contracted, turning from light gray to black. Their animal skins were soaked and Jassia had to bind her long locks of hair to prevent going blind. Ugh, another one of those rules. Why did it have to be a rule that women had long hair and men did not? Surely something their ancestors invented, before they decided to disappear.
 
-Bij de volgende stap gleed ze uit over een diepe plas.
+At the next step, she slipped on a deep puddle.
 
-Piponre greep net op tijd haar pols en trok haar terug. Ze glimlachte ongemakkelijk naar hem, terwijl ze zijn warme huid tegen de hare voelde. Hun Echoriemen kletsten tegen elkaar en lieten de hele vallei horen waar ze waren.
+Piponre grabbed her wrist and pulled her back. She smiled awkwardly at him, as she felt his warm skin against hers. Their Echobelts clattered against each other and let the entire valley know where they were.
 
-Donder klonk. De oprukkende wind trok Jassia's dierenhuid bijna van haar lichaam.
+Thunder. Flash. A growing gale almost pulled Jassia's clothes off her body.
 
-"Dit is waanzin," zei Zandir, die zijn speer naar de zwarte lucht stak. "Straks worden we geveld door bliksemschichten."
+"This is madness," said Zandir. His spear pointed at the black sky. "We'll die at the hands of thunderstrokes if we continue!"
 
-"We kunnen nergens schuilen," zei Piponre meteen. "Teruglopen betekent alsnog urenlang in deze storm, maar dan zonder kans op eten. Ik zeg dat we doorgaan."
+"We can't hide anywhere," said Piponre immediately. "Returning home will take hours in this storm, and will guarantee we have no food. I say we continue."
 
-Ze keken naar Jassia, die steeds onzekerder op haar voeten stond. Haar beer hield haar overeind. Nee, haar beer tikte tegen haar been en wilde haar aandacht.
+They looked at Jassia. She felt unsteady, but her strong bear kept her upright. No, not that, her bear _tapped_ against her leg and wanted her attention.
 
-Haar huisdier wees naar een zwart hoopje in de verte.
+Her pet pointed at a black dot in the distance.
 
-"Wrakstukken!" riep Jassia meteen. Dit was ongelofelijk. De explosie had ze kilometers van de plaats geslingerd! Misschien lag de rest van het ruimteschip dan wel helemaal aan de andere kant van de planeet. 
+"Wreckage!" yelled Jassia. Unbelievable. The explosion had hurtled the spaceship pieces over a _massive_ distance! Maybe the rest of the spaceship was all the way on the other side of the planet.
 
-Eenmaal dichterbij kwam de bevestiging: ja, dit waren toch echt onderdelen van het ruimteschip.
+They closed in. Her thoughts were confirmed: these looked like the other spaceship parts.
 
-Jassia dook meteen omlaag. De regen waste alle sporen weg, al het bewijs, dus ze moest snel zijn. Na even wroeten in de aarde vond ze wat ze verwachtte: nog meer voetstappen. Nu wist ze zeker dat het niemand van de holbewoners was geweest, zeker omdat de afdrukken geen menselijke voet waren en ook niet zo'n rare _schoen_ die haar man droeg. Een gift van zijn ouders, natuurlijk, die het nooit hadden uitgelegd.
+Jassia dove to the ground. She had to be quick. Rain washed away all the tracks, all the proof.
 
-Ze keek op naar de verregende gezichten van Zandir en Piponre. 
+She dug into the earth and found what she expected: more footsteps. Certainly not a Dweller, no, because they weren't _human_ feet. And also not that weird _shoe_ that her husband wore. Another gift from his parents, of course, who never explained it and then disappeared.
 
-"Ik ben niet gek, toch? Er zat iemand _in_ dat ruimteschip. En diegene ... diegene loopt nu al dagenlang rond zonder dat ze gezien willen worden."
+She studied the soaked faces of Zandir and Piponre.
 
-"Of er is toevallig een hert langsgekomen," bromde Zandir, "en wij hebben eindelijk ons voedsel voor de komende week te pakken. We volgen het spoor."
+"I am not insane, am I? Someone was _inside_ that spaceship. And someone ... someone has walked around our caves without revealing themselves."
 
-Jassia wist dat het idioot was. In zo'n storm, met een verzwakt lichaam, extra ballast meenemen. Maar zij en haar beer rukten beide een onderdeel van het ruimteschip los en droegen het de rest van de weg in hun armen. Dit _moest_ meer informatie geven over wat er was gebeurd. Misschien nieuwe technologie zodat ze zelf meteen ruimteschepen konden bouwen!
+"Or, I don't know, a deer happened to walk past," grunted Zandir. "And we have finally found our food for the next week. Let's follow the trail."
 
-Zandir liet zijn mening ook blijken middels een intens hoofdschudden. Hij leek gelijk te krijgen: in de verte huppelde een donker silhouet, vervaagd door het gordijn van regen dat eromheen hing.
+Jassia knew it was stupid. To take on the extra weight, in such a storm, with a weakened body. But her curiosity _could not_ leave it alone.  
 
-De regen viel niet meer omlaag. Windstoten duwden de druppels zo hard opzij dat de hele wereld scheef leek te trekken, wat hun tocht over de hoge rotsen nog meer penibel maakte.
+She and her bear ripped several components off of the wreckage and carried it the rest of the way. This _had_ to reveal more information about what happened. Maybe new technology that taught her how to build spaceships herself!
 
-"We omcirkelen de---"
+Zandir gave his opinion by endlessly shaking his head. Though he appeared to be right: in the distance they noticed a dark silhouette, made fuzzy by the curtain of rain around it.
 
-Donder van boven. Een klap. Lichtflitsen. Jassia keek op en zwaaide haar armen.
+The rain wasn't falling down anymore. Bursts of wind blew the droplets to the _side_. To her eyes, the entire world seemed to slant. She didn't dare take another step, as the rocks now seemed diagonal and unstable too.
 
-"Zandir! Aan de kant! Pas op!"
+"Let's circle back to---"
 
-Een reusachtig rotsblok kwam los en viel omlaag in een cape van gruis. Zandirs ogen sprongen wijd open en hij gebruikte zijn speer om sneller van de plaats te schieten.
+Thunder. A bang. A flash.
 
-Maar het rotsblok was te groot. Zandir werd geraakt in zijn rug, zijn onderbenen gebroken onder de inslag, waardoor hij zijn balans verloor en schuin van de rotsen viel.
+Jassia looked up and waved her arms.
 
-Jassia en Piponre konden alleen maar schreeuwen en toekijken hoe Zandir naar beneden viel en op slag dood was.
+"Zandir! Out of the way! Watch out!"
 
-Ze zakten door hun knieën. Even, heel even, flitste Tibre's gelijk door Jassia's hoofd---het is allemaal zinloos, het is alsof de natuur niet _wil_ dat er iets leeft, alles gaat altijd maar _mis_ en _dood_ en---
+A gigant rock fell from the sky, in a cloak of dust and debris. Zandir's body came alive, as he used his spear to launch himself away from his spot.
 
-Maar dan voelde ze Piponre's warme omhelzing, terwijl hij kort met haar meehuilde en hun tranen vermengden met de regen, en haar daarna overeind hielp.
+The rock was too large to escape.
 
-"We gaan omlaag," zei hij zacht. "We gaan terug."
+Zandir was hit in his back, his legs broken by the impact. He lost his balance and fell off the rocky path.
 
-Jassia knikte en liet haarzelf meevoeren. Totdat ze iets zag en plotseling bevroor en hard tegen Piponre's buik botste.
+Jassia and Piponre could only scream and watch as Zandir fell down---and died instantly when he hit the floor.
 
-"Dit was geen ongeluk."
+They fell to their knees. For a moment, a very brief moment, Jassia could only hear Tibre's statements and how _right_ they were. It's all meaningless. It's as if nature doesn't _want_ anything to survive. Everything always goes wrong, and people die, and---
 
-Piponre legde een hand op haar schouder. "Ik snap dat je---"
+Then she felt Piponre's warm embrace, as he cried with her and their tears were lost in the rain. Then he helped her back up.
 
-"Kijk! Kijk!" 
+"We go down," he spoke softly. "We go back."
 
-Ze versnelde hun tocht omlaag. Haar beer wees naar een lichtje verderop: de neergestorte gloeilamp. Die moest Piponre maar dragen, ze had eerst een moord te onderzoeken.
+Jassia nodded and let herself be dragged along. Until she spotted something and froze, bumping against Piponre.
 
-Ze zei een kort gebedje en duwde daarna het rotsblok van Zandirs lichaam. Piponre zag het nu ook.
+"This was no accident."
 
-De achterkant van het rotsblok was eraf geschoten en vervangen door een diepzwarte brandplek.
+Piponre placed a hand on a shoulder. "I understand that---"
 
-Ze zagen een lichtflits---maar het onweerde helemaal niet.
+"Look! Look!"
 
-Jassia trilde, maar niet meer van de regen. Ze fluisterde: "Er loopt hier een of andere buitenaards wezen rond die ons _dood_ wil. En ze hebben zo'n lichtwapen, ik weet het zeker, ik weet het zeker."
+They climbed down more quickly. Her bear pointed at a light in the distance: the lightbulb that had crashed her. Piponre would have to carry that, as she had to investigate a murder first.
 
-Piponre opende zijn mond, vast om te vertellen dat ze rustig aan moest doen of spoken zag. Toen sloot hij hem weer en kwam beschermend voor haar staan.
+She said a short prayer, then pushed the boulder off of Zandir's body. Piponre saw it too.
 
-De regen waste al het zicht op hun omgeving weg. Ze hadden geen idee of het nacht was of niet, want de donkere samengepakte wolken haalden al het zonlicht weg én alle sterren of gloeilampen.
+The backside of the rock had been _cut off_, or rather _shot off_, and replaced by a black burn mark.
 
-Was dat een schaduw? Was dat de silhouet die ze net zagen, of een boom? Ze moest haarzelf niet gek maken, maar ze moest ook niet dom zijn.
+She saw a flash of light---but heard no thunder.
 
-Iets prikte in haar rug. Ze draaide razendsnel om---het was haar beer. Die had de lamp gepakt en scheen bij. Soms leek het huisdier intelligenter dan sommige holbewoners. Ze wilde dolgraag de herinnering erin bekijken en trok de batterij eruit. 
+Jassia shivered and whispered: "Some alien creature walks around here and they want us _dead_. And they have a lightflash weapon, I am sure, I am sure."
 
-"Wat doe je in hemelsnaam!?" siste Piponre. Hij had in reflex de Echoriem getrokken en stak hem vooruit, zoals velen van hen deden, maar ze wisten niet waarom ze probeerden een muziekinstrument als wapen te gebruiken. Het ging ook niet helpen.
+Piponre opened his mouth, maybe to tell her she saw ghosts. Then he closed it and protectively stood before her.
 
-Complete duisternis omarmde hen. Dat had het andere wezen waarschijnlijk niet verwacht, want Jassia nog net een klein lichtje in de verte zien voordat deze óók werd uitgezet.
+The rain washed away any view of their environment. Was it day? Was it night? The dark clouds, glued together, kept out all the stars and lightbulbs around their planet.
 
-Ze schudde haar hoofd, deed de lamp weer aan, en gooide hem in Piponre's armen.
+Was that a shadow? Was that a moving silhouette, or a tree? She had to stay calm; she also had to stay wary of the danger.
 
-"Rennen!"
+Something poked her back. She turned around rapidly---it was just her bear. He had grabbed the lamp and gave them some vision. Sometimes her pet seemed more intelligent than many Dwellers. 
 
-Bij het flauwe licht van de lamp, sprongen ze over boomstronken en gleden over rotsen. Jassia hoopte maar dat ze de juiste richting terug naar huis had gekozen. Piponre bleef achterom kijken en achterom schijnen, maar ze hadden geen idee waar hun achtervolger uithing.
+Eager to view the memory, she pulled out the battery.
 
-Mensen waren gemaakt om lange afstanden te rennen. Beren niet. Al snel moest ze kiezen tussen haar tweede wrakstuk mee tillen, of haar beer.
+"What on Holed are you doing!?" hissed Piponre.
 
-Ze koos haar beer, geen twijfel.
+He grabbed his Echobelt, by instinct, and kept it in front of him like a weapon. Like most of the Dwellers did. Though they couldn't remember why they'd use a musical instrument as a weapon. It wouldn't help, in any case.
 
-Een lichtflits. Ze sloot instinctief haar ogen en zag alleen het resultaat: een boom in de verte stond in brand. Was het toch gaan onweren? De wolken bleven dreigend en dit was een _gigantische_ misser als iemand _hen_ probeerde te raken.
+Complete darkness embraced them. The other creature probably hadn't expected this. Jassia could just make out a faint light in the distance before it was quickly shut off.
 
-Ze renden nog harder. Het gebrek aan voedsel de laatste dagen maakten haar licht in haar hoofd, duizelig totdat haar benen uit zichzelf bewogen maar zij het niet meer doorhad. De onderkant van haar voeten was helemaal kapot. Haar kapsel was weer losgegaan en sloeg ongenadig hard tegen haar neus en wenkbrauwen. Niet treuzelen, negeer de pijn, _rennen_.
+She turned on the lamp again and threw it in Piponre's arms.
 
-Pas na uren, zo voelde het, klaarde het op en kwam ze in bekend terrein. De streepjesrots met de rare ingang, gevormd alsof iemand met een hamer de opdracht kreeg om iets té creatief te zijn. Het bos dat begon met grijze hoge bomen en daarna alleen maar groenblauwe lage bomen had. Daarna de ondergrondse tunnel die vlakbij hun thuisgrot weer naar boven kwam. 
+"Run!"
 
-"Goden zij dank," piepte Jassia, die ook de beer voelde ontspannen in haar armen. "We zijn weer---"
+The faint light of the lamp showed their path, jumping over logs and skidding over rocks. Jassia had to _hope_ they picked the right direction to their home. Piponre kept glancing over his shoulder and pointing the light behind them, but they had no clue where their pursuer was.
 
-Piponre was nergens te bekennen. Een heel eind terug lag de gloeilamp op de grond, gedoofd en achtergelaten als afval, maar de jongen zelf was verdwenen.
+Humans were made to run large distances on two legs. Bears were not. 
 
-"Help!" krijste ze, waarna ze flauw viel tegen de eerste grot.
+She had to choose between carrying that second piece of wreckage, or her bear. She chose her bear without hesitation.
+
+A flash. She instinctively closed her eyes and only saw the consequences: a tree in the distance caught fire. Did thunder return anyway? The clouds remained threatening, and this was a _laughable miss_ if someone actually tried to shoot _them_.
+
+They ran even faster. The lack of food of the past few days made her light in the head, dizzy until her legs moved of their own accord and she didn't even know where she was. The soles of her feet were scratched and bloody. Her hair had broken loose and hit her nose and eyebrows with every step.
+
+Don't hesitate, ignore the pain, _run_.
+
+After _hours_, or so it felt, the weather improved and they entered familiar territory. That Linecave with the weird entrance, shaped as if someone received a hammer and the command to be too creative with it. The forest that started with some tall gray trees, then continued with only green tiny trees.
+
+Then, of course, the underground tunnel that made them resurface close to their home cave.
+
+"Thank the Dweller Gods," said Jassia. Her breathing sounded like a crashing spaceship. The cute bear in her arms relaxed and took his paws off the many sharp tools around his belt. "We are back---"
+
+Piponre was nowhere to be found. Many steps behind her, she noticed the lightbulb discarded on the floor. Turned off and left behind like garbage. The boy himself had disappeared.
+
+"Help!" she yelled.
+
+She fainted against the first home cave.

@@ -1,109 +1,117 @@
 ---
-title: De Twee Opgevers
+title: The Twin Quitters
 weight: 8
 ---
-Een feest werd georganiseerd. De wolf bleef liever in de schaduwen, ver weg van die _vuile mensen_, maar ze wisten nu waar ze hem konden vinden en dat ze konden praten. Zo kregen ze toestemming een paar gloeilampen op te hangen in hun grot voor sfeerverlichting. Hij leverde zijn deel van de afspraak---genoeg voedsel voor de komende tijd---dus iedereen was blij.
+They organized a feast. The wolf preferred to remain in the shadows, far away from those _filthy humans_, but at least they knew where to find him and how to talk to him. They received permission to hang a few lightbulbs in their cave, to set a nice mood. He delivered his part of the deal---enough food for the coming weeks---and everyone was happy.
 
-Iedereen behalve Tibre. Jassia en haar man had hij ook niet meer gezien.
+Everyone except Tibre. Jassia and her husband also hadn't been seen yet.
 
-Hij bekeek de voorbereidingen van een afstand. De thuisgrot zag er nu prachtig uit met die lichtjes, dat kon hij nog wel zien en voelen. Zijn dansende en spelende kinderen gaven hem nog iets van een glimlach, maar elke uitnodiging om zelf te komen had hij afgeslagen. Hij kreeg nog steeds geen hap door zijn keel en de meest terugkerende gedachte was: _dit is allemaal voor niets, want ook dat voedsel gaat op, en ook deze kinderen worden oud en gaan dood._
+He viewed the preparations from a distance. The home cave looked beautiful now, with all the lights and laughter, he could still see and feel that. His dancing and playing children still gave him a smile, but he'd refused any invitation to _join_ that party. He still wasn't able to eat a single thing. And the only thought that stuck around was: _this is all meaningless, because even that food will run out, and one day my children will also grow old and die._
 
-Jassia's man verscheen plots naast hem.
+Jassia's husband suddenly stood next to him.
 
-"Weet je," zei hij, "ik heb je nooit genoeg bedankt voor het helpen en veilig houden van mijn vrouw. Het stelt me echt gerust, al jaren, als ik weet dat jij met haar mee bent op een of andere expeditie. Zou niet weten wat ik moest als ik mijn lieve vrouw kwijtraakte."
+"You know," he said, "I never thanked you enough for helping my wife and keeping her safe. It really comforted me, all those years, to know you were with her on one adventure or another. I wouldn't know what to do if I lost my sweet Jassia."
 
-Jassia had dus nog steeds niks tegen hem gezegd. Lafaard.
+So Jassia still hadn't told him anything. Coward.
 
-"Dat is fijn om te horen," zei Tibre langzaam. "Hoe is het tussen jullie? Jassia liet ... blijken dat je haar vaker thuis wilde hebben ... en andere---"
+"That's nice to hear," said Tibre slowly. "How is it? Between you two? Jassia let slip ... that you wanted her to be home more often ... and other---"
 
-"Oh, nou, dat we hebben dus net uitgepraat. Gaat goed hoor, tussen ons."
+"Oh, well, we _just_ talked about that. Things are great between us!"
 
-"Ah ja. Natuurlijk." Toen hij wegliep, greep Tibre zijn pols en keek hem lang in de ogen aan. Maar Jassia had gelijk: _zij_ moest dit zeggen. En ze had ook gelijk dat hij misschien, heel misschien, trots was als hij zijn zoon met haar samen zag. "Veel plezier met het feest. Waar, eh, is Jassia?"
+"Ah yes. Of course."
 
-"Ze wilde nog snel wat nieuwe herinneringen bekijken uit gloeilampen, voordat ze weg moesten."
+As he walked away, Tibre grabbed his wrist and studied his eyes. But Jassia was right: _she_ had to tell him, not anyone else. And she was also right that maybe, just maybe, Tibre was proud to see his son and her together.
 
-Tibre stond op. Zijn maag rommelde inmiddels niet meer---het had geaccepteerd dat er niks meer kwam. In de thuisgrot werd inmiddels al muziek gemaakt door houten stokken op de maat tegen hun Echoriemen te slaan. Hij gunde zijn ogen nog een paar seconden van dit mooie aanzicht, maar liep daarna weg.
+"I wish you joy at the party. Where, erm, did you leave Jassia?"
 
-Jassia zat in kleermakerszit op de grond van haar grot. Haar haren vielen als een sluier voor haar ogen, en haar ogen tuurden naar de natte grond alsof ze erdoorheen probeerde te kijken.
+"She wanted to view the memories in the other lightbulbs, before we have to give them away. Always working, that crazy girl."
 
-"Ik kon het niet zeggen," fluisterde ze. "Hoe kan ik nou in die lieve ogen kijken en zeggen dat ik het wil eindigen?"
+Tibre stood. His stomach had stopped growling---it had seemingly accepted that no more food was coming. The Dwellers in the home cave used their Echobelts and wooden sticks to create music now. He allowed himself a few more moments, taking in the happy sight, then left the party for good.
 
-Tibre had geen antwoord. Hij plofte naast haar op de grond, terwijl de gloeilamp voor hen diens herinnering speelde.
+Jassia sat cross-legged on the floor of her cave. Her hair fell around her like a veil, and her eyes gazed at the dirt as if she wanted to look _through_ it.
 
-Mensen in een grot. Maar deze grot was veel groter, perfect vierkant, en met steriele witte muren.
+"I couldn't tell him," she whispered. "How can you look in those sweet eyes that love you ... and say you want to end that?"
 
-"Nee! Ga ergens anders heen. Deze schuilkelder is vol!" riep een man in een legeruniform.
+Tibre had no response. He settled next to her on the floor, as the lightbulb before them played its memory.
 
-"Ze zitten allemaal vol!" jammerde een vrouw.
+Humans in a cave. But this cave was far bigger, perfectly square, and had sterile white walls.
 
-De gloeilampen aan het plafond flakkerden. De hele herinnering trilde. Voor even was al het licht weg, en al het geluid een reeks luide knallen. Daarna keerde de stilte terug, maar niet de rust.
+"No! Go somewhere else. This shelter is full!" yelled a man in army uniform.
 
-De hele schuilkelder was volgepakt. Met families die op de grond zaten en elkaar stevig vasthielden, met eten en drinken om het zo lang mogelijk uit te houden, en met wapens.
+"They're _all_ full!" lamented a woman.
 
-Iemand greep naar een zwart doosje waaruit geluid kwam. "_Schuilkelder 4A is ingestort. Ik herhaal: schuilkelder 4A is ingestort, geen contact meer._"
+The lamps glued to their ceiling flickered. The entire memory shook. For a second, all the light was gone, followed by a series of loud _bangs_. Then silence returned, but not safety.
 
-"Ik moet naar de oppervlakte!" riep de man in uniform. "Hol is niet meer te redden. We moeten vluchten nu het nog kan."
+The shelter was packed. Families sat on the floor and held each other's hands, crates contained enough food and drink to survive for a while, and weapons piled up in corners.
 
-De hele schuilkelder liet weten wat ze vonden van deze opgever. Maar hij leek zijn zin te krijgen, want de herinnering spoelde door naar de oppervlakte. De man struikelde door een ravage van puin, ingestorte huizen en geknakte bomen. Het was zeldzamer dat iets overeind stond, of nog licht gaf, dan het omgekeerde. In het duister vervormde de man tot niets meer dan een schaduw tussen schaduwen, modder tussen modder.
+Someone grabbed a black box that made noise. "_Shelter 4A has collapsed. I repeat: shelter 4A has collapsed, we can't contact them anymore._"
 
-Hij vond overlevenden van schuilkelder 4A. Vijf volwassenen, negen kinderen. Bloed stroomde over hun gezichten. Een jongen was zijn hand verloren. Een oudere man draaide rondjes en richtte paranoïde zijn wapen op alles dat bewoog.
+"I must return to the surface!" yelled a man in uniform. "Holed can't be saved. We must flee while we can."
 
-"Het gaat al vijftig jaar zo," mompelde de oudere man. "Ik houd van mijn thuisplaneet, maar daarvan is niks meer over. Dus als je een ruimteschip hebt, neem ons maar mee."
+All people in the shelter let the quitter know what they thought. But he got his way.
 
-De laatste jaren van Hol waren verschrikkelijk.
+The memory sped forward and showed the planet surface now. That same man stumbled over rubble, collapsed homes and splintered trees. It was rare to see something left standing, or still emitting light. In that darkness the man became nothing but a shadow between shadows, mud between mud.
 
-Plots leunde Tibre voorover. Wat had hij gezien? Het wapen. Het wapen in de hand van de oudere man.
+He found survivors of shelter 4A. Five parents, nine children. Blood streamed over their faces. A boy had lost his hand. An elderly man made circles. In his paranoia, he pointed his metal weapon, attached with a strap to his body, at anything that moved.
 
-Hij bekeek zijn eigen Echoriem en die van Jassia. Ze waren allemaal zo goed als identiek.
+"It's been like this for fifty years," mumbled the elderly man. "I love my home planet, that I do. But nothing's left of it. If you have a spaceship, take us please."
 
-En precies zo'n zelfde voorwerp hing aan alle mensen in de herinnering. Alleen de oudere man bevestigde hem rond zijn middel; de rest droeg hem als ketting, of onder hun hoed, of waar het dan ook paste.
+The final years of Holed looked _horrible_.
 
-"Dit ... dit zijn wij."
+Suddenly Tibre leaned forward. What had he seen? The gun. The gun in the hands of the elderly man.
 
-"Dit zijn onze voorouders van _lang lang geleden_," mompelde Jassia.
+He looked at his Echobelt. And then Jassia's Echobelt. They were nearly identical.
 
-"Het is ... het is geen muziekinstrument. Het is een wapen."
+Exactly that type of object hung from the humans in the memory. Only the elderly man had attached it to his hips; the others wore it as a necklace, or underneath a hat, or wherever it fit.
 
-"En wij zijn allang de munitie kwijt," fluisterde Jassia.
+"This ... this is us."
 
-De mensen liepen weg, richting een groenbruin ruimteschip dat was verborgen in een dikke jungle. Maar de herinnering bleef spelen, totdat een beer langsliep.
+"These are our ancestors from _long long ago_," mumbled Jassia.
 
-In de duisternis brandde plotseling licht. Een gloeilampje was aangegaan. 
+"It is ... it is not a musical instrument. It's a weapon."
 
-"Is dit echt zo belangrijk?" vroeg een stem buiten beeld.
+"And we have lost the ammunition long ago," whispered Jassia.
 
-"Ja. Ismaraldah is het met me eens. En deze mensen, deze planeet Hol, kan alle lichtpuntjes gebruiken. Onze gloeilampen markeren belangrijke gebeurtenissen, ja, vaak tragisch of met veel doden. Maar het belangrijkste is dat ze licht bieden in duisternis, Enra. Vergeet dat niet."
+The humans in the memory fled. They entered a green-brown spaceship, hidden by the thick vines of a jungle. The memory kept playing, though, until a bear entered view.
 
-Terwijl het ruimteschip vertrok, werd de gloeilamp definitief losgelaten. Hij begon te zweven over de oppervlakte. Het verlichtte vooral de puinhoop en de pijn, en het rookspoor van het enige ruimteschip dat op tijd vluchtte.
+The darkness was suddenly evicted by a light. A lightbulb had turned on.
 
-De herinnering eindigde. Jassia liet een _diepe_ zucht ontsnappen en viel achterover, plat op de stenen, net zoals Tibre, alsof hun lichaam alle botten was verloren en hun hoofd soep was geworden.
+"Is this really that important?" asked a voice, just out of frame.
 
-"Ik heb de wolf gesproken," mompelde ze zacht. "Al die mooie beelden die we zien? Die prachtige beschavingen, met ruimteschepen en alles? Ja, nou, dat gebeurt dus niet in een jaar. Of tien jaar. Dat gebeurt over honderdduizenden jaren---als je hard werkt, geluk hebt, en niet voor die tijd wordt uitgeroeid door wezens die wél lichtflitswapens hebben."
+"Yes. Ismaraldah agrees with me. And these people, this planet Holed, can use all the hope and brightness in the world. Our lightbulbs mark important events, yes, often tragic or involving death. But the important part is that they provide _light when everything seems dark_, Enra. Do not forget."
 
-Ze huilde. "Ik ben een dom, dom meisje geweest. Ik heb mijn hele leven dag en nacht gewerkt omdat ... omdat moeder het zei en ik geloofde haar. Omdat ik dacht dat ik dan kon oud worden in een prachtige beschaving. Maar we gaan het nooit zien, Tibre!"
+As the spaceship left, the lightbulb was "released". It floated across the surface. It mostly illuminated rubble and pain, and the smoke trail of the only spaceship that fled in time.
 
-Ze sloeg haar vuist tegen de stenen, keer op keer. "Misschien hebben wij inderdaad dat geheim om te reizen met de snelheid van het licht. Maar we kennen het niet! Misschien worden wij ooit een beschaving die het hele universum afreist en grote dingen bereikt, maar wij gaan het niet zien, onze kinderen gaan het niet meemaken, het duurt te _lang_!"
+The memory ended.
 
-Hij kon niets meer doen dan zijn hand op haar schouder leggen. Hij kon niet zeggen dat ze geen gelijk had, of dat ze hoop moest houden, of iets anders troostends. Hij was het helemaal met haar eens en was ergens gerustgesteld dat zij het nu ook opgaf.
+Jassia let out a _deep_ sigh and fell backward, flat on the stones. Tibre did the same. As if their bodies had lost all their bones and their brain had turned to soup.
 
-De muziek van het feest dreunde door in haar grot. Eens in de zoveel tijd hoorden ze vaag de schaterlach van een kind of een toost die werd uitgebracht over al het voedsel. Borrick had vast iets doms gezegd waarom iedereen moest lachen. Of zijn kinderen deden verstoppertje met de extra moeilijkheidsgraad van de opgehangen feestverlichting.
+"I spoke to the wolf," she mumbled. "All those pretty images we see? Those beautiful civilizations, with spaceships and all? Well, well, that didn't happen in a month or a year. Or ten year. That happened over _hundreds of thousands of years_. Only if you work hard, and are lucky, and aren't exterminated by others who have Flashweapons before then."
 
-Hij wilde al die herinneringen in de andere lampen bekijken. De nieuwsgierigheid was er, de wil om nieuwe dingen te leren en bleven. Maar hij onderdrukte het, alsof hij niet wilde toegeven dat er eigenlijk nog een vuur in zijn hart zat. Het vuur in elk levend wezen dat uit alle macht wil _leven_.
+She cried. "I've been a silly, silly girl. I worked until I was sick, my entire life, day and night, because ... because mother said I had to. And I believed her. Because I believed I could grow old in an advanced, beautiful civilization. But we are _never going to see that, Tibre_!"
 
-Een glimlach verscheen toch op zijn gezicht. 
+Her fist banged the stones, time and time again. "Maybe we do have the secret to traveling with the speed of light. But we don't _know_ it! Maybe we'll one day become a society that travels the galaxy and achieves greatness. But we're not going to experience it, nor will our children, or their children's children, because it takes _too long_!"
 
-Hij had niet meer de energie om op te staan. En dat was helemaal prima, want hij voelde zich voor het eerst in lange tijd _tevreden_. Hij lag op een koude grond, maar hij had tenminste een grot, in tegenstelling tot de ingestorte schuilkelders van Hol. Veel onheil had hen geteisterd, maar hij had een trouwe vriendin aan zijn zijde, en kinderen die elke dag vol overgave rondrenden en spelletjes deden.
+He could do nothing more than place his hand on her shoulder. He couldn't tell her that she was wrong, or had to keep hope, or any other comforting words. Because he agreed fully. In a way, hearing her say his own worst thoughts gave him comfort.
 
-Jassia was verdrietig omdat haar verwachting niet was uitgekomen, niet omdat hun huidige leven op deze kleine planeet nou zo erg was. De meest opgewekte persoon van de holbewoners was toch naar de grond gekregen doordat ze vurig vooruitgang _wenste_ en het kwam _niet uit_. Als ze het niet had gewenst, was er geen probleem.
+The music from the party shook their cave too. Once in a while they heard the faint laughter of a child, or a speech held by someone who mostly praised the food. Borrick had probably said something silly that made everyone laugh. Or his children played hide-and-seek, with the added challenge of dodging the party lights.
 
-Toen Piponre de grot binnenkwam, verscheen ook een glimlach op Jassia's gezicht. Hij gaf haar een zoen, hielp haar overeind en veegde de viezigheid uit haar haren. De liefde tussen die twee knetterde en brandde feller dan de gloeilampen.
+He wanted to see all those memories inside the other lightbulbs. The curiosity was there, and the desire to learn and experience new things. But it was like he suppressed it. As if he didn't _allow_ himself to admit there was still fire in his heart. The fire inside every living being that just wants to _live_.
 
-Hij had eten meegenomen voor allebei, maar vooral Tibre. Hij omhelsde zijn vader en hielp hem ook overeind, waarna hij een flinke lap vlees bijna tegen zijn lippen duwde.
+A smile appeared.
 
-"Pap. Eet _alsjeblieft_ iets, kom op! _Kom op!_"
+He lacked the energy to get up. And that was fine, because for the first time in a while, he felt _content_. He lay on the cold floor, but at least he had a cave, as opposed to the collapsed shelters of Holed. He had to work hard, but at least he had a home and something to eat. He'd been very unlucky, but he also had a loyal and kind friend at his side, and children who played games all day.
 
-Hij had kinderen die ouder werden en nieuwe families wilden opbouwen, maar altijd om hun vorige familie zouden blijven geven. Zelfs als hun vader zich kinderachtig en onverantwoordelijk gedroeg, door de hele dag in bed te liggen en alles op te geven.
+Jassia was said because her expectation, her wish, hadn't come true. Not because their current life, on their current planet, was that bad. The most optimistic of all the Dwellers was brought down, sobbing next to him, because she _wished so hard_ for things that _couldn't come true_. If she hadn't wished it, there would've been no problem. If she hadn't seen those bright and amazing futures in the memories, there would've been no problem.
 
-Nu zijn hoofd eindelijk opklaarde, zag hij de waarheid die al die tijd voor hun voeten lag.
+When Piponre entered the cave too, Jassia found her smile back. He gave her a kiss, helped her up and cleaned the dirt from her hairs. The love between those two crackled and sizzled and burned brighter than all the lightbulbs.
 
-"Volg mij! Naar de streepjesgrot!"
+He'd brought food for both, but mostly for Tibre. He embraced his father and helped him up too. Then he pushed a large slab of meat against his lips.
+
+"Dad. _Please_ eat something. Come on. _Come on!_"
+
+His children were growing up and starting new families. But they'd always keep caring for their old family. Even if their father acted childish and irresponsible, by staying in bed all day and giving up. For all their faults, humans at least _had_ society.
+
+His mind seemed cleared up. He finally saw the truth that had been right before their noses all this time.
+
+"Follow me! To the Linecave!"

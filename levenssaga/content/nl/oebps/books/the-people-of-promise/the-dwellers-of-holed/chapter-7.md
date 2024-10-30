@@ -4,7 +4,7 @@ weight: 7
 ---
 De sporen leidden, hoe kon het ook anders, naar een grot. Hoe langer ze liepen, hoe meer de sporen slingerden en afweken van hun lijn. Piponre was een paar keer gevallen. De indringer ook.
 
-Na nog langer lopen, waren ze zeker dat ze in een cirkel waren gelopen. Maar ze hadden geen fout gemaakt: de voetstappen liepen _ook_ in die cirkel. Een poging om hen af te schudden? In de war te brengen?
+Na nog langer lopen, waren ze zeker dat ze in een cirkel waren gelopen. Maar ze hadden geen fout gemaakt: de voetstappen liepen _ook_ in die cirkel. Een poging om hen af te schudden?
 
 Het begon te schemeren. Daardoor kon Jassia een lichtpuntje in de verte goed zien. Het week af van het spoor, maar ze zouden het licht goed kunnen gebruiken.
 
@@ -80,7 +80,7 @@ De holbewoners keken naar elkaar, zoekend naar het juiste antwoord daarop. In pl
 
 "_Wat is hier aan de hand?_" krijste Jassia.
 
-De wolf leek weer bij zinnen en ontblootte zijn tanden, trillend op zijn poten. "Ze vechten. Ze vechten rondom deze planeet, al zo lang ik kan herinneren, en hele rassen zijn inmiddels ten onder gegaan."
+De wolf leek weer bij zinnen en ontblootte zijn tanden. "Ze vechten. Ze vechten rondom deze planeet, al zo lang ik kan herinneren, en hele rassen zijn inmiddels ten onder gegaan."
 
 "Zoals ... zoals jouw ras? Waar kom je vandaan? Wat is je doel?"
 
@@ -98,7 +98,7 @@ Jassia slaakte een zucht van verlichting. Dat klonk méér dan redelijk. Misschi
 
 De holbewoners knikten meteen en grepen naar de gloeilamp die haar beer vasthield.
 
-"Roaar!" brulde hij, waarna hij de gloeilamp dichter tegen zijn vacht drukte en wegsprong. De lamp bleef fel schijnen en weigerde uit te gaan, zelfs al had hij geen batterij.
+"Roaar!" brulde hij, waarna hij de gloeilamp dichter tegen zijn vacht drukte en wegsprong. De lamp weigerde uit te gaan, zelfs al had hij geen batterij.
 
 "Lieverd, beertje," zei Jassia zenuwachtig. "We hebben het afgesproken. Geef de lamp aan die lieve wolf daar."
 

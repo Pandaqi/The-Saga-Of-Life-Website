@@ -27,21 +27,3 @@ Maar dat had zóveel problemen en logische consequenties! Als ze oneindig energi
 In eerste instantie was ik wat "bang" voor dit verhaal. Juist omdat ik vreesde dat ik de mysteries en filosofische ideeën totaal niet in een spannend plot zou krijgen. Ironisch genoeg krijgt dit verhaal juist de "snelst geschreven ooit (tot nog toe)"-prijs. Ik had de hele week gepland om het verhaal te schrijven, maar het kwam eruit op maandagochtend en dinsdagochtend, en dat was dat!
 
 Even later heb ik het vertaald en best een ingrijpende revisie gedaan (waarin de Echoriemen en Jassia's beer ineens verschenen, bijvoorbeeld), maar al met al ontstond _De Holbewoners_ uit een tien jaar oud idee en drie productieve dagen.
-
-
-
-
-
-
-
-# Revisions
-
-* **Chapter 4:** Piponre en Tibre meer een "fallout" laten hebben voordat hij verdwijnt? Zodat het meer aankomt?
-* **Chapter 3/4 (?):** Als Jassia de grot bezoekt, krijgt zij dat voorwerp dat weg stuitert _ook_ niet te pakken? Want dat is dan het Boek der Betekenis?
-* **Chapters 1--4:** Die beer van Jassia + Echoriem voor iedereen terug laten komen.
-	* Echoriem = metalen wapen dat zij gebruiken om klanken/muziek te maken door erop te slaan.
-	* Jassia heeft een _beer_ als huisdier (het enige "huisdier" van alle holbewoners). Die helpt haar met dingen bouwen en slepen, en _lijkt_ haar te begrijpen of soort van intelligent. 
-
-De dood van Zandir + Borrick + wolf nog _iets_ meer afhandelen? De oorsprong van de beer iets duidelijker neerzetten?
-
-**IDEE:** De *Planeters* waren deel van hun ondergang/eerste ramp waardoor ze in deze staat kwamen?

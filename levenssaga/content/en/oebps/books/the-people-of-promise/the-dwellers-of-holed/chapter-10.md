@@ -1,75 +1,75 @@
 ---
-title: "Epiloog"
+title: Epilogue
 weight: 10
 ---
-Jassia en haar man zaten onder een boom, op een afgelegen plek ver van de grotten. De helft van diens takken was verbrand door een slecht gerichte lichtflits van de wolf, maar de andere helft stond in volle bloei en wierp een fijne schaduw.
+Jassia and her husband sat below a tree, a good distance away from the caves. Half its branches had burned from a badly aimed shot, the other half blossomed and cast a nice shadow.
 
-"Ik moet je iets vertellen," zei Jassia, waarna ze wegkeek.
+"I must tell you something," said Jassia, looking away.
 
-"Alweer?" vroeg haar man met een glimlach, terwijl hij haar warme hand vastpakte.
+"Again?" her husband asked, smiling. He reached for her warm hands.
 
-Nee, niet laten charmeren. Het doet nou eenmaal pijn. Maar zoals Ardex schreef: _geen nieuwe beginnen zonder eindes_.
+No, don't let him charm you. It just ... hurts. But like Ardex wrote: _no new beginnings without ends_.
 
-"Ik ben verliefd op een ander," mompelde Jassia. "En ik wil met hem verder. En dat komt niet door jou, je bent lief, en ik weet zeker dat je iemand anders vindt, maar---"
+"I'm in love with someone else," mumbled Jassia. "And I want to continue with him. And that's not your fault. You're sweet. You're kind. And I know you'll make someone else very happy, but---"
 
-Zijn glimlach vervaagde en hij stond op. Heel even dook ze ineen, bang dat hij haar zou slaan of gefrustreerd door elkaar schudden. Maar nee, dat zou hij nooit doen, ook daarvoor was hij te lief.
+His smile faded as he stood. For just a second, Jassia cringed, afraid for a hit or a kick. But no, he'd never hurt her, she _knew_ that.
 
-Dus er was alleen ongeloof, en een woede die onder de oppervlakte bleef. "Wat is het dan wel!?"
+Only disbelief remained, and an anger that never really surfaced. "Then what _is_ the problem with me!?"
 
-"Ik wil _dingen doen_, elke dag, zoveel mogelijk. Dingen _proberen_ en _ervaren_. Als ik iemand leuk vind, duik ik erbovenop. Dat kan niet als ik vast zit aan een partner. Hoe kan ik ooit beloven dat ik over vijf jaar nog net zo graag met iemand samen wil zijn als vandaag? Dat trouwen is onzin. We moeten al die regeltjes vergeten van _voordat_ we neerstortten. Alleen dan kunnen we als beschaving _vooruit_!"
+"I want to _do things_, every day, as much as possible. I want to _try_ and _experience_. If I like someone, I dive on top of them. I can't do that if I'm glued to someone else. How can I ever promise to still love you five years from now? That marriage rule is silly. We must forget all those rules from _before_ we crashed here. Only then our society can _progress_!"
 
-Haar man oogde onzeker. Zijn gezicht toonde elke seconde een andere emotie; zijn ene voet wilde weglopen en zijn andere naar Jassia stappen. Uiteindelijk vloog zijn hand toch richting Jassia's gezicht, maar alleen voor een tedere aanraking van haar wang.
+Her husband wavered. His face showed a different emotion every heartbeat; his one foot wanted to walk away, his other wanted to walk to Jassia. In the end, his hand flew to Jassia's face, but only for a kind touch of her cheek.
 
-"Lieverd, vooruit op weg naar ... ?"
+"Dear, progress towards ... ?"
 
-"Nergens." 
+"Nothing specifically."
 
-Jassia stond ook op. Haar hart durfde eindelijk weer te slaan en een ingehouden adem vloeide naar buiten. Ze was tenminste zeker dat hij het nieuws goed zou oppakken. 
+Jassia stood too. Her heart finally dared beat again, and a held breath flowed out of her. She was certain he'd take the news well.
 
-Ze gaf hem een laatste zoen en daarna een warme omhelzing, waarbij ze allebei mompelden dat ze elkaar zouden missen en vaarwel zeiden. Haar man bleef maar herhalen dat hij niets anders wilde dan Jassia gelukkig zien, dus als dit haar gelukkig maakte ...
+She gave him a final kiss and a warm embrace, while they both mumbled they'd miss each other and said their goodbyes. Her husband kept saying he wanted nothing but to see Jassia happy, so if this made her happy ...
 
-Natuurlijk zou ze dit een beetje missen. Ze stond bijna op het punt voor te stellen dat ze met _allebei_ tegelijkertijd een relatie kreeg, maar dat zou te ver gaan voor haar man, dat voelde ze ook wel.
+Of course she'd miss this, at least a bit. She was _almost_ about to propose a relationship with _both_ of them. But that would go too far, she felt that.
 
-Daarna glimlachte ze naar haar man. 
+Then she smiled at her ex-husband.
 
-"Uit volle borst op weg naar nergens."
+"A journey to nowhere, with all our heart."
 
 ___
 
-Tibre lag uitgeput op de koude rotsen om af te koelen na een intensief potje rotsbal met zijn kinderen---en zijn kleinkind. Jassia en Piponre hadden er wel héél snel werk van gemaakt, maar hij kon niet klagen. Die energieke rakker van hen speelde al op jonge leeftijd iedereen van de baan! Hij was de eerste van een volgende generatie, hopelijk een geweldig leider voor de toekomst.
+Tibre lay on the cold rocks to cool himself after an intense match of Rockball against his children---and grandchild. Jassia and Piponre had made quick work of it, but he couldn't complain. That energetic puckle already beat everyone else at their own game! He was the first of a next generation, and hopefully a great leader for the future.
 
-Een leider die Tibre zeker niet altijd was geweest, maar nu wel probeerde te zijn.
+The leader Tibre hadn't always been, but tried to be now.
 
-Zijn vader-zoon relatie was geëindigd met Piponre, en ook bijna met zijn andere kinderen. Maar een hele nieuwe relatie, misschien nog wel mooier, was nu tussen hen begonnen.
+His father-son relationship with Piponre had ended. As it had with almost all his children. A new relationship, though, perhaps even more beautiful, had started between them.
 
-De waarheid achter de streepjes in de grot hield hij voor zichzelf. Niemand behalve hij hoefde te weten hoe vaak ze al opnieuw waren neergestort en opnieuw hadden geprobeerd een beschaving op te bouwen. Hij en de beer, natuurlijk, die sliep, at, en wandelde met de gloeilamp die nooit uitging.
+He kept the truth behind the Linecave to himself. Nobody else needed to know how often they'd already crash landed somewhere and tried to build a civilization again. Him and the bear, of course, who slept, ate, and walked holding that light that never went out.
 
-Alle andere wrakstukken en materiaal die Tibre vond, bracht hij wel terug naar Jassia en Piponre. Ze hadden al vele ontdekkingen gedaan over hoe ze werkten en hoe ze dat zelf konden namaken. Zo lukte het Jassia onlangs om helemaal _zelf_ een gloeilamp te maken, die werkte op zo'n batterij van een ander. Ook had ze inmiddels iets in haar grot dat ze een _deur_ noemde, die automatisch openging als iemand in de buurt kwam, wat alle kinderen de hele dag natuurlijk zagen als een spelletje.
+Any other wreckage that Tibre found was given to Jassia and Piponre. They'd made many discoveries about how they worked and how they could copy that. Jassia had recently succeeded in making her _own_ lightbulb, which worked using another one's battery. She had also installed something in her cave that she called a _door_, which automatically opened when someone came near. Which the children obviously saw as a fun game to play all day.
 
-Ze zouden niet over vijf jaar een ruimteschip bouwen, nee, en ook niet over vijftig. Maar de sprongen vooruit die ze maakten waren veel groter dan als ze die gloeilampen en wrakstukken niet hadden gehad.
+They wouldn't build their spaceship in five years, no, and not even in fifty years. But the leaps and bounds they made now were far larger than if nothing had ever landed on their planet.
 
-En dat is het leven. Dat is het verslavende van het leven: steeds een beetje vooruitgang, steeds een beetje invloed op de toekomst.
+And that's life. That's the addictive part of life: always a bit of progress, always a bit of influence to shape the future.
 
-Die wetenschappers in de herinnering konden best gelijk hebben: het universum gaat ergens eindigen, _tijd_ gaat ergens eindigen, en dan is alles simpelweg dood en gestopt.
+Those scientists in the memories could well be right. The universe will end some day, _time_ will end _sometime_, and then everything will be dead or frozen.
 
-Maar levende wezens blijven proberen. Proberen totdat ze misschien ooit zo ver gevorderd zijn, zoveel begrijpen van de wereld en technologie hebben gemaakt, dat ze het eind der tijden overleven. Of op z'n minst nooit meer sterven of dingen hoeven af te breken.
+Still, living beings keep trying. Try until the day they're _so_ smart, understand _so much_ of the world and technology, that they might just survive the end of time. Or at least never have to die or hurt again.
 
-Maar ja, zonder einde, kan er dan ooit nog iets nieuws beginnen?
+But, well, without endings, how can anything new ever start?
 
-En soms dan lukte het Tibre nooit. Dan dacht hij weer alleen aan hoe zinloos het was. Dan dacht hij aan de ruimtegevechten die ze boven hun planeet hielden om dit samenraapsel aan holbewoners te beschermen, of de wolf---een buitenaards ras dat al een hekel had aan mensen---had vermoord.
+And sometimes Tibre didn't succeed. Those days, his thoughts returned to the meaningless of it all. He thought about the space battles that raged _every day_ above their heads, just to protect the Dwellers. The same ones that had eventually killed that wolf---an alien race that _hated_ humans with all they had.
 
-Maar dan keek hij even naar buiten, dan ging hij iets _doen_, dan speelde hij met zijn kinderen of zag hoe intens gelukkig Piponre was om vader te zijn. En soms wandelde hij zo ver dat hij weer langs standbeelden van henzelf kwam, met daaromheen biddende dieren.
+But then he merely needed to look outside. He merely needed to _do_. Like playing with his children or feeling Piponre's intense happiness at being a father. And sometimes he walked so far that he stumbled on statues of himself, made by praying animals.
 
-Als ze de dieren konden verstaan, zouden ze horen hoe ze praten over de "mensengoden". Over hoe sommige blij waren met hun komst en hun verzorging, maar andere kwaad dat ze zoveel macht hadden en hen _opaten_. Hoe velen dachten dat de mensen _magisch_ waren en allemaal een eigen kracht hadden, terwijl andere dieren juist vonden dat ze die kracht dan met iedereen moesten delen. Sommige voelden dat er een eerste conflict op komst was ...
+And if they could understand those animals, they'd hear them talk about the "human gods". About how some were glad they came and how they took care of them, and others were mad they had so much power and sometimes _ate_ them. How many thought the humans were _magical_ and all had their own powers, while other animals thought humans should have _shared_ those powers with the animals. Some felt that a first conflict was brewing ...
 
-Misschien vonden ze ergens het vertaalapparaatje van de wolf en konden ze het uitpraten. Niemand die de toekomst wist, maar de holbewoners zouden zeker elke dag op ontdekking gaan en _proberen_ dingen te bereiken.
+Maybe one day they'd find the translation device that wolf used. And they could live harmoniously with those animals. Nobody could predict the future, but the Dwellers would certainly go out _every day_ to discover, explore, and try to reach new heights.
 
-Misschien verloor Tibre toch ooit de moed, over een week, of een jaar, en gaf definitief op. Hij kraste een extra streepje in de grot en na 729 pogingen was het uit. 
+Maybe Tibre would lose his faith one day again. Maybe in a week, a year, he'd give up for good. He'd scratch another line into the Linecave, and after 729 attempts, the Dwellers of Holed were _done_.
 
-Maar het was _niet_ vandaag.
+But it was _not_ today.
 
-_Toch was Tibre een held, beste lezer, dat is wat ik zeker weet. De mens vraagt het universum elke dag wanhopig wat de zin van het leven is; het universum antwoord met niets dan eeuwig zwijgen. De enige conclusie is dat het leven geen zin heeft en geen doel. Er is niks in die koude ruimte, er is niks buiten dit moment op deze aarde. Zij die dit weten, en toch elke dag opstaan en vol moed proberen, zijn absurde helden._
+_Still Tibre was a hero, dear reader, that is what I know for sure. Mankind desperately asks the universe about the meaning of life every day; the universe responds with nothing but eternal silence. The only conclusion is that life has no meaning and no purpose. There is nothing else in that cold void, nothing outside of this moment on earth. Those who know that, and still wake up every day and try their hardest, are absurd heroes._
 
 &nbsp;
 
-_En zo ging het leven door ..._
+_And so it was that life continued ..._
