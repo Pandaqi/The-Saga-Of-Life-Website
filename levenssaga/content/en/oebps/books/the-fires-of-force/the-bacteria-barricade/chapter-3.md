@@ -3,23 +3,25 @@ title: "The Sudden Sand"
 weight: 3
 ---
 
-The back of Bella's fur was lit up by powerful distant flames. She'd been looking for Ardex to tell him they _did not_ find him useless and they _did_ need his fire and energy. The others helped Eeris rebuild her Withered Willows, because they'd completely lost the energy to investigate the wall. Or do anything remotely hard. Failing to progress for a million years does that to a god.
+The back of Bella's fur was lit up by powerful distant flames. She'd been looking for Ardex to tell him they _did not_ find him useless and they _did_ need his fire and energy. Eeris rebuild her Withered Willows all alone, for everyone else was either gone or stuck in a fiery debate about exactly _how_ to rebuild it.
 
-At least she knew where Ardex was now, although he should really stop---
+They'd all completely lost the energy to investigate the wall. Or do anything remotely hard. Failing to progress for a million years does that to a god.
+
+At least the flames told her Ardex' location, although he should really stop---
 
 A scratching sound. Shuffling sand behind her. She looked back and saw nothing strange, but the noise continued, louder this time.
 
-Then she spotted a hole in the sand. The path she'd just walked---a perfectly fine, sturdy piece of dirt---had suddenly become a dangerous deep hole with ragged edges.
+Then she spotted a hole in the sand. The path she'd just walked---a perfectly fine, sturdy piece of dirt---had suddenly become a deep hole with ragged edges.
 
 Another hole appeared, closer to her.
 
-Another hole, as if an invisible giant ran towards her, the dirt unable to support his weight and massive feet.
+Another hole, as if an invisible giant ran towards her, the dirt unable to support his massive feet.
 
 Bella could only yelp and take one more step. Then the next hole appeared, wide enough to swallow the entire Throne of Tomorrow if it wanted, and sucked her in.
 
 "Help!"
 
-Her screams were stifled by piles of dirt falling on her head. As she fell, she looked out of the hole and saw a blue sky with faintly red clouds, lit by Ardex' angry flames.
+Her screams were stifled by piles of dirt falling on her head. As she fell, the shrinking hole showed a blue sky with faintly red clouds, lit by Ardex' angry flames.
 
 Then she saw only darkness. 
 
@@ -29,13 +31,13 @@ Until the hole spit her out.
 
 She rolled to her feet, agile and on full alert. She used her tail as a shield.
 
-No attack came. The area was as silent as Somnia had been for a million years. Uninhabitated, unlived, unremarkable.
+No attack came. The area was as silent as Somnia had been for a million years. Uninhabited, unlived, unremarkable.
 
 No, it was even _more_ silent. She couldn't even hear the others speak or the crackling of Ardex' flamebreath.
 
-They had assumed that other things, like their bacteria, were able to cross the wall just fine. That it only stopped them. But now she saw the truth.
+They had assumed that other things, like their bacteria, were able to cross the wall just fine. That it only stopped _them_, the godchildren. But now she saw the truth.
 
-She had appeared on the _other_ side of the wall; and it held not a single living thing.
+She had appeared on the _other_ side of the wall---and it held not a single living thing.
 
 Her knees buckled. Her tail drooped. The fear of being unconnected to _life_ crept through her. It made her instantly exhausted and hopeless, as if she only now realized she had not slept for months. She searched, within herself and outside herself, but found no thread of the spider web of life. The wall kept that out too.
 
@@ -53,13 +55,13 @@ Her magic was being smart, and clever, and knowing everything about everything. 
 
 If only her legs would keep working for that long.
 
-As before, her body started disintegrating. Just a few magical shreds came off of her tail and floated to nowhere. That's how much the gods needed life force around them to stay alive.
+As before, her body started disintegrating. Just a few magical shreds came off of her tail and floated to nowhere. Like smoke from a fire; like its dead ashes too. That's how much the gods needed life force around them to stay alive.
 
 Lacking any life or objects, it was easy to look far ahead. The shifting sands had stopped for a bit, but now they continued. Why? How could she predict it?
 
 She ran to the nearest hole, but it had closed itself again when she reached it. She was closer to Ardex, though, who still ran around breathing fire.
 
-Without warning, another bite was taken out of her surroundings. The white stones that shimmered in sunlight were suddenly dark gray or cut into two. The smooth pebbles, softened by years in the water and scrubbed by sand, had become spiky and angular.
+Without warning, another bite was taken out of her surroundings. The white stones that shimmered in sunlight were suddenly dark gray or cut in half. The smooth pebbles, softened by years floating in the river, or scrubbed by sand, had become spiky and angular.
 
 Then it stopped again. The sands shifted to make up for the gaps, the wind blew things back into their proper place---or at least, that's what Bella hoped---and the area settled.
 
@@ -67,7 +69,7 @@ The next time the holes appeared, the answer was abundantly clear.
 
 The hole appeared _precisely_ when Ardex made his next flame.
 
-Bella couldn't believe it. As her tail disintegrated and her vision started to swim, she had to chuckle at the thought. Ardex even destroyed things unknowningly, from a distance.
+Bella couldn't believe it. As her tail disintegrated and her vision started to swim, she had to chuckle at the thought. Ardex even destroyed things unknowingly, from a distance, by accident.
 
 Her disbelief had to be dislodged by cold hard facts. The next flame created another hole, and so did the next. They matched perfectly. It was impossible to deny the connection.
 
@@ -77,14 +79,16 @@ Ardex came closer. He seemed to be carrying something. His firebreath hadn't bee
 
 "Ardex! Here!" Bella tried again.
 
-He couldn't hear. Forunately, he was close enough now to _see_.
+He couldn't hear. Fortunately, he was close enough now to _see_.
 
 His panic multiplied. He dashed straight into the invisible wall, as if pure willpower could shatter it. It did not even bend. 
 
-Once Ardex had pulled himself out of the dirt again, he asked Bella many questions, but she could hear none of them. The wall dampened every sound. It made the world feel dull, your ears sick and your eyes tired.
+Once Ardex had pulled himself out of the dirt again, he asked Bella many questions, but she could hear none of them. The wall dampened every sound. It made the world feel dull, your ears sick and your eyes tired. 
+
+Not just dull. Without a connection to the spider web of life, Bella was _nothing_.
 
 "Keep breathing fire! Do big ones! QUICK!"
 
 She made wild gestures with her fading paws, hoping he'd understand. But she barely understood herself. How could Ardex do this? How could this bypass the wall? How did she communicate _that_?
 
-Instead, doubt and indecision passed over his face, and then Ardex waved goodbye and left her to wither alone.
+Instead, doubt and indecision passed over his face, and then Ardex waved goodbye and left her to wither alone. So much for being a family and sticking together.

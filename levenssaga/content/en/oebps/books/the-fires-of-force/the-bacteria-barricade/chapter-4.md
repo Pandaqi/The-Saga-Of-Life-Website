@@ -5,29 +5,33 @@ weight: 4
 
 As Ardex ran back to Feria, he was surpassed by a _boulder_. The large stone ball, glowing a faint blue-purple, nearly flattened him. The emptiness of Somnia, at the time, meant there were no obstructions and it would keep rolling for quite a while.
 
-Unsurprisingly, it was his brother Darus, God of Earth and Stone, that passed him by next. He never knew that lazy wolf could run that fast.
+Unsurprisingly, it was his brother Darus, God of Earth and Stone, that passed him by next. He never knew that lazy wolf could run so fast.
 
-"My boulder! Come here! Come here!"
+"My boulder!" cried Darus. "Come here! Come here!"
 
 It would be another long stretch of running before the boulder slowed down and was eventually stopped by Feria's paw. Darus hugged the blue stone as if it were his child, even though Ardex had not seen it before. It must have been a recent creation of his. A big one, too large to carry or lift.
 
-Ardex gave Darus' typical antics no further thought. He dragged the remains of the odd bacteria from his back and showed them to Feria. Most had died immediately when separated from the regular bacteria. The ones who survived didn't move much.
+Ardex gave Darus' typical antics no further thought, except for the obligatory and practiced scowl. 
+
+He dragged the remains of the odd bacteria from his back and showed them to Feria. The _only_ sibling of his that always seemed ready to help her family. Bless her. He should tell her that more often, but the burning words always died on his dry tongue.
+
+Most of the weird bacteria had died immediately when separated from the regular bacteria. The ones who survived didn't move much.
 
 He needn't ask. Feria instantly recognized they were different. She cradled a few in her paws and studied them closely.
 
-"This is extraordinary," she exclaimed. "They are like reverse bacteria. Upside-down, inside-out."
+"This is extraordinary," she exclaimed. "They are like reverse bacteria. Upside-down, inside-out. Look, there's this tightly wound thread running inside of them, which the others don't have. I proudly name this new invention ... _Mitos_."
 
-"Can you explain? Can you explain it _fast_?"
+"A fine name," said Ardex hurriedly. "But can you explain? Can you explain it _fast_?"
 
-"Why?" Feria had difficulty looking away from the beings before her.
+Feria had difficulty looking away from the beings before her. "Why?"
 
 "Bella is somehow trapped on the other side of the invisible cage."
 
 "_What?_"
 
-The three of them followed Ardex at a blistering pace.
+Darus and Feria followed Ardex at a blistering pace.
 
-"Where did you find these?" Feria asked. Even at this speed, she was elegant and never out of breath.
+"Where did you find these?" Feria asked. Even at this speed, she moved elegantly and never out of breath.
 
 "A weird clearing of stones. I suspect some magical site built by whoever made the wall."
 
@@ -39,23 +43,25 @@ Feria threw herself against the wall too. She thought she could touch Bella's pa
 
 "We'll get you out. Don't you worry."
 
-"Might these ... reverse bacteria be the answer?"
+"Might these ... reverse bacteria be the answer?" asked Ardex.
 
 "Maybe. Remember how regular bacteria get their energy from sunlight? They suck it in, and out comes movement and a bit of oxygen. They are completely independent and can create their own energy, but it's _very_ weak."
 
-Darus had already spotted the clearing Ardex had talked about. He sauntered to the stones and, being the specialist in the area, inspected them closely.
+Darus had already spotted the clearing Ardex had talked about. He sauntered to the stones and, being the specialist, inspected them closely---at least, once he was done juggling them.
 
-"Well, these new bacteria do the reverse. They draw in _oxygen_ and convert that to energy---much, much more of it."
+"Well," continued Feria, "these new bacteria do the reverse. They draw in _oxygen_ and convert that to energy---much, much more of it."
 
-Ardex frowned. "And then they poop out sunlight?"
+Ardex frowned and spoke before thinking, an unfortunate habit. "And then they poop out sunlight?"
 
 "No. No, that part's different. Or, well, sunlight _is_ a kind of energy ..."
 
-Feria noticed the connections between regular bacteria and reverse bacteria. The first were seethrough to the point they didn't have their own color. The others were thicker and filled with more solid particles, which gave them a red-orange form.
+Feria noticed the connections between regular bacteria and reverse bacteria. The first were see-through, translucent to the point they didn't have their own color. The others were thicker and filled with more solid particles, which gave them a red-orange form.
 
-"Which also means the red ones can't survive independently. They _need_ the oxygen expelled by the others. That's why they only survive when connected, and not when separated."
+"It means the red ones can't survive independently. They _need_ the oxygen expelled by the others. That's why they only survive when connected, and not when separated."
 
 "Not just survive---they thrive!" Darus called. "Have you seen this, Feria? More bacteria in one place than anywhere else in our cage! You could decorate your Stone Gardens with just half of these things!"
+
+"There will be _no_ 'decorating' anything until we solved---" grumbled Ardex.
 
 Bella kept saying something; none of them could figure it out.
 
@@ -66,6 +72,8 @@ It wouldn't be long before Bella's face had vanished too, turned to shreds as sh
 Ardex bellowed and opted for the fire solution again.
 
 "No! Don't anger Father even more!" Feria yelled. "I'd like to _keep_ my Stone Gardens!"
+
+Selfishness too? From Feria, of all siblings?
 
 Just like Eeris had her Withered Willows, Feria had been working on her Stone Gardens for a million years. The animals she loved so, the animals she remembered from Father's lessons, but made of stone and sand. Which meant they were unmoving statues that would never start moving. Still she would not want to see them destroyed like Eeris' forest had been.
 
@@ -89,7 +97,9 @@ _Or in your world, dear reader, you might say it was a battery and Ardex had dra
 
 "You're making that up, brother," Ardex said.
 
-"No, no, I remember that too," Feria said. She hung against the boundary again, which refracted their vision as if they were swimming underwater, but was otherwise invisible. She kept trying to hold Bella's paw. Even as it faded and the Goddess of Wisdom trembled.
+"No, no, I remember that too," Feria said. 
+
+She leaned against the boundary again, which refracted their vision as if they were swimming underwater, but was otherwise invisible. She kept _trying_ to hold Bella's paw. Even as it faded and the Goddess of Wisdom trembled.
 
 "You _can't_ create _something_ out of _nothing_," said Darus. "Any time you create fire and heat, brother, you must _take_ something else away somewhere. It needs fuel. It needs to be offset with a payment."
 
@@ -97,26 +107,28 @@ _Or in your world, dear reader, you might say it was a battery and Ardex had dra
 
 "We call it magic because we don't understand what we're destroying to perform a spell. Not yet." Feria clamped Ardex' mouth shut before he could spit fire again. "Which is why we shouldn't use it with _complete disregard_, setting things _on fire at will_!"
 
-"Oh. Great. Just great. I'm the _only one_ making progress here, and _still_ you want me gone!?"
+"Oh. Great. Just great. I'm the _only one_ making progress here, and _still_ you want me gone!? Why don't _you_ go back to your little Stone Gardens and sit around while your family dies, huh!?"
 
-"I did not say that."
+"I did not say that," said Feria, calmness itself.
 
 "Fine. I'll stop using my fire, completely, permanently. Let's see how you get Bella back _now_."
 
 "She is _not_ a bargaining chip. She is scared to death!" 
 
-"Woah, woah, woah," Darus yelled. He dropped the stone he was holding. 
+"Woah, woah, woah," yelled Darus. He dropped the stone he was holding, then jumped into the water.
 
-Feria caught it, then dropped it too. She couldn't describe the feeling---the stone wasn't particularly hot, or cold, or heavy---but touching it was too painful. 
+Feria caught it, then dropped it too. The stone buzzed, moved, jerked around like a frenzied mosquito trying to escape a trap. She couldn't describe the feeling---the stone wasn't particularly hot, or cold, or heavy---but touching it was too painful. 
 
-"Your ... your anger has _recharged_ it. It's at least good for something."
+"Your ... your anger has _recharged_ it. It's at least good for something!"
 
 "Don't coddle me."
 
 "No really---"
 
-Ardex walked away, too angry to care for Bella. Without his Heavenmatter to control him, objects they all had to leave behind when Father suddenly banished them, the fire inside him sometimes got the better of him.
+"Don't bother coming after me again with your lies about working together."
 
-"And look at that," Darus said, now a distant voice. "Another boulder like mine. Hidden behind the stones at the back, instead of proudly in the center. Something must have dislodged it."
+Ardex walked away, too angry to care for Bella. Without his Heavenmatter to control him, which were objects they all had to leave behind when Father suddenly banished them, the fire inside him sometimes got the better of him.
 
-"Or ... someone," answered Feria. "Say, Darus, where exactly _did_ you get that first boulder of yours?"
+"And look at that," Darus said, now a distant voice, so jolly and careless that Ardex could almost strangle his brother. "Another boulder like mine. Hidden behind the stones at the back, instead of proudly in the center. Something must have dislodged it."
+
+"Or ... someone," answered Feria. "Say, Darus, where exactly _did_ you get that first blue boulder of yours?"

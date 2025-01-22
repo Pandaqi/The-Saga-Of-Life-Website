@@ -7,11 +7,11 @@ Gulvi gave up, out of luck. And out of ideas. The dolphin had no issue racing th
 
 The water current picked up again, smashing into him and creating a cloak of bubbles. It forced him back the way he came. And he knew that the faster he swam, the stronger the current would be. 
 
-What was out there? What was on the other side of the ocean that his family were not allowed to see? The thought just made him even more eager to see it.
+What was out there? What was on the other side of the ocean that his family were not allowed to see? The thought just made him even more eager to see it. He had claimed this ocean as his throne and named it the _Dolphin Pass_, but he could really only use a tiny fraction of it before the boundary stopped him.
 
-But the dolphin could not trick the invisible wall; it would always find a way to push him back where he belonged.
+Alas, the dolphin could not trick the invisible wall. It would always find a way to push him back where he belonged.
 
-He fell limp and let the current push him back. Along the way, he noticed a large collection of blue-purple boulders. They seemed a bit too smooth and too large to be natural. He decided to ask Darus if he'd been trying to invent a ball sport to be played underwater again.
+He fell still and let the current push him back. Along the way, he noticed a large collection of blue-purple boulders. They seemed a bit too smooth and too large to be natural. He decided to ask Darus if he'd been trying to invent a ball sport to be played underwater again.
 
 As he resurfaced, footsteps splashed through the shallow water nearby. Gulvi could recognize all his siblings just by splashing alone---and this was Cosmo, a great bird and God of Air and Space.
 
@@ -19,9 +19,11 @@ He wasn't having much success either.
 
 He kept launching himself from higher and higher objects, flapping his great wings at a speed that blurred them to Gulvi's eyes. And he could fly fast, yes, and he could reach high, but he could not get _over_ the invisible wall. Perhaps it was also an infinite wall.
 
-And in the end, even to a bird, gravity would always win. Cosmo's wings would tire and he'd be forced to fall back down to the earth. He was so tired of trying to pass the invisible wall that he'd chosen to rest his wings and crash land in the soft sea.
+And in the end, even against a bird, gravity would always win. Cosmo's wings would tire and he'd be forced to fall back down to the earth. He was so tired of trying to pass the invisible wall that he'd chosen to rest his wings and crash land in the soft sea.
 
 Gulvi rested his fins too and let the water current bring him to his brother.
+
+When they left, they disagreed with the others about how to overcome the wall. Gulvi was certain there had to be a gap _somewhere_ on the wide ocean. Cosmo scoffed when they questioned his ability to fly over it. They made a fuss, called Ardex an ugly sour cat, and left without a word, many moon cycles ago. Now they longed to return, with slight shame drooping from their faces, and get new ideas from their siblings.
 
 "Sometimes, I think," Cosmo said, his gaze distant. "If nature wants it to be that way, why don't we just let it? Stop struggling against it. If everything is supposed to fall to the floor, why do I keep trying to fly?"
 
@@ -31,7 +33,9 @@ Yes, that's true. Gulvi had said something smart, he told himself. The world was
 
 He was quite proud of that, as he was pretty new to saying smart things. With the disappearance of Hanah ever since they landed here, he was technically the youngest of them all. A toddler on the time scale of gods. A _smart_ toddler at---
 
-Something stirred in the water. He wasn't used to bacteria doing this much, and when he looked, his suspicion was confirmed: it was no bacteria. Long blobs in different colors radiated from a boulder. They were thick and round at one end, but pointy and thin at the other, like Cosmo's beak, or arrows.
+Something stirred in the water. He wasn't used to bacteria doing this much, and when he looked, his suspicion was confirmed: these were no bacteria. Long blobs in different colors radiated from a boulder. They were thick and round at one end, but pointy and thin at the other, like Cosmo's beak.
+
+Or ... arrows?
 
 Unease crept through his fins. These creatures did not _interact_ with the water. They did not create waves, nor bubbles, nor push things aside. As if they weren't just slightly see-through but also slightly pass-through, like a ghost.
 
@@ -49,13 +53,17 @@ Both of them dove into the water to catch a few of these arrowheads. This was a 
 
 Then Gulvi noticed a few that stayed nearby. They didn't align with the water, no, they sprung out of a carpet of bacteria. A moving carpet. And as expected, the arrowheads aligned themselves with the direction in which they moved. As if predicting where it was going to go next.
 
-"Oh, oh, can I name them?" Gulvi chattered. "I can give smart-sounding names too, just like you. I call these ... _Sizzlefish_. No, no, that's not good enough. And they're not just in the water. I call them ... _Enyrgias_."
+"Oh, oh, can I name them?" Gulvi chattered. Indeed, when nothing happened for millions of years, godchildren were bound to develop an obsession with giving any discovery a fun name. "I can give smart-sounding names too, just like you. I call these ... _Sizzlefish_. No, no, that's not good enough. And they're not just in the water. I call them ... _Enyrgias_."
 
-"Never mind the name!" Cosmo said. "Where did they come from? Why didn't we see them before? No, don't touch them!"
+"Never mind the name!" said Cosmo. "Why didn't we see them before?"
+
+"Why would we?" replied Gulvi while chasing them. "The laws of the universe have always been the same, always there. But we're only _discovering_ many of them now, aren't we?"
+
+Cosmo's feathers scratched his chin. "What do they mean? Where do they come from? No, little brother, don't touch them!"
 
 Gulvi had already tried to hug a group of them, but he was right: they were like ghosts. Untouchable. Maybe not even there at all.
 
-"Dear Enerygias," Cosmo said. "What are you? Can you talk? Could you please use your strength to break the invisible wall?"
+"Dear Enyrgias," said Cosmo. "What are you? Can you talk? Could you please use your strength to break the invisible wall?"
 
 No response. They didn't really expect one. The Enyrgias simply showed the movement of water and bacteria, and when that died down, they vanished too.
 
@@ -65,9 +73,11 @@ Gulvi followed the strongest current of them all. It was easy to find: it had th
 
 That powerful wave hit one of the boulders. This completely stilled the water; but now the boulder flew through the water, almost crushing them. All the Enyrgias from before had jumped ship: they now circled the boulder and displayed how _that_ object was moving.
 
-Once the boulder reached the surface it shot into the air. Gravity slowed it down, but as before, the Enyrgias didn't disappear. Even as the boulder hung in the air, ready to fall down, it was surrounded by the same amount of creatures as before. As if the boulder had saved up energy by slowing down in the air, and would unleash it soon by falling back down.
+Once the boulder reached the surface it shot into the air. 
 
-Cosmo was the better mathematician of the two. After seeing this happen a few times in a row, he confirmed.
+Gravity slowed it down quickly. But as before, the Enyrgias didn't disappear. Even as the boulder hung in the air, still, ready to fall down, it was surrounded by the same number of creatures as before. As if the boulder had _saved up_ energy by slowing down in the air, and would _unleash it_ soon by falling back down.
+
+Cosmo was the better mathematician of the two. After seeing this happen several times, he confirmed.
 
 "They always stay the same. They may jump to different objects, or change, or convert from water to air. But the number of them, at least in our close vicinity, stays the same."
 
@@ -77,4 +87,4 @@ Yes! Another smart quote! Bella should start writing these _down_. Where _was_ s
 
 "But that doesn't mean," said Cosmo, "we can't try and grab a _larger_ slice of energy before having to give it back."
 
-Eeris the Giraffe hobbled onto their beach. She told of an ambitious plan that needed their help. A last attempt to save Bella, who had almost disintegrated.
+Feria ran onto their beach. She told of an ambitious plan that needed their help. A last attempt to save Bella, who had almost disintegrated.

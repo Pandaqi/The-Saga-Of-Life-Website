@@ -3,15 +3,15 @@ title: "Withered Willows"
 weight: 2
 ---
 
-Ardex couldn't believe his eyes. Nor his ears, which repeatedly heard his siblings confirm the truth. He had slept for an entire week and still felt groggy. A week lost! A week in which they could've made more progress creating complex life!
+Ardex couldn't believe his eyes. Nor his ears, which repeatedly heard his siblings confirm the truth. He had slept for an entire moon cycle and still felt groggy. A moon cycle lost! One in which they could've made more progress creating complex life!
 
-They had not broken through the barrier. Quite the opposite. Their cage had shrunk as a large chunk of their continent had _withered_.
+They had not broken through the barrier. Quite the opposite. Their cage had _shrunk_ as a large chunk of their continent had _withered_.
 
-Eeris, in her quest for trees and pretty plants, had built a tiny toy forest out of sand, stone and bacteria. Sure, they _looked_ like trees, but they were not the same thing. It was her pride and masterpiece, after thousands of years of work. It was the only real highlight of their planet until that point.
+Eeris, in her quest for trees and pretty plants, had built a tiny toy forest out of sand, stone and bacteria. Sure, they _looked_ like trees, but they were not the same thing. It was her pride and masterpiece, after laboring for thousands of years. The only real highlight of their planet.
 
 It was completely erased. That's why he hadn't recognized it.
 
-Despite not living, the trees had shriveled, their make-beleaves turned black. The ground had turned from friendly dirt to hard black stone which even Darus couldn't soften. They had named the entire area the Withered Willows. That's how long Ardex had been asleep---they'd come up with names for their disasters.
+Despite not living, the trees had shriveled, their make-beleaves turned black. The ground had turned from friendly dirt to hard black stone, which even Darus couldn't soften. They had named the entire area the Withered Willows. That's how long Ardex had been asleep---they'd already come up with names for their disasters.
 
 "Whoever made those invisible walls," said Feria, "they didn't like your attack."
 
@@ -23,11 +23,11 @@ He spoke loudly and with confidence; his body didn't feel ready to breathe fire 
 
 Feria picked up a few of them and studied their movements.
 
-_They covered the land as colorful carpets, dear reader, but your human eyes wouldn't be able to see them. They were larger to the eyes of gods, which always saw living beings as connected like a large spider web of life. Even so, they didn't even cover half the space yet, for they moved and duplicated too slowly._
+_They covered the land as colorful carpets, dear reader, but your human eyes wouldn't be able to see them. They were larger to the eyes of gods, which always saw living beings as connected like a gigantic spider web of life. Even so, they didn't even cover half the space yet, for they moved and duplicated too slowly._
 
-"Bacteria are weak," the fox said. "They are just simple cells that still live off of sunlight. That barely gives them enough energy to wiggle."
+"Bacteria are weak," the fox said. "They are simple cells that still live off of sunlight. That barely gives them enough energy to wiggle."
 
-Ardex paused. He _had_ noticed that standing in sunlight made him feel more powerful too, his fire run hotter. On the other hand, the dolphin Gulvi hated it and felt weak in sunlight.
+Ardex paused. He _had_ noticed that standing in sunlight made him feel more powerful too, and his fire run hotter. On the other hand, the dolphin Gulvi hated it and felt weak in sunlight.
 
 "Where do _we_ get our energy?" mumbled Ardex.
 
@@ -41,15 +41,15 @@ Eeris sat amidst her shriveled trees and cried. The Withered Willows used to dwa
 
 "I absolutely will not---"
 
-"Sure. What if Father destroys your precious Throne next?"
+"Sure. What if Father destroys _your_ precious Throne next? It's over."
 
 "We don't even know if it's Father," said Bella, trying to make peace with hand gestures. 
 
-The prospect of an unknown enemy wandering around Somnia frightened Ardex more than his Father being moody. And when he's afraid, he starts doing something. Usually the activity selected was _fire and destruction_. 
+The prospect of an unknown enemy wandering around Somnia frightened Ardex more than his moody Father. And when he's afraid, he has to _do something_. Usually the activity selected was _fire and destruction_. 
 
 "I am going to attack until we have a gap. Let whoever built the wall be angry."
 
-"No!" Eeris stood and wrapped her neck around his ankles. "Can't you just be _reasonable_ for once and stop solving everything with your useless fire?"
+"No!" Eeris stood and wrapped her neck around his ankles. "Can't you just be _reasonable_ for once? Instead of applying your useless fire to every---"
 
 "Being reasonable gets us nowhere! More _energy_, yes, that will do the trick."
 
@@ -61,7 +61,11 @@ Ardex ran away. Bella tried to stop him again.
 
 "Please, stay. We need everyone's minds and abilities if we are to figure out---"
 
-"Really? You need my _'useless fire'_?"
+"Then where are the others? Why aren't you kicking lazy Darus out of his bed of stone?"
+
+"He's ... you know how he is. Never serious. Would just make jokes and play pranks on us, it's _tiring_. But your abilities are neces---"
+
+"Really? You suddenly need my _'useless fire'_?"
 
 Shaking his head, he pushed Bella aside and ran away even faster. Always the same. All those years and they still thought he was a dumb soldier and nothing more. While his powers were stronger than theirs! He could do everything on his own, if he wanted. He didn't need them.
 
@@ -69,7 +73,7 @@ He followed the invisible wall. Sometimes it hugged a river, or a cliff, or a su
 
 He felt for energy. Regularly, he stopped at a new location, closed his eyes, and tried to feel his magic. Was it stronger here? Did he feel more energetic? Was this a secret energy source?
 
-Most of the time, he felt nothing. Every patch of dirt was the same, the water was certainly not the place for a fire god, and the Withered Willows were dead and lacking energy entirely. Standing there, it almost felt as if the breath was sucked _out_ of him.
+Most of the time, he felt nothing. Every patch of dirt was the same, water was certainly not the place for a fire god, and the Withered Willows were dead and lacking energy entirely. Standing there, it almost felt as if the breath was sucked _out_ of him.
 
 Then energy surged through him, shocking him with the added buzz and excitement.
 
@@ -79,22 +83,24 @@ _In a world without trees or plants, dear reader, you might wonder how there cou
 
 Upon his approach, Ardex oh so cleverly ignored the clear warning signs carved into the stones---red triangles with skulls inside.
 
-And within that clearing he saw the thickest, most colorful carpet of bacteria he'd ever seen. It was impossible to even enter the clearing at certain exits: they they were clogged by the busy bacteria.
+And within that clearing he saw the thickest, most colorful carpet of bacteria he'd ever seen. It was impossible to even enter the clearing: most gaps were clogged by busy bacteria.
 
-Ardex lay flat on his stomach to study them from close range. He had the eyes of a god, but not the nature-sensitive eyes of Feria and Eeris. 
+Ardex lay flat on his stomach to study them from close range. He had the eyes of a god, but not the nature-sensitive eyes of Feria and Eeris. No, stop thinking like that. His eyes were every bit as godly as theirs; he had all the power he needed to solve this problem at once.
 
 To him, it seemed that these bacteria were simply _better_. More energetic. Faster. More eager to actually make things happen.
 
-Any time he'd blink, ten more bacteria had found each other and made each other stronger. They seemed to do a handshake. Sometimes, the bacteria absorbed sunlight, as Feria had said. They'd briefly darken the area around them and grow slightly larger, as if eating a sunray.
+Any time he'd blink, ten more bacteria had found each other and strengthened each other. They seemed to do a handshake. Sometimes, the bacteria absorbed sunlight, as Feria had said. They'd briefly darken the area around them and grow slightly larger, as if eating a sunray.
 
 And then sometimes they'd absorb something left behind by _other_ bacteria. Tiny particles, glowing like stars to Ardex' eyes, gobbled up eagerly.
 
-He grinned and carefully grabbed as many of these bacteria as he could. They were linked so tight that he could throw them onto his back like an actual carpet, although he ripped a good many connections in the process. These creatures were so numerous and fast that he could only take a small percentage of everything in the clearing.
+He grinned and carefully grabbed as many of these bacteria as he could. They were linked so tightly that he could throw them onto his back as actual carpets, although he ripped some in the process. His massive tiger body could still only take a small percentage of all living beings in the clearing.
 
-Yes, yes, he felt the energy. His body jolted awake and he felt he could go on for days. If they could use these bacteria, they'd have _infinite_ energy soon!
+Yes, yes, he felt the energy. 
 
-He threw the bacteria at the invisible wall, like throwing stones and pebbles at a window.
+His body jolted awake and he felt he could go on for days. For many moon cycles! If they could use these bacteria, they'd have _infinite_ energy soon!
+
+He threw the bacteria at the invisible wall, like throwing pebbles at a window to start a burglary.
 
 "Eat! Devour it! Break it!"
 
-Instead, they all died instantly. Ardex' heart stopped in fear of the retribution from Father for this attempt.
+Instead, they all died instantly. Ardex' heart stopped in fear of Father's retribution for this attempt.

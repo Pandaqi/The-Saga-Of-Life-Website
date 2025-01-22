@@ -135,13 +135,13 @@ As we move through the cycle and you see other types of energy, I hope this conc
 
 
 ## Revision
+**@NOTE:** Make sure the final events (dysfunctional family, Darus mistreated, new bacteria, Father-Mother brief appearance) are all handled correctly in this one.
+
 **@IDEA**: Add "double shadows" or "deeper/moving shadows" to situations where someone is about to die => most likely the Gosti/Tiger with Darus, then Bellafax later. These only appear with Ardex near, though, so have it be clear he's around.
 
-@TODO: Actually describe the foxes a bit more, give the unique/specific things that _set them apart_ from modern foxes.
+@TODO: Actually describe the foxes a bit more, give them unique/specific things that _set them apart_ from modern foxes.
 
 @TODO: Be a little more clear/specific about that the Marker Stones suck out energy (to recharge themselves), _that's_ why Darus turned a statue. (Only when charged do they _give out_ the energy.) That makes the end more sensible.
-
-@TODO: Add the phrase "Nothing's Gonna Change My World" to story 1 (of this cycle) too?
 
 @TODO: Optional extra paragraph/bit for when Alix is traveling.
 > "At some point, everyone would figure out that Alix could not defend himself. That all his food went to his brains and nothing else. And then he'd leave for a different territory, escaping a terrible death once again."

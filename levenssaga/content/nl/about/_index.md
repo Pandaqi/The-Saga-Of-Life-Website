@@ -94,7 +94,7 @@ Ook sta ik geheel toe dat ik over tijd zal veranderen als persoon en als schrijv
 
 De Levenssaga zal dus constant blijven groeien en ontwikkelen. Daarom staat er bijvoorbeeld geen wereldkaart op de website: terwijl ik dit schrijf, zijn grote delen nog leeg (of zouden spoilers bevatten). 
 
-Essentieel hierbij is **feedback**. Als je een verhaal minder vond, of juist geweldig, laat het weten! Mail me op: [tiamopastoor@gmail.com](mailto:tiamopastoor@gmail.com)
+Essentieel hierbij is **feedback**. Als je een verhaal minder vond, of juist geweldig, laat het weten! Mail me op: [harmonize@thesagaoflife.com](mailto:harmonize@thesagaoflife.com)
 
 ## Overig
 
