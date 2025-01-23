@@ -12,9 +12,9 @@ He did not catch anything.
 
 She climbed higher into a tree. A large family of Gosti cried out and stumbled away from her, some even leaping to a different tree with complete disregard for their safety. Only a few of them stayed, and that was because they played dead.
 
-"Did you see anything?" Feria asked. "You must have. You're in the trees all the time. And your eyes are _huge_."
+"Did you see anything?" Feria asked the Gosti. "You must have. You're in the trees all the time. And your eyes are _huge_."
 
-They slowly shook their head. Why were they scared? Did they fear punishment for their role in making the dinosaurs go extinct?
+They slowly shook their head. Why were they scared? Did they still fear punishment for their role in making the dinosaurs go extinct?
 
 She was losing the Smasher. 
 
@@ -30,39 +30,45 @@ The Megarioth closed his eyes a final time. He flattened several trees and unluc
 
 Then Feria spotted it. He had a _hole_ in his body. The Smasher had not just run into him, it had actually _cut through_ him. This was insane. Unthinkable.
 
-"Darus!" she yelled. "Fall Back! It's too dangerous!"
+"Darus!" she yelled. "Fall back! It's too dangerous!"
 
 Too late. Darus howled in pain.
 
-Feria shot from the treetops and landed besides Ardex. In the distance, several more trees suddenly bend in half, as if folded in two by the hands of a giant. That was the last Feria saw of that weird glowy form she assumed was the Smasher.
+Feria shot from the treetops and landed besides Ardex. In the distance, several more trees suddenly bend in half, as if folded in two by the hands of a giant. That was the last Feria saw of the weird, semi-glowing form she assumed was the Smasher.
 
 Darus' body had no holes. But he was stuck underneath a giant stone. The Smasher had broken it off of a nearby mountain and made it land on the wolf. His fur had quickly turned from brown to gray, his eyes dull.
 
 Oh no. No, no, no. That was the same look he had when he was a statue for _years_.
 
-"I am fine," Darus said, trying to sound playful. "No don't hurry to save me, just stand there looking shocked, it's all _fine_."
+"Say, I am fine," Darus said, trying to sound playful. "No don't hurry to save me, just stand there looking shocked, it's all _fine_."
 
-Feria gently touched his fur and kissed her brother on the cheek. Even so, they could not move that boulder. They would normally ask Darus to do it, but he could not access that magic now.
+Feria gently touched his fur and kissed her brother on the cheek. Even so, they could not move that boulder. 
 
-Ardex' fires made a ring around Darus, as he strained to unpin his brother. Darus was groaning in pain, his leg being squashed by the heavy stone. Just a paw's length of movement would be enough to set him free, but the sabre-toothed tiger could not do it.
+They would normally ask Darus to do it, but he could not access that magic now. His power had been a bit _all or nothing_ before, admittedly, but after being disconnected from energy that long he seemed _afraid_ to really use it. To spend the energy on it. 
+
+The slightest obstacle made Darus lose touch with his magic, and it saddened Feria more than she could say. Her buddy. Her endless well of wolf optimism, now run dry. She hadn't realized how much she depended on him specifically until she couldn't anymore.
+
+Ardex' fires made a ring around Darus, as he strained to unpin his brother. Darus was groaning in pain, his leg squashed by the heavy stone. Just a paw's length of movement would be enough to set him free, but the saber-toothed tiger could not do it.
 
 Alix climbed over the Megarioth and entered the circle. With every step, he seemed to think about stopping altogether and just sitting down.
 
 "Well, don't say I didn't warn you. No, Ardex, you're not moving that boulder any time soon."
 
-"Who are you," Ardex spoke through clenched teeth, "and why do you think you can talk to gods like that?"
+"Who are you," Ardex spoke through clenched teeth, "and how dare you speak to gods like that?"
 
 "It's _fascinating_." Alix eagerly ran to him to explain. "I've studied this for years and found the answer."
 
-"Well," Ardex roared, "keep your answer to yourself and go back to annoy your family."
+"Go back to your family," Ardex roared, "and keep your clever answers to yourself."
 
-Alix stopped tapping and his tail fell flat.
+Alix stopped tapping. His tail fell flat.
 
 "I lost my family," he mumbled. "And my mother got rid of me. By now, she has probably been taken by the Smasher too."
 
-He sniffed, the hit his own forehead. "I could have saved them. If my _brain_ was _working_."
+He sniffed, then hit his own forehead repeatedly. 
 
-_In these times, dear reader, groups and families were still uncommon. The foxes were one of the first to live like that, but even their groups had only a handful of beings. By studying them, Feria had noticed one single truth: you're not supposed to lose them or be kicked out. That meant certain death for a social animal._
+"I could have saved them. If my _brain_ was _working_."
+
+_In these times, dear reader, groups and families were still uncommon. The Giant Foxes were one of the first to live like that, but even their groups had only a handful of beings. By studying them, Feria had noticed one single truth: you're not supposed to lose them or be kicked out. That meant certain death for a social animal._
 
 Alix turned around and shuffled away. 
 
@@ -80,7 +86,7 @@ Feria flared red. "You disgust me."
 
 "You know I'm right."
 
-"Yeah, sure, forget about me," Darus said again, sounding less cheerful than before. "Not like I can feel my legs or tail or anything."
+"Say, sure, forget about me," Darus said again, sounding less cheerful than before. "Not like I can feel my legs or tail or anything."
 
 "_The thing doesn't move,_" said Ardex, giving a final push.
 
@@ -100,8 +106,8 @@ She felt close to a realization; she was sure Alix could have just told them.
 
 Feria froze. Ardex tried to comfort his brother, still pinned below layers of stone.
 
-"Haul Bella off of her throne. We need everyone for this. I don't care how scared she is."
+"Haul Bella off of her throne," said Feria. "We need everyone for this. I don't care how scared she is."
 
-"What did you say again, Feria? We must be more kind to our family? You have an odd way of---"
+"What was it you said again, little sister? We must be more kind to our family? You have an odd way of---"
 
 Feria was already gone. She tracked Alix into the night at a dangerous speed.

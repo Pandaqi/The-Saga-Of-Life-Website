@@ -30,7 +30,7 @@ And so did the crows living in all the other trees.
 
 The rain of rocks turned into a storm of stones. Their fox fur was pelted from every direction, cut and scraped until Alix couldn't remember where he was. A small river of blood ran from him, seeking to merge with the Dolphin Pass up ahead.
 
-Feria roared, accessed her magic, drew energy from somewhere else, and _stopped_ the hearts of all the crows.
+Feria roared, accessed her magic, and drew energy _from_ all the hearts of the crows. Which stopped them.
 
 Their eyes bulged and they fell from their branches. Feria had not killed them, only made them faint. All except Crassa---she could not keep such a dangerous crow alive.
 
@@ -44,7 +44,7 @@ Alix didn't accept them. He sunk into the dirt, cleaning his wounds in the water
 
 "How can I be fascinated by life and animals ... and allow you to kill dozens of them just for me?" Alix picked up one of the stones that the crows had thrown. "_Fascinating_. How did they get it this sharp? Have the Gosti tools spread to the birds too? Mami, again?"
 
-Feria was used to Alix suddenly jumping to different topics now. She brought him back. 
+Feria was used to Alix suddenly jumping to different topics now. She brought his attention back. 
 
 "Sometimes," said Feria, "there are no perfectly good choices. And still a choice must be made. But we need brains like yours, we need to save the Giant Foxes, to maybe find _better_ solutions one day. The crows would just use their brains for finding food and surviving, nothing more. The tigers would just use their brains for killing. You think further ahead, even if it takes a lot of food to give you enough energy for it."
 
@@ -52,11 +52,15 @@ Alix' face was painted in disbelief. "You really think I am worth all that?"
 
 "_You are_. Absolutely."
 
+His pink fur turned pink and red. His drooping whiskers stopped touching the ground, and instead briefly weaved through the much shorter whiskers of Feria.
+
 And so they traveled further.
 
-They traveled to ice sheets, to tropical rainforests, to thick forests and barren grasslands. Their ice age was coming to an end, but even within an ice age there was still variety. Pockets of land that were warm and filled with life, and pockets of land so jagged and hellish you couldn't even stand there.
+They traveled to ice sheets, to tropical rainforests, to thick forests and barren grasslands. Their ice age was coming to an end, but variety existed even within an ice age. Pockets of land that were warm and filled with life, and pockets of land so jagged and hellish you couldn't even stand there.
 
-And the plants and animals were _different_ everywhere. Only one species appeared everywhere: the Gosti. How they'd done so, especially with the lack of trees, was a mystery.
+At some point, food would run out, or everyone would figure out that Alix could not defend himself. That all his food went to his brains and nothing else. And then they'd leave for a different territory.
+
+Everywhere they went, the plants and animals were radically _different_. Only one species appeared wherever you looked, and when you least expected it: the Gosti. How they'd done so, especially with the lack of trees, was a mystery.
 
 Feria had been hesitant to take Alix to all those places. But Alix had the power of _adaptability_. When they were in freezing cold territories, Alix would repurpose the fur from animals Feria killed. When they were in dry territories, Alix would save any rainfall in a hollowed-out stone, which he called a _bucket_. The fox' body was small and flexible enough to adapt with it.
 
@@ -68,9 +72,9 @@ They still didn't know how. When they'd gone to hide the Marker Stones again, Da
 
 Feria's fur stood up, her spine tingling. She did not like to linger here, especially not with Alix weakened. 
 
-She looked out at the water and saw the faintest hint of another continent in the distance. Oh how she longed to remove that barrier and go there.
+She looked out over the water and saw the faintest hint of another continent in the distance. Somnia was much larger than the tiny area where they'd been trapped. The area that had given her so many terrible experiences and memories already, thanks in no small part to Ardex and his stupidity. Oh, how she longed to remove that barrier and go there. Get her own patch of land without family troubles.
 
-Alix, however, wanted to sleep. He did that a lot, to recharge energy. Sometimes he said he wanted to sleep five times a day, as the sun shone bright.
+Alix, however, wanted to sleep. He did that a lot, to recharge energy. Sometimes he said he wanted to sleep five times a day, even as the sun shone bright.
 
 For the first time, Feria could not suppress her urge. Her need to snuggle close to him, for warmth, for safety, like a shield around him. Maybe it was because they'd known each other for so long. Maybe it was because he was wounded and shivering.
 

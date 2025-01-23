@@ -2,7 +2,7 @@
 title: Hearts of Stone
 weight: 5
 ---
-Feria fell to her knees and felt the energy drain from her body. She'd searched the forest all night and only found three Giant Foxes. Two dead. One looking equally dead.
+Feria fell to her knees and felt drained. She'd searched the forest all night and only found three Giant Foxes. Two dead. One looking equally dead.
 
 "No, no, _no_!" 
 
@@ -26,9 +26,9 @@ Alix giggled. "You are not regular. I studied you."
 
 Feria studied his head. It _was_ unusually large. Something must have gone wrong with his genes. He was born with a far larger brain than other foxes, which made him smart, but also made him expend energy at a ridiculous pace.
 
-Feria gave a kiss on his forehead. Alix looked confused, as if he had never even imagined someone doing that.
+Feria gave a kiss on his forehead. Alix looked confused, as if he had never even imagined the act was possible.
 
-"I know what you feel," Feria whispered, as she pulled Alix to his feet. "Our parents wanted to get rid of us too. Now here we are. Bickering, not trusting each other, and regularly _almost_ dying because we leave each other alone."
+"I know what you feel," Feria whispered, as she pulled Alix to his feet. "Our parents wanted to get rid of us too. At least, that's the conclusion Darus and I reached. Now here we are. Bickering, not trusting each other, and regularly _almost_ dying because we leave each other alone."
 
 Alix stared past her. "_Fascinating!_"
 
@@ -38,7 +38,7 @@ She followed his gaze.
 
 "The stars. There are so many of them. And they make shapes, you see that?" Alix climbed a small tree to get a closer look. "I wonder what's out there. Must be more planets like ours, right? Maybe there are more gods! And you could be friends! Or find new family there!"
 
-Feria couldn't suppress a smile. "Maybe. Would be nice, wouldn't it?"
+Feria couldn't suppress a smile. "Maybe. Would be nice, wouldn't it? To get advice from other stumbling gods. To try again on another planet if we fail here ..."
 
 Alix pointed at random objects around him. "This place stinks. Mothers kill their sons. Half of life is trampled before they're one year old, the other half is big as a mountain. And even _they_ aren't safe from freak creatures like the Smasher. Surely, on other planets, everyone just lives in peace and harmony?"
 
@@ -46,11 +46,11 @@ Alix pointed at random objects around him. "This place stinks. Mothers kill thei
 
 "No. I don't accept that. I will either change the world ... or I will just fly to another one!"
 
-Alix studied the universe once more, and once his gaze could flee the twinkling stars, they settled on a path of stones.
+Alix studied the universe once more. Once his gaze could flee the twinkling stars, they settled on a path of stones.
 
 Stones that used to be whole, but now they were broken open. As if someone tried to steal the heart from inside of them.
 
-Feria hesitantly walked to the stone and sniffed it from all sides. "What do you think that is?"
+Feria hesitantly walked up to one and sniffed it from all sides. "What do you think that is?"
 
 "Saltstones. Very strong. Only Darus can manipulate them, as far as I know. Not actually that much salt inside of them."
 
@@ -64,7 +64,7 @@ Maybe he secretly had the Book of Meaning. Bella had only recently claimed it ag
 
 Alix walked up to the first stone. A hole in the center betrayed that it _had_ stored something inside, but it was gone now. He rotated the object in his paws, several times, until he was satisfied.
 
-He removed the energy from his brain and pushed it into his paws instead. Then he struck the stone at a precise location.
+He removed the energy from his brain and pushed it into his paws instead. At that moment, he was a very dumb but very strong fox. Then he struck the stone at a precise location.
 
 It fell apart into two perfectly equal parts.
 
@@ -72,15 +72,15 @@ Alix grinned. "Magic commences at my touch."
 
 "You can do magic?"
 
-"No. It's just science. If you strike the right place, these stones break predictably. Even without that much force."
+"No, no. It's just science. If you strike just the right place, these stones break predictably. Even without that much force."
 
 Feria tried it too. After a bit of practice, she managed it.
 
 Then she remembered what was _supposed_ to be encased in Saltstone.
 
-The ground trembled. The broken stones danced before their eyes, rolling away from them or breaking once more. The wind picked up.
+The ground trembled. The broken stones danced before their eyes, rolling away from them or chipping once more. The wind picked up.
 
-There was that twinkling again. That glow that exploded from the Smasher and trailed it like a burning star.
+There was that twinkling again. The faint burst of Enyrgias that exploded from the Smasher and trailed it like a burning star.
 
 "There! Into the cave!" Feria yelled.
 
@@ -96,7 +96,7 @@ Feria curled herself around Alix. Her animal magic quested outwards, searching f
 
 They rolled from the cave, through the trees. 
 
-Silence returned; then the ground split open and a hail of dirt and broken twigs hurled them from the place.
+Silence returned; then the ground split open and a hail of dirt and broken twigs hurled them from their place.
 
 Alix was frozen again. He slipped from her grasp. 
 
@@ -108,15 +108,15 @@ His featherweight body easily flew over the treetops, to land far away.
 
 The Smasher. It _was_ a living being, she could feel it clearly now.
 
-She opened her eyes, looked intensely, but saw nothing at all. Even as another wall of stone exploded, even as trees folded in monstrous winds, she saw nothing that actually _did_ it.
+She opened her eyes and willed herself to see further, without success. Even as another wall of stone exploded, even as trees folded in monstrous winds, she saw nothing that actually _did_ it.
 
-Until something collided with her stomach and sent her flying. She instantly knew it felt wrong. She instantly felt weak and close to fainting, but she grasped for the Smasher anyway. She thought she felt something and held tight, oh so tight, as it buzzed between her paws. 
+Until something collided with her stomach and sent her flying. She instantly knew it felt _wrong_. An energy that shouldn't exist, an arrogant rebuttal of the laws of physics. Weak and close to fainting, she grasped for the Smasher anyway. She held tight, oh so tight, as it buzzed between her paws. 
 
-An insect? Even smaller? She couldn't contain the energy and took the animal between her stronger teeth intead.
+An insect? A new type of bacteria? Even smaller? She couldn't contain the energy and took the animal between her stronger teeth instead.
 
 She crashed back to earth.
 
-A sea of _fire_ erupted above her. Ardex had arrived; Bella took her hand on the other side. They cleared the area and made sure she was safe.
+A sea of _fire_ erupted above her. Ardex had arrived; Bella held her paw on the other side. They cleared the area and made sure she was safe.
 
 They didn't need to. She had _caught_ a Smasher, now dangling from her teeth.
 
@@ -128,10 +128,10 @@ When they returned, Darus was unconscious. He was wounded. Maybe from a fight, m
 
 What most of them couldn't understand, however, was the species of the Smasher and how they worked.
 
-It was a small Gosti. 
+It was a small, tiny, frail Gosti. 
 
-Though it looked absolutely harmless now, Ardex quickly created a fiery cage for it. 
+Though it looked absolutely harmless now, Ardex created a fiery cage for it. 
 
 The Gosti looked at them with glassy eyes, as if woken from a stupor. Then they recognized her: it was _Mami_. The Gosti that influenced their decision to let the dinosaurs die so long ago, befriended the legendary dinosaur Donte, and led to the Stone Dinosaurs.
 
-Alix explained how to free Darus.
+Alix stroked his long whiskers. His pink fur turned to different colors as he explained how to free Darus.

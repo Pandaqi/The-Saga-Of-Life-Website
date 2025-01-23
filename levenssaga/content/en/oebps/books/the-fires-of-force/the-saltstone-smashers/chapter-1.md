@@ -2,21 +2,21 @@
 title: Abanden
 weight: 1
 ---
-Alix' family was certain that a boulder the size of a hill would stop the Smashers. The defense had landed in their lap by sheer luck; a waste product of Darus, God of Stone, experimenting with his magic. They could not have moved that boulder into position in a million years, not with a million foxes. As it was, there were only four of them: Alix, his sister, and his parents.
+Alix' family was certain that a boulder the size of a hill would stop the Smashers. The defense had landed in their lap by sheer luck; a waste product of Darus, God of Stone, experimenting with his magic. They could not have moved that boulder into position in a million years, not even with a million foxes. As it was, there were only four of them: Alix, his sister, and his parents.
 
 Now the boulder perfectly closed off the den they'd dug deep into the dirt. A wall between them and everyone else. Between them and the Smashers.
 
 How wrong they were.
 
-Alix studied an insect crawling over the stone. The purple fox had memorized an entire list of all insects he'd seen and their behavior, just as he knew all possible types of rock and their properties. This one, he knew, was unbreakable. Not even a mammoth at full speed would make a dent.
+Alix studied an insect crawling over the stone. The purple fox had memorized a long list of all insects he'd seen and their behavior, just like he'd studied all possible types of rock and their properties. The stone that protected them, he knew, was unbreakable. Not even a mammoth at full speed would make a dent.
 
 The family shivered in the dark. Relaxed and confident, but still cold. Since the asteroid wiped out the dinosaurs, all of Somnia had been plunged into an ice age. 
 
-_As it happens, dear reader, cold temperatures lead to larger animals, such as mammoths. The disappearance of dinosaurs---large monsters that carelessly trample you underfoot---also helped. Alix was not a small fox as you know them today, but a much larger ancestor that the godchildren called Giant Foxes._
+_As it happens, dear reader, cold temperatures lead to larger animals, such as mammoths. The disappearance of dinosaurs---large monsters that carelessly trampled you underfoot---also helped. Alix was not a small fox as you know them today, but a much larger ancestor that the godchildren called Giant Foxes. Their whiskers long as tails, their eyes like those of owls._
 
 "Get away from the boulder, Alix," his mother hissed.
 
-He didn't respond. His body couldn't move, not because it was frozen, but because it lacked the energy. All his energy was used to keep his eyes open and his brain running. Even if he wanted---and he really didn't---he would lack the willpower to reposition his paws.
+He didn't respond; his body proved immovable. Not because it was frozen, but because it lacked the right chemistry to do so. All his energy was used to keep his eyes open and his brain running. Even if he wanted---and he really didn't---he would lack the willpower to reposition his paws.
 
 Yes, this was a Silverfish insect. He'd seen them before. He admired them. Efficient they were, their gray bodies hard to see against the gray---
 
@@ -26,9 +26,9 @@ Alix rolled backward and hit the wall hard.
 
 The boulder shook again. Dust fell on his head. Chipped stones and clanking pebbles rained into the den. 
 
-"They can't get through," his father said confidently. 
+"They can't get through," said his father confidently. 
 
-"Alix, Firaxa, come here, let me hold you," his mother said. 
+"Alix, Firaxa, come here, let me hold you," said mother. 
 
 His sister cuddled up to mother and enjoyed her warmth. Alix still poured his energy into his brains, not his limbs. He lay against the wall, crumpled, and stared at the ceiling---at the beginnings of a crack in the boulder.
 
@@ -40,23 +40,27 @@ Father started digging a second exit for the den. They always did that, but now 
 
 "Let him do his thing," father groaned. He gave his son a weak smile. "He'll save us in the end. Trust him. Trust his intellect."
 
-Mother and sister dug too, accelerating the process. "Or he'll doom us all! He's like a statue!"
+Mother and sister dug too, accelerating the process. "Or he'll doom us all! He's a statue!"
+
+Despite being thrust in darkness, the den still seemed to throw shadows. Somehow, they were an even deeper black than _nothing_, as if the existence of light was rejected altogether. The shadows hung closest to father, who dug ferociously.
 
 Alix tried to think. He was _certain_ they couldn't break the boulder. The force it would take ... no animal could produce that. Even gods would struggle, he imagined. They barely understood _forces_ themselves.
 
-Alix had studied the universe until his eyes were too tired to see; still the universe had its surprises. It's why he kept doing it.
+Alix had studied the universe until his eyes were too tired to see; still the universe had its surprises. It's why he kept studying.
 
 A loud _thud_ and a _crack_.
 
 The den shook. The boulder shifted. Alix' nostrils were clogged by dirt, his paw locked beneath a chipped-off rock.
 
-One crack became two, became four, became no cracks at all. Because the boulder was gone.
+One crack became two, became four, became no cracks at all. 
+
+Because the boulder was gone.
 
 A handful of cut rocks flowed into the den and threatened to crush Alix. His energy had run out, to the point he closed his eyes and lay still.
 
 He heard a _swoosh_, and another one. His mother cried out. In the darkness, nails clashed with nails, teeth bit into fur, and his father bellowed with rage at the attackers.
 
-Paws danced around him, flattening the earth or and pushing the rocks deeper into it. Some were lifted with immense effort and thrown at the attacker. They rarely hit. The Smashers moved too quickly and were impossible to spot in the darkness underground. Instead, the rocks clanged off of walls, sending ghostly echoes into Alix' ears, until one of them hit him in the head.
+Paws danced around him, flattening the earth or pushing rocks deeper into it. Some were lifted with immense effort and thrown at the attacker. They rarely hit. The Smashers moved too quickly and were impossible to spot in the darkness underground. Instead, the rocks clanged off of walls, sending ghostly echoes into Alix' ears, until one of them hit him in the head.
 
 He had no further memory of that night.
 
@@ -68,11 +72,13 @@ His mother stared into his eyes.
 
 "Your father ... your sister ..." 
 
-Mother's eyes were glassy, on the verge of dropping tears, but foxes were unable to cry in that way. Instead, she looked away and loudly howled at the moon, until Alix felt deafened.
+Mother's eyes were glassy, on the verge of dropping tears, but foxes were unable to cry in that way. Even Giant Foxes, who had to be descendants of Feria. 
 
-"Your fault," mother hissed. "Unbreakable, was it?"
+Instead, she looked away and loudly howled at the moon, until Alix felt deafened.
 
-"New information has come to---"
+"Your ffffault," mother hissed, tongue frozen. "Unbreakable, was it?"
+
+"I admit new information has come to ligh---"
 
 "Don't talk like that!"
 
@@ -84,7 +90,7 @@ Mother pushed him further and further, howling and crying after every effort. Sh
 
 "And all this time, your diet is that of a dinosaur," she said. "For years, you've eaten ten times as much as father. And it ruined us."
 
-His sister. His father. The Smashers had taken them when they should not have. He'd done all the calculations! They had to be small creatures. A Giant Fox had to beat them easily.
+His sister. His father. The Smashers had taken them when they should not have. He'd done all the calculations! They had to be small creatures for the calculations to work! A Giant Fox had to beat them easily. Had to. Should have. His brain felt like soup.
 
 "I need to experiment further on---"
 
