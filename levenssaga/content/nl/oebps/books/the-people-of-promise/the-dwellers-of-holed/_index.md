@@ -16,7 +16,7 @@ godlink: ["Enra"]
 genre: ["Breinbreker", "Familie", "Verdrietig", "Ontdekking", "Mysterie", "Toekomst", "Tussendoortje"]
 teaches: []
 
-blurb: "Op de planeet Hol vallen gloeilampen uit de lucht, vereren dieren de mensen, en bevatten de grotmuren vage boodschappen. Terwijl Tengo de mysteries van Hol ontrafelt, verliest hij steeds meer de hoop dat zijn Holbewoners nog lang zullen leven."
+blurb: "Op de planeet Hol vallen gloeilampen uit de lucht, vereren dieren de mensen, en bevatten de grotmuren vage boodschappen. Terwijl Tibre de mysteries van Hol ontrafelt, verliest hij steeds meer de hoop dat zijn Holbewoners nog lang zullen leven."
 
 timeline:
   - yearstart: 20000
