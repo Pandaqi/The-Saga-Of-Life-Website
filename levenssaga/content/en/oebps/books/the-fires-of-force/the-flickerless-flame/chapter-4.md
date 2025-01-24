@@ -2,82 +2,118 @@
 title: The Delicious Mask
 weight: 4
 ---
-Dilova's restaurant had moved again. Tresmo was a distant landmark now, which she disliked. He could've helped find the sorcerer faster---and he'd sacrificed something for them. It took Prebuha a long negotiation to make the Chiefclouds rain on purpose, extinguishing the small fires. 
+Dilova's restaurant had moved again. Tresmo was a distant landmark now, which she disliked. He could've helped find the fox-shaped sorcerer faster---and he'd sacrificed something for them. It took Prebuha a long negotiation to make the Chiefclouds rain on purpose, extinguishing the small fires. 
 
-But in exchange, as part of the trade, Tresmo had to promise he would _never_ grow even taller than he was now. Otherwise, in their words, he'd "enter obvious cloud territory" and that was "as unnatural as when birds entered obvious cloud territory", giving Dilova a side eye.
+But in exchange, as part of the trade, Tresmo had to promise he would _never_ grow even taller than he was now. Otherwise, in their words, he'd "enter obvious cloud territory" and that was "as unnatural as when birds entered obvious cloud territory", which was accompanied by giving Dilova a side eye.
 
 She couldn't longingly look at Tresmo for long, though, as an entire _caravan_ of customers had arrived to enjoy her food services.
 
+"Father," she said over her shoulder, smiling hopefully, "maybe you could entertain those guests until I---"
 
+"Nothing there," mumbled Fiante. "Darkness. Nothing there. Darkness."
 
+Muttering to himself, he pottered away. He didn't wander far, though, before collapsing and continuing his mad ramblings face-first in a pile of dead leaves. 
 
+Dilova sighed. A bad day again.
 
+Several elephants forced her to expand her restaurant's size. She started looking for more fires on the horizon. The fires here had no more capacity, one extinguished after an elephant trampled it, and one because she threw too many nuts and leaves at once into it.
 
-OUTLINE:
-* H4: Some bit about that food is _easier_ to eat, while giving _more_ energy in Dilova's restaurant. => Maybe there are customers from REALLY FAR AWAY, who come DESPITE the fires, because of that fact? How else to show it in a fun way?
-	* Dilova herself has MOVED again, following the fires, which is how she gets further away from Tresmo and sees what's happening?
-	* YES, because there are MANY customers, this is EXTRA DANGEROUS. (The forest is busier, more chaos, more animals to save.)
-	* Show Fiante having a bad day again.
-	* More direct clash between Tresmo and Clouds? Talk about giving his seeds, while assuring everyone "we'll be fine, we'll make it" 
-		* => Tresmo should be built up to be really kind and merciful and all, so the sacrifice at end makes more sense.
-		* (Maybe involve clouds to help make it rain and put out a fire. => They ask it, but they're like "what's in it for me?", abusing that power.)
-* H5 (Demigod Design): Discovery that Permiox is able to fix states forever (their understanding of his powers was far weaker at first, and assuming he wasn't consistent/controlled) => since then, Alix and Feria talk several times about "staying as we are right now, forever"
-	* Have Mamatos return at Prebuha storyline too? Really focus on her idea of "negotiations for everything", while feeling things will never get better for her than they are now.
-* H6 (Spark of Innovation): They actually manage to push the fire back, control some of it, they seem to be winning ...
-* H6: Alix desperately tries to make tools in the dark (which is now confirmed to be because of the huge tree covering the entire area), which is how he notices the sparks coming off of the stone => which eventually leads to being able to _create_ fire themselves.
-	* ... but then Alix creates new fire as an experiment and ruins it all again!
-	* So, this next time the fires suddenly light up, they notice that NEW animals have entered the forest: wolves and jaguars, remainders of the Jagu tribe from long ago.
-		* Reinforce that animals firstly flee away from fire/heat/thunder, but then predators quickly come back to prey on the fallen.
-		* "WHY WOULD YOU WALK INTO FIRE VOLUNTARILY!?" => as in, this is not a dispute for space, territory, food resources, whatever, this is just them thinking they need to exact vengeance for something from long long ago.
-		* "Isn't that what your fox husband has been doing for years now?"
-	* (As in, for the longest time, they stumbled through the dark and thought they were alone/had saved everyone.)
-	* They are STILL angry about that thing long long ago.
-	* Conversation Prebuha and Feria, over warring city-states, garden of eden, etcetera.
-		* "Well that's the problem isn't it? _You_ decide. Not the animals that are burning. Not the animals that lived in these woods, claimed these woods, battled rainstorms by the Chiefclouds, long before you even knew we had a sentient tree."
-* H7 (Firebirds Flutter): Alix tries to _explain_ what he knows about heat to have all other animals help with extinguishing/controlling it. Add the Enyrgias again, and he can see them and explain visually like that.
-	* Also have loads of firebirds come down and fly around the fires.
-	* Might explain it this way: their wings flap REALLY QUICKLY. So quickly that they give off loads of _heat_. But to most eyes, the wings don't actually seem to move, because when your eye "refreshes" it's back in the same position again => that's how the tiny particles can all move rapidly, but the object just seems the same (only hotter) to you.
-* H8 (Flames Licking Heels): Fleeing for the fire, hoping they can save Tresmo. Many discussions about "should I fix my situation now?"
-* H9 (Demigod Dilemma): Same as H8. All _characters_ make their decision about freezing here, partially in a panic because they think the fire will kill them and they won't make it. 
-	* And only Alix actually goes through with it, because he does NOT understand the balance and always just wants better, bigger, more, advance, etcetera.
-	* Feria could only be angry at herself. Alix had always done this. He'd always pursued knowledge and science above all else. Of course he had made this decision, and of course it seemed perfectly logical to him and he hadn't needed to communicate it. (BREAK) Feria would leave him at once and never forgive him again, if only the magic didn't forbid her from doing so. She was stuck in a cage of love and forgiveness, and couldn't be more angry about it.
-	* POTENTIALLY have one of the enemies (Jagu? Cloud?) choose to and be punished for it, such as the rotating flaming wheel punishment! Yes!
-* H10 (Epilogue): Ends with the decision to freeze the _fire_, keeping it burning forever just before it reaches Tresmo.
-	* This story is really about the precarious _balance_ of life. You can use most things for good, but also for bad. Many moments in your life will be great (you want to "save them/keep it that way forever"), many will be bad. Fire can enhance food supply, or burn you to death.
+Elephants were strang enough, they were. But when a mixed group of _rhinos_ and large _felines_ lay down around a fire, asking specifically for Dilova and her "famed foods", she had to give in to curiosity.
 
+"You came all the way from Garda? Just for me?" she asked. On busy days like these, she wouldn't try to memorize what customers wanted. Using her beak, she drilled drawings of the food they requested into the trees around them.
 
+"But of course!" said a dark gray rhino. "Well, not _just_ for you, but we weren't going to miss your legendary warm fires as we passed by. Quite a lot of warm fires, we see. But they extinguish automatically, don't they? We are safe?"
 
+Dilova lied with a quick nod. She blushed, which for an ancient bird expressed itself through feathers turning red.
 
+"Oh, well, erm, what do they say about me?"
 
+The rhino's eyes widened, and he pointed his horn at a nearby fire. "That you sometimes forget to take things _out_ of the fire in time."
 
+Dilova quickly flew past and retrieved meat intended for the large felines. To her surprise, rhinos were plant-eaters---big ones, they were---and emptied her entire storage of plants instead.
 
+"What else do they say?"
 
-=> Firebirds were named that way because they always appeared near fires. This started the obvious rumor that they _caused_ it somehow, which they vehemently denied, and which had no proof at all to support it. Dilova saw it was the other way around. _She_ appeared near fires too all the time, because she needed them for her restaurant. But did she _cause_ them? Of course not. Like all animals, she had no clue how they worked, or how to contain them, and was more than happy to see them automatically extinguish again. => **@TODO: Should I rewrite this bit to SHOW this accusation+wrong line of thinking in dialogue?**
+"That you have a cursed waiter. Where is he now---oh, there. Enjoying ... a pile of dead leaves."
 
+"Fiante isn't cursed," said Dilova bitterly. "Just ... just ... in need of some help. And as soon as he has a good day, I will get that for him."
 
+The rhino smiled. He wore clothes, a very new invention, made from the finest silk. The feathers that finished his royal look made Dilova cringe. "No offense meant! I am just curious. Where I come from, everyone runs _away_ from fire. But out here, around Amor, you seem to have made it your own."
 
-MORE GENERALLY, FIREBIRDS ALWAYS APPEAR NEAR _HEAT_.
+"Not without risk," said Dilova, pointing at a burn mark on her own tail.
 
-* @IDEA: The very first "living cloud" (Chiefcloud/Smallcloud) was born from a _huge_ forest fire/steam/volcano eruption that killed so many that their souls merged into a new one; a living cloud?
-* Their energy for living and such comes from the endless thermal energy created inside the cloud from sunrays?
-* @IDEA: Use the entire stuff below about "Garden of Eden" here. Prebuha and Feria meet, where Prebuha tells this myth to her (or she overhears it being told to her children or something), which inspires Feria to create her Legendary Gardens as the place that will always have life force and "garden of gods".
+"Ah, but is life ever without risk?"
 
+She made another round and delivered the ordered food to the rhinos. Their diet consisted mostly of bark, buds, and even more slightly-roasted bark, but the smattering of berries on top delighted them most.
 
+Was this---was this some kind of special being? Royalty? She knew that many animals and civilizations had quickly evolved on Garda. They appointed their own leaders, which angered the gods, which angered them. Prebuha had briefly mentioned fleeing the place, though, specifically mentioning we might all want to stay away from the large angry cats.
 
+Should she be denying customers? It was getting quite busy, and she was stretched thin between multiple fires over a large space. She took one final look at Fiante, but no, this was a _very_ bad day.
 
+This rhino seemed friendly enough. She would keep allowing everyone in---
 
+"Ah, it is true!" exclaimed a large cat next to the rhino. 
 
-Here are three opening chapters and what they mean. These must probably be the first 3 chapters, unless we want to combine two of them into one chapter.
-* _
-	* "Animals run away initially but predators and scavengers return quickly to eat the dead and dying. Early humans probably did the same at first"
-	* Humans probably started by _capturing_ natural fire and learning how to keep it alive. It's also a by-product of making stone tools, as hitting flintstone against each other produces sparks and, if used enough force, _heat_. => Especially in cold and low-light environments, such as the Forest of the Fallen, which is entirely kept in darkness by its (friendly) Gigant.
-	* This story is about FRICTION too, I guess?
-	* THEY HAVE A CHILD (hence the "rotation for catching fire"). The SPECIAL POWER of that demigod is then REVEALED to be the "fixing state of animals magic".
-	* ALIX IS SO HAPPY WITH FERIA that he eventually figures out a way to make your current (local) state "permanent".
-		* "But what if tomorrow we love each other even more?"
+"What is true? Oh feathers and bones, I haven't burned your meat again have I?"
 
+"Quite the opposite," said the cat, smiling as if he'd discovered treasure. "It tastes better than anything I ever tried! Warm. Easy to bite, easy to swallow."
 
+Another cat next to him agreed, stating he felt "more energized" already. Or, in his words, "ready to punch some more prey". 
 
+The rhinos weren't _that_ exuberant. The plants they ate had not seen fire, for it would just burn them. Though Dilova was experimenting with putting the plants _over_ the fire, instead of inside it without protection. Promising results so far.
 
-* (She is near an area with very regular fires or lava eruptions, and she just throws stuff in the fire and takes it out to cook it. Because she's a bird and loves moving around + taking to the skies, her restaurant moves too, and she follows the fires that follow the wind? Or are there some kind of FIREBIRDS involved in this? FIREFLIES? => An early setup to Dragons?)
+Dilova greeted even more customers and decided to expand her moving restaurant to a wall of fire she'd noticed on the horizon.
 
+___
+
+Prebuha thought life was full of discomforts. Branches too prickly for sleeping. Standing on a hedgehog by accident. Another argument with Mamotas the Gosti, her good friend who seemed more interested in writing stories---cuneiform in clay tablets---than actually guiding these people.
+
+But today she learned the biggest discomfort of all: sitting in a massive tree as it's having an argument with thunderclouds.
+
+"Why should we help you?" thundered the Chiefcloud. "You never help us, do you?"
+
+"When help is only given when received first, nobody would ever help at all," said Tresmo sadly. "The time will come when we can do something for you, I am sure."
+
+"We already rained for you once. A mistake. Too generous. You're just greedy and want to control us."
+
+The Chiefcloud's size and number of lightning strikes seemed directly related to its anger. It had to literally lose steam before it was small enough to descend, its eyes visible again. Several animals below Prebuha immediately complained about the sudden fog.
+
+"Please," said Tresmo, "we need friendship and unity, especially in times like these. I was born out of the beautiful magic and kindness of the godchildren. I will do whatever is in my power to save the forest, to shelter the animals, to prevent disaster."
+
+"We could build a statue for you," said Prebuha, starting the negotiation with a pretty solid offer she thought. Everyone eager for power liked statues of themselves. It's the exact reason they _didn't_ build them in Harap, her large home city where everyone had actually been equal.
+
+"Meh. Bah. Don't care," said the cloud.
+
+"We could ..." What did clouds want? More steam? More water? Their personal territory in the sky, as if Prebuha would be able to give that? No, in any negotiation, somebody wanted what they really could _not_ have. Something so far-fetched they had to trade for it, just like Harap had to trade with Sumiser for precious metals and spices that simply didn't grow there. 
+
+Clouds already had the sky. So ... 
+
+"We could build a space on land for you?"
+
+"Ah. Yes. Now we're gathering steam."
+
+"Absolutely not," said Tresmo. "Land disputes, lack of space, it's exactly what's tearing the allies of the godchildren apart. They always want _more_ land. _Better_ land. You already have the entire sky, empty space as far as the eye can see, is that not enough?"
+
+"No, stupid tree. Look how big I am," said Chiefcloud, stretching himself thin until the fog covered the entire forest.
+
+Tresmo sighed. "If you can't say anything productive or mature, it's wiser to just say nothing at all."
+
+"Then why are you still talking? I like the sloth woman more."
+
+"My apologies, you're right, I take it back. You should just say nothing at all ever again."
+
+The fog obscured her vision. Prebuha climbed higher and higher, almost reaching Tresmo's canopy, but still couldn't see much. The Forest of the Fallen was littered with tiny lights. Tiny fires, she knew now, though they looked like stars in a grayish milky way. In the direction of Dilova's restaurant, though, she saw a large crowd of moving shapes, even including some animals she recognized from her homeland. It sparked some joy in her heart.
+
+It was the lights on the horizon that worried her.
+
+Prebuha absently promised Chiefcloud to work out the details and find a nice home on land, just to make him go away.
+
+For when the fog started to clear, even though Tresmo's massive size still cast the forest in permanent shadow, the events on the horizon were blinding.
+
+The edge of the forest was _entirely_ on fire. Some foxes were trying to stop it---foxes! The sorcerer! Prebuha felt especially strong today. Look how easily she'd climbed Tresmo, possibly the tallest thing on Somnia. She was wise, too, tricking the clouds---did they really think she'd build a city for frustrated fog beings? She should want to stay like _this_ forever.
+
+The fire was spreading, traveling this way, traveling towards---
+
+"Tresmo. Please, please tell me you secretly have legs to carry you around? Maybe magical wings?"
+
+When no response came, Prebuha swung down to alert her people. With some mumbled explanation about "checking out the danger", though, she moved _towards_ the line of fire.

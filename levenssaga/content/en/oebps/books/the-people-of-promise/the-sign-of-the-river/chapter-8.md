@@ -4,7 +4,7 @@ weight: 8
 ---
 Prebuha thought she understood. The commander had found the debris from the fleet she destroyed earlier and didn't dare sail on. They were now discussing if they had to visit the Indus as refugees ... or as an army.
 
-She had only one goal herself: stay alive, step by step, make yourself useful to the group. As they ran from the terrifying Akradi, she had lost any desire for war or violence. The idea that conquering another city to get all their food, instead of working for it yourself, seemed silly now.
+She had only one goal herself: stay alive, step by step, make yourself useful to the group. As they ran from the terrifying Akradi, she had lost any desire for war or violence. The idea of conquering another city to get all their food, instead of working for it yourself, seemed silly now.
 
 Mamotas accompanied her, as always. He smuggled food for her, but that also stopped when all food had run out. The wheat and barley fields of Indus weren't far now. She could---
 
