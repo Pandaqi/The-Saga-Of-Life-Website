@@ -16,12 +16,11 @@ godlink: []
 genre: []
 teaches: []
 
-blurb: "(@TODO) About that time when a mysterious gang of thieves was able to steal fire and terrorize a city."
+blurb: "A gang of thieves terrorizes innocents, abusing fire and war on the city walls. Nobody can catch them, and all who try soon lose the will to live. The first ever fire brigade stands alone, albeit clumsily, in preventing the collapse of mighty Amor."
 
 # this timeline is centered around the Soulsaw / Zielenzaag, not absolute 0 ( = universe creation)
 timeline:
-  - yearstart: 0
-    yearend: 0
+  - yearstart: -100
 
 readability:
   - words: 123
@@ -30,4 +29,20 @@ readability:
 
 ---
 
-@TODO
+When gods hurl their overwhelming forces
+
+At enemies within and without your town
+
+Nobody notices, nobody holds their horses
+
+When your possessions are stolen, your home turned upside-down
+
+&nbsp;
+
+It takes a special power, a passion of iron resolves
+
+To keep chasing the criminals and believe you can catch them still
+
+But all who come close shall mysteriously lose that will
+
+Notwithstanding success and riches, a criminal pact appears full of holes

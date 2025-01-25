@@ -94,4 +94,4 @@ A decision had to be reached.
 
 "Deer deer."
 
-Alix jumped on top of the largest stone, as if giving a lecture to a very impatient but very interested class.
+Alix jumped on top of the largest stone. He gave a lecture to a very impatient but very interested class.

@@ -82,3 +82,33 @@ Most wars, most strife, most problems in history were _civil wars_ and _family a
 And so, as I continued planning and writing the Saga of Life, I leaned more into the dysfunctional side of the family of godchildren. Their thrones weren't just some fun invention anymore, they were the heart of their own "city state", were they increasingly prefer their _own_ laws and ideas over whatever Ardex or Bella thinks everyone should do. 
 
 My younger self thought Greece had it all figured out. Now I know they had figured out _some things_, but the only times they really "united" was against a common enemy (Persians and later Romans). Hence, my choice to keep the godchildren as a mirror image of Ancient Greece. Hence, the buildup to the First Conflict era of the Saga of Life.
+
+
+
+
+
+## @TODO: Revisions
+
+**General:** Lose some words. 
+* Do the Chiefclouds really need to play a role here? => If we remove the fact that they know rain ends fires, then they are losing more and more relevance. (Besides their _thunder_ CREATING the fires, of course.)
+* Cut the bit about blaming the firebirds, and it being the wrong way of thinking, bla bla. It's just too much in an already overstuffed story.
+* + Perhaps simplify some language/metaphors/sentences a little bit. Get to a 6 readability score?
+
+IN CONCLUSION. Chiefclouds + "Firebird blaming" gone, some simpler language, main three stories streamlined one step further.
+
+**General:** Change the firebirds to have "scales" and look more like "lizards". More like Fiante, but small enough to actually fly. Also, their eyesight is famously bad (as a hint to Higgis). => Early setup for DRAGONS
+
+**General:** The three main dilemmas may get a _little_ more depth, especially Prebuha.
+* At the end, her own tribe members ignore commands and get angry at _her_, because they say "If you hadn't selfishly gone after Permiox, we would have escaped long ago!" YES, and they don't help her then, she stands alone, they might even negotiate back on her to say "Take Prebuha, in exchange for leaving all of us alone"?
+	* Also, if she's fighting to return to their old way of doing things (no leader) ... why would her arc be about her becoming a better leader?? 
+	* YES, MAYBE make it more clearly about "why did it WORK at Harap, but now cutting people into smaller self-governed things just GOES WRONG? Is it really inevitable that one dictator must arise?"
+		* And this makes more sense if we CLEARLY set up the customers of Dilova to be "loyal" to other godchildren/another throne, such as Eeris. 
+	* **Possible better endings Prebuha:** She goes to search for one of those seeds/children of Tresmo, to build civilization there. OR she (or Permiox? Anyone?) stays behind to care for Tresmo and keep them company forever?
+* Dilova perhaps one more hesitation, one more interaction with Permiox.
+* Alix perhaps one more loving moment with Feria to really _show_ how why they'd want to freeze that.
+
+**Chapter 6 (?):** Maybe set up the Jagu leader's name + origin of Pricecats better and earlier here? (Now it suddenly arrives in chapter 9, when they have a weirdly calm discussion while pursued by fire.)
+
+**Chapter 6:** Change the "hauling water" to the only technique they know to combat fire: they smash it with large objects, and sometimes, it extinguishes. They don't know why. It works often enough at the moment. => Maybe even a specific _dear reader_ moment about that? "They just discovered something on accident and saw it worked in practice. They didn't know why, which meant they couldn't make further discoveries."?
+=> Same thing with the "remove oxygen" from Alix. They don't KNOW THIS YET. He only knows that cutting off fire works, like "cutting off an animal from the fresh air". That's why he makes those tools, that's what Feria sees. But why is that? No clue.
+=> AS WELL AS (**earlier chapter**) asking Clouds to rain for them. They wouldn't know, or would _Tresmo_ alone (being a tree) smart enough to know?
