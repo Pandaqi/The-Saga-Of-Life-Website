@@ -96,6 +96,12 @@ My younger self thought Greece had it all figured out. Now I know they had figur
 
 IN CONCLUSION. Chiefclouds + "Firebird blaming" gone, some simpler language, main three stories streamlined one step further.
 
+**General:** Some "fixes" for silly issues.
+* Be more clear about the fires being started by thunderstrikes from the Chiefclouds hanging around => this would make their appearance in this story more relevant too.
+* Be clear about SPECIES and LOOK for all! (I don't think I even explain Fiante's tiny-dinosaur-with-useless-wings look. And Dilova having only a single leg is mentioned too late, I think.)
+* The first time the fires "extinguish" automatically (chapter 1), either hint that Alix is around to do so, OR explain that "fuel had run out". There was simply a gap in burnable wood ( + always dark/cold/wet below Tresmo => maybe pull THAT explanation much more to the front), the fire didn't make the jump, so it stopped burning.
+* When Alix "bangs stones together" (to discover the spark to create fire) ... how? He has no hands! Find some solution, such as using his tail or something.
+
 **General:** Change the firebirds to have "scales" and look more like "lizards". More like Fiante, but small enough to actually fly. Also, their eyesight is famously bad (as a hint to Higgis). => Early setup for DRAGONS
 
 **General:** The three main dilemmas may get a _little_ more depth, especially Prebuha.
