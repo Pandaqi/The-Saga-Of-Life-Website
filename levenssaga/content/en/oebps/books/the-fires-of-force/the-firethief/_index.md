@@ -9,18 +9,17 @@ timeperiod: "The First Conflict"
 cycle: "The Fires of Force"
 bundle: "firebreath-flametheft"
 character: []
-prequel: []
+prequel: ["The Flickerless Flame", "The Grainpeckers"]
 refers: []
-happens: []
-godlink: []
-genre: []
-teaches: []
+happens: ["The Guerilla Gods", "Death of Alix", "Capture of Ruby"]
+godlink: ["Ardex", "Feria", "Eeris"]
+genre: ["Active", "Sad", "Society", "Family", "Love", "Gods", "Science", "History", "Crime", "Growth"]
+teaches: ["Gravitational Force", "Gravitational Energy", "History of Rome"]
 
 blurb: "A gang of thieves terrorizes innocents, abusing fire and war on the city walls. Nobody can catch them, and all who try soon lose the will to live. The first ever fire brigade stands alone, albeit clumsily, in preventing the collapse of mighty Amor."
 
-# this timeline is centered around the Soulsaw / Zielenzaag, not absolute 0 ( = universe creation)
 timeline:
-  - yearstart: -100
+  - yearstart: -300
 
 readability:
   - words: 123

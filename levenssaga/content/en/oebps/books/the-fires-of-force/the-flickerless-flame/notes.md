@@ -96,6 +96,10 @@ My younger self thought Greece had it all figured out. Now I know they had figur
 
 IN CONCLUSION. Chiefclouds + "Firebird blaming" gone, some simpler language, main three stories streamlined one step further.
 
+**General:** rewrite to have it make sense that "mostly tusk-wearing characters (includes Prebuha??) settle around Tresmo and become the Trusks"? But they should also be a MONARCHY somehow, so does Prebuha actually change her mind and say "giving everyone equal voice doesn't work, I'm grabbing total leadership as monarch myself"??
+
+**General:** It's called _Forest of the Fallen_ because so many tiny fires have been here before, causing thunderstrikes and fallen trees. These created natural _firebreaks_. Mention this specifically! There are many spots of ash, spots already plucked bare, and the fires automatically end when they go there? => Yes, this can remove any wishy-washy explanation about Alix being around or gaps in firewall or whatever.
+
 **General:** Some "fixes" for silly issues.
 * Be more clear about the fires being started by thunderstrikes from the Chiefclouds hanging around => this would make their appearance in this story more relevant too.
 * Be clear about SPECIES and LOOK for all! (I don't think I even explain Fiante's tiny-dinosaur-with-useless-wings look. And Dilova having only a single leg is mentioned too late, I think.)

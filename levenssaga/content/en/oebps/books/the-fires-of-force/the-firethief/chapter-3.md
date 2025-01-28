@@ -144,8 +144,8 @@ When the Tattlerat and chameleon entered her restaurant too, she collapsed under
 
 "Alright then. The kitchen's there. It's clean and all, it is. Just don't disturb my sleeping father, will you?"
 
-Some quick nods. As the self-proclaimed Rescue Team made for her kitchen, Wilplink snatched all the food from the tables for "taste inspection".
+Some quick nods. As the self-proclaimed Rescue Squad made for her kitchen, Wilplink snatched all the food from the tables for "taste inspection".
 
 It took mere seconds for an elephant to burst in too. He sprayed water over the horses as he hastily asked if they'd seen four strangers Or, as Ollimo was certain now, the criminals who made the temple collapse.
 
-Even so, when they all made for the kitchen doors ... the Rescue Team was nowhere to be found.
+Even so, when they all made for the kitchen doors ... the Rescue Squad was nowhere to be found.
