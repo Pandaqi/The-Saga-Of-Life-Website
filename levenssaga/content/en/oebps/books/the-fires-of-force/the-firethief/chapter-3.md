@@ -18,7 +18,7 @@ A fire broke out. After only a short delay, panic broke out across the forum in 
 
 What building was that? Looked expensive and---oh yes, the private residence of none other than the consul.
 
-A bird flew to a moldy rooftop, yelled to a racoon, who tapped on a wolf's window, who pushed the wrong button and then the right button, yada yada, a boar was tickled, a church bell rang---
+A bird flew to a moldy rooftop, yelled to a raccoon, who tapped on a wolf's window, who pushed the wrong button and then the right button, yada yada, a boar was tickled, a church bell rang---
 
 Two elephants, who were already on high alert, were informed of the fire. Their truck instantly raced downhill to meet it.
 
@@ -34,7 +34,7 @@ The rhino shrugged. "Don't care."
 
 "What?"
 
-"I don't care. Whatever. Life is unfair anyway," he mumbled. His leathery skin was almost entirely exposed, his fancy clothes now worn by a trash-exploring racoon.
+"I don't care. Whatever. Life is unfair anyway," he mumbled. His leathery skin was almost entirely exposed, his fancy clothes now worn by a trash-exploring raccoon.
 
 Ollimo looked at his father. He didn't know what to make of it either. Their truck kept rolling downhill all the same. 
 

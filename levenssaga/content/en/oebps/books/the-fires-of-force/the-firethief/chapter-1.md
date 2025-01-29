@@ -2,7 +2,7 @@
 title: The Firetrunks of Toxotes
 weight: 1
 ---
-Dawn came early that day around the jeweler's shop. A small bird left her comfortable rooftop at the first sign of it. She landed on a far less comfortable rooftop elsewhere, then yelled across the street. This was heard by a racoon, who reluctantly abandoned his delicious trash and whistled to a house on the corner. A firelight turned on behind the glass windows. The wolf living inside drowsily kicked open the front door and ran up the hill.
+Dawn came early that day around the jeweler's shop. A small bird left her comfortable rooftop at the first sign of it. She landed on a far less comfortable rooftop elsewhere, then yelled across the street. This was heard by a raccoon, who reluctantly abandoned his delicious trash and whistled to a house on the corner. A firelight turned on behind the glass windows. The wolf living inside drowsily kicked open the front door and ran up the hill.
 
 Once at the top, he spoke the secret codeword---something that does not bear repeating in a fairy tale like this, followed by the word _gods_---to a priest. They pressed a button, which lowered a pulley, which pressed another button, which tickled a bear, which tightened a rope, which displaced everyone's bed, which rang out a specific melody on the church bells.
 
@@ -36,7 +36,7 @@ Olfaman looked truly frightened for what they might find. He pushed their truck 
 
 Ollimo could only admire his father and his selfless passion. So much so that he gaped and nearly fell of the truck. Father had never explained why he started the very first fire brigade, only revealed scars and many warning tales about fire. 
 
-As they entered Richersoul, the sun rose. Commerce was starting, stalls were built, and all their arrogant rich tails refused to sweep aside. Olfaman swerved and adjusted skillfully, every heartbeat, tongue licking trunk. These maneuvers emptied the outer barrels and threw accidental waterfalls over a grumpy racoon. 
+As they entered Richersoul, the sun rose. Commerce was starting, stalls were built, and all their arrogant rich tails refused to sweep aside. Olfaman swerved and adjusted skillfully, every heartbeat, tongue licking trunk. These maneuvers emptied the outer barrels and threw accidental waterfalls over a grumpy raccoon. 
 
 They came to save them---they only met obstacles and curses. 
 

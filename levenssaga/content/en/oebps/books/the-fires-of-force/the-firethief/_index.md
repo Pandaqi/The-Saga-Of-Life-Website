@@ -8,10 +8,10 @@ book: true
 timeperiod: "The First Conflict"
 cycle: "The Fires of Force"
 bundle: "firebreath-flametheft"
-character: []
+character: ["Ardex", "Feria", "Eeris", "Alix", "Permiox", "Boaris", "Mmhmmhmm", "Ruby", "Wilplink", "Olfaman", "Ollimo", "Dilova", "Quili", "Epoh", "Chamtaid", "Tattlerat"]
 prequel: ["The Flickerless Flame", "The Grainpeckers"]
-refers: []
-happens: ["The Guerilla Gods", "Death of Alix", "Capture of Ruby"]
+refers: ["Toxotes", "Richersoul District", "Amori Republic", "Restaurant Dilova", "Loveline", "Garda", "Delja", "Tikidas", "Farmor District", "Bearchitect", "Trusks", "Dontaids", "Tamli Kings", "Dragonvine", "Heavenly Palace", "Pendulum Prison", "Heavenmatter", "Flamefeaster", "Alixader the Giant", "Gorrillas"]
+happens: ["The Gorilla Gods", "Death of Alix", "Capture of Ruby", "Curse of the Leaky Buckets"]
 godlink: ["Ardex", "Feria", "Eeris"]
 genre: ["Active", "Sad", "Society", "Family", "Love", "Gods", "Science", "History", "Crime", "Growth"]
 teaches: ["Gravitational Force", "Gravitational Energy", "History of Rome"]
@@ -22,9 +22,9 @@ timeline:
   - yearstart: -300
 
 readability:
-  - words: 123
-    lines: 456
-    score: 7
+  - words: 15656
+    lines: 1540
+    score: 6
 
 ---
 

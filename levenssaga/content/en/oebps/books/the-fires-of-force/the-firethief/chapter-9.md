@@ -2,66 +2,148 @@
 title: Grave Mistake
 weight: 9
 ---
+The Rescue Squad made for the weakest part of the city walls. The part that usually held the most soldiers. It was considered the linchpin on which Amor's defense rested, but now ... now it was completely abandoned.
 
+"This is foolish," said Wilplink. "Let's return to our hideout, make a new pla---"
 
+"You've said it ten times now," said Ruby. "The answer remains _no_. The final step of our plan starts now."
 
+"Oh please," said Mmhmmhmm, hesitant to continue. "We failed. Let's accept it. There is nothing---"
 
+Ruby breathed a column of fire as she stormed the wall, already blackening it. 
 
+"Mole, dig away the supports. Wilplink, increase chance of crumbling in our favor. I feel enough energy to destroy half the blastfeathered wall! And we will get our freedom _now_!"
 
-* CH9:
-	* @ISSUE: Now the Rescue Squad doesn't go to third storage ... while Boaris' information about that becomes useless that way => Should I rewrite to Ruby going ahead with the "most violent version of the plan" anyway, but people are waiting for her there? Something to bring it all back to fires and her secret with Ardex and where it all started?
-		* The REAL issue, I guess, is that the fires aren't threatening any homes/people we know. It would make far more sense if the fires encroached Dilova's restaurant, for example. Maybe Tresmo. Maybe a consul, but they really haven't played any role in this story.
-	* This scene ends when it goes wrong and the mole dies.
-		* Wilplink's chance magic is _not certain_, of course. It's chance. So something GOES WRONG and he's like "I told you! I told you it's _probability_, not certainty! I did my best. It just wasn't enough."
-		* "I don't want an explanation. Fix it!"
-		* "I---don't---care anymore."
-	* Ollimo fights the fires, but can't curb them. Until the chameleon joins with loads of buckets to carry water ... all of which are accidentally broken. Still, he is not deterred, and starts carrying _leaky buckets_ (as Ardex' story foretold) to help firefight.
-	* "Who are _you_?" The chameleon spoke with a pause between each word. "I have ... many names. But I've finally chosen one. Chamtaid." (named after the Danaids)
-	* Alix arrives to steal Chameleon's passion, but is caught in the fire/fighting, and eventually dies.
-		* The "trap" is made by ALIX in the first place, because he thinks it might trap the chameleon too? => It's some complex thing that heavily relies on gravitational energy?
-		* Could there be some dramatic irony? The thing his mother told him ("You need to die!"), is told to him again, or he says that to someone else just before perishing?
-		* Just before the end, Alix is like "I have so much left to learn! So much to study! So many secrets in the universe I haven't unlocked yet@!"
-		* => In the end, Alix desperately asks Permiox "Save me! Freeze my life! Don't care about the wounds!", but Permiox is too sad/tired/doubtful (and he promised never to use the magic again, of course), and all he freezes is those buckets dripping water forever!
-	* The Rescue Squad escapes, but Wilplink's conviction now wavers, and Ruby is finally captured. Ruby---the one who most desires freedom and activity and doing as they please, the one who is most _similar_ to a dragon already---is captured and imprisoned in Pendulum Prison.
-		* This makes their imprisonment extra sour at the end, in which Ardex (also God of Death) realizes they must simply prevent more deaths in this war. But Ardex says "Laws are Laws, Rules are Rules" and keeps her imprisoned.
-		* _Nothing's gonna change my world._
-* CH10:
-	* With Ruby arrested, Alix dead, Amor half in ruins and without food, the gods decide to _back off_. 
-	* Typical epilogue stuff (jeweler, Wilplink, Boaris, elephants, all handled)
+The two of them stayed back, looking at each other.
 
-EPILOGUE STUFF:
-* The jeweler Tamli king miraculously survives? Fits their lifestyle, riches, and that we reveal they're a rhino later. => Basically sure to be arrested/die. Then Wilplink, the Chanceturner, modifies probability. So it's like "Goodness. What are the _chances_ of that?" Nobody conquers the Tamli kings.
-* "Thanks and rewards are nice, but never the goal. If you only do things because you want others to be thankful and in your debt, then you put control over your life in their hands. You'll stop doing anything when thanks does _not_ come. You die when nobody is there to see you and applaud you."
-	* It is BOARIS who says this to him? Or Boaris starts this/ends this, talking together with Olfaman?
-	* Boaris explains a little bit about growing up alone, having to be egotistical/steal just to survive?
-	* BETTER IDEA => Olfaman is able to get his passion "back" because it doesn't rely on outward factors. But then we need a COUNTERWEIGHT that cares about thanks and approval and all, who is unable to get it back? => THE RHINO JEWELER. Set them up to clearly only do work for money and riches and status. They were one of the "influential" people in Amor that way.
-* De goden realiseren dat de tegenstander gewoon zoveel mogelijk doden wil, want _dat_ zal de levensenergie van de goden wegzuigen.
-	* Dus ze maken ergens de lastige beslissing om NIET meer te vechten. Laat ze binnenkomen, laat ze steeds meer land pakken, zolang ze maar niemand doden en iedereen overleeft => ze steken hun _energie_ in andere dingen, zoals iedereen laten vluchten en een veilige haven creëren. => Ook al zijn de goden sterker (met hun magie), ze kiezen voor een underdog guerilla warfare tactiek.
-* @IDEA: This goes so wrong that Wilplink basically tells himself "stop caring, just accept you're a criminal and do stuff for your own gain"? _That's_ the source of his cynical/weathered outlook in The Chanceturners?
-	* Nah, that would make more sense if he got really upset when people called him a _criminal_ or whatever ...
-* @IDEA: Have Ardex' decision about his flamefeaster come back => 
-	* "Every war is a civil war. We all come from the same parents, long long ago."
-	* "But if it's so long ago nobody remembers the common ancestors," said Dilova, "then you are practically a different folk, are you not?"
-	* "How long is that? Give me a number." Ardex shook his head and played with his Heavenmatter, a frozen flame called the Flamefeaster, standing on XX. "We're all the same family, that's a fact. Every war is selfish and self-destructive. The only way I can still function is by forgetting things that are too long ago." => or something in that vein.
+Ruby stepped forward alone---and tripped over a strange wooden block. 
 
+Normally, this would mean nothing. But this block was holding up another one, which leaned against another one, which held down a rope, which, when unleashed, allowed a boulder to drop from the top of the wall.
 
+A heavy net, made from unbreakable Dragonvine, fell over Ruby. Several magic spells shot around the corner and fastened it to the floor. The magnificent firebird trashed, and flailed, and screamed, and begged, but she could not escape. The net tightened until it cut into her feathers, and she struggled to breathe.
 
+A large crowd of angry animals turned the corner too. They'd been waiting for them, even carrying weapons. The godchildren, led by Ardex, stood on the other side of the gate and mostly watched in disappointment.
 
-@IDEA (Type B story?): About why money came to be represented by _gold_.
-* https://www.bullionbypost.co.uk/index/gold/why-is-gold-valuable/#:~:text=Historically%2C%20gold's%20physical%20properties%20made,make%20their%20own%20gold%20coins.
-* https://www.reddit.com/r/explainlikeimfive/comments/184brn0/eli5_why_is_gold_still_considered_valuable/
-* "The discovery of dollarbillium was a great blow to the molecular currenciests."
+Except Ardex. He watched in shock and disbelief, as his secret love, holding his baby, was ousted as one of the criminals. With countless witnesses, and arrested for it already.
 
+Everyone clamored for justice. Beings both within and without Amor asked Ardex to make a decision. But the tiger stood frozen, jaw down, fire extinguished.
 
-SOME NOTES ON FIRES:
-* Firebreaks were one of the oldest methods: simply pull down all housing/burnable material around the fire before it gets there. => This can be mentioned in Flickerless Flame, or do they only learn that here?
-* Firefighting fell into disarray in the middle ages. Especially as religion said that it was simply a "divine judgment" or "god's curse" when your house burned down.
-* Augustus started with the "vigiles" (slaves, both police and firefighting). Though around 250 BC the invention of a high-pressure pump made this possible at all => attribute this to Toxotes?
-* When Great Fire of London broke out, all immigrants (from countries with whom they were at war) were basically blamed. Causing them to not only fear fire, but most of all fear violence from their neighbors just based on those rumors.
-	* This was worsened by the mayor being indecisive, not allowing firebreaks until it was basically too late.
-* During Great Fire of Rome, the vigiles mostly just looted and abused the situation.
-* Afterwards, some regulations by Nero were: "These laws called for more public access to water and prohibited buildings from sharing a common wall."
-	* In general, great fires lead to actual fire/building code laws, and actually taking that seriously.
+Alix the Alchemist came down to study his catch, but was disappointed. Feria tried to pull him away from Ruby, sensing she was still dangerous. He ignored her, asked about a chameleon, and learned that he was passionately helping the firefighting efforts now---because of course he was. He left at once, asking his son to join.
 
-THIS RESEARCH WOULD DO WELL IN HOPPING HOMES. Building a story around a major fire, the consequences, losing homes, fire hazard in general => yes, I already planned that story with public services anyway, include this there!
+Mmhmmhmm hastily created a new tunnel. Imperfect, small, but it was enough. Him and Wilplink held each other tightly, then used the tunnel to escape the clutches of the angry townsfolk and return to their hideout.
 
+___
+
+The fires were closing in on Dilova's restaurant. Before they could get there, though, they first had to pass through the other houses in the block. One of which was the Rescue Squad's hideout.
+
+"Get out. Flee. Save ourselves," said Wilplink, out of breath and a voice shaking with fear. "Try again somewhere else. Together."
+
+"Oh please," said Mmhmmhmm. "We're fine, you and me, buddy. You can increase the chances of the fire going out, can't you? I'll create a firebreak. A tunnel around the fire, to prevent it from spread---"
+
+Wilplink grunted as he surveyed the flames licking the doorway of their hideout. Their spoils---enough diamonds and gold to start a new rescue squad somewhere else---were inside. Their maps, their plans, their names.
+
+"There they are!" yelled an elephant's voice in the distance, right before sending a powerful water beam towards the flames. "The thieves!"
+
+The thieves took a deep breath, then dove through a gap in the fire.
+
+As soon as they were inside, a crowd of animals appeared in the doorway. They had been waiting for them, and carried weapons. Most of all, they sealed off their only exit.
+
+"Help fight the fire, you idiots-or-something!" yelled Wilplink in an attempt to distract.
+
+"We are," said a voice.
+
+The first puddles formed in the doorway. Someone was throwing water onto the walls, but it was a meager attempt. Not enough to impress any flame worth its salt.
+
+Wilplink saw why. A single being was carrying seven buckets, but all of them were damaged and leaked. A trail of water was left on the street as the chameleon refilled at the nearest aqueduct. The buckets were nearly empty again by the time he returned to the fire.
+
+Some laughed at him. Some just shook their heads. Only Dilova and two horses ran out of their restaurant to help carry leaky buckets, holding the handle between their teeth, however little it helped.
+
+Wilplink wished he were a chameleon now. He looked all around, but saw nowhere to hide.
+
+"I'm going to destroy the floor," said Mmhmmhmm, "then tunnel us out."
+
+"No! The building might collapse."
+
+"And we have you surrounded," said the crowd.
+
+"Then _you_, my dear viverra, have to make sure a collapse doesn't happen," said the mole. "Or if it does, that we miraculously survive."
+
+Wilplink grunted and concentrated. So many probabilities. The walls might cave. A flame might suddenly flare. They might decide to enter the hideout any time.
+
+He shook from the effort of changing all the chances such that they were safe.
+
+Only one being entered their hideout. A fox. He carefully placed a heavy boulder on a tiny twig near the entrance, a construction that couldn't last too long. Then he yelled to the chameleon, saying innocent beings were in great danger---the husband of Feria and his son, no less!---and they needed his help inside.
+
+Wilplink followed the twig, the boulder, until he looked at the ceiling and saw a massive Dragonvine net prepared there. Of course, how stupid they had been.
+
+"Get out and take your trap," he hissed at Alix. "This building is about to burn down and coll---"
+
+"No it isn't," whispered Alix confidently. "I've studied flames and foundations. We have at least an hour of safety here."
+
+And while he was talking, Mmhmmhmm was carefully digging away those very foundations and adding onto the fire.
+
+The chameleon had heard his calls. He trotted to the hideout with several leaky buckets. The other animals hesitantly made way.
+
+Alix licked his lips. "That colored salamander ... oh the energy he'll give me ... let me tell you, strange cat, don't be surprised if I walk out of this building young and clever and passionate again!"
+
+The chameleon set off the trap. A simple kick to some wood, and gravity did the rest of the work.
+
+Wilplink reacted with cat-like instinct and reflexes.
+
+The viverra kicked Alix aside, leaped forward, and pushed the chameleon against the wall. As the net fell on _him_, he focused all his energy on modifying the probabilities, and the net was _caught_ halfway by some half-burnt, broken log in the ceiling.
+
+This meant he had mostly neglected watching the other probabilities.
+
+With a thunderous _crack_, the hideout gave up its resistance. The ceiling came down like a bird diving for prey, the walls caved in, and whatever remained instantly ignited.
+
+"What have you _done_!?" yelled Alix, caught below a falling beam thrice its size.
+
+The floor moved, slanted, turned into a collection of holes that fed on the debris.
+
+"WILPL---" yelled a mole stuck below the ground. Before his words choked, and the floor _lowered_ several tail's lengths at once, crushing Mmhmmhmm.
+
+Wilplink stood in the center of the flaming room. Dazed. Uncertain. Shaking and crying for his friend. 
+
+"I _told_ you!" he mumbled, voice dancing between grunts and cracks. "I told you it's _probability_, not certainty! I did my best. I ... I ..."
+
+Permiox tried to lift the beam off of his father Alix. They managed to move it a little. This merely revealed the deep, nasty wound that Alix had suffered.
+
+The chameleon was completely fine, crawling around Wilplink's neck and flashing every color imaginable.
+
+"Who _are_ you?" said Alix, voice weakening.
+
+The chameleon spoke with a pause between each word. "I have ... MANY names. But I've finally chosen one. Chamtaid."
+
+"And you," said the chameleon, flashing red and curling his spiky tail, "need to DIE."
+
+"No!" cried Alix. 
+
+The hideout wasn't done crumbling. Everyone else had fled the area; the doorway was crushed anyway; Wilplink danced around the fires, but couldn't prevent a few painful burns.
+
+"I have so much left to learn!" Alix writhed and tried to open his eyes, but every movement brought immense pain. "So much to study! So many secrets in the universe I haven't unlocked yet! I only ever tried to help all life on---"
+
+"That's a lie," said another voice. An elephant's trunk was spraying the fires with a serious amount of water, while another tried to clear the doorway. "You expect Feria to still love you? To let you 'help' us? After she finds out what you've been doing?"
+
+Permiox made helpless circles around his dying father, not even caring about the fires. Alix moaned: "I can do this _because_ I know I'll have Feria's love. Forever and always. If you let me die ... oh, the wrath of the godchildren will fill your nightmares!"
+
+A trunk shot through a gap in the burned walls. It snatched Chamtaid, the chameleon who finally decided his name, and rescued him.
+
+Alix turned to his son. "Save me then! Freeze my life! Don't look at the wounds, no, no, don't care about them, I'll be fine, as long as I _live_."
+
+Streamers of purple and blue smoke appeared around Permiox. His body seemed electrified.
+
+"No," he mumbled. "No! I promised never to do it again. Look what happened then!"
+
+"I am your father!" yelled Alix. "I demand it! Freeze my health with your powers, do it. For me. For Feria. Freeze your own health too. We will survive. We will ..."
+
+Alix coughed and stopped moving. "We will visit those beautiful faraway planets Feria talked about. We will study the magical depths of the oceans. We will discover _why_ gravity is the way it is, son, there must be a _fascinating_ reason, like ... like ..."
+
+Permiox kept preparing a spell, kept crying for his father, but never executed it.
+
+All that left him was a small trickle of magic. A river through the air, if you will, that was blown away by the fires, out of the hideout.
+
+Permiox looked up at Wilplink. Together they might have saved Alix. He could have lowered the chances of him dying here to near zero. The elephant firefighters just outside might have saved Alix, if they didn't hate the fox too.
+
+Ruby captured, Mmhmmhmm dead, Boaris gone, the war likely a true nightmare now. Just accept you're a criminal. The world doesn't care about you; and you don't care about the world.
+
+"I don't care. I don't care anymore," were Wilplink's final words. He reduced the chances of burning to death, lost all expression in his face, then stepped through the fires and fled.

@@ -78,7 +78,7 @@ Ollimo felt _he_ shouldn't be doing this. There should be a group of beings inve
 
 The elephant was pushing the fire truck uphill on his own. His father had stayed behind because some weird chameleon passionately offered him a deal that was "too good to ignore".
 
-Somewhere in the distance, a bird crowed, a racoon reluctantly responded, lights turned on and off as if Amor shapeshifted into a dance floor, and eventually the fire alarm was raised once more.
+Somewhere in the distance, a bird crowed, a raccoon reluctantly responded, lights turned on and off as if Amor shapeshifted into a dance floor, and eventually the fire alarm was raised once more.
 
 Ollimo took the final steps to their home. Father hadn't reacted yet. He filled the barrels again with water from the aqueduct, then turned around to see the fire. This time, it raged on the city walls, most likely incited by Ardex while fighting. 
 

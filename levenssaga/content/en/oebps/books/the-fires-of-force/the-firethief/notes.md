@@ -6,7 +6,7 @@ I say this far too often, but this story was hard to write. Its initial seed was
 
 My intent, therefore, was to make this a short, silly, fun adventure as we follow some elephant firefighters. The very first ones, in fact.
 
-If you've read this story, you know it's actually one with the most serious themes (and consequences) in the entire Saga so far. What went wrong? Well, I wrote my way to an exploration of probably my two most common themes again: freedom and war. I also figured out how I wanted to approach the Saga slightly differently in the future (which will have a major impact) ... halfway through this story.
+If you've read this story, you know it's actually one with the most serious themes (and consequences) in the entire Saga so far. What went wrong? Well, I wrote my way to an exploration of probably my two most common themes again: freedom and meaning of life/reason to live. I also figured out how I wanted to approach the Saga slightly differently in the future (which will have a major impact) ... halfway through this story.
 
 As such, the story suddenly had to balance the build-up to a major moment (and some more backstory/characters), with a few fun little heists and the very small story of two elephant firefighters. I don't know if I succeeded in bringing it all together. There was an attempt.
 
@@ -108,15 +108,20 @@ I think this is far more interesting. It allowed me to plan more interesting sto
 
 **General:** change narration for chameleon to RANDOMLY use CAPITALIZED words!
 
+**General:** where can we save a few hundred words??
+
 **Somewhere:** Can I briefly add/demonstrate the more _involved_ explanation of Gravity, of the weak forces inside all particles with mess, somewhere?
 
 **Somewhere**: They have some saying about people being "dull" or "passionless/lifeless", which is inspired by Tresmo => "That person is fire-caged" or "The eye of Tresmo not be jealous of them." => They apply this to those people whose passion has been stolen by Alix (and/or for whom it doesn't return)
 
-**Near start:** maybe specifically mention there are 3 main food storages inside the city (which the Rescue Squad all wants to tear down)? So we have this clear target/countdown from the start?
+**Near start:** maybe specifically mention there are 3 main food storages inside the city (which the Rescue Squad all wants to tear down)? So we have this clear target/countdown from the start? => Nah, we mostly skipped this now. Have a different specific hint/countdown to the steps they end up taking.
 
+**Near start:** THE RHINO JEWELER. Set them up to clearly only do work for money and riches and status. They were one of the "influential" people in Amor that way. => Yes, they must be clearly motivated by THANKS and REWARDS and STATUS. Otherwise the ending really doesn't make much sense.
 
 **Chapter 2? 5?** Have Ruby state that they can't leave Amor. The walls are all guarded, and always fighting, so the entire Rescue Squad hasn't been able to leave the city basically since they were born.
 * This fits her idea of wanting to be "free", like the city is a jail. It also gives them a strong reason to END the war, to uplift restrictions at the walls.
 * Also have her state something like "Negotiations never improved anyone's life." and show her as clearly impatient, rushing into _big_ missions hoping for _big_ results far too soon.
+
+**Ending**: make sure it all makes sense and is easy to follow. It feels like it's hopping all over the place now, while at the same time giving slightly too little attention to major events like Alix' Death.
 
 @NOTE (Ch1): The fourth casualty is hidden by Ruby here, because it is Ardex, whom she greatly admires and has secret meetings with.
