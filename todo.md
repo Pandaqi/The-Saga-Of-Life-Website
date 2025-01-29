@@ -4,6 +4,8 @@ These to-dos are next on the list, as soon as possible.
 
 ## Metadata
 
+**REMOVE OEBPS.** Remove that folder, it's useless now. Remove the stuff for automatic EPUB creation; I have better and cleaner methods now, and it's all just wasting space.
+
 **BUNDLES**: Add sub-folders per _cycle_ for these too, to prevent that folder becoming an unorganized mess over time.
 
 Add more accurate **teaches** to the first several stories. (I often forgot to do this at the start, though many of them do not teach a specific historic event anyway.)

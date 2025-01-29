@@ -96,6 +96,11 @@ My younger self thought Greece had it all figured out. Now I know they had figur
 
 IN CONCLUSION. Chiefclouds + "Firebird blaming" gone, some simpler language, main three stories streamlined one step further.
 
+
+**General**: Can I really ILLUSTRATE the fact that energy heats up stuff by making its particles vibrate faster?
+* Can I use the firebirds as a metaphor? 
+* Can I use some magical property of the entire forest as a metaphor? => For example, Tresmo is a representation of the entire forest. When individual trees start _shaking/falling/vibrating_, the entire forest heats up. => YES, THIS IS WHY FIRES SUDDENLY START OR EXTINGUISH. It has to do with trees shaking throughout the forest, heating up the entire thing. Though having Tresmo comment about feeling hotter when more trees are falling is also crucial here.
+
 **General:** rewrite to have it make sense that "mostly tusk-wearing characters (includes Prebuha??) settle around Tresmo and become the Trusks"? But they should also be a MONARCHY somehow, so does Prebuha actually change her mind and say "giving everyone equal voice doesn't work, I'm grabbing total leadership as monarch myself"??
 
 **General:** It's called _Forest of the Fallen_ because so many tiny fires have been here before, causing thunderstrikes and fallen trees. These created natural _firebreaks_. Mention this specifically! There are many spots of ash, spots already plucked bare, and the fires automatically end when they go there? => Yes, this can remove any wishy-washy explanation about Alix being around or gaps in firewall or whatever.

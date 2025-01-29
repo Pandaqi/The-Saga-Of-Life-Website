@@ -65,7 +65,61 @@ It's a good tale. And one that shows the need to be critical. Of history, yes, b
 
 (It's also one of the reasons I dropped the need to be extremely accurate in my Saga of Life stories. Because, even with the Saga being as young as it is, there have already been stories that I based on research ... which later proved to be false. Or more nuanced. As we get more sources, as we learn more about history and science, I am sure some things in the Saga will simply be proven _wrong_ in a hundred years time. That's progress. I don't mind. But it's why I play fast and loose with the current facts on which I base these tales.)
 
+## What is light?
+On the surface, light energy is the simplest of them all. We can _see_ light. Everyone knows that the sun gives _energy_ to the earth.
 
+When you start asking questions though, such as "but what _is_ light energy and why is it produced?", you discover more depth to light than any story could cover.
+
+Such was my problem when creating this story. Do I stick to the simplest explanation, which means light energy is barely used in the story (because there isn't much to say)? Or do I try to go deeper?
+
+Well, I tried to go deeper. I tried to build on what was already explained in story 3 (_The Flickerless Flame_): all objects are made out of small particles (atoms), and how fast these _vibrate_ (shake and shuffle) determines the object's temperature.
+
+Why is that relevant? Because in most (practical) situations, light and heat are related! And I find that the easiest way to understand it.
+
+A new bit of information, from this story, is that atoms contain even _smaller_ particles. These have two opposite charges. Some are positive and some are negative. So that, when combined, the particle is "neutral" or "whole" again. 
+
+But it's still important that these are two different parts. This allows atoms to, for example, be super positive on the _left_ but super negative on the _right_. The charge isn't exactly the same everywhere in the atom, so to speak.
+
+Now, let's combine _heat_ and _light_.
+
+* When an object receives energy, its atoms start vibrating faster: it gets hotter.
+* This vibration is predictable. It has a certain _frequency_: how often the atom goes back and forth per second. (Like wave crests hitting a beach one after the other, with the exact same time between each wave.)
+* So, with a certain frequency, the space around the atom flips between positive, negative, positive, negative, and so forth. (Like plucking a string on a guitar: it oscillates between two different positions until it dies out and becomes still again.)
+* This is called an (electromagnetic) _wave_. And that's what we can see as _light_. (Or in the case of plucking that guitar string, it produces a _sound wave_, which we can hear as _sound_.)
+
+In other words, **all objects (with heat) are always emitting light**. It's simply an automatic byproduct of atoms vibrating on a frequency. And the specific frequency determines the light's _color_.
+
+Most of that light, however, **we can't see**. Our eyes are tuned to the frequencies around sunlight, after years of evolution. Any "electromagnetic wave" with a frequency lower (_infrared_) or higher (_ultraviolet_) than what we can see, is, well, invisible to us.
+
+## Going deeper
+If it helps, you can also understand this in a deeper way. When an object receives energy, those negative parts of the atom are "excited". As if they drank some energy drink, or ate too much sugar, the negative parts want to run away. 
+
+The atom doesn't like that; it needs to keep all its children together! So it _yanks_ them back into shape. That energy is then converted into creating a new particle: a _photon_. This yanking happens on a frequency, so the photons radiate from the object as a _wave_. 
+
+(Now, remember that the entire idea of the "photon" was only imagined some hundred years ago by Albert Einstein. And they came up with it because their light calculations just _didn't work_ if such a particle did _not_ exist. But before that time, nobody could have imagined that a weightless particle existed that carried light energy.)
+
+In scientific terms, light is described by _intensity_ (how bright it is; this is the energy contained in the light wave) and _wavelength_ (which is just 1 divided by that _frequency_; as stated, this is color). In fact, objects emit loads of different wavelengths at the same time, but your eyes only see the color that's most prominent.
+
+## Light Energy
+Okay, so that explains how light waves appear. How to relate it back to energy?
+
+The same way as always. Energy must be conserved: it can't be added or lost. 
+
+First of all, remember the explanation above. When you put _energy_ into an object, it heats up _and_ emits light, always. It's just that we often can't see the light it emits.
+
+In other words, that energy is _converted_ into heat energy and light energy. Yes, light itself carries energy. Rays of light are electromagnetic waves, and they have energy.
+
+(Lightbulbs, for example, work by simply heating up the metal wire inside to an insane temperature. This, as you know no, automatically creates very bright light. It also means that old lightbulbs were very inefficient, as a lot of that electricity was wasted on generating heat first. Which is not the thing for which you bought the lightbulb.)
+
+But, as you know, light can be stopped. If light hits an object, it doesn't go further. The space _behind_ that object is now cast in shadow!
+
+So, where does the energy of the light go, when it hits something? It does the reverse! It is _absorbed_ by the object. The light displaces the atoms it hits, creating a bit of _heat_ again.
+
+(This is why people don't recommend wearing a black tight shirt in the summer. Because that color absorbs more of the heat from sunlight than, say, white. Any energy that isn't absorbed is simply reflected back as weaker light.)
+
+This is why the sun works. Or, rather, why our entire ecosystem and planet are able to exist thanks to sunlight. Because sunlight _is_ energy. And when it hits the Earth, it heats up the soil, giving us livable temperatures. And when it hits a tree, it gives it the energy to grow (leaves, branches, fruits, nuts).
+
+And now you also know why the sun is _very hot_. Because of its high temperature, it automatically emits light, and that's what arrives on Earth as sunlight about 8 minutes later.
 
 ## @TODO: Revisions
 @TODO
