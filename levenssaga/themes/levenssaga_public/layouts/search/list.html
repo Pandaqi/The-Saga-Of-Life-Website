@@ -1,5 +1,4 @@
 {{ define "main" }}
-
   <!-- testing PageFind -->
   <link href="/pagefind/pagefind-ui.css" rel="stylesheet">
   <script src="/pagefind/pagefind-ui.js" type="text/javascript"></script>
@@ -8,29 +7,32 @@
     const urlString = window.location.href;
     const paramString = urlString.split('?')[1];
     const queryString = new URLSearchParams(paramString);
+
+    // this allows instantly querying stuff from URL
     let searchQuery = null;
-    
-    for (let pair of queryString.entries()) {
+    for (let pair of queryString.entries()) 
+    {
       if(pair[0] != "query") { continue; }
       searchQuery = pair[1];
       break;
     }
 
-    window.addEventListener('DOMContentLoaded', (event) => {
-      const pageFindParams = { 
+    window.addEventListener('DOMContentLoaded', (event) => 
+    {
+      const pageFindParams = 
+      { 
         element: "#search",
       }
       const ui = new PagefindUI(pageFindParams);
+      if(!searchQuery) { return; }
 
       // input events only go through player keystrokes by default
       // that's why we have to dispatch a fake input event
-      if(searchQuery) { 
-        const searchInputs = document.getElementsByClassName("pagefind-ui__search-input");
-        for(const inp of searchInputs)
-        {
-          inp.value = searchQuery;
-          inp.dispatchEvent(new Event('input', {bubbles:true})); 
-        }
+      const searchInputs = document.getElementsByClassName("pagefind-ui__search-input");
+      for(const inp of searchInputs)
+      {
+        inp.value = searchQuery;
+        inp.dispatchEvent(new Event('input', {bubbles:true})); 
       }
     });
   </script>
