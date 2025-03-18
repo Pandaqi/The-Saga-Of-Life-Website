@@ -10,7 +10,7 @@ I noticed a cycle of historic events where some emperor or king was actually qui
 
 As such, I changed this idea to be more about _that_. To show the events before and after Nero. To show leadership, betrayal, and more, instead of just that one disaster. I also did this to prevent becoming repetitive, with several stories (in this cycle) focusing on large fires getting out of hand ;)
 
-(The idea to tell the story from the perspective of Tresmo was something I wanted to do at _some point_ anyway. I also try to have ~2 stories per cycle with a really weird structure. Thus, I decided to apply that idea to _this_ story.)
+(The idea to tell the story from the perspective of Tresmo was something I wanted to do at _some point_ anyway. I try to have ~2 stories per cycle with a really weird structure. Thus, I decided to apply that idea to _this_ story.)
 
 ## Agrippina vs The Empire
 The story of Nero really starts with the decade before him. Julius Caesar is betrayed, and chaos ensues, for nobody knows who leads the Roman Republic now. To keep it from falling apart, the new leader (Augustus) gives himself more and more power.
@@ -109,7 +109,7 @@ First of all, remember the explanation above. When you put _energy_ into an obje
 
 In other words, that energy is _converted_ into heat energy and light energy. Yes, light itself carries energy. Rays of light are electromagnetic waves, and they have energy.
 
-(Lightbulbs, for example, work by simply heating up the metal wire inside to an insane temperature. This, as you know no, automatically creates very bright light. It also means that old lightbulbs were very inefficient, as a lot of that electricity was wasted on generating heat first. Which is not the thing for which you bought the lightbulb.)
+(Lightbulbs, for example, work by simply heating up the metal wire inside to an insane temperature. This, as you know now, automatically creates very bright light. It also means that old lightbulbs were very inefficient, as a lot of that electricity was wasted on generating heat first. Which is not the thing for which you bought the lightbulb.)
 
 But, as you know, light can be stopped. If light hits an object, it doesn't go further. The space _behind_ that object is now cast in shadow!
 
