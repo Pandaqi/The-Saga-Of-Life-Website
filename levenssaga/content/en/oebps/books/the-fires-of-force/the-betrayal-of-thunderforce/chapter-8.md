@@ -2,110 +2,126 @@
 title: A Little Birdie Sung
 weight: 8
 ---
+Sinnika stood behind his desk and wrote the recent events into his history books. He tried to be quick about it, worrying that Empero might enter and read it. Since losing popularity, the emperor wasn't in a particularly good mood. Sinnika's whispering fell on deaf ears.
 
+_I told Empero not to rebuild his palace larger, and certainly not on the ashes of other animal's homes. And CERTAINLY not including a "singing hall" that was larger than all temples in Amor combined. It was rude, it was extravagant, it was selfish. But he didn't listen to me anymore. This was how it started with Gatagrip too: he started ignoring his mother's whispers, and not long after he gave the command to murder his own mother!_
 
-@TODO
+_Yes, I spoke with the messenger. The one who delivered that dreadful message. The one who saw, with his own eyes, how Empero's experiments with thunder caused the Great Fire. One of many who heard the mad emperor SING, as if nothing was happening, while the inhabitants of Amor struggled for their lives!_
 
+_I have been a tutor, a mentor, maybe more to Empero almost his entire life. As can be read in my earlier writings, I care for him like he were my son. But I fear I have to move against him. They offered me the throne, but I am not worthy and I honorably declined. Still, we need to act against this mad tyrant---_
 
+The door opened. Empero barged in; Sinnika instantly turned around and shoved the pile of papyrus away.
 
+"I think I've figured it out," said Empero with a smile. "Oh, Sinnika, you will love this."
 
+"Figured what out?"
 
+Empero frowned. "Why the _energy_ was different at the top and the bottom of the thunderstrike. Why, Sinnika, it's all I've been thinking about these past few months!"
 
+He slammed Alix' heavy book, which he could carry much more easily now, right on top of Sinnika's writing. "Alix talks a lot about heat energy. About fires. About how those tiny particles, which make up everything, vibrate faster when something is hotter."
 
+"Yes, yes, I read it myself."
 
-OUTLINE CH6 (Turning Tides / Tutor of Toxotes):
-* Nero more research and experiments, more warnings about fire issues and stuff but he doesn't listen. 
-	* This is really our final chance to really set up the scientific, theoretic backbone of it. The REALIZATION ALL HEAT EMITS LIGHT? => Also at the end "Or maybe, wherever there's fire, there will be light too. If history was always going to repeat itself, Tresmo thought, then let this be how it is."
-	* And he think she figured it out, and wants to revive Alix, so he does that experiment now?
-		* Nero is like "Sinnika will write about me! This is what gets my name in the history books, for now and forever!"
-* Nero trying again and killing her for good now.
-* Tides turned around Nero's approval. 
+"Well, the Great Fire of Amor was caused by _thunder_, wasn't it? I redirected thunder straight at homes of innocents, and watch how easily they burn! Ha ha!" Empero's tail pointed at the candles hanging from the wall, the only light in the room. "I thought that thunder was just _light energy_. But no, it's also _heat_! Once the thunder has reached the ground, a lot of its energy has evaporated as heat, perhaps scorching the grass. That's why the energy left is _less_ on the ground."
 
-OUTLINE CH7+CH8 (The Great Fire + A Little Birdie Sung):
-* He works really hard to save everyone+passes improved laws, but also builds a huge temple for himself on the ashes. The elite start the rumor---helped by Tattlerat---that NERO did it. This causes a secret betrayal/assassination attempt, which is foiled.
+Sinnika stroked his beard. "Alright. And what does that mean?"
 
-@IDEA: Use the "whispering" (by Sinnika + Gatagrip) to explain the "yanking electrons back to create waves" part? Empero would try stuff, Sinnika would yank him back. Empero would want to go _there_, Gatagrip would yank him back.
+"It was as you always said. Oh Sinnika, you've always been the wisest person I know!" Empero presented his theory with a flourish. "I propose that _heat energy_ and _light energy_ always appear at the same time."
 
-OUTLINE CH9 (The Living Torches):
-* Nero doubles guard and seeks another scapegoat: the Christians. He unleashes terror and mayhem on the people of Amor (which also kills Seneca).
-* Death of Sinnika is a MAJOR CLIMAX THING.
-* Turning people into HUMAN TORCHES, as he finally realizes the secret of light and energy, is a MAJOR CLIMAX THING.
-* Neros banishment is a MAJOR CLIMAX THING.
+"Hmm. But if they always appear together, aren't they just the _same_ energy? Light-heat energy? A mixture?"
 
-OUTLINE CH10 (Epilogue):
-* The Senate has a long debate, weighs the facts, then declares Nero public enemy (which means he may be killed by anyone, no questions asked). Nero flees in fear, commits suicide.
-* We jump _forward_ in time now (because the tree is still standing where it stands!) Rome is without a leader. Power vacuum---the elite that ousted Nero based on _lies_, it is revealed now, all make a play for that throne and we get some facts about how that played out.
-* "And so, in the end, was Empero a good emperor? Was the saga of Gatagrip and Empero one that was _positive_ for Amor, or _negative_? Or was one half of it positive, and one half negative, leading to a neutral emperor?" => something like this to get back to the theme again
+"No. Maybe. Light and warmth certainly _feel_ like different things, right? I don't know, I need to do more experiments. For Alix. For progress! I'll make everything right and be the best emperor ever!"
 
+"Good work, boy. Please don't set Amor on fire ag---"
 
+Empero left. Sinnika finished his writings, then immediately moved to distribute them among the most powerful Elite.
 
+___
 
-@TODO: Maybe Sinnika actually meets with Tresmo and talks with them still?
+With most of Amor either ruined or being rebuilt, Tresmo received a _fourth_ functionality: meeting place. It was the only location mostly untouched by the fire. It was in the middle of all the destroyed districts, and close to where Empero was rebuilding his larger palace.
 
-@TODO: Mostly hammer on the perspective of the Tree, seeing this _again and again and again_, the cycle of betrayal and killing for power just never ends.
+He woke up early each day from Commonfolk sharing food, materials, or advice on how to build a stronger home. He fell asleep late each day surrounded by homeless animals.
 
+It had been a while since he'd interacted with so many animals. The cage of eternal fire around him had isolated him for too long, and he enjoyed the flocks of birds settling on his branches now. 
 
+"A little birdie told me," twittered a bird, "that it was Empero who set Amor on fire himself!"
 
-Claudius' ascension to the throne is also interesting ... found shivering after current emperor died, loved by army and paid them handsomely for proclaiming him emperor. Did a lot, and a lot of good, for the empire, and denied divine blessings and other dictatorial stuff. But his "infirmity" of character (being too influenced by wives and other opinions) eventually broke the Senate.
+"We mustn't stand for this," chittered another bird. "An emperor who burns his own city? And is laughing and singing as it burns? He can't be trusted anymore."
 
-The sources all state Aggrippina murdered him---but have it revealed at the end that it was probably just malaria/fever (Febris; the God of Fever)
+"We should've seen it coming," replied another. "He murdered his own mother! He is clearly mad."
 
+"What will he do next? Poison all the Senators? He is just like his mother. Only out for power and vengeance."
 
+Tresmo was appalled to hear this. It did not match all that he had personally seen from Empero. He wanted to interrupt, but couldn't get a word past the hundreds of chatting, tweeting and chirping birds.
 
+"Well," whispered a larger bird conspiratorially, a word which here means "he whispered to make sure nobody overheard, not because he had a sore throat". He continued: "A little birdie told me that we're not alone in our thoughts. We have found a soldier among Empero's staff who shares our concerns. We plan to convince him to ... you know ... _remove_ the emperor tonight."
 
-### Outline
+"You mean to ... make the emperor _permanently sleep_?"
 
+"Yes ... yes ... Empero shall be _dealt with_ ..."
 
-The trick here is that we get two types of scenes. Those near the tree---which are a hundred percent _true_, for the tree witnessed them. And scenes in random other places with the elite---which are _tainted/subjective_. The only reason the tree knows them, is because they wrote their account on magical papyrus _made from that tree (Tresmo)_.
+"He will be ... _struck off the list_?"
 
+Tresmo wanted to interrupt again. The same thing as always. Another plot. Another assassination. Another emperor kicked off the throne through foul means. It was never going to change, was it? He had seen the cycle for a thousand years, and he imagined he'd see it happen until he died. Or could he stop it?
 
+But no, his interruption was lost amongst the clouds. His slow and deep voice was no match for hundreds of birds singing over each other.
 
+"But who will take his place? He has no children. Gatagrip has murdered all close family."
 
+"Oh, the Senators are fighting it out," said the very conspiratorial bird. "A little birdie told me that their eye has fallen on Empero's tutor, Sinnika. A wise fox. Served well all these years. We have his writing to thank for the truth coming out. He always listened to the needs of the Elite, and you might even say he is one of them himself."
 
+"A little birdie told _me_," said another species of bird, "that he already accepted! And I think he's a great choice, yes, yes. Finally a good emperor."
 
+"Then let's wait no longer."
 
+From all that Tresmo heard, he concluded that this plot against Empero was not actually a secret plot. The Commonfolk had quickly changed their opinion of their beloved emperor. The Elite didn't even need to do anything! 
 
+That night, a band of very Common boars, badgers and birds planned to _deal with_ Empero. They didn't want a mad wolf on the throne any longer. They really, really frowned upon killing your own mother and your own city. 
 
+They were all slaves, but they were _freed slaves_. A phrase which here means "thanks to Empero's laws they were able to sue their owners and gain freedom again". Freedom that would now be used against him.
 
-@NOTE: Remember that they are cursed with leaky buckets---or, well, EVERY container leaks water for them. The elephants have since died, and because there hadn't been any serious fires anymore, nobody took it seriously and the firefighting practice died out again. Only Augustus brought it back after a chameleon kept yapping about it.
+As the moon hid behind Empero's favorite tower, perhaps scared of what they might see tonight, the beings snuck towards the entrance. The emperor could be heard singing high above. The corrupt soldier, a massive wolf in plated armor, stood guard.
 
+"Step aside," said the birds impatiently. "And pretend you didn't see anyone enter tonight."
 
+"What's in it for me?" responded the guard. 
 
-@IDEA (STORY): The "transactional gods". The world has a bunch of gods with well-defined powers and stuff, like the Greek gods. They don't care about the world, nor are they especially selfish. They simply establish rules like "for paying X, you can buy power Y". 
-* For example: "we'll murder your neighbor if you build a temple with statues of us" 
-* This way, people know they can always go there and get what they want if they pay the price. 
-* A very interesting take on gods and powers, which might be in Saga of Life (but it'd be _demigods_ doing this), or a different story.
+"Justice. An honorable mention in Sinnika's history books."
 
-SOME NOTES ON FIRES:
-* Firebreaks were one of the oldest methods: simply pull down all housing/burnable material around the fire before it gets there. => This can be mentioned in Flickerless Flame, or do they only learn that here?
-* Firefighting fell into disarray in the middle ages. Especially as religion said that it was simply a "divine judgment" or "god's curse" when your house burned down.
-* Augustus started with the "vigiles" (slaves, both police and firefighting). Though around 250 BC the invention of a high-pressure pump made this possible at all => attribute this to Toxotes?
-* When Great Fire of London broke out, all immigrants (from countries with whom they were at war) were basically blamed. Causing them to not only fear fire, but most of all fear violence from their neighbors just based on those rumors.
-	* This was worsened by the mayor being indecisive, not allowing firebreaks until it was basically too late.
-* During Great Fire of Rome, the vigiles mostly just looted and abused the situation.
-* Afterwards, some regulations by Nero were: "Laws that called for more public access to water and prohibited buildings from sharing a common wall."
-	* In general, great fires lead to actual fire/building code laws, and actually taking that seriously.
+The wolf shifted on his feet. He focused on cleaning and sharpening his sword. It was a bite-sword, a common weapon for quadrupeds. The middle was made of tough rope and leather, while both ends were sharp, and wolves could use them by taking the middle part between their teeth.
 
-THIS RESEARCH WOULD DO WELL IN HOPPING HOMES. Building a story around a major fire, the consequences, losing homes, fire hazard in general => yes, I already planned that story with public services anyway, include this there!
+Empero's singing suddenly stopped. Everyone held their breath. Then he continued.
 
+The guard looked at the assortment of Commonfolk. They were so Common that they carried no weapons, except for some sharp twigs and random pieces of metal they could collect. They relied on the guard to actually murder the emperor---without that, they were powerless.
 
+"I wonder ..." said the guard slowly. "Will history speak of me honorably if I kill the Amor emperor? Or will it mention me favorably if I uphold the law and do what I'm paid to do?"
 
+"They don't pay you enough," tried one of the freed slaves.
 
-## Revision
-**Ch1:** Also mention Crassus' fire police thing? Feels like that should be mentioned in chapter 1 though, when Augostos is mentioned, because _he_ created the Vigiles.
-* @IDEA: Briefly use/show Crassus' corrupt firemen, and the "insurance seal" on homes, here??
+"Gatagrip murdered all her rivals, and look how often she's mentioned in Sinnika's writing," tried another.
 
-**Ch2-3?**: State somewhere that "They say Gatagrip once visited a seer on the island, who told her: _Your son will be emperor and he will be your death_. And she responded: _Let him kill me, as long as he becomes emperor._"
+"You will help us," tried a bird more soothingly, "you know it's right in your heart. Empero is not a good influence on Amor anymore."
 
-**Ch4-5:** Around this time, Gatagrip has Britannicus (Kladios' other son) killed too. Mention that? How to involve that storyline too?
+The guard raised his sword. It was unbelievably sharp now, evidenced by its glint in the returning moonlight. He shifted before the entrance, silent for a long while, until he waved and went inside. "Follow me."
 
-**Ch5:** Probably streamline and make the Jurads the Krystians anyway, as they'll be persecuted later + I can set up they're disliked anyway.
+The freed slaves grinned at each other. They were quick to race after the guard, up the stairs, up again, as the guard tapped the walls with his sword.
 
-**Ch6 (probably):** State that they obviously use Roman Numerals at this point, which don't have 0 or negative numbers. But that our narrator "translates" for our convenience.
+_In the end though, dear reader, the guard was right. The reason he's mentioned in this story is because he upheld the law and did what was right. If he had murdered the emperor that night, this story might not even have been written._
 
-@TODO: Chapter 6, make Empero _responsible_ for setting Amor on fire. (Device explodes, emits thunder again but horizontally, whatever.) Make him laugh maniacally, descriptions of a mad scientist, etcetera => at the end, reveal/hint that this was all just speculation to make Nero look bad, as Tresmo did not see this first-hand.
-* This also makes it more likely that he'd be singing from his favorite tower or whatever
+On a higher floor inside the tower, more guards were stationed. As soon as they entered the floor, the "corrupt" guard jumped and positioned himself _behind_ the group. They were now trapped on both sides by armored guards, high in a tower, and their only defense was a bent metal pipe.
 
-**Somewhere (not verbatim, something like this):** mention that they obviously didn't have electricity yet, or anything close. Of course, the Ancient Turtles were gifted Elektro by the gods, but that gift had been taken away just as swiftly when they became too powerful and turned against them in the First Conflict. Two companions---a turtle and a tortoise---were making sure the secret underwater city stayed secret.
+Needless to say, they were captured and punished. 
 
-**General:** I should probably give a more CONCRETE example of the Commonfolk love/Elite hate for him. And how, after he kills his own mother, this falls away/is twisted into something clearly worse. (Show don't tell.)
+Empero did it himself. He had heard it all happen and came down the stairs. When he saw how close he'd come to being assassinated, something snapped inside of him.
+
+"I didn't set Amor on fire!" he yelled. "It's a lie! Someone is trying to hurt me, to get me murdered, to get me off the throne! What did I ever do to you? Have I not been a good emperor?"
+
+Silence.
+
+He studied the freed---but now recaptured---slaves. They wore pendants, necklaces, or clothes that marked them as Krystians. Ever since the incident with Krystians, the one that caused him to finally exile his mother, he'd hated their guts. He'd expanded the area of the Amor empire where only _one_ faith was allowed, namely that of the Amori Gods.
+
+"I will tell you who set Amor on fire," he said, slurring his words in anger. He ripped the bite-sword out of the guard's teeth and walked away, as if he were marching into war himself.
+
+"It was the Krystians! They believe their fake gods told them to set Amor on fire! They have been a plague to Amor, and this is the final straw! Yes, yes, I would _never_ hurt my beautiful city, but Krystians would. And look at the devastation they brought! A city in ashes!"
+
+As he left his favorite tower, he barked one final order. "I want _all_ Krystians rounded up, dragged from their bed, so I can publicly execute them before the week is over!"

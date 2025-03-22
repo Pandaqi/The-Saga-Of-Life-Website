@@ -122,4 +122,38 @@ This is why the sun works. Or, rather, why our entire ecosystem and planet are a
 And now you also know why the sun is _very hot_. Because of its high temperature, it automatically emits light, and that's what arrives on Earth as sunlight about 8 minutes later.
 
 ## @TODO: Revisions
-@TODO
+
+**Ch1:** Also mention Crassus' fire police thing? Feels like that should be mentioned in chapter 1 though, when Augostos is mentioned, because _he_ created the Vigiles.
+* @IDEA: Briefly use/show Crassus' corrupt firemen, and the "insurance seal" on homes, here??
+
+@NOTE: Remember that they are cursed with leaky buckets---or, well, EVERY container leaks water for them. The elephants have since died, and because there hadn't been any serious fires anymore, nobody took it seriously and the firefighting practice died out again. Only Augustus brought it back after a chameleon kept yapping about it.
+
+**Ch2-3?**: State somewhere that "They say Gatagrip once visited a seer on the island, who told her: _Your son will be emperor and he will be your death_. And she responded: _Let him kill me, as long as he becomes emperor._"
+
+**Ch4-5:** Around this time, Gatagrip has Britannicus (Kladios' other son) killed too. Mention that? How to involve that storyline too?
+
+**Ch5:** Probably streamline and make the Jurads the Krystians anyway, as they'll be persecuted later + I can set up they're disliked anyway.
+
+**Ch6 (probably):** State that they obviously use Roman Numerals at this point, which don't have 0 or negative numbers. But that our narrator "translates" for our convenience.
+
+* @TODO: Chapter 6, make Empero _responsible_ for setting Amor on fire. (Device explodes, emits thunder again but horizontally, whatever.) Make him laugh maniacally, descriptions of a mad scientist, etcetera => at the end, reveal/hint that this was all just speculation to make Nero look bad, as Tresmo did not see this first-hand.
+	* This also makes it more likely that he'd be singing from his favorite tower or whatever
+* Nero is like "Sinnika will write about me! This is what gets my name in the history books, for now and forever!"
+
+**Ch10**: Reiterate "nothing's gonna change my world" (from Tresmo's perspective, probably) to close off that thread nicely here.
+
+**FORGOT TO INCLUDE THIS: Tantalus (Hell Punishment)** => always hungry and thirsty, but whenever they try to grab food, it moves away from them
+* For Nero/Aggrippina's sins.
+* A Gigant (or grandchild) of Tresmo is on that island, and provides this punishment to Empero/all who are banished there? **Yes, good idea.**
+
+**Somewhere (not verbatim, something like this):** mention that they obviously didn't have electricity yet, or anything close. Of course, the Ancient Turtles were gifted Elektro by the gods, but that gift had been taken away just as swiftly when they became too powerful and turned against them in the First Conflict. Two companions---a turtle and a tortoise---were making sure the secret underwater city stayed secret.
+
+**General:** I should probably give a more CONCRETE example of the Commonfolk love/Elite hate for him. And how, after he kills his own mother, this falls away/is twisted into something clearly worse. (Show don't tell.)
+
+**Somewhere (Early):** Make it clear that Sinnika is a Stoic. He embraced the Stoic ideal that the entire world was a community, advocating, for example, the humane treatment of slaves. (And that he tried to retire several times but wasn't allowed to do so?) (And that Sinnika was "virtual ruler" of the Amor world for "the good years", in which Empero still listened to his whispers?)
+
+**Maybe:** Maybe Sinnika actually meets with Tresmo and talks with him still?
+
+**Maybe:** Mostly hammer on the perspective of the Tree, seeing this _again and again and again_, the cycle of betrayal and killing for power just never ends.
+
+**Maybe:** The sources all state Aggrippina murdered him---but have it revealed at the end that it was probably just malaria/fever (Febris; the God of Fever)

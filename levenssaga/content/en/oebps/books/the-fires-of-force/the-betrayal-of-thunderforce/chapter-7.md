@@ -46,11 +46,11 @@ Some days after the fire, a new throne was hastily built on top of the ashes. No
 
 As Empero lounged on his new throne, he rapidly declared new laws.
 
-"I will amend the building codes," he said formally. "No homes shall be built too close to each other. Materials used are not allowed to be too flammable. And I want a maximum distance of ten streets to the nearest source of water."
+"I will amend the building codes," he said formally. "No homes shall be built too close to each other. Materials used are not allowed to be too flammable. And I want a maximum distance of ten streets to the nearest source of water. And I shall create a proper fire brigade, well-funded, to ensure an accidental spark can be stopped before it becomes a disaster."
 
 Nobody could protest that. Sensible changes. Changes he should've made _before_ a Great Fire destroyed three-quarters of his beloved city, and he knew it. Tresmo saw him shed a tear every single day that the fire raged.
 
-"And most of all," said Empero, "we shall rebuilt the palace, five times as large as before!"
+"And most of all," said Empero, "we shall rebuilt my palace, five times as large as before!"
 
 Because of the fire, the area needed for this had become available. And that's when the tides of his popularity truly changed, as the first false rumors reached his ears.
 
